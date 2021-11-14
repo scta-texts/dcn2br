@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="243"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e33207"><!-- l1c24 -->
+            <head xml:id="dcn2br-e33207-Hd1e106">Caput 24</head>
+            <p xml:id="dcn2br-e33207-d1e109">
+      <!--276.xml-->
+               <pb ed="#A" n="243"/>
+               <lb ed="#L" n="1"/>CAP. XXIIII. 
+      <lb ed="#L" n="2"/>Obiicit contra immutabilitatem diuinae scientiae. 
+      <lb ed="#L" n="3"/>&amp; respondet. 
+    </p>
+            <p xml:id="dcn2br-e33207-d1e122">
+               <lb ed="#L" n="4"/>OBijcitur autem contra immutabilitatem diuinae scientiae isto modo.  
+      <lb ed="#L" n="5"/>Deus sciuit Christum pati, &amp; nunc nescit, ergo scientia sua mutatur. 
+      <lb ed="#L" n="6"/>Item Deus nesciuit hoc instans esse, &amp; nunc scit. Item Deus praesciuit 
+      <lb ed="#L" n="7"/>Christum pati vel passurum, &amp; nunc non praescit. Itemque Iudith 8. 
+      <lb ed="#L" n="8"/>Illa post illa cogitasti. Pro istis autem sciendum quod Deus aliter 
+      intel<lb ed="#L" n="9" break="no"/>ligit complexa quam nos; Nos enim semper intelligimus talia 
+      compa<lb ed="#L" n="10" break="no"/>rando ad praesens instans, Omnis enim propositio componitur ex 
+      no<lb ed="#L" n="11" break="no"/>mine &amp; verbo, communiter loquendo de verbo, sicut Priscianus, &amp;  
+      <lb ed="#L" n="12"/>caeteri Latini loquuntur, vt comprehendit praesens, praeteritum, &amp; futurum; non sicut 
+      lo<lb ed="#L" n="13" break="no"/>quuntur Graeci, qui teste Aristotele 1. peri hermenias, vocant verbum tantum verbum 
+      prae<lb ed="#L" n="14" break="no"/>sentis temporis, reliqua vero casus verborum; &amp; vt patet ibi, omne verbum consignificat 
+      <lb ed="#L" n="15"/>tempus; Currit enim consignificat tempus praesens, scilicet nunc esse cursum, Curret vero 
+      <lb ed="#L" n="16"/>vel currebat quod complectitur scilicet praeteritum vel futurum; &amp; hoc manifestum est, quia 
+      <lb ed="#L" n="17"/>currebat significat fecisse cursum prius secundum tempus, curret vero futurum cursum 
+      poste<lb ed="#L" n="18" break="no"/>rius; &amp; vt patet 5. Metaph. 16. Prius secundum tempus in praeterito est remotius a nunc 
+      <lb ed="#L" n="19"/>praesenti, in futuro vero quod est propinquius ipsi nunc, ipso nunc vt principio, &amp; primo ente 
+      <lb ed="#L" n="20"/>ad quod alia comparantur. Nos autem propter debilitatem intellectus nostri non possumus 
+      <lb ed="#L" n="21"/>distincte cognoscere omnes particulas temporis semper fluentes, &amp; continue succedentes; 
+      <lb ed="#L" n="22"/>Ideoque accipimus praesens instans quod de toto tempore est actualissimum, &amp; nobis 
+      notissi<lb ed="#L" n="23" break="no"/>mum, &amp; ponimus illud pro signo, &amp; termino quodam certo, per comparationem ad quod seu 
+      <lb ed="#L" n="24"/>quem, intelligimus praesentia, praeterita, &amp; futura. Quare &amp; propositiones nostrae 
+      significan<lb ed="#L" n="25" break="no"/>tes cum tempore, necessario significant isto modo, scilicet relatiue, &amp; comnaratiue ad praesens 
+      <lb ed="#L" n="26"/>instans quodcunque. Ideoque haec propositio Christus patitur, continue diuersum significat,  
+      <lb ed="#L" n="27"/>&amp; diuersum, secundum quod diuersa instantia fiunt praesentia successiue, &amp; Christus 
+      patieba<lb ed="#L" n="28" break="no"/>tur, &amp; patietur, consignificant pari modo, sicut species in oculo fixo vidente in certo situ 
+      par<lb ed="#L" n="29" break="no"/>tes fluminis continue decurrentes, continue significat diuersam partem fluminis, &amp; diuersam; 
+      <lb ed="#L" n="30"/>&amp; sicut tales propositiones in anima sic videntis, ista pars directe mihi obijcitur in hoc situ, &amp; 
+      <lb ed="#L" n="31"/>haec pars est superior, haec vero inferior, vel haec pars est prior, &amp; haec posterior, semper alia &amp; 
+      <lb ed="#L" n="32"/>alia //repraesentans, in comparatione ad varias partes, varijs vicibus oculo praesentatas. Quare 
+      <lb ed="#L" n="33"/>&amp; haec propositio Christus patietur aut patitur, quae aliquando fuit vera, nunc est falsa; &amp; haec 
+      <lb ed="#L" n="34"/>proposito Christus patiebatur, quae aliquando fuit falsa, nunc est vera; &amp; quia scientia, 
+      credu<lb ed="#L" n="35" break="no"/>litas, &amp; opinio nostra sunt per propositiones huiusmodi, variantur similiter sicut illae. Deus 
+      <lb ed="#L" n="36"/>autem ex sua infinitissima claritate comprehendit omnes res particulares, &amp; omnes particulas 
+      <lb ed="#L" n="37"/>temporis, sicuti sunt, verissime per seipsum: Non enim indiget comparatione vel relatione 
+      <lb ed="#L" n="38"/>praeteritorum vel futurorum ad praesens instans, more infirmitatis humanae, sed intelligit 
+      om<lb ed="#L" n="39" break="no"/>nia simul &amp; praesentialiter aeque clare; &amp; hoc est, quia non scit per tales propositiones 
+      verba<lb ed="#L" n="40" break="no"/>les mutabiles, sed persuam essentiam, &amp; propriam voluntatem, quae semper vniformiter, &amp; 
+      in<lb ed="#L" n="41" break="no"/>uariabiliter omnia repraesentant. Quemadmodum si poneretur visus punctualis quiescens in 
+      <lb ed="#L" n="42"/>centro coeli circumuoluti, &amp; videret per extramissionem &amp; actiue non passiue, sicut Deus res 
+      <lb ed="#L" n="43"/>videt; videret semper vniformiter, sine omni mutatione sui, circumgiratas continue singulas 
+      <lb ed="#L" n="44"/>partes coeli, &amp; eandem partem nunc in oriente, nunc in meridie, nunc in occidente: Sic &amp; 
+      <lb ed="#L" n="45"/>Deus omni eodem modo ex parte sui intrinsece videt aliquid primo futurum, secundo 
+      prae<lb ed="#L" n="46" break="no"/>sens, tertio vero praeteritum; &amp; hoc est quia non videt patiendo quicquam a visis, seu passiue, 
+      <lb ed="#L" n="47"/>sed agendo potius seu actiue, sicut sunerius est ostensum. Hanc autem causam diuersitatis 
+      sci<lb ed="#L" n="48" break="no"/>entiae Dei &amp; nostrae insinuans August. 15. de Trin. 13. ita dicit; Deus non aliter sciuit creata, 
+      <lb ed="#L" n="49"/>quam creanda; non enim eius sapientiae aliquid accessit ex eis; longe est huic scientiae 
+      scien<lb ed="#L" n="50" break="no"/>tia nostra dissimilis, quia in illius naturae simplicitate mirabili, non est aliud sapere, aliud esse, 
+      <lb ed="#L" n="51"/>sed quod est sapere, hoc est esse; nostra vero scientia est in rebus plurimis, propterea &amp; 
+      amissi<lb ed="#L" n="52" break="no"/>bilis est, &amp; receptibilis, quia non hoc nobis est esse quod scire. Quamobrem essentia Dei, seu 
+      vo<lb ed="#L" n="53" break="no"/>luntas quae eadem est, sicut primo ostendebat intellectui diuino Christum passurum, ita omni 
+      <lb ed="#L" n="54"/>eodem modo post ostendit sibi Christum pati, &amp; nunc ostendit Christum passum fuisse, ideoque 
+      <!--277.xml-->
+      <pb ed="#A" n="244"/>
+               <lb ed="#L" n="1"/>Deum scire haec tria, imo potius hoc vnum tripliciter nominatum est idem scire &amp; eode modo 
+      <lb ed="#L" n="2"/>omnino, sicut si nos haberemus aliquam vnam propositionem vniformiter significantem 
+      na<lb ed="#L" n="3" break="no"/>turaliter vel ex impositione, sicut essentia seu voluntas Dei sibi significat, primo Christum 
+      <lb ed="#L" n="4"/>passurum, deinde pati, &amp; demum passum, &amp; haberemus semper vnam scientiam 
+      confor<lb ed="#L" n="5" break="no"/>mem illi propositioni; tunc eodem modo, sine aliqua mutatione in nostra scientia, sciremus 
+      <lb ed="#L" n="6"/>eandem rem futuram, praesentem, &amp; praeteritam. Cum ergo in primis assumitur, Deus sciuit 
+      <lb ed="#L" n="7"/>Christum pati, &amp; nunc nescit, Prima debet distingui penes compositionem &amp; diuisionem, vel 
+      <lb ed="#L" n="8"/>eo quod potest loqui de dicto, vel de re dicti; In sensu vero composito, &amp; de dicto, videtur 
+      vl<lb ed="#L" n="9" break="no"/>terius distinguenda, eo quod Propositio, complexum, seu dictum potest accipi pro 
+      Proposi<lb ed="#L" n="10" break="no"/>tione, complexo, vel dicto extra mentem diuinam, vel in ipsa, quatenus ibi potest 
+      similitudi<lb ed="#L" n="11" break="no"/>uatie assignari complexum, scientiaque complexa, sicut 18. capitulum suadebat. In sensu 
+      <lb ed="#L" n="12"/>igitur compositionis, &amp; de dicto, extra mentem diuinam est vera: Deus enim sciuit talem 
+      <lb ed="#L" n="13"/>Propositionem, Christus patitur, scilicet in tempore Passionis. Et si arguitur in hoc sensu, 
+      <lb ed="#L" n="14"/>Deus sciuit illam, &amp; nunc nescit, igitur Deus, vel saltem scientia eius mutatur, dicendum hoc 
+      <lb ed="#L" n="15"/>non sequi; imo hoc est propter mutationem Propositionis de vera significatione in falsam, &amp;  
+      <lb ed="#L" n="16"/>de veritate in falsitatem; sicut nec sequitur de oculo fixo intuente in eodem situ continue 
+      par<lb ed="#L" n="17" break="no"/>tes fluminis succedentes, quod ipse mutetur, eo quod prius vidit aliquam partem quam nunc 
+      <lb ed="#L" n="18"/>non videt; Immo sufficit quod illa pars mutetur; sicut etiam non sequitur, Deus prius fuit 
+      <lb ed="#L" n="19"/>Dominus diluuij, &amp; nunc non est, ergo Deus mutatur, sed forsan diluuium ipsum mutatur, 
+      <lb ed="#L" n="20"/>sicut &amp; in puris creaturis non sequitur in talibus relatiuis. Et si adhuc arguatur, saltem 
+      sequi<lb ed="#L" n="21" break="no"/>tur, quod Deus pauciora scit quam sciuit; dicendum hoc non sequi, quia sicut prius ista fuit 
+      <lb ed="#L" n="22"/>scita &amp; nunc est nescita, ita sua contradictoria prius fuit nescita, &amp; nunc est scita. Adhuc 
+      for<lb ed="#L" n="23" break="no"/>sitan Sophisticus calumniator instabit; Ponatur, inquiet, quod contradictoria sua non sit nec 
+      <lb ed="#L" n="24"/>aliqua talis vera, tunc cessat recompensatio huius pro illa, tunc ergo sciet pauciora quam p¬ 
+      <lb ed="#L" n="25"/>us. Item cuiuslibet contradictionis altera pars est melior, dignior, &amp; nobilior, vt patet ex pri 
+      <lb ed="#L" n="26"/>oribus, &amp; scientia de melioribus, dignioribus, &amp; nobilioribus, est melior, dignior, &amp; 
+      nobi<lb ed="#L" n="27" break="no"/>lior, vt patet per Philosophum I. de Anima 1. &amp; I. Metaph: in Prologo 6. Metaph. 3. &amp; per 
+      <lb ed="#L" n="28"/>Auerroem ibi, &amp; super 2. de Coelo Comment. 60 ergo tota diuina scientia est perfectior hac 
+      <lb ed="#L" n="29"/>vice quam illa. Ad primum istorum dicendum quod est satis possibile quod sciat pauciora 
+      <lb ed="#L" n="30"/>complexa extrinseca in esse existere, quam pus,non tamen intrinseca in esse scibili. Imo 
+      pos<lb ed="#L" n="31" break="no"/>sibile est, quod nullum verum complexum, nec etiam incomplexum extrinsecum sciat in esse 
+      <lb ed="#L" n="32"/>existere, quia possibile est quod omnia destruantur, sicut nec sciuit ante mundum, quando 
+      <lb ed="#L" n="33"/>nullum illorum existebat, nec tamen si sic esset, haberet minorem scientiam tunc quam p 
+      <lb ed="#L" n="34"/>Non enim scit per talia vera creata, sed tantum per vera sibi intrinseca, &amp; aeterna, sicut 
+      prae<lb ed="#L" n="35" break="no"/>cedentia docuerunt; et illa vera manent semper aequalia omni modo penitus non mutata. 
+      <lb ed="#L" n="36"/>Sed adhuc forsitan replicabit &amp; dicet, sit A talis Propositio, vel quasi similitudinarie 
+      lo<lb ed="#L" n="37" break="no"/>quendo in mente diuina, Christus patitur, &amp; B suum contradictorium, tunc A prius fuit 
+      <lb ed="#L" n="38"/>verum, &amp; nunc est falsum, &amp; e contra de B, ergo illa vera intrinseca Deo mutantur, quare 
+      <lb ed="#L" n="39"/>&amp; ipse Deus necessario commutatur. Dicendum, quod A non significat sicut ista 
+      Propo<lb ed="#L" n="40" break="no"/>sitio creata, Christus patitur, quia tunc continue significaret, vel consignificaret 
+      diuersi<lb ed="#L" n="41" break="no"/>mode, vel diuersa secundum diuersitatem instantis vel temporis, in quo esset, sicut superius 
+      <lb ed="#L" n="42"/>est ostensum; sed semper immobiliter consignificat idem tempus omnino seu instans. 
+      Ideo<lb ed="#L" n="43" break="no"/>que sicut tempore passionis significauit praesentialiter, Christum tunc pati, ita nunc 
+      signifi<lb ed="#L" n="44" break="no"/>cat eodem modo omnino, Christum fuisse tunc passum, aequiualenter istis duabus 
+      Proposi<lb ed="#L" n="45" break="no"/>tionibus nostris, Christus nunc patitur, quae fuit in tempore Passionis, &amp; Christus tunc 
+      pa<lb ed="#L" n="46" break="no"/>tiebatur, quae est in  praesenti. Adhuc autem non desinet obgarrite, sed dicet A nunc est 
+      <lb ed="#L" n="47"/>verum, &amp; B similiter; verum est enim Christum non pati, ergo contradictoria sunt simul 
+      <lb ed="#L" n="48"/>vera. Hic autem dicendum, quod quot sunt instantia in toto tempore, tot Propositiones 
+      af<lb ed="#L" n="49" break="no"/>firmatiuas &amp; negatiuas imaginarie diuersas correspondentes illis habet Deus de 
+      quocun<lb ed="#L" n="50" break="no"/>que similes talibus, Christus patitur in hoc instanti, Christus patitur in illo instanti, &amp; 
+      <lb ed="#L" n="51"/>ita de caeteris; Intelligit enim Deus omnes Propositiones intelligibiles veras vel falsas. Et  
+      <lb ed="#L" n="52"/>quia secundum Philosophum primo Elenchorum, Contradictio est oppositio vnius &amp; 
+      <lb ed="#L" n="53"/>eiusdem non nominis tantum, sed rei &amp; nominis, secundum idem; &amp; ad idem, similiter, 
+      <lb ed="#L" n="54"/>&amp; in eodem tempore; si A &amp; B sint contradictoria, oportet quod referantur ad idem 
+      tem<lb ed="#L" n="55" break="no"/>pus; Ergo A in mente diuina affirmat pro instanti vel tempore Passionis, sic oportet, 
+      <lb ed="#L" n="56"/>quod B neget pro eodem, &amp; tunc B est falsum; Si autem capiatur vna alia similis 
+      B<lb ed="#L" n="57" break="no"/>quae negat Christum pati pro aliquo instanti vel tempore, puta pro praesenti illa est vera, 
+      <lb ed="#L" n="58"/>quae &amp; sit C. sed C non contradicit A, quia non pro eodem instanti vel tempore as
+      <lb ed="#L" n="59"/>
+               <!-- line coord --> 
+               <!--278.xml-->
+               <pb ed="#A" n="245"/>
+               <lb ed="#L" n="1"/>firmant &amp; negant, sicut ista non contradicunt, Christus patiebatur tunc, &amp; Christus non  
+      <lb ed="#L" n="2"/>patitur nunc, nec C &amp; B conuertuntur, quia negaut pro diuersis instantibus vel temporibus 
+      <lb ed="#L" n="3"/>sicut ista, Christus non patitur nunc, Christus non patiebatur tunc. Per haec patet responsio, 
+      <lb ed="#L" n="4"/>si prima accipiatur in sensu compositionis, &amp; de dicto extra mentem diuinam. Hunc autem 
+      <lb ed="#L" n="5"/>reoresse intellectum dicentium quod Deus est pelagus infinitum, omnem contradictionem 
+      <lb ed="#L" n="6"/>absorbens, &amp; quod in aeternitate diuina omnia vera, futura, praesentia, &amp; praeterita, sunt 
+      si<lb ed="#L" n="7" break="no"/>mul vera, quos quidam moliuntur arguere, quia tunc contradictoria essent simul vera, &amp; 
+      ea<lb ed="#L" n="8" break="no"/>dem propositio simul vera &amp; falsa. Qui ideo non concludunt, quia Deus non scit quicquam  
+      <lb ed="#L" n="9"/>per puopositiones creatas affirmatiuas &amp; negatiuas, quae necessario contradicunt, quia 
+      quan<lb ed="#L" n="10" break="no"/>docunque sunt, sunt simul in eodem instanti, &amp; affirmant &amp; negant pro illo, ac vtraque 
+      ta<lb ed="#L" n="11" break="no"/>liumalcernatur successiue a veritate in falsitatem, vel e contra: sed quicquid Deus scit, 
+      com<lb ed="#L" n="12" break="no"/>plexe scit per propositiones ab initio increatas, quae licet secundum quid contradicere 
+      vide<lb ed="#L" n="13" break="no"/>antur, quia more contradictoriorum affirmant &amp; negant idem de eodem; non tamen 
+      sim<lb ed="#L" n="14" break="no"/>pliciter contradicunt, quia non sic affirmant vel negant pro eodem tempore vol instanti, nec 
+      <lb ed="#L" n="15"/>vnquam aliqua talium post veritatem induit falsitatem, quia copulatio extremorum in 
+      men<lb ed="#L" n="16" break="no"/>te diuina, non est volubilis, secundum volubilitatem temporis vel instantis, sed semper 
+      sta<lb ed="#L" n="17" break="no"/>biliter copulat pro eodem, sicut superius est ostensum. Per haec eadem patet responsio ad 
+      se<lb ed="#L" n="18" break="no"/>cundum argumentum praemissum, quia Deus omnem partem contradictionis intrinsecae, 
+      <lb ed="#L" n="19"/>quam semel sciuit, stabiliter semper sciet; si autem loquatur de parte contradictionis 
+      extrin<lb ed="#L" n="20" break="no"/>secae, ex natura tali scientia Dei nec perficitur, nec imperficitur, sicut a nulla tali causatur, 
+      <lb ed="#L" n="21"/>sicuti nec a posterioribus rebus scitis, sicut praecedentia docuerunt. Per haec patet 
+      respon<lb ed="#L" n="22" break="no"/>sio circa istam, Deus sciuit Christum pati, si sumatur in sensu composito &amp; de dicto; si 
+      au<lb ed="#L" n="23" break="no"/>tem sumatur in sensu diuiso, &amp; re dicti, videretur forsitan vlterius distinguendum, sicut 
+      ista<lb ed="#L" n="24" break="no"/>Laborans sanabatur, eo quod pati potest supponere seu apponere pro pati nunc vel prius. 
+      <lb ed="#L" n="25"/>Primo modo non est vera, Deus enim nunquam sciuit Christum nunc pati. Secundo modo 
+      <lb ed="#L" n="26"/>est vera; Deus enim sciuit Christum pati prius, scilicet tempore passionis. Si igitur 
+      argua<lb ed="#L" n="27" break="no"/>tur in hoc sensu, Deus sciuit Christum pati, &amp; nunc nescit Christum pati, ergo Deus sciuit 
+      <lb ed="#L" n="28"/>aliquid quod nunc nescit; est aequiuocatio manifesta. In maiori enim sumitur pati, pro pati 
+      <lb ed="#L" n="29"/>prius; in minori vero pro pati nunc; in secunda namque sunt omnia verba praesentis 
+      tem<lb ed="#L" n="30" break="no"/>poris, nec ampliatiua ad praeteritum vel futurum. Si autem minor sumatur concorditer 
+      <lb ed="#L" n="31"/>cum maiori, realiter non vocaliter oportet sic dicere; Deus nescit Christum passum fuisse, 
+      <lb ed="#L" n="32"/>eritque discursus peccans in materia non in forma. Haec enim minor erit falsa, quoniam 
+      <lb ed="#L" n="33"/>idem omnino realiter, est, Deum prius sciuisse Christum tunc pati, &amp; Deum nunc scire, 
+      <lb ed="#L" n="34"/>Christum tunc passum fuisse. Per haec quoque, vt arbitror, potest haberi recta solutio illius 
+      <lb ed="#L" n="35"/>antiqui sophismatis Oxoniensis, Deus scit quicquid sciuit. Secundum etiam argumentum 
+      <lb ed="#L" n="36"/>per eadem potest solui. Argumentum vero tertium capitale de praescientia per similem 
+      lo<lb ed="#L" n="37" break="no"/>gieam potest solui; &amp; haec videtur Logica Petri Lumbardi, primo Sententiarum suarum, 
+      Di<lb ed="#L" n="38" break="no"/>stinct. 44. capite vltimo, &amp; Distinct. 41. 6. &amp; Algazel 3. Metaphys. sentent. 6. Dictum 
+      au<lb ed="#L" n="39" break="no"/>tem Iudicm, in tertio argumento potest intelligi de ordine effectuum cogitationis diuinae, non  
+      <lb ed="#L" n="40"/>de ordine cogitationum in Deo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

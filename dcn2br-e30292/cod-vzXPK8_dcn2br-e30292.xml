@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="220"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e30292"><!-- l1c18 -->
+            <head xml:id="dcn2br-e30292-Hd1e106">Caput 18</head>
+            <p xml:id="dcn2br-e30292-d1e109">
+               <lb ed="#L" n="35"/>CAP. XVIII. 
+      <lb ed="#L" n="36"/>Distinguit diuinam scientiam incomplexam quodammodo &amp; complex¬ 
+      <lb ed="#L" n="37"/>am: distinguit similiter scibilia complexa in priora quodammodo &amp; 
+      <lb ed="#L" n="38"/>posteriora voluntate diuina: &amp; ostendit quod priora sunt Causa 
+      <lb ed="#L" n="39"/>quoquomodo diuinae scientiae complexae, posteriora vero 
+      <lb ed="#L" n="40"/>nequaquam, sed quod Deus per voluntatem 
+      <lb ed="#L" n="41"/>suam scit// illa.
+    </p>
+            <p xml:id="dcn2br-e30292-d1e127">
+               <lb ed="#L" n="42"/>EST autem pro maiori notitia diuinae scientiae vlterius aduertendum; 
+      <lb ed="#L" n="43"/>quod secundum Philosophum 3. de Anima, tres sunt operationes 
+      in<lb ed="#L" n="44" break="no"/>tellectus humani, scilicet simplicium apprehensio, compositio, &amp; 
+      diui<lb ed="#L" n="45" break="no"/>sio, ac discursus; quarum tertia Deo non conuenit, quia nihil est sibi 
+      <lb ed="#L" n="46"/>ignotum, nec potest perficere nouam scientiam adquirendo, &amp; quia 
+      <lb ed="#L" n="47"/>talis operatio sine potentia &amp; imperfectione esse non potest: Sed 
+      prima<lb ed="#L" n="48" break="no"/>d&amp; secunda sibi conueniunt modo suo. Omnia enim incomplexa &amp; 
+      <lb ed="#L" n="49"/>simplicia comprehendit, &amp; omnia complexa composita vel 
+      diuisa<lb ed="#L" n="50" break="no"/>quodammodo componit &amp; diuidit, affirmat &amp; negat. Vocetur igitur prima sua scientia siue 
+      <!--254.xml-->
+      <pb ed="#A" n="221"/>
+               <lb ed="#L" n="1"/>notitia incomplexa, seu simpliciter apprehensiua aut intuitiua, vel simplex apprehensio aut  
+      <lb ed="#L" n="2"/>intuitio: secunda vero vocetur complexa, compositiua vel diuisiua, affirmatiua aut negatiua 
+      <lb ed="#L" n="3"/>vel adhaesiua; aut in abstracto compositio &amp; diuisio, affirmatio vel negatio, siue adhaesio; 
+      <lb ed="#L" n="4"/>non enim proprie &amp; distincte, sed similitudinarie balbutiendo vix tenus possum vel scio, 
+      igna<lb ed="#L" n="5" break="no"/>rus homuncio, excelsa scientiae Dei mirabilis resonare: Confortata est enim, &amp; non possum 
+      <lb ed="#L" n="6"/>ad eam. Ostenso igitur quod Deus scit omnia scibilia scientia incomplexa, non per scita 
+      po<lb ed="#L" n="7" break="no"/>steriora, sed per suam claram essentiam, sibi omnia distinctissime praesentantem, nunc 
+      re<lb ed="#L" n="8" break="no"/>stat consequenter ostendere quomodo Deus scit omnia scibilia complexa: Pro quo est primo 
+      <lb ed="#L" n="9"/>sciendum, quod scibilia complexa &amp; vera sunt duplicia: quaedam enim naturaliter 
+      praece<lb ed="#L" n="10" break="no"/>dunt voluntatem diuinam, &amp; quaedam eam naturaliter subsequuntur. Praecedit eam 
+      natura<lb ed="#L" n="11" break="no"/>liter Deum esse, Deum esse aeternum, Deum esse omnipotentem, &amp; similia: Non enim quia 
+      <lb ed="#L" n="12"/>Deus vult sic esse, ideo sic est, sed potius e contrario. Sequuntur autem eam mundum esse, 
+      <lb ed="#L" n="13"/>B quamlibet creaturam esse, &amp; vniuersaliter omnia illa vera complexa, quorum veritas causatur 
+      <lb ed="#L" n="14"/>&amp; pendet ab ipsa. Illa igitur vera complexa quae voluntatem diuinam praecedunt, scit Deus 
+      <lb ed="#L" n="15"/>per suam solam essentiam, sicut alia vera incomplexa, sicut potest cognosei ex proximo 
+      hu<lb ed="#L" n="16" break="no"/>ius scriptis: Illa vero quae voluntatem eius sequuntur, non scit Deus per illa complexa, neque 
+      <lb ed="#L" n="17"/>per aliquid aliud voluntate eius semota, sed per suam voluntatem, vel per suam substantiam 
+      <lb ed="#L" n="18"/>cum sua voluntate, ita quod ad scientiam // eius complexam est sua voluntas necessario prius 
+      <lb ed="#L" n="19"/>naturaliter requisita. Prima pars huius, videlicet Deum non scire complexe vera complexa 
+      <lb ed="#L" n="20"/>posteriora per ipsa, potest ostendi, sicut ostensum est supra, ipsum non scire incomplexe 
+      ali<lb ed="#L" n="21" break="no"/>qua posteriora per illa. Secunda vero potest sic ostendi; Deus praescit vera de futuro, &amp; non  
+      <lb ed="#L" n="22"/>per aliquas propositiones habitus aut actus existentes in eo realiter diuersos ab eo, per 20. 
+      <lb ed="#L" n="23"/>partem corollarij primi huius. Per quid ergo nisi per suam propriam voluntatem? Nec 
+      po<lb ed="#L" n="24" break="no"/>test quis dicere Deum praescire complexe Antichristum fore, per ipsummet Antichristum, 
+      <lb ed="#L" n="25"/>propter capitula praelibata, cum etiam Antichristus in se nihil sit, nihil per se agit aut causat; 
+      <lb ed="#L" n="26"/>Antichristus quoque non est de se determinatus ad fore, sicut 14. docuit. Quomodo ergo per 
+      <lb ed="#L" n="27"/>se facit determinate hoc sciri? Nec etiam potest dici, quod Deus praescit futura per 
+      futuritio<lb ed="#L" n="28" break="no"/>nem eorum; Tunc etenim, vt videtur, res futurae essent causa, seu causae diuinae scientiae 
+      con<lb ed="#L" n="29" break="no"/>tra praemissa. Illa insuper futuritio, si nihil est, penitus nihil causat; si autem sit aliquid reale 
+      <lb ed="#L" n="30"/>diuersum a Deo, arguitur, sicut prius. Illa insuper futuritio est aut fuit aliquando causata a 
+      <lb ed="#L" n="31"/>Deo secundum priora? Quomodo ergo prius sciuit Deus illam esse futuram? quomodo etiam 
+      <lb ed="#L" n="32"/>prius sciuit illa futura esse futura, aut illud futurum esse futurum? Adhuc autem illa futuritio 
+      <lb ed="#L" n="33"/>vel facit rem esse futuram contingenter &amp; indeterminate, vel necessario &amp; determinate; si 
+      <lb ed="#L" n="34"/>contingenter &amp; indeterminate, quomodo scit Deus per illam determinate &amp; certe rem fore? 
+      <lb ed="#L" n="35"/>Nonne etiam illa futuritio nunc determinate &amp; certe existit, &amp; ex illa determinate &amp; 
+      necessa<lb ed="#L" n="36" break="no"/>rio sequitur, quod res erit? quomodo ergo vitabitur, quin omnia quae euenient, de 
+      necessita<lb ed="#L" n="37" break="no"/>te euenient, &amp; nihil penitus contingenter? Si vero illa futuritio ponatur esse in Deo, maxime 
+      <lb ed="#L" n="38"/>videtur quod sit ponenda in voluntate diuina, cum haec sit causa determinationis &amp; 
+      futuritio<lb ed="#L" n="39" break="no"/>nis omnium futurorum. 140. huius teste, sicque fundatur intentio principalis. Nec adhuc 
+      <lb ed="#L" n="40"/>rationabiliter opinandum, quod Deus sciat futura per solam suam essentiam, eius voluntate 
+      <lb ed="#L" n="41"/>remota: Ipsa enim de se sola indifferens est aequaliter &amp; indeterminata ad repraesentandum 
+      <lb ed="#L" n="42"/>diuino intellectui Antichristum fore, &amp; Antichristum non fore, sicut vtrumque aequaliter 
+      po<lb ed="#L" n="43" break="no"/>test fore &amp; sciri a Deo. Neutrum igitur ex se sola sine determinatione aliqua praeuia 
+      repraesen<lb ed="#L" n="44" break="no"/>tat. Neque similiter arbitrandum, quod Deus sciat futura per intellectum eius solum, aut &amp; 
+      <lb ed="#L" n="45"/>quod ipse determinet diuinam essentiam ad ostendendum hoc futurum vel illud, cum ipse de 
+      <lb ed="#L" n="46"/>se sit indifferens ad vtrumque oppositorum contingentium, sicut &amp; essentia ipsa Dei, cum 
+      eti<lb ed="#L" n="47" break="no"/>am intellectus solus non sit practicus isto modo voluntate Leius) remota, sicut ex 80. &amp; 90. 
+      hu<lb ed="#L" n="48" break="no"/>ius apparet; cum insuper intellectus voluntate semota sit principium necessarium, sicut 
+      con<lb ed="#L" n="49" break="no"/>stat, &amp; per corollarium decimi huius patet, quodlibet futurum necessario esset futurum, &amp; 
+      <lb ed="#L" n="50"/>praescitum a Deo, sicque contingens aequaliter deperiret. Nec potest determinari vt quidam 
+      <lb ed="#L" n="51"/>volunt per infinitatem seu immensitatem suae scientiae, quia posita immensitate suae scientiae, 
+      <lb ed="#L" n="52"/>adhuc potest indifferenter scire Antichristum fore &amp; non fore, sicut Antichristus potest 
+      in<lb ed="#L" n="53" break="no"/>differenter fore &amp; non fore: ergo neutrum sciet sine alia determinatione praeuia 
+      limi<lb ed="#L" n="54" break="no"/>tante, aut terminante. Item determinatio qua Deus determinatur ad sciendum quicquam,  
+      <lb ed="#L" n="55"/>prior est naturaliter quam illud scire, siue scientia ex tali determinatione prouemens: 
+      <lb ed="#L" n="56"/>Sed Deus determinatur ad sciendum Antichristum fore per infinitatem suae scientiaem; ergo 
+      <lb ed="#L" n="57"/>infinita Dei scientia prior est naturaliter, quam ipsum: scire Antichristum fore; &amp;  
+      <lb ed="#L" n="58"/>cum illa includat scientiam huius, Antichristus erit, sequitur quod scientia Dei, qua scit, 
+      <!--255.xml-->
+      <pb ed="#A" n="222"/>
+               <lb ed="#L" n="1"/>Antichristum fore, praecedat naturaliter semetipsam. Hoc confirmatur, quia Deus non 
+      <lb ed="#L" n="2"/>determinatur ad sciendum Antichristum fore primo &amp; adaequate per totam suam scientiam 
+      <lb ed="#L" n="3"/>infinitam: Nullae enim sunt partes eius, vt burnellus rudit, eclipsis fuit, &amp; similes 
+      infini<lb ed="#L" n="4" break="no"/>tae, quas licet non haberet, non minus posset scire Antichristum fore. Imo vt videtur per 
+      <lb ed="#L" n="5"/>nullam aliam partem suae scientiae infinitae determinatur ad sciendum Antichristum fore, 
+      <lb ed="#L" n="6"/>nisi per scientiam propriam huius, quod est Antichristus erit, vel per scientiam causarum  
+      <lb ed="#L" n="7"/>futuritionis Antichristi, sed non per scientiam propriam huius, quoniam tunc eadem 
+      scien<lb ed="#L" n="8" break="no"/>tia praecederet semetipsam. Nec per scientiam causarum secundarum suarum, quoniam 
+      <lb ed="#L" n="9"/>tunc sciret discursiue talia a causis ad causata, quod est contra praedicta. Item, fiat 
+      argu<lb ed="#L" n="10" break="no"/>mentum de effectu futuro semper contingenter ad vtrumlibet donec fiat, sicut erit aliqua 
+      <lb ed="#L" n="11"/>volutio libera creaturae; tunc de futuritione talis effectus futuri nulla potest esse 
+      determina<lb ed="#L" n="12" break="no"/>tio per suas causas, vel per earum scientiam, cum illae sint omnino indeterminatae, &amp; 
+      ad<lb ed="#L" n="13" break="no"/>vtrumlibet ad illum causandum &amp; non causandum. Idem est de futuritione Antichristi. 
+      <lb ed="#L" n="14"/>Non enim necessario sed contingenter producetur a suis causis; Alias enim non esset 
+      con<lb ed="#L" n="15" break="no"/>tingenter futurus ad vtrumlibet, vt supponitur communiter, sed determinate &amp; necessario 
+      e<lb ed="#L" n="16" break="no"/>uenturus: vel fiat argumentum de effectu futuro, quem sine alia causa Deus immediate 
+      fa<lb ed="#L" n="17" break="no"/>ciet per seipsum. Quomodo insuper praesciuit res fore ante productionem &amp; existentiam 
+      <lb ed="#L" n="18"/>suarum causarum? Nunquid aliter quam nunc, aut nunc quam tunc contra sententiam 
+      <lb ed="#L" n="19"/>quinti huius. Nec etiam potest dici, vt alij forsan vellent, quod Deus determinatur ad 
+      scien<lb ed="#L" n="20" break="no"/>dum huiusmodi per infinitatem &amp; immensitatem suae scibilitatis, seu scientiuitatis, non 
+      sci<lb ed="#L" n="21" break="no"/>entiae actualis. Posita namque // &amp; stante sua scibilitate, seu scientiuitate immensa, potest. 
+      <lb ed="#L" n="22"/>adhuc indifferenter scire Antichristum fore vel non fore, sicut ipse indifferenter potest fore, 
+      <lb ed="#L" n="23"/>&amp; non fore: Ergo neutrum determinate sciet, sine alia determinatione praeuia limitante, 
+      <lb ed="#L" n="24"/>Eodem modo potest ostendi, quod Deus non determinatur ad sciendum huiusmodi per suam  
+      <lb ed="#L" n="25"/>omnipotentiam, nec per suam perfectionem simpliciter infinitam: Quidam vero parum 
+      <lb ed="#L" n="26"/>propinquius accedentes, affirmant quod Deus per solam permissionem voluntatis suae, per 
+      <lb ed="#L" n="27"/>hoc scilicet quod vult permittere, seu permittet actiua posteriora agere haec aut illa, praescit, 
+      <lb ed="#L" n="28"/>futura. Sed hi supponunt actiua posteriora posse agere aliquid sine Deo, &amp; voluntate diuina 
+      <lb ed="#L" n="29"/>idem per se &amp; proprie coagente, contra tertium huius, quartum, &amp; nonum. Perinissione 
+      <lb ed="#L" n="30"/>quoque diuina sola supposita, si agens rationale &amp; liberum posset quippiam libere agere, 
+      <lb ed="#L" n="31"/>posset &amp; vtrumque oppositorum aequaliter contingenter, &amp; neutrum. Quomodo ergo per 
+      <lb ed="#L" n="32"/>hanc solam scit Deus determinate &amp; certe, quod hoc aget, &amp; illud dimitter? Ex omnibus 
+      <lb ed="#L" n="33"/>ergo his videtur, quod Deus praescit futura &amp; non futura, fore &amp; non fore per volutionem 
+      <lb ed="#L" n="34"/>T &amp; nolutionem) naturaliter quodammodo praeuiam voluntatis. Amplius autem per hoc 
+      <lb ed="#L" n="35"/>scit Deus futura, per quod primo sunt futura; sed hoc est diuina voluntas, sicut 
+      decimum<lb ed="#L" n="36" break="no"/>quartum ostendebat, &amp; rationes pro illa conclusione adductae possunt conuerti similiter ad  
+      <lb ed="#L" n="37"/>hanc probandam. Item testante Philosopho 1. Poster. 2. Scire est per causam cognoscere, T 
+      <lb ed="#L" n="38"/>Deus autem verissime scit futura, ergo per causam verissimam, omnes alias causas, &amp; 
+      causa<lb ed="#L" n="39" break="no"/>tiones earum virtualiter continentem, &amp; haec est sua voluntas, sicut nono &amp; decimo quarto 
+      <lb ed="#L" n="40"/>est ostensum: &amp; potest confirmari per Auerroem super de somno &amp; vigilia, vbi inquirit 
+      cau<lb ed="#L" n="41" break="no"/>sam somniorum diuinatiuorum, siue propheticorum de futuris; &amp; ostendit quod est ex 
+      perfe<lb ed="#L" n="42" break="no"/>cta sollicitudine Dei circa homines; vlteriusque ostendens, quomodo Deus haec sciat, dicit 
+      <lb ed="#L" n="43"/>quod scit ista per hoc quod sunt determinati esse, &amp; habent causam determinatam, &amp; 
+      natu<lb ed="#L" n="44" break="no"/>ram vniuersalem intellectam, quae est prima causa in esse eorum, sicque sunt intellecta apud 
+      <lb ed="#L" n="45"/>naturam intellectiuam, a qua natura sensibilis recipit quaecunque &amp; mouetur, sicut 
+      instru<lb ed="#L" n="46" break="no"/>menta mouentur a forma? artificij, nec aliquod indiuiduum sit essentialiter a natura nisi 
+      <lb ed="#L" n="47"/>per scientiam antecedentem, quoniam sicut allegat ab Aristotele, instrumentum artificis 
+      <lb ed="#L" n="48"/>non mouetur, nisi secundum Artificem: secundum ipsum ergo Deus scit futura per causam  
+      <lb ed="#L" n="49"/>determinante hoc ad esse, &amp; factiuam ipsorum, &amp; haec est diuina voluntas, sicut I4um, &amp; gum. E 
+      <lb ed="#L" n="50"/>ostendunt; &amp; hoc videtur esse de mente sua, maxime cum super 12. comment. 51. dicat quod 
+      <lb ed="#L" n="51"/>ens non est scientiae Dei causa, sed e cotra: cum ergo secundum eum Deus sciat futura per 
+      cau<lb ed="#L" n="52" break="no"/>sam determinantem illa ad esse, &amp; non per / aliam causam extra se, ergo per causam sibi 
+      intrinse<lb ed="#L" n="53" break="no"/>cam, quae non potest esse alia quam voluntas. Cui &amp; concordanter Ammonius super 1. 
+      periher<lb ed="#L" n="54" break="no"/>menias vlt. Dicendum, inquit, Deos cognoscere omnia, facta, entia, &amp; futura modo Dijs 
+      con<lb ed="#L" n="55" break="no"/>uenienti; hoc autem est vna, &amp; determinata, &amp; infallibili cognitione, propter quod quidem 
+      <lb ed="#L" n="56"/>&amp; contingentium scientiam dicendum ipsos comprehendere, velut omnia quae in mundo 
+      <lb ed="#L" n="57"/>producentes, &amp; perpetuarum quidem substantiarum ipsos causas existentes, generabilium 
+      <lb ed="#L" n="58"/>autem concausas, secundum suas proprias operationes, &amp; velut videntes non ipsas solum 
+      <!--256.xml-->
+      <pb ed="#A" n="223"/>
+               <lb ed="#L" n="1"/>fubstantias, sed virtutes ipsarum, &amp; operationes eas quae secundum naturam, &amp; eas quae 
+      <lb ed="#L" n="2"/>praeter naturam; quod quidem praeter naturam simul intrauit cum necessario ordine 
+      sub<lb ed="#L" n="3" break="no"/>iecto, vel subiectum decurrentiae entium in his quae nata sunt hoc participare, non 
+      princi<lb ed="#L" n="4" break="no"/>paliter sed secundum modum qui dicitur parypostaseos, scilicet secus existentiae. Et infra 
+      <lb ed="#L" n="5"/>dicit, Deos cognoscere contingentia modo nobiliori quam sit ipsorum natura, cognitionem 
+      <lb ed="#L" n="6"/>illorum praeaccipientes determinate, &amp; haec scire; sed vnde accipientes &amp; praeaccipientes 
+      <lb ed="#L" n="7"/>cognitionem illorum? ex quo praecedente principio, siue causa, nisi ex propria voluntate 
+      <lb ed="#L" n="8"/>determinata, &amp; indefectibili causa rerum, &amp; consimili causa scientiae apud eos? Istam 
+      quo<lb ed="#L" n="9" break="no"/>que sententiam videtur Dionysiis de diuinis nominibus 7. efficaciter attestari, sicut 150. 
+      hu<lb ed="#L" n="10" break="no"/>ius plenius recitatur. Item Deus recte scit futura contingentia, ergo per aliquid quod realiter 
+      <lb ed="#L" n="11"/>est certum; sed hoc non est aliquod futurum contingens, cum illud non sit certum, nec 
+      ali<lb ed="#L" n="12" break="no"/>qua causa inferior sufficiens ad productionem illius in causatione eius est certa, sed contingens 
+      <lb ed="#L" n="13"/>similiter vt effectus: Alias enim ille effectus esset certe &amp; determinate futurus. Relinquitur 
+      <lb ed="#L" n="14"/>ergo quod Deus ista sciat per suam valuntatem sibi certissimam, qua vult omnia illa 
+      fore<lb ed="#L" n="15" break="no"/>Istud posset confirmari per Auerroem super 9. Metaph. comment. 21. dicentem, quod scire 
+      <lb ed="#L" n="16"/>illa, quae semper sunt, immutabiliter vno modo, est scire; sed scire essentiam mutabilem  
+      <lb ed="#L" n="17"/>dicitur aestimare. Item haec vltima ratio, &amp; conclusio principalis patet per Iohannem 
+      Sco<lb ed="#L" n="18" break="no"/>tum super 2. sentent. distinct. 37. quaest. 2. redarguentem opinantes quod voluntas creata sit 
+      <lb ed="#L" n="19"/>causa totalis sui velle sine Deo coagente, per hoc, quod si sic esset, Deus non esset naturaliter 
+      <lb ed="#L" n="20"/>praescius futurorum, quia non habet scientiam de futuris contingentibus, nisi quia 
+      certitudi<lb ed="#L" n="21" break="no"/>naliter nouit determinationem voluntatis suae respectu eorum; quae voluntas est immutabilis, 
+      <lb ed="#L" n="22"/>&amp; impotentialis. Sed si voluntas creata sit causa totalis sui velle, &amp; ipsa se habet 
+      contingen<lb ed="#L" n="23" break="no"/>ter ad illud velle, ergo quantumcunque ponatur voluntas diuina determinata ad vnam 
+      <lb ed="#L" n="24"/>partem eorum quae dependent a voluntate creata, ipsa potest aliter velle, &amp; ita non 
+      sequi<lb ed="#L" n="25" break="no"/>tur certitudo ex cognitione determinationis voluntatis diuinae. Qui &amp; super 1. sentent. 
+      <lb ed="#L" n="26"/>distinct. 41. reprobans opinionem dicentem ideo Deum quenquam praedestinare ad vitam, 
+      <lb ed="#L" n="27"/>quia praeuidet ipsum bene vsurum libero arbitrio ita scribit: Sed contra istud arguitur, 
+      Pri<lb ed="#L" n="28" break="no"/>mo, quia Deus non praeuidet ipsum bene vsurum libero arbitrio, nisi quia vult &amp; 
+      praeordi<lb ed="#L" n="29" break="no"/>nat istum bene vsurum, eo quod sicut dictum est dist. 39. Certa praeuisio futurorum 
+      contin<lb ed="#L" n="30" break="no"/>gentium, est ex determinatione voluntatis suae. Et infra, factis duabus instantijs de Iuda 
+      <lb ed="#L" n="31"/>liue Lucifero peccaturo, argutoque quod sola permissio non sufficit ad certitudinem 
+      diui<lb ed="#L" n="32" break="no"/>nae scientiae, sic respondet: Primum istorum soluitur per hoc quod Deus praescit se 
+      coope<lb ed="#L" n="33" break="no"/>raturum ad substantiam illius actus qui erit peccatum, hoc autem praescit quia vult 
+      coope<lb ed="#L" n="34" break="no"/>rari illi; si erit peccatum commissionis, vel praescit se non cooperaturum ad actum aliquem  
+      <lb ed="#L" n="35"/>si non vult ipsum, &amp; hoc, si erit peccatum omissionis; &amp; sciendo se cooperaturum ad 
+      sub<lb ed="#L" n="36" break="no"/>stantiam talis actus non cum circumstantijs debitis, vel non cooperaturum ei ad actum 
+      ne<lb ed="#L" n="37" break="no"/>cessarium, &amp; per consequens, quod omittet, scit hunc peccaturum, non solum quia scit se 
+      <lb ed="#L" n="38"/>permissurum hoc, sed quia scit se cooperaturum huic ad substantiam actus non circumstans 
+      <lb ed="#L" n="39"/>tionati, &amp; per consequens iste committet; vel non cooperaturum ei ad actum necessarium, &amp;  
+      <lb ed="#L" n="40"/>per consequens iste omittet. Item Sanctus Thomas de Christiana religione siue de fide, spe, 
+      <lb ed="#L" n="41"/>&amp; charitate 138. dicit, quod contingentia effectuum causarum secundarum non potest 
+      certi<lb ed="#L" n="42" break="no"/>tudinem diuinae prouidentiae perturbare, quia efficacia voluntatis diuinae certitudinem sibi 
+      <lb ed="#L" n="43"/>praestat: Voluntas enim Dei cum sit vniuersalis causa rerum, non solum vt aliquid fiat, sed vt 
+      <lb ed="#L" n="44"/>sic fiat, ad efficientiam diuinae voluntatis pertinet, non solum vt fiat quod vult fieri, sed vt hoc 
+      <lb ed="#L" n="45"/>modo fiat, quo illud vult fieri, vt sic diuina voluntas impleatur efficaciter. Idem quoque su 
+      <lb ed="#L" n="46"/>pra eodem 133. dicit, quod contingentia, prout sunt virtualiter in suis causis non sunt 
+      deter<lb ed="#L" n="47" break="no"/>minata ad vnum, vt de eis certa cognitio possit haberi, tamen prout sunt actu in suo esse in Dei 
+      <lb ed="#L" n="48"/>aeterno, iam sunt determinata ad vnum, &amp; potest de eis certa haberi cognitio. Qui &amp; super I. 
+      <lb ed="#L" n="49"/>sent. dist. 38. qu. vlt, quaerente, Vtrum scientia Dei sit contingentium; &amp; infra super dist. 40 
+      qu<lb ed="#L" n="50" break="no"/>quarta quaerente, de certitudine praedestinationis eandem sententiam plane tenet: sed 
+      contin<lb ed="#L" n="51" break="no"/>gentia talia determinari possunt nisi per voluntatem diuina sicut 14. ostendebat, &amp; pro ista 
+      de<lb ed="#L" n="52" break="no"/>terminatione posset allegari Autoritas Auerrois super de somno &amp; vigilia abbreuiate 
+      supe<lb ed="#L" n="53" break="no"/>rius memorata. Hoc idem videtur sentire Anselm. de casu diaboli2i. vbi vult, quod nihil 
+      ve<lb ed="#L" n="54" break="no"/>re scitur, nisi quod certa ratione intelligitur; Quare &amp; Deus non proprie dicitur habere 
+      prae<lb ed="#L" n="55" break="no"/>scientiam futurorum, sed magis praesentium scientiam, quia omnia futura sunt ei praesentia. Et  
+      <lb ed="#L" n="56"/>idem dicit de Concordia 7o &amp; Boetius 5ode Consolat. Philosophiae prosa sexta quod videtur 
+      <lb ed="#L" n="57"/>non posse intelligi aliter, nisi quod Deus per hoc sciat omnia futura, quia sunt ei praesentia, id 
+      <lb ed="#L" n="58"/>est, per suam insuperabilem, &amp; immutabilem voluntatem praesentialiter determinata, &amp; de¬ 
+      <!--257.xml-->
+      <pb ed="#A" n="224"/>
+               <lb ed="#L" n="1"/>creta certitudinaliter, vt fiant in futuro. Vnde &amp; de ipso Prophetice dicitur, Qui fecit quae A 
+      <lb ed="#L" n="2"/>ventura sunt; Et Ecclesiastis 6. Qui futurus est, iam vocatum est nomen eius; sed hoc esse 
+      <lb ed="#L" n="3"/>non potest nisi praeuia voluntate; et hoc videtur Deus innuere, Esaiae 46. sic dicens, Ego sum 
+      <lb ed="#L" n="4"/>Deus annuntians ab exordio nouissimum, &amp; ab initio quae nec dum facta sunt, dicens 
+      Con<lb ed="#L" n="5" break="no"/>silium meum stabit, &amp; omnis voluntas mea fiet: quasi velit innuere, quod per hoc 
+      annun<lb ed="#L" n="6" break="no"/>tiet, vel annuntiare possit ab exordio nouissimum, quia omne suum Consilium &amp; voluntas 
+      <lb ed="#L" n="7"/>immutabiliter stabit, &amp; fiet. Quomodo insuper melius posset intelligi Origines super 
+      Epi<lb ed="#L" n="8" break="no"/>stolam ad Romanos, quod non propterea aliquid erit, quia illud scit Deus futurum, sed quia 
+      <lb ed="#L" n="9"/>futurum est, ideo scitur a Deo antequam fiat; quam quod quia aliquid est futurum in 
+      voluti<lb ed="#L" n="10" break="no"/>one &amp; praedestinatione diuina, ideo causaliter praescitur a Deo notitia simplici, non e contra. 
+      <lb ed="#L" n="11"/>Quare &amp; Augustinus 26. contra Faustum 2. Potius, inquit, verum est quod Deus scit, quam  
+      <lb ed="#L" n="12"/>quod opinatur homo. Vnde tam non possunt futura non fieri, quam non fuisse facta 
+      praete<lb ed="#L" n="13" break="no"/>rita, quoniam non est in Dei voluntate, vt eo sit aliquid falsum quo verum est. Haec ergo B 
+      <lb ed="#L" n="14"/>sunt talia &amp; scita a Deo per voluntatem ipsius. Idenode bono perseuerantiae 49. Castitas, 
+      <lb ed="#L" n="15"/>Charitas, Pietas, &amp;c. quae Dei esse aliqui confitentur, eaque ab illo praecognita, ac per hoc 
+      <lb ed="#L" n="16"/>ipsa esse praedestinata negare non possunt. Et infra, eodem // 53. Dei donaque dantur electis, 
+      <lb ed="#L" n="17"/>si nulla est praedestinatio, non praesciuntur a Deo; Praesciuntur autem; est igitur 
+      praedestina<lb ed="#L" n="18" break="no"/>tio quam defendimus: Omnis autem praedestinatio a voluntate procedit: Omnia ergo quae 
+      <lb ed="#L" n="19"/>praecognita sunt a Deo, voluta sunt ab eo, &amp; non simul nec post naturaliter, ergo prius; 
+      vo<lb ed="#L" n="20" break="no"/>luntas ergo Dei est causa eius scientiae sicut praehabita suaserunt. Istam quoque sententiam 
+      te<lb ed="#L" n="21" break="no"/>stari videntur illi praeclari 24. Seniores Apocalyps4. sicut 14. huius tangit. Et sicut 
+      argu<lb ed="#L" n="22" break="no"/>tum est de scientia Dei respectu contingentium futurorum, quod est per voluntatem 
+      diui<lb ed="#L" n="23" break="no"/>nam, sic potest argui de eius scientia respectu omnium futurorum, praesentium, &amp; 
+      praeterito<lb ed="#L" n="24" break="no"/>rum, quae voluntatem ipsius naturaliter consequntur, decimoquarto &amp; nono Capitulo ad 
+      iu<lb ed="#L" n="25" break="no"/>uante, maxime cum non aliter sciat praesentia siue praeterita, quam futura, propter eius 
+      im<lb ed="#L" n="26" break="no"/>mutabilitatem omnimodam quinto Capitulo demonstratam. Hic autem per voluntatem 
+      in<lb ed="#L" n="27" break="no"/>telligo omnem actum voluntatis, siue volutio, siue nolutio fuerit, siue actus alius 
+      qualiscun<lb ed="#L" n="28" break="no"/>que. Haec pro illorum fatuorum quaestione non fatua, qui dixerunt, Quomodo scit Deus, qui 
+      <lb ed="#L" n="29"/>forte propter perplexitatem eius ambiguam, &amp; insolubilem apud ipsos, putabunt non esse 
+      <lb ed="#L" n="30"/>scientiam in excelso. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

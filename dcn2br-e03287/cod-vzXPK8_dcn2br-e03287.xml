@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 41</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 41</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="783"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e03287"><!-- l3c41 -->
+            <head xml:id="dcn2br-e03287-Hd1e106">Caput 41</head>
+            <p xml:id="dcn2br-e03287-d1e109">
+               <lb ed="#L" n="38"/>CAP. XLI. 
+      <lb ed="#L" n="39"/>Recitat diuersos modos secundum diuersos videndi in verbo, obijcit¬ 
+      <lb ed="#L" n="40"/>que &amp; soluit. 
+      </p>
+            <p xml:id="dcn2br-e03287-d1e118">
+               <lb ed="#L" n="41"/>OStenso siquidem quod vera complexa possunt reuelari creaturae 
+      <lb ed="#L" n="42"/>rationali in verbo, &amp; in esseniia ipsa Dei, restat consequenter 
+      in<lb ed="#L" n="43" break="no"/>quirere de modo reuelationis istius; quomodo scilicet talia ibi 
+      <lb ed="#L" n="44"/>valeant reuelari. Pro quo facilius cognoscendo primitus 
+      inqui<lb ed="#L" n="45" break="no"/>rendum videtur quomodo incomplexa reuelentur in verbo &amp; 
+      <lb ed="#L" n="46"/>Dei essentia creaturae, &amp; sic ad complexa procedendum 
+      vlte<lb ed="#L" n="47" break="no"/>rius ordinate: In his nempe &amp; in illis diuersi modi a diuersis 
+      di<lb ed="#L" n="48" break="no"/>uersimode assignantur. Aliqui namque putant quod in omnibus n 
+      <lb ed="#L" n="49"/>huiusmodi reuelatis &amp; visis verbum Dei suppleat vicem tam 
+      <lb ed="#L" n="50"/>habitus quam actus creati, &amp; sit ta habitus quam actus creaturae 
+      vi<lb ed="#L" n="51" break="no"/>dentis. Alij aestimant quod verbum in omnibus huiusmodi 
+      sup<lb ed="#L" n="52" break="no"/>pleat vicemspeciei siue habitus, &amp; non actus, imo quod creatura per actum videndi creatum 
+      <!--817.xml-->
+      <pb ed="#A" n="784"/>
+               <lb ed="#L" n="1"/>videat, quod verbum velut species, habitus, seu idea ei praesentat; &amp; hi viterius tripliciter A 
+      <lb ed="#L" n="2"/>sunt diuisi. Hi namque ponunt quod creatura videt distincte singula siue incomplexa 
+      si<lb ed="#L" n="3" break="no"/>ue complexa quae videt in verbo, per vnicum actum creatum beatificum supernaturalem 
+      sin<lb ed="#L" n="4" break="no"/>gula distincte, &amp; immediate supernaturaliter praesentantem: Illi vero, quod per vnum 
+      a<lb ed="#L" n="5" break="no"/>ctum creatum videt omnia incomplexa in verbo, &amp; per alium actum creatum omnia 
+      comple<lb ed="#L" n="6" break="no"/>xa quae videt. Isti autem, quod videt singula incomplexa atque complexa quae videt in 
+      ver<lb ed="#L" n="7" break="no"/>bo per actus creatos singulos &amp; distinctos, visis singulis respondentes. Huius autem sectae 
+      <lb ed="#L" n="8"/>tripartitae quaelibet via in duas semitas bipartitur, quantum ad numerum visibilium seu 
+      viso<lb ed="#L" n="9" break="no"/>rum; Hi namque ponunt creaturam posse simul videre in verbo infinita distincte; illi vero 
+      tan<lb ed="#L" n="10" break="no"/>tum finita. Adhuc autem superiorem diuisionem vlterius prosequendo, Alij opinantur 
+      <lb ed="#L" n="11"/>quod verbum non suppleat vicem speciei habitus, neque actus, sed quod quicquid 
+      incomple<lb ed="#L" n="12" break="no"/>xum siue complexum creatura videt in verbo, videt per speciem, habitum atque actum 
+      cre<lb ed="#L" n="13" break="no"/>atam seu creatum; per speciem, inquam, seu habitum mediantem inter verbum &amp; actum 
+      vi<lb ed="#L" n="14" break="no"/>dendi; &amp; tamen quod haec dicuntur videri in verbo, sicut visa materialia dicuntur videri in 
+      <lb ed="#L" n="15"/>Sole seu luce materiali; quia videlicet verbum velut quidam Sol &amp; lux spiritualis ista 
+      illumi<lb ed="#L" n="16" break="no"/>nat, &amp; disponit, vt valeant sic videri: &amp; hi triplicem sectam habent ex parte huiusmodi 
+      habi<lb ed="#L" n="17" break="no"/>tus, sicut &amp; priores ex parte actus habebant. Quidam enim affirmant, quod per vnicum 
+      ha<lb ed="#L" n="18" break="no"/>bitum omnia incomplexa &amp; complexa ibi visa videntur: Alij quod incomplexa per vnum 
+      <lb ed="#L" n="19"/>&amp; complexa per alium: Aliqui quod singula visa incomplexa atque complexa per habitus 
+      <lb ed="#L" n="20"/>singulos proprios &amp; distinctos. Vlterius autem hi omnes bifariam partiuntur per infinitam 
+      <lb ed="#L" n="21"/>&amp; finitam quantum ad multitudinem visibilium seu visorum, sicuti &amp; priores, qui &amp; omnes 
+      <lb ed="#L" n="22"/>de actibus correspondenter habitibus opinantur. Amplius autem sunt &amp; alij mediantes qui 
+      <lb ed="#L" n="23"/>dicunt, quod omnia incomplexa quae videntur in verbo, videntur per ipsummet verbum, nul 
+      <lb ed="#L" n="24"/>la creatura, nulla specie, habitu, seu actu mediante, sicut opinio prima dicit, sed quaecunque 
+      <lb ed="#L" n="25"/>complexa per creataram aliquam mediantem; &amp; hi vt priores multipliciter separantur. 
+      Ad<lb ed="#L" n="26" break="no"/>huc autem praeter istos mediatores, sunt &amp; alij qui inter posteriores sectas satagunt 
+      media<lb ed="#L" n="27" break="no"/>re, dicentes quod omnia incomplexa, quae videntur in verbo, videntur per actum creatum 
+      <lb ed="#L" n="28"/>medium inter creaturam videntem &amp; verbum, non tamen per aliquem habitum aut speciem 
+      <lb ed="#L" n="29"/>mediantem, sed ipsum verbum omnis huiusmodi speciei &amp; habitus vicem supplet; complexa 
+      <lb ed="#L" n="30"/>autem, quae ibi videntur, dicunt videri mediante tam habitu quam actu creato: patiti, in 
+      <lb ed="#L" n="31"/>quam, creato mediante inter verbum &amp; actum videndi, &amp; actu creato mediante inter 
+      huius<lb ed="#L" n="32" break="no"/>modi habitum &amp; videntem, &amp; vtroque mediante inter videntem &amp; verbum. Qui insuper 
+      om<lb ed="#L" n="33" break="no"/>nes, sicut priores, possunt dupliciter diuidi quantum ad numerum visorum in verbo, per 
+      infi<lb ed="#L" n="34" break="no"/>nita videlicet &amp; finita. Quis autem horum modorum sit verior, &amp; Philosophicae ac 
+      Theo<lb ed="#L" n="35" break="no"/>logicae disciplinae concinnior, studiosorum diligentiae inquirendum relinquo: hoc enim 
+      for<lb ed="#L" n="36" break="no"/>tassis isto loco impertinens, vel operosius proposito aliquibus videretur, &amp; quia ad alia 
+      pro<lb ed="#L" n="37" break="no"/>pero via caepta. Primo tamen tangam hic breuiter aduersantium rationes: inter omnes autem 
+      <lb ed="#L" n="38"/>rationes eorum duae sunt quibus potissime innituntur; vna per distinctionem, alia per 
+      neces<lb ed="#L" n="39" break="no"/>sitatem procedens. Prima est talis; Si creatura distincta videret in verbo Antichristum fore. 
+      <lb ed="#L" n="40"/>aut quod Antichristus contrarius erit Christo, siue quodcunque tale verum complexum 
+      di<lb ed="#L" n="41" break="no"/>stincte videret extrema talis propositionis seu veri complexi, &amp; non per eundem actum, quia 
+      <lb ed="#L" n="42"/>per eundem actum praecise nequaquam distingueret aut discerneret inter illa, ille quoque actus 
+      <lb ed="#L" n="43"/>esset pure aequiuocus, &amp; eadem propositio vera &amp; falsa, cum inconuenientijs alijs quas 
+      conse<lb ed="#L" n="44" break="no"/>quenter ex istis facile est videre. Secunda ratio eorum est talis; Si quicquam futurum 
+      con<lb ed="#L" n="45" break="no"/>tingens reuelaretur creaturae in verbo illud necessario eueniret, quod arguunt per 
+      huiusmo<lb ed="#L" n="46" break="no"/>di rationes, cuiusmodi contra responsiones priores superiora capitula adducebant. Prima 
+      <lb ed="#L" n="47"/>autem ratio non procedit. Sic enim possent arguere, quod Pater non posset in verbo aut in 
+      es<lb ed="#L" n="48" break="no"/>sentia sua talia vera complexa videre, neque Filio aut Sancto Spiritui reuelare, contra sextum 
+      <lb ed="#L" n="49"/>&amp; septimum, decimum octauum, &amp; decimum nonum primi, ac tricesimum quartum huius: 
+      <lb ed="#L" n="50"/>Deus etiam ex vnissima &amp; simplicissima sed infinitissima sua virtute distinctissime cuncta 
+      vi<lb ed="#L" n="51" break="no"/>det, sicut ex septimo primi patet; Cur ergo secundum proximo huius praemissa, si velit 
+      mise<lb ed="#L" n="52" break="no"/>ricorditer, omnipotenter, licet ineffabiliter accommodare oculum suae virtutis creaturae 
+      dis<lb ed="#L" n="53" break="no"/>positae, non potest &amp; ipsa videre similiter quoquomodo, non virtute propria sed 
+      diuina<lb ed="#L" n="54" break="no"/>Nonne etiam creatura sciens aut credens in proprio genere quodcunque verum complexum, 
+      qua<lb ed="#L" n="55" break="no"/>cunque propositionem extrema quantucunque diuersa habentem, per vnum simplice actum 
+      scien<lb ed="#L" n="56" break="no"/>di aut credendi hoc facit? Cur ergo non potest similiter per vnum actum simplicem videre 
+      <lb ed="#L" n="57"/>in verbo quodcunque verum complexum, praesertim cum verbum incomparabiliter 
+      simpli<lb ed="#L" n="58" break="no"/>cius exprimat quodcunque verum complexum quam aliqua propositio, quam aliquis habitus, 
+      <!--818.xml-->
+      <pb ed="#A" n="785"/>
+               <lb ed="#L" n="1"/>quam aliqua creatura? Secunda similiter ratio non concludit. Si enim quia futurum 
+      contin<lb ed="#L" n="2" break="no"/>gens reueletur creaturae in verbo, ideo de necessitate eueniet, cur non similiter quia Filio, &amp; 
+      <lb ed="#L" n="3"/>Spiritui Sancto in verbo est &amp; Dei essentia reuelatur, sicut patet ex tricesimo quarto huius? 
+      Di<lb ed="#L" n="4" break="no"/>cent fortassis, quia reuelatio facta filio potest non esse &amp; non fuisse ei facta, creaturae 
+      au<lb ed="#L" n="5" break="no"/>tem nequaquam. Sed si reuelatio de futuro contingenti facta filio, re existente futura, 
+      po<lb ed="#L" n="6" break="no"/>test non esse nec vnquam fuisse ei facta; potest similiter &amp; re existente praesente, in 
+      prae<lb ed="#L" n="7" break="no"/>teritumue transmissa; aut si tunc non potest aut poterit, nec vnquam hoc potuit, aut  
+      <lb ed="#L" n="8"/>nunc potest, sicut potest patere ex tricesimo &amp; tricesimo primo huius. Si etiam ex reuelatione 
+      <lb ed="#L" n="9"/>creaturae in verbo sequatur necessitas reuelati, cur non ex reuelatione in proprio genere 
+      simi<lb ed="#L" n="10" break="no"/>liter consequetur? Modos autem videndi in verbo praemissos quanquam tanta seuitate 
+      trans<lb ed="#L" n="11" break="no"/>currerim, non nocet ipsos saltem breuiter tetigisse. Et licet quisquam modum videndi in 
+      ver<lb ed="#L" n="12" break="no"/>bo nequaquam statim possit videre ad plenum, non ideo statim resiliat tanquam incredulus 
+      <lb ed="#L" n="13"/>visioni: multa namque mirabilia videmus &amp; scimus certissime, multa quoque certissima fide 
+      <lb ed="#L" n="14"/>tenemus, quorum modum in caecitate praesenti perfecte comprehendere non valemus: 
+      com<lb ed="#L" n="15" break="no"/>prehendemus autem perfecte tam rem quam modum cum euacuato quod ex parte est, venerit 
+      <lb ed="#L" n="16"/>quod perfectum est, cum cognouerimus, sicut &amp; cogniti sumus, cum viderimus facie ad 
+      faci<lb ed="#L" n="17" break="no"/>em, sicuti est verissime ipsum verbum, candorem lucis aeternae, speculum sine macula 
+      maiesta<lb ed="#L" n="18" break="no"/>tis diuinae, &amp; imaginem bonitatis illius, in qua omnes res &amp; modi perfectissime 
+      demon<lb ed="#L" n="19" break="no"/>strantur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

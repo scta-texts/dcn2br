@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 47</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 47</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="436"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e58382"><!-- l1c47 -->
+            <head xml:id="dcn2br-e58382-Hd1e106">Caput 47</head>
+            <p xml:id="dcn2br-e58382-d1e109">
+      <!--469.xml-->
+               <pb ed="#A" n="436"/>
+               <lb ed="#L" n="1"/>CAP. XLVII. 
+      <lb ed="#L" n="2"/>Obiicit, &amp; respondet.
+    </p>
+            <p xml:id="dcn2br-e58382-d1e120">
+               <lb ed="#L" n="3"/>OBijciunt autem Pelagiani contra praemissa de Praedestinatione &amp; 
+      Re<lb ed="#L" n="4" break="no"/>probatione, conantes ipsas vel omnino destruere, vel saltem ostendere 
+      <lb ed="#L" n="5"/>ipsas esse secundum merita personarum. Deus, inquiunt, 
+      irrationabili<lb ed="#L" n="6" break="no"/>ter nihil agit, &amp; non est aliqua ratio quare Predestinet aut reprobet 
+      po<lb ed="#L" n="7" break="no"/>tius vnum quam alium. Predestinat ergo vel reprobat omnem vel 
+      nul<lb ed="#L" n="8" break="no"/>lum; Et non omnem, sicut omnes dicunt concorditer, ergo nullum. 
+      <lb ed="#L" n="9"/>Vel si sit aliqua ratio quare Praedestinat vel reprobat hunc non illum, B 
+      <lb ed="#L" n="10"/>illa non potest fundari nisi in meritis, &amp; difserentia meritorum. Quare 
+      <lb ed="#L" n="11"/>&amp; loachim Abbas de Flore, de praescientia Dei &amp; Praedestinatione electorum, dialogizando 
+      <lb ed="#L" n="12"/>inter Benedictum quaerentem &amp; ipsum respondentem, assignat duplicem rationem &amp; causam  
+      <lb ed="#L" n="13"/>Electionis, Praedestinationis, &amp; miserecordiae Dei, quarum prima est aptitudo ad 
+      misericor<lb ed="#L" n="14" break="no"/>diam, salutem, &amp; bonum; secunda, actio ipsa bona; contrariorum vero contrarias causas 
+      po<lb ed="#L" n="15" break="no"/>nit &amp; contrarias rationes. Item dedit eis potestatem filios Dei fieri Iohan. 1. quod ergo 
+      homi<lb ed="#L" n="16" break="no"/>nes secundum Praedestinationem &amp; gratiam filij Dei fiant est in eorum libera potestate, &amp; non  
+      <lb ed="#L" n="17"/>nisi per merita Deo grata. Huic &amp; concordat Propheta Psal. 68. vbi recitatis peccatis 
+      quo<lb ed="#L" n="18" break="no"/>rundam subiungit; Deleantur de libro viuentium, &amp; cum iustis non scribantur. Et illud 
+      Apo<lb ed="#L" n="19" break="no"/>calyps. 3. Tene quod habes, ne alius accipiat coronam tuam, quam scilicet Deus suis 
+      electo<lb ed="#L" n="20" break="no"/>ribus repromisit. Item si Adam non peccasset, nullus fuisset reprobatus, sed quilibet 
+      praede<lb ed="#L" n="21" break="no"/>stinatus; vtrumque ergo istorum est propter meritum correspondens. Item iniquum &amp; 
+      cru<lb ed="#L" n="22" break="no"/>dele esset, hominem vel Angelum nocere alteri sine culpa aliqua praecedente, nec hoc posset 
+      <lb ed="#L" n="23"/>facere sine culpa; quanto magis ergo Deum iustissimum &amp; piissimum hoc non decet? quare 
+      <lb ed="#L" n="24"/>nec decet quod aliquem reprobet, &amp; ad id ignem aeternum praedestinet, nisi propter culpam 
+      <lb ed="#L" n="25"/>aliquam praecedentem. Verum prima istorum itrationabilis ratio, per praemissa, 210. &amp; 350. 
+      <lb ed="#L" n="26"/>&amp; capitulis sequentibus lucide potest solui. Quod autem ad confirmationem adducitur de 
+      <lb ed="#L" n="27"/>loachim, licet fuerit magnus Doctor, autoritatem magnam non habet; sicut in materia de 
+      <lb ed="#L" n="28"/>trinitate fuit Arrianus, vt patet in libello quem edidit contra Petrum Lumbardum De 
+      Trini<lb ed="#L" n="29" break="no"/>tate, seu de essentia Trinitatis, &amp; per Innocentium tertium, &amp; Concilium generale. sicut 
+      reci<lb ed="#L" n="30" break="no"/>tatur, Extra desumma Trm, &amp; fid. Catholica, Damnamus: sic in ista materia fuit Pelagianus, 
+      <lb ed="#L" n="31"/>ponendo causam originalem Praedestinationis &amp; Reprobationis, non ex parte Dei 
+      Praedesti<lb ed="#L" n="32" break="no"/>nantis &amp; Reprobantis, sed ex parte Praedestinatorum &amp; Reprobatorum, aptitudinem 
+      scili<lb ed="#L" n="33" break="no"/>cet atque actum, sicut superius recitatur. Laborat tamen vt periculosum pelagus 
+      Pelagiano<lb ed="#L" n="34" break="no"/>rum declinet, dicendo, causam Electionis &amp; Reprobationis diuinae esse aptitudinem ad 
+      mise<lb ed="#L" n="35" break="no"/>ricordiam, vel ad iram, non autem ad opera neque actus. Et Benedicto quaerenti, quaenam 
+      <lb ed="#L" n="36"/>sit illa aptitudo ad bonum vel ad malum, si non sit opera bona vel mala, vt dicit Apostolus de 
+      <lb ed="#L" n="37"/>Iacob, &amp; Esau, respondet, quod non est opus, sed receptaculum gratiae vel irae, ex quarum  
+      <lb ed="#L" n="38"/>prima, bona; ex secunda, mala opera oriuntur. Et infra, dum hos vel illos Deus eligeret, non 
+      <lb ed="#L" n="39"/>quaesiuit in eis iustitiam, quam ipse erat daturus, sed solam materiam humilitatis &amp; 
+      miserabi<lb ed="#L" n="40" break="no"/>litatis, id est, vt essent apti ad misericordiam. Verum quia nimis prope ripam pelagi 
+      Pelagi<lb ed="#L" n="41" break="no"/>ani accessit, praecipitium passus, ipsius voragine est absorptus, vt etiam diceret causam 
+      Praede<lb ed="#L" n="42" break="no"/>stinationis &amp; Reprobationis esse merita personarum. Et vt diffusum eius processum succincte 
+      <lb ed="#L" n="43"/>recolligam, vult quod causa Praedestinationis sit humilitas, Reprobationis, superbia. Dicit 
+      e<lb ed="#L" n="44" break="no"/>nim, Abiectio &amp; miseria est proprie causa diuinae electionis. Vnde Apostolus, Videte, Fratres. 
+      <lb ed="#L" n="45"/>vocationem vestram, quia non multi sapientes secundum carnem, sed quae stulta sunt mundi 
+      <lb ed="#L" n="46"/>elegit Deus. Et infra liquet luce clarius, quod non pro iustitia assumatur aliquis a Deo, sed pro 
+      <lb ed="#L" n="47"/>miseria, non pro operibus, sed pro exilitate, non pro fortitudine sed pro infirmitate, non pro 
+      <lb ed="#L" n="48"/>sapientia, sed pro stultitia, non pro nobilitate, sed pro ignobilitate; sicut Pharisaeus ille 
+      repul<lb ed="#L" n="49" break="no"/>sus est pro iustitia sua, publicanus vero assumptus pro suis peccatis, non quia iniustitiam amat 
+      <lb ed="#L" n="50"/>Deus, &amp; odit innocentiae puritatem, sed quia repellit superbientem de iustitia, parcit autem 
+      <lb ed="#L" n="51"/>humilibus poenitentibus de peccatis. Et infra, Electionis causa est abiectio &amp; afflictio, non 
+      <lb ed="#L" n="52"/>quia ista simpliciter placent Deo, sed quia pariunt humilitatem quam solam requirit Deus 
+      vir<lb ed="#L" n="53" break="no"/>tutem in Angelis &amp; in hominibus. Et infra, Quia praesciuit Dominus populum Iudaicum 
+      fu<lb ed="#L" n="54" break="no"/>turum superbum, odiuit &amp; repulit cum. Ex quibus &amp; euidenter apparet quod sit contrarius 
+      <!--470.xml-->
+      <pb ed="#A" n="437"/>
+               <lb ed="#L" n="1"/>sibi ipsi. Quomodo etiam stare potest quod aptitudo, praedestinationis vel reprobationis sit 
+      <lb ed="#L" n="2"/>causa, cum aeque aptorum vnus aliquoties assumatur, &amp; alius relinquatur, imo &amp; aliquando 
+      <lb ed="#L" n="3"/>assumitur minus aptus, &amp; relinquitur magis aptus? Quomodo etiam est abiectio &amp; miseria 
+      <lb ed="#L" n="4"/>causa praedestinationis diuinae, cum multi, vt timeo, hic abiecti, miseri, &amp; mendici finaliter 
+      <lb ed="#L" n="5"/>reprobentur, multi etiam hic semper nobiles, foelices, &amp; diuites praedestinentur ad vitam? In 
+      <lb ed="#L" n="6"/>sanctis etiam Angelis praedestinatis, &amp; finaliter confirmatis nunquam fuit abiectio, neque 
+      mi<lb ed="#L" n="7" break="no"/>seria qualiscunque, quia nec culpae, nec poenae, quae insuper abiectio vel miseria fuit causa, 
+      qua<lb ed="#L" n="8" break="no"/>re Christus praedestinatus est Dei Filius in virtute, ad Rom. 1. quod &amp; posset multis 
+      rationi<lb ed="#L" n="9" break="no"/>bus alijs reprobari. Sed quia non multi adhaerent, sufficiant ista pauca. Cum autem allegant 
+      <lb ed="#L" n="10"/>Iohannem dicentem; Dedit eis potestatem filios Dei fieri, videtur eos velle astruere aliquos 
+      <lb ed="#L" n="11"/>fieri seu posse fieri nouiter filios Dei secundum praedestinationem, vt scilicet de non 
+      praedesti<lb ed="#L" n="12" break="no"/>natis, quare &amp; de reprobatis fiant nouiter &amp; temporaliter praedestinati, &amp; desinant similiter 
+      <lb ed="#L" n="13"/>esse reprobati, contra prius ostensa 23. &amp; 45. huius, quod &amp; contradictionem euidenter 
+      in<lb ed="#L" n="14" break="no"/>cludit, sicut ex eisdem locis potest perspicue demonstrari. Dictum quoque Iohannis magis 
+      vi<lb ed="#L" n="15" break="no"/>detur probare contrarium: Non enim dicit; Dedit eis potestatem filios Dei se facere, sed filios 
+      <lb ed="#L" n="16"/>Dei fieri. Sed a quo? nunquid ex seipsis, nunquid ex propria voluntate? quis vnquam se 
+      gig<lb ed="#L" n="17" break="no"/>nit? quis vnquam nascitur ex seipso? quis filius Diaboli potest se gignere, &amp; parere filium Dei? 
+      <lb ed="#L" n="18"/>Audi quod sequitur; Neque, inquit, ex voluntate carnis, neque ex voluntate viri, sed ex Deo 
+      <lb ed="#L" n="19"/>nati sunt. Non ergo ipsi se ipsos, sed Deus filios Dei facit. Quare &amp; Philosophus 5. Metaph. 
+      <lb ed="#L" n="20"/>17. &amp; 9. Metaph. 2. ostendit, quod duplex est potestas, &amp; potentia, actiua scilicet &amp; passiua: 
+      <lb ed="#L" n="21"/>Tale est ergo quod hic dicitur; Dedit eis potestatem filios Dei fieri, quale est illud quod 
+      dici<lb ed="#L" n="22" break="no"/>tur ad Rom. 8. quicunque Spiritu Dei aguntur, hi filij Dei sunt: Dedit ergo Deus hominibus 
+      <lb ed="#L" n="23"/>potestatem filios Dei fieri, scilicet animam rationalem &amp; liberum arbitrium libere &amp; volunta 
+      <lb ed="#L" n="24"/>rie receptiuum gratiae in praesenti, &amp; gloriae in futuro, vt sic tam hic quam ibi filij Dei fiant, vt 
+      <lb ed="#L" n="25"/>tamen in praesenti cum facti sint filij Dei per fidem &amp; gratiam praeuiam in filios Dei 
+      adoptan<lb ed="#L" n="26" break="no"/>tem, libere faciant, grata opera filiorum, vt sic grati filij libere perseuerent, in tantum quod 
+      ni<lb ed="#L" n="27" break="no"/>hil potest istam filiationem eis eripere nisi velint. Quare &amp; dicit ibi Chrysostomus, sicut alle 
+      <lb ed="#L" n="28"/>gatur in Glossa, dixit; Dedit eis potestatem filios Dei fieri, ostendens quod multo opus studio, 
+      <lb ed="#L" n="29"/>vt eam, quae in baptismo adoptionis formata est, imaginem, incontaminatam semper 
+      custo<lb ed="#L" n="30" break="no"/>diamus, simul autem &amp; ostendens quoniam potestatem hanc nullus nobis vel auferre poterit, 
+      <lb ed="#L" n="31"/>nisi nos ipsi auferamus; simul etiam ostendere vult, quoniam haec gratia aduenit volentibus 
+      <lb ed="#L" n="32"/>&amp; studentibus. Etenim in potestate est liberi arbitrij, &amp; gratiae, operatione filios Dei fieri. Et  
+      <lb ed="#L" n="33"/>Augustinus homil. 3. super Iohannem; Quare, inquit, nascuntur omnes in peccato? quia 
+      ne<lb ed="#L" n="34" break="no"/>mo natus est praeter Adam; vt autem nascerentur ex Adam, necessitatis fuit ex damnatione, 
+      <lb ed="#L" n="35"/>nasci per Christum voluntatis est &amp; gratiae; non coguntur homines nasci per Christum; non 
+      <lb ed="#L" n="36"/>quia voluerunt, nati sunt ex Adam, omnes tamen qui ex Adam, cum peceato peccatores, 
+      om<lb ed="#L" n="37" break="no"/>nes, qui per Christum iustificati &amp; iusti, non in se, sed in illo. Nec etiam dicendo; Dedit eis 
+      <lb ed="#L" n="38"/>potestatem filios Dei fieri, ab illa factione Deum excludit, &amp; hominem solum includit; neque 
+      <lb ed="#L" n="39"/>si factio illa sit amborum communis, hominem ibi praeponit, &amp; Deum postponit ordine 
+      na<lb ed="#L" n="40" break="no"/>turali. Quare &amp; dicit; Dedit eis potestatem filios Dei fieri, non se facere: Et iterum; Neque 
+      <lb ed="#L" n="41"/>ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt, qui huius diuinae 
+      generati<lb ed="#L" n="42" break="no"/>onis principium est &amp; autor. Quare &amp; Beda, sicut allegatur in Glossa; Carnalis, inquit, 
+      singu<lb ed="#L" n="43" break="no"/>lorum generatio a complexu coniugij duxit originem, at vero spiritualis Spiritus Sancti 
+      gra<lb ed="#L" n="44" break="no"/>tia ministratur. Et Chrysostomus; Haec autem natrat Euangelista, vt vilitatem &amp; 
+      humilita<lb ed="#L" n="45" break="no"/>tem prioris partus, qui est per sanguinem &amp; voluntatem carnis addiscentes, &amp; altitudinem 
+      se<lb ed="#L" n="46" break="no"/>cundi, qui per gratiam &amp; nobilitatem est, cognoscentes, magnam quandam hic suscipiamus 
+      <lb ed="#L" n="47"/>intelligentiam, &amp; dignam dono ipsius qui genuit, &amp; multum post haec, studium 
+      demonstre<lb ed="#L" n="48" break="no"/>mus. Dicitque Augustinus homilia tertia super Iohannem; Quotquot receperunt eum, dedit 
+      <lb ed="#L" n="49"/>eis potestatem filios Dei fieri, si filij fiunt, nascuntur; si nascuntur, quomodo nascuntur, non 
+      <lb ed="#L" n="50"/>ex carne, non ex sanguinibus, non ex voluntate carnis, non ex voluntate viri, sed ex Deo nati 
+      <lb ed="#L" n="51"/>sunt. Gaudeant ergo quod ex Deo nati sint, praesumant se pertinere ad Deum, accipiant 
+      do<lb ed="#L" n="52" break="no"/>cumentum quia ex Deo nati sunt; Et Verbum caro factum est, &amp; habitauit in nobis. Si 
+      Ver<lb ed="#L" n="53" break="no"/>bum non erubuit nasci de homine, homines erubescent nasci de Deo? Neque dicendo; 
+      De<lb ed="#L" n="54" break="no"/>dit eis potestate filios Dei fieri, dicit, quod dedit eis potestate filios Dei fieri per precedentia 
+      o<lb ed="#L" n="55" break="no"/>pera meritorum, sicut Pelag. somniat. Absit quod Euangelista suo Domino contradicat, quia 
+      <lb ed="#L" n="56"/>ipsomet recitante infra 6. sic ait; Nemo potest venire ad me, nisi Pater, qui misit me, traxerit 
+      il<lb ed="#L" n="57" break="no"/>lu: &amp;, Nemo potest venire ad me, nisi fuerit eidatum a Patre meo. Absit etiam quod sibi ipsi in tam  
+      <lb ed="#L" n="58"/>breui serie contradicat: cito namque post haec verba eius superius recitata, dicit quod verbum fuit 
+      <!--471.xml-->
+      <pb ed="#A" n="438"/>
+               <lb ed="#L" n="1"/>plenum gratiae &amp; veritatis, &amp; addit, Et de plenitudine eius nos omnes accepimus, &amp; gra. 
+      <lb ed="#L" n="2"/>tiam pro gratia. Accepimus, inquam, primo gratiam? gratis datam &amp; veritatem, quia 
+      <lb ed="#L" n="3"/>gratiam ante promissam, &amp; sic gratiam pro gratia, gratiam scilicet gratis datam pro grata 
+      <lb ed="#L" n="4"/>promissione gratuitae gratiae prophetice prius facta, vel accepimus in spe certa secundo 
+      gra<lb ed="#L" n="5" break="no"/>tiam beatitudinis in futuro, pro gratia in re, &amp; gratis operibus in praesenti. Quare &amp; 
+      Augu<lb ed="#L" n="6" break="no"/>stinus homilia 3a. super Ioannem, sic scribit, non ait, Et de plenitudine eius nos omnes 
+      ac<lb ed="#L" n="7" break="no"/>cepimus, gratiam pro gratia; sed sic ait; Et de plenitudine eius nos omnes accepimus, &amp; 
+      gra<lb ed="#L" n="8" break="no"/>tiam pro gratia, vbi nescio quid nos oluerit intelligere de plenitudine eius accepisse, &amp; 
+      in<lb ed="#L" n="9" break="no"/>super gratiam pro gratia: Accepimus enim de plenitudine eius primo gratiam, &amp; rursum 
+      ac<lb ed="#L" n="10" break="no"/>cepimus gratiam pro gratia; quam gratiam primo accepimus? Fidem; In fide 
+      ambulan<lb ed="#L" n="11" break="no"/>tes in gratia ambulamus. Vnde enim meruimus hoc? quibus nostris praecedentibus meritis? 
+      <lb ed="#L" n="12"/>gratia tibi data est, non merces reddita. Vnde vocatur gratia quia gratis datur: Non enim 
+      <lb ed="#L" n="13"/>praecedentibus meritis emisti quod accepisti. Hanc ergo accepit gratiam primam peccator, 
+      <lb ed="#L" n="14"/>vt eius peccata dimitterentur; quid meruit, interroget iustitiam, inueniet poenam; interioget  
+      <lb ed="#L" n="15"/>misericordiam, inueniet gratiam. Sed hoc &amp; promiserat Deus per Prophetas: Itaque cum 
+      <lb ed="#L" n="16"/>venit dare quod promiserat, non solum gratiam dedit, sed &amp; veritatem. Quomodo 
+      ex<lb ed="#L" n="17" break="no"/>hibita est veritas? quia factum est quod promissum est: quid est ergo gratiam pro gratia? 
+      <lb ed="#L" n="18"/>Fide promeremur Deum, accipis praemium immortalitatem &amp; vitam aeternam, &amp; illa 
+      gra<lb ed="#L" n="19" break="no"/>tia est, Nam pro quo merito accipis vitam aeternam? pro gratia. Dona sua coronat Deus, 
+      <lb ed="#L" n="20"/>non merita tua. Potest quoque multum congrue intelligi &amp; exponi ad literam, de his qui 
+      fa<lb ed="#L" n="21" break="no"/>cti sunt actualiter filij Dei per fidem &amp; gratiam in praesenti, quod dedit eis potestatem, 
+      scili<lb ed="#L" n="22" break="no"/>cet gratiam liberum arbitrium adiuuantem, filios Dei fieri in futuro, in regno coelorum. 
+      <lb ed="#L" n="23"/>Quare &amp; praemittit, Quotquot autem receperunt eum, scilicet per fidem formatam, in cum 
+      <lb ed="#L" n="24"/>credendo, dedit eis, &amp;c. Quare &amp; Theophilus, sicut allegatur in glossa, Quia, inquit, in 
+      resur<lb ed="#L" n="25" break="no"/>rectione filiationem perfectissimam consequemur, secundum quod Apostolus dicit, 
+      adoptio<lb ed="#L" n="26" break="no"/>nem filiorum Dei expectantes, redemptionem corporis nostri, dedit potestatem filios Dei 
+      fie<lb ed="#L" n="27" break="no"/>ri, id est, hanc gratiam in futura gratia consequendi. Cum vero obijciant illud Psal. 
+      Delean<lb ed="#L" n="28" break="no"/>tur de libro viuentium, si intelligant secundum superficiem literalem, hunc concedere, quod 
+      <lb ed="#L" n="29"/>praedestinatio &amp; reprobatio est temporalis; ita scilicet quod aliquis prius fuit praedestinatus, &amp;  
+      <lb ed="#L" n="30"/>non reprobatus, &amp; nunc non est praedestinatus sed reprobatus; Si enim quis temporaliter 
+      de<lb ed="#L" n="31" break="no"/>leatur de libro viuentium, tunc est ita contra prius ostensa. Quare oportet quod habeat 
+      ali<lb ed="#L" n="32" break="no"/>um intellectum. Potest ergo intelligi de deletione secundum praesentem iustitiam, secundum 
+      <lb ed="#L" n="33"/>distinctionem 25o, praemissam; vel deleantur, id est deleti, hoc est non scripti habeantur, seu 
+      o<lb ed="#L" n="34" break="no"/>stendantur, secundum quod subditur, Et cum iustis non scribantur. Vel etiam deleantur 
+      secun<lb ed="#L" n="35" break="no"/>dum propriam spem illorum, sicut &amp; Deus dicitur poenitere, sicut septimum recitauit. Quare 
+      <lb ed="#L" n="36"/>&amp; August. super illum Psal. tractatu 20. Fratres, inquit, non sic accipere debemus, quoniam 
+      <lb ed="#L" n="37"/>quenquam Deus scribit in libro vitae &amp; delet eum. Si homo dixit, quod scripsi, scripsi, de titulo 
+      <lb ed="#L" n="38"/>vbi scriptum erat Rex Iudaeorum, Deus quenquam scribit &amp; delet? Praescius est, 
+      praedesti<lb ed="#L" n="39" break="no"/>nauit omnes, ante constitutionem mundi, regnaturos cum filio suo in vitam aeternam, hos 
+      <lb ed="#L" n="40"/>conscripsit, ipsos continet liber vitae: Quomodo ergo inde delentur, vbi nunquam scripti sunt? 
+      <lb ed="#L" n="41"/>hoc dictum est secundum spem ipsorum, quia ipsi se scriptos putabant. Quid est deleantur de 
+      <lb ed="#L" n="42"/>libro vitae? &amp; ipsis constet non Lillos/ ibi esse. Sic ergo illi qui se sperabant tanquam merito 
+      iu<lb ed="#L" n="43" break="no"/>stitiae suae in libro Dei scriptos cum perducta fuerit eorum damnatio, etiam ad // cognitionem 
+      <lb ed="#L" n="44"/>eorum, delebuntur de libro viuentium, id est non ibi se esse cognoscent. Nam versus qui 
+      se<lb ed="#L" n="45" break="no"/>quitur, exponit quod dictum est, Et cum iustis non scribantur: Dixi ergo, deleantur 
+      secun<lb ed="#L" n="46" break="no"/>dum spem ipsorum, secundum autem aequitatem tuam quid dico? non scribantur. 
+      Intelli<lb ed="#L" n="47" break="no"/>gentes illud Apocalypsis ad literam, Tene quod habes, ne alius, vel vt nemo accipiat 
+      coro<lb ed="#L" n="48" break="no"/>nam tuam, habent similiter dicere, aliquem posse temporaliter &amp; nouiter coronam 
+      praedesti<lb ed="#L" n="49" break="no"/>nationis amittere, &amp; alium admittere, &amp; ita consequenter hunc desinere temporaliter &amp; 
+      no<lb ed="#L" n="50" break="no"/>uiter esse praedestinatum, &amp; incipere esse reprobatum, &amp; illum e contra; quod 
+      praeceden<lb ed="#L" n="51" break="no"/>tia non permittunt. Nec Ioannes, imo nec spiritus in loanne dicit aut innuit quenquam per se 
+      <lb ed="#L" n="52"/>&amp; propriis viribus, sine Dei auxilio tenere aut posse tenere suam coronam, in bona scilicet 
+      vi<lb ed="#L" n="53" break="no"/>ta &amp; bonis operibus perseuerare vsque in finem; aut quenquam posse per se &amp; viribus suis 
+      <lb ed="#L" n="54"/>tantum sine Deo specialiter operante, accipere coronam praedestinationis aut gratiae in 
+      praesen<lb ed="#L" n="55" break="no"/>ti vel gloriae in futuro, sicut 2um. 9um. &amp; 35um. &amp; sequentia cum 450. probant. Hoc idem 
+      <lb ed="#L" n="56"/>&amp; verba fidelissima eiusdem loci fidelissime contestantur. Haec dicit sanctus &amp; verus qui 
+      ha<lb ed="#L" n="57" break="no"/>bet clauem Dauidis, qui aperit &amp; nemo claudit, qui claudit &amp; nemo aperit: Ecce dedicoram  
+      <!--472.xml-->
+      <pb ed="#A" n="439"/>
+               <lb ed="#L" n="1"/>te ostium apertum, quod nemo potest claudere, quia modicam habes virtutem, &amp; seruasti 
+      <lb ed="#L" n="2"/>verbum meum, &amp; ego seruabo te ab hora tentationis. Ecce venio cito; Tene quod habes 
+      <lb ed="#L" n="3"/>&amp;c. vbi patenter docetur, quod perseuerantia in bono est primo ex conseruatione diuina, 
+      se<lb ed="#L" n="4" break="no"/>cundo ex cooperatione humana; quanto magis inchoatio &amp; adeptio bonae vitae non est 
+      ho<lb ed="#L" n="5" break="no"/>mini a se solo. Cum ergo dicitur, Tene quod habes, &amp;c. praeuenitur &amp; excitatur bonus, vt in 
+      <lb ed="#L" n="6"/>bono finaliter perseueret: Sic enim fortassis erat praedestinatus, vt per talem exhortationem 
+      <lb ed="#L" n="7"/>Dei vel hominis perseueraret finaliter &amp; coronam acquireret &amp; teneret iuxta praemissa 23o 
+      <lb ed="#L" n="8"/>huius. Vnde &amp; Augustinus de bono perseuer. 64. Qui nondum sunt, vocati, pro eis vt 
+      vocen<lb ed="#L" n="9" break="no"/>tur, oremus; fortassis enim sic praedestinati sunt vt nostris orationibus concedantur, &amp; 
+      acci<lb ed="#L" n="10" break="no"/>piant gratiam, qua velint &amp; efficiantur electi; Deus enim qui omnia praedestinauit, implebit. 
+      <lb ed="#L" n="11"/>Potest quoque istud Apocalypsis exponi, sicut &amp; illud Psalmi praemissum; Potest enim quis 
+      <lb ed="#L" n="12"/>amittere, vel accipere coronam vitae secundum praesentem iustitiam, vel secundum 
+      manife<lb ed="#L" n="13" break="no"/>stationem, vel secundum spem firmam. Quare &amp; Augustinus de bono perseuerant. 7. 
+      pro<lb ed="#L" n="14" break="no"/>bans perseuerantiam finalem non posse amitti, &amp; innuens distinctionem de amitti, sic ait, 
+      Per<lb ed="#L" n="15" break="no"/>seuerantiam vsque in finem, quoniam non habet nisi qui perseuerauerit vsque in finem, 
+      <lb ed="#L" n="16"/>multi eam possunt habere, nullus amittere. Sed ne forte dicatur perseuerantiam vsque in 
+      fi<lb ed="#L" n="17" break="no"/>nem non amitti quidem cum data fuerit, id est, cum perseueratum fuerit vsque in finem, sed 
+      <lb ed="#L" n="18"/>tunc amitti quodammodo quando agit homo per contumaciam, vt ad eam peruenire non  
+      <lb ed="#L" n="19"/>possit, sicut dicimus hominem qui non perseuerauerit vsque in finem, amisisse vitam 
+      aeter<lb ed="#L" n="20" break="no"/>nam vel regnum Dei, non quod iam acceperat &amp; habebat, sed quod acciperet si perseuerasset: 
+      <lb ed="#L" n="21"/>verborum controuersias auferamus, &amp; nonnulla etiam quae non habentur, sed habenda 
+      spe<lb ed="#L" n="22" break="no"/>rantur, posse dicamus amitti. Quod vero arguitur, Si Adam non peccasset, nullus fuisset 
+      re<lb ed="#L" n="23" break="no"/>probatus, sed quilibet praedestinatus, non probat ista ex meritis dependere. Quantum enim 
+      <lb ed="#L" n="24"/>ad formam illationis stat oppositum manifeste. Si namque, sicut ex 45o videtur, Deus non  
+      <lb ed="#L" n="25"/>praedestinat homini certum finem, vel hominem ad certum finem, puta vitam prepter opera 
+      <lb ed="#L" n="26"/>sua futura, sed e contra, nullo modo concludit, quia si homo aliter fecisset, Deus aliter 
+      prae<lb ed="#L" n="27" break="no"/>destinasset, a posteriori ad prius: Hominem enim aliter fecisse, non fuisset causa, nec prius 
+      <lb ed="#L" n="28"/>causaliter aut naturaliter, quare Deus praedestinasset aliter, sed e contra. Cuius exemplum 
+      <lb ed="#L" n="29"/>est, Si Christus non fecisset opera bona, non fuisset praedestinatus filius Dei, ergo propter 
+      <lb ed="#L" n="30"/>opera sua bona praedestinatus est filius Dei; Fallit; Si Paulus non praedicasset, non fuisset 
+      prae<lb ed="#L" n="31" break="no"/>destinatus, seu electus vt praedicaret; ergo quia praedicauit praedestinatus fuerat praedicator? 
+      <lb ed="#L" n="32"/>Non, sed e contra: Si Sol nunquam luceret, nec ignis calefaceret, non fuisset praedestinatus, 
+      <lb ed="#L" n="33"/>vt sic faceret; ergo quia sic facit, praedestinatus est sic facere? Non; sed quia praedestinatus, 
+      <lb ed="#L" n="34"/>seu praeordinatus est ita facere, ita facit. Nec est omniquaque clarissimum, quod si Adam  
+      <lb ed="#L" n="35"/>non peccasset, nullus fuisset reprobatus. Videtur enim nonnullis non fuisse necessarium, 
+      li<lb ed="#L" n="36" break="no"/>cet Adam stetisset, quod tota sua posteritas fuisset statim effecta impeccabilis, &amp; finaliter 
+      <lb ed="#L" n="37"/>confirmata; sed fuisse possibile posteros suos habuisse libertatem contradictionis ad 
+      bo<lb ed="#L" n="38" break="no"/>num &amp; malum. Tenendo tamen cum Anselmo I. Cur Deus homo 10. quod si Adam 
+      ste<lb ed="#L" n="39" break="no"/>tisset finaliter, tota sua posteritas fuisset impeccabilis confirmata, tunc secundum sententiam 
+      <lb ed="#L" n="40"/>Gregorij 4. Moral. 39o huius praemissam, nullus reprobatorum generatus fuisset, sed soli illi 
+      <lb ed="#L" n="41"/>qui nunc sunt praedestinati ad vitam; nec ideo peccatum Adae est prima causa 
+      reprobatio<lb ed="#L" n="42" break="no"/>nis, sed si ipse non peccasset, Deus aliter ordinasset, sicut superius dicebatur. Et si obijcias 
+      <lb ed="#L" n="43"/>contra istud, quod aliquis praedestinatus generatur quandoque ab aliquo reprobato, sicut 
+      <lb ed="#L" n="44"/>Christianus a non Christiano, &amp; bonus Christianus a malo, nec fuisset ab aliquo genitus, si 
+      <lb ed="#L" n="45"/>Adam non peccasset, non ergo soli nunc praedestinati fuissent tunc nati; non mihi, sed beato 
+      <lb ed="#L" n="46"/>Gregorio potius contradicis. Veruntamen pro defensione beati Gregorij, potest 
+      multipli<lb ed="#L" n="47" break="no"/>citer responderi; vno modo, quod si Adam non peccasset, soli illi fuissent tunc nati, qui sunt 
+      <lb ed="#L" n="48"/>nunc electi; hoc est, solummodo tot fuissent tunc nati, quot sunt nunc electi; vel aliter, soli 
+      <lb ed="#L" n="49"/>illi &amp;c. verum est secundum animas. Tunc enim Deus creasset animas illas tantum, quae nunc 
+      <lb ed="#L" n="50"/>sunt animae electorum, licet quasdam fortassis corporibus alijs copulasset: vel adhuc 
+      forsi<lb ed="#L" n="51" break="no"/>tan aliter potest dici, quod soli illi secundum animas, d&amp; secundum corpora fuissent tunc nati, 
+      <lb ed="#L" n="52"/>qui sunt nunc electi; sed aliquis electus nunc genitus ab vno patre puta a reprobo fuisset tunc 
+      <lb ed="#L" n="53"/>genitus abalio, videlicet ab electo. Sed obijcis mihi forte, Si enim sic esset, Isaac potuit 
+      ge<lb ed="#L" n="54" break="no"/>nuisse Abraham patrem suum, quod videtur absurdum: aequali etiam ratione, imo maiori 
+      <lb ed="#L" n="55"/>potuit genuisse quemlibet alium hominem, &amp; homines infinitos, contra praemissa in 
+      ostensi<lb ed="#L" n="56" break="no"/>one 40. partis Corollarij, primi, huius. Si insuper ita fuit, cur potius genuit Iacob, quam  
+      <lb ed="#L" n="57"/>quemlibet alium hominem, cum ipse fuit indifferens, &amp; mater simili ratione? Adhuc autem si 
+      <!--473.xml-->
+      <pb ed="#A" n="440"/>
+               <lb ed="#L" n="1"/>sit ita, ponantur duo homines aeque potentes ad generandum Iohannem futurum, apponantque 
+      <lb ed="#L" n="2"/>operam requisitam, &amp; vterque generabit eundem Iohannem in diuersis locis. Cur enim potius 
+      <lb ed="#L" n="3"/>hic quam ille? &amp; si hic vel ille solus egisset, Iohannem proculdubio genuisset; quare &amp; nunc 
+      <lb ed="#L" n="4"/>cum simili modo agat. Posset quoque secundum istam sententiam homo iuuenis suum auum 
+      <lb ed="#L" n="5"/>senem nouiter generate, &amp; reddere eum puerum iuuenem vnius dici; simulque decrepitum &amp; 
+      <lb ed="#L" n="6"/>infantem, cum alijs absurditatibns multis valde, imo &amp; posset mortuum suscitare. Posset 
+      e<lb ed="#L" n="7" break="no"/>nim aliquem generare, qui olim fuit mortuus &amp; sepultus. Dicunt quoque Philosophi, quod 
+      <lb ed="#L" n="8"/>si agens est idem &amp; passum idem, actum erit idem; quare &amp; a contrario, Si agens aut passum 
+      <lb ed="#L" n="9"/>sit diuersum, puta pater vel mater, actum diuersabitur, puta proles. Pro solutione istorum, 
+      <lb ed="#L" n="10"/>dicendum quod duplex est sententia circa identitatem hominis numeralem; vna, quod ad  
+      <lb ed="#L" n="11"/>identitatem hominis numeralem, nequaquam requiritur identitas numeralis corporis 
+      <lb ed="#L" n="12"/>hominis, neque secundum totum, neque secundum aliquam sui partem, sed sola 
+      <lb ed="#L" n="13"/>identitas animae numeralis; ita quod si anima Petri poneretur in copore Pauli, vel I 
+      <lb ed="#L" n="14"/>alterius cuiuscunque, esset nihilominus idem Petrus; Altera, quod ad identitatem hominis 
+      <lb ed="#L" n="15"/>numeralem, requiritur identitas animae numeralis, &amp; etiam corporis vel secundum totum vel 
+      <lb ed="#L" n="16"/>secundum partem aliquam principalem, partesue aliquas principales. Secundum primam 
+      au<lb ed="#L" n="17" break="no"/>tem sententiam, omnia obiecta faciliter possunt solui, dicendo quod non est in potestate 
+      ho<lb ed="#L" n="18" break="no"/>minis generantis, generare A vel B istum, vel illum, sed in potestate Dei, animam quam  
+      <lb ed="#L" n="19"/>voluerit infundentis. Supponendo quoque secundam sententiam, non improbabiliter 
+      re<lb ed="#L" n="20" break="no"/>spondendum, quod idem filius potest ex diuersis patribus generati, non tamen ex diuersis 
+      se<lb ed="#L" n="21" break="no"/>minibus, quae tribuunt filio materiam corporis principalem. Quod autem idem semen, quod 
+      <lb ed="#L" n="22"/>ab vno deciditur, ab alio posset decidi, apparet, quia illud semen est superfluum alimenti, ex 
+      <lb ed="#L" n="23"/>tertia digestione relictum, &amp; si alius penitus similis idem alimentum assumeret, caeteris 
+      pari<lb ed="#L" n="24" break="no"/>bus eandem partem ipsius digerendo conuerteret in substantiam suam, quam alius, &amp; eandem 
+      <lb ed="#L" n="25"/>superfluitatem, relinqueret; sicut vnus ignis combustibili certo applicitus generat vnum 
+      ig<lb ed="#L" n="26" break="no"/>nem; &amp; si alius penitus similis similiter fuisset applicitus, &amp; non primus, eundem ignem 
+      nu<lb ed="#L" n="27" break="no"/>mero generasset, quem primus; eo quod quodlibet combustibile seu eius materia, est in 
+      po<lb ed="#L" n="28" break="no"/>tentia propinqua, seu proxima ad vnum ignem tantummodo, seu vnicam formam ignis, 
+      alio<lb ed="#L" n="29" break="no"/>quin esset in potentia proxima ad infinitos seu infinitas simpliciter. Ex his potest faciliter elici 
+      <lb ed="#L" n="30"/>responsio ad obiecta. Illud autem Philosophicum, Si agens est idem &amp; passum idem, actum 
+      e<lb ed="#L" n="31" break="no"/>rit idem; non videtur statim simpliciter concedendum: Idem namque pater &amp; mater diuersis 
+      <lb ed="#L" n="32"/>temporibus generant proles diuersas; Et idem Sol in eodem aere seu vitro, &amp; in eadem Luna, 
+      <lb ed="#L" n="33"/>diuersis temporibus generat lumen diuersum. Quapropter &amp; Auerroes super 12. Metaphys. 
+      <lb ed="#L" n="34"/>Aristotelis II. scribit ita, Si materia fuerit vna, &amp; generans vnum, &amp; potentia vna, tunc illud 
+      <lb ed="#L" n="35"/>quod sit erit vnum: Subiectum enim cum fuerit vnum, &amp; potentia existens in eo fuerit vna, &amp; 
+      <lb ed="#L" n="36"/>agens vnum, tunc nulla erit causa multitudinis. Pro argumento de iniquitate, &amp; crude litate 
+      <lb ed="#L" n="37"/>sciendum quod non omnis poena rationabiliter illata homini ab homine, propter culpam 
+      su<lb ed="#L" n="38" break="no"/>am praecedentem infertur, sed aliquoties ad cautelam, multiplicique de causa, sicut multis 
+      lo<lb ed="#L" n="39" break="no"/>cis apparet in Scripturis diuinis pariter &amp; humanis. Quare &amp; quaedam regula Iuris dicit, Sine 
+      <lb ed="#L" n="40"/>culpa, nisi subsit causa, non est aliquis puniendus, Extra de Regulis Iuris in sexto cui &amp; multa 
+      <lb ed="#L" n="41"/>iura ciuilia, canonicaque concordant. Ostendit quoque Petrus 4. Sentent. distinct. 15. quod 
+      <lb ed="#L" n="42"/>quinque de causis flagella contingunt hominibus in praesenti; quandoque ad correctionem 
+      <lb ed="#L" n="43"/>peccati, quandoque ad inchoationem poenae peccati, quandoque ad augmentum meriti, sicut 
+      <lb ed="#L" n="44"/>de Iob, &amp; Tobia, quandoque ad vitationem peccati, vt patet de Paulo 2. ad Cor. 12. de 
+      Ange<lb ed="#L" n="45" break="no"/>lo Satanae, quandoque vero ad gloriam Dei, vt patet de caeco nato, Iohan. 9. Quandoque etiam 
+      <lb ed="#L" n="46"/>punitur quis publica poenitentia siue poena, vt alij timeant, &amp; ita deterreantur a malo, &amp; 
+      con<lb ed="#L" n="47" break="no"/>firmentur in bono, sicuti lex diuina, canonica, &amp; ciuilis concorditer attestantur. Si quis etiam 
+      <lb ed="#L" n="48"/>temporaliter puniatur, pro temporali commodo aliorum, cur non temporaliter &amp; 
+      aeterna<lb ed="#L" n="49" break="no"/>liter pro temporali &amp; aeterno commodo electorum, vt in praesenti magis fugiant malum, &amp; E 
+      <lb ed="#L" n="50"/>eligant bonum, &amp; in futuro magis laetentur, arctius diligant, &amp; amplius laudent Deum: 
+      Mul<lb ed="#L" n="51" break="no"/>tiplex enim vtilitas tam in praesenti quam in futuro, ex reprobis, sit electis; imo &amp; ipsi reprobi 
+      <lb ed="#L" n="52"/>propter electos specialiter sunt creati, sicut ex 39. patet. Quae ergo iniquitas, aut crudelitas 
+      <lb ed="#L" n="53"/>apud Deum, si praedestinet, &amp; faciat vnam creaturam suam ad seruitium alterius creaturae, &amp;  
+      <lb ed="#L" n="54"/>vtramque ad suum seruitium, Iaudem, gloriam, &amp; honorem? praesertim cum nullam 
+      aeterna<lb ed="#L" n="55" break="no"/>liter puniat nisi dignam aeterna poena scilicet suo peccato hoc digne &amp; iuste aeternaliter 
+      exi<lb ed="#L" n="56" break="no"/>gente, quod &amp; miserecordissime &amp; pijssime semper punit, quia multum valde, &amp; infinite 
+      quo<lb ed="#L" n="57" break="no"/>dammoo citra condignum, sicut potest haberi ex 39. huius. Si etiam, vt videtur secundum 
+      <lb ed="#L" n="58"/>sententiam Augustini 3. de libero arbitrio II. &amp; II. de Ciuitate Dei 27. miserum esse sit eli¬ 
+      <!--474.xml-->
+      <pb ed="#A" n="441"/>
+               <lb ed="#L" n="1"/>gibilius quam non esse, quae iniquitas aut crudelitas apud Deum, si dat alicui creaturae multa 
+      <lb ed="#L" n="2"/>bona, &amp; magna, licet puniat eam cum alia eius creatura bona, puta cum poena sensus, dum 
+      <lb ed="#L" n="3"/>tamen totus eius status sit magis eligibilis quam fugibilis, imo &amp; pro illo, tanquam pro bene 
+      <lb ed="#L" n="4"/>ficio tenetur reddere grates Deo. Cur ergo non arguunt isti, Deum eo quod punit bestias 
+      in<lb ed="#L" n="5" break="no"/>nocentes, &amp; paruulos baptizatos non minima poena sensus; qui etiam tradidit 
+      innocentissi<lb ed="#L" n="6" break="no"/>mum Filium suum, &amp; Dominum nostrum Christum poenis acerrimis, crudelissimisque 
+      tor<lb ed="#L" n="7" break="no"/>mentis? Si etiam Deus omnipotens liberrimus Dominus totius subditae creaturae, cuius mera 
+      <lb ed="#L" n="8"/>voluntas est lex iustissima totius subditae creaturae, sicut ex v 12. patet, puniret aeternaliter 
+      in<lb ed="#L" n="9" break="no"/>nocentem, praesertim si ad perfectionem vniuersi, vtilitatem aliorum, &amp; honorem suipsius 
+      <lb ed="#L" n="10"/>quis praesumeret litigare cum eo, redarguere eum, &amp; dicere, Cur sic facis? Nullus, credo, 
+      si<lb ed="#L" n="11" break="no"/>cut ex // 12. &amp; 39. claret. An non habet potestatem figulus luti, ex eadem massa facere aliud 
+      <lb ed="#L" n="12"/>quidem vas in honorem, aliud vero in contumeliam? ad Rom. 9. Verum est tamen quod 
+      <lb ed="#L" n="13"/>Deus aeternaliter nullum puniuit sine culpa sua temporaliter praecedente, &amp; aeternaliter per 
+      <lb ed="#L" n="14"/>manente, non tamen propter culpam tanquam propter causam antecedenter mouentem 
+      vo<lb ed="#L" n="15" break="no"/>luntatem diuinam, Deus quenquam aeternaliter reprobauit, sed propter quasdam causas fia 
+      <lb ed="#L" n="16"/>nales, sicut 20. &amp; 39. plenius est ostensum. Non sic autem sed aliter longe de homine respe 
+      <lb ed="#L" n="17"/>ctu hominis sentiendum: Homo enim non habet merum imperium super proximum, nec 
+      e<lb ed="#L" n="18" break="no"/>ius voluntas est lex summa, sed subditur legi superiori diuinae, qua tenetur diligere proximum 
+      <lb ed="#L" n="19"/>sicut seipsum. Quidam tamen, vt Scotus super 1. Sentent. dist. 4I. volentes vitare 
+      reproba<lb ed="#L" n="20" break="no"/>tionem esse causaliter ex operibus reprobati, &amp; etiam crudelitatem in Deo, dicunt quod 
+      Luci<lb ed="#L" n="21" break="no"/>fer siue Iudas primo offertur voluntati diuinae in suis puris naturalibus sine cuspa, &amp; sic non 
+      <lb ed="#L" n="22"/>vult eum damnare; secundo Deus vult, &amp; ex hoc scit se cooperaturum cum eo, ad 
+      substanti<lb ed="#L" n="23" break="no"/>am actus mali, &amp; sic ipsum peccaturum mortaliter commirtendo, vel non cooperaturum cum 
+      <lb ed="#L" n="24"/>eo ad substantiam actus boni, &amp; sic ipsum peccaturum mortaliter omittendo, &amp; quatenus 
+      <lb ed="#L" n="25"/>praeuidet eum talem, vult ei damnationem &amp; poenam. Ratio tamen Scoti nequaquam 
+      eui<lb ed="#L" n="26" break="no"/>denter hoc probat, sicut praecedentia manifestant: Est enim similis argumento de iniquitate &amp; 
+      <lb ed="#L" n="27"/>crudelitate praemisso. Veruntamen si ista positio stet cum praemissis hic &amp; 45. hu¬ 
+      <lb ed="#L" n="28"/>ius, &amp; Deum ab omni iniquitate &amp; crudelitate plane excuset, &amp; pla¬ 
+      <lb ed="#L" n="29"/>cet Satrapis, placet mihi. Spiritus veritatis nos do¬ 
+      <lb ed="#L" n="30"/>ceat veritatem. AMEN. 
+    </p>
+            <p xml:id="dcn2br-e58382-d1e820">
+               <lb ed="#L" n="31"/>Explicit Liber primus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

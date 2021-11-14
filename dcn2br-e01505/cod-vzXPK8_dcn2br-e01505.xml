@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 40</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 40</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="770"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e01505"><!-- l3c40 -->
+            <head xml:id="dcn2br-e01505-Hd1e106">Caput 40</head>
+            <p xml:id="dcn2br-e01505-d1e109">
+      <!--803.xml-->
+               <pb ed="#A" n="770"/>
+               <lb ed="#L" n="1"/>CAP. XL. 
+      <lb ed="#L" n="2"/>Corripit negantes reuelationem in verbo. 
+      </p>
+            <p xml:id="dcn2br-e01505-d1e120">
+               <lb ed="#L" n="3"/>Is igitur contra concedentes reuelationem in verbo hactenus 
+      disputa<lb ed="#L" n="4" break="no"/>tis, superest contra ipsos, qui in verbi iniuriam &amp; nostri miseriam eam  
+      <lb ed="#L" n="5"/>negant, eandem verbis aliquibus, prout ipsum verbum dederit, 
+      affir<lb ed="#L" n="6" break="no"/>mare. Sunt enim quidam huius hypothesis defensores, qui rationes 
+      <lb ed="#L" n="7"/>praemissas de reuelatione in verbo soluere non valentes, &amp; hypothesin 
+      <lb ed="#L" n="8"/>relinquere non volentes, ad aliam partem, sinistram scilicet biuij 
+      hu<lb ed="#L" n="9" break="no"/>ius tendunt, dicendo nullum complexum de futuro contingenti posse 
+      <lb ed="#L" n="10"/>reuelari in verbo. Quomodo namque non redundat in verbi 
+      iniuri<lb ed="#L" n="11" break="no"/>am ipsum omnipotentia spoliare, ipsumque non posse amatoribus suis charissimis seipsum 
+      o<lb ed="#L" n="12" break="no"/>stendere per seipsum? Quomodo etiam non redundat in nostri miseriam finali beatitudine 
+      <lb ed="#L" n="13"/>nos priuare? Haec enim consistit in // huiusmodi vifione, sicut nedum Theologi, verum &amp; 
+      Phi<lb ed="#L" n="14" break="no"/>losophi locis quampluribus contestantur. Sed hi forsitan respondebunt faelicitatem &amp; 
+      beati<lb ed="#L" n="15" break="no"/>tudinem nostram finalem consistere in visione Dei incomplexa, non autem complexa, id est,  
+      <lb ed="#L" n="16"/>Beatus videbit incomplexe in Dei essentia, &amp; in verbo ipsam Dei essentiam, &amp; quamlibet 
+      per<lb ed="#L" n="17" break="no"/>sonarum, &amp; incomplexa quae in ea relucent; complexionem tamen seu compositionem aut  
+      <lb ed="#L" n="18"/>propositionem imaginariam, siue affirmationem vel negationem de futuris contingentibus, 
+      <lb ed="#L" n="19"/>scilicet Deum affirmare intrinsecus, sicut Pater affirmat Filio, quicquam fore vel non fore, in 
+      <lb ed="#L" n="20"/>verbo seu essentia reuelari non posse; in proprio autem genere, bene posse: quare &amp; dicunt &amp; 
+      <lb ed="#L" n="21"/>omnia talia reuelari per propositiones, habitus, actusque creatos in proprio scilicet genere, nec 
+      <lb ed="#L" n="22"/>posse aliter reuelari. Sed si futurum contingens non possit reuelari creaturae in Dei essentia seu 
+      <lb ed="#L" n="23"/>in verbo, vel hoc est propter impotentiam in Deo, vel propter impotentiam in futuro, vel 
+      <lb ed="#L" n="24"/>propter impotentiam in creatura. Non propter impotentiam in Deo, cum sit omnipotens, 
+      <lb ed="#L" n="25"/>cum etiam Pater reuelet talia Filio in essentia sua clara, sicut patet 34. huius. Potest quoque De 
+      <lb ed="#L" n="26"/>us sic reuelare incomplexa, quare &amp; complexa simili ratione: non enim est mensuratae 
+      poten<lb ed="#L" n="27" break="no"/>tiae aut restrictae: Nec propter impotentiam in illo futuro; illud enim potest in Dei essentia 
+      re<lb ed="#L" n="28" break="no"/>uelari; in ipsa namque Filio reuelatur. Illud quoque verum de futuro verissime, certissime, ac 
+      <lb ed="#L" n="29"/>clarissime scribitur in libro diuinae praescientie; cur ergo non potest ibi similiter reuelari? Cum 
+      <lb ed="#L" n="30"/>etiam illud verum sit ibi certius &amp; verius, quam in aliqua propositione creata, potest &amp; ibi 
+      cer<lb ed="#L" n="31" break="no"/>tius &amp; verius reuelari. Neque propter impotentiam // creaturae, quia si sit ita, augeat Deus 
+      om<lb ed="#L" n="32" break="no"/>nipotens, quantum oportet, potentiam creaturae: potest quoque creatura videre in verbo rem 
+      <lb ed="#L" n="33"/>incomparabiliter altiorem, subtiliorem &amp; difficiliorem quodammodo infinite, trinitatem 
+      vi<lb ed="#L" n="34" break="no"/>delicet personarum in essentiae vnitate. Quod enim nunc credimus, tunc videbimus clara luce, 
+      <lb ed="#L" n="35"/>sicut Patres Catholici concorditer attestantur, potestque creatura videre in verbo quaelibet 
+      in<lb ed="#L" n="36" break="no"/>complexa; quare ergo non simili ratione complexa? Si autem dicatur creaturam non posse 
+      <lb ed="#L" n="37"/>videre futura in verbo propter nimiam eius improportionem, distantiam, &amp; elongationem a 
+      <lb ed="#L" n="38"/>verbo, potest ei contradici vt prius. Deus namque omnipotens potest eleuare creaturam in 
+      na<lb ed="#L" n="39" break="no"/>turalibus vel supernaturalibus quantum oportet; quare &amp; multi Doctores non indocte 
+      po<lb ed="#L" n="40" break="no"/>nunt quoddam lumen supernaturale creatum, quod vocant lumen gloriae eleuans intellectum 
+      <lb ed="#L" n="41"/>creatum ad beatificam visionem beatifici luminis increati; quod &amp; Propheta videtur 
+      paten<lb ed="#L" n="42" break="no"/>ter docere, cum dicit, Apud te est fons vitae, in lumine tuo videbimus lumen, Psalmo 35. Hac 
+      <lb ed="#L" n="43"/>etiam improportione &amp; distantia non obstante, potest creatura videre in verbo quaelibet 
+      in<lb ed="#L" n="44" break="no"/>complexa; cur ergo non ista complexa? Item creatura potest videre in verbo rem 
+      contin<lb ed="#L" n="45" break="no"/>genter futuram esse quando est, &amp; fuisse cum praeterierit; cur ergo non fore quando est futura, 
+      <lb ed="#L" n="46"/>praesertim cum verum huiusmodi semper omni eodem modo intrinsece sit verum, &amp; 
+      scrip<lb ed="#L" n="47" break="no"/>tum ac lucens in verbo, siue res sit futura, siue praesens in praeteritumue transmissa? Alias 
+      <lb ed="#L" n="48"/>enim Deus intrinsece mutaretur, contra quintum &amp; vicesimum tertium primi libri, quod 
+      <lb ed="#L" n="49"/>etiam ex 30. 31. &amp; 32. huius ostenditur euidenter. Item complexa necessaria de futuro, &amp; 
+      <lb ed="#L" n="50"/>quaecunque alia complexa necessaria possunt reuelari in verbo; cur ergo nullum futurum 
+      <lb ed="#L" n="51"/>contingens, cum omnia vera // ibi similiter conscribantur? Dicetur fortassis quod omnia 
+      <lb ed="#L" n="52"/>vera necessaria, &amp; omnia vera de praesenti &amp; de praeterito habent causam determinatam, 
+      <lb ed="#L" n="53"/>&amp; certam, &amp; simili modo sunt vera; quare &amp; possunt determinate &amp; certe reuelari in 
+      <!--804.xml-->
+      <pb ed="#A" n="771"/>
+               <lb ed="#L" n="1"/>verbo; futura autem contingentia non sic habent, nec sic sunt vera, quare nec sic possunt re¬ 
+      <lb ed="#L" n="2"/>uelari in verbo. Hoc autem non est verum: voluntas enim diuina immutabilis est causa 
+      de<lb ed="#L" n="3" break="no"/>terminata &amp; certa omnium contingentium futurorum, per quam &amp; ita determinate &amp; certe 
+      <lb ed="#L" n="4"/>sciuntur a Deo, &amp; ita determinata &amp; certa sunt in eo quando sunt futura, sicut quando sunt 
+      <lb ed="#L" n="5"/>praesentia in praeteritumne defluxa, sicut per 14. 8. ac 23. primi, &amp; per 30. a832. huius 
+      appa<lb ed="#L" n="6" break="no"/>ret. Potestque Deus ostendere creaturae in verbo se velle tale futurum fore, quare &amp; facere 
+      e<lb ed="#L" n="7" break="no"/>um praescire in verbo illud fore, imo &amp; scire verissime ac demonstratiue quodammodo, quia 
+      <lb ed="#L" n="8"/>per causam verissimam &amp; infrustrabilem, diuinam scilicet voluntatem. Item diuina essentia est 
+      <lb ed="#L" n="9"/>similior, propinquior, &amp; proportionalior menti nostrae quam qualitates, propositiones, 
+      ha<lb ed="#L" n="10" break="no"/>bitusue creati; ambae namque sunt substantiae, &amp; substantiae immateriales plurimumque 
+      cog<lb ed="#L" n="11" break="no"/>natae. Quare &amp; Philosophus 10. Eth. 13. Si, inquit, quaedam cura humanorum a dijs sit, quem,  
+      <lb ed="#L" n="12"/>admodum videtur, erit vtique bens rationabile &amp; gaudere ipsos optimo &amp; cognatissimo; hoc 
+      <lb ed="#L" n="13"/>autem est intellectus: homo quoque, Genesi attestante, ad imaginem &amp; similitudinem Dei 
+      <lb ed="#L" n="14"/>est factus, &amp; hoc potissime in anima rationali, sicut quamplures Patres Catholici contestantur, 
+      <lb ed="#L" n="15"/>quare &amp; est finis naturalissimus &amp; desideratissimus mentis nostrae. Si ergo haec sint ita, 
+      imip<lb ed="#L" n="16" break="no"/>sa quoque diuina essentia clarius, verius, &amp; certius conscribuntur &amp; lucent omnia vera 
+      com<lb ed="#L" n="17" break="no"/>plexa, sicut &amp; in omplexa, quam in aliqua propositione creata, quam in aliquo habitu, quam  
+      <lb ed="#L" n="18"/>in aliqua creatura; cur ergo mens nostra nequaquam clarius, verius, &amp; certius ibi videbit, 
+      po<lb ed="#L" n="19" break="no"/>teritque videre quaecunque vera complexa, sicut incomplexa, quam in aliqua creatura, 
+      praeser<lb ed="#L" n="20" break="no"/>tim cum mens nostra ab omni mole corporis aggrauantis, ab omnibus phantasmatibus 
+      obnu<lb ed="#L" n="21" break="no"/>bilantibus, ab omni rubigine &amp; caligine, ab omni scoria atque miseria plenissime fuerit 
+      expur<lb ed="#L" n="22" break="no"/>gata, &amp; supra solis splendorem deifice tranfformata? Quod &amp; de Angelis omnibus, 
+      aliquo<lb ed="#L" n="23" break="no"/>ue eorum, de quo Ezechiel. 28. Tu signaculum, similitudinis &amp;c. similiter vel fortius argui 
+      <lb ed="#L" n="24"/>forte potest, cum videatur propinquiur ad similitudinem Dei factus, dicete Cregorio 32. 
+      Mo<lb ed="#L" n="25" break="no"/>ral. 23. super illud Iob. 40. Ipse est principium viarum Dei; licet homo ad similitudinem Dei 
+      <lb ed="#L" n="26"/>creatus sit, Angelo tamen quasimaius aliquod tribuens, non eum ad similitudinem Dei 
+      con<lb ed="#L" n="27" break="no"/>ditum, sed ipsum signaculum Dei similitudinis dicit, vt quo subtilior est natura, eo in illum 
+      si<lb ed="#L" n="28" break="no"/>militudo Dei plenius credatur expressa. Dicitque Isidorus 1. de summo bono 10. Distat 
+      con<lb ed="#L" n="29" break="no"/>ditio Angeli a conditione hominis: Homo enim ad similitudinem Dei conditus est, 
+      Archan<lb ed="#L" n="30" break="no"/>gelus vero, qui sapsus signaculum Dei similitudinis appellatus est, testante Deo per 
+      Ezechie<lb ed="#L" n="31" break="no"/>lem, Tu signaculum similitudinis, plenus sapientia, perfectus decore, In deliciis paradisi fuisti; 
+      <lb ed="#L" n="32"/>quanto enim subtilior est eius natura, tanto plenius extitit ad similitudinem diuinae veritatis 
+      <lb ed="#L" n="33"/>expressa. Cum etiam Deus sit finis naturalissimus mentis nostrae, nec possit perfici nisi in 
+      <lb ed="#L" n="34"/>coniunctione eius perfecta cum eo, quomodo secundum vnam eius // potentiam, quae est 
+      appre<lb ed="#L" n="35" break="no"/>hensiuae simplicium, perficietur coniuncta perfecte cum Deo? perfecte, quia per Dei essentiam  
+      <lb ed="#L" n="36"/>incomplexa &amp; simplicia contemplando: secundum alteram vero eius potentiam etiam 
+      nobi<lb ed="#L" n="37" break="no"/>liorem, quae componit &amp; diuidit simplicia in complexa, manebit aeternaliter imperfecta? Imo 
+      <lb ed="#L" n="38"/>nec potest perfici in aeternum, vel saltem non in tantum perficietur, nec potest sicut alia 
+      po<lb ed="#L" n="39" break="no"/>tentia foror sua ignobilior quoque illa, cum nullum verum complexum possit videre in Deo? 
+      <lb ed="#L" n="40"/>Imo hae duae potentiae intellectus creati proportionales videntur potentiae intellectus diuini 
+      <lb ed="#L" n="41"/>apprehendenti simplicia, &amp; potentiae componenti simplicia apprehensa, loquendo multum 
+      <lb ed="#L" n="42"/>improprie de potentia componente in Deo, sicut balbutiendo vix possumus Dei magnalia vel 
+      <lb ed="#L" n="43"/>tenuiter resonare, sicut 18. primi plenius tangebatur; quare &amp; sicut haec, ita ista perficietur 
+      <lb ed="#L" n="44"/>finaliter contemplando in ipsa incomplexe quodammodo incomplexa, sic &amp; altera in illa 
+      con<lb ed="#L" n="45" break="no"/>templando complexe quodammodo complexa. Ita namque vna pars imaginis est 
+      perfectibi<lb ed="#L" n="46" break="no"/>lis finaliter sicut altera, &amp; ita finem naturalem &amp; proprium consequetur: Item aliter Deus 
+      om<lb ed="#L" n="47" break="no"/>nipotens nullum beatum potest certificare de sua beatitudine aeternaliter duratura, nec de 
+      fu<lb ed="#L" n="48" break="no"/>turo aliquo contingente. Si enim possit, ponatur; vel ergo illud certe reuelatum necessario 
+      <lb ed="#L" n="49"/>eueniet, vel nequaquam. Non necessario eueniet, sicut positio ista ponit; potest ergo nulla¬ 
+      <lb ed="#L" n="50"/>tenus euenire, quare &amp; iste beatus potest decipi &amp; ertare, &amp; nunc non esse beatus, nec vnquam  
+      <lb ed="#L" n="51"/>prius fuisse, sed nunc esse miser &amp; semper prius fuisse, cum absurditatibus alijs multis &amp; 
+      mag<lb ed="#L" n="52" break="no"/>nis, sicut potest patere ex 34. huius. Cuius etiam animus non desiderat certitudinem 
+      infal<lb ed="#L" n="53" break="no"/>libilem de sua beatitudine aeternaliter duratura? Dicere ergo nullum certitudinem talem 
+      <lb ed="#L" n="54"/>posse habere, est omnem creaturam rationalem beatitudine sua priuare, sicut ex eodem 
+      <lb ed="#L" n="55"/>34. patet. Secundum hoc quoque beati nunc in coelo non sunt certi de finali iudicio, 
+      resur<lb ed="#L" n="56" break="no"/>rectione mortuorum, &amp; beatitudine sua futura, nisi certitudine fidei seu spei, contra prius 
+      <lb ed="#L" n="57"/>ostensa 34. huius. Isti quoque nituntur decipere veritatem, Dominum scilicet Iesum 
+      Chri<lb ed="#L" n="58" break="no"/>stum, saltem secundum naturam suam humanam. Si enim tantum in proprio genere vi¬ 
+      <!--805.xml-->
+      <pb ed="#A" n="772"/>
+               <lb ed="#L" n="1"/>deat res contingenter futuras, cum illae possint non fore, potest &amp; Christus decipi &amp; errare;M 
+      <lb ed="#L" n="2"/>quod quis Christianus, nisi forte deceptus &amp; errans, praesumpserit affirmare? Nec potest quis 
+      <lb ed="#L" n="3"/>vitare deceptionem dicendo huiusmodi visionem in Christo alijsque beatis vnius 
+      opposito<lb ed="#L" n="4" break="no"/>rum posse fuisse alterius, non illius, sicut patet tricesimo sexto huius. Isti similiter priuant 
+      be<lb ed="#L" n="5" break="no"/>atos nedum certitudine scientiae, verum &amp; multitudine: ad beatitudinem namque perfectam 
+      <lb ed="#L" n="6"/>scientia perfecta requiritur, non solum quantum ad claritatem scientiae, sed etiam quantum 
+      <lb ed="#L" n="7"/>ad multitudinem scitorum; beatus ergo perfecte scit omnia. Quomodo namque aliter decipi non 
+      <lb ed="#L" n="8"/>valeret, &amp; quomodo aliter non haberet malum &amp; tenebras ignorantiae, &amp; quomodo aliter no 
+      <lb ed="#L" n="9"/>posset semper studere, proficere, &amp; vlterius laborare? Hoc autem non est de ratione finis, sed 
+      <lb ed="#L" n="10"/>viae. Quare &amp; Augustinus 15. de Trinit. 16. Cum, inquit, tanta sit nunc in isto aenigmate 
+      <lb ed="#L" n="11"/>dissimilitudo Dei, in qua tamen nonnulla similitudo comperta est, illud quoque fatendum est,  
+      <lb ed="#L" n="12"/>quod etiam cum similes ei erimus, quando eum videbimus sicuti est, quod vtique qui dixit,  
+      <lb ed="#L" n="13"/>hanc proculdubio quae nunc est dissimilitudinem attendit, nec tunc natura illi erimus aequales 
+      <lb ed="#L" n="14"/>tsemper enim natura minor est faciente quae facta est) &amp; tunc quidem verbum nostrum non 
+      <lb ed="#L" n="15"/>erit falsum, quia neque mentiemur, neque fallemur; fortassis etiam non erunt volubiles 
+      no<lb ed="#L" n="16" break="no"/>strae cogitationes ab alijs in alia euntes atque redeutes, sed omne scientiam nostram vno simul 
+      con<lb ed="#L" n="17" break="no"/>spectu videbimus. Et quomodo aliter satiaretur appetitus beati, quo quamcunque propositam 
+      <lb ed="#L" n="18"/>vellet cognoscere, saltem mallet cognoscere quam non cognoscere veritatem? Et 
+      quomo<lb ed="#L" n="19" break="no"/>do aliter erit beatitudo bonum omniquaque perfectum, sicut haec omnia magis patent ex 
+      <lb ed="#L" n="20"/>tricesimo quarto huius? Quomodo namque beatus omnia scire potest actualiter aut 
+      habitu<lb ed="#L" n="21" break="no"/>aliter in proprio genere? Hoc enim non posset nisi per propositiones &amp; actus &amp; habitus 
+      infi<lb ed="#L" n="22" break="no"/>nitos; sed sic non potest; non ergo potest omnia clare scire, nisi per diuinam essentiam 
+      om<lb ed="#L" n="23" break="no"/>nia clarissime demonstrantem, nisi per librum diuinae scientiae omnia clarissime continentem, 
+      <lb ed="#L" n="24"/>nisi per diuinae maiestatis speculum, in quo omnia clare lucent, nisi per diuinae virtutis 
+      ocu<lb ed="#L" n="25" break="no"/>lum, cui omnia clare patent. Quare &amp; Philosophus I. de Anima 65. Si, inquit, accipiat 
+      se<lb ed="#L" n="26" break="no"/>nior oculum iuuenem, videbit vtique sicut &amp; iuuenis: Vbi &amp; textus, quem Auerroes 
+      expo<lb ed="#L" n="27" break="no"/>nit, Senex, inquit, si reciperet oculum iuuenis, videret sicut iuuenis; quare &amp; si homo vel 
+      <lb ed="#L" n="28"/>Angelus accipiat oculum Dei, videbit quodammodo sicut Deus. Annon sic potest intelligi 
+      <lb ed="#L" n="29"/>illud propheticum, Oculo ad oculum videbunt? Es. 52. &amp; illud, Oculus non vidit, Deus; 
+      abs<lb ed="#L" n="30" break="no"/>que te, quae praeparasti expectantibus te, infra 64? Dominus illuminatio mea, Psal. 26. &amp; 
+      mul<lb ed="#L" n="31" break="no"/>ta similia multis locis? Quamobre &amp; Philosophi asseuerant hominem debere tande scire omnia 
+      <lb ed="#L" n="32"/>per substantiam intellectus agentis, per substantiam ipsam Dei, &amp; hanc esse foelicitatem eius 
+      <lb ed="#L" n="33"/>ultimam &amp; perfectam. Auerroes enim super 3. de Anima comment. 36. loquens de 
+      copula<lb ed="#L" n="34" break="no"/>tione &amp; continuatione intellectus agentis nobiscum, dicit quod quandoque dicimur moueri 
+      <lb ed="#L" n="35"/>ad continuationem huius, &amp; addit; &amp; manifestum est, quod cum ipse motus 
+      complebi<lb ed="#L" n="36" break="no"/>tur, quod statim ille intellectus copulabitur nobiscum omnibus modis; &amp; tunc 
+      manife<lb ed="#L" n="37" break="no"/>stum est, quod proportio eius ad nos in illa dispositione est sicut dispositio intellectus 
+      <lb ed="#L" n="38"/>quae est in habitu ad nos; &amp; cum ita sit, necesse est vt homo intelligat per 
+      intel<lb ed="#L" n="39" break="no"/>lectum sibi proprium omnia entia, &amp; vt agat actionem sibi propriam omnibus entibus, 
+      <lb ed="#L" n="40"/>sicut intelligit per intellectum qui est in habitu, quando fuerit continuatus cum formis 
+      imagi<lb ed="#L" n="41" break="no"/>nabilibus, omnia entia intellectione propria: Homo ergo secundum hunc modum, vt dicit 
+      <lb ed="#L" n="42"/>
+               <name xml:id="dcn2br-e01505-Nd1e458">Themistius</name>, assimulatur Deo, scilicet in eo quod est omnia entia quoque modo, &amp; sciens ea 
+      <lb ed="#L" n="43"/>quoquo modo. Entia enim nihil aliud sunt quam scientia eius, nec causa entium aliud est nisi 
+      <lb ed="#L" n="44"/>scientia eius; &amp; quam mirabilis est iste ordo, &amp; quam extraneus est iste modus essendi? 
+      Qui<lb ed="#L" n="45" break="no"/>bus &amp; concorditer Augustinus De gaudijs iustorum, &amp; paenis malorum, siue de triplici 
+      habita<lb ed="#L" n="46" break="no"/>culo, dicit, quod in vita futura, in vrbe regia fulgebunt iusti sicut Sol, sicut ait Dominus, vbi 
+      <lb ed="#L" n="47"/>summa pax erit, summa quies, nullus labor, nullus dolor, nulla paupertas, nec senectus, nec 
+      vl<lb ed="#L" n="48" break="no"/>la nox, nec vlla mors, nec vllum cibi desiderium, nullum sitis incendium, sed cibus &amp; potus 
+      <lb ed="#L" n="49"/>omnium erit visio Christi &amp; sanctae Trinitatis, &amp; contemplatio puri cordis oculo ipsius 
+      diui<lb ed="#L" n="50" break="no"/>nitatis, &amp; assidua lectio, vt ita dicam, libri vitae. id est, aeternae veritatis, &amp; summae sapientiae, 
+      <lb ed="#L" n="51"/>&amp; verbi Dei, quod est Iesu Christi visio; vbi quicquid nos latet nunc, manifestum erit tunc, 
+      <lb ed="#L" n="52"/>vbi ratio manifesta erit; cur hic electus est, &amp; ille reprobatus, cur hic in regnum assumptus 
+      <lb ed="#L" n="53"/>est, cur ille in seruitutem redactus, cur alius in vtero moritur, alius in infantia, alius in 
+      iuuen<lb ed="#L" n="54" break="no"/>tute, alius in senectute, cur alius pauper est, alius diues, cur filius adulterae baptieatur, &amp;  
+      <lb ed="#L" n="55"/>aliquando filius legitimae coniugis ante baptismum moritur, cur qui bene incipit viuere 
+      ali<lb ed="#L" n="56" break="no"/>quando male finitur, &amp; qui male incipit saepe bene finitur; haec omnia &amp; huiusmodi 
+      <lb ed="#L" n="57"/>multa in libro virae plana &amp; aperta erunt. Et infra, in visione Dei trina scientia 
+      nosci<lb ed="#L" n="58" break="no"/>tur, id est, homo qui cernit, Deus qui cernitur, &amp; caeteri omnes, omnia videbuntur 
+      <!--806.xml-->
+      <pb ed="#A" n="773"/>
+               <lb ed="#L" n="1"/>&amp; intelligentur. Sicut enim per speculum vitreum trina nobis visio administratur, quia nos 
+      ip<lb ed="#L" n="2" break="no"/>sos, &amp; ipsum speculum, &amp; quicquid praesens adest videmus: sic per speculum diuinae claritatis 
+      <lb ed="#L" n="3"/>&amp; ipsum Deum, vt est, videbimus quantumcunque possibile est creaturae, &amp; nos ipsos &amp; 
+      cae<lb ed="#L" n="4" break="no"/>teros vera &amp; certa scientia cognoscemus. Qui &amp; vlt. de ciuit. Dei 28. Si, inquit, Propheta 
+      E<lb ed="#L" n="5" break="no"/>lizeus puerum suum Giesi absens corpore vidit accipientem munera, quanto magis in illo 
+      cor<lb ed="#L" n="6" break="no"/>pore spirituali videbunt sancti omnia? An hoc est quod Mosi desideranti videre faciem &amp;  
+      <lb ed="#L" n="7"/>gloriam Domini, Dominus promittebat, Ego ostendam omne bonum ribi, Exod. 33. Glossa, 
+      <lb ed="#L" n="8"/>Requiem aeternam, in qua est omne bonum in visione Dei, sicut Psalmista ait, Satiabor cum 
+      <lb ed="#L" n="9"/>apparuerit gloria tua. Beatus quoque Gregorius 4. Dial. 22. loquens de Sanctis in coelo, quid 
+      <lb ed="#L" n="10"/>est, inquit, quod ibi nesciant, vbi scientem omnia sciunt? Respondebitur forsitan, sicut 
+      vide<lb ed="#L" n="11" break="no"/>tur, Petrum respondere 2. sent. dist. 11. vlt. quod Gregor. loquitur ibi de Angelis, &amp; cum 
+      innu<lb ed="#L" n="12" break="no"/>it, quod sciunt omnia, intelligit solum de his omnibus quorum cognitio facit cognitorem 
+      bea<lb ed="#L" n="13" break="no"/>tum, de his videlicet, quorum cognitio est de substantia beatitudinis, cuiusmodi est mysterium 
+      <lb ed="#L" n="14"/>trinitatis. Sed respicientibus processum Gregorij plane constat ipsum ibi loqui de hominibus 
+      <lb ed="#L" n="15"/>&amp; de cognitione hominum, mutuo etiam hominum extraneorum &amp; ignotorum semper ad 
+      <lb ed="#L" n="16"/>inuicem in hac vita. Quaerit namque Petrus, si vel boni bonos in regno, vel mali malos in 
+      sup<lb ed="#L" n="17" break="no"/>plicio agnoscunt, &amp; loquitur de hominibus manifeste. Vbi &amp; Gregorius respondendo 
+      osten<lb ed="#L" n="18" break="no"/>dit quod sic tam de bonis quam de malis, &amp; hoc tantum de hominibus, &amp; subiungit; sit autem 
+      <lb ed="#L" n="19"/>in electis quoddam mirabilius, quia non solum eos agnoscunt quos in hoc mundo nouerunt; 
+      <lb ed="#L" n="20"/>sed velut vicinos suos ac cognitos recognoscunt bonos, quos nunquam viderant. Nam cum 
+      <lb ed="#L" n="21"/>antiquos Patres in illa haereditate aeterna viderint, eis incogniti per visionem non erunt, quos 
+      <lb ed="#L" n="22"/>in opere semper nouerunt. Quia enim illic omnes communi claritate Deum conspiciunt, quid 
+      <lb ed="#L" n="23"/>est quod ibi nesciant, vbi scientem omnia sciunt? Anselmus insuper de similitudinibus 57. 
+      di<lb ed="#L" n="24" break="no"/>cit quod octaua pars beatitudinis est sapientia, &amp; addit; Bonus enim perfecta, quae Deus est,  
+      <lb ed="#L" n="25"/>sapientia replebitur, eamque facie ad faciem intuebitur, quam cum ita prospexerit, creaturae 
+      <lb ed="#L" n="26"/>totius naturam videbit, quae in Deo melius quam in seipsa consistit. Tunc etenim iusti 
+      cun<lb ed="#L" n="27" break="no"/>cta scient quae Deus fecit scienda, tam ea quae praeterita, quam quae postmodum sunt futura; 
+      <lb ed="#L" n="28"/>ibi a singulis omnes, ibi ab omnibus singuli cognoscentur, nec quenquam omnino latebit 
+      <lb ed="#L" n="29"/>qua patria, stirpe, quis editus fuerit, vel quid in vita sua fecerit. Item quis Theologus 
+      nega<lb ed="#L" n="30" break="no"/>re praesumserit Christum secundum naturam assumptam omnia vere scire, cum hoc tam ratio, 
+      <lb ed="#L" n="31"/>quam multiplex Patrum autoritas contestetur? Ipsi namque datus est spiritus non ad 
+      mensu<lb ed="#L" n="32" break="no"/>ram, Ioh. 3. &amp; hoc secundum omnia dona sua; in ipso quoque, teste Apostolo, complacuit  
+      <lb ed="#L" n="33"/>omnem plenitudinem diuinitatis inhabitare corporaliter, ad Col. 1. In quo etiam secundum 
+      <lb ed="#L" n="34"/>eundem sunt omnes thesauri sapientiae &amp; scientiae absconditi, infra 2. Hoc idem &amp; Hugo 
+      <lb ed="#L" n="35"/>de sancto Victore in quodam libello responsiuo Magistro Gualtero de Mauritania 
+      multiplici<lb ed="#L" n="36" break="no"/>ter nititur approbare, &amp; pertinaciter affirmare. Quaesiuit siquidem Gualterus, vtrum anima 
+      <lb ed="#L" n="37"/>Christi tantam habeat penitus scientiam &amp; sapientiam, quantam habet diuinitas? Qui 
+      opi<lb ed="#L" n="38" break="no"/>nabatur &amp; arguebat quod non, quia beatitudo consistit in notitia, dicente Domino, Haec 
+      <lb ed="#L" n="39"/>est vita aeterna, vt cognoseant, &amp;c. Si ergo anima Christi haberet aequalem notitiam cum 
+      <lb ed="#L" n="40"/>diuinitate, haberet &amp; aequalem beatitudinem, aequalem charitatem, &amp; caetera bona in quibus 
+      <lb ed="#L" n="41"/>beatitudo consistir. Item alias falsum esset Deum in omni bono maiorem habere 
+      sufficienti<lb ed="#L" n="42" break="no"/>am, quam eius creaturam. Quibus nequaquam obstantibus, tener plane quod sic; quia 
+      ani<lb ed="#L" n="43" break="no"/>ma Christi sic nouit omnia non per habitus, actus, aut actum aliquem, sed per ipsum Deum,  
+      <lb ed="#L" n="44"/>per essentiam ipsam Dei; quod &amp; de beatitudine nostra sentit; vnde sic ait, Haec est, inquit,  
+      <lb ed="#L" n="45"/>vita, vt cognoscant te solum verum Deum, &amp; quem misisti Iesum Christum: cognitio itaque 
+      <lb ed="#L" n="46"/>Dei vita aeterna est. Et quid est cognitio Dei? Nunquid accidens est? Ergo amor Dei 
+      acci<lb ed="#L" n="47" break="no"/>dens est, &amp; beatitiido accidens est, &amp; in accidentibus est beatitudo nostra; quare non magis 
+      <lb ed="#L" n="48"/>Deus sit beatitudo nostra, ipse sapientia qua cognoscimus, ipse amor quo diligimus, ipse 
+      gau<lb ed="#L" n="49" break="no"/>dium quo exultamus, ergo vna sapientia est qua omnes sapiunt: nec tamen vno modo 
+      sapi<lb ed="#L" n="50" break="no"/>unt, quia participando sapiunt; quod si omnes hac sapientia sapiunt quicunque sapiunt, 
+      mul<lb ed="#L" n="51" break="no"/>to magis hac sapientia sapuit illa anima quae ipsi sapientiae vnita fuit. Et infra Apostolus 
+      te<lb ed="#L" n="52" break="no"/>statur plenitudinem ibi esse, &amp; nos dicimus, quia tota sapientia non est in domo sua, ergo 
+      di<lb ed="#L" n="53" break="no"/>midia intus habitat, &amp; dimidia foris. Et vbi quaeritur, si domi non inuenitur, in quo 
+      habi<lb ed="#L" n="54" break="no"/>tat omnis plenitudo diuinitatis corporaliter? Vbi plenitudo est, nihil deest; vbi nihil deest, 
+      to<lb ed="#L" n="55" break="no"/>tum adest; si forte plenitudo diuinitatis ibi est, &amp; plenitudo sapientiae ibi non est? Dicit 
+      ite<lb ed="#L" n="56" break="no"/>rum, In quo sunt omnes thesauri sapientiae &amp; scientiae absconditi. Sed dicitis bene, Omnes 
+      sa<lb ed="#L" n="57" break="no"/>pientiae thesauri &amp; scientiae ibi sunt, sed absconditi sunt, portat, &amp; no videt. Absit autem ab 
+      intel<lb ed="#L" n="58" break="no"/>lectu nostro, vt sic sentiamus; sed absconditi sunt, no vt ab eo abscodatur, sed ne ab impiis in eo 
+      <!--807.xml-->
+      <pb ed="#A" n="774"/>
+               <lb ed="#L" n="1"/>videantur, absconditi sunt &amp; reconditi sunt; reconditi sunt vt tempore opportuno proferan 
+      <lb ed="#L" n="2"/>tur. Et infra, vidit Christus in diuinitate, vidit &amp; in humanitate, tamen ex diuinitate: erat 
+      e<lb ed="#L" n="3" break="no"/>nim plenitudo diuinitatis in anima Christi, &amp; ex plenitudine sapientiae plene sapiens erat 
+      ani<lb ed="#L" n="4" break="no"/>ma Christi; ergo inquiunt, tantam sapientiam habet anima Christi quantam Deus habet. Quid 
+      <lb ed="#L" n="5"/>facit comparatio? Vnus solus est, vna est sapientia Dei, qua sapiens est anima Christi, nec 
+      par<lb ed="#L" n="6" break="no"/>ticipando sapiens, vt hoc vel illud in illa &amp; per illam sapiat, sed plenitudinem habendo, vt 
+      to<lb ed="#L" n="7" break="no"/>tum possideat. Non ergo tanta dicamus aut quanta, sed dicamus tota sapientia Dei in anima 
+      <lb ed="#L" n="8"/>Christi, &amp; ex tota sapientia Dei anima Christi sapiens est, nec tamen aequalis Deo anima 
+      Chri<lb ed="#L" n="9" break="no"/>sti est, quia sapientia Dei non est; illic gratia, hic natura; &amp; idem illic gratia quod hic 
+      natu<lb ed="#L" n="10" break="no"/>ra. Et infra respondendo ad primum argumentum Gualteri dicit, Et si anima Christi habeat 
+      <lb ed="#L" n="11"/>aequalem scientiam cum diuininitate, non propterea oportere ipsam habere aequalem 
+      beatitu<lb ed="#L" n="12" break="no"/>dinem, quia beatus est habere bonum per naturam, &amp; ex se, &amp; esse illud, quam habere illud 
+      <lb ed="#L" n="13"/>per gratiam &amp; ab alio, &amp; non esse illud. Et infra respondendo ad secundum, sic ait, Postea 
+      ad<lb ed="#L" n="14" break="no"/>iecistis, si anima Christi aequalem cum Deo habeat // scientiam, falsum erit Deum in omni bono 
+      <lb ed="#L" n="15"/>maiorem habere sufficientiam quam eius creaturam, &amp; dcinceps, sicut non potest creatura 
+      ae<lb ed="#L" n="16" break="no"/>quari Creatori, ita nec bonum vnius bono alterius; sed hoc bene &amp; veraciter ibi dicitur, vbi 
+      crea<lb ed="#L" n="17" break="no"/>turae bonum aliud atque diuersum a bono Creatoris inuenitur; vbi vero vnum &amp; ide ipsum est, maius 
+      <lb ed="#L" n="18"/>aut minus esse qui potest? Quod est enim verum bonum creaturae praecipue rationalis aliud praeter 
+      <lb ed="#L" n="19"/>Deum? aut qd. est bonum Dei aliud praeter ipsum? Si ergo verum &amp; vnicum bonum creaturae 
+      <lb ed="#L" n="20"/>Deus est, &amp; bonum Dei aliud praeter ipsum esse non potest, nunquid idcirco Deus minor aut  
+      <lb ed="#L" n="21"/>maior seipso est, quia creaturae suae pariter &amp; suum bonum ipse est? Cesset ergo tandem tam 
+      <lb ed="#L" n="22"/>crebra repetitio comparatioms, vbi singularitas est vnitatis. Et infra in fine, quid necesse est 
+      <lb ed="#L" n="23"/>singula prosequi? Breuiter vobis quid mihi in hac re sentiendum esse videtur, ostendam; 
+      <lb ed="#L" n="24"/>Plenam ac perfectam, &amp; totam Dei sapientiam in anima Christi fuisse credimus, &amp; ex ipsa 
+      <lb ed="#L" n="25"/>sapientia animam eandem plene ac perfecte sapientem, non ex ipsa participando, sed totam &amp; 
+      <lb ed="#L" n="26"/>possidendo, quia secundum plenitudinem accepit: Iohannes autem, qui erat lucerna ardens 
+      <lb ed="#L" n="27"/>&amp; lucens, ex parte comprehenderat; anima ergo Iohannis de plenitudine accepit; anima 
+      <lb ed="#L" n="28"/>Christi plenitudinem comprehendit. Quicunque autem in eo persistunt, vt hoc asserere 
+      con<lb ed="#L" n="29" break="no"/>tendant, quod alia fuerit sapientia illa, qua anima Christi sapiens extitit, alia quae animae 
+      <lb ed="#L" n="30"/>Christi vnita fuit, ego praeiudicium nemini facere volo; videant ipsi quo sensu hoc asserant, 
+      <lb ed="#L" n="31"/>ne forte carnalis sit magis sua quam vera pronuntiatio. Hoc vnum ego indubitanter affirmo, 
+      <lb ed="#L" n="32"/>quod aut alia sapientia praeter diuinam in anima Christi non fuit, aut si alia fuit, aequalis illi 
+      <lb ed="#L" n="33"/>non fuit; hoc credenti qui non credit, non bene credit; ad caetera ego non cogo, sed suadeo.  
+      <lb ed="#L" n="34"/>Hoc idem &amp; Petrus 3. sentent. dist. 13. &amp; 14. per rationes &amp; autoritates Doctorum ostendit. 
+      <lb ed="#L" n="35"/>vbi &amp; dist. 14. quibusdam obijcientibus sic respondet, Respondentes dicimus animam 
+      Chri<lb ed="#L" n="36" break="no"/>sti per sapientiam gratis datam in verbo Dei cui vnita est, quod etiam perfecte intelligit, 
+      om<lb ed="#L" n="37" break="no"/>nia scire quae Deus scit: Angeli quoque beati omnes vel aliqui omnia sciunt in verbo, vel 
+      sal<lb ed="#L" n="38" break="no"/>tem scient finali beatitudine consummata: aliter enim possent Angeli hominesque beati 
+      sem<lb ed="#L" n="39" break="no"/>per proficere addiscendo tam per studium proprium, quam perreuelationem diuinam, quare 
+      <lb ed="#L" n="40"/>
+               <!-- line coord error -->
+               <lb ed="#L" n="41"/>super I. Poster. 14. quod intelligentiae recipientes irradiationem a lumine primo vident in 
+      <lb ed="#L" n="42"/>eo omnes res scibiles vniuersales &amp; particulares. Dicitque Gregorius super illud Luc. 15. Quae 
+      <lb ed="#L" n="43"/>mulier habens drachmas decem? &amp;c. homilia 34. Cherubin plenitudo scientiae dicitur, &amp; 
+      <lb ed="#L" n="44"/>sublimiora illa agmina // merito Cherubin vocata sunt, quia tanto perfectiore scientia plena 
+      <lb ed="#L" n="45"/>sunt, quanto claritatem Dei vicinius contemplantur, vt secundum creaturae modum eo 
+      ple<lb ed="#L" n="46" break="no"/>nius omnia sciant, quo visioni conditoris sui per meritum dignitatis appropinquant. Et 
+      in<lb ed="#L" n="47" break="no"/>fra ostendendo, quod munera ordinum sunt ita specialia singulis, quod tamen communia 
+      <lb ed="#L" n="48"/>omnibus, Cherubin, inquit, plenitudinem scientiae diximus, &amp; tamen quis ibi aliquid 
+      nesci<lb ed="#L" n="49" break="no"/>at, vbi ipsum omnes simul fontem scientiae Deum vident? Isidorus etiam I. De summo 
+      <lb ed="#L" n="50"/>bono 10. Angeli, inquit, Dei cognoscunt omnia antequam in se fiant, &amp; quae apud ho 
+      <lb ed="#L" n="51"/>mines adhuc futura sunt, Angeli iam, reuelante Deo, nouerunt. Beatus similiter 
+      Augu<lb ed="#L" n="52" break="no"/>stinus 8. super Genesin ad literam 48. dicit quod Deus ipse loquitur cum Angelis, 
+      in<lb ed="#L" n="53" break="no"/>commutabili veritate illustrans mentes eorum, vbi est intellectus nosse simul 
+      quae<lb ed="#L" n="54" break="no"/>cunque etiam per tempora non fiunt simul. Isti ergo priuant beatos Angelos &amp; 
+      homi<lb ed="#L" n="55" break="no"/> 
+               <!-- line coord error -->
+               <lb ed="#L" n="56"/>stum certitudine ac multitudine scientiae ad beatitudinem requisitae. sicut praecedentia 
+      mani<lb ed="#L" n="57" break="no"/>festant; &amp; nedum hoc, verum etiam &amp; omni scientia seu praescientia priuant eos, omnium, 
+      <lb ed="#L" n="58"/>inquam, scientia seu praescientia contingentium futurorum, &amp; quorumcunque scibilium 
+      <!--808.xml-->
+      <pb ed="#A" n="775"/>
+               <lb ed="#L" n="1"/>aliorum, nisi fortassis per se notorum, aut quorum habent demonstrationem aut sensum; 
+      <lb ed="#L" n="2"/>quare multo magis Christum &amp; omnes Prophetas in via. Nam vbi non est perspicua 
+      certi<lb ed="#L" n="3" break="no"/>tudo, nec scientia proptie, sed fides, opinio, aut aestimatio potius esse potest, sicut ex 18. 
+      pri<lb ed="#L" n="4" break="no"/>mi apparet. Quare &amp; Apostolus, Fides est substantia rerum sperandarum, argumentum non  
+      <lb ed="#L" n="5"/>apparentium, ad Heb. 1I. Vnde &amp; Augustinus primae partis super Iohan. homilia 40. Cre 
+      <lb ed="#L" n="6"/>dimus, inquit, vt cognoscamus. Quid est enim fides nisi credere quod non vides? Fides 
+      er<lb ed="#L" n="7" break="no"/>go est quod non vides credere; veritas quod credidisti videre: Qui &amp; ad Paulinum de 
+      viden<lb ed="#L" n="8" break="no"/>do Deo 3. &amp; post diffuse ostendit, quod videre &amp; credere in hoc distant, quod videre est 
+      ali<lb ed="#L" n="9" break="no"/>quid certe &amp; euidenter cognoscere siue scire, aliquo scilicet sensu corporis vel animi, 
+      quic<lb ed="#L" n="10" break="no"/>quam certe sentire, recolereue sensisse; credere vero alijs non sic cognitis assentiri. Vbi 4. 
+      <lb ed="#L" n="11"/>sic ait, Hanc distinctionem tene, vt si quid te admonuero disserendo quod ita videas oculis 
+      <lb ed="#L" n="12"/>carnis vel vllo alio sensu eius sentias, seu te sensisse recolas, vt sentiuntur sonores, colores, 
+      <lb ed="#L" n="13"/>fragores, odores, sapores, feruores, &amp; si quid aliud per corpus cernendo, audiendo, 
+      olfacien<lb ed="#L" n="14" break="no"/>do, gustando, tangendo, sentimus, aut ita non videas, mentis intuitu vero vides, vitam, 
+      vo<lb ed="#L" n="15" break="no"/>luntatem, cogitationem, memoriam, intelligentiam, scientiam, fidem tuam; &amp; quicquid 
+      <lb ed="#L" n="16"/>aliud mente conspicis, atque ita esse non tantum credendo, sed plane videndo non dubitas, 
+      <lb ed="#L" n="17"/>hoc me iudices ostendisse; quod autem non sic ostendero, vt aut corporis aut animi sensus 
+      <lb ed="#L" n="18"/>visu, perceptuque teneatur, &amp; cum dixero aliquid quod nullo illorum duorum genere 
+      videa<lb ed="#L" n="19" break="no"/>tur, restat vt tantum credatur. Et infra 5. Nonnulli putant ipsum quod dicimus credere, cum 
+      <lb ed="#L" n="20"/>res vera creditur, hoc solum esse mente contueri: quod si ita est, fallitur ista nostra 
+      prolocu<lb ed="#L" n="21" break="no"/>tio, in qua distinximus aliud esse aliquid sentire corporis sensu, sicut in coelo Solem, &amp; in 
+      ter<lb ed="#L" n="22" break="no"/>ra montem, arborem, corpusue quodlibet, &amp; aliud mentis intuitu rem nihilominus 
+      euiden<lb ed="#L" n="23" break="no"/>tem, sicut nostra voluntas a nobismet ipsis intus aspicitur cum aliquid volumus, vel cogitatio 
+      <lb ed="#L" n="24"/>cum aliquid cogitamus, vel memoria cum recordamur, vel tale aliquid in animo siue corpore, 
+      <lb ed="#L" n="25"/>vel aliud ante credere quod in corporis mentisue conspectu nec adest nec affuisse recolitur, 
+      <lb ed="#L" n="26"/>sicut sine parentibus creatum Adam &amp; natum ex Virgine passumque resurrexisse Christum. 
+      <lb ed="#L" n="27"/>Et infra 6. Num satis est vt inter videre &amp; credere hoc distare credamus, quia praesentia 
+      vi<lb ed="#L" n="28" break="no"/>dentur, creduntur absentia? Plane forsitan satis est, si praesentia illa hoc loco intelligamus 
+      <lb ed="#L" n="29"/>dicta quae praesto sunt sensibus siue animi siue corporis, vnde &amp; iam praesentia scilicet a praesto 
+      <lb ed="#L" n="30"/>ducto vocabulo nominantur. Sicut enim hanc lucem corporis sensu, sic &amp; meam voluntatem 
+      <lb ed="#L" n="31"/>plane video, quia praesto est animi mei sensibus, atque intus mihi praesens est; si quis vero 
+      <lb ed="#L" n="32"/>mihi indicet voluntatem suam, cuius os &amp; vox mihi praesens est, tamen quia ipsa voluntas, 
+      <lb ed="#L" n="33"/>quam mihi indicat, latet sensus corporis &amp; animi mei, credo, non video, &amp; si forte vt dicit 
+      <lb ed="#L" n="34"/>ita sit; creduntur ergo illa quae absunt a sensibus nostris, si videtur idoneum quod eis 
+      testimo<lb ed="#L" n="35" break="no"/>nium perhibetur; videntur autem quae praesto sunt, inde &amp; praesentia nominantur, vel animi 
+      <lb ed="#L" n="36"/>vel corporis sensibus. Nam cum sint quinque corporis sensus, cernendi, audiendi, 
+      olfacien<lb ed="#L" n="37" break="no"/>di, gustandi, tangendi; visus quidem praecipue oculis attributus est; veruntamen hoc verbo 
+      <lb ed="#L" n="38"/>vtimur &amp; in caeteris. Neque enim tantum dicimus, Vide quid luceat, sed etiam, Vide quid 
+      <lb ed="#L" n="39"/>sonet, vide quid oleat, vide quid sapiat, vide quid caleat; nec quia dixi ea credi quae a 
+      sensi<lb ed="#L" n="40" break="no"/>bus nostris absunt, sic accipiatur, vt inter illa deputentur quae aliquando vidimus, &amp; nos 
+      vi<lb ed="#L" n="41" break="no"/>disse retinemus, certique sumus, quamuis ea tunc non praesto sint cum recoluntur a nobis; 
+      <lb ed="#L" n="42"/>neque enim inter credita, sed inter visa deputantur, &amp; ideo nota sunt, non quia fidem 
+      habui<lb ed="#L" n="43" break="no"/>mus alijs testibus, sed quia nos vidisse sine dubio recordamur &amp; scimus. Respondebit 
+      quis<lb ed="#L" n="44" break="no"/>nam fortassis dicendo ista non sequi, quia Deus potest sic illustrare mentem alicuius, &amp; 
+      pro<lb ed="#L" n="45" break="no"/>positiones seu habitus in mente ipsius, &amp; ita ei vera huiusmodi reuelabit, quod sciet &amp; 
+      intue<lb ed="#L" n="46" break="no"/>bitur illa certe. Sed si illustratio illa fiat per aliquod lumen creatum quantumcunque clarissi. 
+      <lb ed="#L" n="47"/>mum, aut per aliquam creaturam, talis reuelatio de futuro potest esse erronea, delusoria, atque 
+      <lb ed="#L" n="48"/>falsa: potest enim oppositum euenire: Eodem quoque modo &amp; reuelatio quaelibet de 
+      prae<lb ed="#L" n="49" break="no"/>senti aut de praeterito non per se noto aut demonstrato, nec sensato, non obstante illustratione 
+      <lb ed="#L" n="50"/>huiusmodi, potest esse delusoria atque falsa. Cur enim non de praesentibus &amp; praeteritis 
+      tali<lb ed="#L" n="51" break="no"/>bus sicut de futuris? imo si cuipiam existenti Londini talis reuelatio fieret, quod cras hora 
+      <lb ed="#L" n="52"/>prima A. futurum contingens fiet Romae, &amp; ipse credat continue, nonne, sicut ex ista 
+      reue<lb ed="#L" n="53" break="no"/>latione potest decipi &amp; errate ante horam primam dici crastinae credendo A. tunc fore, quia 
+      <lb ed="#L" n="54"/>non obstante reuelatione huiusmodi, possibile est A. nonfore, sic &amp; ex eadem reuelatione se 
+      <lb ed="#L" n="55"/>cundum substantiam potest decipi de praesenti, credendo cras hora prima A. esse, &amp; Iapsa 
+      ho<lb ed="#L" n="56" break="no"/>ra prima similiter decipi de praeterito, credendo conformiter A. fuisse? Cuius causa est, quia 
+      <lb ed="#L" n="57"/>qualicunque &amp; quantocunque lumine creato illustretur quaecunque propositio, cuius veritas 
+      <lb ed="#L" n="58"/>non est per se nota, nec per lumen habitus euidenter demonstrata per aliqua per se nota, &amp; in 
+      <!--809.xml-->
+      <pb ed="#A" n="776"/>
+               <lb ed="#L" n="1"/>consequentia per se nota, nec indubitanter sensata, illa non est certa, quia illustratione 
+      huius<lb ed="#L" n="2" break="no"/>modi non obstante res posset aliter se habere. Sicut enim illustratur propositio talis vera, sic 
+      <lb ed="#L" n="3"/>posset &amp; falsa. Ita clare namque lucet Sol &amp; Luna ac alia luminaria supra scripturam falsam, 
+      <lb ed="#L" n="4"/>sicut super veram, super mentientem sicut super vera dicentem; vbi ergo possunt haec discet 
+      <lb ed="#L" n="5"/>ni? Certe in nullo lumine creato fallibili siue lumine infallibili increato; nulla ergo 
+      huius<lb ed="#L" n="6" break="no"/>modi veritas potest certe infallibiliterque videri, nisi in intrinseco lumine infallibilis 
+      verita<lb ed="#L" n="7" break="no"/>tis, in candore lucis aeternae, &amp; speculo sine macula maiestatis diuinae, in libro vitae. in verbo 
+      <lb ed="#L" n="8"/>Dei, qui &amp; quod mentiri non potest, in essentia clara Dei vbi omnia sicuti sunt aeternaliter. 
+      <lb ed="#L" n="9"/>immutabiliter, &amp; infallibiliter conscribuntur, vbi nullus est error, nec etiam esse potest, sicut  
+      <lb ed="#L" n="10"/>nec in Deo, quod &amp; ibi videbit, leget, &amp; sciet certissime, quicunque perfecte interius viderit, 
+      <lb ed="#L" n="11"/>legerit &amp; sciuerit librum illum, sicut apparet ex tricesimo quarto huius. Nonne hoc voluit 
+      <lb ed="#L" n="12"/>dicere tota illa turba Philosophorum, quaedam obscure proferens, quaedam clare de 
+      intelle<lb ed="#L" n="13" break="no"/>ctu agente? Et quomodo Deus est lumen ad omnia cognoscenda, sicut sextum primi, &amp; 
+      vice<lb ed="#L" n="14" break="no"/>simum secundi plenius recitauit? An non sic sensit clarissimus Esaias, quando 
+      congregati<lb ed="#L" n="15" break="no"/>oni fidelium promittebat, Non erit tibi amplius Sol ad Iucendum per diem, nec splendor 
+      <lb ed="#L" n="16"/>Lunae illuminabit te, sed erit tibi Dominus in lucem sempiternam? Es. 60. Annon hoc 
+      sen<lb ed="#L" n="17" break="no"/>sit princeps Apostolorum Petrus, quando fidelibus ita scripsit, Habemus firmiorem 
+      prophe<lb ed="#L" n="18" break="no"/>ticum sermonem, cui benefacitis artendentes, quasi lucernae lucenti in caliginoso loco, donee 
+      <lb ed="#L" n="19"/>dies illucescat, &amp; lucifer oriatur in cordibus vestris? 2. Pet. 1. Annon ita sensit vas 
+      electio<lb ed="#L" n="20" break="no"/>nis Paulus ad Corinthios ita scribens, Ex parte cognoscimus, &amp; ex parte prophetamus; cum 
+      <lb ed="#L" n="21"/>autem venerit quod perfectum est, euacuabitur quod exparte est; videmus nunc per 
+      specu<lb ed="#L" n="22" break="no"/>lum in aenigmate, tunc autem facie ad faciem; nunc cognosco ex parte, tunc autem 
+      cognos<lb ed="#L" n="23" break="no"/>cam sicut &amp; cognitus sum? Annon hoc sensit inter Discipulos magis dilectus, qui &amp; de 
+      pe<lb ed="#L" n="24" break="no"/>ctore Domini totum hausit quod sitientibus seruis effudit, cum dixit, Deus lux est, &amp; 
+      tene<lb ed="#L" n="25" break="no"/>brae in eo non sunt vllae? 1. I0h. 1. Et infra 3. Charissimi, nunc filij Dei sumus, &amp; nondum ? 
+      <lb ed="#L" n="26"/>apparuit quid erimus; scimus autem quoniam cum apparuerit, similes ei erimus, quoniam 
+      <lb ed="#L" n="27"/>videbimus eum sicuti est? Et quomodo? Audi, Deum nemo vidit vnquam, vnigenitus, qui 
+      <lb ed="#L" n="28"/>est in sinu Patris, ipse enarrauit, Ioh. 1. quod teste Beda in glossa, potest referri ad 
+      praeteri<lb ed="#L" n="29" break="no"/>tum &amp; similiter ad futurum. Annon hoc veritas ipsa sensit, cum ait, Ego sum radix &amp; genus 
+      <lb ed="#L" n="30"/>Dauid, stella splendida &amp; maturina? Apoc. vlt. Et iterum, Qui diligit me, diligetur a Patre 
+      <lb ed="#L" n="31"/>meo, &amp; ego diligam eum, &amp; manifestabo ei meipsum? Ioh. 14. Annon sic intelligenda 
+      <lb ed="#L" n="32"/>sunt haec &amp; alia quamplura loca similia tam veteris testamenti quam noui? Si aliquis dubitet, 
+      <lb ed="#L" n="33"/>respiciat expositiones &amp; glossas catholicas, &amp; proculdubio certus fiet. Scio tamen quod est 
+      <lb ed="#L" n="34"/>quaedam scientia &amp; etiam certitudo alio modo dicta, probabilis scilicet &amp; firma, credulitas 
+      <lb ed="#L" n="35"/>vehemens, &amp; indubitata adhaesio, &amp; spes firma. Sic enim scimus qui fuerunt &amp; sunt nostri 
+      <lb ed="#L" n="36"/>parentes, fratres &amp; forores; sic scimus quae testimonio fide dignorum didicimus hominum I 
+      <lb ed="#L" n="37"/>vel librorum, librorum inquam, historicorum sacrorum &amp; etiam aliorum, puta Troiam 
+      fu<lb ed="#L" n="38" break="no"/>isse nobilem ciuitatem, &amp; a Graecis destructam, Alex andrum, // Carolum Adagnum, Ed ivardum,  
+      <lb ed="#L" n="39"/>&amp; alios Principes multa magnalia perpetrasse. Platonem, Aristotelem, Ptolomaeum, &amp; 
+      Phi<lb ed="#L" n="40" break="no"/>losophos alios plurima docuisse. Quare &amp; Ieber in prologo 1. dicit, quod scientia melior 
+      <lb ed="#L" n="41"/>post scientiam fidei est, cuius principia sunt certa &amp; firma: &amp; Philosophus in De memoria &amp;  
+      <lb ed="#L" n="42"/>reminiscentia, Neque, inquit, contingit futura memorari, sed est opinabile &amp; sperabile; erit 
+      <lb ed="#L" n="43"/>vtique &amp; scientia quaedam speratiua, quemadmodum quidam diuinatiuam dicunt: Et 7. 
+      <lb ed="#L" n="44"/>Eth. 3. Quidam, inquit, opinantium non dubitant, sed existimant certe scire; si ergo 
+      prop<lb ed="#L" n="45" break="no"/>ter quietem credere opinantes magis scientibus praeter opinionem agent, nihil differt scientia 
+      <lb ed="#L" n="46"/>ab opinione: quidam enim credunt nihil minus quibus opinantur, quam alteri quibus sciunt; 
+      <lb ed="#L" n="47"/>manifestat autem Heraclitus; qui &amp; 4. Topicorum, dicit quod fides est opinio vehemens; 
+      <lb ed="#L" n="48"/>vbi &amp; recitat a quibusdam quod fides est vehementia opinionis. Quare &amp; Augustinus 
+      ad<lb ed="#L" n="49" break="no"/>Paulinam de videndo Deo 4. Si, inquit, ea quae non vidimus, id est, in praesentia non 
+      sensi<lb ed="#L" n="50" break="no"/>mus vel mente vel corpore, neque de Scripturis sanctis vel legendo, vel audiendo didicimus, 
+      <lb ed="#L" n="51"/>nulla omnino credidissemus, vnde sciremus esse ciuitates vbi nunquam fuimus, vel a 
+      Romu<lb ed="#L" n="52" break="no"/>lo etditam Romam, vel, vt de propioribus loquar, Constantinopolim a Constantino? Vnde 
+      <lb ed="#L" n="53"/>postremo sciremus quinam parentes nos procreauissent, quibus patribus, auis, maioribus 
+      ge<lb ed="#L" n="54" break="no"/>niti essemus? Talium quippe cum plurima sciamus, non tamen ea vel vllo sensu praesentia, 
+      <lb ed="#L" n="55"/>sicut Solem, sicut nostri animi voluntatem, sicut canonicorum eloquiorum autoritatem, sicut 
+      <lb ed="#L" n="56"/>Adam fuisse primum hominem, aut Christum incarnatum, passum, ac resurrexisse 
+      didici<lb ed="#L" n="57" break="no"/>mus, sed alijs referentibus, de quorum testimonio in hoc duntaxat rerum genere minime 
+      du<lb ed="#L" n="58" break="no"/>bitauimus. Et infra 6. praetactam distinctionem de scientia innuens; Constat, inquit, nostra 
+      <!--810.xml-->
+      <pb ed="#A" n="777"/>
+               <lb ed="#L" n="1"/>scientia ex visis, rebus, &amp; creditis; sed in his quae vidimus vel videmus nos ipsi testes sumus; 
+      <lb ed="#L" n="2"/>in his autem quae credimus, alijs testibus mouemur: ad fidem tamen earum rerum, quas nec 
+      <lb ed="#L" n="3"/>vidisse nos recolimus nec videmus, dantur signa vel in vocibus, vel in literis, vel in 
+      quibus<lb ed="#L" n="4" break="no"/>cunque documentis, quibus visis non visa credantur. Non autem immerito scire nos 
+      dici<lb ed="#L" n="5" break="no"/>mus non solum ea quae vidimus aut videmus, verum &amp; illa quae idoneis ad quamque rem 
+      <lb ed="#L" n="6"/>commoti testimonijs vel testibus credimus. Porro si scire non incongruenter dicimus etiam  
+      <lb ed="#L" n="7"/>illud quod certissimum credimus, hinc factum est vt &amp; iam recte credita, etsi non adsint 
+      no<lb ed="#L" n="8" break="no"/>stris sensibus, videre mente dicamur: scientia quippe menti tribuitur siue per corporis 
+      sen<lb ed="#L" n="9" break="no"/>sus, siue per ipsum animum aliquid perceptum cognitumque retineat, &amp; fides ipsa mente 
+      <lb ed="#L" n="10"/>vtique videtur, quamuis hoc fide credatur, quod non videtur. Vnde Apostolus Petrus dicit, 
+      <lb ed="#L" n="11"/>in quem modo non videntes creditis; &amp; ipse Dominus, Beati qui non viderunt, &amp; 
+      credide<lb ed="#L" n="12" break="no"/>runt. Sed absit quod perfecte beati sint tantummodo habituri talem scientiam, cognitionem 
+      <lb ed="#L" n="13"/>aut certitudinem impropriam, fallibilem, imperfectam, sicut patet ex hic praemissis, &amp; 34. 
+      <lb ed="#L" n="14"/>huius; non sic ergo, non sic, sed habebunt visionem certissimam in clarissimo Dei verbo, 
+      <lb ed="#L" n="15"/>sicut &amp; Christus habuit hic in via; &amp; Petrus euidenter testatur 3. sentent. dist. 26. sicut 34. 
+      <lb ed="#L" n="16"/>huius plenius recitatur. Quare &amp; Propheta, Credo, inquit, videre bona Domini in terra 
+      vi<lb ed="#L" n="17" break="no"/>uentium, Psalmo 26. Non dixit opinari, aestimare, aut credere, sed videre. Ostendebatur 
+      <lb ed="#L" n="18"/>autem superius quantum distat inter credere &amp; videre; qui ergo tollunt a beatis huiusmodi 
+      <lb ed="#L" n="19"/>visionem, &amp; mercedem fidei a fidelibus simul tollunt: constat enim hanc esse fidei nostrae 
+      <lb ed="#L" n="20"/>mercedem. Quare &amp; dicebat Iesus ad eos qui crediderunt ei Iudaeos; Si vos manseritis in me, 
+      <lb ed="#L" n="21"/>vere discipuli mei eritis, &amp; cognoscetis veritatem, Ioh. 8. quasi diceret manifeste, Vos qui 
+      <lb ed="#L" n="22"/>nunc aenigmatice creditis, si credendo manseritis, tandem cognoscetis certissime veritatem, 
+      <lb ed="#L" n="23"/>Quod Augustinus exponens homilia 40. primae partis, // sic ait: Quid enim quod dixisti non  
+      <lb ed="#L" n="24"/>est veritas? Veritas est, sed adhuc creditur, nondum videtur; si maneatur in eo quod 
+      credi<lb ed="#L" n="25" break="no"/>tur, // peruenitur ad id quod videatur. Inde Iohannes ipse sanctus Euangelista in epistola sua, 
+      <lb ed="#L" n="26"/>Dilectissimi, inquit, filij Dei sumus, sed nondum apparuit quid erimus. Iam sumus, &amp; adhuc 
+      <lb ed="#L" n="27"/>erimus: quid plus erimus quam sumus? Audi, nondum apparuit quid erimus; scimus, quia 
+      <lb ed="#L" n="28"/>cum apparuerit, similes ei erimus. Vnde? Quoniam videbimus eum sicuti est. Magna 
+      pro<lb ed="#L" n="29" break="no"/>missio, sed merces est fidei. Qui &amp; vlt. de Ciuit. Dei 28. Considerandum est, inquit, 
+      quan<lb ed="#L" n="30" break="no"/>tus vir dicebat; Ex parte scimus, &amp; ex parte prophetamus, donec veniat quod perfectum est,  
+      <lb ed="#L" n="31"/>&amp; videmus nunc per speculum in aenigmate, tunc autem facie ad faciem; sic iam vident sancti 
+      <lb ed="#L" n="32"/>Angeli, &amp; sicut ibi vident, ita &amp; nos visuri sumus praemium, atque fidei nobis visio ista 
+      ser<lb ed="#L" n="33" break="no"/>uatur. Beati quoque qui hic humiliter crediderunt Deum esse vnum &amp; trinum; si hoc in 
+      <lb ed="#L" n="34"/>coelo non clare &amp; certe videbunt, quomodo digne &amp; plene remunerabitur ista fides? Aut si 
+      <lb ed="#L" n="35"/>hoc clare &amp; certe videbunt, sicut sitibunde desiderant, in quo? Certe non sufficienter in 
+      ali<lb ed="#L" n="36" break="no"/>qua creatura; nulla enim creatura potest istud clare &amp; certe ostendere, sicuti est propter eius 
+      <lb ed="#L" n="37"/>dissimilitudinem infinitam: si autem hoc clare &amp; certe videbunt, &amp; legent, &amp; scient in verbo 
+      <lb ed="#L" n="38"/>Dei, in libro vitae., in essentia clara Dei; cur non &amp; alia vera complexa similiter, cum istud 
+      ve<lb ed="#L" n="39" break="no"/>rum complexum videatur summum excellentissimum &amp; difficillimum omnium ibi 
+      scripto<lb ed="#L" n="40" break="no"/>rum? Quomodo etiam non potest beatus in illo libro Dei clarissimo &amp; certissimo videre &amp; 
+      <lb ed="#L" n="41"/>legere clarissime &amp; certissime quodcunque verum complexum clarissime &amp; certissime ibi 
+      <lb ed="#L" n="42"/>scriptum? Cur, inquam, hoc non potest, praesertim cum oculi cordis eius fuerunt plene 
+      mun<lb ed="#L" n="43" break="no"/>dati &amp; omniquaque perfecti, cum etiam nunc cum oculis suis debilibus &amp; infirmis possit 
+      vi<lb ed="#L" n="44" break="no"/>dere &amp; legere talia in alijs libris obscuris minus visibilibus &amp; legibilibus minus valde? Si 
+      dix<lb ed="#L" n="45" break="no"/>eris, propter nimiam excellentiam illius libri super oculum mentis Angelicae &amp; humanae, hoc 
+      <lb ed="#L" n="46"/>est superius reprobatum: quomodo etiam potest beatus ibi videre &amp; legere optime, Deum  
+      <lb ed="#L" n="47"/>esse vnum &amp; trinum, quod videtur excellentissimum ibi scriptum, &amp; alia inferiora non potest? 
+      <lb ed="#L" n="48"/>Quomodo etiam, sicut &amp; tu ipse concedis, ista excellentia maxima non obstante potest 
+      bea<lb ed="#L" n="49" break="no"/>tus ibi videre &amp; legere quaelibet incomplexa, &amp; tamen complexa non potest? In hoc 
+      siqui<lb ed="#L" n="50" break="no"/>dem videris beatum similem facere puero scienti simplices literas, ex eis tamen syllabas aut  
+      <lb ed="#L" n="51"/>syllabam facere nescienti, scientiue syllabas, sed eas in dictiones aut dictionem coniungere 
+      <lb ed="#L" n="52"/>nescienti; scientique legere dictiones, sed orationes, aut orationem intelligere nescienti; imo 
+      <lb ed="#L" n="53"/>&amp; quod durius multum videtur, nec vnquam valenti addiscere quicquam horum. Quomodo 
+      <lb ed="#L" n="54"/>tamen quisquam summo ingenio praeditus, videns, legens, &amp; intelligens in aliquo libro 
+      sin<lb ed="#L" n="55" break="no"/>gulas dictiones, singula incomplexa, non potest videre, legere, &amp; intelligere in eodem quam  
+      <lb ed="#L" n="56"/>libet propositionem &amp; orationem quamcunque, imo nec aliquam etiam facillimam intelle 
+      <lb ed="#L" n="57"/>ctu? Quomodo ergo beatus non ita videbit, leget, atque intelliget in libro diuinae scientiae 
+      <lb ed="#L" n="58"/>quaecunque complexa, sicuti incomplexa? Non sic ergo, non sic: non enim sic sentit beatus 
+      <!--811.xml-->
+      <pb ed="#A" n="778"/>
+               <lb ed="#L" n="1"/>Augustinus superius allegatus, dicens quod Beatis erit assidua lectio libri vitae. Qui &amp; de 
+      <lb ed="#L" n="2"/>verbis Apostoli sermone 20. loquens de tempore viae &amp; patriae. Nunc, inquit, per fidem 
+      am<lb ed="#L" n="3" break="no"/>bulamus, tunc per speciem. Quid est per speciem? Speciosus forma prae filijs hominum, 
+      <lb ed="#L" n="4"/>quia in principio erat verbum, &amp; verbum erat apud Deum, &amp; Deus erat verbum. Qui diligit 
+      <lb ed="#L" n="5"/>me, inquit, mandata mea custodit, &amp; qui diligit me diligetur a Patre meo; &amp; ego diligam 
+      <lb ed="#L" n="6"/>eum: &amp; quid illi dabis? Et ostendam meipsum illi; haec erit species quando faciet, quod dixit,  
+      <lb ed="#L" n="7"/>&amp; ostendam meipsum illi; ibi aequitatem Dei videbis, ibi sine codice in verbo leges; ergo 
+      <lb ed="#L" n="8"/>cum viderimus eum sicuti est, iam transiet peregrinatio nostra. Sine codice, inquit, leges, sine 
+      <lb ed="#L" n="9"/>codice, inquam, creato, in codice increato, in libro aeterno scientiae Dei aeternae. Et sequitur, 
+      <lb ed="#L" n="10"/>Via est credere, hanc viam teneamus, &amp; ad speciem perueniemus; cum venerimus ad 
+      speci<lb ed="#L" n="11" break="no"/>em, aequitatem Dei videbimus, &amp;iam non erit ibi dicere, quare huic subuenit, &amp; huic non? 
+      <lb ed="#L" n="12"/>Quare iste adductus est a gubernatione Dei vt baptizetur, ille autem cum bene 
+      catechume<lb ed="#L" n="13" break="no"/>nus vixerit, subita ruina mortuus est, &amp; ad baptismum non peruenit, ille autem cum scelerate 
+      <lb ed="#L" n="14"/>vixerit, cum luxuriosus, cum moechus, cum scaenicus, cum venator aegrotauit, baptizatus 
+      <lb ed="#L" n="15"/>est, discessit, peccatum in eo coniunctum est, peccatum in eo deletum est? Quare merita non  
+      <lb ed="#L" n="16"/>inuenies, nisi poenam? Quare gratiam? Oaltitudo diuitiarum? Petrus negat, Iatro credit. 
+      <lb ed="#L" n="17"/>Oaltitudo diuitiarum sapientiae &amp; scientiae Dei? Simili quoque modo, sicut argutum est de 
+      <lb ed="#L" n="18"/>libro, argui potest de verbo: quomodo namque non potest beatus audire &amp; cognoscere vera 
+      <lb ed="#L" n="19"/>complexa in verbo, &amp; per verbum Dei, in quo &amp; per quod omnia vera verissime, 
+      distinctis<lb ed="#L" n="20" break="no"/>sime, &amp; certissime exprimuntur, verorumque omnium verissimae &amp; certissimae rationes? Et  
+      <lb ed="#L" n="21"/>quis praesumpserit dicere tam facundissimum verbum mutum? Quis hoc praesumpserit, nisi 
+      <lb ed="#L" n="22"/>surdus? Et quis audeat dicere verbum Domini nequaquam exprimere nec posse exprimere 
+      <lb ed="#L" n="23"/>aliqua vera complexa, sed tantummodo incomplexa? Vel si exprimat vera complexa, 
+      crea<lb ed="#L" n="24" break="no"/>turam tamen non posse audire nec intelligere in illo verbo vera complexa, sed tantummodo 
+      <lb ed="#L" n="25"/>incomplexa, nec verbum illud omnipotens posse per seipsum exprimere creaturae vera 
+      com<lb ed="#L" n="26" break="no"/>plexa sicuti incomplexa, orationes sicuti dictiones? Quis, inquam, hoc affirmare 
+      praesumpse<lb ed="#L" n="27" break="no"/>rit, nisi spiritualiter forte surdus, qui aures habet, &amp; non audiet verbum Dei? Non sic 
+      Pro<lb ed="#L" n="28" break="no"/>pheta, non sic; sed ait, Audiam quid loquatur in me Deus, Psalmo 84. super quod 
+      Augusti<lb ed="#L" n="29" break="no"/>nus, Loquebatur, inquit, in illo Deus intus &amp; mundus faciebat illi strepitum foris; cohibens 
+      <lb ed="#L" n="30"/>ergo aliquanto a strepitu mundi, &amp; auertens se ad se, &amp; a se in illum cuius vocem audiebat 
+      <lb ed="#L" n="31"/>interius, quam obturans aurem contra tumultuantem vitae huius inquietudinem, &amp; contra 
+      <lb ed="#L" n="32"/>animam corpore quod corrumpitur aggrauatam, &amp; sensu terrena habitatione deprimente 
+      <lb ed="#L" n="33"/>multa cogitantem ait, Audiam quid loquatur in me Dominus Deus; &amp; audiuit. Quid? 
+      Quo<lb ed="#L" n="34" break="no"/>niam loquetur pacem in plebem suam; ostensoque quod pax illa non erit perfecta in 
+      praesen<lb ed="#L" n="35" break="no"/>ti, sed in futuro, concludendo sic ait, Erit ergo pax purgata in filijs Dei, omnibus amantibus 
+      <lb ed="#L" n="36"/>se, videntibus se plenos Deo, cum erit Deus omnia in omnibus: commune spectaculum 
+      ha<lb ed="#L" n="37" break="no"/>bebimus Deum, communem possessionem, communem pacem habebimus Deum. 
+      Quic<lb ed="#L" n="38" break="no"/>quid enim est quod nobis modo dat ipse, nobis erit pro omnibus qui dat, ipsa erit perfecta &amp;  
+      <lb ed="#L" n="39"/>plena pax: hanc loquitur in plebem suam, hanc volebat audire ille, qui ait, Audiam quid 
+      lo<lb ed="#L" n="40" break="no"/>quatur in me Dominus Deus, quoniam loquetur pacem in plebem suam. Qui &amp; vlt. de 
+      Ci<lb ed="#L" n="41" break="no"/>uit. Dei 29. Quanta, inquit, erit ista foelicitas, vbi nullum erit malum, nullum Iatebit? 
+      bo<lb ed="#L" n="42" break="no"/>num? Vacabitur Dei laudibus qui erit omnia in omnibus. Admoneor etiam sancto 
+      Canti<lb ed="#L" n="43" break="no"/>co, vbi lego vel audio, Beati qui habitant in domo tua, Domine, in saecula saeculorum 
+      lauda<lb ed="#L" n="44" break="no"/>bunt te omnes illi, qui nunc latent harmoniae corporalis nerui, non latebunt intrinsecus &amp; 
+      <lb ed="#L" n="45"/>extrinsecus per corporis cuncta dispositi, &amp; cum caeteris rebus, quae ibi magnae atque 
+      mira<lb ed="#L" n="46" break="no"/>biles videbuntur, rationales mentes in tanti artificis laudem rationabilis pulchritudinis 
+      dele<lb ed="#L" n="47" break="no"/>ctatione succendent; vera ibi gloria, verus honor, vera pax, vbi nihil aduersi nec a seipso nec 
+      <lb ed="#L" n="48"/>ab aliquo quisquam patietur, praemium virtutis ipse erit, qui virtutem dedit, eique seipsum, 
+      <lb ed="#L" n="49"/>quo melius &amp; maius nihil possit esse, promisit; quid est enim aliud quod per Prophetam T 
+      <lb ed="#L" n="50"/>dixit, Ego illorum Deus, &amp; ipsi mihi erunt plebs, nisi ego ero vnde satientur, ego ero 
+      quae<lb ed="#L" n="51" break="no"/>cunque ab omnibus honeste desiderantur, &amp; vita, &amp; salus, &amp; victus, &amp; copia, &amp; gloria, &amp;  
+      <lb ed="#L" n="52"/>honor, &amp; pax, &amp; omnia bona? Sic enim &amp; illud recte intelligitur quod ait Apostolus, vt sit 
+      <lb ed="#L" n="53"/>Deus omnia in omnibus, ipse finis erit desideriorum nostrorum, qui sine fine videbitur, sine 
+      <lb ed="#L" n="54"/>fastidio amabitur, sine fatigatione laudabitur; hoc munus, hic affectus, hic actus profecto 
+      <lb ed="#L" n="55"/>erit omnibus, sicut ipsa vita aeterna communis. Nec putandum quod audire, mente videre, 
+      <lb ed="#L" n="56"/>&amp; legere in beatitudine consummata realiter sint diuersa, sicut videtur ex autoritate praemissa, 
+      <lb ed="#L" n="57"/>imo fortassis nec beatitudo perfecta habet partes realiter differentes. Aut enim aliqua illarum 
+      <lb ed="#L" n="58"/>partium esset perfecta, &amp; ad beatificandum sufficiens, &amp; tunc illa sola sufficeret; aut quaelibet 
+      <!--812.xml-->
+      <pb ed="#A" n="779"/>
+               <lb ed="#L" n="1"/>imperfecta, &amp; quomodo tunc ex talibus partibus imperfectis resultaret beatitudo perfecta, 
+      <lb ed="#L" n="2"/>praesertim cum omnes illae partes sint finitae numero &amp; virtute? Quae etiam posset esse 
+      beati<lb ed="#L" n="3" break="no"/>tudo perfecta Angeli vel hominis citra Deum, cum tam ille quam illa sit finis amborum? 
+      <lb ed="#L" n="4"/>Quare &amp; Boetius 3. de consolatione Philosophiae, prosa 10. per modum dialogi inter 
+      Phi<lb ed="#L" n="5" break="no"/>losophiam &amp; ipsum probat diffuse, &amp; tenet expresse quod beatitudo humana est summum 
+      <lb ed="#L" n="6"/>bonum, quare &amp; Deus, imo &amp; ipsa diuinitas. Cui &amp; <ref xml:id="dcn2br-e01505-Rd1e1297">Anselmus concordanter Monolog. 70.</ref> 
+               <lb ed="#L" n="7"/>
+               <quote xml:id="dcn2br-e01505-Qd1e1302" source="http://scta.info/resource/adcmon-c70-d1e131@43-215">Si, inquit, creatura rationalis, quae sibi inutilis est, sine perseuerante Dei amore sic eminet in 
+      <lb ed="#L" n="8"/>omnibus creaturis, vtique nihil potest esse praemium huiusamoris, nisi quod supereminet in 
+      <lb ed="#L" n="9"/>omnibus naturis; etenim idem ipsum bonum quod sic amari exigit, non minus ab amante se 
+      <lb ed="#L" n="10"/>desiderati cogit; nam quis sic amet iustitiam, veritatem, beatitudinem, incorruptibilitatem, 
+      <lb ed="#L" n="11"/>vt his frui non appetat? Quid ergo summa bonitas retribuet amanti &amp; desideranti se nisi 
+      se<lb ed="#L" n="12" break="no"/>ipsam? Nam quicquid aliud retribuat, non retribuit, quia nec compensatur amori, nec 
+      con<lb ed="#L" n="13" break="no"/>p solatur amantem, nec satiat desiderantem; aut si se vult amari &amp; desiderari vt aliud retribuat, 
+      <lb ed="#L" n="14"/>non se vult amari &amp; desiderari propter se, sed propter aliud, &amp; sic se non vultamari, sed aliud; 
+      <lb ed="#L" n="15"/>quod cogitare nefas est; nihil ergo verius quam quod omnis anima rationalis, si 
+      quemadmo<lb ed="#L" n="16" break="no"/>dum debeat, studeat amando desiderare summam beatitudinem, aliquando illam ad 
+      fruen<lb ed="#L" n="17" break="no"/>dum percipiat, vt quod nunc videt quasi per speculum &amp; in aenigmate, tunc videat facie ad 
+      fa<lb ed="#L" n="18" break="no"/>ciem: vtrum ea sine fine fruatur, dubitare stultissimum est, quoniam illa fruens nec timore 
+      <lb ed="#L" n="19"/>torqueri poterit, nec fallaci securitate decipi</quote>. Huic &amp; concorditer Augustinus in sententijs 
+      <lb ed="#L" n="20"/>Prosperi 20. Hoc, inquit, affectu colendus est Deus, vt sui cultus ipse sit merces. Nam qui  
+      <lb ed="#L" n="21"/>Deum colit ideo, vt alium magis quam ipsum promereatur, non Deum colit, sed id quod 
+      as<lb ed="#L" n="22" break="no"/>sequi concupiscit. Boetius etiam vbi prius, Quoniam, inquit, beatitudinis adeptione fiunt 
+      <lb ed="#L" n="23"/>homines beati, beatitudo vero est ipsa diuinitas, diuinitatis adeptione beatos fieri manifestum 
+      <lb ed="#L" n="24"/>est: sed vti iustitiae adeptione iusti, sapientiae sapientes fiunt; ita diuinitatem adeptos Deos 
+      <lb ed="#L" n="25"/>
+               <!-- line coord error-->fieri simil // ratione necesse eset; omnis igitur beatus Deus, sed natura quidem vnus, participa
+      <lb ed="#L" n="26"/>tione vero nihil prohibet quamplurimos esse. Et infra ostendit, quod illa diuersa videntur 
+      <lb ed="#L" n="27"/>in beatitudine contineri, puta sufficientia, potentia, reuerentia, claritas, voluptas, &amp; caetera 
+      <lb ed="#L" n="28"/>talia sunt vnum &amp; idem; &amp; haec bona omnia sita esse in substantia summi boni, in substantia 
+      <lb ed="#L" n="29"/>ipsa Dei. Cui &amp; concorditer Augustinus super illud Psalmi 84. Salutare tuum da nobis, per 
+      <lb ed="#L" n="30"/>salutare Christum intelligens: Iam, inquit, dedit nobis Christum suum; adhuc illi tamen 
+      <lb ed="#L" n="31"/>dicamus. Da nobis Christum tuum, quia dicimus illi, Panem nostrum quotidianum da 
+      no<lb ed="#L" n="32" break="no"/>bis hodie. Et quis est panis noster, nisi ipse qui dixit, Ego sum panis viuus qui de Coelo 
+      de<lb ed="#L" n="33" break="no"/>scendi? Dicamus illi, Da nobis Christum tuum. Dedit enim nobis Christum, sed hominem, 
+      <lb ed="#L" n="34"/>quem nouimus; quem nobis dedit hominem, eum ipsum nobis daturus est Deum. 
+      Homini<lb ed="#L" n="35" break="no"/>bus enim hominem dedit, quia talem dedit illum hominibus, qualis capi posset ab hominibus;, 
+      <lb ed="#L" n="36"/>Deum enim Christum nullus hominum capere poterat. Factus est hominibus homo, 
+      serua<lb ed="#L" n="37" break="no"/>uit se Deum Dijs. An forte arroganter dixi? Reuera arroganter, nisi ipse dixisset, Ego dixi, 
+      <lb ed="#L" n="38"/>Dij estis, &amp; filij excelsi omnes. Qui &amp; super illud Psalmi 35. Inebriabuntur ab vbertate 
+      do<lb ed="#L" n="39" break="no"/>mus tuae; Cum, inquit, accepta fuerit illa ineffabilis laetitia, perit quodammodo humana 
+      <lb ed="#L" n="40"/>mens, &amp; sit diuina, &amp; inebriatur ab vbertate domus Dei. Et infra super illud, quoniam apud 
+      <lb ed="#L" n="41"/>te est fons vitae, &amp;c. Hic, inquit, aliud est fons, aliud lumen; ibi non ita: quod enim est fons, 
+      <lb ed="#L" n="42"/>hoc est &amp; lumen, &amp; quicquid vis illud vocas, quia non est quod vocas, quia non potes 
+      con<lb ed="#L" n="43" break="no"/>gruum nomen inuenire. Non remanet in vno nomine, si diceres, quia lumen est solum, 
+      di<lb ed="#L" n="44" break="no"/>ceretur tibi sine causa ergo mihi dictum est vt esuriam &amp; sitiam: quis enim est qui manducet 
+      <lb ed="#L" n="45"/>lumen illud? Plane recte mihi dictum est, Beati // mundo corde, quoniam ipsi Deum videbunt. 
+      <lb ed="#L" n="46"/>Si lumen est, oculos meos parem; para &amp; fauces, quia illud quod lumen est, &amp; fons est; fons 
+      <lb ed="#L" n="47"/>qui satiat sitientes, lumen quod illuminat coecos. Qui &amp; super Iohan. parte 2. homil. 45. seu 
+      <lb ed="#L" n="48"/>99. totius, tractans illud Iohan. 16. quod Dominus de Spiritu Sancto dixit; Non enim 
+      lo<lb ed="#L" n="49" break="no"/>quetur a semetipso, sed quaecunque audiet loquetur; in illa, inquit, incorporea immutabilique 
+      <lb ed="#L" n="50"/>natura audire &amp; videre id ipsum est. Cum enim dicitur scire, ibi sunt omnia, &amp; videre, &amp;  
+      <lb ed="#L" n="51"/>audire, &amp; olfacere, &amp; gustare, &amp; tangere. Nec mireris quod ineffabilis Dei scientia, qua 
+      no<lb ed="#L" n="52" break="no"/>uit omnia, per vatios humanae locutionis modos omnium istorum corporalium sensuum 
+      no<lb ed="#L" n="53" break="no"/>minibus nuncupatur, cum &amp; ipsa mens nostra, hoc est, homo interior, cui vniformiter scienti 
+      <lb ed="#L" n="54"/>per hos quinque veluti nuntios corporis diuersa nuntiantur, quando immutabilem veritatem 
+      <lb ed="#L" n="55"/>intelligit, eligit, diligit, &amp; lumen videt, de quo dicitur, Erat lumen verum, &amp; verbum audit,  
+      <lb ed="#L" n="56"/>de quo dicitur, In principio erat Verbum, &amp; odorem capit, de quo dicitur, Post odorem 
+      vn<lb ed="#L" n="57" break="no"/>guentorum tuorum currimus, &amp; fontem bibit, de quo dicitur, Apud te fons vitae, &amp; tactu 
+      <lb ed="#L" n="58"/>fruitur, de quo dicitur, Mihi autem adhaerere Deo bonum est, nec aliud atque aliud, sed vna 
+      <!--813.xml-->
+      <pb ed="#A" n="780"/>
+               <lb ed="#L" n="1"/>intelligentia tot sensuum nominibus nuncupatur. Quod &amp; testantur verba Hugonis superius A 
+      <lb ed="#L" n="2"/>recitata. Qui igitur contrarium huius astruere satagunt, nituntur priuare beatos nedum 
+      per<lb ed="#L" n="3" break="no"/>fectione visus, &amp; auditus, verum &amp; omnium sensuum, omniumque potentiarum spiritualium 
+      <lb ed="#L" n="4"/>mentis eorum, maxima quoque suauitate, summisque delicijs illius magnae coenae, illius 
+      coe<lb ed="#L" n="5" break="no"/>lestis conuiuij beatis omnibus praeparati: Conantur insuper, sicut dispensatores tenaces, 
+      <lb ed="#L" n="6"/>contrahere manum Domini liberalem, &amp; eius infinitam potentiam decurtare, ac 
+      magni<lb ed="#L" n="7" break="no"/>ficentiae eius abundantiam infinitam sub modio ponere, &amp; sub mensura paruula coarctate. 
+      <lb ed="#L" n="8"/>Quis etiam, ne limen Theologicae disciplinae vel parum ingressus, illam communem 
+      distin<lb ed="#L" n="9" break="no"/>ctionem de cognitione maturina &amp; vespertina, siue diurna &amp; nocturna ignoret? Et quod 
+      <lb ed="#L" n="10"/>cognitio maturina est cognitio rerum in verbo, cognitio vespertina cognitio rerum in 
+      pro<lb ed="#L" n="11" break="no"/>prio genere? Haec enim distinctio apud Doctores atque discipulos tam communis habetur, 
+      <lb ed="#L" n="12"/>quod fundatione vix eget; veruntamen ex abundanti ecce beatus Augustinus, qui4. super 
+      <lb ed="#L" n="13"/>uen. ad literam 27. &amp; post, diffuse atque perspicue ipsam tradit, dicitque Angelos 
+      cogno<lb ed="#L" n="14" break="no"/>uisse res faciendas in verbo, &amp; factas in proprio genere, &amp; primam cognitionem vocat mane 
+      <lb ed="#L" n="15"/>&amp; diem; secundam vesperam atque noctem propter excellentiam claritatis huius super illam: 
+      <lb ed="#L" n="16"/>vbi &amp; 29. sic ait, Multum quippe interest inter cognitionem rei alicuius in verbo Dei, &amp; 
+      cog<lb ed="#L" n="17" break="no"/>nitionem eius in natura eius, vt illud merito ad diem pertineat, hoc ad vesperam. In 
+      compa<lb ed="#L" n="18" break="no"/>ratione enim lucis illius, quae in verbo Dei conspicitur, omnis cognitio, qua creaturam 
+      quam<lb ed="#L" n="19" break="no"/>libet in semetipsa nouimus, non immerito nox potest dici, quod rursus tantum differt ab 
+      er<lb ed="#L" n="20" break="no"/>rore vel ignorantia eorum, qui nec ipsam creaturam sciunt, vt in eius comparatione non 
+      in<lb ed="#L" n="21" break="no"/>congrue dicatur dies; qui tamen dies, nisi rursus in comparatione illius dici potest, quo 
+      co<lb ed="#L" n="22" break="no"/>aequales Angelis facti Deum videbimus sicuti est, ipse quoque nox esset, non hic prophetiae 
+      <lb ed="#L" n="23"/>lucernae indigeremus. Vnde Apostolus Petrus dicit, Habemus certiorem propheticum 
+      ser<lb ed="#L" n="24" break="no"/>monem, cui bene facitis attendentes sicut lucernae in obscuro loco, donec dies lucescat &amp; 
+      lu<lb ed="#L" n="25" break="no"/>cifer oriatur in cordibus vestris. Quapropter cum sancti Angeli, quibus post resurrectionem? 
+      <lb ed="#L" n="26"/>coaequabimur, si viam quae nobis Christus factus est vsque in finem tenuerimus, semper 
+      vi<lb ed="#L" n="27" break="no"/>deant faciem Dei, verboque eius vnigenito filio, sicut Patri aequalis est, perfruantur, in 
+      qui<lb ed="#L" n="28" break="no"/>bus prima omnium creata est sapientia, proculdubio vniuersam creaturam, in qua ipsi sunt 
+      <lb ed="#L" n="29"/>principaliter conditi, in ipso verbo Dei prius nouerunt, in quo sunt omnium etiam quae 
+      tem<lb ed="#L" n="30" break="no"/>poraliter factae sunt aeternae rationes tanquam in eo per quod facta sunt omnia; ac deinde in 
+      <lb ed="#L" n="31"/>ipsa creatura, quam sic nouerunt, tanquam infra despicientes, eamque referentes ad illius 
+      lau<lb ed="#L" n="32" break="no"/>dem, in cuius incommutabili veritate rationes secundum quas facta est principaliter, vident. 
+      <lb ed="#L" n="33"/>Et infra 32. sic scribit, Nec quisquam arbitretur illud, quod dixi de luce spirituali, &amp; de 
+      con<lb ed="#L" n="34" break="no"/>dito die in spirituali &amp; Angelica creatura, &amp; de contemplatione quam habet in verbo Dei, &amp;  
+      <lb ed="#L" n="35"/>de cognitione, qua in seipsa creatura cognoscitur eiusque relatione ad laudem 
+      incommutabi<lb ed="#L" n="36" break="no"/>lis veritatis, vbi prius ratio videbatur rei faciendae quae cognita est facta, non iam proprie, sed 
+      <lb ed="#L" n="37"/>quasi figurate atque allegorice conuenire ad intelligendum diem &amp; vesperam &amp; mane, sed 
+      <lb ed="#L" n="38"/>aliter quidem quam in hac consuetudine quotidianae lucis huius corporalis, non tamen 
+      tan<lb ed="#L" n="39" break="no"/>quam hic proprie, ibi figurate: vbi enim melior &amp; certior, ibi verior etiam dies: cur ergo non  
+      <lb ed="#L" n="40"/>etiam verior vespera, &amp; verius mane? Et infra 35. Mens Angelica, pura charitate inhaerens 
+      <lb ed="#L" n="41"/>verbo Dei, posteaquam illo ordine creata est, vt praecederet caetera, prius ea vidit in Dei 
+      ver<lb ed="#L" n="42" break="no"/>bo facienda quam facta sunt, ac sic prius in eius fiebant cognitione, cum Deus dicebat vt 
+      fie<lb ed="#L" n="43" break="no"/>rent, quam in sua propria natura; quae itidem facta in eis ipsis etiam cognouit minore vtique 
+      <lb ed="#L" n="44"/>notitia, quae vespera dicta est. Praedictam quoque sententiam autoritates quamplurimae 
+      con<lb ed="#L" n="45" break="no"/>testantur. Nonne hoc videtur sentire ille Auerroes super 12. Metaphys. comment. 18. cum 
+      <lb ed="#L" n="46"/>sic dicit, Nos iam perscrutati sumus de istis duabus opinionibus in libro de Anima, &amp; 
+      dixi<lb ed="#L" n="47" break="no"/>mus quod intelligentia agens est quasi forma in intellectu materiali, &amp; quod ipsa agit 
+      intelle<lb ed="#L" n="48" break="no"/>cta, &amp; recipit ea secundum intellectum materialem, &amp; quod intellectus materialis non est 
+      ge<lb ed="#L" n="49" break="no"/>nerabilis &amp; corruptibilis, &amp; declarauimus illic quod haec est sententia Aristotelis, &amp; quod 
+      in<lb ed="#L" n="50" break="no"/>tellectus in habitu habet partem generabilem &amp; partem corruptibilem; illud autem quod 
+      <lb ed="#L" n="51"/>corrumpitur est actio eius, in se autem non corrumpitur, &amp; quod ab intrinseco intrat nos; 
+      <lb ed="#L" n="52"/>&amp; si actio illius intellectus secundum quod copulatur cum intellectu materiali esset non 
+      ge<lb ed="#L" n="53" break="no"/>nerabilis, tunc actio eius esset substantia eius, &amp; non haberet necessitatem in hac actione vt 
+      <lb ed="#L" n="54"/>copularetur cum intellectu materiali, sed cum fuerit copulatus cum intellectu materiali per 
+      <lb ed="#L" n="55"/>actionem, erit actio eius secundum quod copulatur cum eo actio alia a substantia eius, &amp; fuit 
+      <lb ed="#L" n="56"/>illud quod agit, substantia, &amp; est alij non sibi; &amp; ideo possibile est vt aliquid aeternum 
+      intelli<lb ed="#L" n="57" break="no"/>gat aliquod generabile &amp; corruptibile? Si igitur intellectus denudetur apud // perfectionem 
+      hu<lb ed="#L" n="58" break="no"/>manam a potentia, necesse est vt destruatur ab eo haec actio quae est alia ab eo, &amp; tunc aut non 
+      <!--814.xml-->
+      <pb ed="#A" n="781"/>
+               <lb ed="#L" n="1"/>intelligemus omnino per hunc intellectum, aut intelligemus secundum qd actio eius est sub¬ 
+      <lb ed="#L" n="2"/>stantia eius, &amp; impossibile est vt in aliqua hora non intelligamus per ipsum; relinquetur 
+      er<lb ed="#L" n="3" break="no"/>go, cum iste intellectus fuerit denudatus a potentia, vt intelligamus per ipsum secundum quod 
+      <lb ed="#L" n="4"/>actio est substantia eius, &amp; est vltima prosperitas. Philosophus quoque 12. Met. 38. 
+      descrip<lb ed="#L" n="5" break="no"/>to aliquantulum primo rerum principio, sic concludit; ex tali ergo principio dependet 
+      coe<lb ed="#L" n="6" break="no"/>lum &amp; natura, Deductio enim qualis optima paruo tempore nobis; sic enim semper illud est,  
+      <lb ed="#L" n="7"/>super quod Auer. Ex hoc, inquit, apparet bene qd. Arist. opinatur qd. fortuna hominum eo qd.¬ 
+      <lb ed="#L" n="8"/>sunt homines non est nisi per continuationem eorum cum intellectu, que declaratum est in lib. de 
+      <lb ed="#L" n="9"/>Anima esse principium agens &amp; mouens nos: Intelligentiae enim abstractae debent esse principia 
+      <lb ed="#L" n="10"/>eorum quorum sunt principia duobs modis, secundum qd. sunt mouentes, d&amp; secundum quod finis. 
+      <lb ed="#L" n="11"/>Intelligentia enim agens in quantum est abstracta &amp; principium nobis, necesse est vt moueat 
+      <lb ed="#L" n="12"/>nos secundum quod amatum amans, &amp; si omnis motus necesse est vt continuetur cum eo a 
+      <lb ed="#L" n="13"/>quo fit secundum finem, necesse est vt in postremo continuemur cum hoc intellectu 
+      abstra<lb ed="#L" n="14" break="no"/>cto, ita quod erimus dependentes a tali principio a quo Coelum dependet, quamuis hoc sit 
+      <lb ed="#L" n="15"/>in nobis modico tempore, sicut dixit Aristoteles: Aristoteles enim &amp; Auerroes ponunt 
+      faeli<lb ed="#L" n="16" break="no"/>citatem esse possibilem homini in vita praesenti, &amp; hoc paruo tempore prope finem. Nonne 
+      <lb ed="#L" n="17"/>hoc Dominus ipse docet, cum dicit, Si quis fuerit inter vos Propheta Domini, in visione 
+      ap<lb ed="#L" n="18" break="no"/>parebo illi, vel per somnum loquar ad illum? At non talis seruus meus Moses, qui in omni 
+      <lb ed="#L" n="19"/>domo mea fidelis est: Ore enim ad os loquar ei, &amp; palam, non per aenigmata &amp; figuras 
+      De<lb ed="#L" n="20" break="no"/>um videt, Numer. 12. &amp; alibi Angeli eorum semper vident faciem Patris mei, Matth. 18. 
+      <lb ed="#L" n="21"/>None Euangelista eius Marcus hoc docet cum dicit, Quo statim cognito, Iesus in Spiritu 
+      San<lb ed="#L" n="22" break="no"/>cto quia sic cogitarent intra se, dicit illis &amp; reliqua Marc. 2. Si ergo Iesus in Spiritu Sancto 
+      il<lb ed="#L" n="23" break="no"/>Iud cognouit, cur non &amp; alia? Nonne Apostolus eius Paulus hoc docet cum dicit, Veniam  
+      <lb ed="#L" n="24"/>ad visiones &amp; reuelationes Domini? Scio hominem in Christo ante annos 14. siue in corpore, 
+      <lb ed="#L" n="25"/>siue extra corpus, nescio, Deus scit, raptum huiusmodi vsque ad Coelum tertium: &amp; infra, 
+      <lb ed="#L" n="26"/>quoniam raptus est in paradisum, &amp; audiuit arcana verba 2. Cor. 12. Nonne ista &amp; multa 
+      si<lb ed="#L" n="27" break="no"/>milia insinuant sententiam praelibatam? Audi beatum Augustinum 12. super Gen. ad 
+      lite<lb ed="#L" n="28" break="no"/>ram disputantem de raptu Pauli, &amp; de tertio Coelo, intelligentemque per tres Coelos tria 
+      ge<lb ed="#L" n="29" break="no"/>nera visionum, visionem scilicet corporalem, spiritualem, &amp; intellectualem, // ponendoque 
+      dif<lb ed="#L" n="30" break="no"/>ferentiam inter istas, quod in visione corpotali &amp; spirituali potest esse fallacia, in intellectuali 
+      <lb ed="#L" n="31"/>nequaquam; vbi &amp; postquam 49. ostendit modum fallaciae tam in visione corporali quam  
+      <lb ed="#L" n="32"/>spirituali 50. consequenter subiungit, At vero in illis intellectualibus visis non fallitur anima: 
+      <lb ed="#L" n="33"/>Aut enim intelligit, &amp; verum est; aut si verum non est, non intelligit. Et infra 5 2. innuens 
+      <lb ed="#L" n="34"/>duplicem modum raptus, vnum a sensibus corporis ad similitudines corporum &amp; visionem 
+      <lb ed="#L" n="35"/>spiritualem, alterum a similitudinibus talibus &amp; a visione spirituali ad visionem 
+      intellectua<lb ed="#L" n="36" break="no"/>lem, sic ait: Porro si quemadmodum aliquis raptus est a sensibus corporis, vt esset in istis 
+      si<lb ed="#L" n="37" break="no"/>militudinibus corporum, quae Lsine) spiritu videntur; ita &amp; ab illis rapiatur, vt in illam quasi 
+      <lb ed="#L" n="38"/>regionem intellectualium vel intelligibilium subuehatur, vbi sine vlla corporis similitudine 
+      <lb ed="#L" n="39"/>perspicua veritas cernitur, nullis opinionum falsarum nebulis obfuscatur, vbi virtutes animae 
+      <lb ed="#L" n="40"/>non sunt operosae ac laboriosae, vna ibi &amp; tota virtus est amare quod videas, &amp; summa 
+      faelici<lb ed="#L" n="41" break="no"/>tas habere quod amas: Ibi enim beata vita in fonte suo bibitur; Propter hoc quippe 
+      adipi<lb ed="#L" n="42" break="no"/>scendum vbi secura quies erit, &amp; ineffabilis visio veritatis; labor suscipitur a temptationibus 
+      <lb ed="#L" n="43"/>saeculi continendi, ibi videtur claritas Domini, non per visionem significantem siue 
+      corpora<lb ed="#L" n="44" break="no"/>lem, sicut visa est in monte Sinai, siue spiritualem, sicut vidit Esaias vel Iohannes in 
+      Apoca<lb ed="#L" n="45" break="no"/>lypsi, sed per speciem non per aenigmata, quantum eam capere mens humana potest, 
+      secun<lb ed="#L" n="46" break="no"/>dum assumentis Dei gratiam, vt os ad os loquatur Deus ei quem dignum tali colloquio 
+      fece<lb ed="#L" n="47" break="no"/>rit, non os corporis, sed mentis. Vbi &amp; 53. sic adiungit, Sic intelligendum arbitror quod de 
+      <lb ed="#L" n="48"/>Mose scriptum est, Concupiuerat enim, sicut in Exodo legimus, videre Deum, non vtique 
+      si<lb ed="#L" n="49" break="no"/>cut viderat in monte, neque sicut videbat in tabernaculo, sed in ea substantia qua Deus 
+      <lb ed="#L" n="50"/>est, nulla assumpta corporali creatura, quae mortalis carnis sensibus praesentetur, nec in 
+      spi<lb ed="#L" n="51" break="no"/>ritu figuratis similitudinibus corporum, sed per speciem suam, quantum eam capere 
+      cre<lb ed="#L" n="52" break="no"/>atura rationalis &amp; intellectualis potest reuocata ab omni corporis sensu, ab omni 
+      signifi<lb ed="#L" n="53" break="no"/>catiuo aenigmatespiritus: Sic enim scriptum est, Si ergo inueni gratiam in conspectu tuo, 
+      <lb ed="#L" n="54"/>ostende mihi temetipsum manifeste vt videam te, cum paulo superius legatur, Et 
+      locu<lb ed="#L" n="55" break="no"/>tus est Dominus ad Mosem facie ad faciem, sicut loquitur amicus ad amicum suum. 
+      Senti<lb ed="#L" n="56" break="no"/>ebat ergo quid videbat, &amp; quod non videbat desiderabat. Nam &amp; paulo post cum dixisset 
+      <lb ed="#L" n="57"/>ei Deus, Inuenisti enim gratiam in conspectu meo, &amp; scio te prae omnibus; respondit ei, 
+      <!--815.xml-->
+      <pb ed="#A" n="782"/>
+               <lb ed="#L" n="1"/>Ostende mihi claritatem tuam; &amp; tunc quidem responsum accepit a Domino figuratum, de A 
+      <lb ed="#L" n="2"/>quo longum est disputare, quando ei dixit, Non poteris videre faciem meam &amp; viuere: non 
+      <lb ed="#L" n="3"/>enim videbit homo faciem meam, &amp; viuet. Nisi tamen concupitam &amp; desideratam Dei 
+      clari<lb ed="#L" n="4" break="no"/>tatem Moses videre meruisset, non in libro Numerorum diceret Deus ad Aaron &amp; Miriam  
+      <lb ed="#L" n="5"/>fratres eius. Audite verba mea, si fuerit Propheta inter vos, in visione illi Dominus 
+      cogno<lb ed="#L" n="6" break="no"/>scar, &amp; in somno loquar illi; non ita quoquomodo famulus meus Moses in tota domo mea 
+      fi<lb ed="#L" n="7" break="no"/>delis est; os ad os loquarad illum, in specie, &amp; non per aenigmata, &amp; claritatem Domini videt. 
+      <lb ed="#L" n="8"/>Neque enim hoc secundum substantiam corporis, quae carnis sensibus praesentatur, 
+      intelli<lb ed="#L" n="9" break="no"/>gendum est. Et sequitur 54. Illo ergo modo in illa specie qua Deus est, longe ineffabiliter 
+      se<lb ed="#L" n="10" break="no"/>cretius &amp; praesentius loquitur locutione ineffabili, vbi eum nemo videns viuet vita ista, quia 
+      <lb ed="#L" n="11"/>mortaliter viuitis in istis sensibus corporis, sed nisi ab hac vita quisque quodammodo 
+      mori<lb ed="#L" n="12" break="no"/>atur, siue omnino exiens de corpore, siue ita auersus &amp; abalienatus a carnalibus sensibus, vt 
+      <lb ed="#L" n="13"/>merito nesciat, sicut Apostolus ait, vtrum in corpore an extra corpus sit, cum in illam rapitur 
+      <lb ed="#L" n="14"/>&amp; subuehitur visionem. Et sequitur 55. Quapropter si hoc tertium visionis genus, quod 
+      su<lb ed="#L" n="15" break="no"/>perius est in omni visione corporali &amp; spirituali, tertium coelum appellauit Apostolus, In hoc 
+      <lb ed="#L" n="16"/>videtur claritas Dei, cui videndae corda mundantur: vnde dictum est, Beati mundo corde, 
+      quo<lb ed="#L" n="17" break="no"/>niam ipsi Deum videbunt, non per aliquam corporaliter vel spiritualiter figuratam 
+      signifi<lb ed="#L" n="18" break="no"/>cationem, tanquam per speculum in aenigmate, sed facie ad faciem, quod de Mose dictum est,  
+      <lb ed="#L" n="19"/>os ad os, per speciem scilicet qua Deus est quicquid est, quantumcunque eum mens, quae non 
+      <lb ed="#L" n="20"/>est quod ipse, eriam ab omni terrena labe mundata, ab omni corpore &amp; similitudine 
+      corpo<lb ed="#L" n="21" break="no"/>ris alienata &amp; arrepta capere potest: a quo, id est, Deo, peregrinamur mortali &amp; corruptibili 
+      <lb ed="#L" n="22"/>onere grauati, quamdiu per fidem ambulamus, non per speciem. Cur autem non credamus, 
+      <lb ed="#L" n="23"/>quod tanto Apostolo Doctori gentium rapto vsque ad istam excelsissimam visionem 
+      volue<lb ed="#L" n="24" break="no"/>rit Deus demonstrare vitam, in qua post hanc vitam videndum est in aeternum? Et cur non 
+      <lb ed="#L" n="25"/>dicatur iste Paradisus, excepto illo, in quo corporaliter vixit Adam? Qui &amp; 8. super 
+      Gen<lb ed="#L" n="26" break="no"/>ad literam 34. Certissime, inquit, tenere debemus Deum aut per suam substantiam loqui, aut  
+      <lb ed="#L" n="27"/>per sibi subditam creaturam: sed per substantiam suam non loqui, nisi ad creandas omnes 
+      na<lb ed="#L" n="28" break="no"/>turas; ad spirituales vero &amp; intellectuales non solum creandas, sed etiam illuminandas, cum 
+      <lb ed="#L" n="29"/>iam possunt capere locutionem eius, qualis est in verbo eius, quod, In principio erat apud 
+      <lb ed="#L" n="30"/>Deum, &amp; Deus erat Verbum per quod facta sunt omnia; Illis autem, qui eam capere non  
+      <lb ed="#L" n="31"/>possunt, cum loquitur Deus, non nisi per creaturam loquitur, aut tantummodo spiritualem, 
+      <lb ed="#L" n="32"/>siue in somnis, siue in extasi, in similitudine rerum corporalium, aut etiam per ipsam 
+      corpora<lb ed="#L" n="33" break="no"/>lem, dum sensibus corporis vel aliqua species apparet, vel insonant voces. Et 10. de Ciuit. 
+      <lb ed="#L" n="34"/>Dei 14. sic inquit, Diuinae prouidentiae placuit ordinare temporum cursum, vt lex in edictis 
+      <lb ed="#L" n="35"/>Angelorum daretur de vnius veri Dei cultu; in quibus &amp; persona ipsius Dei non quidem per 
+      <lb ed="#L" n="36"/>suam substantiam, quae semper corruptibilibus oculis inuisibilis permanet, sed certis indicijs 
+      <lb ed="#L" n="37"/>per subiectam Creatori creaturam visibiliter appareret, &amp; syllabatim pertransitorias 
+      tempo<lb ed="#L" n="38" break="no"/>rum morulas humanae linguae vocibus loqueretur, quae in sua natura non corporaliter, sed 
+      <lb ed="#L" n="39"/>spiritualiter, non sensibiliter, sed intelligibiliter, non temporaliter, sed vt ita dicam, 
+      aeternali<lb ed="#L" n="40" break="no"/>ter nec incipit loqui nec desinit, quod apud illum sincerius audiunt non corporis aures, 
+      <lb ed="#L" n="41"/>sed mentis ministri eius &amp; nuntij, qui eius veritate incommutabili fruuntur immortaliter 
+      be<lb ed="#L" n="42" break="no"/>ati. Gregorius etiam 28. Moral. 2. Sciendum, inquit, quod duobus modis locutio diuina 
+      di<lb ed="#L" n="43" break="no"/>stinguitur: Aut enim per seipsum Dominus loquitur; aut per creaturam Angelicam eius ad 
+      <lb ed="#L" n="44"/>nos verba formantur. Et infra 3. Quia, inquit, auditus ea, quae ad se fiunt, non simul 
+      om<lb ed="#L" n="45" break="no"/>nia, quae ad se dicta, comprehendit; quippe qui &amp; causas per verba, &amp; particulatim 
+      <lb ed="#L" n="46"/>verba per svllabas percipit; visus autem noster in eo quod se dirigit totum subito, &amp; 
+      si<lb ed="#L" n="47" break="no"/>mul apprehendit: Dei locutio ad nos intrinsecus facta videtur potius quam auditur, quia 
+      <lb ed="#L" n="48"/>dum semetipsam sine mora sermonis insinuat, repentina luce nostrae ignorantiae 
+      tene<lb ed="#L" n="49" break="no"/>bras illustrat: Vnde &amp; Baruc Neriae filius cum requisitus exponeret, quemadmodum F 
+      <lb ed="#L" n="50"/>verba Ieremiae prophetantis audisset, ait; Ex ore suo loquebatur quasi segens, &amp; ego 
+      <lb ed="#L" n="51"/>scribebam. Qui enim legens loquitur, alio intendit, sed alio verbum facit, quia quod 
+      <lb ed="#L" n="52"/>videt dicit; Prophetae ergo Dei, quia eius // verba vident potius in corde, quam 
+      audi<lb ed="#L" n="53" break="no"/>unt; quasi legentes loquuntur: cum vero per Angelum voluntatem suam Dominus 
+      in<lb ed="#L" n="54" break="no"/>dicat, aliquando eam verbis, aliquando rebus demonstrat, aliquando simul verbis &amp; 
+      re<lb ed="#L" n="55" break="no"/>bus, aliquando imaginibus cordis oculis ostensis, aliquando imaginibus &amp; ante corporeos 
+      <lb ed="#L" n="56"/>oculos ad tempus ex aere sumptis, aliquando coelestibus substantijs, aliquando terrenis, 
+      ali<lb ed="#L" n="57" break="no"/>quando simul terrenis &amp; coelestibus, nonnunqua vero etiam per Angelum humanis cordibus 
+      <!--816.xml-->
+      <pb ed="#A" n="783"/>
+               <lb ed="#L" n="1"/> ita loquitur Deus, vt ipse quoque Angelus mentis obtutibus praesentetur. Qui &amp; 18. Moral. 
+      <lb ed="#L" n="2"/>33. super illud Iob. 28. Vnde ergo sapientia venit, &amp; quis est locus intelligentiae? 
+      Abscondi<lb ed="#L" n="3" break="no"/>ta est ab oculis omnium viuentium. Quamdiu, inquit, hic mortaliter viuitur, videri per 
+      quas<lb ed="#L" n="4" break="no"/>dam imagines Deus potest, sed per ipsam naturae suae speciem non potest, vt anima gratia 
+      spi<lb ed="#L" n="5" break="no"/>ritus afflata per figuras quasdam Deum videat, sed ad ipsam vim eius essentiae non pertingat. 
+      <lb ed="#L" n="6"/>Hinc est enim quod Iacob, qui Deum se vidisse testatur, non nisi Angelum vidit; Hinc est 
+      <lb ed="#L" n="7"/>quod Moses, qui cum Deo facie ad faciem loquitur, sicut loqui solet homo cum amico suo, 
+      <lb ed="#L" n="8"/>ei in ipsis verbis suae locutionis dicit; Si inueni gratiam in conspectu tuo, ostende mihi 
+      temer<lb ed="#L" n="9" break="no"/>ipsum manifeste vt videam te. Certe enim si Deus non erat cum quo loquebatur, ostende 
+      <lb ed="#L" n="10"/>mihi Deum diceret, &amp; non ostende temetipsum; Si autem Deus erat cum quo facie ad 
+      faci<lb ed="#L" n="11" break="no"/>em loquebatur, cur se petebat videre quem videbat? Sed ex hac eius petitione colligitur quia 
+      <lb ed="#L" n="12"/>eum sitiebat per incircumscriptae naturae suae claritatem cernere, quem iam caeperat per 
+      quas<lb ed="#L" n="13" break="no"/>dam imagines videre, vt sic superna essentia mentis eius oculis adesset, quatenus ei ad 
+      aeterni<lb ed="#L" n="14" break="no"/>tatis visionem nulla imago creata temporaliter interesset. Et infra 34. Sciendum, inquit, est 
+      <lb ed="#L" n="15"/>quod fuere nonnulli qui Deum dicerent etiam in illa regione beatitudinis in claritate quidem  
+      <lb ed="#L" n="16"/>sua conspici, sed in natura minime videri; quos nimirum minor inquisitionis subtilitas 
+      fefel<lb ed="#L" n="17" break="no"/>lit: neque enim illi simplici &amp; incommutabili essentiae aliud est claritas, aliud natura, sed ipsa 
+      <lb ed="#L" n="18"/>ei natura sua claritas, ipsa claritas natura est: quia enim suis dilectoribus haec Dei sapientia se 
+      <lb ed="#L" n="19"/>quandoque ostenderet, ipse pollicetur dicens, Qui diliget me, diligetur a Patre meo, &amp; ego 
+      <lb ed="#L" n="20"/>diligam eum, &amp; manifestabo meipsum illi, ac si patenter dicat; qui in vestra me cernitis, restat 
+      <lb ed="#L" n="21"/>vt in mea me natura videatis. Hinc rursus ait, Beati mundo corde, quoniam ipsi Deum 
+      vi<lb ed="#L" n="22" break="no"/>debunt: // vnde Paulus dicit, nunc videmus per speculum in aenigmate, tunc autem facie d 
+      <lb ed="#L" n="23"/>faciem; nunc cognosco ex parte, tunc cognoscam, sicut &amp; cognitus sum. Et supra eodem, 
+      <lb ed="#L" n="24"/>Viderunt, inquit, Patres testamenti veteris Dominum, &amp; tamen, iuxta Iohannis vocem, 
+      <lb ed="#L" n="25"/>Deum nemo vidit vnquam, &amp; iuxta beati Iob sententiam, Sapientia quae Deus est, abscondita 
+      <lb ed="#L" n="26"/>est ab oculis omnium viuentium, quia in hac mortali carne consistentibus; &amp; videri potuit per 
+      <lb ed="#L" n="27"/>quasdam circumscriptas imagines, &amp; videri non potuit per incircumscriptum lumen 
+      aeterni<lb ed="#L" n="28" break="no"/>tatis. Sin vero a quibusdam potest in hac adhuc corruptibili carne viuentibus, sed tamen 
+      inae<lb ed="#L" n="29" break="no"/>stimabili virtute crescentibus quodam contemplationis acumine aeterna Dei claritas videri, 
+      <lb ed="#L" n="30"/>hoc quoque a beati Iob sententia non // abhorret, qui ait, Abscondita est ab oculis omnium 
+      vi<lb ed="#L" n="31" break="no"/>uentium; quoniam quisquis sapientiam, quae Deus est, videt, huic vitae funditus moritur, ne 
+      <lb ed="#L" n="32"/>iam eius amore teneatur; nullus quippe eam videt qui adhuc carnaliter viuit, quia nemo 
+      po<lb ed="#L" n="33" break="no"/>test amplecti Deum simul &amp; saeculum. Qui enim videt Deum, eo ipso moritur, quo vel 
+      inten<lb ed="#L" n="34" break="no"/>tione cordis vel effectu operis ab huius vitae delectationibus tota mente separatur: Vnde ad  
+      <lb ed="#L" n="35"/>eundem quoque Mosem dicitur; Non enim videbit me homo, &amp; viuet. Eandem quoque 
+      <lb ed="#L" n="36"/>sententiam videntur &amp; omnes Doctores Catholici concorditer attestari, &amp; fides Ecclesiae 
+      <lb ed="#L" n="37"/>generalis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

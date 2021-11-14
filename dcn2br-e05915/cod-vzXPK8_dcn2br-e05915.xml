@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 49</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 49</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="804"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e05915"><!-- l3c49 -->
+            <head xml:id="dcn2br-e05915-Hd1e106">Caput 49</head>
+            <p xml:id="dcn2br-e05915-d1e109">
+               <lb ed="#L" n="15"/>CAP. XLIX. 
+      <lb ed="#L" n="16"/>Recitat duplicem opinionem dicentem, quod in futuris reuelatis est 
+      <lb ed="#L" n="17"/>fordinata vel absoluta necessitas, in alijs vero nulla. 
+      </p>
+            <p xml:id="dcn2br-e05915-d1e118">
+               <lb ed="#L" n="18"/>Vidam autem rationes &amp; autoritates praemissas diligentius 
+      ponderan<lb ed="#L" n="19" break="no"/>tes, videntesque se non posse diffugere necessitatem omnimodam in 
+      <lb ed="#L" n="20"/>futuris, ab ipsa veritate necessitati quodammodo &amp; attracti accedunt 
+      <lb ed="#L" n="21"/>propinquius, &amp; fatentur quod in futuris aliquibus est necessitas 
+      ali<lb ed="#L" n="22" break="no"/>qualis, in futuris videlicet diuinitus reuelatis, diuinitus prophetatis, 
+      <lb ed="#L" n="23"/>diuinitusque promissis: &amp; hi vlterius in sectam duplicem diuiduntur. 
+      <lb ed="#L" n="24"/>Isti namque ponunt in futuris huiusmodi necessitatem tantummodo 
+      <lb ed="#L" n="25"/>ordinatam, &amp; quod non possunt non euenire de potentia ordinata, 
+      <lb ed="#L" n="26"/>sed quod possunt deficere de potentiaabsoluta: illi vero necessitatem indefectibilem 
+      absolu<lb ed="#L" n="27" break="no"/>tam, quae de nulla potentia potest deficere ab euentu: &amp; quia dicta huiusmodi, Necesse est 
+      <lb ed="#L" n="28"/>Anticpristum fore, necessitate ordinata, &amp; impossibile est Antichristum non fore, de 
+      poten<lb ed="#L" n="29" break="no"/>tia ordinata, habent intellectum ambiguum &amp; obscurum; aliqui primae sectae ea sic 
+      clarifi<lb ed="#L" n="30" break="no"/>cant &amp; exponunt, Ordinatum est quod Antichristus erit. Sed ni tripliciter deuiant, &amp; 
+      deli<lb ed="#L" n="31" break="no"/>rant: primo, quia male exponunt; quomodo namque sufficienter exponitur vna de 
+      neces<lb ed="#L" n="32" break="no"/>sario per vnam talem simplicem de inesse, cum necesse esse includat simpliciter esse, &amp; addat 
+      <lb ed="#L" n="33"/>sicut Antecedens Lsuper) suum consequens non conuertibile, vel si necesse est, nihil ibi addit 
+      <lb ed="#L" n="34"/>super esse simpliciter, amittit suam significationem hactenus consuetam, atque ponitur ibi 
+      <lb ed="#L" n="35"/>frustra, nec talis propositio est modalis, quod non videtur de veteri Logica, nec de noua, 
+      <lb ed="#L" n="36"/>sed de notha potius aut de nulla? Secundo, quia difficultatem non vitant: accipiatur enim 
+      <lb ed="#L" n="37"/>necesse &amp; possibile &amp; eorum opposita, sicut tam apud Logicos quam apud Theologos 
+      com<lb ed="#L" n="38" break="no"/>muniter solent sumi, sicut &amp; in praemissis accepi, &amp; reuertitur difficultas. Tertio, quia sibi 
+      <lb ed="#L" n="39"/>ipsis repugnant. Nam si propterea necesse sit Antichristum fore, quia ordinatum est ipsum 
+      <lb ed="#L" n="40"/>fore, cum de omnibus futuris ordinatum sit per voluntatem diuinam ipsa fore, sicut 
+      corolla<lb ed="#L" n="41" break="no"/>rium noni, decimum quartum, &amp; vicesimum tertium primi docent; de omnibus futuris 
+      ne<lb ed="#L" n="42" break="no"/>cesse est ipsa fore ad similem intellectum, cum tamen de aliquibus hoc concedant, de alijs 
+      ve<lb ed="#L" n="43" break="no"/>ro negent. Alij vero eiusdem sectae aliter haec exponunt, dicentes necesse est Antichristum 
+      <lb ed="#L" n="44"/>fore necessitare ordinata, id est, si lex &amp; Scriptura diuinitus ordinata debeat stare fixa, necesse 
+      <lb ed="#L" n="45"/>est Antichristum fore, &amp; ita de alijs in lege praedictis. Hi autem peccant similiter multis 
+      <lb ed="#L" n="46"/>modis. Nam secundum istos necesse est Deum facere quod se facturum promisit in lege 
+      ne<lb ed="#L" n="47" break="no"/>cessitate huiusmodi ordinata; lex ergo seu promissio Dei scripta in lege, &amp; sic aliquid 
+      extrin<lb ed="#L" n="48" break="no"/>secum necessitat Deum, &amp; voluntatem diuinam ad aliquid faciendum. Sed quomodo 
+      pos<lb ed="#L" n="49" break="no"/>set res parua paruae potentiae ligare &amp; necessitare omnipotentem potentiae infinitae? Et 
+      quo<lb ed="#L" n="50" break="no"/>modo non esset sic minoris potentiae &amp; seruilioris conditionis quam homo, qui sic 
+      necessi<lb ed="#L" n="51" break="no"/>tari non potest? Quomodo etiam, si sic esset, non esset mutabilis? De libero namque in 
+      <!--838.xml-->
+      <pb ed="#A" n="805"/>
+               <lb ed="#L" n="1"/>non liberum, &amp; de non necessario in necessarium mutaretur. Huic quoque ropugnant prius 
+      <lb ed="#L" n="2"/>ostensa vicesimo primi &amp; tricesimo tertij manifeste. Eadem etiam ratione, qua lex 
+      necessi<lb ed="#L" n="3" break="no"/>taret Deum ad velle quicquam &amp; facere, &amp; impossibilitaret eum ad similia. Simili insuper 
+      <lb ed="#L" n="4"/>ratione Deus posset aliquid velle &amp; facere de potentia ordinata, &amp; aliquid sic non posset. 
+      <lb ed="#L" n="5"/>Sed quomodo capit Creator omnipotens potentiam vel impotentiam a debili creatura? 
+      <lb ed="#L" n="6"/>Praeterea cum dicunt, Necesse est hoc fore, si lex debeat stare fixa, vel intellgunt &amp; 
+      suppo<lb ed="#L" n="7" break="no"/>nunt quod necesse est legem stare fixam, vel non, sed quod est possibile eam solui: Si sit 
+      ne<lb ed="#L" n="8" break="no"/>cessarium eam stare, ipsa est necessar a, &amp; ex ipsa necessaria sequitur Antichristum fore; 
+      <lb ed="#L" n="9"/>quare per praehabita tricesimo huius, nunc est necessarium &amp; non contingens ad 
+      vtrum<lb ed="#L" n="10" break="no"/>libet ipsum fore. Si antem dicatur, quod necesse est legem stare necessitate ordinata, non  
+      <lb ed="#L" n="11"/>absoluta, aut ergo illam necessitatem ordinatam necesse est stare, vel non; si sic, &amp; ex illa 
+      <lb ed="#L" n="12"/>soquitur lex Scripturae, &amp; ex hac, Antichristum fore, quare adhuc necesse est 
+      Antichri<lb ed="#L" n="13" break="no"/>stum: fore, sicut superius: est argutum: Si dicatur quod illam necessitatem ordinatam 
+      ne<lb ed="#L" n="14" break="no"/>cesse est stare necessitate. ordinata, non absoluta, vt prius, vel erit processus infinitus in 
+      <lb ed="#L" n="15"/>necossitatibus huiusmodi ordinatis, quod natura abhorret, ratio refugit, &amp; secunda 
+      sup<lb ed="#L" n="16" break="no"/>posito paane vetat, vel tantum finitus, &amp; aliqua erit prima huiusmodi necessitas 
+      ordi<lb ed="#L" n="17" break="no"/>nata; &amp; si illam necesse est stare, &amp; ex illa sequitur tota seties &amp; Antichristum fore; 
+      <lb ed="#L" n="18"/>quare necesse est Antichristum fore: Siautem illam necessitatem ordinatam vel aliam qua 
+      <lb ed="#L" n="19"/>necesse est legem stare, non necesse sit stare, nec legem necesse est stare, cum nullam 
+      ne<lb ed="#L" n="20" break="no"/>cessitatem habeat aliunde: Si autem non sit necesse legem stare fixam &amp; veram, sed sit 
+      <lb ed="#L" n="21"/>possibile eam solui &amp; falsari, est similiter possibilereuelationes falsari, sicque reuertuntur 
+      <lb ed="#L" n="22"/>inconuenientiae a quadragesimo secundo huius hucusque deductae. Item si lex sit 
+      solubi<lb ed="#L" n="23" break="no"/>lis, contingit ad vtrumlibet ipsam stare; quomodo ergo ex vna contingenti de inesse 
+      po<lb ed="#L" n="24" break="no"/>test inferri vna de necessario? Quid est ergo quod dicunt, si lex stabit, necesse est 
+      Anti<lb ed="#L" n="25" break="no"/>christum fore? Si autem dixerint quod ibi est necessitas consequentiae seu conditionalis 
+      <lb ed="#L" n="26"/>tantummodo, quam eego difficultatem euacuant aut euitant? Imo &amp; inueniuntur 
+      con<lb ed="#L" n="27" break="no"/>trarij sibi ipsis: Sic enim habent dicere consequenter de quibuscunque futuris, quod 
+      ip<lb ed="#L" n="28" break="no"/>sa necessario sunt futura: nam omnia illa fore necessario sequitur ex vna contingenti de 
+      <lb ed="#L" n="29"/>inesse, ex vna tali videlicet, Ista erunt. Amplius autem &amp; a capite arguendo, isti 
+      sibi<lb ed="#L" n="30" break="no"/>ipsis repugnant. Si enim omnia praedicta in lege sacrae Scripturae euenient de 
+      necessi<lb ed="#L" n="31" break="no"/>tate huiusmodi ordinata, multo magis omnia praedicta, &amp; praescripta, atque 
+      praeordina<lb ed="#L" n="32" break="no"/>ta in lege aeterna, in libro aeterno, in voluntate &amp; mente diuina euenient de necessitate 
+      <lb ed="#L" n="33"/>huiusmodi ordinata, cum omnipotens Dei voluntas nullo modo possit deficere vel 
+      fru<lb ed="#L" n="34" break="no"/>strari, sicut decimum primi docet: omnia autem futura sunt aeternaliter praeordinata, &amp;  
+      <lb ed="#L" n="35"/>praescripta atque praedicta in voluntate &amp; mente diuina, sicut corollarium noni, decimum 
+      <lb ed="#L" n="36"/>quartum, ac vicesimum tertium primi, cum tricesimo quarto huius lucide manifestant: 
+      <lb ed="#L" n="37"/>Omnia ergo futura euenient de necessitate huiusmodi ordinata; cum tamen de aliquibus 
+      <lb ed="#L" n="38"/>hoc concedant, de praedictis videlicet in sacra Scriptura, de alijs vero negent. Qui vero 
+      <lb ed="#L" n="39"/>fectam alteram profitentur, ponentes in omnibus &amp;solis reuelatis, prophetatis, atque 
+      <lb ed="#L" n="40"/>promissis diuinitus necessitatem indefectibilem, &amp; postquam talia fuerint, absolutam; 
+      <lb ed="#L" n="41"/>ita quod de nulla potentia possint deficere ab euentu, exorbitant in duobus. Primo, 
+      <lb ed="#L" n="42"/>quia falsum affirmant; secundo, quia hoc dato, difficultatem non euitant. Primo, 
+      in<lb ed="#L" n="43" break="no"/>quam, falsum affirmant, Deum videlicet necessitari nouiter &amp; ligari, sicut potest haberi 
+      <lb ed="#L" n="44"/>ex inductis contra responsionem proximo recitatam. Quis etiam audeat dicere 
+      omni<lb ed="#L" n="45" break="no"/>potentem, &amp; omniquaque infinite perfectum, minus potentem, minus perfectum, 
+      mi<lb ed="#L" n="46" break="no"/>nusque liberum nunc quam prius, vna vice quam alia, postquam videlicet aliquid 
+      reue<lb ed="#L" n="47" break="no"/>lauit siue praedixit, quam ante, cum teste Iacobo, Apud eum non sit transmutatio, nec 
+      <lb ed="#L" n="48"/>vicissitudinis obumbratio, Iac. I? Quod &amp; quinto primi ostendit. Quis etiam audeat 
+      <lb ed="#L" n="49"/>dicere omnipotentem posse ad tantam impotentiam deuenire, vt non possit semel leuare 
+      <lb ed="#L" n="50"/>vnam festucam, si tamen nunquam leuabit aliquam festucam, &amp; hoc reuelet aut dicat, 
+      <lb ed="#L" n="51"/>alicui hoc non potest? Quis etiam Christianus audeat dicere Christum, imo &amp; totam 
+      <lb ed="#L" n="52"/>Trinitatem cum toto exercitu Angelorum non potuisse praeseruasse ipsum a morte, 
+      Chri<lb ed="#L" n="53" break="no"/>stumque non potuisse adhuc Patrem rogasse, nec Patrem filium exaudisse? Quis 
+      nega<lb ed="#L" n="54" break="no"/>uerit Euangelium &amp; vocem verissimam veritatis dicentis, An putas quia non possum 
+      ro<lb ed="#L" n="55" break="no"/>gare Patrem meum, &amp; exhibebit modo mihi plus quam duodecim legiones Angelorum? 
+      <lb ed="#L" n="56"/>Matth. cap. 26. Quis tandem audeat ponere os in coelum, &amp; tam impie blasphemare, 
+      <lb ed="#L" n="57"/>vt dicat Deum non esse omnipotentem, contra omnia symbola, &amp; contra totam sacram  
+      <lb ed="#L" n="58"/>Scripturam, ac contra primam suppositionem primi? Quicunque etiam hoc praesumpserit 
+      <!--839.xml-->
+      <pb ed="#A" n="806"/>
+               <lb ed="#L" n="1"/>dicere, habet vlterius cum insipiente dicere, Non est Deus: nam si non est omnipotens, 
+      <lb ed="#L" n="2"/>non est Deus, sicut prima suppositio primi docet. Amplius autem si reuelatio in 
+      pro<lb ed="#L" n="3" break="no"/>prio genere, si verbum in aere, si vnus flatus debilissimi esse in aethere imponat 
+      neces<lb ed="#L" n="4" break="no"/>sitatem Deo &amp; futuris, multo magis incomparabiliter verbum intrinsecum Dei 
+      aeter<lb ed="#L" n="5" break="no"/>num, quo omnia futura aeternaliter dixit &amp; dicit, &amp; reuelatio sua intrinseca &amp; aeterna, 
+      <lb ed="#L" n="6"/>qua Pater omnia futura Filio ac Spiritui Sancto reuelauit aeternaliter ac reuelat, sicut 
+      <lb ed="#L" n="7"/>tricesimo quarto huius plenius est ostensum. Praeterea cotrumpatur talis reuelatio vel 
+      <lb ed="#L" n="8"/>praedictio de futuro, &amp; corrumpitur omnis talis necessitas, ac tota reuertitur difficultas, 
+      <lb ed="#L" n="9"/>Item tunc causa necessitatis istius esset reuelatio seu praedictio prophetalis. Sed 
+      quomo<lb ed="#L" n="10" break="no"/>do prophetans Londini de actibus liberis futuris hominis qui est Romae, puta Papae vel 
+      <lb ed="#L" n="11"/>Imperatoris, eum necessitat ad liberos actus suos, cum nihil penitus faciat circa 
+      ip<lb ed="#L" n="12" break="no"/>sum? Quomodo etiam si Propheta moriatur priusquam de quo prophetauit nascatur, 
+      <lb ed="#L" n="13"/>ipsum necessitat? Et si quis recurrat ad Deum, &amp; ad actionem atque necessitationem 
+      <lb ed="#L" n="14"/>diuinam, suppono quod Deus post prophetiam nihil aliud faciat circa illum de quo 
+      fu<lb ed="#L" n="15" break="no"/>erat prophetatum, quam alias fuisset facturus: scit enim ipse quae alias fuisset facturus, 
+      <lb ed="#L" n="16"/>Quod etiam prophetia, vel quaecunque praedictio necessitatem imponat, est contra 
+      <lb ed="#L" n="17"/>Philosophum 1. peri hermenias vlt. sic dicentem; Nec hoc differt, si aliquis dixerit 
+      ne<lb ed="#L" n="18" break="no"/>gationem, vel non dixerit; manisestum est enim quod sic se habet res; vel si hic quid 
+      <lb ed="#L" n="19"/>affirmauerit, ille vero negauerit; non enim propter affirmare vel negare erit vel non 
+      <lb ed="#L" n="20"/>erit. Cui &amp; concordanter Glossa super illud Matth. 1. Hoc autem totum factum est, vt 
+      <lb ed="#L" n="21"/>adimpleretur quod dictum est a Domino per Prophetam dicentem, Ecce virgo in vtero 
+      <lb ed="#L" n="22"/>habebit, &amp;c. recitante Glossa Thomae sic ait, Potest dici quod, Vt, non ponatur 
+      causa<lb ed="#L" n="23" break="no"/>liter: non enim ideo impletum est, quia praedictum fuit, sed potius ideo praedictum fuit, 
+      <lb ed="#L" n="24"/>quia implendum erat. Ponatur autem consecutiue, sicut &amp; in Genesi, Suspendit alterum 
+      <lb ed="#L" n="25"/>in patibulo, vt coniectoris veritas probaretur, quia vno suspenso, coniectoris veritas 
+      <lb ed="#L" n="26"/>est probata; Sic &amp; in hoc loco intelligendum est, quod hoc facto quod praedictum est,  
+      <lb ed="#L" n="27"/>prophetia impleta est; quod tamen secundum hanc seriem in glossa veteri non inueni, 
+      <lb ed="#L" n="28"/>sed sic inueni in ea, Prophetia signum est praescientiae Dei, Quia quod dixit, certum 
+      <lb ed="#L" n="29"/>a Deo praesciri, &amp; ideo ab homine debet teneri, nullum autem signum quod 
+      desig<lb ed="#L" n="30" break="no"/>nat, efficit, sed tantum significat quod ostendit, sicut prophetia non necessitatem facit 
+      <lb ed="#L" n="31"/>corum quae praedicit, sed signum est praescientiae Dei: Et infra, Non est necessitas rerum ex 
+      <lb ed="#L" n="32"/>eloquio prophetarum, sed sola exhibitio veritatis; prophetia non facit necessitatem eorum 
+      <lb ed="#L" n="33"/>quae dicit, sed signum est praescientiae Dei. Amplius autem, etsi esset verum quod dicunt, 
+      <lb ed="#L" n="34"/>nequaquam perplexitatem huius inuolucri euolueret, sed magis inuolueret, ac multiplicius 
+      <lb ed="#L" n="35"/>implicaret: Reuelet namque Deus Christo vel Michaeli de futuris omnibus, quod haec 
+      <lb ed="#L" n="36"/>erunt; tunc secundum hypothesin de necessitate omnia ista erunt. Rursum reuelet Deus 
+      <lb ed="#L" n="37"/>cuipiam, vel praedicat quod iste Paulus viator libere &amp; contingenter ad vtrumlibet 
+      fa<lb ed="#L" n="38" break="no"/>ciet hunc A actum, &amp; hoc sine aliqua conditione tacita vel expressa; Hoc etenim 
+      po<lb ed="#L" n="39" break="no"/>test Deus; sic enim scit quaecunque futura, quod &amp; potest ostendi per praemissa, 
+      qua<lb ed="#L" n="40" break="no"/>dragesimo octauo &amp; quadragesimo quinto huius; Paulus ergo faciet A libere, &amp; 
+      con<lb ed="#L" n="41" break="no"/>tingenter aequaliter, quia sic fuit praedictum; &amp; etiam necessario, quia secundum 
+      hypo<lb ed="#L" n="42" break="no"/>thesin omnia reuelata diuinitus, &amp; praedicta de necessitate euenient. Praedicat quoque 
+      <lb ed="#L" n="43"/>Deus alicui merita &amp; peccata, saluationem &amp; damnationem huius &amp; illius; tunc ista de 
+      <lb ed="#L" n="44"/>necessitate euenient; Quare &amp; huius hypothesis positores habent concedere, quod 
+      neces<lb ed="#L" n="45" break="no"/>sitas, libertas coutradictionis &amp; contingentia ad vtrumlibet meritum &amp; peccatum &amp; similia 
+      <lb ed="#L" n="46"/>non repugnant, sed amicabiliter ad inuicem sociantur, quod tamen omnino satagunt 
+      eui<lb ed="#L" n="47" break="no"/>tare. Adhuc autem errores erroribus cumulando respondent vlterius affirmantes Deum non  
+      <lb ed="#L" n="48"/>posse singularia reuelare: maxime in materia contingenti. Verum sic dicendo, omni 
+      <lb ed="#L" n="49"/>potentiam Dei latissimam nimis angustant, mutilant &amp; detruncant; aut si hoc vellent, 
+      <lb ed="#L" n="50"/>&amp; non valent, quid prohibet Deum omnipotentem dicere &amp; asserere aliquod singulare 
+      <lb ed="#L" n="51"/>contingens, &amp; hoc singulariter, quod &amp; vt scit certissime, esse verum? quid prohibet 
+      <lb ed="#L" n="52"/>Deum reuelare in proprio genere Christo, Mariae, vel Michaeli aliquod singulare 
+      con<lb ed="#L" n="53" break="no"/>tingens, sicut &amp; in verbo reuelat? Quis audeat dicere Christum non nouisse, nec 
+      <lb ed="#L" n="54"/>Deum sibi reuelare in proprio genere potuisse, quos aut quem venit redimere, ac 
+      re<lb ed="#L" n="55" break="no"/>demit, pro quibus aut quo orauit, &amp; alia multa fecit? Quis audeat dicere Christum 
+      <lb ed="#L" n="56"/>nunquam nouisse, nec vnum quidem viatorum saluandum vel damnandum, cum 
+      ipse<lb ed="#L" n="57" break="no"/>met dicat, Ego scio quos elegerim, Iohannis decimo tertio? qui &amp; specialiter orauit pro 
+      <lb ed="#L" n="58"/>Petro, ne deficeret fides sua, Luc 22. Quis etiam praesumpserit affirmare Christum non nouisse 
+      <!--840.xml-->
+      <pb ed="#A" n="807"/>
+               <lb ed="#L" n="1"/>quod Iudas eum traderet, &amp; finaliter damnaretur? quis in tantum Euangelijs contradicat? 
+      <lb ed="#L" n="2"/>aut quis praesumpserit affirmare Christum non potuisse dicere, Iste hoc faciet &amp; hic illud, 
+      <lb ed="#L" n="3"/>cum de Iuda praedixerit, quod eum traderet, &amp; vae damnationis incurreret? &amp; de Petro, 
+      <lb ed="#L" n="4"/>quod eum negaret, sicut // Euangelistae contestantur? &amp; de Paulo, quod portaret nomen suum 
+      <lb ed="#L" n="5"/>coram gentibus, &amp; regibus &amp; filijs Israel Act. 9? Cur etiam non possit singulare huiusmodi 
+      <lb ed="#L" n="6"/>reuelari atque praedici, cum hoc non sit ex defectu potentiae actiuae in Deo qui reuelare 
+      de<lb ed="#L" n="7" break="no"/>beret, sicut nullus ignorat, nec ex defectu potentiae passiuae &amp; receptiuae in Angelo vel 
+      ho<lb ed="#L" n="8" break="no"/>mine, qui reuelationem susciperet, nec ex defectu potentiae singularis huiusmodi 
+      reuelan<lb ed="#L" n="9" break="no"/>di, cum Deus posset hos defectus supplere de plenitudine potestatis? potestque homo 
+      <lb ed="#L" n="10"/>per se vel per alium hominem propositioni singulari huiusmodi adhaerere, potest 
+      quo<lb ed="#L" n="11" break="no"/>que homo talem propositionem, sicut est possibile homini alteri reuelare: est ergo hic 
+      <lb ed="#L" n="12"/>&amp; ibi potentia requisita. Etiam si homo per se vel per alium ista potest, multo magis per 
+      <lb ed="#L" n="13"/>Deum, &amp; Deus per eum. Quae insuper ratio diuersitatis, vel diuersitas rationis, 
+      qua<lb ed="#L" n="14" break="no"/>re Deus potest reuelare, &amp; dicere singularia de praeterito &amp; praesenti, &amp; non de 
+      futu<lb ed="#L" n="15" break="no"/>ro, cum omnia sciat intrinsece, aeque certe, sicut ostendit trigesimum primum huius? 
+      <lb ed="#L" n="16"/>Isti quoque // videntur vtrumque testamentum neglexisse. Vt autem de plurimis pauca 
+      re<lb ed="#L" n="17" break="no"/>censeam, Ecce in Genesi scribitur manifeste quot &amp; qualia Deus Abrahae praedixit atque 
+      <lb ed="#L" n="18"/>promisit in ipso, &amp; in semine eius implenda, Genesis duodecimo, decimo quinto, &amp; 
+      de<lb ed="#L" n="19" break="no"/>cimo septimo; vbi singulariter specificat, quod in filio, nomine Isaale, quem pareret sibi 
+      <lb ed="#L" n="20"/>Sara isto tempore, in anno altero, proximo scilicet tunc sequente, nec quacunque 
+      Sa<lb ed="#L" n="21" break="no"/>ra, sed Sara vnica vxor eius, cui &amp; promisit, quod ex Isaalt nationes &amp; Reges &amp; 
+      po<lb ed="#L" n="22" break="no"/>puli orirentur; Vbi etiam de Ismaele praedicitur, &amp; promittitur isto modo, 
+      Multiplica<lb ed="#L" n="23" break="no"/>bo eum valde. Duodecim Duces generabit, de quo similiter supra 10. Hic erit ferus, &amp;c. 
+      <lb ed="#L" n="24"/>hanc etiam promissionem de Isaal in holocaustum singulariter iam peracto iuramento 
+      <lb ed="#L" n="25"/> firmissimo, quia per semetipsum Dominus confirmauit, infra 22. Quid etiam posset 
+      <lb ed="#L" n="26"/>singularius reuelari, siue praedici, quam quod Dominus per Ioseph de Pincerna, &amp; 
+      <lb ed="#L" n="27"/>Pistore Regis Pharaonis Genesis quadragesimo reuelauit? Quid singularius illa 
+      benedi<lb ed="#L" n="28" break="no"/>ctione prophetica, qua Iacob Ephraim &amp; Manassem commutatis manibus benedixit,  
+      <lb ed="#L" n="29"/>Genesis quadragesimo octauo? Quid singularius praedictionibus Domini tam multis de 
+      <lb ed="#L" n="30"/>Mose &amp; Aaron, ac Pharaone &amp; eorum operibus, quas principium Exodi plane scribit? 
+      <lb ed="#L" n="31"/>Quid singularius praedictione repulsionis Mosis a Ducatu populi in terram, promissionis, 
+      <lb ed="#L" n="32"/>&amp; mortis ipsius, ac substitutionis Iosuae, ac introductionis per eum, sicut Historia 
+      Nu<lb ed="#L" n="33" break="no"/>merorum &amp; Deuteronomij manifestat? Quid singularius reuelatione de Saule, primo 
+      <lb ed="#L" n="34"/>Regum nono &amp; decimo, ac reuelatione de Dauide primo Regum decimo sexto, &amp; post 
+      fre<lb ed="#L" n="35" break="no"/>quenter? Quid singularius reuelatione facta Ieroboamo per Ahiam, quod regnaret super 
+      <lb ed="#L" n="36"/>decem tribus Israelis tertio Regum vndecimo? &amp; infra decimo tertio; De Iosia &amp; altari in 
+      <lb ed="#L" n="37"/>Bethel? &amp; inferius 22. ac 2. Paralip. 18. de Zedechia &amp; Achab non reuersuro de praelio per 
+      <lb ed="#L" n="38"/>Michaiam? quid singularius praedictione prophetica hac Elizaei, In tempore hoc, cras 
+      mo<lb ed="#L" n="39" break="no"/>dius similae vno statere erit, &amp; duo modij hordei statere vno in porta Samariae, &amp; duci 
+      cui<lb ed="#L" n="40" break="no"/>dam non credenti, Videbis oculis tuis, &amp; inde non comedes, quarto Regum septimo? Aut 
+      <lb ed="#L" n="41"/>quid specialius prophetatione Elizaei de Hasaele regnaturo &amp; mala facturo, infra eiusdem 
+      <lb ed="#L" n="42"/>octauo? Quid etiam singularius prophetijs de Babysone, de serusalem, Zedechia, 
+      Nabucho<lb ed="#L" n="43" break="no"/>donosore, Beltshazzat, Cyro, &amp; de pluribus alijs per Esaiam, Ieremiam, Ezechielem, 
+      Da<lb ed="#L" n="44" break="no"/>nielem, caeterosque Prophetas? Haec pauca de veteri testamento: Nunc autem de nouo, sunt 
+      <lb ed="#L" n="45"/>aliqua breuia breuiter proferenda. Quis ignorat promissiones, praedictiones &amp; prophetias 
+      <lb ed="#L" n="46"/>singularissimas de Iohanne praecursore, &amp; de Domino Saluatore, atque de virgine gloriosa? 
+      <lb ed="#L" n="47"/>quis non audiuit aut legit illud Crabrielis Lucae primo, Vxor tua Elizabeth pariet tibi filium, 
+      <lb ed="#L" n="48"/>&amp; vocabis nomen eius Iohannem, &amp;c. erit magnus coram Domino, &amp; vinum &amp; ciceram 
+      <lb ed="#L" n="49"/>non bibet, &amp;c. &amp; illud Zachariae, Tupuer Propheta altissimi vocaberis, &amp;c? &amp; illud 
+      ite<lb ed="#L" n="50" break="no"/>rum Gabrielis, Ecce concipies in vtero, &amp; paries filium, &amp; vocabis nomen eius Iesum, hic 
+      <lb ed="#L" n="51"/>erit magnus, &amp; reliqua gloriosa? &amp; illud Elizabethae, Beata quae credidisti, quoniam 
+      <lb ed="#L" n="52"/>perficientur ea quae dicta sunt tibi? &amp; illud virginis gloriosae, Beatam me dicent omnes 
+      <lb ed="#L" n="53"/>generationes? &amp; illud Simeonis, Ecce positus est hic in ruinam &amp; in signum cui contradicetur, 
+      <lb ed="#L" n="54"/>&amp; tuam ipsius animam pertransibit gladius, Luc. 2. Aut quis ignorat quae &amp; qualia Christus 
+      <lb ed="#L" n="55"/>se facturum praedixerat, &amp; passurum? aut quomodo praedixit, quod Iudas eum traderet, 
+      <lb ed="#L" n="56"/>quod Petrus eum negaret, atque per martyrium sequeretur, &amp; quod Iohannes, quem 
+      <lb ed="#L" n="57"/>diligebat, sic maneret donec ipse veniret, sicut // Euangelistae contestantur? quod 
+      eti<lb ed="#L" n="58" break="no"/>am Paulus portaret nomen suum coram Gentibus, &amp; Regibus, &amp; filijs Israelis, &amp; quan¬ 
+      <!--841.xml-->
+      <pb ed="#A" n="808"/>
+               <lb ed="#L" n="1"/>ta eum oportuit pro nomine Christi pati, sicut historia Act. 9. docet? de quo &amp; infra at. 
+      <lb ed="#L" n="2"/>Agabus satis singulariter propherauit. Amplius autem non dubie, sed certissime 
+      affirman<lb ed="#L" n="3" break="no"/>dum omnem veram prophetiam, licet generaliter prolatam, fuisse intellectam, &amp; praedictam 
+      <lb ed="#L" n="4"/>salutem eo Spiritu Sancto, qui locutus est per Prophetas specialiter &amp; distincte, imo 
+      singulari<lb ed="#L" n="5" break="no"/>ter &amp; discrete de illo vel de illis, de quo vel de quibus fuit, est, vel erit impleta; Nam alias 
+      <lb ed="#L" n="6"/>ignoranter, incerte, in vanum, &amp; fatue loqueretur, quod vno breui exemplo sufficiens 
+      re<lb ed="#L" n="7" break="no"/>puto confirmare: Beatus siquidem Petrus, Fratres, inquit, oportet impleri Scripturam, 
+      <lb ed="#L" n="8"/>quam praedixit Spiritus Sanctus per os Dauidis de Iuda, &amp;c. Scriptum est enim in lib. 
+      Psalmo<lb ed="#L" n="9" break="no"/>rum, Fiat commemoratio, aut secundum literam veriorem, fiat commoratio eius 
+      deser<lb ed="#L" n="10" break="no"/>ta, &amp; non sit qui inhabitet in ea, &amp; Episcopatum eius accipiat alius. Act. 1. Haec autem in 
+      li<lb ed="#L" n="11" break="no"/>bro Psalmorum, Psalmo scilicet 10o8. erant generaliter prophetata; tantum ergo necessitant  
+      <lb ed="#L" n="12"/>prophetiae generaliter, sicut &amp; singulariter prophetatae; &amp; quicquid Spiritus Sanctus 
+      gene<lb ed="#L" n="13" break="no"/>raliter prophetauit, potuit &amp; singulariter prophetasse. Haec ergo contra opinionem 
+      trige<lb ed="#L" n="14" break="no"/>simam tertiam, &amp; contra eius hypothesin praelibatam; Quapropter multum mirabile &amp; quam  
+      <lb ed="#L" n="15"/>admirabiliter admirandum videtur, quomodo viri gnari audent in tanta materia tantam 
+      <lb ed="#L" n="16"/>suppositionem, tam dubiam, tam incertam, imo quae tam probabiliter apparet falsa, &amp; 
+      op<lb ed="#L" n="17" break="no"/>posita eius vera, tam plane supponere, velut primum principium per se notum. Dignum namque 
+      <lb ed="#L" n="18"/>videtur quod esset conclusio violentis rationibus demonstrata, non suppositio gratis 
+      sum<lb ed="#L" n="19" break="no"/>pta; Et si quis eam probare voluerit, ponderet quaeso fideliter proprias rationes, &amp; contrarias 
+      <lb ed="#L" n="20"/>rationes. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

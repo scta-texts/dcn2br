@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="653"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e86449"><!-- l3c5 -->
+            <head xml:id="dcn2br-e86449-Hd1e106">Caput 5</head>
+            <p xml:id="dcn2br-e86449-d1e109">
+               <lb ed="#L" n="28"/>CAP. V. 
+      <lb ed="#L" n="29"/>Quasi Corollarie ex praemissis 13. partes infert. 
+      <lb ed="#L" n="30"/>Prima est, quod propositiones de contingenti aequaliter conuertuntur per oppositas 
+      <lb ed="#L" n="31"/>qualitates. 
+      <lb ed="#L" n="32"/>Secunda, quod aliqua consequentia bona non est necessaria simpliciter, neque vt nunc, sed 
+      <lb ed="#L" n="33"/>contingens aequaliter. 
+      <lb ed="#L" n="34"/>Tertia, quod aliqua causa indeterminata, scilicet non praedeterminata ad agendum 
+      <lb ed="#L" n="35"/>agit. 
+      <lb ed="#L" n="36"/>Quarta, quod omnis &amp; solus actus liber libertate contradictionis est contingens 
+      <lb ed="#L" n="37"/>aequaliter. 
+      <lb ed="#L" n="38"/>Quinta, quod omne &amp; solum contingens aequaliter est actus liber libertate con¬ 
+      <lb ed="#L" n="39"/>tradictionis. 
+      <lb ed="#L" n="40"/>Sexta, quod contingentia ad vtrumlibet &amp; necessitas non repugnant. 
+      <!--687.xml-->
+      <pb ed="#A" n="654"/>
+               <lb ed="#L" n="1"/>Septima, quod contingentia dicitur proprie respectu praesentis.
+      <lb ed="#L" n="2"/>Octaua, quod libertas dicitur proprie respectu praesentis.
+      <lb ed="#L" n="3"/>Nona, quod nullus actus creaturae est simpliciter contingens aequaliter, sed tantuminde¬ 
+      <lb ed="#L" n="4"/>terminatogenere, puta respectu causarum inferiorum. 
+      <lb ed="#L" n="5"/>Decima, quod nullus actus creaturae est liber simpliciter libertate contradictionis, sed se¬ 
+      <lb ed="#L" n="6"/>cundum quid tantum, scilicet respectu causarum omnium secundarum. 
+      <lb ed="#L" n="7"/>Vndecima, quod solus actus voluntatis Diuinae ad extra est simpliciter contingens ae¬ 
+      <lb ed="#L" n="8"/>qualiter. 
+      <lb ed="#L" n="9"/>Duodecima, quod solus actus voluntatis diuinae ad extra est liber simpliciter libertate 
+      <lb ed="#L" n="10"/>contradictionis.
+      <lb ed="#L" n="11"/>Decimatertia, quod prima &amp; summa libertas contradictionis similis quoque contingen¬ 
+      <lb ed="#L" n="12"/>tia ad vtrumlibet est in voluntate diuina, &amp; quod hae sunt causae similis libertatis 
+      <lb ed="#L" n="13"/>&amp; contingentiae in alijs vniuersis.
+    </p>
+            <div xml:id="dcn2br-e86449-Dd1e172">
+               <head xml:id="dcn2br-e86449-Hd1e174">Corollarium</head>
+               <p xml:id="dcn2br-e86449-d1e177">
+                  <lb ed="#L" n="14"/>PRimum sequitur ex praemissis capitulo proximo manifeste. Nam secundum ibi ostensa, 
+      <lb ed="#L" n="15"/>Quicquid contingit aequaliter fieri, vel esse ex causa quacunque, stante illa causa totali cum 
+      <lb ed="#L" n="16"/>omnibus suis dispositionibus naturaliter praeuijs, potest &amp; contingere aequaliter non fieri, &amp;  
+      <lb ed="#L" n="17"/>non esse, &amp; e contra similiter, &amp; hunc reor intellectum Philosophi I. Prior: vbi 
+      propositio<lb ed="#L" n="18" break="no"/>num de contingenti // huiusmodi conuersionem hanc docet. 
+      
+      Secundum similiter sequitur: 
+      <lb ed="#L" n="19"/>Nam secundum superius allegata, in praedicamentis &amp; I. peri hermenias, In eo quod res est,  
+      <lb ed="#L" n="20"/>vel non est, in hoc oratio vera vel falsa dicitur; &amp; similiter orationes verae sunt 
+      quemadmo<lb ed="#L" n="21" break="no"/>dum; &amp; res, &amp; realiter nunc de facto ex ista causa libera cum istis dispositionibus, quas nunc 
+      <lb ed="#L" n="22"/>habet, naturaliter antecedentibus istum actum liberum, realiter producitur &amp; consequitur iste 
+      <lb ed="#L" n="23"/>actus, non autem necessario necessitate antecedente, nec simpliciter, nec vt nunc, vt patet per 
+      <lb ed="#L" n="24"/>definitionem contingentis aequaliter capitulo proximo positam, cum regula generali de 
+      neces<lb ed="#L" n="25" break="no"/>sitate naturaliter praecedente secundo huius ostensa; sed tantum contingenter aequaliter: 
+      qua<lb ed="#L" n="26" break="no"/>re &amp; in oratione similiter consequetur. Ista ergo consequentia, Ista causa sic ponitur; ergo iste 
+      <lb ed="#L" n="27"/>effectus producitur, est nunc bona non tamen necessaria vllo modo necessitate naturaliter 
+      prae<lb ed="#L" n="28" break="no"/>cedente, sed tantum contingens aequaliter. Hanc etiam consequentiam contingentem 
+      aequa<lb ed="#L" n="29" break="no"/>liter satis ostendunt quotidiana dicta &amp; facta. Nam apud omnes homines, gentes, &amp; 
+      lin<lb ed="#L" n="30" break="no"/>guas communiter dicitur, Si tufeceris hoc vel illud, &amp; ego faciam hoc vel illud; &amp; si iste Rex  
+      <lb ed="#L" n="31"/>vel populus fecerit istud illi, &amp; iste reficiet istud isti: sic dicunt &amp; sic faciunt consequenter. 
+      <lb ed="#L" n="32"/>Multas quoque tales consequentias in sacris literis reperimus; vnde Gen. 13 dixit Abraham  
+      <lb ed="#L" n="33"/>ad Lot, Si ad sinistram ieris, ego dextram tenebo, si tu dextram elegeris, ego ad sinistram 
+      per<lb ed="#L" n="34" break="no"/>gam. Et Matt. 13. Vae tibi Corazin, vae tibi Bethsaida; quia si in Tyro &amp; Sidone factae essent 
+      <lb ed="#L" n="35"/>virtutes quae factae sunt in vobis, olim in cilicio &amp; cinere poenitentiam egissent: aliae 
+      quoque<lb ed="#L" n="36" break="no"/>tales conditionales non paucae ponuntur creberrime in scriptura, quarum tamen nulla est 
+      <lb ed="#L" n="37"/>necessaria quouismodo, sed tantum contingens aequaliter, sicut res ipsa. Item ab vniuersali 
+      <lb ed="#L" n="38"/>ad suam singularem est consequentia bona vt nunc, quia vt nunc consequens intelligitur 
+      <lb ed="#L" n="39"/>&amp; importatur in antecedente. Posito ergo, quod quilibet homo cras contingenter 
+      voli<lb ed="#L" n="40" break="no"/>turus sedere sit A, &amp; quod iste homo sit cras contingenter voliturus sedere, tunc 
+      consequen<lb ed="#L" n="41" break="no"/>tia ista est nunc bona; Omnis homo cras contingenter voliturus sedere est A; ergo iste est 
+      <lb ed="#L" n="42"/>A, &amp; tamen non est necessaria quouismodo, sed tantum contingens aequaliter, vt est dictum; 
+      <lb ed="#L" n="43"/>Contingit enim aequaliter ipsum pro nunc contineri sub subiecto vniuersalis illius. 
+      
+      Tertium 
+      <lb ed="#L" n="44"/>etiam sequitur manifeste: Omnis enim determinatio causae actiuae ad agendum praecedit 
+      <lb ed="#L" n="45"/>naturaliter actionem ad quam determinat: sed per praemissa capitulo proximo possibile est 
+      <!--688.xml-->
+      <pb ed="#A" n="655"/>
+                  <lb ed="#L" n="1"/>quod aliqua causa libere actiua aequaliter omnino se habeat quantum ad omnes dispositiones 
+      <lb ed="#L" n="2"/>naturaliter praeuias actui libero, &amp; aequaliter contingenti tempore quietis &amp; tempore actio. 
+      <lb ed="#L" n="3"/>nis: &amp; tempore quietis est indeterminata, ergo &amp; tempore actionis. Neque effectus posterior 
+      <lb ed="#L" n="4"/>determinat suum efficiens ad agendum propter causam praedictam. Idem patet per 
+      Stepha<lb ed="#L" n="5" break="no"/>num Episcopum Parisiensem condemnantem quendam articulum erroneum sic ponentem, 
+      <lb ed="#L" n="6"/>quod nullum agens est ad vtrumlibet, imo determinatur. Item nisi sic esset, nulla causa 
+      age<lb ed="#L" n="7" break="no"/>ret, nisi esset prius determinata tali determinatione, qua posita, necessario sequeretur 
+      effe<lb ed="#L" n="8" break="no"/>ctus, &amp; sic nullus esset actus liber, sicut capitulum proximum demonstrauit. Quare &amp; alius 
+      <lb ed="#L" n="9"/>quidam articulus fuit condemnatus Parisijs ab eodem Stephano, qui sic dixit, Quod de sui 
+      <lb ed="#L" n="10"/>natura non est determinatum ad esse vel non esse, non determinatur nisi per aliquid quod est 
+      <lb ed="#L" n="11"/>necessarium respectu sui. 
+      
+      Quartum vero ex definitionibus actus liberi libertate 
+      contradictio<lb ed="#L" n="12" break="no"/>nis &amp; contingentis aequaliter concluditur euidenter. 
+      
+      Et quintum similiter sequitur ex eisdem.
+      
+      <lb ed="#L" n="13"/>Sextum statim infertur, quoniam per praeostensa isto capitulo, &amp; proximo, &amp; tertio, contin 
+      <lb ed="#L" n="14"/>gens ad vtrumlibet est aliqua res existens; &amp; per Philosophum 1. peri hermenias vlt. Esse 
+      <lb ed="#L" n="15"/>quod est, quando est, necesse est. Verum vt istud elucidatius declaretur, parum altius 
+      ordi<lb ed="#L" n="16" break="no"/>endum. Sciendum igitur // secundum proximo huius praemissa, quod contingens duplicites 
+      <lb ed="#L" n="17"/>potest sumi: vno modo, per se proprie &amp; in primo gradum contingentiae, cuiusmodi est actus 
+      <lb ed="#L" n="18"/>primus &amp; immanens agentis rationalis &amp; liberi contradictorie, puta velle: &amp; talis 
+      contingen<lb ed="#L" n="19" break="no"/>tia &amp; sequens necessitas non repugnant, sicut iam erat ostensum. Alio autem modo potest 
+      <lb ed="#L" n="20"/>sumi contingens per accidens quodammodo, siue per aliud secundario denominatiue, &amp; in 
+      <lb ed="#L" n="21"/>secundo gradu, qualis est actus transiens &amp; extrinsecus praedicti agentis descendens a 
+      primo<lb ed="#L" n="22" break="no"/>puta mouere manum, baculum, &amp; percutere: vbi d secundum propinquitatem &amp; 
+      remotio<lb ed="#L" n="23" break="no"/>nem possent assignari vlterius plures modi; qui ideo dicitur contingens aequaliter, quia a 
+      con<lb ed="#L" n="24" break="no"/>tingente huiusmodi deriuatur. Talis autem effectus est necessarius respectu suae causae 
+      tota<lb ed="#L" n="25" break="no"/>lis, sicut proximum huius docet, &amp; contingens similiter modo dicto: vnde &amp; euidenter ap 
+      <lb ed="#L" n="26"/>paret, quod contingentia sic accepta, &amp; antecedens necessitas non repugnant. Ex quo &amp; 
+      vl<lb ed="#L" n="27" break="no"/>terius clare colligitur, quod vnus talis effectus exterior in secundo gradu contingens potest 
+      <lb ed="#L" n="28"/>dici respectu vnius &amp; eiusdem causae suae, puta velle, necessarius necessitate praecedente, &amp; 
+      <lb ed="#L" n="29"/>etiam denominatiue, seu transumptiue quodammodo necessitate sequente, quia videlicet 
+      <lb ed="#L" n="30"/>causa sua, scilicet illud velle, est necessaria illo modo. Quapropter &amp; ille idem effectus 
+      respe<lb ed="#L" n="31" break="no"/>ctu vnius &amp; eiusdem causae suae potest dici similiter necessarius &amp; contingens, imo necessarius 
+      <lb ed="#L" n="32"/>necessitate naturaliter praecedente, &amp; contingens similiter modo dicto: quae omnia ex 
+      prae<lb ed="#L" n="33" break="no"/>missis 26. secundi possunt lucidius apparere. 
+      
+      Septimum consequitur isto modo; Contingens 
+      <lb ed="#L" n="34"/>aequaliter, sicut tertium huius ostendit, est aliqua res existens, &amp; sicut capitulum proximum 
+      <lb ed="#L" n="35"/>ostendebat, Contingens aequaliter, per se primo proprieque acceptum est actus causae 
+      actua<lb ed="#L" n="36" break="no"/>liter praesentialiterque agentis. Dicit etiam <ref xml:id="dcn2br-e86449-Rd1e330">Iohannes Scotus super 1. sentent dist. 39.</ref> Non 
+      <lb ed="#L" n="37"/>modo est contingens causa, quia praeexistebat ante istud instans in quo causat, &amp; tunc vt prae¬ 
+      <lb ed="#L" n="38"/>existens potuit causare vel non causare; quia sicut hoc ens, quando est, est necessarium vel 
+      <lb ed="#L" n="39"/>contingens, ita causa quando causat, tunc causat necessario vel contingenter: ex quo igitur 
+      <lb ed="#L" n="40"/>in isto instanti voluntas causat hoc velle, &amp; non necessario, ideo contingenter. Qui &amp; super 
+      <lb ed="#L" n="41"/>dist. 2. eiusdem sic dicit, Voco contingenter causatum, cuius oppositum posset fieri quando 
+        <lb ed="#L" n="42"/>illud fit: quare &amp; <name xml:id="dcn2br-e86449-Nd1e347">Stephanus Parisiensis Episcopus</name> damnauit articulum asserentem <quote xml:id="dcn2br-e86449-Qd1e350" source="http://scta.info/resource/z88d99-avn8u2-d1e1418@1-8">quod 
+      nul<lb ed="#L" n="43" break="no"/>lum agens est ad vtrumlibet, imo determinatur</quote>. 
+      
+      Octavum demonstratur ex septimo iuncto 
+      <lb ed="#L" n="44"/>quarto: potest etiam demonstrari ex definitionibus libertatis contradictionis &amp; liberi actus 
+      <lb ed="#L" n="45"/>sui, quas corollarium proximi ostendebat. Item necessitas &amp; libertas quodammodo 
+      oppo<lb ed="#L" n="46" break="no"/>nuntur; ergo sic habent fieri circa idem subiectum &amp; tempus: sed necessitas dicitur proprie 
+      <lb ed="#L" n="47"/>respectu praesentis, vt patet per definitionem illam seu regulam de necessitate naturaliter prae 
+      <lb ed="#L" n="48"/>cedente secundo huius premissam. Item secundum allegata secundo huius, Omne quod est,  
+      <lb ed="#L" n="49"/>quando est, necesse est esse, &amp; omne quod non est, quando non est, necesse est non esse, licet 
+      <lb ed="#L" n="50"/>prius non fuerit necesse nunc sic esse, vel non esse, nec nunc sit necesse post sic fore vel non 
+      <lb ed="#L" n="51"/>fore; ergo necessitas maxime dicitur respectu praesentis. Item nihil proprie dicitur necesse 
+      <lb ed="#L" n="52"/>esse, quia prius non potuit, vel nunc non potest, vel in futurum non poterit non esse; sed 
+      <lb ed="#L" n="53"/>propter aliquid positiuum, scilicet propter vehementiam essendi, sicut septima pars 13. primi 
+      <lb ed="#L" n="54"/>docet. Item ignis in primo instanti sui esse, si totus subito crearetur, de necessitate luceret; si 
+      <lb ed="#L" n="55"/>illuminatio sit subita, sicut ponitur a quibusdam, &amp; non propter aliquid eius quod praecesserit 
+      <lb ed="#L" n="56"/>tempore, vel etiam sequeretur, sed propter hoc tantum, quia esset actiuum irrationale, quod 
+      <lb ed="#L" n="57"/>de necessitate naturae agit cum potest. Item Deus de necessitate est, gignit filium, atque 
+      intel<lb ed="#L" n="58" break="no"/>ligit, non tamen propter quemcunque respectum ad tempus praeteritum vel futurum, sed 
+      <!--689.xml-->
+      <pb ed="#A" n="656"/>
+                  <lb ed="#L" n="1"/>proprie in suo semper praesenti aeterno, sicut &amp; fecerat ante tempus: necessitas ergo proprie 
+      <lb ed="#L" n="2"/>dicitur respectu praesentis, quare &amp; libertas. Item actiuum liberum in aliquo instanti creatum 
+      <lb ed="#L" n="3"/>cum omnibus requisitis necessario ad volendum potest libere pro tunc velle: nihil enim sibi 
+      <lb ed="#L" n="4"/>deficit cur non possit, &amp; quia Christus secundum animam ita fecit, quia in merito non 
+      profe<lb ed="#L" n="5" break="no"/>cit, sicut tertio secundi praemissa suadent, &amp; quia actiuum irrationale sic potest, sicut superius 
+      <lb ed="#L" n="6"/>est argutum; &amp; propter hanc rationem tenet Iohannes Scotus // eandem conclusionem super 
+      <lb ed="#L" n="7"/>I. sentent. dist. 39. vbi prius; qui distinguendo multipliciter libertatem sic ait; Est &amp; alia 
+      liber<lb ed="#L" n="8" break="no"/>tas non ita manifesta absque omni successione: ponendo enim voluntatem creatam tantum 
+      <lb ed="#L" n="9"/>habere esse in vno instariti, &amp; quod ipsa in illo instanti habeat volutionem, non necessario 
+      <lb ed="#L" n="10"/>tunc habet eam. Probatio: Si enim in illo instanti: haberet eam necessario, cum non sit causa 
+      <lb ed="#L" n="11"/>nisi in illo instanti quando causat eam simpliciter, voluntas quando causaret, necessario 
+      cau<lb ed="#L" n="12" break="no"/>saret. Item voluntas antiqua, quae diu vacauit, potest in aliquo instanti primo libere 
+      produ<lb ed="#L" n="13" break="no"/>cere liberum actum suum, sicut videtur quod beata virgo primo consensit in illo instanti quo 
+      <lb ed="#L" n="14"/>verbum caro factum est, &amp; habitauit in ea: quare si in eodem instanti fuisset creata cum 
+      om<lb ed="#L" n="15" break="no"/>nibus dispositionibus naturaliter praeuijs coefficientibus illum actum, in eodem instanti 
+      ip<lb ed="#L" n="16" break="no"/>sum similiter libere produxisset. Item aliter voluntas diceretur nunc libere velle, quia prius 
+      <lb ed="#L" n="17"/>tempore potuit libere pro nunc velle vel non velle. Sed istud non est verum: ipsam namque 
+      <lb ed="#L" n="18"/>prius potuisse nunc velle, vel est aliquid vel nihil: si nihil, nihilum inde venit, nullius est 
+      cau<lb ed="#L" n="19" break="no"/>sa, nullius libertatis, nec alicuius penitus veritatis. Si sit aliquid, ergo totalis causa quare 
+      <lb ed="#L" n="20"/>actus dicitur, &amp; est liber praesentialiter est existens. Item si tempus praeteritum necessario 
+      re<lb ed="#L" n="21" break="no"/>quiratur, vel hoc est propter ipsummet tempus tantummodo, vel propter aliquid quod deficit 
+      <lb ed="#L" n="22"/>vel resistit afferendum in tempore, &amp; etiam auferendum. Non primo modo, quia tempus 
+      <lb ed="#L" n="23"/>praeteritum nihil est omnino, &amp; etiam quia omne tempus per se non plus facit ad velle quam  
+      <lb ed="#L" n="24"/>ad nolle, nec ad libertatem in agentibus libere, quam ad necessitatem in actionibus aliorum: 
+      <lb ed="#L" n="25"/>nec secundo modo; habeantur etenim in instanti omnia &amp; sola necessario requisita. Item si 
+      <lb ed="#L" n="26"/>tempus praeteritum necessario praesupponatur ad liberam actionem, ipsum est aliqua causa 
+      il<lb ed="#L" n="27" break="no"/>lius, vt quarto primi est ostensum; quod falsum est, sicut inductio plene docet: item tempus 
+      <lb ed="#L" n="28"/>praeteritum nihil est penitus; ergo penitus nihil causat. Item &amp; si tempus non esset, nec 
+      vn<lb ed="#L" n="29" break="no"/>quam fuisset, posset Deus &amp; Angelus libere velle &amp; nolle. Item aliter Deus non libere creauit 
+      <lb ed="#L" n="30"/>coelum &amp; terram: non enim prius fuit tempus in quo potuit creare vel non creare, nec 
+      aeter<lb ed="#L" n="31" break="no"/>naliter libere voluit sic creare propter defectum temporis praecedentis, temporis inquam veri 
+      <lb ed="#L" n="32"/>&amp; possibilis seu imaginabilis. Tempus etenim nullo modo potuit temporaliter praecessisse 
+      <lb ed="#L" n="33"/>illam volutionem Dei aeternam, quoniam &amp; si tempus fuisset coaeternum cum Deo, adhuc 
+      <lb ed="#L" n="34"/>nullo modo illam temporaliter praecessisset. Item si non, hoc maxime videretur, quia 
+      neces<lb ed="#L" n="35" break="no"/>sitas, quae ex presentia rei descendit, repugnaret simpliciter libertati, cuius oppositum corollarium 
+      <lb ed="#L" n="36"/>primi huius ostendit. 
+      
+      Nonum, quantum ad primam sui parte consequitur euidenter: si enim 
+      ali<lb ed="#L" n="37" break="no"/>quis actus creaturae esset simpliciter contingens aequaliter, hoc maxime videretur de actu 
+      libe<lb ed="#L" n="38" break="no"/>ro rationalis &amp; liberae creaturae, sicut docent praehabita capitulo praecedenti; sed omnis actus 
+      <lb ed="#L" n="39"/>liber illius prouenit ex necessitate naturaliter praecedente, &amp; est necessarius illo modo, sicut 
+      <lb ed="#L" n="40"/>secundum huius ostendit: ergo per definitionem contingentis aequaliter capitulo proximo 
+      de<lb ed="#L" n="41" break="no"/>clarata, nullus actus liber liberae creaturae est simpliciter contingens aequaliter, quin sit 
+      neces<lb ed="#L" n="42" break="no"/>sarius respectu voluntatis diuinae ipsum naturaliter praeuolentis. Hoc idem apparet per 
+      Ste<lb ed="#L" n="43" break="no"/>phanum Parisiensem Episcopum condemnantem quendam errorem dicentem, quod ad hoc, quod 
+      <lb ed="#L" n="44"/>effectus omnes sint necessarij respectu causae primae, non sufficit quod ipsa causa prima non sit 
+      <lb ed="#L" n="45"/>impedibilis, sed exigitur quod causae mediae non sint impedibiles; &amp; ipsa causa prima non est 
+      <lb ed="#L" n="46"/>impedibilis, sicut decimum primi docet. Et quod omnis talis actus sit contingens aequaliter  
+      <lb ed="#L" n="47"/>in determinato genere, puta, in genere inferiorum causarum, patet per eadem cum tertio 
+      se<lb ed="#L" n="48" break="no"/>cundi. Positis namque omnibus causis inferioribus naturaliter praeuijs &amp; producentibus 
+      ta<lb ed="#L" n="49" break="no"/>lem actum, non necessario sequitur ipsum produci, sed &amp; oppositum aequaliter potest stare. 
+      <lb ed="#L" n="50"/>Quare &amp; Philosophi, qui causas vt plurimum considerant naturales, dicunt simpliciter, 
+      con<lb ed="#L" n="51" break="no"/>tingit ad vtrumlibet siue aequaliter facere hoc vel illud, &amp; intelligunt hoc sic, contingere 
+      re<lb ed="#L" n="52" break="no"/>spectu harum causarum. Quare &amp; ad communem modum loquendi, contingens ad 
+      vtrum<lb ed="#L" n="53" break="no"/>libet siue aequaliter, licet proferatur simpliciter, accipitur &amp; significat isto modo: Vnde &amp; 
+      <lb ed="#L" n="54"/>quidam dicunt quod contingentia, libertas, possibilitas, impossibilitas &amp; necessitas 
+      dicun<lb ed="#L" n="55" break="no"/>tur tantum respectu causarum inferiorum, &amp; non respectu superiorum omnino. Quare 
+        <lb ed="#L" n="56"/>&amp; <quote xml:id="dcn2br-e86449-Qd1e513">Stephanus Parisiensis</quote> damnans articulum affirmantem, quod illud, <quote xml:id="dcn2br-e86449-Qd1e516" source="http://scta.info/resource/z88d99-avn8u2-d1e1317">quod impossibile est 
+      sim<lb ed="#L" n="57" break="no"/>pliciter a Deo no potest fieri, vel agente alio; sic adiugit, Error, si intelligatur de impossibili 
+      se<lb ed="#L" n="58" break="no"/>cudum natura</quote>. Impossibile igitur secundum natura, puta, secundum causas inferiores cosuetius dicitur 
+      <!--690.xml-->
+      <pb ed="#A" n="657"/>
+                  <lb ed="#L" n="1"/> impossibile simpliciter; quare &amp; possibile similiter, necessarium &amp; contingens. Sed quia se 
+      <lb ed="#L" n="2"/>cundum Augustinum 4. super Gen. ad literam 6. dum res conceditur, non est de vocabulis 
+      la<lb ed="#L" n="3" break="no"/>borandum, quia dicente Salomone, qui tantum verba sectatur, nihil habebit, Parab. 19. 
+      quo<lb ed="#L" n="4" break="no"/>niam secundum Pythagoram, sicut allegat Boetius 2. Mulicae suae, 1. Sapientia, quam ps T 
+      <lb ed="#L" n="5"/>Philosophiam nuncupauit, est eius rei notitia, quae proprie vereque esse dicitur. Notitia, 
+      in<lb ed="#L" n="6" break="no"/>quit, rei, non verbi. Et secundum eundem Boetium, 1. Arithmeticae suae, 1. Sapientia est 
+      ea<lb ed="#L" n="7" break="no"/>rum rerum, quae vere sunt, cognitio &amp; integra apprehensio. Non dicit verborum, sed rerum 
+      <lb ed="#L" n="8"/>Ideoque secundum Auerroem super 1. Phys. comment. 1. Mos erat Aristotelis habere modi 
+      <lb ed="#L" n="9"/>cam sollicitudinem de nominibus. Quare &amp; Auicenna 6. Metaphysicae 2. sic ait, Nos non 
+      <lb ed="#L" n="10"/>curamus de nominibus, postquam intentiones eorum habemus discretas. Ideo cum ex 
+      prae<lb ed="#L" n="11" break="no"/>habitis, quomodo res sit, constet, litigiosam disputationem &amp; ad nomen relinquo (vt 
+      Apo<lb ed="#L" n="12" break="no"/>stoli verbis vtat) superbis nihil scientibus, languentibus circa quaestiones &amp; pugnas 
+      verbo<lb ed="#L" n="13" break="no"/>rum, hominibus mente corruptis, &amp; veritate priuatis, 1. ad Tim. 6. Quare &amp; eorum cuilibet 
+      <lb ed="#L" n="14"/>contra me tantum nominaliter disputanti, sicut dicente Philosopho 2. de coelo &amp; mundo 8o. 
+      <lb ed="#L" n="15"/>Omnibus nobis hoc consuetum, non ad rem fieri quaestionem, sed ad contraria dicentem 
+      <lb ed="#L" n="16"/>dico quod recitante Themistio super 3. de coelo &amp; mundo Protagoras dixerat Socrati, Si tua 
+      <lb ed="#L" n="17"/>contradictio, seu alias // quaestio esset secundum intellectum meae intentionis, certe 
+      conclude<lb ed="#L" n="18" break="no"/>retur mihi; cum autem tu non intelligis intentionem mei sermonis, non reputo mihi 
+      conclu<lb ed="#L" n="19" break="no"/>di. Nec tamen quisquam in tantum desipit &amp; insanit, vt neget nomen contingentiae, 
+      liberta<lb ed="#L" n="20" break="no"/>tis, possibilitatis, impossibilitatis &amp; necessitatis ad causas superiores posse extendi, cum 
+      no<lb ed="#L" n="21" break="no"/>mina sint ad placitum. Quis etiam negauerit contingere Deum libere facere hoc vel illud, 
+      <lb ed="#L" n="22"/>Deum posse facere aliquid, coecum illuminare, vel mortuum suscitare, impossibile esse Deum  
+      <lb ed="#L" n="23"/>facere contradictoria simul vera, vel non gignere filium, aut necesse esse Deum esse, Deum 
+      in<lb ed="#L" n="24" break="no"/>telligere, ac dicere verbum suum? Quare &amp; <name xml:id="dcn2br-e86449-Nd1e580">Stephanus Parisiensis Episcopus</name> damnauit 
+        quen<lb ed="#L" n="25" break="no"/>dam articulum asserentem, <quote xml:id="dcn2br-e86449-Qd1e585" source="http://scta.info/resource/z88d99-avn8u2-d1e1309@1-15">quod possibile vel impossibile simpliciter, i. omnibus modis, est 
+      <lb ed="#L" n="26"/>possibile vel impossibile secundum Philosophiam</quote>: haec enim vt plurimum considerat 
+      possi<lb ed="#L" n="27" break="no"/>bile &amp; impossibile secundum causas naturales secundas. 
+      
+      Decimum similiter sequitur satis 
+      <lb ed="#L" n="28"/>clare ex quarto vero premisso cum isto nono. Sequitur etiam ex definitione actus liberi 
+      liber<lb ed="#L" n="29" break="no"/>tate contradictionis capitulo proximo praelibata, cum definitione illa seu regula generali de 
+      <lb ed="#L" n="30"/>necessitate naturaliter praecedente secundo huius praemissa. 
+      
+      Vndecimum etiam consequitur 
+      <lb ed="#L" n="31"/>manifeste: nam secundum praehabita capitulo isto &amp; proximo, aliquis actus voluntatis est 
+      <lb ed="#L" n="32"/>simpliciter contingens aequaliter, &amp; per corollarium nonum praemissum nullus actus 
+      volun<lb ed="#L" n="33" break="no"/>tatis creatae, ergo increatae diuinae; &amp; non ad intra, quia non potest non diligere semetipsum, 
+      <lb ed="#L" n="34"/>nec potest non velle essentiale quodlibet intra eum, quia tunc posset non esse Deus; ergo 
+      tan<lb ed="#L" n="35" break="no"/>tum ad extra. Hoc idem patet per definitionem contingentis // similiter ex capitulo proximo 
+      <lb ed="#L" n="36"/>saepius memoratam. Posita namque in Deo cognitione simplici Antichristi, &amp; potentia 
+      vo<lb ed="#L" n="37" break="no"/>lutiua cum omnibus dispositionibus naturaliter praeuijs volutioni, qua vult Antichristum 
+      fo<lb ed="#L" n="38" break="no"/>re, non necessario sequitur Deum sic velle; sed eius oppositum aequaliter potest stare, sicut de 
+      <lb ed="#L" n="39"/>agente rationali capitulo proximo est ostensum. Si enim hoc necessario sequeretur, cum 
+      <lb ed="#L" n="40"/>omnia naturaliter praecedentia illam volutionem in Deo simpliciter &amp; absolute necesse sit sic 
+      <lb ed="#L" n="41"/>poni, simpliciter &amp; absolute necesse esset Deum sic velle, &amp; sic per decimum primi 
+      Antichri<lb ed="#L" n="42" break="no"/>stum fore esset necessarium absolute, &amp; hoc necessitate naturali aut violenta naturaliter 
+      prae<lb ed="#L" n="43" break="no"/>cedente; quare nihil esset liberum aut contingens, cuius oppositum praecedentia docuerunt. 
+      
+      <lb ed="#L" n="44"/>Duodecimum clarissime sequitur ex quinto cum vndecimo sibi iuncto: sequitur etiam ex 
+      de<lb ed="#L" n="45" break="no"/>finitione actus liberi libertate contradictionis ostensa capitulo proximo cum decimo iam 
+      prae<lb ed="#L" n="46" break="no"/>misso. 
+      
+      Decimum tertium quantum ad primam partem patenter consequitur ex praemissis, 
+      <lb ed="#L" n="47"/>potestque ostendi per corollarium, &amp; sicut corollarium Ldecimi) primi libri. Et prima parte 
+      <lb ed="#L" n="48"/>concessa, quis negabit vel dubitabit secundam? Quis enim nesciat primum in quolibet genere 
+      <lb ed="#L" n="49"/>esse causam omnium aliorum, quatenus in illo genere continentur? Quis insuper, 
+      considera<lb ed="#L" n="50" break="no"/>tis prioribus, nesciat quod si voluntas diuina non esset libera nec continpens, sed necessaria 
+      <lb ed="#L" n="51"/>absolute, omnia alia essent similiter necessaria absolute? Et hoc est fortassis quod opinio 
+      sep<lb ed="#L" n="52" break="no"/>tima recitata superius somniauit.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

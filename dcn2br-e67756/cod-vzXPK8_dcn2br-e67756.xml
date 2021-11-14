@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="509"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e67756"><!-- l2c13 -->
+            <head xml:id="dcn2br-e67756-Hd1e106">Caput 13</head>
+            <p xml:id="dcn2br-e67756-d1e109">
+               <lb ed="#L" n="30"/>CAP. XIII. 
+      <lb ed="#L" n="31"/>Quod illud auxilium sine quo nullus perseuerat, &amp; 
+      <lb ed="#L" n="32"/>per quod quilibet perseuerat, est Spiritus Sanctus, 
+      <lb ed="#L" n="33"/>diuina bonitas &amp; voluntas. 
+      </p>
+            <p xml:id="dcn2br-e67756-d1e120">
+               <lb ed="#L" n="34"/>OStenso quod liberum arbitrium ante lapsum, vel post, 
+      quanta<lb ed="#L" n="35" break="no"/>cunque gratia creata subnixum, non potuit perseuerate finaliter 
+      <lb ed="#L" n="36"/>nec ad tempus, sine alio Dei auxilio speciali; nunc restat 
+      osten<lb ed="#L" n="37" break="no"/>dere, quod sit illud 7auxilium, quo suffultus perseuerans qui 
+      <lb ed="#L" n="38"/>libet perseuerat, &amp; sine quo perseuerare penitus nullus potest; 
+      <lb ed="#L" n="39"/>Hoc autem adiutorium est Spiritus sanctus, diuina bonitas &amp; 
+      <lb ed="#L" n="40"/>voluntas, sicut 8. &amp; 9. capitula prima faciliter demonstrabant; 
+      <lb ed="#L" n="41"/>quod &amp; potest ostendi sicut quintum huius secundi suam 
+      princi<lb ed="#L" n="42" break="no"/>palem conclusionem huic similem ostendebat: quod etiam 
+      te<lb ed="#L" n="43" break="no"/>stantur Autoritates illis capitulis allegatae; quibus &amp; alias 
+      <lb ed="#L" n="44"/>paucas addam. Augustinus siquidem de Correptione &amp; gratia 
+      <lb ed="#L" n="45"/>47. &amp; 49. sicut finis noni huius secundi plenius allegauit, ostendit quod illud diuinum 
+      adiuto<lb ed="#L" n="46" break="no"/>rium necessario requilitum libero arbitrio ad hoc quod perseueret in bono, non solum est 
+      si<lb ed="#L" n="47" break="no"/>ne quo perseuerare non possumus etiamsi velimus, sed &amp; efficit vt velimus; sed quid est id sine 
+      <lb ed="#L" n="48"/>quo velle non possumus, &amp; quod velle nos facit, &amp; volutiones nostras efficit, nisi Deus, qui 
+      <lb ed="#L" n="49"/>secundum Apostolum ad Philippa2. operatur in nobis velle, &amp; hoc per Spiritum sanctum, &amp; 
+      <lb ed="#L" n="50"/>suam omnipotentissimam voluntatem, sicut 8. &amp; 9. capitula primi probant? Nam diuina 
+      bo<lb ed="#L" n="51" break="no"/>nitas &amp; voluntas frequenter in Scriptura canonica &amp; Doctorum Spiritui sancto appropriate 
+      <lb ed="#L" n="52"/>quodammodo assignantur. Quare dicit Augustinus de Correptione &amp; gratia, 47. Prima 
+      <!--543.xml-->
+      <pb ed="#A" n="510"/>
+               <lb ed="#L" n="1"/>gratia quae data est primo Adam, est quall sit, vt habeat homo iustitiam si velit, secunda plus 
+      po<lb ed="#L" n="2" break="no"/>test, qua etiam // sit vt velit, &amp; tantum velit, tantoque ardore diligat, vt carnis volutatem 
+      con<lb ed="#L" n="3" break="no"/>traria concupiscentem voluntate spiritus vincat, voluntate scilicet spiritus sancti, sicut 
+      intelli<lb ed="#L" n="4" break="no"/>git Apostolus ad Rom. 8. cum dicit, Si spiritu facta carnis mortificaueritis, viuetis; &amp; vt 
+      osten<lb ed="#L" n="5" break="no"/>dat quo spiritu illud fiat, statim subiunxit, Quotquot enim spiritu Dei aguntur, hi sunt filij 
+      <lb ed="#L" n="6"/>Dei; &amp; quod illud dictum Apostolide mortificando facta carnis spiritu, non intelligatur de 
+      <lb ed="#L" n="7"/>spiritu hominis, sed spiritu sancto Dei, testantur Autoritates Augustini de Gratia, &amp; Libero 
+      <lb ed="#L" n="8"/>arbitrio 26. de Praedestinatione sanctorum. 13. &amp; 6. contra Iulianum. 14. sicut quartum huius 
+      <lb ed="#L" n="9"/>secundi plenius allegauit. Item de Correptione &amp; Gratia. 59. De ipsa perseuerantia, inquit,  
+      <lb ed="#L" n="10"/>Boni, noluit Deus sanctos suos in viribus suis, sed in ipso gloriari, qui eis non solum dat 
+      adiu<lb ed="#L" n="11" break="no"/>torium quale primo homini dedit, sine quo non possunt perseuerare, si velint; sed in eis etiam 
+      <lb ed="#L" n="12"/>operatur &amp; velle, vt quoniam non perseuerabunt nisi possint, &amp; velint, perseuerandi eis 
+      pos<lb ed="#L" n="13" break="no"/>sibilitas &amp; voluntas divinae gratiae largitate donetur; tantum quippe spiritu sancto accenditur 
+      <lb ed="#L" n="14"/>voluntas eorum, vt ideo possint quia sic volunt, ideo sic velint, quia Deus operatur vt velint. 
+      <lb ed="#L" n="15"/>Nam si in tanta infirmitate vitae huius ipsis relinqueretur voluntas sua, vt in adiutorio Dei, 
+      si<lb ed="#L" n="16" break="no"/>ne quo perseuerare non possent, manerent si vellent, nec Deus in eis operaretur vt vellent, 
+      in<lb ed="#L" n="17" break="no"/>ter tot &amp; tantas tentationes infirmitate sua voluntas succumberet, &amp; ideo perseuerare non  
+      <lb ed="#L" n="18"/>possent, quia deficientes infirmitate voluntatis nec vellent, aut non ita vellent infirmitate 
+      vo<lb ed="#L" n="19" break="no"/>luntatis vt possent. Idem de bono perseuerantiae 8. Petimus ne inferamur in tentationem, vt 
+      <lb ed="#L" n="20"/>hoc non fiat, &amp; exaudimur; vtique non fit, quia Deus non permittit vt fiat; Et capitulo 18. 
+      Vo<lb ed="#L" n="21" break="no"/>luntate sua cadit qui cadit, &amp; voluntate Dei stat, qui stat; Et 36. Vnde, inquit, satis dilucide 
+      <lb ed="#L" n="22"/>ostenditur, &amp; inchoandi, &amp; vsque in finem perseuerandi gratiam Dei non secundum merita 
+      <lb ed="#L" n="23"/>nostra dari, sed donari secundum ipsius secretissimam eandemque iustissimam, 
+      sapientissi<lb ed="#L" n="24" break="no"/>mam, beneficentissimam voluntatem. Ad hoc etiam facit illud Psalmi 32. Verbo Domini 
+      <lb ed="#L" n="25"/>coeli firmati sunt, &amp; spirituoris eius omnis virtus eorum, cum expositione Augustini 
+      supe<lb ed="#L" n="26" break="no"/>rius recitata; Et illud Psalmi 36. Confirmat autem iustos Dominus, &amp; illud Psalmi 50. 
+      Spi<lb ed="#L" n="27" break="no"/>ritu principali confirma me, &amp; illud 2. ad Tim. 1. Bonum depositum custodi per spititum 
+      san<lb ed="#L" n="28" break="no"/>ctum qui habitat in vobis; Et illud Psalmi 72. Tenuisti manum dexteram meam, &amp; in 
+      volun<lb ed="#L" n="29" break="no"/>tate tua deduxisti me &amp;c. Et illud Psalmi 29. Domine in voluntate tua praestitisti decori meo 
+      <lb ed="#L" n="30"/>virtutem; praestitisti, inquit, decori meo charitatis, &amp; gratiae, virtutem perseuerantiae. Vnde 
+      <lb ed="#L" n="31"/>Augustinus de Gratia &amp; Libero arbitrio 14. ita dicit, Si gratia se subtraxerit, cadit homo non  
+      <lb ed="#L" n="32"/>rectus, sed praecipitatus libero arbitrio; Quapropter nec quando coepit homo habere bona 
+      <lb ed="#L" n="33"/>merita, sibi debet tribuere illa, sed Deo, cui dicitur in Psalmo, Adiutor meus esto, ne 
+      derelin<lb ed="#L" n="34" break="no"/>quas meadicendo ne derelinquas me, ostendit si derelictus fuerit, nihil boni valet ipse per se: 
+      <lb ed="#L" n="35"/>Vnde &amp; ille ait, Ego dixi in abundantia mea, non mouebor in aeternum: putauerat enim suum 
+      <lb ed="#L" n="36"/>fuisse bonum, quod ei sic abundabat vt non moueretur, sed vt ostenderetur illi cuius esset 
+      il<lb ed="#L" n="37" break="no"/>lud bonum, de quo tanquam de suo coeperat gloriari; paululum gratia deserente admonitus 
+      <lb ed="#L" n="38"/>dicit, Domine in voluntate tua praestitisti decori meo virtutem; auertisti faciem tuam a me, &amp; 
+      <lb ed="#L" n="39"/>factus sum conturbatus. Idem de Correptione &amp; Gratia 35. dicit, Discunt praedestinati, 
+      <lb ed="#L" n="40"/>quibus omnia cooperantur in bonum in ipsa vita iusta, cum tremore se exultare debere, non 
+      <lb ed="#L" n="41"/>sibi arrogando tanquam de sua virtute fiduciam permanendi, nec dicendo in abundantia sua, 
+      <lb ed="#L" n="42"/>Non mouebor in aeternum; propter quod eis dicitur, Seruite Domino in timore &amp; exultate 
+      <lb ed="#L" n="43"/>ei cum tremore, ne quando irascatur Dominus, &amp; pereatis de via iusta: neque enim ait, ne 
+      <lb ed="#L" n="44"/>veniatis ad viam iustam, sed pereatis de via iusta. His verbis vsus est Apostolus vbi ait, 
+      <lb ed="#L" n="45"/>Cum timore &amp; tremore vestram ipforum salutem operamini; &amp; ostendens quare cum timore 
+      <lb ed="#L" n="46"/>&amp; tremore, Deus est, inquit, quioperatur in nobis &amp; velle &amp; operari. Non enim habebat  
+      <lb ed="#L" n="47"/>hunc timorem &amp; tremorem qui dicebat, In abundantia sua, Non mouebor in aeternum, sed 
+      <lb ed="#L" n="48"/>quia filius erat promissionis non perditionis, expertus Deo paululum deserente, quid esset 
+      ip<lb ed="#L" n="49" break="no"/>ne Domine, inquit, In voluntate tua praestitisti decori meo virtutem; auertisti faciem tuam a 
+      <lb ed="#L" n="50"/>me, &amp; factus sum conturbatus; ecce doctior ob hoc &amp; humilior, eam tenuit viamiam videns 
+      <lb ed="#L" n="51"/>&amp; confidens in voluntate sua, Deum decori eius praestitisse virtutem; quod ipse sibi tribuens, 
+      <lb ed="#L" n="52"/>&amp; de se praesumens in tali abundantia quam pestiterat Deus, non de eo, qui eam praestiterat. 
+      <lb ed="#L" n="53"/>dicebat, Non mouebor in aeternum; factus ergo conturbatus vt se inuenirer, &amp; humiliter 
+      sa<lb ed="#L" n="54" break="no"/>piens, non solum aeternae vitae, verum etiam in hac vita piae conuersationis &amp; perseuerantiae, 
+      <lb ed="#L" n="55"/>in quo spes habenda esset, addisceret. Idemque de verbis Apostoli sermone primo, tractans 
+      <lb ed="#L" n="56"/>eius autoritatem praemissam, sic ait; Iam inquis, ambulo viam iustam; opus erat vt discerem, 
+      <lb ed="#L" n="57"/>opus erat vt per doctrinam legis scirem quid agerem, habeo liberum voluntatis arbitrium, 
+      <lb ed="#L" n="58"/>quis me ab ista via separabit? si legas diligenter inuenies quiddam de sua quadam abundantia 
+      <!--544.xml-->
+      <pb ed="#A" n="511"/>
+               <lb ed="#L" n="1"/>quam tum acceperat extoliere se coepisse, Dominum autem misericordem vt doceret 
+      humi<lb ed="#L" n="2" break="no"/>litatem, quod dederat abstulisse, illum vero subito inopem remansisse, &amp; misericordiam Dei 
+      <lb ed="#L" n="3"/>recordatione confessum, dixisse, Ego dixi in abundantia mea, non mouebor in aeternum; ego 
+      <lb ed="#L" n="4"/>dixi, homo dixi, omnis homo mendax, ego ergo dixi in abundantia mea; tanta erat 
+      abun<lb ed="#L" n="5" break="no"/>dantia mea vt hoc dicere auderem, non mouebor in aeternum; quid inde? Domine in 
+      volun<lb ed="#L" n="6" break="no"/>tate praestitisti decori meo virtutem, auertisti faciem tuam a me &amp; factus sum conturbatus: 
+      os<lb ed="#L" n="7" break="no"/>tendisti, inquit, mihi, quia illud quod abundabam de tuo erat, ostendisti mihi vnde peterem, 
+      <lb ed="#L" n="8"/>cui tribuerem quod acceperam, cui gratias agere deberem, ad quem currerem sitiens, vnde 
+      im<lb ed="#L" n="9" break="no"/>pleter, &amp; quo impletus essem, ad quem custodirem: fortitudinem enim meam ad te 
+      custodi<lb ed="#L" n="10" break="no"/>am, vt quo te largitore impleor, te Saluatore non perdam: hoc vt ostenderes auertisti faciem  
+      <lb ed="#L" n="11"/>tuam a me, &amp; factus sum conturbatus; conturbatus quia siccatus; siccatus, quia exaltatus: 
+      <lb ed="#L" n="12"/>quid ergo Dominus dicit, Seruite Domino in timore, &amp; exaltate ei cum tremore; sic &amp; 
+      Apo<lb ed="#L" n="13" break="no"/>stolus, Cum timore, inquit, &amp; tremore vestram ipsorum salutem operamini; Deus est enim 
+      <lb ed="#L" n="14"/>quioperatur in vobis; ergo exultate cum tremore, ne quando irascatur Dominus &amp; pereatis 
+      <lb ed="#L" n="15"/>de via iusta: Nunquid dixit, ne quando irascatur Dominus, &amp; non veniatis ad viam iustam; 
+      <lb ed="#L" n="16"/>aut &amp; non perducat ad via iustam; aut &amp; nonlluos admittat ad viam iustam? Iam in illa 
+      ambula<lb ed="#L" n="17" break="no"/>tis, nolite superbire, ne etiam de illa pereatis, Et pereatis, inquit, de via iusta, cum exarserit inll 
+      bre<lb ed="#L" n="18" break="no"/>ui ira eius super linos, non in longum: Nam vbi superbis, ibi quod acceperas perdis; hic territus 
+      <lb ed="#L" n="19"/>homo quasi diceret, quid ergo faciam? sequitur, Beati qui confidunt in eo, non in se, sed in 
+      <lb ed="#L" n="20"/>eo: Quare &amp; Psalmo 35. bene dicit Psalmista, Non veniat mihi pes superbiae, &amp; manus 
+      pecca<lb ed="#L" n="21" break="no"/>toris non moueat me; Ibi ceciderunt qui operantur iniquitatem, expulsi sunt, nec potuerunt 
+      <lb ed="#L" n="22"/>stare: Ecce quomodo Domino irato superbis, pereunt de via iusta, in tantum quod expelluntur 
+      <lb ed="#L" n="23"/>ab ea, nec possunt stare in ea: nec mirum, quoniam ira in indignatione eius, &amp; vita in 
+      volun<lb ed="#L" n="24" break="no"/>tate eius, sicut sextum capitulum huius secundi diligentius exponebat. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

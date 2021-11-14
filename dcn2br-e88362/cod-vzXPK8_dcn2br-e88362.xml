@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="668"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e88362"><!-- l3c7 -->
+            <head xml:id="dcn2br-e88362-Hd1e106">Caput 7</head>
+            <p xml:id="dcn2br-e88362-d1e109">
+               <lb ed="#L" n="26"/>CAP. VII. 
+      <lb ed="#L" n="27"/>Mouet quaestionem, nunquid aliquid sit in potestate voluntatis 
+      <lb ed="#L" n="28"/>creatae: &amp; ponit vnam responsionem, &amp; corrigit. 
+      </p>
+            <p xml:id="dcn2br-e88362-d1e118">
+               <lb ed="#L" n="29"/>HAEc autem praehabita grauem parturiunt quaestionem; Vtrum, scilicet,  
+      <lb ed="#L" n="30"/>aliquid sit in potestate voluntatis creatae: quomodo namque 
+      iudica<lb ed="#L" n="31" break="no"/>bitur aliquid in potestate voluntatis creatae, cum omnis eius actio &amp; 
+      <lb ed="#L" n="32"/>non actio dependet a voluntate diuina naturaliter praecedente, sicut  
+      <lb ed="#L" n="33"/>20. 30. &amp; 32 secundi docebant? Quomodo enim est in potestate 
+      cau<lb ed="#L" n="34" break="no"/>sae secundae, scilicet voluntatis creatae, quod causa prima, scilicet 
+      vo<lb ed="#L" n="35" break="no"/>luntas diuina, ipsam volendo praeueniat, quam etiam voluntatem 
+      <lb ed="#L" n="36"/>diuinam oportet voluntatem creata necessario imitari, sicut decimum 
+      <lb ed="#L" n="37"/>primi docet? Quomodo tandem est aliquis actus, cessatio, seu vacatio in potestate nostra, cum 
+      <lb ed="#L" n="38"/>haec omnia fiant in nobis ex necessitate naturaliter praecedente, sicut secundum huius 
+      praemi<lb ed="#L" n="39" break="no"/>sit? Et si nihil sit in potestate voluntatis creatae, quomodo liberum arbitrium creatum 
+      salua<lb ed="#L" n="40" break="no"/>tur? Aliqui hic respondent, quod supposita influentia generali aliquid est in potestate 
+      volunta<lb ed="#L" n="41" break="no"/>tis creatae, aliter vero nihil. Sed de illa generali influentia est quaerendum, vtrum aliquid sit aut  
+      <lb ed="#L" n="42"/>nihil; si nihil, nihilum inde venit; si aliquid, aut ergo creatura aut Creator; non creatura, quia 
+      <lb ed="#L" n="43"/>Creator, scilicet Deus ipse, necessario requiritur tanquam causa vere efficiens cuiuslibet 
+      acti<lb ed="#L" n="44" break="no"/>onis voluntatis creatae, sicut praehabita docuerunt: si ponatur Creator, scilicet Deus ipse; aut ergo 
+      <lb ed="#L" n="45"/>absolute quatenus est Deus tantumodo, aut quatenus est actualiter influens ad actum voluntatis 
+      <lb ed="#L" n="46"/>creatae. Non primo modo, quia per 8. &amp; 9. 1. sic nihil agit ad extra, quare nec influit illo 
+      mo<lb ed="#L" n="47" break="no"/>do, Si secundo modo &amp; per 8. &amp; 9. primi nihil agit ad extra, quare nec influit nisi volendo; &amp; 
+      <lb ed="#L" n="48"/>hoc non vniuersaliter &amp; confuse, sed singulariter &amp; distincte, sicut &amp; cognoscit, vt per 22. 27. 
+      <lb ed="#L" n="49"/>&amp; sequentia primi faciliter ostendetur; sicque eius influentia generalis est eius volentia, siue 
+      <lb ed="#L" n="50"/>volutio specialis, qua vult specialiter facere hoc vel illud. Nihil aliud ergo est dicere, 
+      suppo<lb ed="#L" n="51" break="no"/>sita influentia generali, aliquis actus est in potestate voluntatis creatae, quam dicere, supposita 
+      <lb ed="#L" n="52"/>Dei volutione, seu volentia speciali ad aliquem certum actum voluntatis creatae, ille actus est 
+      <lb ed="#L" n="53"/>in potestate voluntatis creatae; sicque ista responsio quaestionem non soluit, sed magis inuoluit.  
+      <!--702.xml-->
+      <pb ed="#A" n="669"/>
+               <lb ed="#L" n="1"/>Si quis autem voluerit fingere, quod influentia generalis est conseruatio generalis rerum a 
+      <lb ed="#L" n="2"/>Deo, ac eius permissio generalis, qua permittit res secundum potentias sibi inditas operari, &amp;  
+      <lb ed="#L" n="3"/>hac supposita potest voluntas creata ex se sola sine Deo aliter &amp; proprie coagente producere 
+      <lb ed="#L" n="4"/>actum suum, per 2I. secundi &amp; sequentia clarissime conuincetur. Sed quia influentia generalis 
+      <lb ed="#L" n="5"/>est nomen communiter vsitatum, &amp; per omnium ora volans, ne illud inexpositum penitus 
+      <lb ed="#L" n="6"/>simplicibus praetermittam, dico quod influentia generalis in sacris literis minime reperitur; 
+      <lb ed="#L" n="7"/>sed secundum modum loquendi naturalium Philosophorum, Mathematicorum, &amp; similiter 
+      <lb ed="#L" n="8"/>Magicorum est emanatio, seu irradiatio potius (vt placet Autori de radijs) a coelesti corpore 
+      <lb ed="#L" n="9"/>in sibi subiecta generaliter deriuata. Posset tamen dici catholice influentia generalis Dei 
+      vo<lb ed="#L" n="10" break="no"/>lentia siue volutio generalis, qua omnibus generaliter influit quicquid habent, sicut 8. &amp; 9. 
+      <lb ed="#L" n="11"/>primi docebant; quae tamen nequaquam sic est omnibus generalis, quin etiam singulis 
+      speci<lb ed="#L" n="12" break="no"/>alis, sicut 22. &amp; 27. &amp; sequentia primi docent.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

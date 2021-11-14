@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 50</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 50</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="808"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e06444"><!-- l3c50 -->
+            <head xml:id="dcn2br-e06444-Hd1e106">Caput 50</head>
+            <p xml:id="dcn2br-e06444-d1e109">
+               <lb ed="#L" n="21"/>CAP. L. 
+      <lb ed="#L" n="22"/>Respondet secundum sententiam Philosophorum &amp; Theologorum, 
+      <lb ed="#L" n="23"/>quod Deus vult &amp; scit necessario, quicquid vult &amp; scit 
+      neces<lb ed="#L" n="24" break="no"/>sitate sequente immutabilitatis, immobilitatis, stabilitatis, &amp; 
+      <lb ed="#L" n="25"/>ordinata, non praecedente &amp; simpliciter absoluta, non naturali, 
+      <lb ed="#L" n="26"/>violenta, aut inuita, non contraria, sed consentanea summae &amp; 
+      <lb ed="#L" n="27"/>maximae libertati. 
+      </p>
+            <p xml:id="dcn2br-e06444-d1e127">
+               <lb ed="#L" n="28"/>MAgister bone, Magister vnice, Magister &amp; Domine, qui me a 
+      iuuen<lb ed="#L" n="29" break="no"/>tute mea, qua re aspirante aggrediebar hoc opus, hactenus docuisti L 
+      <lb ed="#L" n="30"/>omnia vera quae didici, &amp; quae calamus tuus scripsi; etiam nunc 
+      emit<lb ed="#L" n="31" break="no"/>te piissime lucem tuam, vt qui me duxisti in profundissimam hanc 
+      a<lb ed="#L" n="32" break="no"/>byssum, ipse me deducas in montem huius inaccessibilis veritatis; qui  
+      <lb ed="#L" n="33"/>me duxisti in istud latissimum pelagus, duc ad portum; &amp; qui me 
+      du<lb ed="#L" n="34" break="no"/>xisti in istud longissimum desertum &amp; inuium, dux, via, finisque 
+      pa<lb ed="#L" n="35" break="no"/>ll riter duc ad finem. O Domine scientiarum, qui habes clauem putei 
+      <lb ed="#L" n="36"/>abyssi, qui habes clauem scientiae, qui habes clauem Dauidis, qui aperis &amp; nemo claudit,  
+      <lb ed="#L" n="37"/>claudis &amp; nemo aperit, qui solus es dignus accipere librum, &amp; soluere eius signacula, 
+      osten<lb ed="#L" n="38" break="no"/>de quaeso Doctorum doctissime, solutionem verbi tam perplexe ligati puero tuo paruulo 
+      ex<lb ed="#L" n="39" break="no"/>itum ignoranti. Nunc autem gratias ago tibi, serenissime Domine, qui petenti tribuisti, 
+      <lb ed="#L" n="40"/>quaerenti ostendisti, pulsanti aperuisti ostium pietatis, ostium claritatis, ostium veritatis. 
+      <lb ed="#L" n="41"/>Iam enim te illuminante faciem tuam super seruum tuum velut in quodam candore lucis 
+      ae<lb ed="#L" n="42" break="no"/>ternae, &amp; speculo sine macula maiestatis diuinae, videor mihi videre illam esse 
+      solutio<lb ed="#L" n="43" break="no"/>nem rectissimam huius verbi, quam olim filijs atque discipulis tuis charissimis, nostris 
+      ve<lb ed="#L" n="44" break="no"/>ro Patribus ac Magistris dignissimis, ostendere dignaberis: In ipsis namque amplior 
+      spi<lb ed="#L" n="45" break="no"/>ritus tuus erat, prudentia atque intelligentia, interpretatio somniorum, &amp; ostensio 
+      secreto<lb ed="#L" n="46" break="no"/>rum, ac solutio ligatorum. Hi autem necessitatem duplicem posuerunt, praecedentem, 
+      sci<lb ed="#L" n="47" break="no"/>licet, &amp; sequentem, dixeruntque necesse esse Deum velle &amp; scire, quicquid vult &amp; scit 
+      ne<lb ed="#L" n="48" break="no"/>cessitate sequente, sed nullatenus praecedente, sicut vigesimo octauo huius plenius 
+      recita<lb ed="#L" n="49" break="no"/>tur. Porro vt istud quam breuius &amp; clarius Deus me docuerit, manifestem; Sciendum quod 
+      <lb ed="#L" n="50"/>in voluntate diuina ad extra, respectu scilicet volutorum posteriorum, non est necessitas 
+      <!--842.xml-->
+      <pb ed="#A" n="809"/>
+               <lb ed="#L" n="1"/>[antecedens,] sed summa contingentia ad vtrumlibet, &amp; summa libertas contradi¬ 
+      <lb ed="#L" n="2"/>ctionis, qua maior cogitari non potest, sicut ex quarto huius, &amp; ex vndecima, &amp; 
+      <lb ed="#L" n="3"/>duodecima, ac decima tertia parte quinti huius apparet: Quaedam tamen concomitans 
+      <lb ed="#L" n="4"/>siue sequens necessitas est in ea. Nam sicut actum praesentem voluntatis mutabilissimi 
+      <lb ed="#L" n="5"/>hominis respectu cuiuscunque obiecti praesentis, praeteriti, vel futuri, licet sit 
+      con<lb ed="#L" n="6" break="no"/>tingens &amp; liber, etiamsi secundum quorundam sententiam esset ita contingens &amp; 
+      <lb ed="#L" n="7"/>liber, sicut actus voluntatis diuinae, nec efficeretur a Deo, sed a sola hominis 
+      liber<lb ed="#L" n="8" break="no"/>rima voluntate, quando est, necesse est esse hac necessitate sequente, sic &amp; actum 
+      vo<lb ed="#L" n="9" break="no"/>luntatis diuinae, quae immutabilis est omnino, sicut vigesimum tertium primi docet, 
+      ne<lb ed="#L" n="10" break="no"/>cessitate, inquam, sequente praesentiali, sicut ex secunda suppositione necessitatis 
+      sequen<lb ed="#L" n="11" break="no"/>tis Anselmi vigesimo octauo huius plenius est ostensum. Hoc idem ostendunt trigesimo 
+      <lb ed="#L" n="12"/>huius tertij praelibata: Actus namque voluntatis diuinae respectu rei praesentis atque 
+      prae<lb ed="#L" n="13" break="no"/>B teritae est necessarius, quare &amp; respectu futurae; Non enim efficitur nouiter necessarius ex 
+      <lb ed="#L" n="14"/>praesentia vel praeteritione rei, nec ex aliquo extrinseco, vel intrinseco, sicut ibi fuit 
+      osten<lb ed="#L" n="15" break="no"/>sum; est ergo aeternaliter &amp; semper necessarius ex sua propria &amp; intrinseca firmitate, qua 
+      <lb ed="#L" n="16"/>sicut generaliter omne quod est quando est necesse est esse; &amp; specialiter; sicut actum 
+      <lb ed="#L" n="17"/>praesentem voluntatis angelicae vel humanae respectu obiecti cuiuscunque differentiae 
+      tem<lb ed="#L" n="18" break="no"/>poris, quando est necesse est esse; sic &amp; actum praesentem voluntatis diuinae respectu 
+      cu<lb ed="#L" n="19" break="no"/>iuscunque differentiae temporalis dum est, necesse est esse. Haec autem omnia possunt ad  
+      <lb ed="#L" n="20"/>formam syllogisticam breuius sic reduci; Omnis voluntas immntabilis omnino intrinsece 
+      <lb ed="#L" n="21"/>semel libera vel necessaria respectu cuiuscunque obiecti, semper est libera vel necessaria 
+      res<lb ed="#L" n="22" break="no"/>pectu illius; voluntas diuina est huiusmodi; vel sic, Omnis voluntas non necessitabilis 
+      no<lb ed="#L" n="23" break="no"/>uiter ab extra nec ab intra, semel necessaria respectu alicuius voluti, semper est 
+      neces<lb ed="#L" n="24" break="no"/>saria respectu illius; voluntas diuina est huiusmodi. Porro, ne in tam latebrosa &amp; 
+      pericu<lb ed="#L" n="25" break="no"/>losa, tam superexcellenti &amp; inuestigabili, tam clausa &amp; signata materia ego tantillus ex 
+      <lb ed="#L" n="26"/>vmbratica phantasia proprij capitis quicquam videar Lsingulariter) somniare, Ecce 
+      sanis<lb ed="#L" n="27" break="no"/>sima capita, clarissima ingenia, Autores famosissimi, Doctores Catholici istam 
+      senten<lb ed="#L" n="28" break="no"/>tiam quidam explicite, quidam implicite concorditer proferentes. Hermes quidem 
+      tri<lb ed="#L" n="29" break="no"/>plex Trismegistus, &amp; Pater Philosophorum de verbo aeterno 9. Placitum, inquit, Dei 
+      ne<lb ed="#L" n="30" break="no"/>cessitas sequitur, voluntatem comitatur effectus; &amp; sequitur ratio // prius dicti; Neque 
+      e<lb ed="#L" n="31" break="no"/>nim credibile est Deo displiciturum esse quod placuit, cum &amp; futurum idemque placiturum 
+      <lb ed="#L" n="32"/>multo ante sciuerit: huic quoque sententiae consonant alia eius dicta vigesimo septimo huius 
+      <lb ed="#L" n="33"/>scripta. Annon &amp; de ista necessitate sequente possunt exponi illa verba Platonis obscura 2. 
+      <lb ed="#L" n="34"/>Tim. 17. sic dicentis, Nunc quoniam cuncta, exceptis admodum paucis, executi sumus, 
+      <lb ed="#L" n="35"/>quae proinde mentis intellectus instituit, oportet de his etiam, quae necessitas inuehit, dicere: 
+      <lb ed="#L" n="36"/>mixta siquidem mundi sensibilis ex necessitatis intelligentiaeque caetu constitit generatio, 
+      do<lb ed="#L" n="37" break="no"/>minante intellectu &amp; salubri persuasione rigorem necessitatis assidue trahente ad optimos 
+      <lb ed="#L" n="38"/>actus; Itaque victa &amp; parente prouidis autoritatibus necessitate, prima rerum mundique 
+      <lb ed="#L" n="39"/>exordia constiterunt. Verum est tamen quod vtrumque horum dictorum posset intelligi de 
+      <lb ed="#L" n="40"/>necessitate efficaci in voluntate diuina 270. &amp; 280. huius praedicta; sicut &amp; multa ibi dicta 
+      pos<lb ed="#L" n="41" break="no"/>sunt conuenienter intelligi de ista necessitate sequente. Necessitas enim secundum 270. huius 
+      <lb ed="#L" n="42"/>praemissa, &amp; sicut praemissa dicta Platonis contestari videntur, ponebatur apud Graecos 
+      Phi<lb ed="#L" n="43" break="no"/>losophos vnum famosum principium entium, &amp; in Deo, quod aliqui exposuerunt hoc modo. 
+      <lb ed="#L" n="44"/>alij autem illo, quidam vero vtroque &amp; omnes non male: Potest enim vtroque modo conueni 
+      <lb ed="#L" n="45"/>enter intelligi &amp; exponi. Quos &amp; imitatus magnus Christi Philosophus Anselmus Cantuar. 
+      <lb ed="#L" n="46"/>Archiepis. 2. Cur Deus homo 17. &amp; de concord. 2. &amp; 3. explicite &amp; in terminis negat in Deo 
+      <lb ed="#L" n="47"/>necessitatem praecedentem, istam vero necessitatem sequentem astruit &amp; ostendit, sicut in 
+      se<lb ed="#L" n="48" break="no"/>cundo membro distinctionis de necessitate sequente vigesimo octauo huius praemissae 
+      breui<lb ed="#L" n="49" break="no"/>ter est ostensum: verum vt tantum testimonium tanti viri plenius publicetur, Ecce sic ait 
+      deni<lb ed="#L" n="50" break="no"/>que Virgo, quae per fidem munda facta est, vt de illa posset assumi, nequaquam credidit 
+      il<lb ed="#L" n="51" break="no"/>lum moriturum nisi quia vellet, quemadmodum per Prophetam, qui de illo dixit, Oblatus 
+      <lb ed="#L" n="52"/>est quia ipse voluit, didicerat; Quapropter quoniam vera fuit fides eius, necesse erat ita 
+      futu<lb ed="#L" n="53" break="no"/>rum esse sicut credidit; quod si te iterum perturbat, quia dico necesse erat, memento, quia 
+      <lb ed="#L" n="54"/>veritas fidei virginis non fuit causa vt ille moreretur, sed quia hoc futurum erat, vera 
+      fi<lb ed="#L" n="55" break="no"/>des fuit; Quamobrem si dicitur, necesse erat vt voluntate sua moreretur, quia vera fuit 
+      <lb ed="#L" n="56"/>fides siue prophetia quae de hac praecesserant, non est aliud quam si dicas necesse fuisse ita 
+      <lb ed="#L" n="57"/>fututum esse, quoniam sic futurum erat; huiusmodi autem necessitas non cogit rem 
+      <lb ed="#L" n="58"/>esse, sed esse rei facit necessitatem esse: Est namque necessitas praecedens, quae causa est 
+      <!--843.xml-->
+      <pb ed="#A" n="810"/>
+               <lb ed="#L" n="1"/>vt sit res, &amp; est necessitas sequens, quam res facit; Praecedens &amp; efficiens necessitas est, A 
+      <lb ed="#L" n="2"/>cum dicitur coelum volui, quia necesse est vt voluatur; sequens vero &amp; quae nihil efficit, sed 
+      <lb ed="#L" n="3"/>fit, est cum dico te ex necessitate loqui, quia loqueris. Cum enim hoc dico, significo nihil 
+      <lb ed="#L" n="4"/>posse facere vt dum loqueris non loquaris, non quod aliquid te cogat ad loquendum; Nam 
+      <lb ed="#L" n="5"/>violentia naturalis conditionis cogit coelum volui, te vero nulla necessitas facit loqui; 
+      <lb ed="#L" n="6"/>sed vbicunque est praecedens necessitas, est &amp; sequens, Non autem vbi sequens, ibi 
+      <lb ed="#L" n="7"/>statim &amp; praecedens. Possumus namque dicere necesse est coelum volui quia voluitur, 
+      <lb ed="#L" n="8"/>sed non similiter est verum, idcirco te loqui quia necesse est vt loquaris. Ista sequens 
+      ne<lb ed="#L" n="9" break="no"/>cessitas currit per omnia tempora hoc modo, Quicquid fuit, necesse est fuisse; 
+      quic<lb ed="#L" n="10" break="no"/>quid est, necesse est esse, &amp; necesse est futurum fuisse, &amp; quicquid futurumest, necesse 
+      <lb ed="#L" n="11"/>est futurum esse. Haec est illa necessitas, quae, vbi tractat Aristoteles de propositionibus 
+      <lb ed="#L" n="12"/>singularibus &amp; futuris videtur vtrumlibet destruere, &amp; omnia ex necessitate esse 
+      a<lb ed="#L" n="13" break="no"/>struere hac sequenti &amp; nihil efficienti necessitate, quoniam vera fuit fides &amp; prophetia de B 
+      <lb ed="#L" n="14"/>Christo, quia ex voluntate, non ex necessitate moriturus erat, necesse fuit vt sic esset, hac 
+      ho<lb ed="#L" n="15" break="no"/>mo factus est, hac fecit &amp; passus est quaecunque fecit &amp; passus est, hac voluit quaecunque 
+      vo<lb ed="#L" n="16" break="no"/>luit. Ideo enim necessitate fuerunt, quia futura erant, &amp; futura erant quia fuerunt, &amp; 
+      fue<lb ed="#L" n="17" break="no"/>runt quia fuerunt; &amp; si vis omnium quae fecit &amp; passus est scire veram necessitatem, scito 
+      om<lb ed="#L" n="18" break="no"/>nia ex necessitate fuisse, quia ipse voluit; voluntatem vero eius nulla praecessit necessitas, 
+      <lb ed="#L" n="19"/>quare si non fuerunt nisi quia ipse voluit, si non voluisset non fuisset: sic itaque nemo tulit 
+      ani<lb ed="#L" n="20" break="no"/>mam eius ab illo, sed ipse posuit eam, &amp; iterum sumpsit eam, quia potestatem habuit 
+      ponen<lb ed="#L" n="21" break="no"/>di animam suam, &amp; iterum sumendi eam, sicut ipse dicit. Ecce quod iuxta praemissa ponit 
+      si<lb ed="#L" n="22" break="no"/>milem necessitatem sequentem in actibus Dei intrinsecis respectu futurorum, sicut &amp; in 
+      hu<lb ed="#L" n="23" break="no"/>manis intrinsecis &amp; extrinsecis, puta in fide &amp; mundatione virginis, in prophetia &amp; 
+      locutio<lb ed="#L" n="24" break="no"/>ne hominis dum praesentialiter loquitur, qualem &amp; ponit Aristoteles I. peri hermenias vlt. 
+      <lb ed="#L" n="25"/>inseparabiliter consequi omnia, qua scilicet omne quod est, quando est, necesse est esse, sicut C 
+      <lb ed="#L" n="26"/>vicesimo octauo huius plenius dicebatur. Hanc eandem necessitatem cum eadem causa 
+      <lb ed="#L" n="27"/>ac similitudine ad actus humanos ostendunt planissime autoritates eiusdem De concord. 2. 
+      <lb ed="#L" n="28"/>&amp; 3. sicut vicesimo septimo &amp; vicesimo octauo huius plenius est ostensum. Hunc autem 
+      Ar<lb ed="#L" n="29" break="no"/>chieniscopum humiliter sequitur suus deuotus Suffraganus, subtilissimus Philosophus &amp; 
+      pro<lb ed="#L" n="30" break="no"/>fundissimus Theologus, Robertus Lincolniensis Episcopus, de libero arbitrio 3. 
+      necessita<lb ed="#L" n="31" break="no"/>tem praecedentem explicite negans in Deo, istam vero sequentem concedens, sicut in tertia 
+      <lb ed="#L" n="32"/>expositione Boetij vicesimo octauo huius praemissa sub breuibus tangebatur: Veruntamen 
+      <lb ed="#L" n="33"/>quia tantum testimonium non est sub brcuibus angustandum, ecce diffusius verba sua. 
+      Vo<lb ed="#L" n="34" break="no"/>lens quippe contingentiam simul cum necessitate saluare, imo &amp; ostendere ex necessarijs 
+      se<lb ed="#L" n="35" break="no"/>qui contingens, sic ait; Duplex est necessitas, sicut distinguit Anselmus in libro secundo, Cur 
+      <lb ed="#L" n="36"/>Deus homo, cap. 17. Vna, quam vocat necessitatem praecedentem, quae causa est vt res sit, 
+      <lb ed="#L" n="37"/>&amp; cogit rem esse; altera, quam vocat necessitatem sequentem, quae non est causa rei nec cogit 
+      <lb ed="#L" n="38"/>rem esse, &amp; haec. vt ipse dicit, est illa necessitas, quae, vbi tractat Aristoteles de 
+      propositioni<lb ed="#L" n="39" break="no"/>bus singularibus &amp; futuris, videtur vtrumlibet destruere, &amp; omnia ex necessitate astruere; 
+      <lb ed="#L" n="40"/>hac sequente &amp; nihil efficiente necessitate, necessarium est Deum scire meam sessionem cras 
+      <lb ed="#L" n="41"/>futuram, &amp; similia: non est enim in Deo necessitas, cum omnia sint in ipso voluntaria, nec est 
+      <lb ed="#L" n="42"/>aliud in ipso necessitas, quam suae voluntatis voluntarie perseuerans inflexibilitas; ex 
+      neces<lb ed="#L" n="43" break="no"/>sarijs hac sequente necessitate nullum inconueniens, imo magis necessarium videtur sequi 
+      <lb ed="#L" n="44"/>contingens. Dum enim sedeo, necesse est me sedere, &amp; postquam sedi, necesse est me sedisse; 
+      <lb ed="#L" n="45"/>sed quam comparationem habent haec dicta me sedere, &amp; me sedisse ad meam sessionem 
+      <lb ed="#L" n="46"/>dum sedeo &amp; postquam sedi, eandem comparationem habet scientia Dei ad meam fessionem 
+      <lb ed="#L" n="47"/>futuram antequam sedeam; ipse enim scit futura tanquam praesentia, nec aliter scit ea cum 
+      <lb ed="#L" n="48"/>sunt futura, &amp; cum sunt praesentia, vel praeterita; ergo omni simili modo quo necesse est 
+      De<lb ed="#L" n="49" break="no"/>um scire res cum sint, vel praeteritae sint, necesse est eum scire easdem antequam sint; sed cum T 
+      <lb ed="#L" n="50"/>res sunt, vel praeteritae sunt, habet eius scientia necessitatem consequentem, ergo &amp;st eandem  
+      <lb ed="#L" n="51"/>habet antequam res eueniant; &amp; sicut posito per impossibile, quod hoc dictum, me sedisse, 
+      <lb ed="#L" n="52"/>eandem quam habet necessitatem postquam sedi, haberet ante meam sessionem, illa 
+      necessi<lb ed="#L" n="53" break="no"/>tas non cogeret meam sessionem esse, sed tamen ex illa necessitate sequeretur mea sessio 
+      con<lb ed="#L" n="54" break="no"/>tingens; sic ex necessitate scientiae Dei sequitur futurum contingens: Per hoc idem 
+      vide<lb ed="#L" n="55" break="no"/>buntur posse solui oppositiones quae ex veritate dicti de futuro videntur destruere 
+      vtrumli<lb ed="#L" n="56" break="no"/>bet, &amp; liberum arbitrium. Si enim sum sessurus cras, me esse vel fuisse sessurum sine 
+      prin<lb ed="#L" n="57" break="no"/>cipio fuit verum, nec potest non fuisse verum, quia veritas quae sine principio dicto huic 
+      <!--844.xml-->
+      <pb ed="#A" n="811"/>
+               <lb ed="#L" n="1"/>infuit, non potest non infuisse; necesse est ergo fuisse &amp; esse verum; &amp; ex hoc necessario 
+      <lb ed="#L" n="2"/>sequitur mea sessio adhuc contingens. Has duas necessitates, ex quarum altera non 
+      sequi<lb ed="#L" n="3" break="no"/>tur; nisi necessarium, ex reliqua vero, vt dictum est, videtur sequi contingens, puta 
+      Boe<lb ed="#L" n="4" break="no"/>rium vocasse necessitatem simplicem, &amp; necessitatem conditionis, licet aliqui 
+      necessita<lb ed="#L" n="5" break="no"/>tem conditionis intelligant, non illam, quae supra dicta est necessitas sequens, sed 
+      neces<lb ed="#L" n="6" break="no"/>fitatem consecutionis, consequentis ad antecedens; vt puta cum dicitur, Si homo 
+      cur<lb ed="#L" n="7" break="no"/>rit, mouet pedes, hic est necessitas consecutionis consequentis ad antecedens, licet 
+      v<lb ed="#L" n="8" break="no"/>trumque, scilicet tam consequens quam antecedens, sit contingens: PEx verbis autem 
+      ip<lb ed="#L" n="9" break="no"/>sius Boetij interius consideratis melius perpendi potest, ipsum vocasse necessitatem 
+      condi<lb ed="#L" n="10" break="no"/>tionis, quam supra necesitatem sequentem dicebamus. Ait namque idem futurum, cum 
+      <lb ed="#L" n="11"/>ad diuinam notionem refertur, necessarium; cum vero in sui natura perpendituri; liberum 
+      <lb ed="#L" n="12"/>prorsus atque absolutum videti: &amp; post pauca, Atqui Deus ea futura, quae ex arbitrij 
+      li<lb ed="#L" n="13" break="no"/>bertate proueniunt, praesentia contuetur; Haec igitur ad intuitum relata diuinum, 
+      ne<lb ed="#L" n="14" break="no"/>cessaria fiunt per conditionem diuinae notionis, per se autem considerata absoluta naturae 
+      <lb ed="#L" n="15"/>suae libertatem non deserunt: &amp; iterum, Haec si ad diuinam notitiam referantur, 
+      neces<lb ed="#L" n="16" break="no"/>saria, si per se considerentur, necessitatis esse nexibus absoluta. Quid autem uliud 
+      sapi<lb ed="#L" n="17" break="no"/>unt haec verba, nisi ea, quae in sui natura sunt ad vtrumlibet contingentia, flexibilia, &amp;  
+      <lb ed="#L" n="18"/>mutabilia, in Dei notitia esse inuariabilia? non propter rerum inuariabilitatem, sed 
+      prop<lb ed="#L" n="19" break="no"/>ter scientiae immutabilitatem; &amp; Deum scire hoc esse est inflexibile &amp; immutabile ab ea 
+      <lb ed="#L" n="20"/>quam habet veritatem; &amp; ita cum ex hoc inuariabili, Deum scire, hoc contingens 
+      sequa<lb ed="#L" n="21" break="no"/>tur, esse hoc contingens ex necessario; secundum Boetij sententiam sequi videtur 
+      contin<lb ed="#L" n="22" break="no"/>gens, non tamen ex necessario absolutem, siue antecedente quod cogit rem esse, sed ex 
+      ne<lb ed="#L" n="23" break="no"/>cessario conditionis &amp; sequente, quod permittit ei liberum esse. Ecce quomodo attestatur 
+      <lb ed="#L" n="24"/>sextam veritatem quinto huius praemissam; ecce &amp; qualiter profitetur trigesimo &amp; 
+      trige<lb ed="#L" n="25" break="no"/>mo primo huius ostensa, Deum videlicet non aliter intrinsece scire quicquam quando est 
+      <lb ed="#L" n="26"/>futurum, quam quando est praesens siue preteritum, sed omni modo similiter, semper 
+      sci<lb ed="#L" n="27" break="no"/>licet necessario hac necessitate sequente; quare &amp; de Deum velle quodcunque primo 
+      futu<lb ed="#L" n="28" break="no"/>rum, deinde praesens, &amp; tandem praeteritum, idem haud dubie vult dicere 
+      consequen<lb ed="#L" n="29" break="no"/>ter. Idem rursus infra eodem quinto, Deus, inquit, omnia scit, vnico indiuisibili; 
+      sim<lb ed="#L" n="30" break="no"/>plicique conspectu aeternaliter semper, similiter, immutabiliter; Quapropter quod scit 
+      <lb ed="#L" n="31"/>non potest in posterum nescire, quod etiam plurimis modis probari potest. Patet enim ex 
+      <lb ed="#L" n="32"/>iam dictis, quod quam comparationem habent haec dicta, Me sedere &amp; Me sedisse, ad  
+      <lb ed="#L" n="33"/>meam sessionem dum sedeo, postquam sedi, eandem comparationem habet scientia Dei 
+      <lb ed="#L" n="34"/>ad meam sessionem cras futuram antequam sedeam: Ipse enim scit futura tanquam 
+      prae<lb ed="#L" n="35" break="no"/>sentia, nec aliter scit ea cum sunt futura, &amp; cum sunt praesentia vel praeterita; ergo omni 
+      <lb ed="#L" n="36"/>eodem modo, quo necesse est Deum scire res cum sunt, vel cum praeteritae sunt, necesse est 
+      <lb ed="#L" n="37"/>eum scire easdem antequam sint: Sed cum res sunt vel praeteritae sunt, habet eius scientia 
+      <lb ed="#L" n="38"/>necessitatem consequentem; ergo &amp;est eandem necessitatem habet antequam res eueniant. 
+      <lb ed="#L" n="39"/>Item posito per impossibile, quod cursus Socratis futurus cras esset nunc praesentialiter in 
+      <lb ed="#L" n="40"/>visu meo corporaliil omni eodem modo, quo erit cras illius cursus praesens in visu meo, 
+      si<lb ed="#L" n="41" break="no"/>cut cras erit necessarium me videre vel vidisse Socratem currentem; sic modo esset 
+      necessa<lb ed="#L" n="42" break="no"/>rium antequam Socrates curreret. Sed multo magis sunt omnia futura presentialiter in 
+      <lb ed="#L" n="43"/>conspectu Dei, quam possit aliqua res praesens esse praesentialiter in conspectu meo; 
+      Mul<lb ed="#L" n="44" break="no"/>to ergo fortius Deus necessario videt &amp; scit omnia futura. Ecce &amp; quomodo hic &amp; supra 
+      <lb ed="#L" n="45"/>iuxta praemissa supponit cum Anselmo actum cognitionis diuinae respectu cuiuscunque 
+      fu<lb ed="#L" n="46" break="no"/>turi esse ita necessarium, imo magis necessarium hac necessitate sequente, sicut actum 
+      <lb ed="#L" n="47"/>cognitionis humanae respectu praesentis, sicut etiam actum eius extrinsecum, veluti 
+      fes<lb ed="#L" n="48" break="no"/>sionem praesentem. Aduertas etiam, supplico, causam Doctoris hic &amp; supra: Ipse enim 
+      <lb ed="#L" n="49"/>inquit, scit futura tanquam praesentia; Quid namque praetendit haec causa, nisi 
+      <lb ed="#L" n="50"/>quod causa Aristotelis, &amp; Anselmi, scilicet quod Esse quod est, quando est, 
+      neces<lb ed="#L" n="51" break="no"/>se est hac necessitate sequente, ideoque Deus sic necessario scit futura? Eandem 
+      quo<lb ed="#L" n="52" break="no"/>que necessitatem sequentem licet non ita explicite, eandem quoque causam necessitatis 
+      <lb ed="#L" n="53"/>ipsius cum eadem assimulatione actus diuini ad humanum, puta ad gressum 
+      praesen<lb ed="#L" n="54" break="no"/>tem, ita explicite ostendit Boetius humanus Philosophus &amp; diuinus 5. de consolatione 
+      Phi<lb ed="#L" n="55" break="no"/>losophiae, prosa vlt. sicut 28n. huius, &amp; prima authoritas Lincolniensis praemissa plenius 
+      ma<lb ed="#L" n="56" break="no"/>nifestant. Huius &amp; digna vestigia tam in hac necessitate, quam in causa eius ac assimilatione 
+      <lb ed="#L" n="57"/>praemissa // plane sequitur sanctus Thomas super 1. sentent. dist. 38. quaestione quinta, quaeren¬ 
+      <!--845.xml-->
+      <pb ed="#A" n="812"/>
+               <lb ed="#L" n="1"/>te. Vtrum scientia Dei sit contingentium; vbi &amp; quarto loco ad partem negatiuam facit 
+      hu<lb ed="#L" n="2" break="no"/>iusmodi argumentum, Deus scit vel praescit Socratem cursurum; ergo Socrates curret, &amp; 
+      <lb ed="#L" n="3"/>Antecedens est necessarium, ergo consequens: ad quod &amp; recitat duas responsiones, 
+      qua<lb ed="#L" n="4" break="no"/>rum vtraque concordat principali hypothesi superius pertractatae: quarum prima dicit hanc 
+      <lb ed="#L" n="5"/>non esse necessariam, Deus praescit vel praesciuit Socratem currere, vel hoc esse praescitum 
+      <lb ed="#L" n="6"/>a Deo, quamuis sit verum de praeterito, quia dependet a futuro: Alia vero ponit Deum 
+      <lb ed="#L" n="7"/>pro nunc posse non scire quod nunc scit, &amp; haec, vt dicit, videtur esse magistri in litera; &amp; 
+      <lb ed="#L" n="8"/>reprobat hanc &amp; illam, vnde sic ait, Ad quartum dicendum, quod ad hoc argumentum 
+      <lb ed="#L" n="9"/>multipliciter respondetur. Quidam enim dicunt, quod hoc antecedens, scilicet hoc est 
+      <lb ed="#L" n="10"/>praescitum a Deo, non est necessarium; &amp; si obijciatur, quod dictum est de praeterito, ergo 
+      <lb ed="#L" n="11"/>est necessarium. 1. Respondent quod habet instantiam in praeteritis quae dicunt respectum ad 
+      <lb ed="#L" n="12"/>futurum; Vnde cum dicitur hoc fuisse futurum; quamuis sit dictum de praeterito, tamen quia 
+      <lb ed="#L" n="13"/>dependet a futuro, non est necessarium; quia quod fuit quandoque futurum, potest non esse 
+      <lb ed="#L" n="14"/>futurum, quia futurus quidem incedere non incedet, vt dicitur in 2. de generatione. Sed 
+      in<lb ed="#L" n="15" break="no"/>stantia ista nulla est, quia quamuis quod fuit futurum possit non esse futurum, impeditis causis, 
+      <lb ed="#L" n="16"/>quae erant determinatae ad effectum, vt in maiori parte; non tamen potest non fuisse 
+      futu<lb ed="#L" n="17" break="no"/>rum: Semper enim erit verum dicere, Hoc quandoque fuit futurum; similiter non est ad 
+      <lb ed="#L" n="18"/>propositum, quia cum dicitur, praescitum, non importatur tantum ordo ad futurum, sed 
+      <lb ed="#L" n="19"/>etiam actus quidam qui significatur vt praeteritus; Et ideo alij dicunt, sicut videtur Magister 
+      <lb ed="#L" n="20"/>dicere in litera, quod hoc antecedens non est necessarium, quia praescitum; quamuis 
+      secun<lb ed="#L" n="21" break="no"/>dum vocem significet tempus praeteritum, tamen significat actum diuinum cui non accidit 
+      <lb ed="#L" n="22"/>praeteritio; Et ideo sicut Deus potest non scire, ita potest non praescire. Sed illud etiam non  
+      <lb ed="#L" n="23"/>soluit, quia quamuis actus diuinus non habet necessitatem coactionis, habet tamen 
+      ne<lb ed="#L" n="24" break="no"/>cessitatem immobilitatis loquendo de actibus intrinsecis, vt velle intelligere, &amp; 
+      huiusmo<lb ed="#L" n="25" break="no"/>di; Vnde non est contingens // non esse, si ponatur esse; &amp; quia consequens non 
+      po<lb ed="#L" n="26" break="no"/>test poni non esse, quin etiam antecedens ponatur non esse; [consequens etiam non 
+      pote<lb ed="#L" n="27" break="no"/>rit poni non esse/ Sed hoc certum est quod antecedens potest poni esse; verum est enim 
+      deter<lb ed="#L" n="28" break="no"/>minate Deum aliquid futurum nunc scire, &amp; ita sequitur quod consequens non possit poni non  
+      <lb ed="#L" n="29"/>esse etiam absolute sumptum, &amp; multo minus quod possit contingere non esse. 
+      Vide<lb ed="#L" n="30" break="no"/>as supplico quam expresse ponit hanc necessitatem sequentem in actibus Dei intrinsecis, 
+      <lb ed="#L" n="31"/>vocans eam necessitatem immobilitatis, qua non est contingens actum non esse; 
+      Vi<lb ed="#L" n="32" break="no"/>deas adhuc expressius, cum propriam responsionem subiungit, Et ideo, iuquiens, 
+      ali<lb ed="#L" n="33" break="no"/>ter dicendum, quod antecedens est necessarium absolute, tum ex immobilitate actus, 
+      <lb ed="#L" n="34"/>tum etiam ex ordine ad scitum; quia ista res non ponitur subiacere diuinae scientiae, 
+      ni<lb ed="#L" n="35" break="no"/>si dum est in actu secundum quod determinationem habet, &amp; certitudinem: Ipsum enim 
+      <lb ed="#L" n="36"/>necesse est esse dum est, &amp; ideo similis necessitas inferenda est in consequente, vt 
+      sci<lb ed="#L" n="37" break="no"/>licet accipiatur ipsum, quod est, Socratem currere secundum quod est in actu, &amp; sic 
+      <lb ed="#L" n="38"/>determinationem &amp; necessitatem habet. Vnde patet, quod si sumatur Socratem 
+      curre<lb ed="#L" n="39" break="no"/>re secundum hoc quod ex antecedente sequitur, necessitatem habet; Non enim 
+      sequi<lb ed="#L" n="40" break="no"/>tur ex antecedente, nisi secundum quod substat diuinae scientiae cui subijcitur, prout 
+      conside<lb ed="#L" n="41" break="no"/>ratur praesentialiter in suo esse actuali. Vnde sic etiam sumendum est consequens, quomodo 
+      <lb ed="#L" n="42"/>patet quod consequens necessarium est: necesse est enim Socratem currere dum currit; Ecce 
+      <lb ed="#L" n="43"/>clarissime praedicta necessitas cum causa superius assignata, &amp; istam sententiam tenet 
+      expres<lb ed="#L" n="44" break="no"/>se per multas distinctiones &amp; quaestiones de scientia, prouidentia, ac praedestinatione Dei 
+      se<lb ed="#L" n="45" break="no"/>quentes. Qui &amp; prima parte summae, quaestione decima quarta, articulo 13. quo quaeritur, 
+      <lb ed="#L" n="46"/>Vtrum scientia Dei sit futurorum contingentium, &amp; arguto secundo quod non, quia omnis 
+      <lb ed="#L" n="47"/>conditionalis cuius antecedens est necessarium absolute, consequens est necessarium 
+      ab<lb ed="#L" n="48" break="no"/>solute; Sed huius conditionalis, Si Deus sciuit hoc esse futurum, hoc erit, 
+      Antece<lb ed="#L" n="49" break="no"/>dens est necessarium absolute, tum quia est aeternum, tum quia significatur vt 
+      praete<lb ed="#L" n="50" break="no"/>ritum; ponit primam duarum responsionum priorum, &amp; ipsam reprobat in haec 
+      ver<lb ed="#L" n="51" break="no"/>ba. Ad secundum dicendum quod quidam dicunt quod hoc antecedens, Deus sciuit, non 
+      <lb ed="#L" n="52"/>est necessarium, sed contingens, quia licet sit praeteritum, tamen quia est contingens importat 
+      <lb ed="#L" n="53"/>respectum ad contingens futurum. Sed hoc non tollit ei necessitatem, quia id qd habuit 
+      respe<lb ed="#L" n="54" break="no"/>ctum ad futurum, necesse est habuisse, licet etiam futurum Lanimal? non sequatur quadoque. Vbi 
+      <lb ed="#L" n="55"/>&amp; infra secundum sententiam propriam sic respondet; Vnde dicendum est quod hoc 
+      ante<lb ed="#L" n="56" break="no"/>cedens est necessarium absolute, &amp; tacta ambiguitate. Nunquid etiam consequens sit 
+      neces<lb ed="#L" n="57" break="no"/>sarium absolute subiungit. Dicendum est quod quando in antecedente ponitur aliquid ad  
+      <lb ed="#L" n="58"/>actum animae pertinens, consequens accipiendum est, non solum secundum quod in se est,  
+      <!--846.xml-->
+      <pb ed="#A" n="813"/>
+               <lb ed="#L" n="1"/>sed secundum quod est in anima; Aliud enim est esse rei in seipsa, &amp; esse rei in anima; vt 
+      pu<lb ed="#L" n="2" break="no"/>ta si dicam, Si anima intelligit aliquid, illud est immateriale secundum quod est in 
+      intellectu<lb ed="#L" n="3" break="no"/>non secundum quod est in seipso; Et similiter si dicam, si Deus sciuit aliquid, illud erit; 
+      con<lb ed="#L" n="4" break="no"/>sequens intelligendum est, prout est in sua praesentialitate, &amp; sic necessarium est, sicut &amp; 
+      ante<lb ed="#L" n="5" break="no"/>cedens, quia Esse quod est, quando est, necesse est, vt dicitur in primo peri hermenias. Nec 
+      <lb ed="#L" n="6"/>debet quenquam mouere quod dicit, Deum hoc futurum praescire esse necessarium absolute: 
+      <lb ed="#L" n="7"/>Potest enim ad propositum rationabiliter accipi necessitas absoluta, prout necessitati 
+      condi<lb ed="#L" n="8" break="no"/>tionali opponitur, quae // 480. huius fuerat reprobata, scilicet pro necessitate sequente 
+      praedi<lb ed="#L" n="9" break="no"/>cta, qua sine conditione quacunque, Omne quod nunc est pro nunc necesse est esse. Aliter 
+      <lb ed="#L" n="10"/>autem accipitur necessitas absoluta pro necessitate simpliciter, cuius oppositum formaliter 
+      <lb ed="#L" n="11"/>contradictionem includit; &amp; sic loquitur infra eiusdem particula 19a. quaestione 3a. 
+      quae<lb ed="#L" n="12" break="no"/>rente, Vtrum, quicquid Deus vult, ex necessitate velit; vbi &amp; respondendo, necessitatem 
+      <lb ed="#L" n="13"/>B sequentem confirmat sic dicens, Dicendum quod aliquid dicitur necessarium dupliciter, 
+      sci<lb ed="#L" n="14" break="no"/>licet absolute &amp; ex suppositione. Necessarium absolute iudicatur aliquid ex habitudine 
+      ter<lb ed="#L" n="15" break="no"/>minorum, vtpote quia praedicatum est in definitione subiecti, sicut necessarium est hominem 
+      <lb ed="#L" n="16"/>essevanimal: vel quia subiectum est de ratione praedicati, sicut hoc est necessarium numerum 
+      <lb ed="#L" n="17"/>esse parem vel imparem; sic autem non est necessarium Socratem sedere; vnde non est 
+      neces<lb ed="#L" n="18" break="no"/>sarium absolute, sed potest dici necessarium ex suppositione; Supposito enim quod sedeat. 
+      <lb ed="#L" n="19"/>necesse est eum sedere dum sedet; Sic &amp; Deus ex necessitate absoluta vult se, &amp; 
+      bonita<lb ed="#L" n="20" break="no"/>tem suam, alia vero a se non est necessarium absolute eum velle, est tamen necessarium ex 
+      <lb ed="#L" n="21"/>suppositione; Supposito enim quod velit non potest non velle, quia non potest voluntas 
+      e<lb ed="#L" n="22" break="no"/>ius mutari. Idem in quaestionibus de veritate part. 13. quaest. 4a. quaerente, Vtrum Deus de 
+      <lb ed="#L" n="23"/>necessitate velit quicquid vult. Respondet, quod finem scilicet seipsum vult necessario, alia 
+      <lb ed="#L" n="24"/>vero nequaquam; vbi &amp; respondendo ad primum argumentum sic ait, Ad primum 
+      dicen<lb ed="#L" n="25" break="no"/>dum, quodaliquid dicitur necessarium dupliciter; vno modo absolute, alio modo ex 
+      supposi<lb ed="#L" n="26" break="no"/>tione; Absolute quidem dicitur aliquid necessarium propter habitudinem necessariam ad 
+      in<lb ed="#L" n="27" break="no"/>uicem terminorum, qui in aliqua propositione ponuntur, sicut Hominem esse animal; vel 
+      <lb ed="#L" n="28"/>Omne totum esse maius sua parte, aut aliqua huiusmodi; Necessarium vero ex suppositione 
+      <lb ed="#L" n="29"/>est quod non est necessarium ex se, sed solummodo posito alio, sicut Socratem cucurrisse; 
+      <lb ed="#L" n="30"/>Socrates enim, quantum est de se, non se habet ad hoc magis quam ad eius oppositum; sed 
+      <lb ed="#L" n="31"/>facta suppositione quod cucurrerit, impossibile est eum non cucurrisse: Sic ergo dico quod 
+      <lb ed="#L" n="32"/>Deum velle aliquid in creaturis, vtpote Petrum saluari, non est necessarium absolute, eo 
+      <lb ed="#L" n="33"/>quod voluntas diuina non habet ad hoc necessarium ordinem, vt ex dictis patet; sed facta 
+      <lb ed="#L" n="34"/>suppositone, quod Deus illud velit vel voluerit, impossibile est non voluisse, vel non velle, 
+      <lb ed="#L" n="35"/>eo quod voluntas eius est immutabilis; Vnde huiusmodi necessitas apud Theologos 
+      voca<lb ed="#L" n="36" break="no"/>tur necessitas immutabilitatis. Vbi &amp; infra respondens ad quartum, Dicendum, inquit, quod 
+      <lb ed="#L" n="37"/>Deum velle aliquid vel voluisse postquam vult vel voluit, est necesse ex suppositione, non 
+      au<lb ed="#L" n="38" break="no"/>tem absolute, sicut &amp; Socratem cucurrisse postquam cucurrerit; &amp; similiter de creatione &amp; 
+      <lb ed="#L" n="39"/>de quolibet actu diuinae voluntatis, qui terminatur ad aliquid exterius. Ex his autem satis 
+      <lb ed="#L" n="40"/>apparet quod ad modum loquendi Doctorum Parisiensium, Illa dicitur necessitas ex 
+      suppo<lb ed="#L" n="41" break="no"/>sitione, quae ad modum loquendi Boetij &amp; Anselmi dicitur necessitas conditionis &amp; sequens 
+      <lb ed="#L" n="42"/>in sensu praemisso, sicut 280. breuiter erat tactum; Verum vt istud parumper diffusius &amp; 
+      cla<lb ed="#L" n="43" break="no"/>rius patefiat, sciendum quod iste modus loquendi, Necessarium ex suppositione seu ex 
+      hy<lb ed="#L" n="44" break="no"/>pothesi, bonum, melius, optimum, eligibile, eligibilius, eligibilissimum ex suppositione seu 
+      <lb ed="#L" n="45"/>ex hypothesi, &amp; ita de alijs, originaliter est Graecorum, secundum quem modum loquitur 
+      <lb ed="#L" n="46"/>Aristoteles Graecus Philosophus 4. Eth. vlt. 7. Polit. 12. &amp; 4. Polit. 3. &amp; Theophilus parabolam 
+      <lb ed="#L" n="47"/>de filio dissipatore seu prodigo Luc. 15. exponendo; Neque putandum Graecos 
+      Philoso<lb ed="#L" n="48" break="no"/>phos qui sapientiam amauerunt &amp; sapientiam quaesierunt, &amp; tantam sapientiam inuenerunt, 
+      <lb ed="#L" n="49"/>tam insipide sapuisse aut locutos fuisse, cum dicerent hoc est necessarium, bonum, melius, vel 
+      <lb ed="#L" n="50"/>optimum, eligibile, eligibilius, aut eligibil ssimum ex suppositione siue ex hypothesi, vt 
+      tan<lb ed="#L" n="51" break="no"/>tum intelligerent isto modo; Haec conditionalis est necessaria, bona, melior, vel optima, 
+      e<lb ed="#L" n="52" break="no"/>ligibilis, eligibilior, aut eligibilissima, Si A est, Berit; Si quis turpia operetur, bonum est vt 
+      <lb ed="#L" n="53"/>verecundia confundatur: Si ciues talis conditionis existant, talis politia melior &amp; eligibilior 
+      <lb ed="#L" n="54"/>erit eis; si alterius, altera. Quid enim hoc magnum ad ethicam aut politicam disciplinam? 
+      <lb ed="#L" n="55"/>Imo secundum logicam methodum subtilius intuendo clare videbitur haec differre: 
+      Con<lb ed="#L" n="56" break="no"/>ditionalis enim nihil ponit, quare &amp; nihil supponit: quid est enim supponere, nisi sub alio 
+      po<lb ed="#L" n="57" break="no"/>nere? Constat enim quod conditionalis huiusmodi, Si homo currit, homo mouetur, non 
+      <lb ed="#L" n="58"/>ponit nec supponit hominem currere, sed siue currat, sine non currat, conditionalis est 
+      <!--847.xml-->
+      <pb ed="#A" n="814"/>
+               <lb ed="#L" n="1"/>semper bona &amp; vera; Nec moueat quod inter puerilia rudimenta coditionalis hypothetica, id 
+      <lb ed="#L" n="2"/>est, suppositiua seu suppositoria propositio nuncupatur; Satis enim pueriliter &amp; ruditer sic 
+      vo<lb ed="#L" n="3" break="no"/>catur, nisi fortassis hypothesis habeat aliam significationem in graeco; Verutamen apud 
+      Grae<lb ed="#L" n="4" break="no"/>cos autores no memini conditionalem propositionem hypotheticam nec hypothesin 
+      appel<lb ed="#L" n="5" break="no"/>lari: Omnis autem suppositio aliquid supponit, quare &amp; ponit, quapropter &amp; hypothesis; Quid 
+      <lb ed="#L" n="6"/>enim hypothesis sonat graece, nisi suppositionem latine? Quapropter &amp; Philos. 7. Polit. 12. 
+      oste<lb ed="#L" n="7" break="no"/>dens optimam politiam esse secundum quam ciuitas optime politizabit, &amp; maxime faelicitari 
+      <lb ed="#L" n="8"/>contingit, &amp; faelicitatem esse operationem &amp; vsum virtutis perfectum, &amp; hanc non ex 
+      supposi<lb ed="#L" n="9" break="no"/>tione, sed simpliciter, definiensque Ex suppositione, sic ait, Dico autem ex suppositione, quae 
+      <lb ed="#L" n="10"/>necessaria; simpliciter autem quod bene, puta quae quidem circa iustas actiones sententiae. 
+      <lb ed="#L" n="11"/>supplicia, punitiones a virtute quidem sunt; necessaria autem, &amp; quod bene necessario 
+      ha<lb ed="#L" n="12" break="no"/>bent; eligibilius quidem enim nullo talium indigere, nec virum, nec ciuitatem: quae autem 
+      <lb ed="#L" n="13"/>ad honores &amp; abundantias simpliciter sunt optimae electiones. Alterum quidem enim mali 
+      <lb ed="#L" n="14"/>cuiusdam electio est, tales autem electionese contrario; Praeparationes enim bonorum sunt 
+      <lb ed="#L" n="15"/>&amp; generationes. Vtetur autem, vtique studiosus vir, &amp; paupertate &amp; aegritudine, &amp; alijs &amp; 
+      for<lb ed="#L" n="16" break="no"/>tunis bene, sed quod // beatum in contrarijs est: hoc etenim determinatum est secundum 
+      mo<lb ed="#L" n="17" break="no"/>rales sermones, // quod talis est studiosus, cui per virtutem bona sunt simpliciter bona. Simili 
+      quo<lb ed="#L" n="18" break="no"/>que modo loquitur. 4. polit. 3. de politia non simpliciter, sed ad hypothesin meliore. Vnde 
+      <lb ed="#L" n="19"/>&amp; Theophilus vbi prius, Pharisaeorum, inquit, intentionem corrigit Dominus per 
+      praesen<lb ed="#L" n="20" break="no"/>tem parabolam, quos ex hypothesi nominat iustos, quasi diceret, Esto vos vere iustos esse, 
+      <lb ed="#L" n="21"/>nec transgressos aliquod mandatorum; Nunquid igitur propter hoc non oportet admittere 
+      <lb ed="#L" n="22"/>a flagitijs redeuntes? Respiciendo igitur verba &amp; mentem Graecorum, &amp; Doctorum 
+      Pari<lb ed="#L" n="23" break="no"/>siensium, qui in hac parte Graecas glossas optimas arbitrantur, &amp; propterea forsitan imitantur, 
+      <lb ed="#L" n="24"/>cum dicunt Deum velle quicquam ad extra vel scire esse necessarium ex suppositione. Non 
+      <lb ed="#L" n="25"/>puto ipsos intelligere tantum necessitatem conditionalis huiusmodi aut consequentiae talis, 
+      <lb ed="#L" n="26"/>Si Deus vult aut scit hoc esse aut fore, hoc est aut erit, sicut ex hic praemissis, &amp; 280o. huius 
+      ap<lb ed="#L" n="27" break="no"/>paret, sed necessitatem ex conditione &amp; sequentem praedictam. Posito namque inesse, &amp; 
+      <lb ed="#L" n="28"/>quasi pro fundamento seu radice supposito quocunque velle seu scire in Deo, statim ex ipso 
+      <lb ed="#L" n="29"/>quodammodo pullulat &amp; consurgit necessitas ista sequens, sicut &amp; ad aliam rem praedictam 
+      <lb ed="#L" n="30"/>quamcunque positam suppositamue in esse, apponitur &amp; quodammodo supponitur ista 
+      se<lb ed="#L" n="31" break="no"/>quens necessitas consequenter, qua quicquid est dum est, necesse est esse; Et huic sententiae 
+      <lb ed="#L" n="32"/>consonant praecedentia verba Thomae, qui &amp; I. contra Gentiles 83. ita dicit; Ex his autem 
+      <lb ed="#L" n="33"/>haberi potest, quod licet Deus circa causata nihil necessario velit absolute, vult tamen 
+      ali<lb ed="#L" n="34" break="no"/>quid necessario ex conditione vel suppositione: Ostensum est autem diuinam voluntatem 
+      <lb ed="#L" n="35"/>immutabilem esse; in quolibet autem immutabili si semel est aliquid, non potest postmodum 
+      <lb ed="#L" n="36"/>non esse: hoc enim moueri dicimus quod aliter se habet nunc &amp; prius; Si igitur diuina 
+      vo<lb ed="#L" n="37" break="no"/>luntas est immutabilis, posito quod aliquid velit, necesse est ex suppositione eum hoc velle. 
+      <lb ed="#L" n="38"/>Item omne aeternum est necessarium, Deum autem velle aliquid causatum esse, est aeternum; 
+      <lb ed="#L" n="39"/>sicut enim esse suum, ita &amp; velle aeternitate mensuratur; Est ergo necessarium, sed non 
+      abso<lb ed="#L" n="40" break="no"/>lute consideratum, quia voluntas Dei non habet necessariam habitudinem ad hoc volutum; 
+      <lb ed="#L" n="41"/>est ergo necessarium ex suppositione. Praeterea quicquid Deus potuit, potest; Virtus enim 
+      <lb ed="#L" n="42"/>eius non minuitur, sicut nec essentia; sed non potest nunc non velle quod ponitur voluisse, 
+      <lb ed="#L" n="43"/>quia non potest mutari sua voluntas; ergo nunquam potuit non velle quicquid voluit; ergo 
+      <lb ed="#L" n="44"/>est necessarium ex suppositione eum voluisse quicquid voluit, sicut &amp; velle; neutrum autem 
+      <lb ed="#L" n="45"/>necessarium absolute, sed possibile modo praedicto; Ecce quomodo per rationes 30i. huius 
+      <lb ed="#L" n="46"/>licet breuiter multum tactas ostendit hanc necessitatem sequentem in voluntate diuina; quia 
+      <lb ed="#L" n="47"/>videlicet quicquid Deus vnquam prius potuit velle aut nolle, nunc potest, &amp; quicquid nunc 
+      <lb ed="#L" n="48"/>non potest, nec potuit vnquam prius. Qui etiam super 1. sentent. distinctione &amp; quaestione 
+      <lb ed="#L" n="49"/>praedictis, innitens similiter rationibus 3Ii. huius, hanc necessitatem in scientia Dei ostendit; 
+      <lb ed="#L" n="50"/>Vnde sic ait, Dico ergo quod intellectus diuinus intuetur ab aeterno vnumquodque 
+      contin<lb ed="#L" n="51" break="no"/>gentium, non solum prout est in causis suis, sed prout est in esse suo determinato; Nisi enim 
+      <lb ed="#L" n="52"/>hoc esset, cum re existente ipsam rem videt prout in esse suo determinato est, aliter 
+      cognosce<lb ed="#L" n="53" break="no"/>ret rem quando est, quam antequam fiat, &amp; sic euentibus rerum aliquid accresceret eius 
+      cog<lb ed="#L" n="54" break="no"/>nitioni; Vnde &amp; infert subsequenter necessitatem sequentem in Dei scientia, sicut superius 
+      <lb ed="#L" n="55"/>recitatur. Qui &amp; I. contra Gentiles 67. similem necessitatem in scientia Dei ponens, sic ait: 
+      <lb ed="#L" n="56"/>Ex his autem iam aliqualiter patere potest, quod contingentium singularium ab aeterno Deus 
+      <lb ed="#L" n="57"/>ineffabilem scientiam habuit, nec tamen contingentia esse desistunt; Contingens enim 
+      cer<lb ed="#L" n="58" break="no"/>titudini cognitionis non repugnat, nisi secundum quod futurum est, non autem secundum 
+      <!--848.xml-->
+      <pb ed="#A" n="815"/>
+               <lb ed="#L" n="1"/>quod praesens est; contingens enim cum futurum est, potest non esse, &amp; sic cognitio 
+      aesti<lb ed="#L" n="2" break="no"/>mantis ipsum futurum esse falli potest; falletur enim si non erit quod futurum esse aestimauit: 
+      <lb ed="#L" n="3"/>ex quo autem praesens est, pro illo tempore non potest non esse, potest autem in futurum non  
+      <lb ed="#L" n="4"/>esse. Sed hoc non iam pertinet ad contingens, prout est praesens, sed prout futurum est, vnde 
+      <lb ed="#L" n="5"/>nihil certitudini sensus deperit, cum videt currere hominem, quamuis hoc dictum sit 
+      contin<lb ed="#L" n="6" break="no"/>gens; omnis igitur cognitio, quae supra contingens fertur, prout praesens est, certa esse potest 
+      <lb ed="#L" n="7"/>diuini autem intellectus intuitus ab aeterno fertur in vnumquodque eorum que temporis cursu 
+      <lb ed="#L" n="8"/>peraguntur, prout praesens est, vt supra ostensum est; relinquitur igitur quod de 
+      contingenti<lb ed="#L" n="9" break="no"/>bus nihil prohibet Deum ab aeterno scientiam infallibilem habere. Ecce quod contingens 
+      <lb ed="#L" n="10"/>apud nos futurum, sic semper praesens est Deo, sicut, quando praesentialiter veniet, erit nobis, 
+      <lb ed="#L" n="11"/>sicut &amp; alia contingentia nunc sunt nobis, &amp; sic quod apud eum non potest non esse, sicut 
+      <lb ed="#L" n="12"/>contingentia apud nos praesentia nunc non possunt. Vbi &amp; immediate subiungit, Item 
+      contin<lb ed="#L" n="13" break="no"/>gens a necessario differt secundum quod vnumquodque in sua causa est; contingens enim sic in 
+      <lb ed="#L" n="14"/>sua causa est, vt non esse ex ea possit &amp; esse; necessarium autem non potest ex sua causa nisi esse; 
+      <lb ed="#L" n="15"/>secundum id vero quod vtrumque horum in se est non differt quantum ad esse supra quod 
+      funda<lb ed="#L" n="16" break="no"/>tur, quia in contingenti secundum quod in se est non est esse &amp; non esse, sed solum esse, licet vt 
+      <lb ed="#L" n="17"/>futurum contingens possit non esse: Diuinus autem intellectus ab eterno cognoscit res, non 
+      so<lb ed="#L" n="18" break="no"/>lum secundum esse quod habent in causis suis, sed secundum etiam esse quod habent in seipsis: 
+      ni<lb ed="#L" n="19" break="no"/>hil igitur prohibet ipsum habere aeterna cognitionem de contingentibus &amp; infallibilem. Ecce 
+      <lb ed="#L" n="20"/>quod sicut contingens &amp; necessarium apud nos nunc entia, non differunt in essendo, &amp; in 
+      neces<lb ed="#L" n="21" break="no"/>sitate sequente essendi, sic &amp; aeternaliter apud Deum. Et infra, Effectum excedere causam suam  
+      <lb ed="#L" n="22"/>non contingit, interdum tamen ab ea deficit; vnde cum in nobis cognitio causatur ex rebus, 
+      <lb ed="#L" n="23"/>contingit interdum, quae necessaria sunt, non per modum necessitatis cognoscimus, sed 
+      pro<lb ed="#L" n="24" break="no"/>babilitatis; sicut autem apud nos res sunt causa cognitionis, ita diuina cognitio est causa 
+      re<lb ed="#L" n="25" break="no"/>rum cognitarum; non igitur prohibet ea in se contingentia esse, de quibus Deus necessariam  
+      <lb ed="#L" n="26"/>scientiam habet. Qui &amp; infra supponens quod effectus dicitur necessatius vel contingens a 
+      <lb ed="#L" n="27"/>causa proxima, non remota, subiungit; Scientia autem Dei, etsi sit causa rerum scitarum per 
+      <lb ed="#L" n="28"/>ipsam, est tamen causa remota; eius igitur necessitati scitorum contingentia non repugnat, 
+      <lb ed="#L" n="29"/>cum contingat causas intermedias contingentes esse. Et infra praeterea, si vnumquodque a 
+      <lb ed="#L" n="30"/>Deo cogno scitur sicut praesentialiter visum, sic necessarium erit esse quod Deus cognoscit, 
+      <lb ed="#L" n="31"/>sicut necessarium est Socratem sedere ex hoc quod sedere videtur; hoc autem non 
+      necessa<lb ed="#L" n="32" break="no"/>rium est absolute; concedit igitur Doctor in talibus necessitatem sequentem praedictam, &amp; 
+      <lb ed="#L" n="33"/>negat necessitatem tantummodo absolutam, sicut &amp; 28. huius plenius monstrabatur. Hanc 
+      <lb ed="#L" n="34"/>etiam necessitatem sequentem videtur concedere Villiamus de Aluernia in suo Tripartito 
+      <lb ed="#L" n="35"/>parte vltima capit. 10. asserens sicut Thomas in Deo necessitatem stabilitatis &amp; 
+      immutabili<lb ed="#L" n="36" break="no"/>tatis, qua necesse est eum esse quicquid est, &amp; agere bene semper, sicut in ostensione corollarij 
+      <lb ed="#L" n="37"/>primi huius plenius recitatur. Istam quoque necessitatem stabilitatis, immutabilitatis, &amp; 
+      im<lb ed="#L" n="38" break="no"/>mobilitatis horum Doctorum, quare &amp; necessitatem sequentem praedictam maiores 
+      Docto<lb ed="#L" n="39" break="no"/>res &amp; Autores insinuant &amp; affirmant. Dicit etenim Esaias, imo Dominus per os eius, 
+      Consi<lb ed="#L" n="40" break="no"/>lium meum stabit, &amp; omnis voluntas mea fiet, Es. 46. Sed quomodo stabit? Firmiter, an 
+      in<lb ed="#L" n="41" break="no"/>firmiter? Proculdubio quicunque dixerit quod infirmiter, est infirmus. Cuius namque 
+      con<lb ed="#L" n="42" break="no"/>silium stabit firmum, si omnium fundamenti firmissimi non stet firmum? Non sic sentit 
+      Apo<lb ed="#L" n="43" break="no"/>stolus, inquiens, Firmum fundamentum Dei stat, habens signaculum hoc, Nouit Dominus 
+      <lb ed="#L" n="44"/>qui sunt eius, 2. ad Tim. 2. Cur, quaeso, dixit Apostolus, Firmum fundamentum Dei stat, si 
+      <lb ed="#L" n="45"/>infirmissime stet, imo incomparabiliter infirmius infirmissima &amp; mutabilissima re creata? 
+      <lb ed="#L" n="46"/>Nam quamlibet rem creatam nunc stantem necesse est nunc stare hac necessitate sequente; 
+      <lb ed="#L" n="47"/>quare si consilium &amp; praescientia, ac praedestinatio fundamentalis diuina quae nunc stat, 
+      pos<lb ed="#L" n="48" break="no"/>set pro nunc non stare, staret infirmius instabilissima creatura. Hoc etiam verbum, stare, 
+      <lb ed="#L" n="49"/>dictum de Deo firmitatem &amp; immutabilitatem designat; vnde &amp; Augustinus I. 
+      Con<lb ed="#L" n="50" break="no"/>fess. 6. Apud te Deus, inquit, rerum omnium instabilium stant causae, &amp; rerum omnium 
+      <lb ed="#L" n="51"/>mutabilium immutabiles manent origines, &amp; omnium itrationabilium &amp; temporalium 
+      <lb ed="#L" n="52"/>sempiternae viuunt rationes. Qui &amp; 5. super Genesin ad literam 18. Ipsi, inquit, Deo 
+      <lb ed="#L" n="53"/>non alio modo innotuisse creata cum ea fecisset, quam illo modo quo ea nouerat vt 
+      <lb ed="#L" n="54"/>faceret, apud quem non est commutatio, nec momenti obumbratio, sed simplici ac 
+      mi<lb ed="#L" n="55" break="no"/>rabili modo nouit omnia stabiliter atque incommutabiliter. Cur etiam praescientiam &amp; 
+      <lb ed="#L" n="56"/>praedestinationem Dei seu ipsos praedestinatos fundamento, imo &amp; firmo fundamento 
+      <lb ed="#L" n="57"/>comparauit Apostolus, si nulla sit ibi necessitatis firmitas, sed infirmitas maxima, &amp; 
+      <lb ed="#L" n="58"/>maior quam in aliqua re labente continue &amp; fluente, cum in quacunque re tali sit 
+      <!--849.xml-->
+      <pb ed="#A" n="816"/>
+               <lb ed="#L" n="1"/>necessitas sequens firma? Esset enim infirmum &amp; debile fundamentum tam facile de 
+      fectu<lb ed="#L" n="2" break="no"/>rum, vt nunc &amp; pro nunc possit deficere &amp; non esse, essetque incomparabiliter infirmius &amp; 
+      <lb ed="#L" n="3"/>debilius fundamento debilissimo naturali, quod non sic potest. Magis autem videtur quod 
+      <lb ed="#L" n="4"/>per hanc locutionem transumptam, quam praescientiam Dei, seu praedestinatos nominat 
+      sun<lb ed="#L" n="5" break="no"/>damentum, quod est firmissimum &amp; immobilissimum omnium, firmitatem &amp; 
+      immobilita<lb ed="#L" n="6" break="no"/>tem similem intellexit. Nam sicut dicit Philosophus 6. Top. Transtatio facit notum 
+      quo<lb ed="#L" n="7" break="no"/>dammodo quod significatum est per similitudinem; omnes enim transferentes, secundum 
+      <lb ed="#L" n="8"/>aliquam similitudinem transserunt: Quamobrem Glosta dicit, Firmum fundamentum Dei 
+      <lb ed="#L" n="9"/>stat, id est, Illi, quos Deus elegit, &amp; immobiliter in fide fundauit, sicut &amp; vicesimum 
+      septi<lb ed="#L" n="10" break="no"/>mum huius plenius ostendebat. Vnde &amp; Augustinus super illud Psalmi secundi, Firmanit 
+      <lb ed="#L" n="11"/>orbem terrae, qui non commouebitur, Est, inquit, orbis terratum immobilis, qui est, boni 
+      <lb ed="#L" n="12"/>qui stabiles sunt in fide. Firmum enim fundamentum Dei stat, habens signaculum hoc 
+      No<lb ed="#L" n="13" break="no"/>uit Dominus qui sunt eius; iste est orbis terrarum qui non commouebitur; est &amp; orbis 
+      terra<lb ed="#L" n="14" break="no"/>rum mobilis, qui est mali. Hanc etiam firmitatem innuit frequenter Psalmista sub 
+      meta<lb ed="#L" n="15" break="no"/>phora fundamenti, vnde Psalmo 8. Videbo coelos tuos opera digitorum tuorum, Iumina &amp; 
+      <lb ed="#L" n="16"/>stellas quae tu fundasti. Super quod Damascenus in sententijs suis 2I. agens de Planetis, sic 
+      <lb ed="#L" n="17"/>ait; Currunt suum cursum incessabilem, quem conditor statuit eis, &amp; quemadmodum 
+      sun<lb ed="#L" n="18" break="no"/>dauit eos, vt ait Domino Dauid, Lunam &amp; stellas quae tu fundasti. Quia enim dixit, fundasti, 
+      <lb ed="#L" n="19"/>significauit stabilitatem &amp; immutabilitatem a Deo dati eis ordinis &amp; constructionis. Et infra 
+      <lb ed="#L" n="20"/>Psalmo 23. Ipse super matia fundauit eum, scilicet orbem terrarum, id est, Ecclesiam 
+      secun<lb ed="#L" n="21" break="no"/>dum Augustinum, qui exponendo quomodo ipse super maria eam fundauit, subiungit, Ipse 
+      <lb ed="#L" n="22"/>firmissime stabiliuit eam super omnes fluctus saeculi huius, vt ab ea superarentur. Et inferius 
+      <lb ed="#L" n="23"/>Psalmo II8. In generatione, &amp; generatione veritas tua, fundasti terram &amp; permanet. Super 
+      <lb ed="#L" n="24"/>quod Augustinus per generationem &amp; generationem omnes generationes intelligens, sic 
+      <lb ed="#L" n="25"/>subiungit; Cur autem nunquam etiam istis generationibus veritas desit, velut aperiens 
+      cau<lb ed="#L" n="26" break="no"/>fam, Fundasti, inquit, terram &amp; per manet, eos qui in terra sunt, terram nuncupans; 
+      sunda<lb ed="#L" n="27" break="no"/>mentum autem aliud nemo potest ponere, praeter id quod positum est, quod est Christus 
+      Ie<lb ed="#L" n="28" break="no"/>sus. Hanc etiam firmissimam firmitatem sub eadem metaphora innuit Esaias 28. Imo 
+      Do<lb ed="#L" n="29" break="no"/>minus per Esaiam sic dicens, Ecce ego mittam in fundamentis Sion lapidem angularem  
+      <lb ed="#L" n="30"/>probatum, pretiosum, in fundamento fundatum: quam &amp; lapis iste olim ad nos missus 
+      con<lb ed="#L" n="31" break="no"/>firmans, Omnis, inquit, qui audit verba mea haec, &amp; facit ea, assimilabitur viro sapienti, qui  
+      <lb ed="#L" n="32"/>aedificauit domum suam supra petram, &amp; descendit plunia, &amp; venerunt flumina, &amp; flauerunt  
+      <lb ed="#L" n="33"/>venti, &amp; irruerunt in domum illam, &amp; non cecidit; fundata enim erat supra petram, Matt. 7. 
+      <lb ed="#L" n="34"/>Super quod Chrysostomus, Sicut, inquit, Ecclesiae aedificata a Christo dirui non potest, sic 
+      <lb ed="#L" n="35"/>talem Christianum, qui se sse aificauit super Christum, nulla aduersitas deijcere potest. Nec 
+      <lb ed="#L" n="36"/>est contrarium quod quidam de Ecclesia cadunt; non enim omnes qui Christiani dicuntur, 
+      <lb ed="#L" n="37"/>Christi sunt, sed nouit Dominus qui sunt eius. Hanc igitur necessitatem stabilitatis, 
+      immo<lb ed="#L" n="38" break="no"/>bilitatis, &amp; immutabilitatis, atque sequentem reor intellexisse Apostolum, cum dicebat, 
+      Fir<lb ed="#L" n="39" break="no"/>mum fundamentum Dei stat, nouit Dominus qui sunt eius, &amp; Dominum per Esaiam 
+      dicen<lb ed="#L" n="40" break="no"/>tem, Consilium meum stabit: huiusmodi etiam stabilitatem immobilem diuini consilij 
+      in<lb ed="#L" n="41" break="no"/>nuit Dauid dicens, Consilium autem Domini in aeternum manet, cogitationes cordis eius in 
+      <lb ed="#L" n="42"/>generatione &amp; generationem, Psalmo 32. Glossa, id est, non mutabiles sed aeternae, sicut &amp; 
+      <lb ed="#L" n="43"/>praedestinatio eius immutabilis est, in qua omnia reposita sunt: vbi &amp; Augustinus tractaru 
+      <lb ed="#L" n="44"/>primo, Cogitationes sapientiae eius non sunt mutabiles, sed manentes in saeculum saeculi. 
+      <lb ed="#L" n="45"/>Quod &amp; planissime docens Apostolus ad Heb. 6. Volens, inquit, Deus ostendere 
+      pollicitati<lb ed="#L" n="46" break="no"/>onis haeredibus immobilitatem consilij sui, interposuit iusiurandum, vt per duas res 
+      immo<lb ed="#L" n="47" break="no"/>biles, quibus impossibile est mentiri Deum, firmissimum solatium habeamus, qui 
+      confugi<lb ed="#L" n="48" break="no"/>mus ad tenendam propositam spem, quam habemus sicut anchoram animae tutam ac firmam. 
+      <lb ed="#L" n="49"/>Glossa, Per duas res immobiles, id est, per promissionem &amp; iuramentum; vult ergo 
+      Apo<lb ed="#L" n="50" break="no"/>stolus, quod consilium, pollicitatio, &amp; iusiurandum Dei tanta immobilitate firmentur, quod 
+      <lb ed="#L" n="51"/>Deus non potest oppositum, sicut non potest mentiri. Cui &amp; concordat illud Numer. 23. 
+      <lb ed="#L" n="52"/>Non est Deus quasi homo vt mentiatur, nec vt filius hominis vt mutetur; dixit ergo &amp;t non  
+      <lb ed="#L" n="53"/>faciet? Locutus est, &amp; non implebit? Et illud Psalmi 88. Semel iuraui in sancto meo, si 
+      <lb ed="#L" n="54"/>Dauidi mentiar. Cassiodorus, Semel, id est, immutabiliter; quomodo &amp; Augustinus 5. de 
+      <lb ed="#L" n="55"/>Ciuit. Dei 9. &amp; De spiritu &amp; litera 29. &amp; Isidorus 8. Eth. 45. exponit illud Psalmi8i. Semel 
+      <lb ed="#L" n="56"/>locutus est Deus, id est, immutabiliter, hoc est, incommutabiliter locutus est, sicut nouit 
+      in<lb ed="#L" n="57" break="no"/>commutabiliter omnia quae futura sunt, &amp; quae facturus est, sicut vicesimum septimum 
+      hu<lb ed="#L" n="58" break="no"/>ius plenius allegauit. Hoc idem testantur multae autoritates Scripturae canonicae &amp; Doctorum 
+      <!--850.xml-->
+      <pb ed="#A" n="817"/>
+               <lb ed="#L" n="1"/>de iuramento Dei loquentis 470. huius scriptae; Similes quoque quamplurimae 230. primi 
+      <lb ed="#L" n="2"/>dicunt similiter Deum nosse immutabiliter &amp; incommutabiliter omnia atque velle. Ad haec 
+      <lb ed="#L" n="3"/>fortassis quisnam defensor opinionis contrariae respondebit dicendo, quod verum est Deum  
+      <lb ed="#L" n="4"/>omnia immutabiliter velle &amp; nosse, quia non potest in volutione aut cognitione mutari; 
+      po<lb ed="#L" n="5" break="no"/>test tamen sine mutatione quacunque futurum quod semper voluit &amp; praesciuit, vult nunc &amp; 
+      <lb ed="#L" n="6"/>praescit, nunquam voluisse nec praesciuisse, &amp; nunc non velle nec praescire, sed eius 
+      opposi<lb ed="#L" n="7" break="no"/>tum nunc &amp; prius; quare non infert Deum velle &amp; nolle futura necessario necessitate 
+      se<lb ed="#L" n="8" break="no"/>quente praedicta. Haec autem responsio per prius ostensa 30. &amp; 3I. &amp; specialiter 320. 
+      hu<lb ed="#L" n="9" break="no"/>ius tertij corrigetur. Innuunt enim quaedam autoritates tactae hic &amp; ibi, Deum esse 
+      menda<lb ed="#L" n="10" break="no"/>cem si non eueniat quod praedixit; si tamen sine mutatione quacunque posset non 
+      praedixis<lb ed="#L" n="11" break="no"/>se quod praedixit, nullatenus sequeretur sicut illo 320. plenius est ostensum; nec est maior 
+      <lb ed="#L" n="12"/>necessitas in praedictis a Deo, quam in simpliciter praeuolutis &amp; praescitis, sicut 4oum. huius 
+      <lb ed="#L" n="13"/>B ostendit; Deus ergo non potest non scire, nec non velle futura quae scit &amp; vult nisi mutetur, 
+      <lb ed="#L" n="14"/>sicut idem 32um, ostendit; quare pro nunc non potest non scire, aut non velle quod nunc 
+      <lb ed="#L" n="15"/>scit &amp; vult. Huius autem 32i. rationibus per viam mutabilitatis &amp; immutabilitatis praemissis 
+      <lb ed="#L" n="16"/>innititur Robertus Lincolniensis de libero arbitrio 4. vbi recitata opinione dicente quod haec 
+      <lb ed="#L" n="17"/>non est necessaria, Deus scit A. fore, si sit A. vnum contingens futurum, quia potest non scire 
+      <lb ed="#L" n="18"/>A. antequam A. sit; vnde sicut est vel non est A. sic sit sciens &amp; non sciens A. scilicet 
+      necessa<lb ed="#L" n="19" break="no"/>rio: &amp; haec est opinio contraria, &amp; hypothesis principalis subiungit, Sed hacratione dicere 
+      <lb ed="#L" n="20"/>dictam propositionem non esse necessariam, aperte impium est, quia hoc dicere est dicere 
+      De<lb ed="#L" n="21" break="no"/>um esse mutabilem secundum scientiam. Primo ergo obuiandum est autoritatibus huic 
+      im<lb ed="#L" n="22" break="no"/>pietati, quibus patebit ipsum immutabiliter &amp; semper &amp; aeternaliter scire omnia, &amp; adducit 
+      <lb ed="#L" n="23"/>multas autoritates dicentes Deum scire &amp; velle immutabiliter vniuersa, sicut superius erat 
+      ta<lb ed="#L" n="24" break="no"/>ctum. Qui &amp; infra quinto reprobata opinione praedicta per autoritates, &amp; per aliquas 
+      ratio<lb ed="#L" n="25" break="no"/>nes subiungit; Item Deus scit A. aut ergo potest nescire A. aut non potest; Si non potest ne¬ 
+      <lb ed="#L" n="26"/>scire A. ergo necessario scit A. Si autem potest nescire A. ergo potest fieri de sciente A. 
+      nesci<lb ed="#L" n="27" break="no"/>ens A. ergo potest mutari &amp; alterari, quod est impossibile. Idem infra 9. vbi finaliter 
+      deter<lb ed="#L" n="28" break="no"/>minando respondet, dicit Deum consideratum quatenus praecedit causaliter suos actus 
+      vo<lb ed="#L" n="29" break="no"/>lendi, &amp; sciendi, posse non agere illos actus; Consideratum vero quatenus actualiter agit 
+      il<lb ed="#L" n="30" break="no"/>los non posse cum sit immutabilis; vnde sic ait, Potest haec praedicatio, Deus potest non velle 
+      <lb ed="#L" n="31"/>aut non scire A. redire super ipsum consideratum in ratione agentis vnum oppositorum, &amp;  
+      <lb ed="#L" n="32"/>sic est impossibile ipsum non velle quod vult, vel non scire quod scit: Est enim in Dei natura 
+      <lb ed="#L" n="33"/>posse ad vtrumque, quia causaliter precedit vtrumque; sed super ipsum agens alterum cum sit 
+      <lb ed="#L" n="34"/>immutabilis, non est posse ad oppositum eius quod in actu est. Similibus argumentis de // 
+      mu<lb ed="#L" n="35" break="no"/>tabilitate innititur sanctus Thomas 1. part. summae, quaest. 19. Artic. 3. &amp; I. contra Gent. 83. 
+      <lb ed="#L" n="36"/>sicut erat superius recitatum. Quomodo etiam si sic esset, sicut dicit responsio, saluaretur 
+      <lb ed="#L" n="37"/>in Dei scientia firmitas, &amp; fundamentalis stabilitas praeostensa? Quomodo etiam, si sic esset, 
+      <lb ed="#L" n="38"/>per pollicitationem &amp; iusiurandum Dei de quoquam futuro secundum Apostolum 
+      fortissi<lb ed="#L" n="39" break="no"/>mum solatium haberemus, sicut 32. huius magis ostendit? Quomodo namque haberemus 
+      <lb ed="#L" n="40"/>fortissimum solatium de re tam debili, que pro tempore vel instanti quo est aut fuit, potest 
+      <lb ed="#L" n="41"/>non esse &amp; non fuisse, imo &amp; de re debiliori incomparabiliter in essendo debilissima creatura? 
+      <lb ed="#L" n="42"/>Nam quaelibet creatura est fortior &amp; constantior in essendo: Ipsam namque, dum est, necesse 
+      <lb ed="#L" n="43"/>est esse, &amp; fuisse si fuit. Quomodo etiam si sic esset, dixisset Apostolus spem nostram de 
+      pro<lb ed="#L" n="44" break="no"/>missis huiusmodi esse sicut anchoram animae tutam ac firmam? Qualis namque securitas aut  
+      <lb ed="#L" n="45"/>firmitas in huiusmodi anchora, quae, etsi nunc firmius quo posset haereret, in praeteritoque 
+      <lb ed="#L" n="46"/>haesisset debito fundamento, posset nunc &amp; pro nunc solui &amp; omnino decipere, &amp; in 
+      praeteri<lb ed="#L" n="47" break="no"/>to semper fuisse soluta, &amp; totaliter decepisse? Huiusmodi igitur anchora, si ponatur, est 
+      inse<lb ed="#L" n="48" break="no"/>curior, infirmior &amp; instabilior omni vento &amp; mari, ac re fluxibili qualicunque. Quis igitur 
+      an<lb ed="#L" n="49" break="no"/>chora tali confisus tempestuosissimo pelago se exponet? Quis igitur in mari magno &amp; 
+      pericu<lb ed="#L" n="50" break="no"/>losissimo hoc mundi per huiusmodi anchoram tutus erit? Quamobrem videtur mihi 
+      Apo<lb ed="#L" n="51" break="no"/>stolum per istam locutionem transumptam ab anchora, quae est firmissima rerum nauis, 
+      to<lb ed="#L" n="52" break="no"/>tamque nauem stabiliens atque firmans, dum tamen inhaereat alicui firmiori, figuraliter 
+      innu<lb ed="#L" n="53" break="no"/>isse securitatem &amp; firmitatem stabilissimam spei nostrae, quae est sicut anchora nauis petri 
+      ia<lb ed="#L" n="54" break="no"/>ctate fluctibus &amp; vento contrario huius mundi; &amp; quod haec anchora spei nostrae non est tuta 
+      <lb ed="#L" n="55"/>&amp; firma de seipsa, sed ex adhesione &amp; alligatione ad aliquid magis firmum, puta ad 
+      immobi<lb ed="#L" n="56" break="no"/>litatem diuini consilij, &amp; ad duas res immobiles supra dictas, quas impossibile est deficere aut  
+      <lb ed="#L" n="57"/>non esse, sicut Deum impossibile est mentiri. Haec autem ratio huius transumptionis 
+      simili<lb ed="#L" n="58" break="no"/>ter potest ostendi, sicut responsio transumptionis de fundamento superius est ostensa. Prae¬ 
+      <!--851.xml-->
+      <pb ed="#A" n="818"/>
+               <lb ed="#L" n="1"/>terea verba sacrae Scripturae &amp; Doctorum accipienda sunt ad modum intelligendi &amp; 
+      loquen<lb ed="#L" n="2" break="no"/>di solitum &amp; communem, sicut erat ostensum quadragesimo quinto primi: non est autem 
+      <lb ed="#L" n="3"/>modus intelligendi aut loquendi solitus &amp; communis, sed valde insolitus &amp; multum 
+      extra<lb ed="#L" n="4" break="no"/>neus, &amp; vix inter fallaces Sophistas admissus, dicere Deum statuere seu statuisse, voluisse seu 
+      <lb ed="#L" n="5"/>velle immutabiliter quicquam fore, quod sine mutatione quacunque potest nunquam hoc 
+      <lb ed="#L" n="6"/>statuisse aut voluisse, nec nunc statuere hoc aut velle; Imo &amp; consuetus &amp; communis modus 
+      <lb ed="#L" n="7"/>intelligendi &amp; loquendi videtur in talibus pro eodem habere immutabiliter, &amp; non posse 
+      ali<lb ed="#L" n="8" break="no"/>ter &amp; necessario, &amp; ea conuertibilia reputare; quare &amp; Doctores Parisienses necessitatem 
+      se<lb ed="#L" n="9" break="no"/>quentem praedictam, necessitatem immutabilitatis &amp; immobilitatis appellant. Vnde &amp; 
+      An<lb ed="#L" n="10" break="no"/>nelmus 2. Cur Deus homo 17. quasi per totum, habet pro eodem &amp; promiscue accipit 
+      immu<lb ed="#L" n="11" break="no"/>tabiliter esse vel fore, &amp; non posse, non esse, vel fore, &amp; necessario esse vel fore; vbi 
+      <lb ed="#L" n="12"/>&amp; hanc necessitatem sequentem spontaneam asserens per modum dialogi inter Anselmum 
+      <lb ed="#L" n="13"/>&amp; Bosonem de Christo sic scribit: Quoniam eidem subiacent rationi, scilicet mori &amp; velle 
+      <lb ed="#L" n="14"/>mori, vtrumque videtur in illo necessitate fuisse. A. Quis se sponte voluit hominem 
+      face<lb ed="#L" n="15" break="no"/>re, vt eadem imtnutabili voluntate moreretur, &amp; per huius fidem certitudinis virgo 
+      mun<lb ed="#L" n="16" break="no"/>da fieret, de qua homo ille assumeretur? B. Deus, filius Dei. A. Nonne supra 
+      monstra<lb ed="#L" n="17" break="no"/>tum est, quod Dei voluntas nulla cogitur necessitate, sed ipsa se spontanea sua seruat 
+      im<lb ed="#L" n="18" break="no"/>mutabilitate, quando aliquid dicitur necessitate facere? B. vere monstratum est; sed 
+      vide<lb ed="#L" n="19" break="no"/>mus e contra; quia quod Deus immutabiliter vult, non potest non esse, sed necesse est 
+      <lb ed="#L" n="20"/>esse: Quapropter si Deus voluit vt homo ille moreretur, non potuit non mori. A. ex eo 
+      <lb ed="#L" n="21"/>quia filius Dei assumpsit hominem ea voluntate vt moreretur, probans eundem 
+      homi<lb ed="#L" n="22" break="no"/>nem non potuisse non mori. B. ita intelligo. A. Annon similiter apparuit ex his quae 
+      di<lb ed="#L" n="23" break="no"/>cta sunt, filium Dei &amp; assumptum hominem vnam esse personam, vt idem sit Deus &amp; homo 
+      <lb ed="#L" n="24"/>filius Dei, &amp; filius virginis? B. sic est. A. Idem igitur homo sua voluntate non potuit non 
+      mo<lb ed="#L" n="25" break="no"/>ri, &amp; mortuus est. B. negare nequeo. Qui &amp; infra eodem vult plane, quod si Deus 
+      propo<lb ed="#L" n="26" break="no"/>nit aliquid immutabiliter se facturum, illud necessario faciet, non tamen necessitate violenta 
+      <lb ed="#L" n="27"/>aut contraria, sed consentanea libertati; quod &amp; adhuc inferius in eodem per distinctionem 
+      <lb ed="#L" n="28"/>de necessitate superius recitatam elucidat &amp; serenat. Qui &amp; de Concord. 3. Quae tempore, 
+      <lb ed="#L" n="29"/>inquit, praeterita sunt ad similitudinem aeterni praesentis, omnino immutabilia sunt; in hoc 
+      si<lb ed="#L" n="30" break="no"/>quidem magis similia sunt aeterno praesenti temporaliter praeterita quam paesentia, quoniam  
+      <lb ed="#L" n="31"/>quae ibi, scilicet in aeternitate sunt, nunquam possunt non esse praesentia, sicut temporis 
+      prae<lb ed="#L" n="32" break="no"/>terita non valent vnquam non esse praeterita; Praesentia vero tempore omnia quae 
+      tran<lb ed="#L" n="33" break="no"/>seunt fiunt non praesentia: &amp; infra 4. immediate subiungit; Hoc ergo modo quicquid 
+      <lb ed="#L" n="34"/>de his quae libero fiunt arbitrio, velut necessarium Sacra Scriptura pronuntiat, 
+      secun<lb ed="#L" n="35" break="no"/>dum aeternitatem loquitur in qua praesens est omne verum, &amp; non nisi vetum 
+      immu<lb ed="#L" n="36" break="no"/>tabiliter. Ecce quomodo indifferenter accipit &amp; habet pro eodem, esse immutabile, T 
+      <lb ed="#L" n="37"/>seu immutabiliter non posse non esse, &amp; necessarium, seu necessario quicquam esse, 
+      <lb ed="#L" n="38"/>necessitate scilicet, quam eisdem locis sequentem appellat, sicut superius erat tactum. 
+      <lb ed="#L" n="39"/>Quare &amp; Robertus Lincolniensis, De libero arbitrio. 4. recitatis Autoritatibus 
+      Augu<lb ed="#L" n="40" break="no"/>stini 5. super Genes. 19. ac alijs hic supra; &amp; vicesimo tertio primi praemissis, qui 
+      di<lb ed="#L" n="41" break="no"/>cunt Deum immutabiliter cuncta scire, quinto capit. sic concludit, Ex his autoritatibus 
+      <lb ed="#L" n="42"/>euidenter patet, quod omnia scit Deus vnico indiuisibili simplicique conspectu 
+      aeterna<lb ed="#L" n="43" break="no"/>liter, semper, Lsimiliter, T immutabiliter: Quapropter quod scit non potest in 
+      poste<lb ed="#L" n="44" break="no"/>rum nescire. Et sequitur, Ergo omni eodem modo quo necesse est Deum scue res cum 
+      <lb ed="#L" n="45"/>sunt, vel cum praeteritae sunt, necesse est eum scire easdem antequam sint; Sed cum 
+      <lb ed="#L" n="46"/>res sunt, vel praeteritae sunt, habet eius scientia necessitatem consequentem; ergo &amp; 
+      <lb ed="#L" n="47"/>eandem necessitatem habet antequam res eueniant. Qui &amp; infra 6. allegat Augustinum 
+      <lb ed="#L" n="48"/>dicentem Ideas in Deo, quas &amp; exemplaria nominat, esse immortales, immutabiles, 
+      <lb ed="#L" n="49"/>inuariabiles, aeternas &amp; infatigabiles: Vnde &amp; concludit, Ex his patenter habetur 
+      ex<lb ed="#L" n="50" break="no"/>emplaria esse necessaria; Sacra igitur Scriptura, Glossae, &amp; Doctores dicentes Deum  
+      <lb ed="#L" n="51"/>immutabiliter, incommutabiliter, &amp; immobiliter scire, velle, statuere, &amp; caetera talia, 
+      in<lb ed="#L" n="52" break="no"/>telligunt quod non est possibile aliter, &amp; quod necessario ita facit, necessario, inquam,  
+      <lb ed="#L" n="53"/>necessitate sequente praedicta. Neque pro minimo computandum quod Robertus 
+      <lb ed="#L" n="54"/>Lincolniensis, Sanctus Thomas, &amp; alij Doctores Parisienses, opinionem huic 
+      ne<lb ed="#L" n="55" break="no"/>cessitati contrariam, &amp; hypothesin principalem sub propria forma sua concorditer 
+      re<lb ed="#L" n="56" break="no"/>citant, reprobant, &amp; condemnant, sicut praehabita aliquantulum recitarunt; 
+      Qua<lb ed="#L" n="57" break="no"/>re haud dubie responsionem istam secundum hanc necessitatem sequentem 
+      appro<lb ed="#L" n="58" break="no"/>bant &amp; affirmant, cum non sit possibile assignare rationabile medium inter istas, sicut 
+      <!--852.xml-->
+      <pb ed="#A" n="819"/>
+               <lb ed="#L" n="1"/>(capitula) praecedentia manifestant. Doctores similiter Oxonienses negant necessitatem ab¬ 
+      <lb ed="#L" n="2"/>solutam in talibus, aliam vero quandam concedunt, quam vocant similiter ordinatam, seu 
+      <lb ed="#L" n="3"/>necessitatem de lege ordinata siue statura; quae secundum praeostensa quadragesimo nono 
+      <lb ed="#L" n="4"/>huius, non potest recte intelligi alia quam necessitas ista sequens. Voluntas namque diuina 
+      <lb ed="#L" n="5"/>quoad extrinseca voluta recte dicitur ordinata, &amp; lex similiter ordinata siue statuta; quia sicut 
+      <lb ed="#L" n="6"/>Legislator vel alius quilibet ordinator, primo saltem natura cogitat haec &amp; illa, deinde libere 
+      <lb ed="#L" n="7"/>ordinat seu statuit vnum certum; sic &amp; Deus Rex &amp; Legifer vniuersi; cogitato posse fieri 
+      <lb ed="#L" n="8"/>haec &amp; illa, liberrime statuens ordinauit haec fieri, &amp; non illa; &amp; haec est lex vniuersalis, statura, 
+      <lb ed="#L" n="9"/>posita, ordinata, ordinans, regulans, &amp; moderans vniuersum, sicut patet vicesimo primo 
+      <lb ed="#L" n="10"/>primi. Dicitur quoque necessitas, quia sicut lex mere positiua liberrime, &amp; sine quacunque 
+      <lb ed="#L" n="11"/>necessitate impellente statura ab homine, ex tunc est necessaria necessitate sequente, &amp; 
+      neces<lb ed="#L" n="12" break="no"/>sitate huiusmodi ordinata, in tantum quod secundum Iuristas illud dicitur possibile vel 
+      im<lb ed="#L" n="13" break="no"/>possibile, quod est possibile impossibilcue de Iure: sic &amp; voluntas diuina, quanquam sine 
+      <lb ed="#L" n="14"/>quacunque necessitate praecedente, contingentissime, &amp; liberrime ordinata, posita, &amp; 
+      statu<lb ed="#L" n="15" break="no"/>ta simili necessitate firmatur. Istam autem sententiam roborare videntur praemissa de fato, 
+      <lb ed="#L" n="16"/>vicesimo octauo primi, &amp; vicesimo septimo tertij. Innuunt namque concorditer omnes 
+      Au<lb ed="#L" n="17" break="no"/>tores ponentes fatum a famine Dei dictum, &amp; talem necessitatem fatalem, Deum sicut &amp; 
+      ho<lb ed="#L" n="18" break="no"/>minem libere secundum contradictionem fari ad extra, ipsum tamen fari dum fatur, sicut &amp; 
+      <lb ed="#L" n="19"/>hominem loqui dum loquitur esse necesse, necessitate scilicet ordinata siue sequente predicta, 
+      <lb ed="#L" n="20"/>quae esse quodcunque necessario sequitur comitando, quam omne quod est, quando est, necesse 
+      <lb ed="#L" n="21"/>est esse. Fatum enim, recitante Isidoro 8. Eth. 45. &amp; 46. Antiqui dixerunt quicquid Dij 
+      fan<lb ed="#L" n="22" break="no"/>tur, appositumque singulis &amp; statutum: quare &amp; Philosophus in De mundo vlt. dicit, quod 
+      <lb ed="#L" n="23"/>tria sunt statura fatorum secundum totidem tempora, quae in alia transtatione dicuntur tres 
+      <lb ed="#L" n="24"/>Parcae; quae secundum Papiam in elementario suo, &amp; Isidorum 8. Eth. 45. &amp; Grammaticos 
+      <lb ed="#L" n="25"/>alios, eo quod nemini parcant, seu minime parcant, &amp; amteam sic dicuntur, Atropos in 
+      <lb ed="#L" n="26"/>praeterito, Lachesis seu Lichesis in futuro, &amp; Cloto in praesenti, perficiens vt dicit 
+      Philoso<lb ed="#L" n="27" break="no"/>phus vbi prius &amp; torquens vnicuique propria; &amp; addit, Perficitur autem &amp; fabula non 
+      inor<lb ed="#L" n="28" break="no"/>dinate: sunt autem haec omnia nihil aliud nisi Deus, quemadmodum &amp; strenuus ait 
+      Plato<lb ed="#L" n="29" break="no"/>Qui &amp; supra 13. dicit quod in maiori ciuitate, in mundo videlicet, Deus est lex aeque 
+      decli<lb ed="#L" n="30" break="no"/>nans, in alia transtatione aequalis, nullam recipiens corruptionem, aut transpositionem, 
+      <lb ed="#L" n="31"/>in alia transtatione directionem aut transpositionem, maior autem &amp; certior eis 
+      Scrip<lb ed="#L" n="32" break="no"/>turis quae sunt in cirbesibus, secundum aliam transtationem, melius autem &amp; firmius 
+      la<lb ed="#L" n="33" break="no"/>pidibus scriptis. Scripturae namque in Iapidibus primo libere &amp; contingenter scribuntur, 
+      <lb ed="#L" n="34"/>sed postquam sunt scriptae, necessario manent scriptae, vel saltem necessario tunc sunt 
+      scrip<lb ed="#L" n="35" break="no"/>tae necessitate sequente praedicta, sic &amp; scriptura firmior libri Dei; vbi &amp; subditur 
+      conse<lb ed="#L" n="36" break="no"/>quenter, quo gubernante semper immobiliter &amp; diligenter regitur totus decor coeli &amp; 
+      ter<lb ed="#L" n="37" break="no"/>rae, &amp; omnia generantur, crescunt, &amp; corrumpuntur diuinis parentia decretis. Istam 
+      quo<lb ed="#L" n="38" break="no"/>que sententiam firmat Hermes De verbo aeterno 43. &amp; de mundo &amp; coelo 1. ostendens 
+      <lb ed="#L" n="39"/>quod rerum necessitas est a lege diuina; dicit enim quod haec tria, Aeimarmene, 
+      neces<lb ed="#L" n="40" break="no"/>sitas, &amp; ordo, nutu Dei maxime sunt effecta, quae mundum gubernant sua lege, &amp; 
+      ra<lb ed="#L" n="41" break="no"/>tione diuina, dicitque textum operis, fatalem seriem, saeculorum dispositionem, metam 
+      <lb ed="#L" n="42"/>temporalium omnium, &amp; vniuersaliter omnia esse illic, puta in Deo, summi 
+      disposito<lb ed="#L" n="43" break="no"/>ris digito exarata, sicut vicesimum septimum huius plenius recitauit. Vnde &amp; Propheta, 
+      <lb ed="#L" n="44"/>In aeternum, Domine, verbum tuum permanet in coelo; in generatione veritas tua; 
+      fun<lb ed="#L" n="45" break="no"/>dasti terram &amp; permanet; ordinatione tua perseuerat dies quoniam omnia seruiunt tibi, 
+      <lb ed="#L" n="46"/>nisi quod lex tua meditatio mea est, &amp;c. Psalmo II8. Ecce ordinatio legitima Domini 
+      <lb ed="#L" n="47"/>coelestia, terrestria, &amp; vniuersaliter omnia comprehendens: Ecce lex Domini 
+      completis<lb ed="#L" n="48" break="no"/>sime ordinata firma necessitate, &amp; necessaria firmitate aeternaliter perseuerans: haec enim 
+      <lb ed="#L" n="49"/>verba Prophetae immutabilitatem &amp; necessitatem important. Dicit enim Augustinus 
+      de<lb ed="#L" n="50" break="no"/>cimo quinto de Trinitate 20. Neque enim ob aliud scriptum est, Multae cogitationes in 
+      <lb ed="#L" n="51"/>corde viri, consilium autem Domini manet in aeternum, nisi vt intelligamus siue 
+      creda<lb ed="#L" n="52" break="no"/>mus sicut in aeternum Deum, ita aeternum eius esse consilium, ac per hoc immutabile 
+      <lb ed="#L" n="53"/>sicut ipse est: Quod autem de cogitationibus, hoc etiam de voluntatibus verissime 
+      di<lb ed="#L" n="54" break="no"/>ci potest, Multae voluntates in corde viri, voluntas autem Domini manet in aeternum. 
+      <lb ed="#L" n="55"/>Psalmus quoque tricesimus secundus, Consilium, inquit, Domini in aeternum manet,  
+      <lb ed="#L" n="56"/>cogitationes cordis eius in generatione &amp; generationem: Super quod Augustinus 
+      tra<lb ed="#L" n="57" break="no"/>ctatu primo, Cogitationes sapientiae eius non sunt mutabiles, sed manentes in saeculum 
+      <lb ed="#L" n="58"/>saeculi; vbi &amp; Glossa, id est, non sunt mutabiles, sed aeternae, &amp; praedestinatio eius im¬ 
+      <!--853.xml-->
+      <pb ed="#A" n="820"/>
+               <lb ed="#L" n="1"/>mutabilis est in qua omnia reposita sunt. Dicitque Cassiodorus super illud Psalmi IIB. 
+      <lb ed="#L" n="2"/>superius allegatum, O Domine, permanet verbum tuum in coelo, quia ad literam, solennis 
+      <lb ed="#L" n="3"/>ordo coelestium permanet statutorum. Annus enim per dies &amp; menses labitur, &amp; eisdem  
+      <lb ed="#L" n="4"/>vicissitudinibus redit conuersio Solis &amp; Lunae, &amp; omnium lex semel constituta 
+      immuta<lb ed="#L" n="5" break="no"/>bilis manet. Et infra, in generatione &amp; generationem veritas tua, id est, in omni 
+      gene<lb ed="#L" n="6" break="no"/>ratione, Fundasti terram, id est, Ecclesiam fide, &amp; permanet. Non enim ad literam de 
+      <lb ed="#L" n="7"/>tetra, quae mouenda est, hoc dici potest: Christus autem est fundamentum, praeter quod 
+      <lb ed="#L" n="8"/>nemo potest aliud ponere, in quo hi, qui non sunt ancillae filij, permanent. Nam sequitur, 
+      <lb ed="#L" n="9"/>Ordinatione tua perseuerat dies. Haec enim supra dicta, quod verbum in coelo, quod 
+      <lb ed="#L" n="10"/>veritas in generatione, quod terra fundata est, sunt dies quem fecit Dominus, cui Christus 
+      <lb ed="#L" n="11"/>Sol iustitiae quicquid vrgeat nunquam occidit, &amp; eum in futuro // perficiet nullo fine 
+      clau<lb ed="#L" n="12" break="no"/>dendum. Et bene dico Verbum in coelo veritas, &amp; in generatione terra fundata, quoniam  
+      <lb ed="#L" n="13"/>omnia quae pertinent ad hunc diem seruiunt tibi; ad literam, Omnia temporalia &amp; aeterna 
+      <lb ed="#L" n="14"/>suo nutu disponit. Fundasti, inquit, terram &amp; permanet; fundatio autem &amp; 
+      fundamen<lb ed="#L" n="15" break="no"/>tum immutabilem stabilitatem &amp; necessitatem important, sicut superius est ostensum. 
+      <lb ed="#L" n="16"/>Vnde &amp; infra eodem, Initio cognoui de testimonijs tuis quod in aeternum fundasti 
+      ea<lb ed="#L" n="17" break="no"/>Similem etiam sententiam innuunt verba huiusmodi, Confirmata est super nos misericordia 
+      <lb ed="#L" n="18"/>eius, &amp; veritas Domini manet in aeternum, Psalmo II6. Firmauit orbem terrae qui non  
+      <lb ed="#L" n="19"/>commouebitur, Psalmo 92. vbi dicit Augustinus quod est immobilis, sicut erat superius 
+      alle<lb ed="#L" n="20" break="no"/>gatum. Qui confidunt in Domino, sicut mons Sion, non commouebitur in aeternum, &amp;c. 
+      <lb ed="#L" n="21"/>Psalmo 124. vbi Cassiodorus ostendit confidentes in Domino non posse moueri, non 
+      incli<lb ed="#L" n="22" break="no"/>nabitur in saeculum saeculi, scilicet terra, Psalmo 103. vbi Cassiodorus, Non potest dici de 
+      <lb ed="#L" n="23"/>terra quae legitur transitura; mystice vero recte accipi potest Ecclesiae super Christum 
+      fun<lb ed="#L" n="24" break="no"/>data, quae inclinari non potest. Montes commouebuntur, &amp; colles contremiscent, 
+      miseri<lb ed="#L" n="25" break="no"/>cordia autem mea non recedet a te, &amp; foedus pacis meae non mouebitur, dixit Miserator tuus 
+      <lb ed="#L" n="26"/>Dominus, Esaiae 54. Coelum &amp; terra transibunt, verba autem mea non transibunt, seu 
+      trans<lb ed="#L" n="27" break="no"/>ient, Matth. 24. &amp; multa similia cum expositionibus suis &amp; glossis 27. huius scripta. His 
+      si<lb ed="#L" n="28" break="no"/>militer consonat illud lerem. 5. Posui arenam terminum maris, praeceptum sempiternum 
+      <lb ed="#L" n="29"/>quod non praeteribit, &amp; commouebuntur, &amp; non poterunt, &amp; intumescent fluctus eius, &amp; 
+      <lb ed="#L" n="30"/>non pertransibunt illud; terminum tribulationum insinuans &amp; laborum, vt patet per 
+      exposi<lb ed="#L" n="31" break="no"/>tiones praemissas 46. primi. Et rursum illud Psalmi 148. Statuitea in aeternum &amp; in saeculum 
+      <lb ed="#L" n="32"/>saeculi, praeceptum posuit, &amp; non praeteribit. Vnde beatus Gregorius 16. Moral. 15. super 
+      il<lb ed="#L" n="33" break="no"/>lud Iob23. Nemo auertere potest cogitationes eius, scilicet Dei, sic ait, De cuius 
+      immutabi<lb ed="#L" n="34" break="no"/>litate apte subiungitur, Nemo auertere potest cogitationes eius: sicut enim immutabilis est. 
+      <lb ed="#L" n="35"/>natura, ita immutabilis est cogitatione. Dicat ergo, &amp; nemo auertere potest cogitationes 
+      <lb ed="#L" n="36"/>eius, quia semel fixa iudicia mutari nequaquam possunt; vnde scriptum est, praeceptum 
+      po<lb ed="#L" n="37" break="no"/>suit, &amp; non praeteribit: &amp; rursum, Coelum &amp; terra transibunt, verba autem mea non 
+      transi<lb ed="#L" n="38" break="no"/>ent: Et rursum, Non enim cogitationes meae sicut cogitationes vestrae, neque viae meae sicut 
+      <lb ed="#L" n="39"/>viae vestrae. Cum ergo exterius mutari videtur sententia, interius consilium non mutatur. 
+      <lb ed="#L" n="40"/>quia de vnaquaque re immutabiliter intus constituitur, quicquid foris mutabiliter agitur. 
+      <lb ed="#L" n="41"/>Cui &amp; concorditer Augustinus in sententijs Prosperi, propositione 169. Cogitatio, 
+      in<lb ed="#L" n="42" break="no"/>quit, &amp; recogitatio Dei mutandarum rerum est incommutabilis ratio. Neque enim, sicut 
+      <lb ed="#L" n="43"/>hominem, ita Deum cuiusquam facti sui poenitet, cuius de omnibus omnino rebus tam 
+      <lb ed="#L" n="44"/>fixa est sententia quam certa praescientia: quibus nec discorditer Esaias, Dominus 
+      exerci<lb ed="#L" n="45" break="no"/>tuum, inquit, decreuit, &amp; quis poterit infirmare? Es. 14. Olossa, hoc est, mutari non potest. 
+      <lb ed="#L" n="46"/>Hanc eandem necessitatem secundum legem, vt praemittitur, ordinatam euidenter 
+      insinu<lb ed="#L" n="47" break="no"/>ant Autoritates de necessitate stabilitatis, immobilitatis, &amp; immutabilitatis praemissae: nec 
+      <lb ed="#L" n="48"/>minus euidenter eam ostendunt Autoritates de iuramento diuino, quadragesimo septimo 
+      hu<lb ed="#L" n="49" break="no"/>ius praemissae propter immutabilitatem &amp; necessitatem in eo contentam, maxime cum 
+      secun<lb ed="#L" n="50" break="no"/>dum ibi ostensa, omnis sermo Dei intrinsecus respectu exteriorum aequali necessitate 
+      firme<lb ed="#L" n="51" break="no"/>tur, &amp; aequipolleat iuramento. Eandem similiter innuunt Autoritates illo quadragesimo 
+      <lb ed="#L" n="52"/>septimo allegatae, dicentes praedictiones &amp; promissiones diuinas necessario adimplendas, 
+      <lb ed="#L" n="53"/>maxime cum non necessitas sit maior in talibus, quam in quibuslibet scitis Dei ad extra, sicut 
+      <lb ed="#L" n="54"/>proximum huius docet: sed tota necessitas, quae est ibi, est ex firma praesentialitate, &amp; 
+      praesen<lb ed="#L" n="55" break="no"/>tanea firmitate actus, cognitionis, &amp; volutionis diuinae, qua eum, sicut &amp; praesentia caetera, 
+      <lb ed="#L" n="56"/>&amp; actus caeteros qualescunque dum est, necesse est esse necessitate sequente &amp; ordinata 
+      <lb ed="#L" n="57"/>praedicta. Amplius autem &amp; hanc eandem necessitatem ordinatam, vt praemittitur, &amp; 
+      <lb ed="#L" n="58"/>sequentem concorditer innuunt omnes Autores, ponentes fatum a famine Dei di 
+      <!--854.xml-->
+      <pb ed="#A" n="821"/>
+               <lb ed="#L" n="1"/>&amp; talem necessitatem fatalem, sicut superius monstrabatur; Quot autem &amp; quanti 
+      Au<lb ed="#L" n="2" break="no"/>tores &amp; Doctores Philosophici &amp; Theologici ponunt explicite &amp; implicite istam necessitatem 
+      <lb ed="#L" n="3"/>fatalem, sicut vigesimum octauum primi, &amp; vigesimum septimum huius docent? Quid 
+      <lb ed="#L" n="4"/>enim aliud significat intransibilitas, immutabilitas, stabilitas, firmitas verborum Christi, 
+      <lb ed="#L" n="5"/>legum, pacti, faederis quoque Dei ex Euangelijs &amp; Prophetijs cum glossis &amp; 
+      expositio<lb ed="#L" n="6" break="no"/>nibus Doctorum, quas vigesimum septimum huius plenius recitauit? Quomodo etiam  
+      <lb ed="#L" n="7"/>conuenientius potest exponi Philosophus in De mundo 13. vbi dicit quod Deus 
+      immobi<lb ed="#L" n="8" break="no"/>lis cuncta mouet &amp; circumfert quo vult, velut // lex mundi nullam recipiens 
+      alteratio<lb ed="#L" n="9" break="no"/>nem, certior &amp; firmior Scripturis quae in Iapidibus, sicut eodem vigesimo septimo &amp; hic 
+      <lb ed="#L" n="10"/>supra plenius allegatur? Scripturae namque in lapidibus primo libere &amp; contingenter 
+      scri<lb ed="#L" n="11" break="no"/>buntur, sed postquam sunt scriptae, necessario manent scriptae, vel saltem necessario tunc 
+      <lb ed="#L" n="12"/>sunt scriptae necessitate sequente praedicta: Sic quinimo &amp; incomparabiliter firmius 
+      scrip<lb ed="#L" n="13" break="no"/>tura firmior libri Dei. Cur etiam potius comparauit legem, diuinam omnia gubernantem 
+      <lb ed="#L" n="14"/>scripturae in lapidibus, quam scripturae in cera, membrana, pictura, puluere, vel in 
+      ter<lb ed="#L" n="15" break="no"/>ra, in aliquoue metallo, nisi vt quoquomodo exemplariter &amp; figuraliter designaret eius 
+      <lb ed="#L" n="16"/>maximam firmitatem, sicut talis scriptura est alijs magis firma; quemadmodum &amp; Iob 
+      <lb ed="#L" n="17"/>dicit, Quis mihi hoc tribuat vt scribantur sermones mei? Quis mihi det vt exarentur in 
+      <lb ed="#L" n="18"/>libro stilo ferreo, aut plumbi lamina vel // celie scribantur in silice, Iob decimo nono? 
+      <lb ed="#L" n="19"/>Quare &amp; filij Seth scientiarum inuenta in duabus columnis, vna quidem de lateribus, 
+      al<lb ed="#L" n="20" break="no"/>tera vero de lapidibus conscripserunt, sicut superius fuerat recitatum. Quam ergo firma 
+      <lb ed="#L" n="21"/>necessitas, &amp; necessaria firmitas, Scripturae diuinae in firmissima scientia Dei scriptae, in 
+      <lb ed="#L" n="22"/>firmissima mente sua, in firmissimae vitae libro? Hunc autem Philosophum in hac parte 
+      <lb ed="#L" n="23"/>autorizans summus Philosophus, Non potest, inquit, solui Scriptura quam Pater 
+      sancti<lb ed="#L" n="24" break="no"/>ficauit &amp; misit in mundum, Ioannis decimo. Cui similiter consonant non pauca similia qua 
+      <lb ed="#L" n="25"/>dragesimo septimo huius prehabita, quae testantur Scripturas propheticas promifsorias, &amp;  
+      <lb ed="#L" n="26"/>iuratorias Prophetarum &amp; Dei necessario adimplendas. Quod enim scriptura naturalis, 
+      <lb ed="#L" n="27"/>fragili calamo, fluido atramento, putribili pellicula vel papyro constructa solui non 
+      <lb ed="#L" n="28"/>potest, ex nulla firmitate aut stabilitate huius scripturae infirme &amp; labilis potest, esse, sed 
+      <lb ed="#L" n="29"/>tantum ex scripturae libri vitae immortalis, indelebilis, irrasibilis, incancellabilis, ac 
+      <lb ed="#L" n="30"/>indefectibilis insolubili &amp; necessaria firmitate; a qua omnis vera scriptura materialis 
+      <lb ed="#L" n="31"/>originaliter &amp; figuraliter defluit &amp; emanat. Huic autem causae necessitatis huiusmodi in 
+      <lb ed="#L" n="32"/>scripturis attestatur glossa super primum Mathei, quae primo dicit prophetias necessario 
+      <lb ed="#L" n="33"/>adimplendas, sicut quadragesimum septimum huius allegat: Postea. vero dicit, quod 
+      <lb ed="#L" n="34"/>Propheta nullam necessitatem ingerit prophetatis, sed est prescientiae Dei signum, sicut 
+      <lb ed="#L" n="35"/>quadragesimum nonum huius plenius recitauit. Haec ergo necessitas: in Dei prescientia 
+      <lb ed="#L" n="36"/>est fundata: Non enim potest fundari in rebus prophetatis, quae sunt quasi effectus &amp;  
+      <lb ed="#L" n="37"/>exitus prophetiae, que etiam sibi ipsis nullam necessitatem, imponunt,, cum nallam 
+      ha<lb ed="#L" n="38" break="no"/>beant ex seipsis, nec in prophetia, quae non efficit prophetata, sed est diuinae 
+      praescien<lb ed="#L" n="39" break="no"/>tiae tantum signum; necessitas ergo, scripturae, libri vitae immortalis praescientiae firmae 
+      <lb ed="#L" n="40"/>Dei est necessitas scripturae Propheticae supradictae. Vnde &amp; Augustinus de correptione 
+      <lb ed="#L" n="41"/>&amp; gratia 29. dicit, quod filij Dei secundum praescientiam, antequam essent facti, iam filij 
+      <lb ed="#L" n="42"/>Dei erant, in memoriali patris sui inconcussa stabilitate conscripti. Qui &amp; infra 34. hanc 
+      <lb ed="#L" n="43"/>stabilitatem inconcussam plenius exprimens ita scribit; Quicunque ergo in Dei 
+      prouidentis<lb ed="#L" n="44" break="no"/>sima dispositione praesciti, praedestinati, vocati, iustificati sunt &amp; glorificati, Non dico etiam 
+      <lb ed="#L" n="45"/>nondum renati, sed etiam nondum nati, iam filij Dei sunt, &amp; ideo omnino perire non possunt.  
+      <lb ed="#L" n="46"/>Aduerte, queso, causalem; Iam, inquit, filij Dei? sunt, &amp; ideo omnino perire no possunt. Quid 
+      <lb ed="#L" n="47"/>aliud innuit, imo potius exprimit haec causalis, quam quod illa quaecunque in prouidentia, 
+      <lb ed="#L" n="48"/>dispositione, praescientia &amp; praedestinatione Dei sunt, non possunt ibi non esse, saltem pro 
+      <lb ed="#L" n="49"/>nunc, iuxta illud // Philosophi tam saepius memoratum, Esse quod est quando est, necsse est; 
+      <lb ed="#L" n="50"/>Quantus igitur numerus, quanta turba, quantus exercitus autoritatum scripturae canonicae &amp; 
+      <lb ed="#L" n="51"/>Doctorum istam necessitatis sententiam explicite vel implicite profitetur, proculdubio non  
+      <lb ed="#L" n="52"/>facile numerare. Vt autem in breuibus maximam copiam proferam, Ecce istam necessitatis 
+      <lb ed="#L" n="53"/>sequentis sententiam innuunt &amp; confirmant rationes, &amp; autoritates a trigesimo huius vsque 
+      <lb ed="#L" n="54"/>ad hunc locum multifariam praelibatae, quas non videtur possibile plane, solide &amp; 
+      vera<lb ed="#L" n="55" break="no"/>citer soluere istam sententiam non tenenti, sed vix per qualescunque sophisticationes 
+      insi<lb ed="#L" n="56" break="no"/>pidas, per cauillationes obliquas, per falsigraphias profanas, &amp; proteruias violentas, 
+      <lb ed="#L" n="57"/>per ambages distortas, per expositiones schismaticas &amp; per glossas vipereas 
+      tex<lb ed="#L" n="58" break="no"/>tum proprium perimentes: Huic autem sententiae videntur omnes rationes &amp; 
+      <!--855.xml-->
+      <pb ed="#A" n="822"/>
+               <lb ed="#L" n="1"/>Autoritates tam secundum superficiem literae, quam secundum profundum &amp; solidum 
+      <lb ed="#L" n="2"/>intellectum plane &amp; plene, solide &amp; sincere ac spontanee consentire, &amp; concorditer 
+      atte<lb ed="#L" n="3" break="no"/>stari. Conferat, quaeso, simpliciter quicunque Iudex indifferene, &amp; amicus veritatis solius 
+      <lb ed="#L" n="4"/>probationes, responsiones &amp; autoritates cuiuscunque alterius sententiae &amp; istius; 
+      depo<lb ed="#L" n="5" break="no"/>nat, supplico, interim odium &amp; amorem, dicente Philosopho 1. Rhetoricae suae primo, 
+      <lb ed="#L" n="6"/>quod ad praefectum &amp; Iudicem amare &amp; odire, &amp; proprium commodum annexa sunt 
+      sae<lb ed="#L" n="7" break="no"/>pe vt non possint videre sufficienter verum, sed attendere in iudicio proprium delectabile 
+      <lb ed="#L" n="8"/>aut triste; Et secundi Rhetor. 1. Non eadem, inquit, videntur amantibus &amp; odientibus, 
+      <lb ed="#L" n="9"/>neque iratis &amp; mansuete se habentibus, sed aut omnino altera, aut secundum 
+      magnitudi<lb ed="#L" n="10" break="no"/>nem altera; Cui &amp; concorditer Ptolomaeus verbo 12. Centilogij sui, ait, Amor &amp; odium 
+      <lb ed="#L" n="11"/>remouent homines a rectitudine, aut secundum aliam transtationem, Amor &amp; odium 
+      per<lb ed="#L" n="12" break="no"/>uertunt iudicij veritatem: vel si noluerit illa deponere, tunc permutet dando isti 
+      senten<lb ed="#L" n="13" break="no"/>tiae gratis odio habitae amorem &amp; fauorem alterius, &amp; e contra, &amp; sic aequo libramine 
+      <lb ed="#L" n="14"/>ponderet, quae firmius sit fundata, copiosius attestata, &amp; rationabilius defensata, &amp; illam 
+      <lb ed="#L" n="15"/>interim, donec Deus aliud ei reuelauerit sobrie eligat, teneat &amp; defendat. Nam, sicut 
+      di<lb ed="#L" n="16" break="no"/>cit Philosophus I. Ethic. II. Vero quidem omnia consonant existentia; falso autem cito 
+      dis<lb ed="#L" n="17" break="no"/>sonat verum. Haec autem est plane doctrina eiusdem Philosophi 2. de Coelo 1. ac 
+      Auer<lb ed="#L" n="18" break="no"/>rois Commentatoris ipsius, qui &amp; ibi recitat illum famosum Alexandrum dicentem, Nos 
+      <lb ed="#L" n="19"/>non sumus sustentati super sententiam huius hominis inter omnes alias, nisi quia videmus 
+      <lb ed="#L" n="20"/>ipsam minoris ambiguitatis, &amp; remotiorem a contradictione. Porro autoritates de 
+      neces<lb ed="#L" n="21" break="no"/>sitate fati, faminisue diuini, &amp; similes, ponentes necessitatem in Deo &amp; in rebus, &amp; 
+      cau<lb ed="#L" n="22" break="no"/>sam illius reddentes, quia Esse quod est, quando est, necesse est, aut quod res omnes 
+      <lb ed="#L" n="23"/>sunt semper apud Deum praesentes pro necessitate rerum secundum causas superiores 
+      vige<lb ed="#L" n="24" break="no"/>simo septimo &amp; vigesimo octauo huius adductae, multum immediatius &amp; euidentius faciunt 
+      <lb ed="#L" n="25"/>pro ista necessitate sequente huius capituli quam pilla; verum quia ex ista necessitate 
+      <lb ed="#L" n="26"/>sequitur alia, faciunt &amp; pro illa; &amp; quia illi necessitati contradicebatur, a multis fuit 
+      mul<lb ed="#L" n="27" break="no"/>torum testium veridicorum omni exceptione maiorum testimonijs validis comprobanda, 
+      <lb ed="#L" n="28"/>vt sic illa concessa, ista facilius admittatur. Potuit etiam processus &amp; ordo fuisse contrarie 
+      <lb ed="#L" n="29"/>permutatus vt primo haec sequens, deinde illa secundum causas superiores fuisset 
+      osten<lb ed="#L" n="30" break="no"/>sa: Haec enim est prior illa secundum naturam, Veruntamen non ita commode pro 
+      do<lb ed="#L" n="31" break="no"/>ctrina. Non enim semper priora &amp; notiora naturae sunt priora &amp; notiora in 
+      cognitio<lb ed="#L" n="32" break="no"/>ne humana; Imo, vt plurimum est, e contra, sicut testatur Philosophus I. Phylic. 2. &amp; 
+      <lb ed="#L" n="33"/>post. &amp; 2. Metaphysic. 1. quod etiam testatur Apostolus, Inuisibilia, inquiens, ipsius 
+      <lb ed="#L" n="34"/>scilicet Dei, a creatura mundi, id est, ab homine, per ea quae facta sunt intellecta 
+      con<lb ed="#L" n="35" break="no"/>spiciuntur, sempiterna quoque virtus eius &amp; diuinitas, ad Romanos primo. Hinc igitur 
+      <lb ed="#L" n="36"/>videbatur commodius praemissum ordinem obseruare, sicut &amp; in principio seruabatur. 
+      Pri<lb ed="#L" n="37" break="no"/>us namque secundum naturam videtur Deum facere quippiam, quam factum seruare, &amp; 
+      <lb ed="#L" n="38"/>tamen prius fuit ostensum Deum esse conseruatorem necessarium entium quam factorem, 
+      <lb ed="#L" n="39"/>quia hoc fuit vtilius pro doctrina: Ex hoc enim apud cognitionem humanam facilius 
+      osten<lb ed="#L" n="40" break="no"/>ditur aliud quame contra.
+      </p>
+            <div xml:id="dcn2br-e06444-Dd1e1956">
+               <head xml:id="dcn2br-e06444-Hd1e1958">Corollarium</head>
+               <p xml:id="dcn2br-e06444-d1e1961">
+      <!--856.xml-->
+                  <pb ed="#A" n="823"/>
+                  <lb ed="#L" n="1"/>COROLLARIVM 
+      <lb ed="#L" n="2"/>Corollarium, quod omnem actum volutionis &amp; cognitionis diuinae praesentem neces
+      <lb ed="#L" n="3" break="no"/>se est, necessitate sequente praedicta, semper fuisse, &amp; similiter semper fre, 
+      <lb ed="#L" n="4"/>quare &amp; quod omnia, quae praesentialiter sunt, fiunt aut eueniunt, simili 
+      neces<lb ed="#L" n="5" break="no"/>sitate sunt, fiunt &amp; eueniunt in praesenti, &amp; quod omnia quae euenient, simili 
+      <lb ed="#L" n="6"/>necessitate euenient in futuro, imo &amp; quod omnia quae nunc fiunt, de aliqua 
+      ne<lb ed="#L" n="7" break="no"/>cessitate praecedente nunc fiunt, &amp; quod omnia, quae eueniunt de aliqua necessitate 
+      <lb ed="#L" n="8"/>praecedente, euenient in futuro.
+          </p>
+               <p xml:id="dcn2br-e06444-d1e1985">
+                  <lb ed="#L" n="9"/>EX his autem, velut porismatice, clare lucet, quod Omnem actum volutionis &amp; 
+      cogniti<lb ed="#L" n="10" break="no"/>Tonis diuinae praesentem necesse est necessitate sequente praedicta nunc esse, semper fuisse, 
+      <lb ed="#L" n="11"/>&amp; similiter semper fore; quare &amp; qd. omnia, quae praesentialiter sunt, fiunt, aut eueniunt, simili 
+      <lb ed="#L" n="12"/>necessitate sunt, fiut, &amp; eueniut in praesenti; &amp; qd. omnia, quae euenient, simili necessitate 
+      eueni<lb ed="#L" n="13" break="no"/>ent in futuro; imo &amp; qd. omnia, quae nunc fiunt, de aliqua necessitate praecedente nunc fiut; &amp; 
+      <lb ed="#L" n="14"/>qd. omnia quae eueniet, de aliqua necessitate praecedete euenient in futuro. Prima autem pars, 
+      <lb ed="#L" n="15"/>secunda &amp; tertia huius porismatis lucide consequuntur. Nam secundum prius ostensa, 
+      om<lb ed="#L" n="16" break="no"/>nem actum huiusmodi nunc praesentem necesse est nunc esse, quare &amp; semper fuisse, &amp; 
+      simili<lb ed="#L" n="17" break="no"/>ter semper fore, cum Deus sit immutabilis omniquaque, sicut quintum &amp; vicesimum tertium 
+      <lb ed="#L" n="18"/>primi docent. Unde &amp; cognoscitur euidenter conuenientia &amp; differentia voluntatis diuinae, 
+      <lb ed="#L" n="19"/>&amp; angelicae, vel humanae: In duobus namque conueniunt, &amp; disconueniunt in duobus. Nam 
+      <lb ed="#L" n="20"/>sicut voluntatem creatam necesse est pro nunc velle quod vult, &amp; voluisse quod voluit, sic 
+      di<lb ed="#L" n="21" break="no"/>uinam; sed hanc, scilicet humanam, possibile est in futuro non sic velle, &amp; in praeterito 
+      nolu<lb ed="#L" n="22" break="no"/>isse, diuinam vero minime post vel ante: cuius causa non latet; haec enim est mutabilis, illa 
+      <lb ed="#L" n="23"/>vero immutabilis est omnino. Tres vero partes sequentes ex istis tribus cum quibusdam 
+      pri<lb ed="#L" n="24" break="no"/>us ostensis faciliter concludentur. Docet namque syllogistica ratio manifeste, quod omnia 
+      <lb ed="#L" n="25"/>quae praesentialiter sunt, fiunt, &amp; eueniunt a causa necessitate sequente necessaria in essendo, 
+      <lb ed="#L" n="26"/>&amp; infrustrabili in causando, simili necessitate sunt, fiunt &amp; eueniunt in presenti; Omnia, quae 
+      <lb ed="#L" n="27"/>in praesentiarum sunt, fiunt, aut eueniunt praesentialiter, sunt, fiunt, &amp; eueniunt a causa 
+      hu<lb ed="#L" n="28" break="no"/>iusmodi: Cur ergo non sequitur de futuris? Simili namque modo quo // sollogismus // aptabatur 
+      <lb ed="#L" n="29"/>presentibus, aptabitur &amp; futuris; Omnia siquidem quae euenient a causa necessitate sequente 
+      <lb ed="#L" n="30"/>semper necessaria in essendo, &amp; infrustrabili in causando, simili necessitate euenient; 
+      Om<lb ed="#L" n="31" break="no"/>nia quae euenient, euenient a causa huiusmodi. Non enim videtur causa possibilis 
+      assig<lb ed="#L" n="32" break="no"/>nari quare non omnia, quae a causa quacunque euenient, de aliqua necessitate 
+      eueni<lb ed="#L" n="33" break="no"/>ent, nisi vel quia causa potest deficere in essendo, vel quia, etsi maneat potest impediri, 
+      <lb ed="#L" n="34"/>frustrari, &amp; deficere in causando; sicut homo volens facere quid futurum, potest voluntatem 
+      <lb ed="#L" n="35"/>illam dimittere, &amp; etiam si eam continue teneat, impediri, multipliciterque frustrari: 
+      Cer<lb ed="#L" n="36" break="no"/>tum est quoque quod omnia, quae euenient, a causa tali veuenient: Euenient enim a 
+      volun<lb ed="#L" n="37" break="no"/>tate diuina, per corollarium noni primi, &amp; ipsa est necessitate sequete necessaria in essendo per 
+      <lb ed="#L" n="38"/>partes corollarij praecedentes, est etiam infrustrabilis in causando, per 10. primi libri. Hic 
+      respon<lb ed="#L" n="39" break="no"/>debitur forsitan a quibusdam, quod omnia futura sunt necessaria, quatenus sunt apud Deum 
+      <lb ed="#L" n="40"/>praesentia, &amp; in eo, non autem quatenus extra euenient in esse materiali siue reali in suis 
+      na<lb ed="#L" n="41" break="no"/>turis, Haec autem responsio si intelligit, quod futura cotingentia quantum est de se, &amp; causis suis 
+      <lb ed="#L" n="42"/>inferioribus absolute cosideratis, non necessario euenient, vere intelligit sed non vitatiSi autem 
+      <lb ed="#L" n="43"/>intelligit quod futura contingentia relata ad praeuolutionem &amp; praecognitionem diuinam 
+      ne<lb ed="#L" n="44" break="no"/>cessariam in essendo, &amp; infrustrabilem in causando, non necessario euenient extra in esse 
+      ma<lb ed="#L" n="45" break="no"/>teriali, reali, seu naturali temporibus praeordinatis a Deo, non vere intelligit, sicut 
+      praeceden<lb ed="#L" n="46" break="no"/>tia clare monstrabant; quod &amp; potest breuius sic monstrari: Necessario sequitur, quicquid 
+      <lb ed="#L" n="47"/>Deus vult &amp; praescit fore in esse reali extrinseco naturali, sic erit; Hoc Deus vult &amp; praescit sic 
+      <lb ed="#L" n="48"/>fore: ergo hoc sic erit: vel enthymematice si quis velit, Deus vult hoc fore realiter, ergo hoc  
+      <lb ed="#L" n="49"/>sic erit, &amp; antecedens est necessarium, sicut superius est ostensum, sicuti &amp; // isti responfores 
+      fa<lb ed="#L" n="50" break="no"/>tentur; quare &amp; consequens sicut trigesimo huius patet. Hoc autem totum clare testatur 
+      <lb ed="#L" n="51"/>Robertus Lincolniensis de libero arbitrio 10. vbi agens de concordia praedestinationis &amp; 
+      <lb ed="#L" n="52"/>liberi arbitrij, primo facit realiter argumentum praemissum, &amp; recitat virtualiter 
+      responsio<lb ed="#L" n="53" break="no"/>nem opinionis contrariae, &amp; hypothesis principalis, distinguentem propositiones huiusmo¬ 
+      <!--857.xml-->
+      <pb ed="#A" n="824"/>
+                  <lb ed="#L" n="1"/>di, QQuicquid Deus praedestinat seu vult fore necesse est fore) secundum compositionem 
+      <lb ed="#L" n="2"/>&amp; diuisionem, &amp; concedentem sensum compositum ac negantem diuisum; &amp; deinde ipsa 
+      <lb ed="#L" n="3"/>formaliter approbata, ac materialiter reprobata, secundum sententiam propriam 
+      respon<lb ed="#L" n="4" break="no"/>dendo, dicit praeuolutionem, puta praedestinationem diuinam, esse causam necessariam  
+      <lb ed="#L" n="5"/>in essendo necessitate sequente, &amp; infrustrabilem in causando; quare &amp; quemlibet totalem 
+      <lb ed="#L" n="6"/>eius effectum simili necessitate futurum: Vnde sic ait, Dei praedestinatio specialiter 
+      libe<lb ed="#L" n="7" break="no"/>rum arbitrium videtur annihilare; Ipsa namque causa est bonorum praedestinatorum; &amp;  
+      <lb ed="#L" n="8"/>talis causa quae non potest non esse, nec potest ab effectu frustrari: Omnis autem causae, 
+      <lb ed="#L" n="9"/>quae non potest non esse, nec ab effectu frustrari, omnis effectus non potest non esse; 
+      prae<lb ed="#L" n="10" break="no"/>destinationis igitur effectus non potest non esse; ergo omnem praedestinationis effectum 
+      ne<lb ed="#L" n="11" break="no"/>cessarium est esse; Necessario ergo saluabitur omnis saluandus; ergo non ex libero arbitrio 
+      <lb ed="#L" n="12"/>est salus aut opus bonum vitae aeternae meritorium. Forte aliquis responsor ad euadendum 
+      <lb ed="#L" n="13"/>sic distinguet, dicens, Praedestinatum est necessarium; id tamen quod praedestinatum est,  
+      <lb ed="#L" n="14"/>non est necessarium, sed contingens; sed haec distinctio licet sit vera, nihil tamen ad 
+      veri<lb ed="#L" n="15" break="no"/>tatem videtur esse solutionis. Dicatur enim A effectus aliquis praedestinationis in se 
+      conside<lb ed="#L" n="16" break="no"/>ratus nudus ab hoc accidente, Praedestinatum, sullogizeturque hoc modo, Omnis effectus 
+      <lb ed="#L" n="17"/>causae necessariae nec potentis a suo effectu fructrari est necessarius &amp; non potens non esse; 
+      <lb ed="#L" n="18"/>A est effectus talis causae; ergo A non potest non esse, sed est necessarium, &amp; ita quoad 
+      <lb ed="#L" n="19"/>eius esse nihil est liberum arbitrium, cum habens esse ex libero creaturae rationalis arbitrio sit 
+      <lb ed="#L" n="20"/>contingens, non necessarium. Et ecce responsio propria; An forte praedestinationis effectus 
+      <lb ed="#L" n="21"/>simpliciter erit magis Acontingenter esse, quam Aesse? verbi gratia, Aliquis nuncexistens 
+      via<lb ed="#L" n="22" break="no"/>tor nominetur Petrus, non hoc, Petrum scilicet fore saluandum, sed Petrum fo re saluandum esse 
+      <lb ed="#L" n="23"/>contingens, id est, Petrum fore saluandum non ex necessitate, sed cum possibilitate existendi 
+      <lb ed="#L" n="24"/>cius oppositum, scilicet Petrum non saluari, est simpliciter effectus praedestinationis: Scit enim 
+      <lb ed="#L" n="25"/>Deus non solum Petrum saluandum, sed Petrum non ex necessitate, sed contingenter 
+      sal<lb ed="#L" n="26" break="no"/>uandum, &amp; sic ab aeterno praeordinat, scilicet Petrum saluandum, &amp; non ex necessitate, 
+      <lb ed="#L" n="27"/>sed cum possibilitate contrarij; &amp; hoc totum infallibiliter a Deo praecognitum &amp; 
+      preordina<lb ed="#L" n="28" break="no"/>tum, scilicet Petrum saluari non ex necessitate, sed cum possibilitate existendi oppositum, 
+      <lb ed="#L" n="29"/>scilicet Petrum non saluari est necessarium // simpliciter; Itaque effectus praedestinationis, quae 
+      <lb ed="#L" n="30"/>est causa inuariabilis, nec potest a suo frustrari effectu, non est Petrum saluari, sed Petrum 
+      <lb ed="#L" n="31"/>saluari non necessario sed contingenter; &amp; hoc totum, scilicet Petrum saluari non 
+      necessa<lb ed="#L" n="32" break="no"/>rio, sed contingenter, est necessarium, sicut arguit supra positus syllogismus, debere esse 
+      pre<lb ed="#L" n="33" break="no"/>destinationis effectum; sed necessarium dico necessitate consequente non antecedente, 
+      ne<lb ed="#L" n="34" break="no"/>cessitate conditionis secundum Boetium non simplici; ac per hoc Petrum saluari non est 
+      ne<lb ed="#L" n="35" break="no"/>cessarium, sed contingens. Haec itaque maior suprapositi syllogismi propositio, scilicet,  
+      <lb ed="#L" n="36"/>Omnis causae, quae non potest non esse, nec ab effectu frustrari, effectus non potest non esse, 
+      <lb ed="#L" n="37"/>sed est necessarius, sic videtur esse intelligenda, vt intelligamus effectum simpliciter &amp; 
+      tota<lb ed="#L" n="38" break="no"/>liter, &amp; non secundum partem, hoc est, totum effectum comproportionatum causae, nullis 
+      <lb ed="#L" n="39"/>omissis conditionibus, vtpote respectu huius causae, quae est praedestinatio, non erit, Petrum 
+      <lb ed="#L" n="40"/>saluari simpliciter &amp; totaliter, effectus, sed hoc totum, Petrum saluari non ex necessitate, sed 
+      <lb ed="#L" n="41"/>contingenter; ergo secundum quod vere intelligitur maior propositio, si sub 
+      praedestinatio<lb ed="#L" n="42" break="no"/>nis effectu assumatur Petrum saluari vel aliquid tale, non adiecta hac conditione, non ex 
+      ne<lb ed="#L" n="43" break="no"/>cessitate, sed contingenter, non correspondet assumptio maiori propositioni, nec sequitur 
+      <lb ed="#L" n="44"/>conclusio: Si autem sumatur simpliciter &amp; totaliter effectus cadens sub praedestinatione, 
+      vt<lb ed="#L" n="45" break="no"/>pote Petrum saluari non ex necessitate, sed contingenter, correspondenter maiori assumitur. 
+      <lb ed="#L" n="46"/>&amp; conclusio sequitur. Qui &amp; infra II. monstrans concordiam gratiae cum libero arbitrio, 
+      si<lb ed="#L" n="47" break="no"/>milem sententiam clare profert. Nec moueat quempiam quod dicit non esse necessarium 
+      <lb ed="#L" n="48"/>Petrum saluari, sed Petrum non necessario, sed contingenter saluari, cum tamen 
+      necessa<lb ed="#L" n="49" break="no"/>rio consequatur, Petrus non necessario, sed contingenter saluabitur; etgo Petrus 
+      saluabi<lb ed="#L" n="50" break="no"/>tur; &amp; Antecedens secundum eum est necessarium, quare &amp; consequens; quia cum dicit 
+      Pe<lb ed="#L" n="51" break="no"/>trum non necessario, sed contingenter saluari, esse necessarium, intelligit de necessitate 
+      se<lb ed="#L" n="52" break="no"/>quente praedicta consentanea contingentie &amp; arbitriij libertati, sicut &amp; exprimit euidenter: 
+      <lb ed="#L" n="53"/>Cum vero negat Petrum saluari esse necessarium, intelligit de necessitate contraria 
+      contin<lb ed="#L" n="54" break="no"/>gentie &amp; arbitrij libertati, quod iuxta decimo huius premissa de hac coniunctione 
+      aduersa<lb ed="#L" n="55" break="no"/>tiua, Sed, euidenter insinuat, ita dicens, Petrum saluari non est necessarium, sed 
+      contin<lb ed="#L" n="56" break="no"/>gens. Pro quo &amp; infra II. Cum, inquit, gratia non sit, nisi Dei voluntas, qua gratis saluat,  
+      <lb ed="#L" n="57"/>vult autem verbi gratia non solum Petrum saluari, sed ipsum saluari ex libertate arbitrij sui, 
+      <!--858.xml-->
+      <pb ed="#A" n="825"/>
+                  <lb ed="#L" n="1"/>&amp; non necessario, sed contingenter, sicut praescit &amp; praedestinat non solum ipsum saluari, sed 
+      <lb ed="#L" n="2"/>saluari cum adiectione praedicta; gratia siue voluntas diuina non cogit Petrum saluari, vel 
+      ali<lb ed="#L" n="3" break="no"/>quod consimile esse necessarium, sed, sicut dictum est, ipsum saluari ex libero arbitrio &amp; 
+      con<lb ed="#L" n="4" break="no"/>tingenter esse necessarium. Nec etiam moueat quod dicit, forte &amp; quasi dubitando, non 
+      de<lb ed="#L" n="5" break="no"/>finiendo respondere videtur: haec enim est responsio sua finalis; &amp; quia hoc potest 
+      rationabi<lb ed="#L" n="6" break="no"/>liter facere, etsi ipsemet non dubitet, ad aliorum praesumptuosam audaciam reprimendum, 
+      <lb ed="#L" n="7"/>&amp; vt sobrie capiant instruendum. Aduerbia etiam dubitandi &amp; verba similia non semper 
+      du<lb ed="#L" n="8" break="no"/>bitationem loquentis important, sed quandoque per figuram Ironiae certitudinem &amp; certam 
+      <lb ed="#L" n="9"/>affirmationem, quandoque vero dubitationem in mentibus auditorum, &amp; increpationem 
+      eo<lb ed="#L" n="10" break="no"/>rum: Quare Prophetae, Apostoli, &amp; Deus, ac Dominus Iesus Christus scientes certissime, 
+      <lb ed="#L" n="11"/>quandoque aduerbia &amp; verba huiusmodi protulerunt. Vnde Psalmo 80. Pro nihilo forsitan 
+      <lb ed="#L" n="12"/>inimicos eorum humiliassem. Cassiodorus, Forsitan, id est, vere, si ironice dicit. Et infra 
+      <lb ed="#L" n="13"/>Psalmo II8. Nisi quod lex tua meditatio mea est, tunc forte perijssem in humilitate mea. Et  
+      <lb ed="#L" n="14"/>Apostolus ad Rom. 8. Existimo quod non sunt condignae passiones huius temporis ad 
+      futu<lb ed="#L" n="15" break="no"/>ram gloriam: Glossa, Existimo, id est, scio. Et 1. ad Corinth. 7. Puto quod ego spiritum Dei 
+      <lb ed="#L" n="16"/>habeam: Glossa, Nota quod dicens puto, non dubitat Apostolus, sed contemptores increpat. 
+      <lb ed="#L" n="17"/>Et Iob I4. Putasne mortuus homo rursum viuat? Super quod Gregorius 12. Moral. 5. 
+      So<lb ed="#L" n="18" break="no"/>lent iusti viri in eo quod ipsi certum ac solidum sentiunt, quasi ex dubietate aliquid proferre, 
+      <lb ed="#L" n="19"/>vt infirmiorum in se verba transferant, sed rursum per fortem sententiam infirmanti dubietati 
+      <lb ed="#L" n="20"/>omni modo contradicunt, quatenus per hoc, quod dubie proferre cernuntur, infirmis 
+      aliqua<lb ed="#L" n="21" break="no"/>tenus condescendant; &amp; per hoc, quod certam sententiam proferunt, infirmiorum mentes 
+      <lb ed="#L" n="22"/>dubias ad soliditatem trahant. Ipse etiam in quo sunt omnes thesauri sapientiae &amp; scientiae 
+      <lb ed="#L" n="23"/>absconditi Iesus Christus similiter loquitur, Nunquid, inquiens, gratiam habet seruo illi quia 
+      <lb ed="#L" n="24"/>fecit quae sibi imperauerat? Non puto, Luc. 17. Et Matth. II. Si in Sodomis &amp;c. 
+      forteman<lb ed="#L" n="25" break="no"/>sissent vsque in hunc diem; &amp; Ioh. 4. Tu forsitan petisses ab eo, &amp;c. Et infra 5. Si crederetis 
+      <lb ed="#L" n="26"/>Mosi, crederetis forsitan &amp; mihi: Et adhuc inferius 8. Si me sciretis, forsitan &amp; Patrem me 
+      <lb ed="#L" n="27"/>um sciretis. Super quod Augustinus part. 1. homil. 37. Ille, inquit, qui omnia scit, quando 
+      <lb ed="#L" n="28"/>dicit forsitan, non dubitat, sed increpat. Attende enim quomodo increpatiue dicatur ipsum 
+      <lb ed="#L" n="29"/>forsitan, quod videtur esse verbum dubitationis; sed dubitationis verbum est, quando dicitur 
+      <lb ed="#L" n="30"/>ab homine ideo dubitante quia nesciente; cum vero dicitur a Deo verbum dubitationis, cum 
+      <lb ed="#L" n="31"/>Deum vtique nihil lateat, illa dubitatione arguitur infidelitas, non opinatur diuinitas. 
+      Ho<lb ed="#L" n="32" break="no"/>mines enim de rebus his, quas certas habent, aliquando increpatiue dubitant, id est, verbum 
+      <lb ed="#L" n="33"/>dubitationis ponunt, cum corde non dubitent, velut si indigneris seruo tuo, &amp; dicas, 
+      Con<lb ed="#L" n="34" break="no"/>temnis me? Considera, forsitan Dominus tuus sum. Hinc &amp; Apostolus ad quosdam 
+      con<lb ed="#L" n="35" break="no"/>temptores suos loquens, ait; Puto autem quod &amp; ego spiritum Dei habeam. Qui dicit, puto, 
+      <lb ed="#L" n="36"/>dubitare videtur, sed ille increpat, non dubitat. Matthaei quoque 24. ipsa sapientia Dei 
+      di<lb ed="#L" n="37" break="no"/>cit, Dabunt signa magna &amp; prodigia, ita vt in errorem ducantur, si fieri potest, etiam electi, 
+      <lb ed="#L" n="38"/>Super quod Gregorius I. super Ezech. 9. Cur, inquit, hoc sub dubitatione dicitur, cum quid 
+      <lb ed="#L" n="39"/>futurum sit a Domino praesciatur? Et respondet, Ista dominici sermonis dubitatio ex 
+      electo<lb ed="#L" n="40" break="no"/>rum cordibus designatio temptationis fuit. Per hoc igitur exprimitur, quod electi in corde 
+      <lb ed="#L" n="41"/>temptabuntur; nutant enim, si non cadunt; dicitur ergo, si fieri potest, quia trepidabunt, &amp; 
+      <lb ed="#L" n="42"/>tamen dicuntur electi, quia non cadent. Pro duabus autem residuis partibus aduertendum 
+      <lb ed="#L" n="43"/>quod in voluntate diuina respectu suorum effectuum extrinsecorum praesentium vel 
+      futuro<lb ed="#L" n="44" break="no"/>rum est plenissima contingentia ad vtrumlibet, &amp; summa libertas contradictionis, sicut // 
+      sae<lb ed="#L" n="45" break="no"/>pius dicebatur, ipsa tamen respectu eorum est necessitas antecedens, sicut respectu 
+      praesen<lb ed="#L" n="46" break="no"/>tium, sicuti vltima pars corollarij secundi huius ostendit: quare &amp; per similem rationem 
+      re<lb ed="#L" n="47" break="no"/>spectu futurorum similiter. Nam omnia quae euenient a causa necessaria in essendo &amp; 
+      infru<lb ed="#L" n="48" break="no"/>strabili in causando, euenient de necessitate naturaliter precedente, sicut definitiones 
+      necessi<lb ed="#L" n="49" break="no"/>tatis naturaliter praecedentis, &amp; sui effectus secundo huius ostendunt; &amp; omnia, quae 
+      eueni<lb ed="#L" n="50" break="no"/>ent, a causa tali euenient, puta a voluntate diuina, sicut superius est ostensum, nec istam 
+      ali<lb ed="#L" n="51" break="no"/>quam repugnantiam implicant, sicut 29. &amp; 5. huius plenius declaratur.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

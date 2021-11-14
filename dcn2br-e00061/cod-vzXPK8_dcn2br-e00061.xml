@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="758"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e00061"><!-- l3c33 -->
+            <head xml:id="dcn2br-e00061-Hd1e106">Caput 33</head>
+            <p xml:id="dcn2br-e00061-d1e109">
+               <lb ed="#L" n="38"/>CAP. XXXIII. 
+      <lb ed="#L" n="39"/>Mouet eandem per viam reuelationis in verbo, &amp; ponit sex respon¬ 
+      <lb ed="#L" n="40"/>siones concedentium reuelatione in verbo, &amp; arguit grauiter contra. 
+      </p>
+            <p xml:id="dcn2br-e00061-d1e118">
+               <lb ed="#L" n="41"/>Is igitur per viam actionis Dei intrinsecae contra hypothesin istam 
+      ob<lb ed="#L" n="42" break="no"/>iectis, restat per viam actionis eius extrinsecae contra eandem obijcere 
+      <lb ed="#L" n="43"/>consequenter, per viam scilicet reuelationis diuinae &amp; eius effectus. 
+      <lb ed="#L" n="44"/>Haec autem secundum doctrinam Patrum est duplex. Nam quaedam  
+      <lb ed="#L" n="45"/>est in verbo Dei, in ipsa scilcetsumma luce, summa veritate increata, in 
+      es<lb ed="#L" n="46" break="no"/>sentia ipsa Dei; quedam vero in proprio genere creaturae, in luce scilicet 
+      <lb ed="#L" n="47"/>inferiori creata. Primo ergo per viam reuelationis in verbo; Ponatur 
+      <lb ed="#L" n="48"/>siquidem Deum reuelare vel reuelasse in verbo Paulo A. fore cras, tue 
+      <lb ed="#L" n="49"/>Paulus aut videt aut vidit, scit aut sciuit A. fore cras, ergo necesse est eum sic videre aut vidisse, 
+      <lb ed="#L" n="50"/>scire aut sciuisse, quoniam omnem actum humanum, quando est, necesse est pro tunc esse, &amp; 
+      om<lb ed="#L" n="51" break="no"/>nem actum humanum praeteritum necesse est fuisse: alias enim qd. homo nunc vult &amp; facit, posset 
+      <lb ed="#L" n="52"/>nunc non velle nec facere, &amp; quod voluit &amp; fecit, potest nunquam voluisse nec fecisse, quare &amp;  
+      <lb ed="#L" n="53"/>illud quod nunc est aut fuit, potest pro nunc non esse nunc, nec vnquam fuisse, contra 
+      <lb ed="#L" n="54"/>omnes Logicos, Philosophos, Theologos, &amp; vulgares, quod &amp; hypothesis ista negat. Et si 
+      <!--792.xml-->
+      <pb ed="#A" n="759"/>
+               <lb ed="#L" n="1"/>necesse est Fausum scire aut sciuisse fi, fore eras, necesse est Ai fore cras: nam necessario sequi¬ 
+      <lb ed="#L" n="2"/>tur, Paulus scit aut sciuit A. fore cras; ergo verum est aut fuit A. fore cras, ergo A. est aut  
+      <lb ed="#L" n="3"/>fuit futurum cras, ergo erit cras, sicut patet per ostensa 18. huius. Tota igitur haec consecutio 
+      <lb ed="#L" n="4"/>est necessaria, &amp; primum antecedens similiter, quare &amp; vltimum consequens, sicut 30. huius 
+      <lb ed="#L" n="5"/>paret; ergo necesse est A. cras fore, quare &amp; simili ratione de quocunque futuro nunc est 
+      neces<lb ed="#L" n="6" break="no"/>sarium, &amp; semper fuit necessarium ipsum fore, &amp; de quocunque non futuro, ipsum non fore, 
+      <lb ed="#L" n="7"/>cuius oppositum hypothesis supponebat. Ad istud autem dupliciter respondetur. Nam quida 
+      <lb ed="#L" n="8"/>huiusmodi reuelationem concedunt; alij vero negant. Concedentes autem reuelationem 
+      hu<lb ed="#L" n="9" break="no"/>iusmodi respondent iuxta praedictam hypothesin consequenter, dicendo qu, sicut Deo per 
+      su<lb ed="#L" n="10" break="no"/>am essentiam nunc scit, &amp; semper sciuit quodcunque futurum fore, &amp; potest nunc pro nunc 
+      il<lb ed="#L" n="11" break="no"/>lud non scire nec vnquam sciuisse, sed nunc &amp; pro nunc scire &amp; semper sciuisse cius oppositu; 
+      <lb ed="#L" n="12"/>sic &amp; homo vel Angelus, qui per eande essentiam scit &amp; sciuit quodcunque futurum fore, potest. 
+      <lb ed="#L" n="13"/>conformiter nunc &amp; pro nunc illud non scire, nec vnquam sciuisse, sed nunc &amp; pro nunc scire 
+      <lb ed="#L" n="14"/>cius oppositum priusque sciuisse. Sed ista responsio videtur absurda. Nam si sic esset, possibile 
+      <lb ed="#L" n="15"/>esset Christum, Mosem, Paulum, &amp; quemcunque Prophetam, qui vidit secreta Dei in verbo, 
+      nu<lb ed="#L" n="16" break="no"/>quam quicquam ibi vidisse, nec fuisse Prophetam, sed pseudoprophetam, &amp; Antichristum, cum 
+      <lb ed="#L" n="17"/>fuerit praeteritus pessimus, Mahumetem &amp; quemlibet maledictum, qui nunquam aliquid ibi 
+      <lb ed="#L" n="18"/>vidit, omnia Dei secreta ibi vidisse, fuisseque eximium Prophetarum. Haec etiam responsio non  
+      <lb ed="#L" n="19"/>euitat, quoniam si Paulus scit &amp; sciuit in verbo A. fore, &amp; potest non scire nec sciuisse A. fore, 
+      <lb ed="#L" n="20"/>aut potest velle &amp; voluisse, non velle &amp; non voluisse, non velle conformiter, vel non potest. Si 
+      <lb ed="#L" n="21"/>potest, ponatur qd. reuelabatur in verbo Paulo A. adhuc futurum fore, &amp; praecipiebatur 
+      simi<lb ed="#L" n="22" break="no"/>liter qu. vellet, praedicaret, &amp; faceret conformiter reuelationi ostensae, sicut Deus praeceperat 
+      <lb ed="#L" n="23"/>Ieremiae, Praedicabis, inquiens, verba quae ego loquar ad te, ser. 19. &amp; Ezech. Vade &amp; loqueris 
+      <lb ed="#L" n="24"/>verba mea, Ezech. 3. &amp; Ionae, Praedica, inquit, praedicationem quam ego loquoradte, Ion. 2. 
+      si<lb ed="#L" n="25" break="no"/>cut &amp; verisimiliter creditur qd. Archangel. Gabriel recepit per reuelationem &amp; iussionem in 
+      ver<lb ed="#L" n="26" break="no"/>bo negotium incarnationis dominicae beatissimae virgini nuntiandum. Dominus etiam Iesus 
+      <lb ed="#L" n="27"/>Christus de seipso testatur, Ego, inquiens, ex meipso non sum locutus, sed qui misit me Pater. 
+      <lb ed="#L" n="28"/>ipse mihi mandatum dedit quid dicam, &amp; quid loquar Ioh. 12. Et infra 14. Sicut mandatum 
+      de<lb ed="#L" n="29" break="no"/>dit mihi pater, sic facio; &amp; si quis homo vel Angelus habuit reuelationem &amp; mandatum in verbo, 
+      <lb ed="#L" n="30"/>quis vnqua dignius Dom. Iesu Christo vnico Dei verbo, vnicissimo Dei verbo? Vnde Aug. 
+      su<lb ed="#L" n="31" break="no"/>per Ioh. part. 1. hom. vlt. scili.et s 4. prima autoritatem exponens, sic ait; Ideo se dicit non locutum 
+      <lb ed="#L" n="32"/>ex seipso, quia no est ex seipso: Filius est verbum Patris, &amp; sapientia Patris; In illo sunt omnia 
+      <lb ed="#L" n="33"/>mandata Patris: neque enim Patris mandatum Filius aliquando nesciebat, vt eum necesse esset 
+      <lb ed="#L" n="34"/>ex tempore habere qd antea non habebat. Ita enim a Patre, qd habet, accepit, vt nascendo 
+      ac<lb ed="#L" n="35" break="no"/>ceperit, dederitque illi gignendo,. Nam &amp; vita est, &amp; accepit vitam, vtique nascendo, non prius 
+      si<lb ed="#L" n="36" break="no"/>ne vita existendo, quia &amp; Pater habet vitam, &amp; qd. habet est, nec accepit tamen, quia non ex 
+      a<lb ed="#L" n="37" break="no"/>liquo est; filius autem accepit vitam dante Patre, a quo est, &amp; ipse qu habet, est: habet n. vitam, 
+      <lb ed="#L" n="38"/>&amp; vita est: ipsum audi loquentem; Sic habet, inquit. Pater vitam in semetipso, sic dedit &amp; filio 
+      <lb ed="#L" n="39"/>habere vitam in semetipso. Nunquid existenti &amp; non habenti dedit? Sed eo dedit, quo genuit, 
+      <lb ed="#L" n="40"/>qui vitam genuit, &amp; quia aeterna est ipsa natiuitas, nunquam non fuit filius qui est vita, 
+      nun<lb ed="#L" n="41" break="no"/>quam fuit filius sine vita. Et sicut est natiuitas aeterna, sic est quinatus est, vita aeterna: ita &amp; 
+      <lb ed="#L" n="42"/>mandatum, non quod filius non habebat, pater dedit, sed, sicut dixi, In sapientia Patris, 
+      <lb ed="#L" n="43"/>quod est verbum Patris, omnia mandata sunt Patris. Dicitur autem mandatum datum, quia 
+      <lb ed="#L" n="44"/>non est a seipso cui dicitur datum; &amp; hoc est dare filio, sine quo nunquam filius fuit, quod est 
+      <lb ed="#L" n="45"/>gignere filium qui nunquam non fuit. Factis igitur Paulo reuelatione &amp; mandato praemissis, 
+      <lb ed="#L" n="46"/>ponatur quod voluit, praedicauit, &amp; fecit extrinsecus operando conformiter reuelationi 
+      osten<lb ed="#L" n="47" break="no"/>sae. Et secundum istam responsionem A. adhuc existente futuro, possibile est ipsum non fore, 
+      <lb ed="#L" n="48"/>&amp; verbum nunquam sciuisse nec reuelasse, ac Paulum nunquam vidisse in verbo A. fore; 
+      qua<lb ed="#L" n="49" break="no"/>re &amp; sicut dicit responsio, est correspondenter possibile. Paulum nunquam voluisse 
+      confor<lb ed="#L" n="50" break="no"/>miter reuelationi praedictae, est ergo nunc possibile Paulum non praedicasse, non fecisse 
+      extrin<lb ed="#L" n="51" break="no"/>secus quae iam fecit: non enim potuit talia facere nisi prima voluntate, quare &amp; illa praeterita, 
+      <lb ed="#L" n="52"/>est possibile non fuisse. Et ut istud manifestius deducatur in lucem, ponatur iuxta 
+      autorita<lb ed="#L" n="53" break="no"/>tes de orando &amp; modo orandi praemissas 23. &amp; 25. primi; quod Paulo detur mandatum sub 
+      <lb ed="#L" n="54"/>poena damnationis aeternae, quod omnem &amp; solum ostensum sibi in verbo saluandum velit 
+      <lb ed="#L" n="55"/>absolute saluari, iuuetque in orationibus &amp; beneficiis alijs solum talem; ostendaturque sibi in 
+      ver<lb ed="#L" n="56" break="no"/>bo Petrum viatorem esse saluandum, que velit absolute saluari, oret pro eo, aedificet sibi 
+      do<lb ed="#L" n="57" break="no"/>mum, &amp; alia beneficia administret, moriatur, &amp; migret ad coelum adhuc Petro superstite 
+      <lb ed="#L" n="58"/>viatore; tunc, sicut dicit hypothesis, possibile est Petrum non saluari, quare &amp;, sicut dicit 
+      <!--793.xml-->
+      <pb ed="#A" n="760"/>
+               <lb ed="#L" n="1"/>ista responsio, possibile est consequenter hoc nunquam fuisse ostensum in verbo, Paulum A 
+      <lb ed="#L" n="2"/>nunquam hoc vidisse, nunquam hoc voluisse, nunquam pro eo orasse: nunquam ei domum 
+      <lb ed="#L" n="3"/>aedificasse, nec alia beneficia ministrasse, nec ad coelum sed ad infernum migrasse, vel retentis 
+      <lb ed="#L" n="4"/>mandato &amp; reuelatione praemissis, ponatur Paulum in nullo paruisse mandato, &amp; sic 
+      mortu<lb ed="#L" n="5" break="no"/>um ad inferos descendisse, tunc possibile est Petrum adhuc viatorem non esse saluandum, nec 
+      <lb ed="#L" n="6"/>hoc vnquam fuisse reuelatum, quare &amp; Paulum non fecisse seu omisisse contra mandatum, nec 
+      <lb ed="#L" n="7"/>peccasse, nec descendisse ad inferos, sed ad superos ascendisse; vel forsitan, sicut multis magis 
+      <lb ed="#L" n="8"/>vide hitur // oportunum, ponatur Paulum recipisse mandatum, quod nullum ostensum sibi in 
+      <lb ed="#L" n="9"/>verbo damnandum velit saluari, nec oret pro alicuius talis salute, &amp; quod quemcunque 
+      osten<lb ed="#L" n="10" break="no"/>sum sibi in verbo saluandum velit saluari, &amp; oret pro eo, ostendaturque sibi in verbo 
+      Anti<lb ed="#L" n="11" break="no"/>christum esse damnandum, quem nec velit saluari, nec oret pro eo, &amp; sic decedens saluetur, 
+      <lb ed="#L" n="12"/>vel contraria faciens, &amp; sic decedens damnetur, adhuc Antichristo superstite viatore &amp;c. sicut 
+      <lb ed="#L" n="13"/>prius. Cabriel etiam medio tempore postquam venit ad virginem gloriosam nuntians quod 
+      <lb ed="#L" n="14"/>conciperet filium benedictum, antequam concepit, potuit non venisse ad eam, nec illud 
+      nun<lb ed="#L" n="15" break="no"/>tium protulisse, vt patet per deductionem priorem. Dominus etiam Iesus Christus medio 
+      <lb ed="#L" n="16"/>tempore postquam fuit incarnatus pro humano genere redimendo, priusquam redemit, 
+      potu<lb ed="#L" n="17" break="no"/>it non fuisse incarnatus, &amp; postquam praedixit discipulis illud, Matth. 20. Ecce, ascendimus 
+      <lb ed="#L" n="18"/>Hierosolymam, &amp; filius hominis tradetur principibus sacerdotum, &amp; Scribis, &amp; 
+      condemna<lb ed="#L" n="19" break="no"/>bunt cum morte, &amp; tradent eum gentibus ad illudendum &amp; flagellandum &amp; crucifigendum, 
+      <lb ed="#L" n="20"/>&amp; terito die resurget; ascenditque Hierosolymam ad illum finem; priusquam pateretur, 
+      po<lb ed="#L" n="21" break="no"/>tuit ista non dixisse, nec Hicrosolymam ascendisse: postquam similiter iam propinquior 
+      pas<lb ed="#L" n="22" break="no"/>sioni, tristabatur vsque ad mortem, &amp; sudauit sudorem sanguineum, priusquam pateretur, 
+      <lb ed="#L" n="23"/>possibile fuit non sic fuisse tristatum neque sudasse, quae omnia patent per deductionem 
+      pri<lb ed="#L" n="24" break="no"/>orem. Vt autem haec multa virtualiter in vno verbo recolligam, suppono nos esse in medio 
+      <lb ed="#L" n="25"/>tempore inter tales effectus praeteritos &amp; reuelata futura; &amp; sicut dicit responsio, PossibileC 
+      <lb ed="#L" n="26"/>est illa reuelata futura non fore, &amp; nunquam fuisse reuelata, visa nec voluta, ergo possibile est 
+      <lb ed="#L" n="27"/>illos effectus praeteritos non fuisse: nam necessario sequitur negatiue, Causa non fuit, ergo 
+      es<lb ed="#L" n="28" break="no"/>fectus non fuit, &amp; antecedens est possibile, ergo &amp; consequens, sicut tricesimo huius patet. 
+      <lb ed="#L" n="29"/>Vel e contrario affirmatiue, Necesse est illos effectus fuisse, ergo &amp;st illas volutiones, visiones, 
+      <lb ed="#L" n="30"/>&amp; reuelationes: nam necessario sequitur affirmatiue, Effectus fuit, ergo causa eius fuit, &amp; 
+      an<lb ed="#L" n="31" break="no"/>tecedens est necessarium, ergo &amp; consequens, sicut idem tricesimum demonstrauit. Et si 
+      ne<lb ed="#L" n="32" break="no"/>cesse est illas visiones &amp; reuelationes fuisse, ergo &amp; illa reuelata fore sicut superius est 
+      osten<lb ed="#L" n="33" break="no"/>sum: nec potest quisquam ad aliam partem biuij rationabiliter declinare, dicendo Paulum 
+      <lb ed="#L" n="34"/>non posse, non velle quod vult, nec posse non voluisse quod voluit, sicut potest non scire quod 
+      <lb ed="#L" n="35"/>scit, &amp; non sciuisse quod sciuit facta huius reuelatione in verbo, quoniam per locum a simili 
+      <lb ed="#L" n="36"/>&amp; a proportionalitate videtur, quod sicut Paulus scit aliquid in verbo, siue in Dei essentia, sic 
+      <lb ed="#L" n="37"/>potest velle seu diligere aliquid in spiritu sancto siue in Dei essentia. Nam sicut filius &amp; Dei es¬ L 
+      <lb ed="#L" n="38"/>sentia se habet ad nostrum scire, sic spiritus sanctus in eadem essentia ad nostrum diligere: 
+      a<lb ed="#L" n="39" break="no"/>lias enim nequaquam nostra charitas nec dilectio veraciter diceretur, quod tamen 42. primi 
+      <lb ed="#L" n="40"/>erat ostensum. Quare si propter hoc, quod verbum sciens &amp; ostendens aliquid futurum, 
+      po<lb ed="#L" n="41" break="no"/>test nunc pro nunc illud non scire neque ostendere; potest Paulus hoc videns, nunc &amp; pro 
+      <lb ed="#L" n="42"/>nunc illud non videre, cum similiter sit de spiritu sancto volente aliquid futurum, erit &amp; 
+      simili<lb ed="#L" n="43" break="no"/>ter de Paulo volente in ipso. Haec etiam responsio non iuuat, sed magis illa queat 
+      responden<lb ed="#L" n="44" break="no"/>tes, quia si facta reuelatione huiusmodi, &amp; Paulo volente conformiter, necesse sit Paulo, sic 
+      vel<lb ed="#L" n="45" break="no"/>le, aut in praeterito voluisse, necesse est eum sic videre, &amp; in praeterito sic vidisse: nam haec sua 
+      <lb ed="#L" n="46"/>volutio ab illa sua visione causatur, quare necesse est sic esse reuelatum in verbo aut fuisse, 
+      qua<lb ed="#L" n="47" break="no"/>re &amp; necesse est sic fore, sicut superius est deductum. Item aliqui sunt effectus causati a sola 
+      <lb ed="#L" n="48"/>visione, siue volutione, aut nolutione coniuncta. Sola visio namque certa de aliquo prospero 
+      <lb ed="#L" n="49"/>vel aduerso propinquo causat in corde &amp; corpore sic videntis dilectionem aut tristitiam, 
+      dila<lb ed="#L" n="50" break="no"/>tationem vel constrictionem, spem vel timorem, &amp; multas passiones alias corporales, sicut 
+      <lb ed="#L" n="51"/>ex 18. secundi potest haberi; veluti in Christo sudorem sanguineum, &amp; in quibusdam 
+      mor<lb ed="#L" n="52" break="no"/>tem, sicut videtur in Nabal. . Reg. 25. sicut &amp; refertur de quodam magno de Anglia post 
+      depor<lb ed="#L" n="53" break="no"/>tationem reconciliato, quod nimio gaudio incurabiliter resolutus vitam cum gaudio 
+      termina<lb ed="#L" n="54" break="no"/>uit: quamobrem arguatur de talibus sicut prius. Igitur contra omnes admittentes reuelatione 
+      <lb ed="#L" n="55"/>in verbo procedit haec ratio vna breuis, Necesse est hunc effectum esse vel fuisse, ergo &amp;st illam 
+      <lb ed="#L" n="56"/>reuelationem in verbo, quare &amp; illud reuelatum necesse est fore. Sed hic a multis 
+      multiplici<lb ed="#L" n="57" break="no"/>ter respondetur; omnes tamen in hoc vno conneniunt, quod consequutio ilta non tenet. Et  
+      <lb ed="#L" n="58"/>si contra omnes comuniter arguatur, necessario sequitur, Iste effectus fuit, ergo causa eius fuit, 
+      <!--794.xml-->
+      <pb ed="#A" n="761"/>
+               <lb ed="#L" n="1"/>Antecedens est necessarium, ergo &amp;s consequens: concedunt; sed si arguatur vlterius, causa 
+      e<lb ed="#L" n="2" break="no"/>ius fuit, ergo reuelatio illa in verbo; dicunt concorditer hoc non sequi, sed esse fallaciam 
+      con<lb ed="#L" n="3" break="no"/>sequentis, quia iste effectus potest non habuisse hanc causam, sed alias causas multas; In 
+      assig<lb ed="#L" n="4" break="no"/>natione tamen harum causarum multipliciter variantur. Nam quidam dicunt, possibile est 
+      <lb ed="#L" n="5"/>illam reuelationem in verbo non fuisse reuelationem, quia nec fuisse veram, sed apparentiam  
+      <lb ed="#L" n="6"/>vnam falsam, &amp; illam, possibile est fuisse causam huius effectus. Alij vero dicunt opinionem, 
+      <lb ed="#L" n="7"/>aestimationem, seu apparentiam creatam in proprio genere posse fuisse causam huius effectus. 
+      <lb ed="#L" n="8"/>Tertij visionem oppositi illius reuelati in verbo. Quarti complexam &amp; simplicem visionem 
+      <lb ed="#L" n="9"/>simplicis obiecti in verbo. Quinti libertatem voluntatis creatae. Sexti autem Deum per se 
+      so<lb ed="#L" n="10" break="no"/>lum. Sed contra omnes istas responsiones simul est primo generaliter arguendum, deinde 
+      <lb ed="#L" n="11"/>contra singulas singulatim. Omnes enim conueniunt in hoc vno, quod effectus ab vna causa 
+      <lb ed="#L" n="12"/>productus, potest non fuisse productus ab illa, sed ab alia. Ex isto autem videtur sequi per 
+      lo<lb ed="#L" n="13" break="no"/>cum a simili, saltem de omnipotentia Dei, quod quaecunque causa aliquem effectum 
+      produ<lb ed="#L" n="14" break="no"/>xit, potest illum nullatenus produxisse, &amp; quaecunque effectum a quacunque causa productum 
+      <lb ed="#L" n="15"/>potest non illa sed alia produxisse: Paulus ergo, qui aedificauit domum, &amp; genuit filium, potest 
+      <lb ed="#L" n="16"/>non sic fecisse, &amp; Petrus potest illam domum aedificasse, &amp; illum filium genuisse, cum 
+      absurdi<lb ed="#L" n="17" break="no"/>tatibus alijs multis nimis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

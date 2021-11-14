@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="692"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91405"><!-- l3c17 -->
+            <head xml:id="dcn2br-e91405-Hd1e106">Caput 17</head>
+            <p xml:id="dcn2br-e91405-d1e109">
+      <!--725.xml-->
+               <pb ed="#A" n="692"/>
+               <lb ed="#L" n="1"/>CAP. XVII. 
+      <lb ed="#L" n="2"/>Corrigit sextam opionem quorundam, putantium quod aliquid est 
+      <lb ed="#L" n="3"/>futurum ad vtrumlibet, vel non futurum in sensu composito, non 
+      <lb ed="#L" n="4"/>diuiso. 
+      </p>
+            <p xml:id="dcn2br-e91405-d1e125">
+               <lb ed="#L" n="5"/>OPinio sexta fingit quod aliquid est futurum ad vtrumlibet, vel non 
+      futu<lb ed="#L" n="6" break="no"/>rum in sensu composito, non autem in sensu diuiso, quam sic astruere 
+      <lb ed="#L" n="7"/>moliuntur. Nulla propositio simplex de futuro in materia 
+      contingen<lb ed="#L" n="8" break="no"/>te aequaliter est vera vel falsa, Philosopho I. peri hermenias vlt. 
+      atte<lb ed="#L" n="9" break="no"/>stante; quare nec aliquid est futurum ad vtrumlibet, vel non futurum 
+      <lb ed="#L" n="10"/>diuisim. Hanc autem opinionem audiui in Curia Romana a quodam 
+      <lb ed="#L" n="11"/>famoso Philosopho Tolosano in quadam disputatione solenni de 
+      <lb ed="#L" n="12"/>contingentia futurorum, secundum eam totaliter publice 
+      responden<lb ed="#L" n="13" break="no"/>te, quam &amp; Oxoniae similiter audiebam. Sed haec faciliter conuincetur: Nam secundum eam 
+      <lb ed="#L" n="14"/>nihil est futurum ad vtrumlibet contingenter, sed omnia quae euenient, euenient de necessitate 
+      <lb ed="#L" n="15"/>penitus absoluta, quod 12. huius damnat. Item sic opinans propriae opinionis laqueo 
+      irreti<lb ed="#L" n="16" break="no"/>tur: dicit enim nihil esse contingenter futurum vel non futurum in sensu diuiso; ergo nihil est 
+      <lb ed="#L" n="17"/>contingenter futurum, ergo Antichristus non est contingenter futurus, quod opinioni 
+      repug<lb ed="#L" n="18" break="no"/>nat: sequitur quoque hanc esse veram, Antichristus non est futurus, &amp; eius oppositam esse 
+      fal<lb ed="#L" n="19" break="no"/>sam, quod rationem positionis irrationabilem manifestat. Item tibi sic opinanti propono, 
+      An<lb ed="#L" n="20" break="no"/>tichristus erit; si concedis vel negas, habes concedere consequenter oppositum positionis &amp;C 
+      <lb ed="#L" n="21"/>rationis tuae similiter, nec potes eam dubitare, quia bene scis quod nec est vera nec falsa, nec 
+      <lb ed="#L" n="22"/>potes eam distinguere propter simplicitatem &amp; vniuocationem maximam terminorum ac 
+      to<lb ed="#L" n="23" break="no"/>tius complexi. Si autem dicas te non intelligere, nec intelligere posse illam, redargueris sicut 
+      <lb ed="#L" n="24"/>quarta opinio fuerat redarguta, nisi forsitan vanum &amp; fatuum videatur tibi quicquam arguere 
+      <lb ed="#L" n="25"/>non potenti intelligere arguentem, nec te ipsum etiam respondentem; quare non videtur tibi 
+      <lb ed="#L" n="26"/>dignius arguendum, quam homini fatuo, mortuo, bestiae, siue ligno. Si autem inprimis 
+      nega<lb ed="#L" n="27" break="no"/>ueris mihi istam, Antichristus erit, &amp; hanc similiter, Antichristus non erit, vel non 
+      Antichri<lb ed="#L" n="28" break="no"/>stus erit, adhuc redit oppositum positi, imo &amp; sequitur, Non Antichristus erit, ergo 
+      Antichri<lb ed="#L" n="29" break="no"/>stus erit, sicut nullus ignorat qui limen Logicae est ingressus, quare &amp; iterum oppositum positi 
+      <lb ed="#L" n="30"/>consequitur. Praeterea si vtramque illarum negaueris, concedes inter contradictoria medium 
+      <lb ed="#L" n="31"/>reperiri, quod omnes Sophistae, Logici, Philosophi, &amp; Theologi detestantur; quod &amp; Phi. L 
+      <lb ed="#L" n="32"/>losophus 4. Metaphys. 27. multipliciter reprobat &amp; condemnat; qui &amp; 29. scilicet vlt. Est,  
+      <lb ed="#L" n="33"/>inquit, necesse contradictionis partem alteram esse veram; vbi &amp; immediate subiungit, 
+      Am<lb ed="#L" n="34" break="no"/>plius si omne aut dicere aut negare est necesse, vtraque falsa esse impossibile est. Item 
+      Anti<lb ed="#L" n="35" break="no"/>christus erit vel non erit; ergo Antichristus erit, vel Antichristus non erit; ergo illa est 
+      dis<lb ed="#L" n="36" break="no"/>iunctiua vera, ergo &amp;st altera partium. Item tunc nec Deus, nec Angelus aut Propheta sciret 
+      <lb ed="#L" n="37"/>Antic hristum, nec quicquam possibilium contingenter esse futurum diuisim vel non futurum, 
+      <lb ed="#L" n="38"/>sed tantum esse futurum vel non futurum coniunctim, sicut &amp; scit quilibet idiota; quare &amp;  
+      <lb ed="#L" n="39"/>omnis praescientia penitus tolleretur, sicque haec opinio coincidit in secundam 13. huius 
+      de<lb ed="#L" n="40" break="no"/>structam. Hanc etiam opinionem expresse refellit Boetius 5. de consolatione philosophiae: 
+      <lb ed="#L" n="41"/>prosa tertia; vbi &amp; comparat eam ridiculoso vaticinio Tiresiae dicentis, Quicquid dixero, aut  
+      <lb ed="#L" n="42"/>erit aut non erit: de quo Tiresia Ouidius 3. Muthologiae suae plenius fabulatur. Item iste actus 
+      <lb ed="#L" n="43"/>l/ liber &amp; contingenter productus nunc est, &amp; non semper fuit, ergo aliquando fuit futurus, 
+      <lb ed="#L" n="44"/>ergo tunc verum fuit ipsum esse futurum. Item si quis heri dixisset me hodie locuturum, verum E 
+      <lb ed="#L" n="45"/>dixisset, sicut exitus rei probat; hodie namque loquor: dixisset enim totaliter sic fuisse futurum, 
+      <lb ed="#L" n="46"/>sicut realiter nunc contingit; ergo verum dixisset; &amp; si oppositum eius dixisset, falsum dixisset, 
+      <lb ed="#L" n="47"/>eo quod non sic realiter eueniret, iuxta illa propositionem in praedicamentis communem; in 
+      <lb ed="#L" n="48"/>eo quod res est, vel non est, oratio vera vel falsa dicitur; &amp; I. peri hermenias vlt. Similiter 
+      ora<lb ed="#L" n="49" break="no"/>tiones verae sunt, quemadmodum &amp; res. Et Ier. 28. Propheta qui vaticinatus est pacem, cum 
+      <lb ed="#L" n="50"/>venerit verbum eius, scietur Propheta quem miserit Dominus in veritate. Et Exech. 33. Cum 
+      <lb ed="#L" n="51"/>venerit quod praedictum est, tunc scient quod Propheta fuerit inter eos. Et Deut. 18. Hoc 
+      <lb ed="#L" n="52"/>habebis signum, quod Propheta praedixerit, &amp; non euenerit; hoc Dominus non locutus est, sed 
+      <lb ed="#L" n="53"/>per tumorem animi sui Propheta confinxit. Item tung nullus deberet credere, nec sperare ali¬ 
+      <!--726.xml-->
+      <pb ed="#A" n="693"/>
+               <lb ed="#L" n="1"/>quid tale futurum: fatuum namque videtur &amp; friuolum quenquam credere vel sperare quic¬ 
+      <lb ed="#L" n="2"/>quam futurum, quod bene scit, aut firmiter opinatur non esse verum quod sit futurum: quare 
+      <lb ed="#L" n="3"/>nullus debet credere vel sperare quod ipse vel aliquis hominum morietur, resurget, aut vitam 
+      <lb ed="#L" n="4"/>percipiet sempiternam. Item haec opinio tollit omnem motionem &amp; actionem liberam, &amp;  
+      <lb ed="#L" n="5"/>meritoriam successiuam. Nam secundum eam in contingentibus talibus nihil est futurum; 
+      <lb ed="#L" n="6"/>ergo nullus terminus ad quem motus, nec aliquod mutatum esse, quare nec vllus talis motus 
+      <lb ed="#L" n="7"/>est, nec etiam esse potest, quod totam scientiam moralem subuertit, imo &amp; totam scientiam  
+      <lb ed="#L" n="8"/>naturalem, &amp; omnem scientiam motu vel tempore indigentem, sicut &amp; opinio Sophistarum,  
+      <lb ed="#L" n="9"/>vel omnipotentiam aut libertatem diuinam, aut subuertetur per ipsas: omnis namque motus 
+      <lb ed="#L" n="10"/>subiacet omnipotentis Dei liberae voluntati, sicut 9. primi &amp; 30. secundi ostendunt; ergo in 
+      <lb ed="#L" n="11"/>motu &amp; tempore est aliquid libere &amp; contingenter futurum respectu voluntatis diuinae, quod 
+      <lb ed="#L" n="12"/>opinioni repugnat, vel si nihil tale sit libere &amp; contingenter futurum respectu voluntatis 
+      diui<lb ed="#L" n="13" break="no"/>nae, aut ipsa nequaquam libere libertate contradictionis de futuris disponit, aut si sic disponit, 
+      <lb ed="#L" n="14"/>potest disponere aliter, sed non habet potentiam exequendi. Amplius autem secundum istam 
+      <lb ed="#L" n="15"/>sententiam, nulla propositio de futuro esset vera, aut esse posset nisi propositio necessaria; 
+      <lb ed="#L" n="16"/>quod Logica, Philosophia, Theologia, &amp; omnis vera scientia reputat esse falsum. Quare &amp;  
+      <lb ed="#L" n="17"/>Robertus Cantuariensis Archiepiscopus damnauit Oxoniae articulum asserentem, quod 
+      om<lb ed="#L" n="18" break="no"/>nis propositio vera de futuro est necessaria. Quod autem a Philosopho allegatur, Nullam 
+      <lb ed="#L" n="19"/>scilicet propositionem de futuro contingenti esse veram vel falsam, verum est secundum 
+      com<lb ed="#L" n="20" break="no"/>muniter exponentes determinate &amp; de necessitate, sicut est in propositionibus alijs 
+      tempo<lb ed="#L" n="21" break="no"/>rum aliorum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

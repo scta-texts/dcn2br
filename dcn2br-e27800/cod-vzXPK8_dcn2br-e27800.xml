@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="202"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e27800"><!-- l1c13 -->
+            <head xml:id="dcn2br-e27800-Hd1e106">Caput 13</head>
+            <p xml:id="dcn2br-e27800-d1e109">
+               <lb ed="#L" n="31"/>CAP. XIII. 
+      <lb ed="#L" n="32"/>Ex istis quasi Corollarie 12. partes infert. 
+    </p>
+            <p xml:id="dcn2br-e27800-d1e116">
+               <lb ed="#L" n="33"/>EX hoc autem multa quasi corollaria videntur inferris
+    </p>
+            <div xml:id="dcn2br-e27800-Dd1e121">
+               <head xml:id="dcn2br-e27800-Hd1e123">Corollarium 1</head>
+               <p xml:id="dcn2br-e27800-d1e126">
+                  <lb ed="#L" n="34"/>Quod actus est simpliciter prior potentia. 
+    </p>
+               <p xml:id="dcn2br-e27800-d1e131">
+                  <lb ed="#L" n="35"/>DRimo, actum esse simpliciter priorem potentia in mobilibus 
+      <lb ed="#L" n="36"/>T&amp; non mobilibus, temporalibus &amp; aeternis. Hoc ex 
+      priori<lb ed="#L" n="37" break="no"/>bus satis patet, loquendo de primo actu simpliciter, qui est 
+      puris<lb ed="#L" n="38" break="no"/>sima, absolutissima, &amp; actualissima essentia summi Dei, ex qua 
+      <lb ed="#L" n="39"/>3 velut ex radice posteriora pullulant, tanqua propagines, omnia 
+      <lb ed="#L" n="40"/>attributa diuina, quibus mediantibus ex sua foecunditate 
+      inhau<lb ed="#L" n="41" break="no"/>sta germinat caeteras creaturas. Quare &amp; Aristoteles 9. 
+      Me<lb ed="#L" n="42" break="no"/>taph. 13. &amp; post diffuse probat quod actus in omni motiuo &amp; 
+      <lb ed="#L" n="43"/>immobilitatiuo est prior potentia tribus modis, scilicet ratione, id est, definitione, sapientia, id 
+      <lb ed="#L" n="44"/>est, perfectione, &amp; tempore quodammodo, &amp; quodammodo non; quodlibet enim 
+      indiui<lb ed="#L" n="45" break="no"/>duum generatum prius est in potentia quam in actu, sicque potentia prior est actum; sed illud a 
+      <lb ed="#L" n="46"/>quo indiuiduum generatur est necessario prius in actu, sicque actus praecedit potentiam 
+      tem<lb ed="#L" n="47" break="no"/>pore, docente Philosopho: Semper enim ex potestate ente sit actu ens, ab actuente, semper 
+      <lb ed="#L" n="48"/>mouente aliquo primo, mouens autem actuiam est. Et infra 17. Palam quia prior actus 
+      po<lb ed="#L" n="49" break="no"/>tentia, substantia, &amp; tempore; semper enim praeaccipitur actus alius ante alium, vsque ad eum, 
+      <lb ed="#L" n="50"/>qui est semper mouentis primum: At vero &amp; magis proprie; Nam sempiterna priora 
+      sub<lb ed="#L" n="51" break="no"/>stantia corruptibilibus; vbi dicit Auerroes, Actus qui est motor praecedit tempore rem 
+      <lb ed="#L" n="52"/>motam, &amp; ascendit hoc ad primum motum &amp; primum motorem. Declaratum est enim in 
+      <!--236.xml-->
+      <pb ed="#A" n="203"/>
+                  <lb ed="#L" n="1"/>Physicis, quod omnia mota reducuntur ad primum motorem, qui est actus in quo non est 
+      po<lb ed="#L" n="2" break="no"/>tentia omnino, scilicet ad mutabilitatem aliquam in seipso, vt 5um capitulum praemonstrauit.  
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e182">
+               <head xml:id="dcn2br-e27800-Hd1e184">Corollarium 2</head>
+               <p xml:id="dcn2br-e27800-d1e187">
+                  <lb ed="#L" n="3"/>Quod esse est prius simpliciter, quam non esse.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e192">
+                  <lb ed="#L" n="4"/>VNde &amp; secundo monstratur quod esse prius est simpliciter quam non esse; esse scilicet 
+      pri<lb ed="#L" n="5" break="no"/>V mi actus, sicut ex proximo satis patet. Vnde Auerroes super 9. Meta. comment. 13. 
+      vni<lb ed="#L" n="6" break="no"/>uersaliter quia potentia est non esse, &amp; actus esse, necesse est vt esse praecedat non esse. Rursum 
+      <lb ed="#L" n="7"/>autem si hoc non est, verum est, &amp; ita est, quod hoc non est; quare &amp; secundum proximo 
+      hu<lb ed="#L" n="8" break="no"/>ius praemissa, aliqua veritate &amp; entitate priore verum est, &amp; ita est, quod hoc non est. Dicitque 
+      <lb ed="#L" n="9"/>Philosophus I. Post. 17. quod affirmatiua prior est negatiua, sicut esse prius est non esse. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e210">
+               <head xml:id="dcn2br-e27800-Hd1e212">Corollarium 3</head>
+               <p xml:id="dcn2br-e27800-d1e215">
+                  <lb ed="#L" n="10"/>Quod necessarium est prius possibili contradictionis.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e220">
+                  <lb ed="#L" n="11"/>TErtio quoque ex eodem colligitur, necessarium esse prius possibili contradictionis; hoc e¬ 
+      <lb ed="#L" n="12"/>nim euidenter apparet ex I7a parte, &amp; alijs primi huius. Necessarium etiam potest esse 
+      <lb ed="#L" n="13"/>sine tali possibili, non e contra; Namper secundum omne tale possibile necessario 
+      conserua<lb ed="#L" n="14" break="no"/>tur a Deo. Item si necessarium non sit prius possibili contradictionis; est igitur compar, vel 
+      <lb ed="#L" n="15"/>posterius; sed non est compar &amp; coaequaeuum cum eo, quia cum non sunt duo eque prima 
+      sim<lb ed="#L" n="16" break="no"/>pliciter, oporteret illa duo reduci ad aliquod prius ambobus, tanquam ad primum principium 
+      <lb ed="#L" n="17"/>&amp; primam causam illis communem, sed nihil tale poterit assignari; nec possibile 
+      contradicti<lb ed="#L" n="18" break="no"/>onis potest esse prius necessario, quia tunc potentia praecederet actum; &amp; non esse, esse; quod  
+      <lb ed="#L" n="19"/>est contra proximo nunc ostensa. Item si possibile contradictionis esset prius necessario, cum 
+      <lb ed="#L" n="20"/>tale possibile non de necessitate causet tale necessarium, posset esse sine illo, quod est contra 
+      <lb ed="#L" n="21"/>secundum huius, sicut superius est argutum. Item quod non habet causam prius est eo quod 
+      <lb ed="#L" n="22"/>habet causam; sed secundum Auicennam 1. Metaph. 6. Necesse esse per se non habet causam,  
+      <lb ed="#L" n="23"/>&amp; quod est possibile esse per se habet causam; Et infra eodem 8. Necesse est id quod per 
+      seip<lb ed="#L" n="24" break="no"/>sum est veritas, posse vero est slesse per aliud a se; &amp; cap. 6. probat, quod necesse esse non habet 
+      <lb ed="#L" n="25"/>aliquid sibi coaequale, nec aliquid prius eo; sed ipsum per seipsum est primum omnium aliorum. 
+        </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e256">
+               <head xml:id="dcn2br-e27800-Hd1e258">Corollarium 4</head>
+               <p xml:id="dcn2br-e27800-d1e261">
+                  <lb ed="#L" n="26"/>Quod necessarium est prius impossibili.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e266">
+                  <lb ed="#L" n="27"/>QVarto vero ex hoc potest cognosci quod necessarium est prius impossibili: Possibile 
+      e<lb ed="#L" n="28" break="no"/>Qnim est prius impossibili sicut affirmatio negatione, habitus priuatione, &amp; esse non esse, 
+      <lb ed="#L" n="29"/>&amp; necessarium est prius possibili, sicut nouissime probatur. Item necessarium se habet ad 
+      im<lb ed="#L" n="30" break="no"/>possibile, sicut affirmatiuum ad negatiuum, habitus ad priuationem, &amp; esse ad non esse; haec 
+      <lb ed="#L" n="31"/>autem illa praecedunt. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e280">
+               <head xml:id="dcn2br-e27800-Hd1e282">Corollarium 5</head>
+               <p xml:id="dcn2br-e27800-d1e285">
+                  <lb ed="#L" n="32"/>Quod pure necesse esse, seu pura necessitas est prius simpliciter quolibet alio, ac radix pri¬ 
+      <lb ed="#L" n="33"/>ma &amp; fundamentum primarium omnium aliorum. 
+      </p>
+               <p xml:id="dcn2br-e27800-d1e292">
+                  <lb ed="#L" n="34"/>QVinto ex eodem colligitur, quod pure necesse esse, seu pura necessitas est prius simpliciter 
+      <lb ed="#L" n="35"/>E quolibet alio, ac radix prima &amp; fundamentum primarium omnium aliorum; hoc autem 
+      <lb ed="#L" n="36"/>intellectis prioribus faciliter cognoscetur. Potest tamen ex abundanti breuiter sic ostendi; si 
+      <lb ed="#L" n="37"/>non sit ita, aliquid aliud est prius naturaliter necessario, vel coaequale cum co; sed nullum non  
+      <lb ed="#L" n="38"/>necessarium est prius eo, quia cum omne ens posterius constituatur in quolibet suo esse per 
+      <lb ed="#L" n="39"/>ens primum, sequeretur quod necessarium constitueretur in esse necessario per ens non 
+      neces<lb ed="#L" n="40" break="no"/>sarium, sed possibile vel contingens, quod est impossibile manifestum, quia adhuc destructo 
+      <lb ed="#L" n="41"/>possibili maneret necessarium per seipsum, &amp; quia nihil potest dare alteri firmius esse quam  
+      <lb ed="#L" n="42"/>habet. Item si vna pars contradictionis est possibilis, reliqua est possibilis, &amp; si vna est 
+      neces<lb ed="#L" n="43" break="no"/>saria, reliqua est impossibilis; &amp; si possibile constituat necessarium ex posse non esse, sequitur 
+      <lb ed="#L" n="44"/>necessarium non esse; ergo ex possibili sequitur impossibile &amp; ex vero falsum. Tunc etiam 
+      pos<lb ed="#L" n="45" break="no"/>sibile vel contingens esset prius necessario contra priora. Nec aliquid non necessarium est 
+      coae<lb ed="#L" n="46" break="no"/>quale cum necessario, secundum precedentia documenta; est ergo necesse esse principium 
+      omni<lb ed="#L" n="47" break="no"/>bus alijs, &amp; omnium prima causa. Opponet se forsitan aliquis cotra ista, quia secundum priora 
+      <lb ed="#L" n="48"/>Deum esse est run principium, &amp; per consequens Deum simpliciter esse, prius est quam ipsum 
+      <lb ed="#L" n="49"/>necessario esse, seu esse necesse esse, &amp; quia sicut pars praecedit totum, sic esse necesse esse: 
+      Dicen<lb ed="#L" n="50" break="no"/>dum secundum priora, quod si Deus est, sit rum principium, hoc nomen Deus significat rum 
+      <lb ed="#L" n="51"/>ens essentialissime &amp; propriissime; quare &amp; simili ratione maxime necesse esse, &amp; praedicatum 
+      <lb ed="#L" n="52"/>seu verbum significabit quantum poterit correspondenter, sicque Deum esse, si sit primum 
+      <lb ed="#L" n="53"/>principium per se, &amp; primo significat necesse esse sic esse. Et qualecunque esse, praedicatum 
+      <lb ed="#L" n="54"/>seu verbum significet, cum subiectum sit prius naturaliter praedicato &amp; verbo, &amp; ipsum ex se 
+      <lb ed="#L" n="55"/>primo est necesse esse, adhuc necesse esse praecedit aliud esse quodcunqe Quod autem 
+      assumi<lb ed="#L" n="56" break="no"/>tur consequenter quod esse praecedit necesse esse, vt pars totum, non est verum: Nam necesse 
+      <lb ed="#L" n="57"/>esse non habet aliqua partem priorem, nec aliquid prius omnino quo constituatur in tali esse; 
+      <lb ed="#L" n="58"/>sed ipsum per se &amp; primo est simplicissime tale esse.
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e350">
+               <head xml:id="dcn2br-e27800-Hd1e352">Corollarium 6</head>
+               <p xml:id="dcn2br-e27800-d1e355">
+      <!--237.xml-->
+                  <pb ed="#A" n="204"/>
+                  <lb ed="#L" n="1"/>Quod principium primum complexum summe &amp; pure necessarium est &amp; firmum.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e364">
+                  <lb ed="#L" n="2"/>VNde &amp; So patet indubie, quod principium primum complexum, summe &amp; pure neces¬ 
+      <lb ed="#L" n="3"/>sarium est &amp; firmum; Hoc enim de summe &amp; firmissime necesse esse correspondenter 
+      <lb ed="#L" n="4"/>enuntiat esse, sicut praecedentia manifestant.  
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e374">
+               <head xml:id="dcn2br-e27800-Hd1e376">Corollarium 7</head>
+               <p xml:id="dcn2br-e27800-d1e379">
+                  <lb ed="#L" n="5"/>Quod necessarium nequaquam recte per possibile vel per impossibile definitur.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e384">
+                  <lb ed="#L" n="6"/>SEptimo concluditur manifeste, quod necessarium nequaquam recte per possibile, nec per 
+      <lb ed="#L" n="7"/> impossibile definitur; Nihil enim recte definitur per aliquid posterius eo, sicut 2. Post. &amp;  
+      <lb ed="#L" n="8"/>7. Metaph. demonstratur, sed vtrumque istorum est posterius necessario; Non ergo recte 
+      de<lb ed="#L" n="9" break="no"/>finitur necessarium per hoc quod non est possibilenon esse, vel per hoc quod impossibile est 
+      <lb ed="#L" n="10"/>non esse. Ideoque Auicen. 1. Metaph. 5. reprobat definitiones Antiquorum de necessario. 
+      <lb ed="#L" n="11"/>possibili, &amp; impossibili, eo quod definiebant illa per se inuicem circulando, vt patet de 
+      defi<lb ed="#L" n="12" break="no"/>nitionibus quas ibi recitat ab Antiquis; dicitque ex his tribus id quod dignius est intelligi est 
+      ne<lb ed="#L" n="13" break="no"/>cesse esse, quoniam necesse esse significat vehementiam essendi; esse vero notius est quam  
+      <lb ed="#L" n="14"/>non esse; esse enim cognoscitur per se, non esse vero per esse. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e407">
+               <head xml:id="dcn2br-e27800-Hd1e409">Corollarium 8</head>
+               <p xml:id="dcn2br-e27800-d1e412">
+                  <lb ed="#L" n="15"/>Quod necesse esse non potest simpliciter definiri.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e417">
+                  <lb ed="#L" n="16"/>VNde &amp; octauo constare poterit euidenter, quod necesse esse, non potest simpliciter defi¬ 
+      <lb ed="#L" n="17"/>niri, (Non enim habet aliquid simpliciter prius eo) Notificari tamen nobis &amp; describi 
+      <lb ed="#L" n="18"/>potest quodammodo per descriptionem a posterioribus, &amp; ignotioribus, sed notoriotibus 
+      no<lb ed="#L" n="19" break="no"/>bis sumptam, sicut in omnibus fere scientijs creberrime definitur. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e430">
+               <head xml:id="dcn2br-e27800-Hd1e432">Corollarium 9</head>
+               <p xml:id="dcn2br-e27800-d1e435">
+                  <lb ed="#L" n="20"/>Quod affirmatiua est prior qualibet negatiua, &amp; quod quaelibet negatiua vera reducitur 
+      <lb ed="#L" n="21"/>ad aliam affirmatiuam priorem &amp; causam veritatis illius. 
+      </p>
+               <p xml:id="dcn2br-e27800-d1e442">
+                  <lb ed="#L" n="22"/>HInc nono similiter clare patet, affirmatiuam esse priorem qualibet negatiua, &amp; omnem 
+      <lb ed="#L" n="23"/>TInegatiuam veram reduci ad affirmatiuam priorem, quae sit causa veritatis illius. Primum 
+      <lb ed="#L" n="24"/>namque principium quod est affirmatiuum est prima causa cuiuslibet alterius veritatis, sicut 
+      <lb ed="#L" n="25"/>praehabita manifestant. Item hoc est verum de negatiua de qua minus videtur, de tali scilicet  
+      <lb ed="#L" n="26"/>cuius vtrumque extremum est impossibile esse, vt Chimera non est Tragelaphus; Haec enim 
+      <lb ed="#L" n="27"/>est vera, ergo habet aliquam causam veritatis; sed illa non est soli termini, quia illi soli per se 
+      <lb ed="#L" n="28"/>non magis redderent propositionem veram quam falsam; imo nec veram, nec falsam; Nec 
+      <lb ed="#L" n="29"/>illa causa potest esse Chimaera, nec Tragelaphus; haec enim nihil sunt &amp; per consequens 
+      ni<lb ed="#L" n="30" break="no"/>hil causant; est ergo aliquid existens causa veritatis // illius: Hic autem potest quis instare, 
+      <lb ed="#L" n="31"/>Nam propositio immediata non habet aliquam Propositionem priorem, quae sit causa 
+      veri<lb ed="#L" n="32" break="no"/>tatis illius, quoniam tunc per illam posset ostendi a priori; sed aliqua est Propositio negatiua 
+      <lb ed="#L" n="33"/>immediata, vt patet in libro Post. quasi per totum. Dicendum quod Propositionem esse 
+      im<lb ed="#L" n="34" break="no"/>mediatam potest esse dupliciter, scilicet simpliciter, vel in aliquo determinato genere, seu 
+      eti<lb ed="#L" n="35" break="no"/>am per priuationem medij simpliciter, vel in certo genere. Primo modo nulla propositio 
+      ne<lb ed="#L" n="36" break="no"/>gatiua est immediata, sicut ratio suadere videtur; secundo modo est, scilicet non omnino &amp; 
+      <lb ed="#L" n="37"/>simpliciter sed in genere Propositionum negatiuarum, sicut per priuationem Propositionis 
+      <lb ed="#L" n="38"/>negatiuae prioris, per quam a priori valeat demonstrari, &amp; sic potest intelligi dictus liber¬ 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e482">
+               <head xml:id="dcn2br-e27800-Hd1e484">Corollarium 10</head>
+               <p xml:id="dcn2br-e27800-d1e487">
+                  <lb ed="#L" n="39"/>Quod prima causa cuiuslibet negationis verae est in Deo.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e492">
+                  <lb ed="#L" n="40"/>ET ex hoc videtur decimo, quod prima causa cuiuslibet negationis verae sit in Deo; Cuius 
+      <lb ed="#L" n="41"/>Llibet enim negationis verae aliqua affirmatiua prior, est causa, sicut proximo est ostensum, 
+      <lb ed="#L" n="42"/>&amp; cuiuslibet affirmatiuae verae prima causa est primum principium complexum, scilicet Deum  
+      <lb ed="#L" n="43"/>esse, sicut praecedentia docuerunt. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e504">
+               <head xml:id="dcn2br-e27800-Hd1e506">Corollarium 11</head>
+               <p xml:id="dcn2br-e27800-d1e509">
+                  <lb ed="#L" n="44"/>Quod Deus est prima Causa cuiuscunque non esse.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e514">
+                  <lb ed="#L" n="45"/>EX isto autem vndecimo videtur inferri, Deum esse primam causam cuiuscunque non esse: 
+      <lb ed="#L" n="46"/>A quolibet enim non ente vere negatur esse; huius autem veritatis negatiuae Deus est 
+      pri<lb ed="#L" n="47" break="no"/>ma causa, sicut ostensum est proximo; est ergo prima causa sic essendi vel non essendi, sicut  
+      <lb ed="#L" n="48"/>significatur per illam; Nam in eo quod res est vel non est, oratio vera vel falsa dicitur, vt pre 
+      <lb ed="#L" n="49"/>dicamenta Aristotelis docuerunt. Item Deus est prima causa cuiuslibet esse seu entis; &amp; 
+      ali<lb ed="#L" n="50" break="no"/>quod ens seu esse est causa alicuius non esse vel non entis, ergo Deus est prima causa alicuius 
+      <lb ed="#L" n="51"/>non esse, vel non entis, ergo &amp;et cuiuscunque per similem rationem. Bonum enim non esse 
+      <lb ed="#L" n="52"/>malum est quoddam non esse, &amp; huius causa est bonum esse bonum; et homo non est Asinus; 
+      <!--238.xml-->
+      <pb ed="#A" n="205"/>
+                  <lb ed="#L" n="1"/>quia est animal rationale seu homo. Et in pure non entibus patet idem; Aliquod enim 
+      facti<lb ed="#L" n="2" break="no"/>bile non est factum, nec est, quia nullum faciens fecit illud; Species enim vel res quaecunque 
+      <lb ed="#L" n="3"/>factibilis a solo Deo, sicut alia stella in coelo, vel alius angelus, ideo non fiebat nec erat, quia 
+      <lb ed="#L" n="4"/>Deus non fecit, sicut saluatio nauis non fuit, quia nauta non affuit, sed abfuit forsitan 
+      occu<lb ed="#L" n="5" break="no"/>patus, vt patet per Aristotelem, 5. Metaph. 2. &amp; per Anselmum de Conceptu virginali 5. 
+      </p>
+            </div>
+            <div xml:id="dcn2br-e27800-Dd1e550">
+               <head xml:id="dcn2br-e27800-Hd1e552">Corollarium 12</head>
+               <p xml:id="dcn2br-e27800-d1e555">
+                  <lb ed="#L" n="6"/>Quod prima causa cuiustibet impossibilitatis &amp; repugnantiae est in Deo.
+      </p>
+               <p xml:id="dcn2br-e27800-d1e560">
+                  <lb ed="#L" n="7"/>DVodecimo profertur ex isto, quod prima causa cuiuslibet impossibilitatis seu repugnan¬ 
+      <lb ed="#L" n="8"/>tiae est in Deo: Si enim impossibilitas &amp; repugnantia capiantur negatiue, patet per 
+      pro<lb ed="#L" n="9" break="no"/>ximo nunc ostensa; si enim in Deo sit prima causa cuiuscunque negationis verae, &amp; non esse, 
+      <lb ed="#L" n="10"/>ergo &amp; negationis, &amp; non esse cuiuslibet impossibilis &amp; repugnantis, &amp; quia quaelibet 
+      negati<lb ed="#L" n="11" break="no"/>ua vera reducitur ad affirmatiuam priorem, &amp; sic ad primum principium, scilicet Deum esse, 
+      <lb ed="#L" n="12"/>sicut ex superioribus satis patet. Si vero affirmatiue &amp; positiue sumantur, patet similiter. 
+      <lb ed="#L" n="13"/>cum per capitula proxima conster, Deum esse omnium talium causam primam. Item 
+      cuiusli<lb ed="#L" n="14" break="no"/>bet impossibilitatis &amp; repugnantiae est aliqua causa, &amp; Deus est causarum omnium prima 
+      cau<lb ed="#L" n="15" break="no"/>sa: Hoc etiam potest probari, sicut praecedentia probabantur; verum est enim, quod haec 
+      <lb ed="#L" n="16"/>est impossibilis, quocunque impossibili demonstrato; huius autem veritatis, quare &amp; sic 
+      es<lb ed="#L" n="17" break="no"/>sendi, prima causa est primum principium, scilicet Deum esse. Item verum est quod 
+      impos<lb ed="#L" n="18" break="no"/>sibile est Chimaeram esse Tragelaphum; huius autem veritatis causa non est soli termini, nec 
+      <lb ed="#L" n="19"/>Chimaera, aut Tragelaphus, nec aliquod non ens; quia quod omnino non est, nihil omnino 
+      <lb ed="#L" n="20"/>causare potest; aliquod ergo entium est causa illius, &amp; Deus est omnium entium prima 
+      cau<lb ed="#L" n="21" break="no"/>sa. Item omne quod est naturaliter &amp; essentialiter prius alio, est aliqua causa eius; quia si 
+      <lb ed="#L" n="22"/>non, tunc posset esse sine illo priori; quodlibet enim posterius potest esse sine quocunque 
+      pri<lb ed="#L" n="23" break="no"/>ori, a quo causaliter non dependet in esse: Positis enim omnibus &amp; solis illis prioribus, a 
+      qui<lb ed="#L" n="24" break="no"/>bus posterius causaliter dependet in esse, potest posterius illud poni; quia si non, hoc esset 
+      <lb ed="#L" n="25"/>propter defectum alicuius causae essentialis, quae necessario praeexigeretur ad eausandum illud 
+      <lb ed="#L" n="26"/>in esse; sed iam sunt positae omnes tales causae, nec potest fingi, quod hoc sit propter 
+      defe<lb ed="#L" n="27" break="no"/>ctum alicuius causae accidentalis, cum non repugnet rei esse sine quocunque sibi accidentali. 
+      <lb ed="#L" n="28"/>vt patet per illam definitionem accidentis notissimam superius memoratam. Patet ergo 
+      quod<lb ed="#L" n="29" break="no"/>si prius non sit causa posterioris, posterius potest esse sine illo priori; &amp; si posterius aliquod 
+      <lb ed="#L" n="30"/>potest esse sine priori signato, illud non est prius naturaliten &amp; essentialiter illo posteriori, sed 
+      <lb ed="#L" n="31"/>accidentaliter forsan tantum quod destruit hypothesim praeacceptam. Imo potius 
+      videtur<lb ed="#L" n="32" break="no"/>quod illa sint coaequalia, vel secundum nullum ordinem essentialem connexa: Si enim illud 
+      <lb ed="#L" n="33"/>prius non sit causa posterioris, vtrumque potest esse sine reliquo, ergo non sunt naturalius 
+      nec<lb ed="#L" n="34" break="no"/>essentialius ad inuicem ordinata, quam vnitates Arithmeticae vel quaelibet inconnexa, quod 
+      <lb ed="#L" n="35"/>etiam subuertit hypothesim prius fixam. Hoc ergo supposito, arguitur isto modo; Omne 
+      <lb ed="#L" n="36"/>quod est naturaliter &amp; essentialiter prius alio est aliqua causa eius: sed necessarium est 
+      natura<lb ed="#L" n="37" break="no"/>liter &amp; essentialiter prius impossibili, sicut fuperius est ostensum; ergo necessarium est aliqua 
+      <lb ed="#L" n="38"/>causa impossibilitatis &amp; repugnantiae cuiuscunque, &amp; omne necessarium est primum 
+      necessa<lb ed="#L" n="39" break="no"/>rium, scilicet ipse Deus, vel causatum &amp; dependens ab ipso, sicut praecedentia docuerunt. I 
+      <lb ed="#L" n="40"/>maginor enim quod sicut secundum praehabita primum omnium sit pura necessitas, siue 
+      pu<lb ed="#L" n="41" break="no"/>rum necesse esse, stans omnino per se, non dependens ab alio quouismodo; a quo sicut per 
+      <lb ed="#L" n="42"/>eius similitudinem &amp; conformitatem omne aliud necessarium vel possibile, est necessarium 
+      <lb ed="#L" n="43"/>esse, vel possibile esse: sic per eiusdem dissimilitudinem, &amp; contrarietatem seu oppositionem, 
+      <lb ed="#L" n="44"/>omne impossibile est impossibile esse; puto igitur quod omne impossibile esse, ideo est 
+      im<lb ed="#L" n="45" break="no"/>possibile, quia ipsum necesse esse necessario sibi repugnat, &amp; sic immobiliter prohibet illud 
+      <lb ed="#L" n="46"/>esse. Sed ne forsan mihi dicatur, quod res non sequuntur imaginationem, sicque huius 
+      ima<lb ed="#L" n="47" break="no"/>ginationis imago ad nihilum redigatur, muniam eam aliqua ratione. Omne enim 
+      impossi<lb ed="#L" n="48" break="no"/>bile esse propterea est impossibile esse, quia necessario &amp; firmiter repugnat sibi esse: sed in 
+      ip<lb ed="#L" n="49" break="no"/>so impossibili esse, cum omnino non sit, non est aliquid; quare nec aliqua necessitas, firmitas, 
+      <lb ed="#L" n="50"/>seu repugnantia; illa ergo necessitas seu repugnantia est in aliquo existente, ita quod 
+      impossi<lb ed="#L" n="51" break="no"/>bile est illud esse, quia aliquod existens per se primo &amp; necessario sibi repugnat; illud vero 
+      im<lb ed="#L" n="52" break="no"/>possibile repugnat huiusmodi existenti, no per se &amp; primo, sed tantum per repugnantia 
+      existen<lb ed="#L" n="53" break="no"/>tis, quia scilicet illud existes sibi repugnat, sicut est in relatiuis tertij modi, quae dicuntur 
+      secun<lb ed="#L" n="54" break="no"/>dum mensurabile &amp; mensuram, cuiusmodi sunt sensibile, scibile, &amp; intelligibile, seu sensatum, 
+      <lb ed="#L" n="55"/>scitum, &amp; intellectum cum suis correlatiuis. Haec enim dicuntur relatiua, non quia per se, &amp; 
+      <lb ed="#L" n="56"/>essentialiter referuntur, sed quia accidit eis, quod alia, scilicet correlatiua per se &amp; 
+      essenti<lb ed="#L" n="57" break="no"/>aliter referuntur ad illa, &amp; mensurantur ab eis, vt patet quinto Metaphysicorum 20. &amp; simi¬ 
+      <!--239.xml-->
+      <pb ed="#A" n="206"/>
+                  <lb ed="#L" n="1"/>liter in Commentar. Videtur ergo, quod omne impossibile esse, ideo sit impossibile esse, quia 
+      <lb ed="#L" n="2"/>aliquod existens perse &amp; primo sibi repugnans prohibet illud esse; omne autem: existens est 
+      <lb ed="#L" n="3"/>prima &amp; pura necessitas, seu necesse esse, vel causatum &amp; dependens ab eo. Item 
+      impossi<lb ed="#L" n="4" break="no"/>bile &amp; possibilu dicuntur ad inuicem relatiue secundum priuationem, vt patet 5. Metaph. 
+      <lb ed="#L" n="5"/>vbi prius; sed de impossibili cum sit pure non ens, nulla relatio per se &amp; essentialiter potest 
+      <lb ed="#L" n="6"/>consurgere seu fundari, quia tunc duo pure non entia possent referri ad inuicem per se &amp; 
+      es<lb ed="#L" n="7" break="no"/>sentialiter, sine coexigentia alicuius existentis omnino: Ista ergo resatio per se &amp; primo 
+      fun<lb ed="#L" n="8" break="no"/>datur in extremo positiuo, scilicet in pessibili, &amp; emanet ab eo, &amp; sic attribuitur, &amp; aceidit 
+      <lb ed="#L" n="9"/>quodammodo extremo alteri priuatiuo, sicut de relatiuis tertij modi proximo dicebatur. 
+      <lb ed="#L" n="10"/>Possibile ergo causat istam relationem &amp; impossibilitatem, &amp; necesse esse est prius possibili 
+      <lb ed="#L" n="11"/>esse, &amp; causa illius, sicut superius est ostensum, &amp; Deus est prima causa omnium possibilium 
+      <lb ed="#L" n="12"/>&amp; necessariorum, ac omnium causationum illorum. Item ideo impossibile est impossibilo 
+      <lb ed="#L" n="13"/>quia repugnat possibili, imo quia possibile sibi repugnat. Possibile ergo est prima causa 
+      hu<lb ed="#L" n="14" break="no"/>ius repugnantiae &amp; impossibilitatis,  Deus est prima causa omnis alterius causationis &amp; 
+      cau<lb ed="#L" n="15" break="no"/>sae: Istud potest confirmari per hoc quod omnia opposita reducuntur ad prima opposita, quae 
+      <lb ed="#L" n="16"/>sunt habitus &amp; priuatio, vt patet 10. Metaph. 15. &amp; 12. Metaph 23. &amp; ibi probatur, quod illa 
+      <lb ed="#L" n="17"/>sunt in genere substantiae; habituale autem &amp; positiuum est naturaliter prius alio; quare &amp; 
+      <lb ed="#L" n="18"/>aliqua causa eius sicut praecedentia manifestant. Primus ergo habitus in genere substantiae, 
+      <lb ed="#L" n="19"/>scilicet Deus ipse, est prima causa cuiuslibet priuationis, quapropter &amp; impossibilitatis &amp; 
+      <lb ed="#L" n="20"/>repugnantiae cuiuscunque. Item causa propinqua quare quicquam est possibile, est, quia 
+      <lb ed="#L" n="21"/>Deus illud potest, sicut superius est ostensum: Ergo causa propinqua quare quicquam non 
+      <lb ed="#L" n="22"/>est possibile, est quia Deus illud non potest; &amp; quia Deus hoc non potest, non est propter 
+      de<lb ed="#L" n="23" break="no"/>fectum potentiae in eo, cum sit omnipotens. Vnde Auerroes super 8. Phys. 4. Agens non  
+      <lb ed="#L" n="24"/>posse facere aliquid impossibile, non est diminutio agentis; Imo propter abundantiam suae 
+      <lb ed="#L" n="25"/>potentiae infinitae, ideoque potentissime hoc non potest; hoc enim non potest quia 
+      repug<lb ed="#L" n="26" break="no"/>nat suae potentiae infinitae; Imo quia sua, potentia infinita immobiliter sibi repugnat, sicque 
+      <lb ed="#L" n="27"/>necessario prohibet illud esse. Et quia secundum prius ostensa, Actus etiam in Deo 
+      praece<lb ed="#L" n="28" break="no"/>dit potentiam, ideo sua potentia impossibili tali repugnat, quia suus actus purissimus 
+      immo<lb ed="#L" n="29" break="no"/>biliter &amp; necessario sibi repugnat; &amp; hoc est, quia est purum necesse esse, seu pura 
+      neces<lb ed="#L" n="30" break="no"/>sitas: Hoc enim est primum simpliciter omnium affirmationum &amp; negationum, sicut 
+      supe<lb ed="#L" n="31" break="no"/>rius est ostensum; &amp; haec videtur totius impossibilitatis resolutio consummata. Haec autem 
+      <lb ed="#L" n="32"/>ratio fundatur in dicto Philosophi 1. Post. 12. vbi inquirit medium negatiuum demonstratiuum 
+      <lb ed="#L" n="33"/>propinquum conclusionis negatiuae; vt quare paries non respirat? ostendens non posse dici 
+      <lb ed="#L" n="34"/>quia non est Animal, quia tunc esse Animal esset causa propinqua respirandi, &amp; sic omne 
+      Ani<lb ed="#L" n="35" break="no"/>mal respiraret: Si enim negatio est causa ipsius non esse, affirmatio est causa esse; sicut esse sine 
+      <lb ed="#L" n="36"/>mensura calidi &amp; frigidi est causa non sanandi, sic esse cum mensura eorum est causa sanandi; &amp; 
+      <lb ed="#L" n="37"/>similiter, si affirmatio est causa esse, &amp; negatio est causa non esse. Item quodcunque est 
+      impos<lb ed="#L" n="38" break="no"/>sibile, Deus illud non potest: Vel ergo illud est impossibile, quia Deus illud non potest, &amp; sic 
+      <lb ed="#L" n="39"/>habetur propositum; vel ideo Deus illud non potest, quia est impossibile; &amp; sic secundum 
+      <lb ed="#L" n="40"/>proximo allegata, Ideo Deus potest quodcunque possibile, quia illud est possibile; sic 
+      quo<lb ed="#L" n="41" break="no"/>que possibile esse possibile esset prius naturaliter, quam Deum illud posse, &amp; causa prima, 
+      <lb ed="#L" n="42"/>quare Deus hoc posset, quod praecedentia non permittunt, &amp; tunc Deus reciperet 
+      poten<lb ed="#L" n="43" break="no"/>tiam &amp; perfectionem ab alio, nec sufficeret plenissime sibi ipsi, nec esset omnium prima 
+      causa<lb ed="#L" n="44" break="no"/>Etiam si sic esset, aliqua creatura, imo, quod videtur indignius, aliquod pure non ens non 
+      crea<lb ed="#L" n="45" break="no"/>tum nec creabile prohiberet, impossibilitaret, &amp; ineuitabili necessitati supponeret omnipotetem 
+      <lb ed="#L" n="46"/>vt faciat, vel ne faciat hoc vel illud, &amp; similiter cogeret intellectum diuinum ad intelligendum 
+      <lb ed="#L" n="47"/>huiusmodi &amp; sciendum, &amp; eius voluntatem potentissimam atque liberrimam ad volendum. 
+      <lb ed="#L" n="48"/>Hanc autem sententiam tenet Henricus de Candauo 8. de quolibet quaest. 3. dicens quod non 
+      <lb ed="#L" n="49"/>est verum dicere de aliquo impossibili simpliciter quod Deus non potest hoc facere, quia illud E 
+      <lb ed="#L" n="50"/>non potest fieri: sed potius non potest fieri, quia Deus non potest illud facere; sicut &amp; in 
+      as<lb ed="#L" n="51" break="no"/>firmatiua, non dicitur Deum posse aliquid facere, quia illud potest fieri, sed e contrario. Hoc  
+      <lb ed="#L" n="52"/>idem probat similiter <ref xml:id="dcn2br-e27800-Rd1e789">Ioannes Scotus super 1. senten. dist. 43.</ref> per rationem priorem fundatam 
+      <lb ed="#L" n="53"/>ex primo Post. &amp; per aliam similem, &amp; hoc tenens finaliter dicit ibi, quod nihil est 
+      im<lb ed="#L" n="54" break="no"/>possibilesimpliciter, nisi quod includit contradictoria, &amp; incompossibilia, quae ex 
+      ratio<lb ed="#L" n="55" break="no"/>nibus suis formalibus sunt incompossibilia, &amp; ab eo sunt principaliter incompossibilia, a 
+      <lb ed="#L" n="56"/>quo principiatiue habent suas rationes formales, scilicet ab intellectu diuino, formaliter 
+      ta<lb ed="#L" n="57" break="no"/>me ex se. Obiiciet forsitan aliquis contra dicta per dictos Doctores: Henricus enim 
+      <lb ed="#L" n="58"/>tenet contrarium 6. de quolib. quaestione tertia manifeste, scilicet quod prima causa 
+      <!--240.xml-->
+      <pb ed="#A" n="207"/>
+                  <lb ed="#L" n="1"/>quare aliquid est possibile est ex Deo; sed prima causa quare aliquid est impossibile est ex se 
+      <lb ed="#L" n="2"/>&amp; ex natura rei, communissime loquendo de re, scilicet vt est communis ad omnia 
+      intelligi<lb ed="#L" n="3" break="no"/>bilia existentia vel non existentia; &amp; ad hoc allegat Auicennam 4. Metaph. dicentem, quod 
+      <lb ed="#L" n="4"/>ideo agens non potest, quia non est possibile in se. Idem quoque Iohannes probat 
+      contra<lb ed="#L" n="5" break="no"/>rium vbi prius, &amp; arguit isto modo; Nihil est impossibile simpliciter nisi cui simpliciter 
+      re<lb ed="#L" n="6" break="no"/>pugnat esse, &amp; hoc primo ex se, quia ex suis primis &amp; per se rationibus formalibus, circum. 
+      <lb ed="#L" n="7"/>scribendo quodlibet aliud; imo &amp; si per impossibile Deus non esset, adhuc illud esset 
+      impos<lb ed="#L" n="8" break="no"/>sibile. Dicitque ibidem quod possibilitas &amp; impossibilitas, possibilium &amp; impossibilium 
+      re<lb ed="#L" n="9" break="no"/>ducuntur principiatiue ad intellectum diuinum, non ad eius omnipotentiam seu potentiam, 
+      <lb ed="#L" n="10"/>quod videtur praehabitis obuiare. Ad haec autem dico quod videtur mihi cum Iohanne 
+      prae<lb ed="#L" n="11" break="no"/>dicto vbi prius, quod Henricus per dictum secundum dictum primum corrigit, seu retractat. 
+      <lb ed="#L" n="12"/>Posset tamen ipse Henricus, Auicenna, &amp; Iohannes intelligere, quod nulla pura priuatio seu 
+      <lb ed="#L" n="13"/>impossibilitas priuatiua per se &amp; primo, quae non dependeat ab aliquo positiuo priori, est in 
+      <lb ed="#L" n="14"/>Deo, quae sit causa priuationis &amp; impossibilitatis impossibilium, sicut aliquid positiuum in eo 
+      <lb ed="#L" n="15"/>per se &amp; primo est causa cuiuslibet possibilitatis possibilium: sed impossibilitas ex parte rei 
+      im<lb ed="#L" n="16" break="no"/>possibilis, id est, pura &amp; prima necessitas non essendi rem impossibilem esse, est causa quare 
+      <lb ed="#L" n="17"/>Deus &amp; quodcunque actiuum non potest; haec autem necessitas positiua secundum 
+      praeha<lb ed="#L" n="18" break="no"/>bita est in Deo. Sed ratio Iohannis non procedit; Impossibili enim esse, non per se &amp; primo 
+      <lb ed="#L" n="19"/>repugnat esse, sed quia primum esse necessario sibi repugnat, sicut superius erat dictum. Nec 
+      <lb ed="#L" n="20"/>est hoc primo ex rationibus formalibus quas imaginatur; Si enim illae rationes sint aliquo 
+      mo<lb ed="#L" n="21" break="no"/>do causae, reducuntur ad causam priorem, ad Deum scilicet causarum omnium causam ram; 
+      <lb ed="#L" n="22"/>&amp; hoc patet per ipsummet ibi dicentem quod talia sunt principaliter incompossibilia ab co, a 
+      <lb ed="#L" n="23"/>quo habent principiatiue rationes suas formales, scilicet ab intellectu diuino. Quod autem 
+      <lb ed="#L" n="24"/>dicit, &amp; si Deus non esset, adhuc tale quid esset impossibsle, si impossibile sumatur 
+      affirmati<lb ed="#L" n="25" break="no"/>ue, falsum est; quia si ipse non esset, nihil positiuum vel affirmatiuum esset; si autem sumatur 
+      <lb ed="#L" n="26"/>pure negatiue scilicet pro non possibile esse, sic verum est: Ipse enim est prima &amp; summa 
+      po<lb ed="#L" n="27" break="no"/>tentia, qua quodlibet possibile necessario est possibile, ideoque ipso non ente, nihil esset 
+      pos<lb ed="#L" n="28" break="no"/>sibile, sed ex hoc non sequitur quod volebat: Vel aliter &amp; forte melius potest dici, quod Deum 
+      <lb ed="#L" n="29"/>non esse, necessarijssime contradictionem includit; quare &amp; posito Deum non esse, nedum vna 
+      <lb ed="#L" n="30"/>pars contradictionis in multis &amp; forte in omnibus, sed &amp; altera necessario consequetur. Potest. 
+      <lb ed="#L" n="31"/>que similiter argui contra illum; Dicit enim quod intellectus diuinus est causa impossibilitatis 
+      <lb ed="#L" n="32"/>in rebus. Licet enim Deus nihil intelligeret circa impossibile, quia secundum eum licet Deus 
+      <lb ed="#L" n="33"/>non esset adhuc impossibile, esset impossibile; ergo per consequentiam propriam intellectus 
+      <lb ed="#L" n="34"/>diuinus non est causa impossibilitatis illius. Et quod dicit, quod possibilitas, &amp; impossibilitas 
+      <lb ed="#L" n="35"/>reducuntur principiatiue ad intellectum Dei, non ad eius omnipotentiam seu potentiam, 
+      vide<lb ed="#L" n="36" break="no"/>tur mirabile, quoniam secundum modum suum imaginandi creberrimum, essentia diuina est 
+      <lb ed="#L" n="37"/>principium potentiae in Deo: cum actus praecedat potentiam in eo, &amp; ipsa est aliquo modo 
+      <lb ed="#L" n="38"/>prior actuali intellectione eius. Ex hoc enim videtur potentissime &amp; perfectissime intelligere 
+      <lb ed="#L" n="39"/>gniuersa, quia habet potentia intellectiuam perfectissima &amp; potentissimam. Videtur igitur 
+      es<lb ed="#L" n="40" break="no"/>sentia siue purum esse, principium potentiae siue posse, &amp; hoc intellectionis actualis; &amp; quicquid 
+      <lb ed="#L" n="41"/>est principium principii, est principium principiati. Essentia ergo &amp; potentia diuina sunt priora 
+      <lb ed="#L" n="42"/>principia possibilitatis &amp; impossibilitatis, quam intellectus diuinus. Probat autem hoc dictum 
+      <lb ed="#L" n="43"/>suum sic, Per quodcunque in Deo possibile primo constituitur in esse intelligibili, illud est 
+      pri<lb ed="#L" n="44" break="no"/>ma ratio possibilitatis; sed per omnipotentiam vt distinguitur contra intellectum, non 
+      consti<lb ed="#L" n="45" break="no"/>tuitur creatura in esse intelligibili, sed per intellectum. Sed minor huius rationis videtur 
+      pec<lb ed="#L" n="46" break="no"/>care; Si enim intellectus diuinus constituat aliquid in esse intelligibili, cum hoc non possit 
+      <lb ed="#L" n="47"/>esse, non intelligendo illud, constituit ipsum in esse intelligibili, intelligendo illud; &amp; cum 
+      <lb ed="#L" n="48"/>constituere aliquod constitutum in aliquo esse, sit prius naturaliter quam illud constiturum esse 
+      <lb ed="#L" n="49"/>tale, videtur quod Deus prius naturaliter intelligat quodcunque intelligibile, quam illud sit 
+      <lb ed="#L" n="50"/>intelligibile, quod tamen non apparet, imo magis videtur contrarium. Videtur enim quod 
+      <lb ed="#L" n="51"/>scibile in esse scibili praecedat scientiam, &amp; intelligibile in esse intelligibili, intellectu. Videtur 
+      <lb ed="#L" n="52"/>enim quod essentia diuina ex infinitate suae potentiae &amp; virtutis, distinctissime &amp; 
+      quodammo<lb ed="#L" n="53" break="no"/>do nominatim constituit intelligibiliter &amp; continet intelligibilia vniuersa, &amp; eorum omnium 
+      <lb ed="#L" n="54"/>primas, purissimas &amp; proprijssimas rationes; &amp; hae sunt ideae de quibus Philosophi &amp; 
+      Theo<lb ed="#L" n="55" break="no"/>logi tot loquuntur, sicque quodammodo praeueniens intellectum diuinum, offert ista sibi vt 
+      ob<lb ed="#L" n="56" break="no"/>iecta, &amp; sic intellectus intelligit omnia cosequenter. Et hoc videtur Esaias testari 40. de Deo sic 
+      <lb ed="#L" n="57"/>dicens, Omnes ex nomine vocat, prae multitudine fortitudinis &amp; roboris, virtutisque eius, neque 
+      <lb ed="#L" n="58"/>vnum relictum fuit; vbi glossa interlinearis, prae multitudine fortitudinis sic exponit; quia est omni¬ 
+      <!--241.xml-->
+      <pb ed="#A" n="208"/>
+                  <lb ed="#L" n="1"/>potens; ergo eius omnipotentia est causa suae intellectionis, &amp; prior ea, &amp; hoc modo praedicto. 
+      <lb ed="#L" n="2"/>Et ex hoc specialiter posset argui cotra Scotum. Si enim omnipotentia Dei sit causa suae 
+      intel<lb ed="#L" n="3" break="no"/>lectionis, &amp; sua intellectio sit causa constituens intelligibilia in esse intelligibili, ergo &amp;est sua 
+      <lb ed="#L" n="4"/>omnipotentia ista constituit in hoc esse: Quicquid enim est causa causae est causa causati. Et  
+      <lb ed="#L" n="5"/>hoc posset confirmari ex proprijs dictis ibi: Probat enim quod omnipotentia Dei est prior 
+      <lb ed="#L" n="6"/>creatura, secundum quodlibet suum esse, siue existentia, siue intelligibile, per hoc, quod haec 
+      <lb ed="#L" n="7"/>omnipotentia est ex se formaliter necessaria, creatura vero possibilis secundum quodlibet 
+      su<lb ed="#L" n="8" break="no"/>um esse, &amp; tale necessarium praecedit omne tale possibile, sicut ipse sibi supponit, &amp; ego 
+      supe<lb ed="#L" n="9" break="no"/>rius ostendebam, est ergo causa illius sicut praecedentia suaserunt. Item contra rationem 
+      ali<lb ed="#L" n="10" break="no"/>am dicti sui; Dicit enim quod Intellectus diuinus producit aliqua duo intelligibilia in esse 
+      in<lb ed="#L" n="11" break="no"/>telligibili, &amp; illa sic producta ex rationibus suis formalibus, per se &amp; primo repugnant, &amp; sunt 
+      <lb ed="#L" n="12"/>incompossibilia; videtur quod eadem ratione deberet consequenter hoc dicere, de 
+      com<lb ed="#L" n="13" break="no"/>possibilibus, possibilibus, similibus, aequalibus, maioribus, minoribus, &amp; vniuersaliter de 
+      <lb ed="#L" n="14"/>omnibus positiuis, scilicet quod acceptis rationibus suis formalibus per se &amp; primo sunt talia 
+      <lb ed="#L" n="15"/>per seipsa, seu per rationes suas formales. Ratio namu; formalis albi tantum facit album esse 
+      <lb ed="#L" n="16"/>album, sicut non esse nigrum, imo prius &amp; magis. Album enim per hoc quod est album non  
+      <lb ed="#L" n="17"/>est nigrum, &amp; vniuersaliter omnis negatiua vera, reducitur ad aliquam affirmatiuam veram 
+      <lb ed="#L" n="18"/>priorem, vt patet per priora; et sic nullius positiui citra Deum, prima causa seu ratio esset in 
+      <lb ed="#L" n="19"/>Deo, cum tamen Deus sit omnium talium prima causa, &amp; sicut ipsemet dicit, quod possibilia 
+      <lb ed="#L" n="20"/>tatis cuiuslibet prima ratio est in Deo. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

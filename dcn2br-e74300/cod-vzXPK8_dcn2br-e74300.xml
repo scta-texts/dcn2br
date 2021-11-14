@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="560"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e74300"><!-- l2c23 -->
+            <head xml:id="dcn2br-e74300-Hd1e106">Caput 23</head>
+            <p xml:id="dcn2br-e74300-d1e109">
+      <!--593.xml-->
+               <pb ed="#A" n="560"/>
+               <lb ed="#L" n="1"/>CAP. XXIII 
+      <lb ed="#L" n="2"/>Secundam corrigit.
+    </p>
+            <p xml:id="dcn2br-e74300-d1e120">
+               <lb ed="#L" n="3"/>SEcunda autem opinio potest reprobari per eadem, per quae prima: Item 
+      <lb ed="#L" n="4"/>per locum a simili. Voluntas nuda non potest agere actum nudum 
+      <lb ed="#L" n="5"/>sine Deo proprie coagente, sicut superius proximo docebatur; ergo 
+      <lb ed="#L" n="6"/>nec voluntas virtuosa potest agere actum virtuosum sine Deo proprie 
+      <lb ed="#L" n="7"/>coagente. Item per 40. primi; Gratia seu charitas efficiet proprie 
+      bo<lb ed="#L" n="8" break="no"/>num actum: &amp; per 42. eiusdem, non sine Deo Lproprie coagente. 
+      <lb ed="#L" n="9"/>Item per 46. primi, Deus efficit proprie omne augmentum actus 
+      me<lb ed="#L" n="10" break="no"/>ritorij cuiuscunque; ergo &amp; totaliter omnem actum. Item per 
+      quin<lb ed="#L" n="11" break="no"/>tum &amp; octauum huius secundi, Nullus habens charitatem, seu gratiam quantamcunque 
+      po<lb ed="#L" n="12" break="no"/>test per se resistere tentationi alicui, nec perseuerare finaliter vel ad tempus sine Dei auxilio 
+      <lb ed="#L" n="13"/>speciali, id est, sine voluntate diuina efficaciter hoc agente, sicut probant sextum &amp; 13. huius 
+      <lb ed="#L" n="14"/>secundi; quare nec actum elicere virtuosum. Item si Deus faciat habitum charitatis, &amp; tu 
+      so<lb ed="#L" n="15" break="no"/>lus actum, cum actus sit melior habitu, vt 22. primi, &amp; 18. secundi plenius allegarunt, tu 
+      fa<lb ed="#L" n="16" break="no"/>cis aliquid melius in teipso, &amp; teipsum similiter meliorem, quam faciat Deus ipse, quod est 
+      <lb ed="#L" n="17"/>contra allegata 37. primi libri. Et per istud idem argumentum probat Augustinus eandem  
+      <lb ed="#L" n="18"/>conclusionem de Angelis 12. de ciuitate Dei 9. vbi probato quod malae voluntatis malorum  
+      <lb ed="#L" n="19"/>Angelorum nulla fuit causa efficiens, sic adiungit, Si dixerimus nullam esse efficientem 
+      cau<lb ed="#L" n="20" break="no"/>sam etiam voluntatis bonae, cauendum est, ne voluntas bona bonorum Angelorum non 
+      fa<lb ed="#L" n="21" break="no"/>cta, sed Deo coaeterna esse credatur. Cum ergo ipsi facti sint, quomodo illa non esse facta 
+      <lb ed="#L" n="22"/>dicetur? Porro quia facta est, vtrum cum ipsis facta est, an sine illa fuerunt prius Sed si cum 
+      <lb ed="#L" n="23"/>ipsis, non dubium quod ab illo facta sit a quo &amp; ipsi. Si autem boni Angeli fuerunt prius 
+      si<lb ed="#L" n="24" break="no"/>ne bona voluntate, eamque in se ipsi, Deo non cooperante, fecerunt; ergo meliores a seipsis 
+      <lb ed="#L" n="25"/>quam ab illo facti sunt. Absit; aut si non potuerunt seipsos facere meliores, quam eos ille 
+      fe<lb ed="#L" n="26" break="no"/>cerat, quo nemo melius quicquam facit, profecto &amp; bonam voluntatem qua meliores essent, 
+      <lb ed="#L" n="27"/>nisi operante adiutorio Creatoris habere non possent: &amp; cum id egit eorum voluntas bona, vt 
+      <lb ed="#L" n="28"/>non ad seipsos, qui minus erant, sed ad illum qui summe est conuerterentur, eique 
+      adhaeren<lb ed="#L" n="29" break="no"/>tes magis essent, eiusque participatione sapienter beateque viuerent; quid aliud ostenditur, 
+      ni<lb ed="#L" n="30" break="no"/>si voluntatem quamlibet bonam inopem fuisse in solo desiderio remansuram, nisi ille qui 
+      bo<lb ed="#L" n="31" break="no"/>nam naturam ex nihilo sui capacem fecerat, ex seipso faceret implendo meliorem, prius 
+      faci<lb ed="#L" n="32" break="no"/>endo, excitando auidiorem? Confitendum est ergo cum debita laude Creatoris, non ad solos 
+      <lb ed="#L" n="33"/>sanctos homines pertinere, verumetiam de sanctis Angelis posse dici, quod charitas diffusa sit 
+      <lb ed="#L" n="34"/>in eis per spiritum sanctum, qui datus est eis. Item cum beatitudo finalis sit actus, sicut I8. 
+      <lb ed="#L" n="35"/>huius secundi plenius allegauit, &amp; quilibet beatus solus sine Deo efficit totaliter suum actum, 
+      <lb ed="#L" n="36"/>quilibet beatus per se sibi beatitudinem tribuit, beatificatque solus se; quod quanta 
+      absurdita<lb ed="#L" n="37" break="no"/>te dicatur, quis non videt? Tunc enim creatura rationalis haberet bonum optimum; &amp; 
+      maxi<lb ed="#L" n="38" break="no"/>mum a se sola; cum tamen dicat Iacobus, Omne datum optimum, &amp; omne donum 
+      perfe<lb ed="#L" n="39" break="no"/>ctum desursum est, descendens a patre luminum: sicque ratione beneficij accepti magis 
+      debe<lb ed="#L" n="40" break="no"/>ret diligere se quam Deum; maius enim beneficium recipit a se sola. Nimis quoque 
+      irtatio<lb ed="#L" n="41" break="no"/>nabile videretur, quod deberem facere omnia opera mea finaliter propter Deum, &amp; ipse non  
+      <lb ed="#L" n="42"/>esset vltimus finis meus, nec mihi tribueret vltimum finem meum, nec suae clementi iustitiae 
+      <lb ed="#L" n="43"/> 
+               <lb ed="#L" n="44"/> 
+               <lb ed="#L" n="45"/>eam mihi; cum &amp; Apoc. vlt. ipsemet sic dicat, Ecce venio cito &amp; merces mea mecum est, 
+      red<lb ed="#L" n="46" break="no"/>dere vnicuique secundum opera sua. Huic autem &amp; multa similia occurrunt saepissime in 
+      <lb ed="#L" n="47"/>Scriptura. Si etiam sola creatura rationalis faceret actum suum beatificum, hoc esset libere 
+      <lb ed="#L" n="48"/>libertate contradictionis: Non enim necessitaretur a Deo, quia hoc esset per voluntatem 
+      su<lb ed="#L" n="49" break="no"/>am, quae per 10. primi, non posset esse non efficax; quare Deus efficeret illum actum, cuius 
+      <lb ed="#L" n="50"/>oppositum ponitur, nec necessitaretur ab aliqua re creata, vt per tertium huius secundi., Si 
+      er<lb ed="#L" n="51" break="no"/>go sic libere facit beatificum actum suum, eadem ratione sic libere ipsum continuat: quare 
+      <lb ed="#L" n="52"/>&amp; similiter libere posset eum omnino dimittere, vel ad tempus; ergo non esset finaliter 
+      confir<lb ed="#L" n="53" break="no"/>mata, ergo nec beata: Beatitudinis namque finalis praeclarissima portin est securitas 
+      aeterna<lb ed="#L" n="54" break="no"/>liter sic essendi. Vnde beatus Augustinus 13. de Trinitate 7. loquens de finali beatitudine ita 
+      <!--594.xml-->
+      <pb ed="#A" n="561"/>
+               <lb ed="#L" n="1"/>dicit; Quicquid amabitur aderit, nec desiderabitur quod non aderit; omne quod ibi // erit 
+      <lb ed="#L" n="2"/>bonum erit, &amp; summum bonum Deus ipse erit, &amp; se amantibus praesto ibi erit, &amp; quod est 
+      om<lb ed="#L" n="3" break="no"/>nino beatissimum, ita semper fore certum erit; Et idem ostendit II. de Ciuit. Dei 13. 
+      Aliter<lb ed="#L" n="4" break="no"/>que beatus finaliter posset sic libere fieri miser, &amp; esse, contra 15. huius secundi, &amp; contra 
+      <lb ed="#L" n="5"/>omnes Doctores Catholicos. Imo secundum istud videtur, quod Deus non posset 
+      beatitudi<lb ed="#L" n="6" break="no"/>nem immediate conferre, nec sic beatificare quemcunque: Esse namque beatitudinis, est 
+      a<lb ed="#L" n="7" break="no"/>ctum beatificum immediate fieri a solo beato: ergo si fieret immediate a Deo, iam non esset 
+      <lb ed="#L" n="8"/>beatificus, quod est damnatum, &amp; excommunicatum a Stephano Parisiensi Episcopo sub his 
+      <lb ed="#L" n="9"/>verbis, quod faelicitas non potest a Deo immitti immediate. Item si quis accepta charitate seu 
+      <lb ed="#L" n="10"/>gratia, posset per se producere bonum actum, posset &amp; semper discernere se ab alio, qui // 
+      rece<lb ed="#L" n="11" break="no"/>pit similem gratiam, &amp; actum similem non producit, possetque talis perseueranter bene 
+      vo<lb ed="#L" n="12" break="no"/>lendo discernere se ab alio habente similem gratiam, sed casuro, sicut praedestinati a 
+      repro<lb ed="#L" n="13" break="no"/>bis discernuntur, quod est contra illud Apostoli 1. ad Cor. 4. Quis enim te discernit? quasi 
+      di<lb ed="#L" n="14" break="no"/>ceret non tu, sed Deus; vt patet per expositiones Augustini superius allegatas capitulo 
+      prox<lb ed="#L" n="15" break="no"/>imo, &amp; cap. 25. primi. Item si gratia gratis data a Deo solus homo efficiat bonum actum sine 
+      <lb ed="#L" n="16"/>Deo proprie coagente, cum per 43. primi gratia iustificans praecedat naturaliter 
+      contritio<lb ed="#L" n="17" break="no"/>nem, posset peccator adultus secundum legem currentem, infusa sibi huiusmodi gratia, libere 
+      <lb ed="#L" n="18"/>conteri; ergo &amp; non conteri; quare &amp; iustificari sine contritione quacunque, &amp; sine actu 
+      quo<lb ed="#L" n="19" break="no"/>libet voluntatis, quod est contra testimonia multa catholica eodem capitulo allegata. Item 
+      <lb ed="#L" n="20"/>dicit Apostolus ad Eph. 2. Gratiam saluati estis per fidem, &amp; hoc non ex vobis; Dei enim 
+      do<lb ed="#L" n="21" break="no"/>num est: non ex operibus, vt ne quis glorietur: Ipsius enim sumus factura creati in operibus 
+      <lb ed="#L" n="22"/>bonis, quae praeparauit Deus vt in illis ambularemus; ergo Deus efficit proprie opera nostra 
+      <lb ed="#L" n="23"/>bona. Nam per 10. primi praeparatio voluntatis diuinae inefficax esse non potest. Et si quis 
+      <lb ed="#L" n="24"/>fingat, vt prius, quod pro tanto dicit Apostolus nos esse Dei facturam creatos in bonis 
+      operi<lb ed="#L" n="25" break="no"/>bus, quia Deus fecit nos, &amp; creauit in nobis bonos habitus, ex quibus nos soli bona opera 
+      fa<lb ed="#L" n="26" break="no"/>cimus; quomodo ergo Apostolus per hanc suam doctrinam &amp; huic similem in multis suis 
+      e<lb ed="#L" n="27" break="no"/>pistolis amputaret hominibus occasionem superbiendi, &amp; materiam de proprijs viribus 
+      prae<lb ed="#L" n="28" break="no"/>sumendi, ac de meritis proprijs velut proprijs gloriandi, eosque ad humilitatem &amp; 
+      confiden<lb ed="#L" n="29" break="no"/>tiam in solo Deo, &amp; ad gloriandum in ipso solo ex agnitione impotentiae propriae, &amp; diuini 
+      <lb ed="#L" n="30"/>praesidij reuocaret? Hoc enim nimis inefficaciter faceret si sic esset: quod tamen Apostolus 
+      <lb ed="#L" n="31"/>principaliter intendebat, vt satis insinuant eius verba, vt ne quis, inquit, glorietur. Et 1. ad  
+      <lb ed="#L" n="32"/>Cor. 1. Non glorietur omnis caro in conspectueius: Ex ipso enim estis vos in Christo Iesu, vt 
+      <lb ed="#L" n="33"/>qui gloriatur in Domino glorietur. Et infra eiusdem 4. Quid autem habes quod non 
+      accepi<lb ed="#L" n="34" break="no"/>sti?quid gloriaris quasi non acceperis? Et 2. ad Cor. 3. Talem fiduciam per Christum habemus 
+      <lb ed="#L" n="35"/>ad Deum, non quod sufficientes simus cogitare aliquid a nobis quasi ex nobis, sed 
+      sufficien<lb ed="#L" n="36" break="no"/>tia nostra ex Deo est: &amp; ad Romanos 9. Non volentis nec currentis, sed miserentis est Dei., 
+      <lb ed="#L" n="37"/>Et ad Phil. 2. Cum metu &amp; tremore vestram salutem operamini: Deus est enim qui operatur 
+      <lb ed="#L" n="38"/>in vobis &amp; velle &amp; perficere; seu alias operari pro bona voluntate; vbi Glossa, Cum metu, 
+      <lb ed="#L" n="39"/>id est, cum humilitate, non superbe: &amp; ideo timendus est, quia non vos, sed Deus operatur 
+      <lb ed="#L" n="40"/>&amp;c. pro bona voluntate, scilicet sua, non pro meritis vestris: Et sequitur, &amp; est Augustini de 
+      <lb ed="#L" n="41"/>bono perseuerantie 37. Nos ergo volumus, sed Deus operatur in nobis &amp; velle; &amp; nos 
+      ope<lb ed="#L" n="42" break="no"/>ramur, sed Deus operatur in nobis &amp; operari: Hoc nobis expedit &amp; credere, &amp; dicere, quia 
+      <lb ed="#L" n="43"/>pium est &amp; verum est, vt sit humilis confessio, &amp; totum detur Deo. Idem de praedestinatione 
+      <lb ed="#L" n="44"/>sanctorum 6. Hoc Apostoli testimonium ad reprimendam hominis inflationem dixit: Quid 
+      <lb ed="#L" n="45"/>enim habes, quod non accepisti? Non siuit quenquam fidelium dicere, habeo quod non 
+      ac<lb ed="#L" n="46" break="no"/>cepi. Reprimitur omnino his Apostolicis verbis tota huius responsionis elatio, &amp; ponit duas 
+      <lb ed="#L" n="47"/>falsas responsiones, seu expositiones huius dicti: Prima est, quod hoc ideo dicitur, quia homo 
+      <lb ed="#L" n="48"/>non habet ex se fidem perfectam, habet tamen eius initium quo primo credit in Christum. 
+      <lb ed="#L" n="49"/>E Sed hanc responsionem euacuat per hoc idem; &amp; hic, inquit, respondetur, Quid habes, quod 
+      <lb ed="#L" n="50"/>non accepisti? &amp;c. Ergo eadem ratione sic potest per indem dictum euacuari responsio 
+      supra<lb ed="#L" n="51" break="no"/>dicta. Secunda est, quod hoc ideo potest dici de fide, quia bomo accepit naturalia sua a Deo, 
+      <lb ed="#L" n="52"/>ex quibus credit. Sed contra sic respondentes subiungit, Illud nihil ad id quod volunt valere 
+      <lb ed="#L" n="53"/>intelligitur, si, cur hoc Apostolus dixerit, cogitetur: Agebat enim ne quis gloriaretur in 
+      ho<lb ed="#L" n="54" break="no"/>mine, quoniam dissentiones exortae fuerant inter Corinthios Christianos, ita vt vnus quidem  
+      <lb ed="#L" n="55"/>diceret, Ego autem sum Pauli, alius quidem, ego Apollo, alius vero, Ego Cephae: Et inde 
+      <lb ed="#L" n="56"/>ventum est, vt diceret, Stulta mundi elegit Deus, vt confundat sapientes, &amp; infirma, vt 
+      con<lb ed="#L" n="57" break="no"/>fundat fortia, &amp; ignobilia &amp; contemptibilia, &amp; ea quae non sunt, tanquam sint, vt ea quae sunt, 
+      <lb ed="#L" n="58"/>euacuet, vt non glorietur coram eo omnis caro. // Hic certe contra humanam superbiam satis 
+      <!--595.xml-->
+      <pb ed="#A" n="562"/>
+               <lb ed="#L" n="1"/>ciara Apostoli intentio, ne in homine quisquam glorietur, ac per hoc, nec in seipso. Denique 
+      <lb ed="#L" n="2"/>cum dixisset, Non glorietur omnis caro coram eo, vt ostenderet in quo debeat homo 
+      gloria<lb ed="#L" n="3" break="no"/>ri, mox addidit; Ex ipso autem vos estis in Christo Iesu &amp;c. vt quemadmodum scriptum est, 
+      <lb ed="#L" n="4"/>Qui gloriatur, in Domino glorietur: &amp; sequitur, Videtisne nihil agere Apostolum, nisi vt 
+      hu<lb ed="#L" n="5" break="no"/>milietur homo, &amp; exaltetur Deus solus, quando quidem in eis qui plantantur &amp; rigantur, nec 
+      <lb ed="#L" n="6"/>ipsum plantatorem &amp; rigatorem dicit esse aliquid, sed qui incrementum dat, Deum, quamuis 
+      <lb ed="#L" n="7"/>hoc ipsum quod ille plantat, hic rigat, non ipsis sed Domino tribuat, dicens, vnicuique sicut 
+      <lb ed="#L" n="8"/>dedit Dominus? Ego plantaui, Apollo rigauit. Hinc ergo in eadem intentione persistens, ad  
+      <lb ed="#L" n="9"/>hoc venit vt diceret, Itaque nemo glorietur in homine. Idem de gratia &amp; libero arbitrio 2I. 
+      <lb ed="#L" n="10"/>Apostolus, cum dixisset, Gratia salui facti estis per fidem, &amp; hoc non ex vobis, sed Dei 
+      do<lb ed="#L" n="11" break="no"/>num est; non ex operibus, ne forte quis extollatur, vidit, vtique putare posse homines hoc  
+      <lb ed="#L" n="12"/>ita dictum, quasi necessaria non sint opera credentibus, sed eis fides sola sufficiat, &amp; rursus 
+      <lb ed="#L" n="13"/>posse homines de bonis operibus extolli, velut ad ea facienda sibi sufficiant: mox itaque 
+      ad<lb ed="#L" n="14" break="no"/>didit, Ipsius enim sumus figmentum, creati in Christo Iesu in operibus bonis, quae 
+      praepara<lb ed="#L" n="15" break="no"/>uit Deus vt in illis ambularemus. Quid est hoc quod gratiam Dei commendans dixisset, 
+      Cra<lb ed="#L" n="16" break="no"/>tiam salui facti estis per fidem? Et cur hoc dixerit rationem reddens, Ipsius enim sumus, inquit, 
+      <lb ed="#L" n="17"/>figmentum, creati in Christo lesu in operibus bonis? Quomodo ergo non ex operibus? ne 
+      <lb ed="#L" n="18"/>forte quis extollatur. Sed audi &amp; intellige, non ex operibus dictum tanquam tuis ex teipso 
+      <lb ed="#L" n="19"/>tibi existentibus, sed tanquam his in quibus te Deus finxit, id est, formauit, &amp; creauit, non illa 
+      <lb ed="#L" n="20"/>creatione, qua homines facti sumus, sed ea de qua ille dicebat, qua vtique iam homo erat; 
+      <lb ed="#L" n="21"/>Cor mundum crea in me Deus. Aut ex Deo fingimur, id est formamur &amp; creamur in 
+      operi<lb ed="#L" n="22" break="no"/>bus bonis, quae non preparauimus nos, sed praeparauit Deus, vt in illis ambulemus. Idem 
+      En<lb ed="#L" n="23" break="no"/>chirid. 78. reddens causam quare dicit Apostolus ad Romanos 9. Non volentis, neque 
+      cur<lb ed="#L" n="24" break="no"/>rentis, sed miserentis est Dei, sic ait, Altissimo quippe ac saluberrimo sacramento vniuersa 
+      <lb ed="#L" n="25"/>faciens, atque vt ita dixerim, vultus sanctarum Scripturarum bene intuens, id admonere 
+      inue<lb ed="#L" n="26" break="no"/>nitur, vt, qui gloriatur, in Domino glorietur. Et idem ostendit diffuse de bono perseuerantiae 
+      <lb ed="#L" n="27"/>multis capitulis versus finem. Vnde &amp; cap. 69. dicit, hoc praedicari debere, vt qui 
+      obedien<lb ed="#L" n="28" break="no"/>ter hoc audit, non in homine, ac per hoc nec in seipso, sed in Domino glorietur. Idem de 
+      spi<lb ed="#L" n="29" break="no"/>ritu &amp; litera 32. sed quia dici potest illa opera scilicet miraculosa esse diuina; iuste antem 
+      viue<lb ed="#L" n="30" break="no"/>re, ad nostra opera pertinere; suscepi ostendere etiam hoc opus esse diuinum, &amp; hoc egi in 
+      li<lb ed="#L" n="31" break="no"/>pro isto loquacius fortasse quam sat est, sed contra inimicos gratie Dei, etiam paruum mihi 
+      di<lb ed="#L" n="32" break="no"/>xisse videor, nihilque tam multum dicere delectat, quam vbi mihi &amp; Scriptura eius plurimum 
+      <lb ed="#L" n="33"/>suffragatur, &amp; illud agitur, vt qui gloriatur, in Domino glorietur, &amp; in omnibus gratias 
+      aga<lb ed="#L" n="34" break="no"/>mus Domino Deo nostro sursum cor habentes: vnde a patre luminum omne datum optimum 
+      <lb ed="#L" n="35"/>&amp; omne donum perfectum est. Nam si ipsa est opus Dei, quia per nos non agitur, vel quia 
+      <lb ed="#L" n="36"/>illo donante nos agimus, nec illud opus est Dei, vt mons transferatur in mare, quia per fidem 
+      <lb ed="#L" n="37"/>hominum posse fieri Dominus dixit, &amp; hoc ipsorum operi attribuit, dicens, Si habueritis in 
+      <lb ed="#L" n="38"/>vobis fidem tanquam granum sinapis, dicetis huic monti, Tollere, &amp; mirtere in mare, fiet: 
+      <lb ed="#L" n="39"/>&amp; nihil impossibile erit vobis, certe vobis dixit non mihi aut patri; &amp; tamen hoc nullo 
+      mo<lb ed="#L" n="40" break="no"/>do facit homo, nisi illo donante &amp; operante. Et infra in fine; Aliquid ergo est in abdito &amp; 
+      <lb ed="#L" n="41"/>profundo iudiciorum Dei, vt etiam iustorum. Omne os obstruatur in laude sua, &amp; non 
+      ape<lb ed="#L" n="42" break="no"/>riatur nisi in laudem Dei, iuxta illud Apostoli ad Romanos 3. Omne os obstruatur, &amp; 
+      subdi<lb ed="#L" n="43" break="no"/>tus fiat omnis mundus Deo. Et infra, Vbi est gloriatio tua? exclusa est, Hoc idem sentit 
+      Do<lb ed="#L" n="44" break="no"/>ctor &amp; martyr gloriosissimus Cyprianus, epistola sua 13. intitulata ad Quirinum, de discip 
+      I<lb ed="#L" n="45" break="no"/>na Christianae Religionis capitulo 4. cuius capituli iste est titulus; In nullo nobis gloriandum, 
+      <lb ed="#L" n="46"/>quando nostrum nihil sit: quod probat per totum illud capitulum, &amp; per illud Apostoli saepe 
+      <lb ed="#L" n="47"/>lictum, Quid habes quod non accepisti? &amp;c. Et per multa alia loca Scripturae. Et infra 
+      eius<lb ed="#L" n="48" break="no"/>dem 10. probat dilucide, quod in solo Domino fidendum, &amp; in ipso gloriandum. Ex his 
+      au<lb ed="#L" n="49" break="no"/>tem manifeste videtur intentionem Apostoli in doctrina sua praetacta fuisse: ne dum bona 
+      na<lb ed="#L" n="50" break="no"/>turalia, vel bonos habitus qualescunque proprie fieri &amp; donari a Deo, sed etiam quoslibet 
+      bo<lb ed="#L" n="51" break="no"/>nos actus: vt sic omnis materia extollendi de aliquo praemissorum a cordibus hominum 
+      pe<lb ed="#L" n="52" break="no"/>nitus extirpetur, ipsos ad veram humilitatem in omnibus reuocaret, quod tamen minus 
+      effi<lb ed="#L" n="53" break="no"/>caciter faceret, si habitus tantum haberet a Deo, &amp; actus a se solo, cum per 22. primi actus 
+      <lb ed="#L" n="54"/>sint habitus meliores. Item si filius miles, acceptis a patre naturalibus, ordine atque armis 
+      <lb ed="#L" n="55"/>strenue militatet, sicque forsitan in superbia erigeretur inflatus, quomodo in ipso 
+      eradicar<lb ed="#L" n="56" break="no"/>tur superbia, &amp; plantaretur humilitas, si ei ab aliquo diceretur, Non glorietur, omnes miles 
+      <lb ed="#L" n="57"/>in conspectupatris sui; Ex ipso enim est in militia, vt qui gloriatur, in patre suo glorietur; &amp;, 
+      <lb ed="#L" n="58"/>Quid habes quod non accepisti? Si autem accepisti, quid gloriaris quasi nonacceperis? &amp; re¬ 
+      <!--596.xml-->
+      <pb ed="#A" n="563"/>
+               <lb ed="#L" n="1"/>liqua superius memorata: Posset enim rationabiliter respondere dicendo, quare non debe¬ 
+      <lb ed="#L" n="2"/>rem de mea militia gloriari? Accepi quidem a patre meo naturalia mea, quia nullus generat 
+      <lb ed="#L" n="3"/>semetipsum; accepi &amp; ordinem, quia nulli conceditur insignire tali ordine semetipsum; 
+      ac<lb ed="#L" n="4" break="no"/>cepi &amp; arma, quia similiter &amp; caeteri militum non nascebar armatus, nec sum faber armorum, 
+      <lb ed="#L" n="5"/>debitum tamen vsum istorum, qui omnibus praeualet, non acceprab alio, sed habeo ex 
+      meip<lb ed="#L" n="6" break="no"/>so; actus strenuos militares non accepi ab alio, sed habeo ex meipso; crebras victorias fama 
+      <lb ed="#L" n="7"/>celebri diuulgatas non accepi ab alio, sed habeo ex meipso: pro huiusmodi igitur in meipso 
+      <lb ed="#L" n="8"/>merito gloriabor, in alio autem nihil; sic &amp; de quolibet milite Iesu Christi. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

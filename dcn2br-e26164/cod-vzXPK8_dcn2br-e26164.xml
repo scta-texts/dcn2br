@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="189"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e26164"><!-- l1c8 -->
+            <head xml:id="dcn2br-e26164-Hd1e106">Caput 8</head>
+            <head xml:id="dcn2br-e26164-Hd1e109" type="question-title">
+      Quod Deus habet volutionem et amorem communiter
+      et specialiter ad quaecunque.
+    </head>
+            <p xml:id="dcn2br-e26164-d1e112">
+               <lb ed="#L" n="47"/>CAP VIII, 
+      <lb ed="#L" n="48"/>Quod Deus habet volutionem &amp; amorem communiter
+      <lb ed="#L" n="49"/>&amp; specialiter ad quaecunque.
+    </p>
+            <p xml:id="dcn2br-e26164-d1e121">
+               <lb ed="#L" n="50"/>NVnc autem restat consequenter ostendere, Deum habere volutionem &amp; 
+      amo<lb ed="#L" n="51" break="no"/>rem communiter &amp; specialiter ad quaecunque, quoniam secundum priora 
+      De<lb ed="#L" n="52" break="no"/>ius omitia conseruat, facit, &amp; mouet, &amp; non sine cognitione, &amp; sapientia 
+      dispo<lb ed="#L" n="53" break="no"/>nente, sicut sextum huius ostendit. Sed haec sine voluntate nihil conseruant, 
+      <lb ed="#L" n="54"/>o faciunt, neque mouent, quoniam ipsa cognitio eius est sola, ita est 
+      impossibi<lb ed="#L" n="55" break="no"/>lium sicut possibilium, &amp; possibilium quae nunquam fient, sicut faciendorum; &amp; ita praeteri¬ 
+      <!--223.xml-->
+      <pb ed="#A" n="190"/>
+               <lb ed="#L" n="1"/>torum sicut futurorum; &amp; ita futurorum in remoto, sicut in propinquo; &amp; ita omnium 
+      fu<lb ed="#L" n="2" break="no"/>turorum, sicut praesentium, quae actualiter modo fiunt vel conseruantur iam facta. Si 
+      er<lb ed="#L" n="3" break="no"/>go cognitio sola per se faceret aliquid vel seruaret, semper &amp; simul faceret omnia supradicta. 
+      <lb ed="#L" n="4"/>Item cognitio diuina de se videtur indifferens ad faciendum, vel non faciendum; imo ipsa 
+      <lb ed="#L" n="5"/>per se sola non apparet factiua; ergo nihil potest efficere nisi per aliquid determinans limitetur; 
+      <lb ed="#L" n="6"/>hoc autem poni non potest nisi Diuina volutio actualis. Item sic videtur in productione 
+      re<lb ed="#L" n="7" break="no"/>rum a Deo, sicut in productione motus processiui ab animali; In hac autem non sufficit 
+      so<lb ed="#L" n="8" break="no"/>la cognitio, sed cum hac requiritur appetitus, vt probat Aristoteles 3. de Anima, vbi 
+      in<lb ed="#L" n="9" break="no"/>quirit principium huius motus; &amp; probat primo quod non est potentia vegetatiua; secundo, 
+      <lb ed="#L" n="10"/>quod non est potentia sensitiua; tertio, quod non est ratio, neque intellectus speculatiuus, nec 
+      <lb ed="#L" n="11"/>practicus; quarto, quod nec appetitus est Dominus huius motus; quinto, quod haec duo 
+      sci<lb ed="#L" n="12" break="no"/>licet phantasia &amp; appetitus, siue intellectus &amp; voluntas mouent Animal processiue. Ista 
+      pa<lb ed="#L" n="13" break="no"/>ent per Auerroem ibi expressius comment. 44. &amp; deinceps: &amp; idem probatur in de motu 
+      A<lb ed="#L" n="14" break="no"/>nimalium manifeste. Item secundum Philosopum 9. Eth. 7. Omnis artifex diligit suum 
+      o<lb ed="#L" n="15" break="no"/>pus, &amp; omnis bene faciens bene patientem cui scilicet benefacit, &amp; hoc magis quame 
+      contra<lb ed="#L" n="16" break="no"/>rio diligatur; &amp; omnia sunt opera Dei summi Artificis, sicut praecedentia docuerunt, eiusque 
+      <lb ed="#L" n="17"/>beneficia liberalissime distributa. Item quia aliter Deus non seruaret nec ageret libere, 
+      quo<lb ed="#L" n="18" break="no"/>niam nulla est actio libera, quae non proficiscitur a libera voluntate, &amp; sic homo rusticus &amp; 
+      <lb ed="#L" n="19"/>seruilis liberior esset Deo. Aliter quoque Deus nullam voluntatem haberet, contra octauam  
+      <lb ed="#L" n="20"/>partem corollarij, primi huius, vel non posset vti propria voluntate cum alijs absurditatibus 
+      <lb ed="#L" n="21"/>infinitis. Adhuc autem modus liber &amp; voluntarius operandi ad extra, est melior &amp; nobilior 
+      <lb ed="#L" n="22"/>alio; quare &amp; potentia rationalis, quae taliter operatur, reputatur nobilior irrationali, quae 
+      ali<lb ed="#L" n="23" break="no"/>ter operatur. Iste ergo modus operandi ad extra quaecunque tribuendus est Deo teste tertia 
+      <lb ed="#L" n="24"/>parte corollarij primi huius: Istam quoque sententiam &amp; quaedam Autoritates. 20. huius 
+      prae<lb ed="#L" n="25" break="no"/>missae lucide contestantur: Dicitque Algazel 3. Metaph. sententia 7. quod primus est 
+      vo<lb ed="#L" n="26" break="no"/>lens, &amp; omnia fluunt ab eo, &amp; placent sibi, nec aliquid horum odit. Hoc autem ille 
+      anti<lb ed="#L" n="27" break="no"/>quus Empedocles aspiciebat a longe. Hic enim vt recitat Aristoteles 3. Metaph. 15. posuit 
+      <lb ed="#L" n="28"/>duo generalia rerum principia, scilicet Amorem &amp; odium, sed in Deo posuit amorem ad 
+      om<lb ed="#L" n="29" break="no"/>nia sine odio cuiuscunque. Quibus concordat Sapiens Sapient. II. alloquens Dominum in 
+      <lb ed="#L" n="30"/>hunc modum, Diligis omnia quae sunt, &amp; nihil odisti eorum quae fecisti, quomodo autem 
+      <lb ed="#L" n="31"/>posset aliquid manere nisi tu voluisses, aut quod a te vocatum non esset, conseruaretur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

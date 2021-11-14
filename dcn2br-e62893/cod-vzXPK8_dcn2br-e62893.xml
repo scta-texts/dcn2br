@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="472"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e62893"><!-- l2c4 -->
+            <head xml:id="dcn2br-e62893-Hd1e106">Caput 4</head>
+            <p xml:id="dcn2br-e62893-d1e109">
+               <lb ed="#L" n="6"/>CAP. IV. 
+      <lb ed="#L" n="7"/>Quod liberum arbitrium tentatum non potest proprijs 
+      <lb ed="#L" n="8"/>viribus sine Dei auxilio &amp; eius gratia tentatio¬ 
+      <lb ed="#L" n="9"/>nem aliquam superare. 
+    </p>
+            <p xml:id="dcn2br-e62893-d1e120">
+               <lb ed="#L" n="10"/>OStenso iam proximo quod nulla causa secunda, nec vlla 
+      temp<lb ed="#L" n="11" break="no"/>tatio potest necessitare liberum arbitrium ad rationalem &amp; 
+      libe<lb ed="#L" n="12" break="no"/>rum actum suum; restat non impertinenter ostendere, quod 
+      li<lb ed="#L" n="13" break="no"/>berum arbitrium temptatum, non potest proprijs viribus sine 
+      <lb ed="#L" n="14"/>Dei auxilio &amp; eius gratia temptationem aliquam superare. 
+      Op<lb ed="#L" n="15" break="no"/>positum enim huius superbus Pelagius astruebat: Dixit enim 
+      <lb ed="#L" n="16"/>quod homo solius liberi arbitrij viribus potest perficere Dei 
+      <lb ed="#L" n="17"/>mandata; sicut // tertio primi plenius recitatur: in fine quoque 
+      <lb ed="#L" n="18"/>libri Beati Prosperi pro praedicatoribus gratiae Dei contra 
+      Cas<lb ed="#L" n="19" break="no"/>sianum, vbi recitantur 13. errores Pelagij; duo huius 
+      proferun<lb ed="#L" n="20" break="no"/>tur, Non esse liberum arbitrium si Dei indigeret auxilio, 
+      quo<lb ed="#L" n="21" break="no"/>niam in propria voluntate habet vnusquisque facere aliquid, aut non facere, &amp; victoriam 
+      no<lb ed="#L" n="22" break="no"/>stram non esse ex Dei adiutorio, sed ex libero arbitrio. Hoc idem testatur Concilium 
+      Mileui<lb ed="#L" n="23" break="no"/>tanum, cui interfuit Augustinus &amp; Anselmus Ecclesiae Romanae legatus contra Pelagianos, 
+      <lb ed="#L" n="24"/>in quo scribitur isto modo. Placuit omnibus Episcopis qui fuerunt in hac sancta Synodo. 
+      <lb ed="#L" n="25"/>constituere haec quae in praesenti Concilio definita sunt; &amp; sequitur; Placuit, vt qui dixerit 
+      <lb ed="#L" n="26"/>gratiam Dei qua iustificamur per fesum Christum Dominum nostrum ad solam remissionem 
+      <lb ed="#L" n="27"/>peccatorum valere, quae iam commissa sunt, non etiam ad adiutorium vt non 
+      committan<lb ed="#L" n="28" break="no"/>tur, anathema sit, &amp; recitatur in canone de Consecratione dist. 4. in fine. Vnde &amp; 
+      Augusti<lb ed="#L" n="29" break="no"/>nus I. contra Pelagium &amp; Caelestinum, de gratia Christi, &amp; de peccato Originali 23. scribit 
+      <lb ed="#L" n="30"/>ita in libro ad virginem sacram scilicet Demetriadem; cum dicit diuinam mereamur gratiam, 
+      <lb ed="#L" n="31"/>vt facilius nequam spiritui, Sancti Spiritus auxilio resistamus, significat profecto quid 
+      sa<lb ed="#L" n="32" break="no"/>piat; vt quid enim hoc verbum interposuit, illud est facilius? an vero non erat integer 
+      sen<lb ed="#L" n="33" break="no"/>sus vt nequam spiritui, Sancti Spiritus auxilio resistamus? sed quantum detrimentum hoc 
+      <lb ed="#L" n="34"/>additamento fecerit, quis non intelligat? Volens vtique credi tantas esse naturae vires, quas 
+      <lb ed="#L" n="35"/>extollendo praecipitat, vt etiam sine auxilio Spiritus Sancti, &amp; si minus facile, tamen aliquo 
+      <lb ed="#L" n="36"/>modo nequam spiritui resistatur. Iste igitur error Pelagij, licet per iam dicta videatur 
+      <lb ed="#L" n="37"/>destructus; potest tamen ex abundanti per alia aliter, &amp; non inutiliter destrui &amp; conuinci: 
+      <lb ed="#L" n="38"/>Omnis namque temptatio vel excitat ad agendum prohibitum, vel retrahit ab agendo 
+      prae<lb ed="#L" n="39" break="no"/>ceptum; quare &amp; omnis temptatio proprie superatur, vel a prohibito quiescendo, vel 
+      prae<lb ed="#L" n="40" break="no"/>ceptum agendo; Sed nullus potest agere sine Deo agente, sicut tertium, &amp; quartum 
+      primio<lb ed="#L" n="41" break="no"/>stendunt; nec aliquis potest ab agendo quiescere sine Deo quietem eius causando; si enim 
+      <lb ed="#L" n="42"/>quiescere sit agere patet per praedicta; si vero sit pure non agere, patet per toum. &amp; 
+      Corolla<lb ed="#L" n="43" break="no"/>ria 13i. primi libri. Item per 22um, primi, quemlibet temptatum Deus necessario vel vult 
+      su<lb ed="#L" n="44" break="no"/>perate temptationem, &amp; tunc per roum, eiusdem insuperabile auxilium fert temptato, vel 
+      <lb ed="#L" n="45"/>non vult ipsum superare, imo vult ipsum non superare, &amp; tunc per indem ioum, nullatenus 
+      su<lb ed="#L" n="46" break="no"/>perabit. Vel arguatur hoc modo; Ponat falsarius temptatum temptationem sine Dei 
+      auxi<lb ed="#L" n="47" break="no"/>lio superare; tunc per 22un. primi, Deus habet actum voluntatis circa istud superare: vel 
+      er<lb ed="#L" n="48" break="no"/>go volutionem vel nolutionem; si volutionem, ergo per 1oun. primi insuperabile autilium 
+      <lb ed="#L" n="49"/>dat temptato; si nolutionem, ergo per indem roun, nullatenus superat temptamentum. Aliter 
+      <lb ed="#L" n="50"/>breuius, Temptatus superat; verum est ergo temptatum superare; quare &amp; per 
+      Corolla<lb ed="#L" n="51" break="no"/>rium 22i. primi Deus vult illum superare, &amp;c. sicut prius. Nec potest quis fingere, quod 
+      <lb ed="#L" n="52"/>temptatus prius naturaliter superat, &amp; ideo post naturaliter Deus vult ipsum superare, sicque 
+      <lb ed="#L" n="53"/>illa diuina volutio non facit temptato aufilium, quia per 22um. &amp; 24um. primi illa volutio est, 
+      <!--506.xml-->
+      <pb ed="#A" n="473"/>
+               <lb ed="#L" n="1"/>aeterna, &amp; per vigesimum &amp; vigesimum primum, eiusdem illa non causatur ab huius 
+      fepara<lb ed="#L" n="2" break="no"/>re. Item talis victoria placet Deo, ergo approbat &amp; vult illam, &amp; non volutione nouella, nec 
+      <lb ed="#L" n="3"/>causata posterius a tali victoria, vt proximo est argutum, sed priori illa aeternaliter tempore 
+      <lb ed="#L" n="4"/>&amp; natura, vt decimum octauum primi cum tribus sequentibus manifestat: ergo per 
+      deci<lb ed="#L" n="5" break="no"/>mum primi ipsa est auxiliatrix insuperabilis superanti. Item alias non omnis temptati 
+      victo<lb ed="#L" n="6" break="no"/>ria esset a diuina prouidentia praestituta, sed aliqua dimitteretur casui &amp; fortunae contra 
+      vige<lb ed="#L" n="7" break="no"/>simum septimum primi, &amp; alia quae sequuntur. Item per trigesimum primum primi, victoria 
+      <lb ed="#L" n="8"/>corporalis sub diuina prouidentia continetur, sed victoria spiritualis melior est quam illa, 
+      <lb ed="#L" n="9"/>ergo per trigesimum primi, ista sine diuina prouidentia esse non potest. Item omnes 
+      ratio<lb ed="#L" n="10" break="no"/>nes &amp; autoritates probantes victoriam corporalem dari a Domino, probabunt idem de 
+      vi<lb ed="#L" n="11" break="no"/>ctoria spirituali: Omnia namque scripta de victorijs corporalibus in veteri testamento, 
+      spi<lb ed="#L" n="12" break="no"/>rituales victorias praefigurant: Nam secundum Apostolum primae ad Cor 10. Omnia in 
+      fi<lb ed="#L" n="13" break="no"/>gura contingebant illis, sicut trigesimum primum primi plenius pertractauit. Vnde &amp; 
+      Gre<lb ed="#L" n="14" break="no"/>gorius, &amp; allegatur in Canone 23. quaestione prima: Nisi bella, ,sic ait) Nisi bella ista 
+      car<lb ed="#L" n="15" break="no"/>nalia figuram bellorum spiritualium gererent; nunquam vt opinor Iudaicarum historiarum  
+      <lb ed="#L" n="16"/>libri discipulis Christi, qui venit pacem docere, legendi in Ecclesiis fuissent ab Apostolis 
+      tra<lb ed="#L" n="17" break="no"/>diti. Item resistere maiori temptationi est maioris virtutis, &amp; minori minoris, ergo 
+      quan<lb ed="#L" n="18" break="no"/>tumlibet paruae resistere est alicuius virtutis: sed nulla virtus quicquam potest sine Domino 
+      <lb ed="#L" n="19"/>virtutum, qui est virtutum omnium prima virtus, sicut 2um. 3um. &amp; 4um, capitulum primi 
+      do<lb ed="#L" n="20" break="no"/>cent, quod &amp; Psalmista fideliter protestando dicebat Psalmo 139. Domine, Domine, virtus 
+      <lb ed="#L" n="21"/>salutis meae, obumbrasti super caput meum in die belli; ne tradas me Domine a desiderio meo 
+      <lb ed="#L" n="22"/>peccatori; &amp; Psalmo 590. Da nobis Domine auxilium de tribulatione, quia vana salus 
+      homi<lb ed="#L" n="23" break="no"/>nis; in Deo faciemus virtutem; &amp; ipse ad nihilum deducet tribulantes nos, qui &amp; Psalmo 320. 
+      <lb ed="#L" n="24"/>magis expresse; Verbo, inquit, Domini caeli firmati sunt, &amp; spiritu oris eius omnis virtus 
+      eo<lb ed="#L" n="25" break="no"/>rum; Vbi Augustinus tractatu primo per Coelos intelligit iustos; &amp; tractatu tertio ita dicit; 
+      <lb ed="#L" n="26"/>Non habuerunt aliquid ex se, &amp; tanquam supplementum a Domino perceperunt: Spiritu 
+      <lb ed="#L" n="27"/>enim oris eius, non pars, sed omnis virtus eorum; &amp; infra eodem tractatu tertio, dicit, quod  
+      <lb ed="#L" n="28"/>Coeli sunt Apostoli, &amp; loquens eis quasi ex persona Domini, ita dicit; Ecce ego mitto vos 
+      si<lb ed="#L" n="29" break="no"/>cut oues inter lupos: Iam ergo armate vos virtute propria? Absit; imo nolite cogitare 
+      quo<lb ed="#L" n="30" break="no"/>modo, aut quid loquamini; dabitur enim vobis in illa hora quid loquamini; Non enim vos 
+      <lb ed="#L" n="31"/>estis qui loquimini, sed spiritus patris vestri qui loquitur in vobis, quia spirituoris eius 
+      om<lb ed="#L" n="32" break="no"/>nis virtus eorum. Item cum maioris virtutis &amp; difficultatis existat magnae temptationi 
+      ress<lb ed="#L" n="33" break="no"/>stere, quam elicere paruum actum; si quis sine Dei auxilio potest hoc maius, potest &amp; hoc 
+      <lb ed="#L" n="34"/>minus, contra 3um, &amp; 4un. Capitulum primi libri, &amp; contra Augustinum proxime allegatum. 
+      <lb ed="#L" n="35"/>Quare &amp; Gregorius 22. Moral. 9. super illud Iob 3I. Si laetatum est, &amp;c. &amp; osculatus sum 
+      <lb ed="#L" n="36"/>manum meam, &amp;c. Sancti, inquit, viri sciunt se non virtute propria, sed praeueniente 
+      super<lb ed="#L" n="37" break="no"/>na gratia ad meliora vota vel opera commutatos, &amp; quicquid in se boni inspiciunt, 
+      immorta<lb ed="#L" n="38" break="no"/>lis gratiae cognoscunt donum, eique de accepto munere debitores fiunt, qui &amp; praeueniendo 
+      de<lb ed="#L" n="39" break="no"/>dit eis bonum velle, quod noluerunt; &amp; subsequenter concessit bonum posse quod volunt. Vnde 
+      <lb ed="#L" n="40"/>bene per Ioan. dicitur, Adorauerunt viuentem in saecula saeculorum, mirtentes coronas suas 
+      <lb ed="#L" n="41"/>ante thronum Domini: Coronas namque suas ante thronum mittere est certaminum suorum 
+      <lb ed="#L" n="42"/>victorias non sibi tribuere, sed autori; vt ad illum referant gloriam laudis, a quo se sciunt 
+      vi<lb ed="#L" n="43" break="no"/>res accepisse certaminis: Beatus ergo lob qui sic bona quae operatus est, natrat, vt tamen hec 
+      <lb ed="#L" n="44"/>suae operationi non tribuat, sed ad Autoris laudem recurrat; manum suam ore suo se 
+      oscula<lb ed="#L" n="45" break="no"/>tum fuisse denegat; ac si patenter dicat; Ego mea opera tanquam mea non profero, quia 
+      <lb ed="#L" n="46"/>Autoris sui gratiam negare conuincitur quisquis sibi tribuit, quod operatur: Vnde &amp; 
+      proti<lb ed="#L" n="47" break="no"/>nus subdit, quae est iniquitas maxima &amp; negatio contra Deum altissimum. Liquet enim quia 
+      <lb ed="#L" n="48"/>illum negat cuius despecta gratia sibi vires boni operis arrogat, quod recte quoque &amp; 
+      iniqui<lb ed="#L" n="49" break="no"/>tas maxima vocatur; quoniam omne peccatum quod ex infirmitate est, spem nequaquam  
+      <lb ed="#L" n="50"/>perdit, quia a superno Iudice veniam requirit; praesumptio autem virtutis propriae tanto 
+      gra<lb ed="#L" n="51" break="no"/>uius in desperatione est, quanto longius ab humilitate, cumque vires sibi tribuit operis, ad 
+      <lb ed="#L" n="52"/>adiutorium non recurrit Autoris. Quare &amp; Augustinus super Ioannem parte prima, &amp; 
+      ho<lb ed="#L" n="53" break="no"/>milia 5 3a. recitans duplicem haeresin ita scribit; Quosdam nimia voluntatis suae fiducia 
+      ex<lb ed="#L" n="54" break="no"/>tulit in super biam, &amp; quosdam nimia voluntatis suae diffidentia deiecit in negligentiam: Illi 
+      <lb ed="#L" n="55"/>dicunt, quid rogamus Deum ne vincamur temptatione, quod in nostra est potestate? Isti 
+      <lb ed="#L" n="56"/>dicunt, vt quid conamur bene viuere, quod in Dei est potestate? O Domine, O Pater qui es in 
+      <lb ed="#L" n="57"/>coelis ne nos inferas in quamlibet istarum temptationum, sed libera nos a malo: Audiamus 
+      <lb ed="#L" n="58"/>Dominum dicentem, Rogauipro te Petre, ne fides deficiat tua: Ne sic existimemus fidem 
+      <!--507.xml-->
+      <pb ed="#A" n="474"/>
+               <lb ed="#L" n="1"/>nostram esse in libero arbitrio, vt diuino non egeat adiutorio. Audiamus &amp; Euangelistam 
+      <lb ed="#L" n="2"/>dicentem, dedit eis potestatem filios Dei fieri, ne omnino existimemus in nostra potestate non  
+      <lb ed="#L" n="3"/>esse quod credimus; veruntamen in vtroque illius beneficia cognoscamus: Nam &amp; agendae 
+      <lb ed="#L" n="4"/>gratiae sunt, quia data est potestas, &amp; orandum ne succumbat infirmitas. Ipsa est fides quae 
+      <lb ed="#L" n="5"/>per dilectionem operatur, sicut eius mensuram Dominus cuique partitus est, vt qui gloriatur, 
+      <lb ed="#L" n="6"/>non in seipso sed in Domino glorietur. Item si homo posset proprijs viribus sine gratia Dei 
+      <lb ed="#L" n="7"/>&amp; Deo temptationem aliquam superare, posset similiter peccata nondum commissa vitare. 
+      <lb ed="#L" n="8"/>quod est haeresis Pelagiana teste Augustino, de gratia &amp; libero arbitrio 29. Dicunt, inquit, 
+      <lb ed="#L" n="9"/>scilicet Pelagiani, gratiam Dei quae data est per fidem Iesu Christi, quae neque est lex, nec 
+      na<lb ed="#L" n="10" break="no"/>tura, ad hoc tantum valere vt peccata praeterita dimittantur, non vt futura vitentur, vel 
+      re<lb ed="#L" n="11" break="no"/>pugnantia superentur: sed hoc si verum esset, vtique in oratione Dominica cum dixissemus, 
+      <lb ed="#L" n="12"/>Dimitte nobis debita nostra, sicut &amp; nos dimittimus debitoribus nostris, non adderemus, Et  
+      <lb ed="#L" n="13"/>ne nos inferas in temptationem: Illud autem dicimus vt peccata dimittantur, hoc autem vt 
+      <lb ed="#L" n="14"/>caueantur, siue vincantur, quod a Patre, qui in coelis est, nulla ratione peteremus, si virtute 
+      <lb ed="#L" n="15"/>voluntatis humanae hoc possemus efficere: Et 6. contra Iulianum, 26. Verum tu a vestro 
+      <lb ed="#L" n="16"/>dogmate non recedis, quo putatis gratiam Dei per Iesum Christum Dominum nostrum, sic 
+      <lb ed="#L" n="17"/>in sola remissione peccatorum versari, vt non adiunet ad vitanda peccata, desideria 
+      vincen<lb ed="#L" n="18" break="no"/>da carnalia, diffundendo charitatem in cordibus nostris per Spiritum Sanctum, qui ab illo 
+      <lb ed="#L" n="19"/>datus est nobis. Concilium quoque Mileuitanum recitatum superius dicit idem: Et siquis 
+      <lb ed="#L" n="20"/>dixerit, ista debere sic accipi, quod per gratiam facilius possunt vitari peccata, conuincitur per 
+      <lb ed="#L" n="21"/>idem Concilium, &amp; per alia testimonia satis authentica recitata 39o. primi. Si autem quis 
+      <lb ed="#L" n="22"/>finxerit, ideo gratiam esse necessariam ad vitanda peccata, quia facit hominem cognoscere 
+      <lb ed="#L" n="23"/>peccata, &amp; discernere inter peccata &amp; non peccata, qua discretione per gratiam habita, per 
+      <lb ed="#L" n="24"/>liberum arbitrium potest ea vitare, reuincitur per indem Concilium, &amp; alia testimonia eodem 
+      <lb ed="#L" n="25"/>39o. capitulo recitata. Adhuc autem fortasse aliquis tam effronter proteruiet vt dicat 
+      gra<lb ed="#L" n="26" break="no"/>tiam quae est necessaria ad vitandum peccata esse liberum arbitrium homini gratis datum, vt 
+      <lb ed="#L" n="27"/>sciat reprobare malum, &amp; eligere sibi bonum: Sed &amp; iste Pelagianus refellitur per praehabita, 
+      <lb ed="#L" n="28"/>capitulo memorato. Amplius praeter istas est alia falsigraphia quae sibi videtur subtilior, 
+      as<lb ed="#L" n="29" break="no"/>serens tantum illam gratiam Dei necessariam homini ad vitanda peccata, qua sic temperat 
+      <lb ed="#L" n="30"/>temptatoris potentiam, vt non permittat ipsum temptare quemcunque supra id quod potest 
+      <lb ed="#L" n="31"/>propriis viribus sustinere: Haec autem subtilitas haereticae vanitatis statim retunditur malleo 
+      <lb ed="#L" n="32"/>catholicae veritatis. Supponit enim quod aliqua causa inferior, vel secunda posset necessitare 
+      <lb ed="#L" n="33"/>liberum arbitrium ad volendum contra 3um. huius 2i. Item tunc liberum arbitrium posset 
+      <lb ed="#L" n="34"/>esse ex naturalibus suis tam potens, &amp; temptator tam impotens, quod ista gratia nullatenus 
+      <lb ed="#L" n="35"/>indigeret, quia quantumcunque Deus // ipsum dimiserit effrenatum, liberum arbitrium viribus 
+      <lb ed="#L" n="36"/>propriis vires illius excederet; quare sic temptatus ad superandam temptationem huiusmodi. 
+      <lb ed="#L" n="37"/>&amp; minorem quamcunque nulla Dei gratia penitus indigeret, contra praemissa hoc eodem 
+      Ca<lb ed="#L" n="38" break="no"/>pitulo. Item Christus secundum animam humanam excellebat in naturalibus, vt rationabiliter 
+      <lb ed="#L" n="39"/>creditur, excellentissimum Angelorum; &amp; similiter beata virgo gloriosissima mater eius, &amp; 
+      <lb ed="#L" n="40"/>forsitan aliquis alius, nec dubium quin Deus posset talem creare; posset ergo beata virgo &amp; 
+      <lb ed="#L" n="41"/>talis creatus forsitan vel creandus omnem Diabolum proprijs viribus sine aliqua gratia 
+      supe<lb ed="#L" n="42" break="no"/>rare, quare &amp; mundum &amp; carnem facilius: Non enim est super terram potestas quae 
+      compa<lb ed="#L" n="43" break="no"/>retur ei, Iob4I. Item iste fuit implicite error Pelagij, &amp; explicite cuiusdam Pelagiani, scilicet  
+      <lb ed="#L" n="44"/>Cassiani in libro suo praenotato de protectione Dei, in quo sicut recitat sanctus Prosper in 
+      li<lb ed="#L" n="45" break="no"/>bro suo pro praedicatoribus gratiae Dei, contra dictum librum Cassiani, 25. 12. definitiones 
+      <lb ed="#L" n="46"/>ponebat, quarum tantum prima fuit catholica, reliquae vero vndecim haereticae &amp; Pelagiano 
+      <lb ed="#L" n="47"/>veneno praegnantes, in quarum decima vt recitatur Capitulo eodem 25. &amp; 20. ita scripsit, 
+      <lb ed="#L" n="48"/>Quod etiam in Iob probatissimo athleta suo, cum eum Diabolus expetisset ad singulare 
+      cer<lb ed="#L" n="49" break="no"/>tamen, diuinam legimus prouidisse iustitiam; Si enim contra inimicum non sua virtute sed 
+      <lb ed="#L" n="50"/>Dei solius fuisset gratia protegente congressus, &amp; absque vlla virtute patientiae suae, diuina 
+      <lb ed="#L" n="51"/>tantum opitulatione suffultus, multiplices illas &amp; tota inimici crudelitate quaesitas 
+      temptati<lb ed="#L" n="52" break="no"/>onum moles &amp; exitia pertulisset, quomodo non illam calumniosam diabolus quam 
+      p<lb ed="#L" n="53" break="no"/>miserat vocem aduersus eum iustius iterasset, Nunquid Iob gratis colit Deum? Nonne tu 
+      <lb ed="#L" n="54"/>vallasti eum, &amp; vniuersam substantiam eius per circuitum? Sed aufer manum tuam; hoc est 
+      <lb ed="#L" n="55"/>sine eum suis mecum viribus decertare, nisi in faciem tuam benedixerit tibi: sed cum nullam 
+      <lb ed="#L" n="56"/>huiusmodi quaeremoniam calumniosus hostis post conflictum audeat iterare, non Dei sed 
+      il<lb ed="#L" n="57" break="no"/>lius se victum viribus confitetur, licet etiam Dei gratia non in totum defuisse credenda sit, que 
+      <lb ed="#L" n="58"/>tantam temptatori tribuit potestatem, quantam &amp; illum resistendi nouerat habere virtutem, 
+      <!--508.xml-->
+      <pb ed="#A" n="475"/>
+               <lb ed="#L" n="1"/>non eum ab illius impugnatione sic protegens, vt nullum virtuti humanae relinqueret lo¬ 
+      <lb ed="#L" n="2"/>cum, sed hoc tantum procurans, ne violentissimus inimicus animam eius amentem faciens, 
+      <lb ed="#L" n="3"/>&amp; impotem sensu, impari eum, atque iniquo certaminis pondere praegrauaret. Contra quem  
+      <lb ed="#L" n="4"/>Prosper eodem capitulo 200. multis oppositis inter caetera ita quaerit; Cur inuictissimae 
+      veri<lb ed="#L" n="5" break="no"/>tatis arce deserta, gradatim ad praecipitia Pelagiana decurris, vt remoto longius Deo, &amp; a 
+      <lb ed="#L" n="6"/>sustentatione hominis separato, tantam libero arbitrio potentiam tribuis? vt non solum 
+      amis<lb ed="#L" n="7" break="no"/>sionem multiplicium facultatum, &amp; totius simul familiae ac necessitudinum acerbissimum 
+      fi<lb ed="#L" n="8" break="no"/>nem constanter aequanimiterque suscipiat, sed &amp; ipsius quoque corporis proprij ineffabiles 
+      <lb ed="#L" n="9"/>cruciatus proposito nudae voluntatis euincat: Quicunque ergo sic dixerit praecipitio 
+      Pela<lb ed="#L" n="10" break="no"/>giano dilabitur. Item arguit contra eum quia dixit Iob gratia Dei protectum in 
+      temptatio<lb ed="#L" n="11" break="no"/>ne minori, scilicet in amissione exteriorum bonorum, &amp; non in maiori, scilicet in afflictione 
+      <lb ed="#L" n="12"/>proprii corporis, animaeque tormentis; quasi, inquiens, vir ille in damnis atque orbitatibus 
+      <lb ed="#L" n="13"/>debuerit superna protectione circumtegi; in carnis autem suae animaeque tormentis non 
+      egu<lb ed="#L" n="14" break="no"/>erit adiuuari. Et iterum, si magnitudine animi, qua illata per singulos omnesque artus tot 
+      <lb ed="#L" n="15"/>mortium poena non superat nihil plus inter sanctorum palmas memorabilius, nihil 
+      inueni<lb ed="#L" n="16" break="no"/>tur illustrius, eamque asserit ex humana tantum virtute subsistere; quid erit laudis ac meriti 
+      <lb ed="#L" n="17"/>quod inter studia quietis &amp; pacis nequeat arbitrij obtinere libertas, quam in tanti fine 
+      certa<lb ed="#L" n="18" break="no"/>minis de suis viribus coronasti. Item arguit contra eum, quod habuit gratiam Dei qua vicit, 
+      <lb ed="#L" n="19"/>quia habuit Spiritum Sanctum &amp; Deum quo vicit: Vnde sic dicit; Quaero ergo abs te, 
+      videa<lb ed="#L" n="20" break="no"/>turne tibi vir iste, cum illis quae legimus suppliciis probaretur, habuisse in se Spiritum 
+      San<lb ed="#L" n="21" break="no"/>ctum? si habuisse dicis, certum est, quia Deus quem non deseruit, adiuuit; si autem 
+      recessis<lb ed="#L" n="22" break="no"/>se ab eo Spiritum Sanctum dixeris, propheticus te eiusdem sermo conuincit dicens; Scio 
+      <lb ed="#L" n="23"/>enim quod redemptor meus viuat, &amp; in nouissimo die de terra surrecturus sum, &amp; rursum, 
+      <lb ed="#L" n="24"/>Circumdabor pelle mea, &amp; in carne mea videbo Deum Saluatorem meum, quem visurus 
+      <lb ed="#L" n="25"/>sum ego ipse, &amp; oculi mei conspecturi sunt, &amp; non alius: Reposita est haec spes mea in sinu 
+      <lb ed="#L" n="26"/>meo: quod si de lncarnatione Domini nostri Iesu Christi, ac resurrectione eius qui est 
+      primi<lb ed="#L" n="27" break="no"/>tiae dormientium, &amp; de spe redeptionis quae in ipso reposita est omnibus sanctis, recte 
+      intelli<lb ed="#L" n="28" break="no"/>gitur prophetatum, manifeste apparet non discessisse a templo suo gratiam Dei, &amp; fecisse iam  
+      <lb ed="#L" n="29"/>tunc dominium in hoc sancto suo, quod postea in Apostolis, &amp; Martiribus suis spondebat 
+      <lb ed="#L" n="30"/>esse faciendum, dicens; Cum autem tradent vos, nolite cogitarte quomodo aut quid 
+      lo<lb ed="#L" n="31" break="no"/>quamini. Dabitur enim vobis in illa hora, quid loquamini; Non enim vos estis qui 
+      loqui<lb ed="#L" n="32" break="no"/>mini, sed spiritus Patris vestri qui loquitur in vobis: Et infra eodem ait, Nesciebat ex illo se 
+      <lb ed="#L" n="33"/>habere quod habebat; sed ait, Apud ipsum est sapientia &amp; fortitudo; ipse habet consilium 
+      <lb ed="#L" n="34"/>&amp; intelligentiam, de quo dicit, In cuius manu anima omnis viuentis, &amp; spititus vniuersae 
+      <lb ed="#L" n="35"/>carnis hominis: Et iterum, Operi manuum tuarum porrigis dexteram; tu quidem gressus 
+      <lb ed="#L" n="36"/>meos dinumerasti, sed parce peccatis meis; signasti quasi in sacculo delicta mea, sed curasti 
+      <lb ed="#L" n="37"/>iniquitatem meam: Non ergo deseruerat Dominus quem curabat; neque opem suam 
+      abstu<lb ed="#L" n="38" break="no"/>lerat ab eo, cui purificatoria remedia quibus clarius nitesceret, admouebat. Et capitulo 2ro. 
+      <lb ed="#L" n="39"/>quod autem dicis gratiam Dei ad Iob ex eo intelligendam non penitus recessisse, quod 
+      temp<lb ed="#L" n="40" break="no"/>tatori eius tantam dederat potestatem, quantam &amp; illum resistendi nouerat habere virtutem; 
+      <lb ed="#L" n="41"/>nonne rectius veraciusque loquereris, si vbi dixisti quantam &amp; illum resistendi nouerat 
+      <lb ed="#L" n="42"/>habere virtutem, diceres potius quantam &amp; illi resistendi nouerat se dedisse virtutem: In eius 
+      <lb ed="#L" n="43"/>enim verbi correctione totam istam gloriam, quam humanis viribus assignare voluisti, 
+      so<lb ed="#L" n="44" break="no"/>brietate aliqua temperares; vt illa mirabilis in tanta afflictione patientia, &amp; Dei adiutorio, &amp; 
+      <lb ed="#L" n="45"/>libero hominis ascriberetur arbitrio; sed veritus es naturae humanae minuere Iaudem, si ei 
+      <lb ed="#L" n="46"/>profiteatis a Deo datam esse virtutem: Ideo conflictus illius atque victoriae non vis credi 
+      De<lb ed="#L" n="47" break="no"/>um cooperatorem fuisse, sed tantummodo spectatorem, vt cui persuadere potueris per 
+      natu<lb ed="#L" n="48" break="no"/>ralem liberi arbitrij facultatem tam arduum certamen victum, dubitare non audeat in 
+      seuio<lb ed="#L" n="49" break="no"/>ribus causis, multo liberiores esse bonae voluntatis effectus, atque ita in illius damnatae 
+      sen<lb ed="#L" n="50" break="no"/>tentiae foueam cadat, qua dicitur a Deo nobis gratiam iustificationis dari, vt quod facere per 
+      <lb ed="#L" n="51"/>liberum iubemur arbitrium, facilius possimus implere per gratiam, &amp;c. sicut 39. primi 
+      ple<lb ed="#L" n="52" break="no"/>nius recitauit. Et 250. capitulo recitata ista ioa. definitione Cassiani, Prosper ipsam 
+      redar<lb ed="#L" n="53" break="no"/>guendo subiungit; Si Deus sciuit tantummodo quod Iob posset, non etiam donauit, vt 
+      pos<lb ed="#L" n="54" break="no"/>set, testis patientiae eius non auxiliator fuit, &amp; in quo erit necessarium gratiae adiutorium, si 
+      <lb ed="#L" n="55"/>humanis solis viribus tanta illi est parta victoria? Item in fine libri, vbi recitantur 13a. 
+      capi<lb ed="#L" n="56" break="no"/>ta Pelagiani haeretici in Palaestina svnodo condemnata; istud ponitur T2um. victoriam 
+      no<lb ed="#L" n="57" break="no"/>stram non esse ex Dei adiutorio, sed ex libero arbitrio: Tredecim vero capitulorum 
+      sequen<lb ed="#L" n="58" break="no"/>tium contra praedicta 13. condemnata, in eadem synodo sancitorum I2um. ita dicit, vt fatea¬ 
+      <!--509.xml-->
+      <pb ed="#A" n="476"/>
+               <lb ed="#L" n="1"/>tur quando contra temptationes concupiscentiasque illicitas dimicamus, quamuis illic 
+      de<lb ed="#L" n="2" break="no"/>beamus &amp; propriam voluntatem, non tamen ex illa, sed ex adiutorio Dei nostri victoriam: 
+      <lb ed="#L" n="3"/>Non enim aliter verum erit, quod Apostolus ait, Non volentis, nec currentis, sed 
+      mise<lb ed="#L" n="4" break="no"/>rentis est Dei. Dicit adhuc forsitan Pelagij procurator, praemissa sic debere intelligi, quod 
+      <lb ed="#L" n="5"/>gratia Dei est necessaria homini vt temptatio meritorie superetur, &amp; peccatum meritorie 
+      ca<lb ed="#L" n="6" break="no"/>ueatur, non autem vt temptatio superetur simpliciter, vt peccatum simpliciter caueatur: qui 
+      <lb ed="#L" n="7"/>refelletur similiter, sicut similem vaniloquum refellebat 3oum. primi. Rem quomodo 
+      <lb ed="#L" n="8"/>euadet iste sententiam Palaestinae synodi memoratam, in qua praeter illa quae quomodo potuit, 
+      <lb ed="#L" n="9"/>ausus est defendere Pelagius, obiecta sunt sibi, 13. capita memorata damnata, quae nisi 
+      re<lb ed="#L" n="10" break="no"/>mota omni tergiuersatione anathematiset, ipse anathema factus esset, &amp; quomodo iste se ab 
+      <lb ed="#L" n="11"/>omni tergiuersatione purgabit? Et de 13. capitulis memoratis sancitis, sic dicitur; Haec 
+      om<lb ed="#L" n="12" break="no"/>nia simpliciter sine vllis fateatur ambagibus, si quis in autoritatem catholicam &amp; ipsius 
+      Pela<lb ed="#L" n="13" break="no"/>gii expressa in Ecclesiasticis gestis verba consentit: sed quomodo iste haec fatetur simpliciter. 
+      <lb ed="#L" n="14"/>&amp; sine vllis ambagibus, qui diffitetur, &amp; negat simpliciter duodecimum capitulum iam 
+      <lb ed="#L" n="15"/>praemissum, scilicet quando contra temptationes &amp; concupiscentias dimicamus, non ex 
+      pro<lb ed="#L" n="16" break="no"/>pria voluntate, sed ex adiutorio Dei nostri esse victoriam? &amp; vix cum ambage extraneae 
+      glos<lb ed="#L" n="17" break="no"/>sae omni intellectui dissonae confitetur, quod victoria temptationum meritoria est a Deo, 
+      <lb ed="#L" n="18"/>cum neutrum capitulum nec damnatum scilicet, nec sancitum aliquam mentionem fecerit de 
+      <lb ed="#L" n="19"/>victoria meritoria, sed tantum plane loquebatur de victoria absolute: Nec ille est 
+      commu<lb ed="#L" n="20" break="no"/>nis modus loquendi nec intelligendi, sed sicut est communis loquutio de victoria absolute, 
+      <lb ed="#L" n="21"/>sic est &amp; communis intellectio de victoria absolute, quare &amp; sic accipiendae sunt huiusmodi 
+      <lb ed="#L" n="22"/>dicta semper, sicut plenius docuit quadragesimum sextum primi. Item si aliquis sine gratia 
+      <lb ed="#L" n="23"/>potest temptationem proprijs tantum viribus superare, licet non meritorie, sic posset in 
+      gra<lb ed="#L" n="24" break="no"/>tia constitutus CGratia enim non, impedit naturam sed promouet) posset ergo gratiosus 
+      si<lb ed="#L" n="25" break="no"/>ne gratia vel Deo iuuante proprijs tantum viribus temptationes superate, sicut prius potuit, 
+      <lb ed="#L" n="26"/>quando fuit gratia destitutus, vel sicut potest alius gratia Dei carens: Posset ergo gratiosus 
+      <lb ed="#L" n="27"/>omnia pati &amp; facere pro temptationibus superandis &amp; peccatis vitandis nihil penitus 
+      prome<lb ed="#L" n="28" break="no"/>rendo cum absurditatibus alijs contra similem fictionem deductis 39o. primi. Item tunc 
+      <lb ed="#L" n="29"/>posset homo sine gratia saltem non meritorie vitare peccatum quod est contra Augustinum 
+      <lb ed="#L" n="30"/>de gratia &amp; libero arbitrio 23. vbi dicit, Quando cognoscit homo peccatum, si non adiuuet  
+      <lb ed="#L" n="31"/>gratia vt cognitum caueatur, sine dubio lex iram operatur, ergo &amp;est peccatum, imo 
+      secun<lb ed="#L" n="32" break="no"/>dum Apostolum 2. ad Cor. 3. litera occidit, spiritus autem viuificat, id est, secundum 
+      Augu<lb ed="#L" n="33" break="no"/>stinum per totum librum suum de spiritu &amp; litera qui totus est expositorius huius dicti, 
+      lite<lb ed="#L" n="34" break="no"/>ra legis prohibens peccatum, occidit per peccatum mortale constiturum sub lege nisi 
+      spiri<lb ed="#L" n="35" break="no"/>tus gratiae viuificans iuuet eum: Vnde idem Apostolus ad Rom. 7. Peccatum, vt appareat 
+      <lb ed="#L" n="36"/>peccatum per bonum, id est, legem, operatum est mihi mortem, vt fiat supra modum 
+      pec<lb ed="#L" n="37" break="no"/>cans peccatum per mandatum. Vnde Augustinus despiritu &amp; litera 3. Artende, inquit, Apost. 
+      <lb ed="#L" n="38"/>ad Rom. explicantem quod scripsit ad Corint. Litera occidit, spiritus autemviuificat, sic 
+      ma<lb ed="#L" n="39" break="no"/>gis accipiendum, quemadmodum supradiximus; quoniam legis litera, quae docet non esse 
+      <lb ed="#L" n="40"/>peccandum, si spiritus viuificans desit, occidit: sciri enim facit peccatum potius quam caueri, &amp;  
+      <lb ed="#L" n="41"/>ideo magis augeri quam minui, quia malae concupiscentiae etiam praeuaricatio legis accidit, &amp;  
+      <lb ed="#L" n="42"/>idem dicit 25 6. propositione sententiarum Prosperi hinc excerpta. Item Bern. de gratia &amp; libero 
+      <lb ed="#L" n="43"/>arbitrio 20. Inter diuinum spiritum &amp; carnis appetitum, tenet medium quendam locum 
+      li<lb ed="#L" n="44" break="no"/>berum arbitrium, &amp; tanquam in deuexo latere montis admodum ardui inter vtrumque 
+      pen<lb ed="#L" n="45" break="no"/>dens, ita in appetitu, infirmatur per carnem, vt nisi sedulo spiritus adiuuet infirmitatem eius 
+      <lb ed="#L" n="46"/>per gratiam, non solum non valeat iustitiae, quae est iuxta Prophetam sicut montes Dei, 
+      as<lb ed="#L" n="47" break="no"/>cendendo de virtute in virtutem apprehendere culmen, sed etiam de vitio semper in vitium 
+      <lb ed="#L" n="48"/>suo ipsius pondere deuoluta ruat in praeceps: de multis autem similibus sufficiant ista pauca, 
+      <lb ed="#L" n="49"/>Et si quis obijciat, quod superbus temptatus de furto potest resistere, fur temptatus de 
+      adul<lb ed="#L" n="50" break="no"/>terio potest resistere; adulter temptatus de homicidio potest resistere, &amp; quod multi infideles 
+      <lb ed="#L" n="51"/>sicuti morales Philosophi multis temptationibus sine gratia restiterunt, &amp; illas strenue 
+      supe<lb ed="#L" n="52" break="no"/>rarunt: Dicendum quod gratia accipitur multis modis; sicut 25um. &amp; corollatium 42i. 
+      pri<lb ed="#L" n="53" break="no"/>mi docebant. Ad propositum autem cum dicitur, nullum temptatum posse sine gratia Dei 
+      <lb ed="#L" n="54"/>temptationi resistere, vel ipsam superare, seu vincere; intelligitur gratia gratis iuuans, 
+      scili<lb ed="#L" n="55" break="no"/>cet Spiritus Sanctus, &amp; quodcunque adiutorium increatum vel creatum, quod gratis iuuat 
+      <lb ed="#L" n="56"/>temptatum, vel gratis datur temptato vt temptationi resistat, superet, siue vincat; &amp; hoc 
+      <lb ed="#L" n="57"/>patet per illud, quod a beato Prospero superius allegaui. Probans enim quod Iob non 
+      pro<lb ed="#L" n="58" break="no"/>priis viribus, sed Dei gratia superauit, ostendit quod habuit Spiritum Sanctum in eo, qui  
+      <!--510.xml-->
+      <pb ed="#A" n="477"/>
+               <lb ed="#L" n="1"/>ipsum adiuuit, &amp; gratiam illam quandoque vocat Spiritum Sanctum iuuantem, quandoque 
+      <lb ed="#L" n="2"/>gratiam Dei, quandoque adiutorium Dei, quandoque Deum seu Dominum adiuuantem, &amp; 
+      <lb ed="#L" n="3"/>vtitur his omnibus pro eodem; sicque loquitur synodus Palaestina in duobus capitibus 
+      alle<lb ed="#L" n="4" break="no"/>gatis: Damnat enim capitulum Pelagij, quod dicebat victoriam nostram non esse ex Dei 
+      ad<lb ed="#L" n="5" break="no"/>iutorio, sed ex libero arbitrio, &amp; sanxit aliud capitulum quo docemur, quod quando 
+      con<lb ed="#L" n="6" break="no"/>tra temptationes &amp; concupiscentias illicitas dimicamus, non ex propria voluntate, sed ex 
+      <lb ed="#L" n="7"/>adiutorio Dei nostri victoriam. Item Augustinus de gratia &amp; libero arbitrio 9. recitat 
+      scrip<lb ed="#L" n="8" break="no"/>turam liberum arbitrium sic mouentem, Noli vinci a malo, sed vince in bono malum, &amp; 
+      <lb ed="#L" n="9"/>addit, Quod tamen vt fiat, adiuuat gratia, quae nisi adiuuerit, nihil lex erit, nisi virtus 
+      pecca<lb ed="#L" n="10" break="no"/>ti; Et ideo dicit Apostolus; Gratias autem Deo, qui dat nobis victoriam per Dominum 
+      <lb ed="#L" n="11"/>nostrum Iesum Christum, ergo &amp;st victoria qua peccatum vincitur, nihil est aliud quam 
+      do<lb ed="#L" n="12" break="no"/>num Dei in isto certamine liberum arbitrium adiuuantis. Sacra quoque Scriptura sub 
+      tali<lb ed="#L" n="13" break="no"/>bus nominibus, adiutorium, fortitudo, virtus, firmamentum, salus, &amp; huiusmodi, quando¬ 
+      <lb ed="#L" n="14"/>que intelligit ipsum Deum adiuuantem, fortificantem &amp; cetera facientem quandoque vero 
+      <lb ed="#L" n="15"/>non ipsum Deum, sed talia dona Dei, sicut de vtraque intelligentia simul Eccles. 34. 
+      pul<lb ed="#L" n="16" break="no"/>chre scribitur in haec verba; Oculi Domini super timentes eum, protector potentiae, 
+      firma<lb ed="#L" n="17" break="no"/>mentum virtutis, tegimen ardoris, &amp; vmbraculum meridiani, deprecatio offensionis, &amp; 
+      ad<lb ed="#L" n="18" break="no"/>iutorium casus, exaltans animam, &amp; illuminans oculos, dans sanitatem, &amp; vitam, &amp; 
+      benedi<lb ed="#L" n="19" break="no"/>ctionem. Quod autem sub talibus nominibus intelligantur talia dona Dei, patet copiosisi 
+      <lb ed="#L" n="20"/>sime in Scriptura; quod etiam sub talibus nominibus intelligatur aliquoties Deus ipse, 
+      pa<lb ed="#L" n="21" break="no"/>tet per Psalmistam Psalmo 17. sic dicentem; Diligam te Domine fortitudo mea, Dominus 
+      <lb ed="#L" n="22"/>firmamentum meum &amp; refugium meum, &amp; cornu salutis meae, &amp; multa similia occurrunt 
+      <lb ed="#L" n="23"/>saepissime in Psalmis, &amp; alibi in Scriptura: &amp; quia Deus tam multipliciter gratis se praebet 
+      <lb ed="#L" n="24"/>hominibus, &amp; tam multiplicia dona hominibus gratis donat, haec omnia gratiae nomine 
+      nun<lb ed="#L" n="25" break="no"/>cupantur. Patet ergo quod &amp; quomodo nullus temptatus solius liberi arbitrij viribus sine 
+      <lb ed="#L" n="26"/>gratia Dei &amp; eius auxilio potest temptationem aliquam superare. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

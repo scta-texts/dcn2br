@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 45</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 45</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="791"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e04242"><!-- l3c45 -->
+            <head xml:id="dcn2br-e04242-Hd1e106">Caput 45</head>
+            <p xml:id="dcn2br-e04242-d1e109">
+               <lb ed="#L" n="7"/>CAP. XLV. 
+      <lb ed="#L" n="8"/>Ventilat quartam responsionem.
+    </p>
+            <p xml:id="dcn2br-e04242-d1e116">
+               <lb ed="#L" n="9"/>QVidam autem volentes Christum defendere a mendacio, periurio, &amp; 
+      <lb ed="#L" n="10"/>peccato, dicunt, quod illa, quae Christus asseruit, &amp; iurauit ad vnum 
+      <lb ed="#L" n="11"/>intellectum, potest asseruisse &amp; iurasse non ad illum, sed adalium 
+      in<lb ed="#L" n="12" break="no"/>tellectum. Istud autem videtur assertum ex mirabili intellectu. Sint 
+      <lb ed="#L" n="13"/>namque verba Christi tam plana &amp; tam simpla, quod non possint 
+      ra<lb ed="#L" n="14" break="no"/>tionabiliter accipi ad duplicem intellectum, nec ad alium quam p 
+      <lb ed="#L" n="15"/>praetendit superficies literalis, dicatque Christus &amp; iuret se tantum 
+      in<lb ed="#L" n="16" break="no"/>telligere illo modo: &amp; si quis dixerit adhuc Christum posse alio 
+      mo<lb ed="#L" n="17" break="no"/>do intelligere illud dictum, habet dicere consequenter, Christum nullum posse certificare de 
+      <lb ed="#L" n="18"/>aliquo dicto suo, ad quem intellectum hoc dixit; &amp; hoc est sacra fuangelia haesitatione &amp; 
+      <lb ed="#L" n="19"/>suspicione nimia fermentare. Quis enim propter verba Christi incerta certe crederet aut 
+      fa<lb ed="#L" n="20" break="no"/>ceret magnum aliquid &amp; incertum? Nec posset cum Christo fieri ciuilis aut securus 
+      contra<lb ed="#L" n="21" break="no"/>ctus, quantumcunque aliquid planissime diceret, promirteret, vel iuraret: semper enim 
+      pos<lb ed="#L" n="22" break="no"/>set latere anguis in herba, &amp; fallacia sub abscondito intellectu, essetque Christus magis 
+      mu<lb ed="#L" n="23" break="no"/>tabilis &amp; varius in sermone, quam Chamaelcon in colore: colorem namque quem 
+      Chamaele<lb ed="#L" n="24" break="no"/>on nunc habet vel in praeterito habuit, necesse est eum nunc habere &amp; in praeterito habuisse; 
+      <lb ed="#L" n="25"/>de intellectu vero sermonis Christi opposito modo se habet. Esset quoque assertio Christi 
+      <lb ed="#L" n="26"/>dubitabilior &amp; incertior, quam assertio alterius hominis cuiuscunque, vt de ipso veraciter 
+      <lb ed="#L" n="27"/>possit dici illud opprobriosum ridiculum Horatij 1. Epistolarum 1. 
+      <lb ed="#L" n="28"/>
+               <quote xml:id="dcn2br-e04242-Qd1e161">Quo teneam vultus mutantem Protea nodo?</quote> 
+               <lb ed="#L" n="29"/>Cum tamen secundum Isidorum 2. de summo bono 3I. Quacunque arte verborum quis 
+      <lb ed="#L" n="30"/>iuret, Deus, qui conscientiae testis est, ita hoc accipit, sicut ille, cui iuratur, intelligit: &amp; 
+      alle<lb ed="#L" n="31" break="no"/>gatur 3. sentent. Petri dist. 39. &amp; in Canone 22. Causa quaestione 5. Quacunque. Quare &amp; 
+      <lb ed="#L" n="32"/>de ipsomet Domino nostro Iesu Christo scribitur, Marc. 4. Loquebatur eis verbum prout 
+      <lb ed="#L" n="33"/>poterant audire; dicitque Apostolus 1. ad Cor. 14. Si nesciero virtutem vocis, ero ei, cui 
+      lo<lb ed="#L" n="34" break="no"/>quor, barbatus, &amp; qui loquitur mihi barbarus. Mirabilis insuper, imo &amp; miserabilis magister 
+      <lb ed="#L" n="35"/>ac inutilis videretur, qui nullum discipulum posset docere ad quam intelligentiam 
+      loquere<lb ed="#L" n="36" break="no"/>tur: qualis namque esset communicatio inter illos? Hoc autem non decet Magistrum &amp; 
+      Do<lb ed="#L" n="37" break="no"/>minum nostrum Christum; quare &amp; Luc. 24. scribitur sic de ipso, Aperuit eis sensum vt 
+      in<lb ed="#L" n="38" break="no"/>telligerent scripturas; qui &amp; Discipulis suis dixit, Vobis datum est nosse mysterium regni 
+      <lb ed="#L" n="39"/>coelorum, Matth. 13. Et Luc. 8. Qui habet aures audiendi audiat. Interrogabant autem 
+      <lb ed="#L" n="40"/>eum Discipuli eius, quae esset haec parabola? Quibus ipse dixit, Vobis datum est nosse 
+      my<lb ed="#L" n="41" break="no"/>sterium regni coelorum Dei, caeteris autem in parabolis, vt videntes non videant, &amp; audientes 
+      <lb ed="#L" n="42"/>non intelligant. Vnde videtur, quod licet parabolae Euangelicae &amp; amphibologicae Iesu 
+      Chri<lb ed="#L" n="43" break="no"/>sti possint accipi ad multiplicem &amp; dubium intellectum, quod tamen potest certificare de eis, 
+      <lb ed="#L" n="44"/>quanto magis de alijs dictis suis; imo videtur quod alia dicta sua non possunt rationabiliter  
+      <lb ed="#L" n="45"/>accipi ad intellectum tam dubium, sed ad certum quem verba praetendunt, secundum 
+      com<lb ed="#L" n="46" break="no"/>munem hominum intellectum. Vnde Iohan. 16. Haec in prouerbijs locutus sum vobis; 
+      ve<lb ed="#L" n="47" break="no"/>nit hora, cum iam non in prouerbijs loquar vobis, sed palam de Patre meo annuntiabo 
+      vo<lb ed="#L" n="48" break="no"/>bis, quod debet intelligi pro statu vitae praesentis, sicut indicat verbum sequens: nam 
+      imme<lb ed="#L" n="49" break="no"/>diate subiungit, Illo die in nomine meo petetis. Quod &amp; propter eandem rationem tenet 
+      Au<lb ed="#L" n="50" break="no"/>gustinus, partis secundae super Iohan. homilia 48. seu 102. totius. Praeterea asserat Christus 
+      <lb ed="#L" n="51"/>aliquid de futuro in anima humana, siue in Angelo per actus seu species naturales, 
+      significan<lb ed="#L" n="52" break="no"/>tes naturaliter tantum vnum, sicut capitulo proximo est ostensum; &amp; responsio non vitabit. 
+      <!--825.xml-->
+      <pb ed="#A" n="792"/>
+               <lb ed="#L" n="1"/>Dixit enim Propheta, Audiam quid soquatur in me Dominus Deus, Psalmo 8a. Super quod 
+      <lb ed="#L" n="2"/>Augustinus, Propheta dixit, Loquebatur in illo Deus intus, &amp; mundus faciebat illi strepitum 
+      <lb ed="#L" n="3"/>foris; cohibens ergo aliquanto ab strepitu mundi, &amp; auertens se ad se, &amp; a se in illum cuius 
+      <lb ed="#L" n="4"/>vocem audiebat interius, quasi obturans autem contra tumultuantem vitae huius 
+      inquietudi<lb ed="#L" n="5" break="no"/>nem, &amp; contra animam corpore quod corrumpitur aggrauatam, &amp; sensu terrena habitatione 
+      <lb ed="#L" n="6"/>deprimente multa mala cogitantem, ait, Audiam quid loquatur in me Dominus Deus. 
+      Psal<lb ed="#L" n="7" break="no"/>mo quoque 88. Locutus est, inquit, Deo Propheta, in visione Sanctis tuis; vbi litera 
+      Augu<lb ed="#L" n="8" break="no"/>stini habet, aspectu; quam sic exponit, Locutus est eis in aspectu, id est, in reuelatione; vnde 
+      <lb ed="#L" n="9"/>Prophetae videntes dicebantur. Viderunt quiddam intus, quod dicerent foris, in occulto 
+      <lb ed="#L" n="10"/>audierunt, quod palam praedicauerunt. Secundum istos etiam nec Spiritus Sanctus posset 
+      <lb ed="#L" n="11"/>certe docere intellectum sacrae scripturae contra illud Iohan. 14. Spiritus sanctus quem mitret 
+      <lb ed="#L" n="12"/>Pater in nomine meo, ille vos docebit omnia, &amp; suggerit vobis omnia quaecunque dixero 
+      <lb ed="#L" n="13"/>vobis: &amp; contra illud eiusdem 16. Cum venerit ille spiritus veritatis, docebit vos omnem 
+      ve<lb ed="#L" n="14" break="no"/>ritatem. Praeterea si illud quod Christus dixit ad vnum intellectum, potest non dixisse ad  
+      <lb ed="#L" n="15"/>intellectum illum sed alium, cum talis intellectus in Christo sit aliquis actus cognitiuus 
+      pro<lb ed="#L" n="16" break="no"/>prius &amp; distinctus, sicut potest haberi ex capitulo proximo, potest non habuisse actum quem  
+      <lb ed="#L" n="17"/>habuit, &amp; quem non habuit habuisse, quod hypothesi contradicit. Item Christus potest 
+      <lb ed="#L" n="18"/>certificare hominem de intellectu suo in propositionibus de praesenti atque praeterito; quare 
+      <lb ed="#L" n="19"/>&amp; in propositionibus de futuro, &amp; illa quae in istis ad vnum protulit intellectum, non potest 
+      <lb ed="#L" n="20"/>ad alium protulisse, quare nec in alijs de futuro. Item eadem ratione habent dicere 
+      conse<lb ed="#L" n="21" break="no"/>quenter, quod id quod Christus voluit atque fecit vna intentione &amp; ad vnum finem, potest 
+      <lb ed="#L" n="22"/>non voluisse aut fecisse illa intentione, sed alia, ad alium quoque finem, &amp; cum intentio 
+      fina<lb ed="#L" n="23" break="no"/>lis sit aliquis actus voluntatis proprius &amp; distinctus, directus in aliquem finem proprium &amp; 
+      <lb ed="#L" n="24"/>distinctum, sicut patet ex capitulo proximo, potest Christus non habuisse actum voluntatis 
+      <lb ed="#L" n="25"/>quem habuit, &amp; quem non habuit, habuisse: potestque non fuisse passus, nec instituisse 
+      Eccle<lb ed="#L" n="26" break="no"/>siastica Sacramenta pro iustificatione hominum vel salute; quare &amp; iustificati &amp; saluati per 
+      il<lb ed="#L" n="27" break="no"/>la possunt nunc esse non tales, &amp; in praeterito non fuisse; potest quoque Christus similiter non  
+      <lb ed="#L" n="28"/>fecisse quae fecit, &amp; quae non fecit, fecisse. Item si haec sint possibilia de Christo secundum 
+      <lb ed="#L" n="29"/>naturam humanam, erunt &amp; similia possibilia de puro homine, sicut ex praehabitis capitulo 
+      <lb ed="#L" n="30"/>proximo potest ostendi; quae ergo purus homo asseruit, voluit, atque fecit ad vnum 
+      intelle<lb ed="#L" n="31" break="no"/>ctum &amp; ad vnum finem proprium &amp; distinctum, potest non ad illum, sed ad alium haec 
+      fe<lb ed="#L" n="32" break="no"/>cisse; quare purus homo, qui taliter faciendo meretur, aut peccat, meruit, aut peccauit, &amp; 
+      <lb ed="#L" n="33"/>iustam mercedem recipit aut recepit, potest non sic, sed opposite singillatim. Haec etiam 
+      <lb ed="#L" n="34"/>possunt de puro homine per eadem reprobari, per quae similia de Christo Deo &amp; homine 
+      fu<lb ed="#L" n="35" break="no"/>erant reprobata. Alij magis specificantes istam responsiunculam, aestimant posse asseruisse 
+      <lb ed="#L" n="36"/>sub conditione saltem tacita quod asseruit absolute. Sed hi possunt redargui, sicut primi: 
+      om<lb ed="#L" n="37" break="no"/>nis enim conditio tacite intellecta est aliquis actus intellectus; est ergo possibile praeteritum 
+      <lb ed="#L" n="38"/>non fuisse. Eadem etiam ratione quod Christus voluit absolute, potest non sic voluisse, sed 
+      <lb ed="#L" n="39"/>sub conditione tantummodo adhuc futura; &amp; cum ex voluntate conditionali non sequatur 
+      <lb ed="#L" n="40"/>effectus, nisi demum fortassis conditione extante, possunt Ecclesiastica Sacramenta non 
+      fu<lb ed="#L" n="41" break="no"/>isse, vel vtilia non fuisse, factaque eius praeterita non fuisse. Ponatur etiam Christum heri 
+      asse<lb ed="#L" n="42" break="no"/>ruisse &amp; voluisse aliquid cras futurum sub conditione hodie adimpleta, &amp; reuertitur difficultas. 
+      <lb ed="#L" n="43"/>Haec etiam omnia simili ratione sunt de puro homine concedenda, quare &amp; inconuenientia 
+      <lb ed="#L" n="44"/>ad quae superius est deductum. Praeterea si Christus scit futura contingentia, sic potest illa 
+      <lb ed="#L" n="45"/>asserere; scit autem illa simpliciter absolute, sic enim sunt vera; &amp; sicut sunt vera, sic scit illa. 
+      <lb ed="#L" n="46"/>Rursum si Christus nesciret futura nisi sub conditione, vel scit quod conditio extabit, vel non. 
+      <lb ed="#L" n="47"/>Si scit, aut ergo sub alia conditione, vel simpliciter absolute: si sub alia conditione, erit 
+      pro<lb ed="#L" n="48" break="no"/>cessus huiusmodi in conditionibus infinitus, nec vlla talis scientia de finita: si simpliciter &amp; 
+      <lb ed="#L" n="49"/>absolute, &amp; simili modo scit futura, asserat etiam absolute impletionem conditionis illius, &amp; I 
+      <lb ed="#L" n="50"/>responsio vacuatur; si non scit quod extabit conditio, non scit certe: nec scit tunc aliter quam  
+      <lb ed="#L" n="51"/>alius purus homo. Amplius autem asserat Christus A. fore sub B. conditione, &amp; asserat 
+      sim<lb ed="#L" n="52" break="no"/>pliciter B. fore, &amp; reuertitur difficultas. Et si quis adhuc dixerit quod illa assertio potest esse 
+      <lb ed="#L" n="53"/>sub alia conditione, puta C. tunc potest esse processus in conditionibus talibus infinitus, &amp; 
+      <lb ed="#L" n="54"/>nulla penitus nisi de sola incertitudine certitudo, sicut superius est argutum. Item asserat 
+      <lb ed="#L" n="55"/>Christus quicquam futurum, &amp; asserat se asserere illud simpliciter absolute sine quacunque 
+      <lb ed="#L" n="56"/>conditione tacita vel expressa. Alij vero dicunt, quod non omnis qui dicit falsum mentitur, 
+      <lb ed="#L" n="57"/>sed quia dicit falsum animo asserendi; &amp; quod Christus, licet aliquid dixerit animo asserendi, 
+      <lb ed="#L" n="58"/>potest illud huiusmodi animo non dixisse. Sed istud per iam praehabita refelletur, quoniam 
+      <!--826.xml-->
+      <pb ed="#A" n="793"/>
+               <lb ed="#L" n="1"/>animus asserendi proprius &amp; distinctus est finalis, intentio siue propositum, &amp; aliquis 
+      a<lb ed="#L" n="2" break="no"/>ctus voluntatis vel intellectus proprius &amp; distinctus. Alij opinantur quod mentiri est 
+      <lb ed="#L" n="3"/>contra mentem ire cum intentione fallendi; Sed Christus non habuit intentionem 
+      fal<lb ed="#L" n="4" break="no"/>lendi; quare &amp; si quis dixerit contra mentem, non est tamen mendacij redarguendus. 
+      <lb ed="#L" n="5"/>Sed hi serui nequam bsasphemant nequiter Dominum nostrum Christum: concedunt 
+      <lb ed="#L" n="6"/>namque ipsum posse falsum asserere contra mentem scienter &amp; peierare; quare &amp; 
+      consequen<lb ed="#L" n="7" break="no"/>ter habent concedere ipsum posse peccare contra prius ostensa tricesimo secundi. Nam 
+      om<lb ed="#L" n="8" break="no"/>ne factum contra conscientiam est peccatum, dicente Apostolo, Omne quod non est ex fide 
+      <lb ed="#L" n="9"/>peccatum est, ad Rom. 14. Glossa, Omne etiam, si bonum sit in se, quod non est ex fide, id 
+      <lb ed="#L" n="10"/>est, quod sit contra fidem, id est, contra conscientiam, peccatum est: quod &amp; simili modo 
+      <lb ed="#L" n="11"/>intelligit consilium generale, sicut patet extra de praescriptionibus capitulo vltimo; &amp; Papa 
+      <lb ed="#L" n="12"/>Innocentius tertius, supra de restitutione spoliatorum capitulo, Literas; vbi &amp; adiungit illud 
+      <lb ed="#L" n="13"/>vulgatum, Quicquid sit contra conscientiam aedificat ad gehennam. Quomodo etiam 
+      excu<lb ed="#L" n="14" break="no"/>sabitur quis ab intentione fallendi, si asseruit falsum scienter intendens vt tanquam verum 
+      <lb ed="#L" n="15"/>sincerum ab auditoribus crederetur? Alij adhuc ponunt non oportere Christum fuisse 
+      menti<lb ed="#L" n="16" break="no"/>tum, &amp; si asseruit vnum falsum, quia non oportet hoc fuisse contra mentem ipsius. Sed hi 
+      <lb ed="#L" n="17"/>mirabilem mentem habent: non enim aduertunt Christum esse Deum &amp; hominem, ideoque 
+      <lb ed="#L" n="18"/>saltem secundum naturam suam diuinam omnia verissime cognoscentem. Item secundum 
+      <lb ed="#L" n="19"/>naturam suam humanam scit omnia saltem ad ipsum spectantia de propinquo, vt 
+      quadrage<lb ed="#L" n="20" break="no"/>simo secundo huius erat ostensum; vel saltem secundum illam naturam credidit esse verum 
+      <lb ed="#L" n="21"/>quod per illam asseruit: Non enim oblitus fuerat regulae, quam docebat; Sit sermo vester. 
+      <lb ed="#L" n="22"/>Est, Est, Non, Non. Matth. 5. Est in corde, est in ore: &amp; similiter negatiue; maxime autem 
+      <lb ed="#L" n="23"/>quicquid iurauit, credidit esse verum; alias etenim nimis perperam iurasset, &amp; potest esse qd. 
+      <lb ed="#L" n="24"/>falsum asseruit &amp; iurauit; ergo &amp;s quod credidit falsum esse verum, quare &amp; quod fuit 
+      decep<lb ed="#L" n="25" break="no"/>tus, quod quadragesimo secundo huius fuerat reprobatum: vnde etiam sequitur esse possibile 
+      <lb ed="#L" n="26"/>ipsum peccasse, cuius oppositum tricesimo secundi fuerat demonstratum. Item asserat 
+      ius<lb ed="#L" n="27" break="no"/>iurando se scire vel credere in proprio genere sic esse futurum, sicut asserit atque iurat, &amp; 
+      re<lb ed="#L" n="28" break="no"/>sponsio non respondet. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

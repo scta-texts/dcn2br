@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praefatio</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praefatio</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="f13"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-d1e3xx"><!-- praefatio -->
+            <head xml:id="dcn2br-d1e3xx-Hd1e106">Praefatio</head>
+            <p xml:id="dcn2br-d1e3xx-d1e109">
+      <!--12.xml-->
+               <pb ed="#A" n="f13"/>
+               <lb ed="#L" n="1"/>PRAEFATIO 
+      <lb ed="#L" n="2"/>THOMAE DE \\ 
+      BRADWAR<lb ed="#L" n="3" break="no"/>DINA CANCELLARII LONDON,  
+      <lb ed="#L" n="4"/>IN TRES LIBROS DE CAVSA DEI 
+      <lb ed="#L" n="5"/>CONTRA PELAGIVM, ET 
+      <lb ed="#L" n="6"/>DE VIRTVTE CAVSARVM
+    </p>
+            <p xml:id="dcn2br-d1e3xx-d1e129">
+               <lb ed="#L" n="7"/>MAgnorum &amp; multorum petitionibus atque 
+      <lb ed="#L" n="8"/>repetitionibus // cumulatis incessanter 
+      sol<lb ed="#L" n="9" break="no"/>licitor, vt quae nuper de causa Dei contra 
+      <lb ed="#L" n="10"/>Pelagium, &amp; de virtute causarum, in 
+      ca<lb ed="#L" n="11" break="no"/>stris scholasticis militando, voce transeunte 
+      <lb ed="#L" n="12"/>deprompseram, scripturae mancipem 
+      rema<lb ed="#L" n="13" break="no"/>nenti. Verum haud dubio, sicut Dei 
+      ami<lb ed="#L" n="14" break="no"/>ct in causa Dei postulare me prouocant &amp; 
+      <lb ed="#L" n="15"/>confortunt, ita &amp; amici Pelagij, super numerunt plures istis, me 
+      re<lb ed="#L" n="16" break="no"/>vocant &amp; deterrent. Ecce enim, (quod non nisi tactus dolore cordis 
+      <lb ed="#L" n="17"/>intrinsecus refero) sicut olim contra vnicum Dei Prophetam octingenti 
+      <lb ed="#L" n="18"/>&amp; quinquaginta Prophetae Baal, &amp; similes sunt reperti, quibus &amp; 
+      <lb ed="#L" n="19"/>innumerabilis populus adhaerebat: ita &amp; hodie in hac causa, quot, 
+      Do<lb ed="#L" n="20" break="no"/>mine, hodie cum Pelagio, pro Libero Arbitrio, contra gratuitam 
+      gra<lb ed="#L" n="21" break="no"/>tiam tuam pugnant &amp; contra Paulum pugilem gratiae spiritualem? 
+      <lb ed="#L" n="22"/>Quot // etiam hodie gratuitam gratiam tuam Fastidiunt, solumque, 
+      Libe<lb ed="#L" n="23" break="no"/>rum Arbitrium ad Ialutem sufficere stomacbantur? aut si lgratia 
+      vtan<lb ed="#L" n="24" break="no"/>tur, uel perfunctorie necessariam eam simulant, ipsamque, se iactant 
+      Li<lb ed="#L" n="25" break="no"/>beri sui arbitrij viribus promereri, vt sic saltem nequaquam gratuita, 
+      <lb ed="#L" n="26"/>sed uendita videatur? Quot etiam, Deus omnipotens, impotentes de sui 
+      <!--13.xml-->
+      <pb ed="#A" n="f14"/>
+               <lb ed="#L" n="1"/>potestate arbitrij praesumentes, tuae cooperationis auxilium in 
+      operatio<lb ed="#L" n="2" break="no"/>nibus suis recusant, dicendo cum impijs, recede a nobis? Quot insuper. 
+      <lb ed="#L" n="3"/>Domine, sui libertatem arbitrij extollentes, tuam refugiunt seruitutem; 
+      <lb ed="#L" n="4"/>Del si te cooperari cum eis saltem labijs fateantur, cum illis superbis &amp; 
+      <lb ed="#L" n="5"/>odibilibus ciuibus tuis quondam, te super eos regnare diffugiunt; imo 
+      <lb ed="#L" n="6"/>&amp; superbiores Lucifero aequalitate tui nequaquam contenti, super te, 
+      <lb ed="#L" n="7"/>Rex Regum, impudentissime gestiunt se regnare? Non enim 
+      veren<lb ed="#L" n="8" break="no"/>turlastruere suam voluntatem in actione communi praeire vt dominam, 
+      <lb ed="#L" n="9"/>tuam subsequi vt ancillam; se praeire vt Dominos, te subsequi sicut 
+      ser<lb ed="#L" n="10" break="no"/>uum; se velut Reges praecipere, te tanquam subditum obedire. 
+      Qui<lb ed="#L" n="11" break="no"/>nimo &amp; voluntati suae in contingenter futuris omnimodam tribuunt 
+      li<lb ed="#L" n="12" break="no"/>bertatem in tantum, vt etiam contra vocem Propheticam a tua 
+      subiecti<lb ed="#L" n="13" break="no"/>one exemptionem praetendant, &amp; voluntatem tuam liberrimam, 
+      omni<lb ed="#L" n="14" break="no"/>potentissimam &amp; immutabilissimam // cum haec aduenerint in 
+      prae<lb ed="#L" n="15" break="no"/>teritum velabantur de summa arce libertatis antiquae deijcere, &amp; 
+      <lb ed="#L" n="16"/>nouellae necessitatis irreperabili seruituti subiicere moliuntur. O 
+      Do<lb ed="#L" n="17" break="no"/>mine Deus meus, non nisi gemebundus recogito, quot &amp; quanti 
+      iudi<lb ed="#L" n="18" break="no"/>ces /Iseleges Pelagianos, olim damnatos, &amp; a totius Ecclesiae finibus 
+      <lb ed="#L" n="19"/>relegatos absoluere &amp; reconciliare sollicite machinantur?. Quot turgidi 
+      <lb ed="#L" n="20"/>aduocati pro eis vociferantur?. Quot improbabiles procuratores partem 
+      <lb ed="#L" n="21"/>eorum procurant. Quot insuper, Domine, argumenta artificialia non 
+      <lb ed="#L" n="22"/>habentes, ad inartificialia se conuertunt, &amp; vt partem 
+      Pelagiano<lb ed="#L" n="23" break="no"/>rum extollant saltem clamoribus, horribilibus probris, conuiciis, risu 
+      <lb ed="#L" n="24"/>&amp; gestu, partem tuam deprimere annituntur/ et quot &amp; quam 
+      innu<lb ed="#L" n="25" break="no"/>merabiles eis Fauenti. Totus etenim poene mundus post Pelagium abiit. 
+      <lb ed="#L" n="26"/>in errorem. Exurge igitur Domine, iudica causam tuam &amp; 
+      susti<lb ed="#L" n="27" break="no"/>nentem te sustine, protege, robora, consolare. Scis enim quod nusquam  
+      <lb ed="#L" n="28"/>virtute mea, sed tua consisus, tantillus aggredior tantam 
+      cau<lb ed="#L" n="29" break="no"/>sam. 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e242">
+               <lb ed="#L" n="30"/>Verum talia mihi supplicanti diutius &amp; anxius deprecanti, ecce 
+      <lb ed="#L" n="31"/>nuper in cuiusdam noctis silentio, postquam coram Domino praecordia 
+      <lb ed="#L" n="32"/>mea fudi, soporatus didici &amp; inueni, quod ipse est qui post tempestatem 
+      <lb ed="#L" n="33"/>facit tranquillum, &amp; post lachrymationem exultationem infundit, ac 
+      <lb ed="#L" n="34"/>omnibus inuocantibus eum veraciter prope adest. Didebar nempe mihi 
+      <lb ed="#L" n="35"/>videre diurno lumine circumfuso, me multum supra terram in aera 
+      <lb ed="#L" n="36"/>lsubleuari, sicque ab Oriente versus partes occiduas ascendendo 
+      <lb ed="#L" n="37"/>intrepidum proficisci: quodque Pelagius veniens ex aduerso, apprehensa 
+      <!--14.xml-->
+      <pb ed="#A" n="f15"/>
+               <lb ed="#L" n="1"/>sinistra mea consertisque digitis, tota me violentia ad terram detrabere 
+      <lb ed="#L" n="2"/>conabatur; cui &amp; proprij roboris accinctus fiducia plurimum 
+      relucta<lb ed="#L" n="3" break="no"/>bar, talisque lucta non mediocriter anxia diutius perdurauit: sed &amp; 
+      <lb ed="#L" n="4"/>Pesagio continue praeualente, &amp; me poene ad infima detrabente, 
+      <lb ed="#L" n="5"/>ipse in meipso responsum desperationis accepi: tota tamen virtute 
+      <lb ed="#L" n="6"/>renitens ad diuinum confugi auxilium toto corde, statumque Pelagius 
+      <lb ed="#L" n="7"/>solum manu praeceps detruditur, &amp; fracta ceruice corruit super 
+      ter<lb ed="#L" n="8" break="no"/>ram, clausisque oculis mortuus iacuit resupinus. Ego autem super 
+      ter<lb ed="#L" n="9" break="no"/>ram remansi in aere ascendens &amp; progrediens sicut ante gratulando 
+      <lb ed="#L" n="10"/>iucundius &amp; mirando. Hinc ergo spiritu fortitudinis confortatus, 
+      <lb ed="#L" n="11"/>spem hausi, quod de superbo Pelagio Principe Pelagianorum pestiscro 
+      <lb ed="#L" n="12"/>(quare &amp; de vniuerso eius exercitu) Christi paruulus triumpharem: 
+      <lb ed="#L" n="13"/>non autem ego, sed gratia eius mecum; ine tamen cum ea pro viribus, 
+      <lb ed="#L" n="14"/>laborante. Non enim mea est causa, nec meum est bellum; sed 
+      <lb ed="#L" n="15"/>Dei, Domini scientiarum, exercituum, &amp; virtutum, ego autem 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e299">
+               <lb ed="#L" n="16"/>sub ipso) sustineo partem eius. A quorum igitur vultibus, a 
+      quo<lb ed="#L" n="17" break="no"/>rum insultibus, a quorum furoribus aut terrcribus trepidabo, tanti 
+      Pa<lb ed="#L" n="18" break="no"/>troni protectione tutissima communitus? Quamobrem qui est Domini,  
+      <lb ed="#L" n="19"/>iungatur mihi; imo non mihi, sed ambo Domino coniungamur, stemus 
+      <lb ed="#L" n="20"/>simul, quis contra nos? Scio enim quod vnus, cum quo est Dominus, mille 
+      <lb ed="#L" n="21"/>aduersarios persequetur, &amp; duo decem millia effugabunt. 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e316">
+               <lb ed="#L" n="22"/>Porro, sicut antiqui Pelagiani ventoso nomine saecularium 
+      scientia<lb ed="#L" n="23" break="no"/>rum inflati Consistorium Theologicum contomnentes Philosophicum 
+      <lb ed="#L" n="24"/>siagitabant: ita &amp; moderni. Audiui namque quosdam aduocatos 
+      Pe<lb ed="#L" n="25" break="no"/>lagij, licet multum prouectos in sacris apicibus, affirmantes Pelagium 
+      <lb ed="#L" n="26"/>nusquam potuisse conuinci per naturatem &amp; Iphilosophicam 
+      ratio<lb ed="#L" n="27" break="no"/>nem; sed vix arguebatur vtcunque per quasdam auctoritates 
+      Theologi<lb ed="#L" n="28" break="no"/>cas satis nudas, maxime autem per auctoritatem Ecclesiae, quae 
+      Satra<lb ed="#L" n="29" break="no"/>pis non placebat. Quapropter per rationes &amp; auctoritates 
+      philosophi<lb ed="#L" n="30" break="no"/>cas ipsos disposui reformare. Et quia insuper omnes Pelagiani commus 
+      <lb ed="#L" n="31"/>niter, tam veteres quam recentes, Scripturas Canonicas &amp; 
+      Catholico<lb ed="#L" n="32" break="no"/>rum Doctorum, ad suae peruersitatis perniciem peruertere satagunt, 
+      ip<lb ed="#L" n="33" break="no"/>sarum intelligentiam solidam elucidandam sincerius arbitrabar. Et  
+      <lb ed="#L" n="34"/>quia in immoderata multitudine venientes partem Dei conantur 
+      oppri<lb ed="#L" n="35" break="no"/>mere, &amp; multa testium Dei turba ipsos reprimere statuebam, ne &amp; 
+      ip<lb ed="#L" n="36" break="no"/>se contra tot belluas videar singularis, praesertim in causa tam ancipiti 
+      <lb ed="#L" n="37"/>&amp; sublimi. Et quis effecerit ista paucis? Quot namque voluminibus 
+      <!--15.xml-->
+      <pb ed="#A" n="f16"/>
+               <lb ed="#L" n="1"/>Sancti Patres Dluam Pelagianarum haeresium succiderunt. Et quot  
+      <lb ed="#L" n="2"/>adhuc propagines venenosae, de antiquis radicibus multiplicius pullulant 
+      <lb ed="#L" n="3"/>&amp; succrescunt? Sicut enim antiquitus, sic &amp; modo. Primo namque 
+      <lb ed="#L" n="4"/>horum Haeresiarcha Lucifero, nolente Deo subesse, sed coesse, per 
+      Mi<lb ed="#L" n="5" break="no"/>chaelem deiecto, surrexit Caim, existimans peccatorem nequaquam 
+      iu<lb ed="#L" n="6" break="no"/>stificari gratis a Deo per gratiam gratis datam, sed per meritum 
+      antece<lb ed="#L" n="7" break="no"/>dens, quo diuina vltione prostrato surrexit Nembrot, qui, Fosepho 
+      re<lb ed="#L" n="8" break="no"/>citante, suadebat hominibus, vt nequaquam Deo ascriberent, quod ipsis 
+      <lb ed="#L" n="9"/>foelicitas eueniret, sed quod haec eis virtute propria praeberetur &amp; vt 
+      <lb ed="#L" n="10"/>spem suam in propria virtute reponerent, non in Deo. Multitudo 
+      e<lb ed="#L" n="11" break="no"/>tiam prona erat, vt eius praeceptionibus obedirent. obsequi Deo, graue 
+      <lb ed="#L" n="12"/>seruitium reputantes. Sicque homines a Dei reuocauit timore, fecitque 
+      <lb ed="#L" n="13"/>elatos, ad Dei iniuriam &amp; contemptum atque ad tyrannidem 
+      adduce<lb ed="#L" n="14" break="no"/>bat. Cuius praesumptione sacrilega per Abraham Patriarcham 
+      retu<lb ed="#L" n="15" break="no"/>sa, surrexerunt illi vaniloqui &amp; magniloqui arbitrantes labia &amp; 
+      ser<lb ed="#L" n="16" break="no"/>mones sibi a se esse, quare &amp; Deum habere dominum dedignantes. 
+      <lb ed="#L" n="17"/>Horum &amp; filij Sadducaei, teste Iosepho, affirmare videntur, quod  
+      <lb ed="#L" n="18"/>bonum &amp; malum hominum electioni proponitur, &amp; vnumquemque ex 
+      <lb ed="#L" n="19"/>voluntate propria fine Deo eligere hoc, vel illud. Quibus &amp; per 
+      Pro<lb ed="#L" n="20" break="no"/>phetam correptis, surrexerunt quidam Hebraei, Graeci, &amp; Romani 
+      <lb ed="#L" n="21"/>Christiani, qui dicerent se meritis suis fidei gratiam suscepisse, quibus &amp; 
+      <lb ed="#L" n="22"/>per Apostolum redargutis, surrexit Pelagius Brito, qui contra Dei 
+      gra<lb ed="#L" n="23" break="no"/>tiam, &amp; eius auxilium superba bella commouit: Quo per patres 
+      Catho<lb ed="#L" n="24" break="no"/>licos condemnato, Iulianus &amp; Celestius eandem haeresim renouarunt. 
+      <lb ed="#L" n="25"/>quae &amp; per Patres orthodoxos extincta, a Cassiano iterum suscitatur, 
+      <lb ed="#L" n="26"/>quam &amp; Prosper prospere castigauit. Verum &amp; circa idemu tempus 
+      <lb ed="#L" n="27"/>caepit eadem haeresis in Britanma latissime pullulare. Propter quam 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e416">
+               <lb ed="#L" n="28"/>venerabili Beda in Ecclesiastica Historia Gentis Anglorim, &amp; 
+      Hen<lb ed="#L" n="29" break="no"/>rico Hontindon in Historia Anglorum, narrantibus) Germantis Antifi¬ 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e423">
+               <lb ed="#L" n="30"/>odorensis, &amp; Lupus Trecassensis Episcopi, licet daemonibus saeuissimam 
+      <lb ed="#L" n="31"/>tempestatem in mari concitantibus, Oceanum transfretarunt, ipsamque 
+      <lb ed="#L" n="32"/>argumentationibus nedum vocalibus, peruetiam realibus, miraculis scil 
+      pa<lb ed="#L" n="33" break="no"/>tulis, strenue couulserut. Sed eccepost paululum, praecisae iam haeresis 
+      vir<lb ed="#L" n="34" break="no"/>gulta pestifera denuo reuirescut, sicut ijde Chronographi coscripserut, quae 
+      <lb ed="#L" n="35"/>&amp; ide Germanus &amp; Seuerus // Treueresis Episc. in Britan, vonietes 
+      <lb ed="#L" n="36"/>recidere denuo curauerunt. Adhuc ante et post volumina teporum Scotia 
+      re<lb ed="#L" n="37" break="no"/>liquiis pestis huius infecta sedis Romanae solertia, epistolis falutaribus 
+      <!--16.xml-->
+      <pb ed="#A" n="f17"/>
+               <lb ed="#L" n="1"/>purgauit, eodem venerabili Beda teste. Horum &amp; meminit S. Prosper 
+      <lb ed="#L" n="2"/>&amp; licet haec sicus fatua toties sit praecisa, toties eradicata, toties 
+      combu<lb ed="#L" n="3" break="no"/>sta, incinerata &amp; vsque ad nihilum conculcata, quam Iate tamen &amp; 
+      <lb ed="#L" n="4"/>dense adhuc non definit germinare, &amp; sua vitulamina vitiosa, quanto 
+      <lb ed="#L" n="5"/>subtilius solito, tanto periculosius propagare? 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e458">
+               <lb ed="#L" n="6"/>Zelo igitur gelans pro causa Dei, sciens in flamimam terribilem 
+      ma<lb ed="#L" n="7" break="no"/>num mitto, Non enim ignoro quomodo Pelagiani pestiferi animo 
+      ae<lb ed="#L" n="8" break="no"/>stuanti tumultuosis clamoribus obsatrabunt, &amp; dentibus efferatis 
+      char<lb ed="#L" n="9" break="no"/>tulam istam // lacerare molientur: &amp; hij prae caeteris solent liberius 
+      <lb ed="#L" n="10"/>carpere aliena, qui nihil proprium ediderunt. Sed nonne, fosepho 
+      refe<lb ed="#L" n="11" break="no"/>rente, propter hanc causam Chaldaei &amp; Mesopotamitae contra 
+      Abra<lb ed="#L" n="12" break="no"/>ham consurgebant? Nonne &amp; antiqui veri Prophetae, propter causam  
+      <lb ed="#L" n="13"/>Dei a Pseudo prophetis, quamplurima sunt perpessi? Nonne &amp; 
+      qui<lb ed="#L" n="14" break="no"/>dam indocti, Paulum doctissimum insaniae arguebant, eiusque 
+      praecla<lb ed="#L" n="15" break="no"/>ras epistolas deprauabant? Ngnne &amp; Fulianus alumnus Pelagij, 
+      gio<lb ed="#L" n="16" break="no"/>riosissimo Auoustino, imitatori Apostoli, &amp; contra Pelacianos 
+      in<lb ed="#L" n="17" break="no"/>gratos gratiae strenuissimo defensori adhuc viuenti, quam multis 
+      crimi<lb ed="#L" n="18" break="no"/>nationibus //obganniuir, ac libros eius se ventilaturum, atque 
+      senten<lb ed="#L" n="19" break="no"/>tiarum suarum impietate denudaturum &amp; cofossurum iactauit? Nonne 
+      <lb ed="#L" n="20"/>&amp; alij Pelagit defensores in Gallis, Augustino de morte iam ad 
+      vi<lb ed="#L" n="21" break="no"/>tam transtato, scripta eiusdem reprehendere praesumpserunt? Nonne 
+      <lb ed="#L" n="22"/>&amp; optima Christi ac Patrum doctrinam sanctam facta &amp; verba, multi 
+      <lb ed="#L" n="23"/>multipliciter pessundabant? Et quis, aut qualis sum ego? Scio, quod non 
+      <lb ed="#L" n="24"/>sum melior Patribus meis tantis, nec Domino meo maior. Derutamen 
+      <lb ed="#L" n="25"/>totis semper visceribus iustum desidero correptorem: non oleum 
+      pecceto<lb ed="#L" n="26" break="no"/>ris, qui misericorditer increpando, non personam, sed 
+      uitiumlpersequa<lb ed="#L" n="27" break="no"/>tur, non hominem, sed errorem. Hoc enim vellem, &amp; puto me facere 
+      <lb ed="#L" n="28"/>mihi ipsi, &amp; aliis, Deo teste. 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e510">
+               <lb ed="#L" n="29"/>Amplius autem quicunque hanc vnam causam pertractare 
+      volue<lb ed="#L" n="30" break="no"/>rit, necesse videtur, vt altius ordiendo, de cunctarum virtute causarum 
+      <lb ed="#L" n="31"/>edisserat studiose: sed modulo meo pensato, admodum me deterret tam 
+      <lb ed="#L" n="32"/>inaccessibilis rerum sublimitas, tam impenetrabilis rerum profunditas, 
+      <lb ed="#L" n="33"/>tam impermeabilis rerum immensitas, &amp; tam inextricabilis 
+      difficul<lb ed="#L" n="34" break="no"/>tas. Nonne apud Philosophos difficillimum reputatur, &amp; ideo soli 
+      <lb ed="#L" n="35"/>congruere sapienti, cognoscere causas rerum, quare &amp; dicit Poeta; 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e528">
+               <lb ed="#L" n="36"/>Foelix, qui potuit rerum cognoscere causat. 
+      <lb ed="#L" n="37"/>Audagare siquide causas naturales entiu &amp; propinquas, difficultatem non  
+      <lb ed="#L" n="38"/>modicam cotinet &amp; laborem: quato magis tota vniuersitate haru causarum,  
+      <!--17.xml-->
+      <pb ed="#A" n="f18"/>
+               <lb ed="#L" n="1"/>volatu mentis corruptela corporis aggrauatae transcendere, &amp; vsque 
+      <lb ed="#L" n="2"/>ad impenetrabile penetrale causarum supernaturalium, altissimarum, 
+      in<lb ed="#L" n="3" break="no"/>accessibilium &amp; inuisibilium penetrare, ipsasque velut Nacticoracis 
+      o<lb ed="#L" n="4" break="no"/>culo caligante perspicaciter intueri, ac alios similes similiter eleuare, 
+      ip<lb ed="#L" n="5" break="no"/>sorumque oculos depurare, vt &amp; ipsi ipsas similiter contemplentur. 
+      Non<lb ed="#L" n="6" break="no"/>ne &amp; huic Theoriae noscitur adiacere scrutinium de vniuersitate 
+      causa<lb ed="#L" n="7" break="no"/>rum, de vnica causa prima, de rerum productione, conseruatione &amp; 
+      <lb ed="#L" n="8"/>qualibet actione, de potentia, scientia, &amp; voluntate diuina, de 
+      praesci<lb ed="#L" n="9" break="no"/>entia &amp; prouidentia, de praedestinatione, electione, reprobatione &amp; 
+      gra<lb ed="#L" n="10" break="no"/>tia, de fato, casu &amp; fortuna, de libero arbitrio, merito &amp; peccato, de 
+      <lb ed="#L" n="11"/>necessitate seu contingentia faturorum, cum alijs Ianxietatibus 
+      <lb ed="#L" n="12"/>dependentibus &amp; emergentibus tot &amp; tantis? // Haec igitur theoria 
+      <lb ed="#L" n="13"/>totius Logicae, Physicae, Astronomiae, Ethicae &amp; Metaphysicae 
+      <lb ed="#L" n="14"/>seu diuinae obsignatiora mysteria comprehendit, hic quoque omnium 
+      <lb ed="#L" n="15"/>gentium &amp; linguarum, graduum, sexuum, personarum disputatissimum 
+      <lb ed="#L" n="16"/>est problema, a cuius ventilatione clamosa, nec etiam idiota se temperat, 
+      <lb ed="#L" n="17"/>neque anus. A duertat quaeso vestra discretio quam perfunctorie 
+      om<lb ed="#L" n="18" break="no"/>nes illi gloriosi Philosophi, tam laciuiosam hanc Musam, vix a limine 
+      <lb ed="#L" n="19"/>salutarunt. Quare &amp; ipsa Minerua, cuidam suo alumno de istis 
+      solli<lb ed="#L" n="20" break="no"/>cite queritanti respondens, ad rem inquit, omnium maximam quaesitu 
+      <lb ed="#L" n="21"/>me vocas, cui vix exhausti quicquam sit satis. Nonne &amp; Prophetae 
+      <lb ed="#L" n="22"/>videntes clarissime horum quorundam excellentiam secretorum 
+      reuer<lb ed="#L" n="23" break="no"/>berato intuitu, ipsa velut sippi &amp; nescij, ac ideo queruli mirabatur? An 
+      <lb ed="#L" n="24"/>non ille, cui similis in terra non erat, vnum articulum paruulum diuinae 
+      <lb ed="#L" n="25"/>prouidentiae non explicans, sed qureulose admirans, Sustinete, inquit, 
+      <lb ed="#L" n="26"/>me, vt &amp; ego loquar, &amp; post mea, si videbitur, uerba ridete. Nunquid 
+      <lb ed="#L" n="27"/>contra hominem disputatio mea est, vt merito non debeam contristari? 
+      <lb ed="#L" n="28"/>attendite me &amp; obstupescite, &amp; supponite digitumori vestro, &amp; ego 
+      <lb ed="#L" n="29"/>quando recordatus fuero pertimesco, &amp; concutit carnem meam tremor: 
+      <lb ed="#L" n="30"/>quare ergo impij viuunt subleuati sunt confortatique diuitiis? Annon &amp; 
+      <lb ed="#L" n="31"/>ille secundum cor Dei inuentus, qui super omnes eum docentes, etiam 
+      <lb ed="#L" n="32"/>super senes intelligere se caudebat, gelans super prospera peccatorum, 
+      <lb ed="#L" n="33"/>pedibus poene motis effusisque gressibus concludebat, sine causa se 
+      iusti<lb ed="#L" n="34" break="no"/>ficasse cor suum, &amp; se inaniter castigasse, seque super hoc statim 
+      redar<lb ed="#L" n="35" break="no"/>guens, quia sic Dei filios reprobaret, subiunxit, se existimasse cognoscere? 
+      <lb ed="#L" n="36"/>sed hoc labor, donec Sanctuarium Dei intrans ibi intelligentiam 
+      conse<lb ed="#L" n="37" break="no"/>quatur. Annon &amp; ille amabilis Dom. qui cunctos sapietia praecedebat, 
+      <!--18.xml-->
+      <pb ed="#A" n="f19"/>
+               <lb ed="#L" n="1"/>quampsurimum queritur vniuersa iusto &amp; impio aequaliter euenire, &amp; 
+      <lb ed="#L" n="2"/>hoc esse pessintum omnium asseuerat: immo quod iusti tanquam impij 
+      ad<lb ed="#L" n="3" break="no"/>uersitatibus quatiantur, &amp; impij velut iusti prosperitatibus foueantur 
+      <lb ed="#L" n="4"/>vanissimum iudicans, profitetur hominem etiam sapientem, nullam posse 
+      <lb ed="#L" n="5"/>rationem attingere vmnium operum diuinorum. Annon &amp; ille 
+      san<lb ed="#L" n="6" break="no"/>ctificatus in vtero tam sublimis propheta, vt excelsus Domino vocaretur, 
+      <lb ed="#L" n="7"/>mirabundus &amp; querulus: Iustus, inquit, es Domine si disputem tecium; 
+      ve<lb ed="#L" n="8" break="no"/>runtamen iusta loquar ad te, quare via impiorum prosperatur, bene est 
+      <lb ed="#L" n="9"/>omnibus qui praeuaricantur, &amp; inique agunt? Nonne &amp; oloriosi 
+      <lb ed="#L" n="10"/>Apostoli primitijs spiritus gloriantes, similia similiter mirabantur. 
+      <lb ed="#L" n="11"/>Nonne ille vas electionis clarissimum, &amp; secretarius Dei 
+      tan<lb ed="#L" n="12" break="no"/>tus, vt etiam in tertium coelum raptus diuinorum ficret 
+      consci<lb ed="#L" n="13" break="no"/>us arcanorum, quendam sinum huius abyssi scrutando, profunditate 
+      <lb ed="#L" n="14"/>eius abforptus compellitur exclamare, O altitudo diuitiarum sapientiaea 
+      <lb ed="#L" n="15"/>&amp; scientiae Dei quam incomprehensibilia sunt iudicia eius, &amp; 
+      inuesti<lb ed="#L" n="16" break="no"/>gabiles viae eius? Nonne &amp; ille Apostolici coetus Princeps, Clauiger 
+      <lb ed="#L" n="17"/>coeli, &amp; Spiritu Sancto plenus affirmat Paulum secundum sapientiam? 
+      <lb ed="#L" n="18"/>sibi datam scripsssse Epistolas continetes quaeda difficilia intellectu? Sed  
+      <lb ed="#L" n="19"/>vbi, quaeso, in totis illis Epistolis obstrusior difficultas, quam in materiae 
+      <lb ed="#L" n="20"/>huius fossis? Quot insuper &amp; quam famosa studiorum gymnasia, quet 
+      <lb ed="#L" n="21"/>&amp; qua praeclara Phitosophorum ac Theolugorum ingenia tantis 
+      retro<lb ed="#L" n="22" break="no"/>actis temporibus, istud chaos elaboratissime ventilarunt, &amp; quantis 
+      effe<lb ed="#L" n="23" break="no"/>cerint, quantumque posteris ventilandum reliquerint, quis non videt? 
+      Plu<lb ed="#L" n="24" break="no"/>rima namqueipsius contenta videntur nedum non examinatissime 
+      ventila<lb ed="#L" n="25" break="no"/>ta verum nec ad ventilabris triturata Hic igitur Chaos Anaxagorae 
+      infini<lb ed="#L" n="26" break="no"/>tum, hic inextricabilis Daedali Labyrinthus, hic Hydrae miraculis 
+      mostruo<lb ed="#L" n="27" break="no"/>sum: imo &amp; monstruosior res qua Hydra In ipsa naquno capite 
+      amputa<lb ed="#L" n="28" break="no"/>to tria cotinuo recreuerunt: hic aute &amp; experientia &amp; Pallade 
+      attesta<lb ed="#L" n="29" break="no"/>te, vna dubitatione succisa innumerabiles aliae renascuntur. Quis igitur 
+      <lb ed="#L" n="30"/>tot &amp; tam finuosa rerum inuolucra breui volumine explicabit. Nonne 
+      <lb ed="#L" n="31"/>&amp; hic est locus, qui Lapsus Sapientium a sapientibus appellatur? Nonne 
+      <lb ed="#L" n="32"/>&amp; hic Charybdis &amp; Scyllae pericula cuilibet perhorrenda? Quot namque 
+      <lb ed="#L" n="33"/>Charybdim praetergredi cupientes, in Scyllam Laceram impegerunt? Et 
+      <lb ed="#L" n="34"/>quot Scylla vitare curantes in Charybdis voraginem inciderunt? Quis 
+      igi<lb ed="#L" n="35" break="no"/>tur praesupserit se tutum per medium nauigare? sed scio quid facia, illi me 
+      <lb ed="#L" n="36"/>naut comitta, quae perire non poterit, nauit Petri An ipsa namque, autor &amp; 
+      <lb ed="#L" n="37"/>magister vnicus noster Christus tutissime residns, de ipsa legitur docuis¬ 
+      <!--19.xml-->
+      <pb ed="#A" n="f20"/>
+               <lb ed="#L" n="1"/>se mystice nobis infinuans, quod apud ipsam Petri nauiculam, apud 
+      Ro<lb ed="#L" n="2" break="no"/>manam Ecclesiam, totius Christianae doctrinae autoritas &amp; 
+      magisteri<lb ed="#L" n="3" break="no"/>um remaneret. Huius igitur tam authenticae, tantaeque maoistrae 
+      iudi<lb ed="#L" n="4" break="no"/>cio me totum, meaque omnia scripta, seu scribenda plene subijcio, 
+      inte<lb ed="#L" n="5" break="no"/>greque submitto, cuius &amp; protectionem, vbi contra Dei inimicos 
+      pugna<lb ed="#L" n="6" break="no"/>uero, correctionem, vbi errauero, approbationem, vbi recte sensero, 
+      in<lb ed="#L" n="7" break="no"/>stantissime postulo totis votis. Contra has quoque difficultates omnes &amp; 
+      <lb ed="#L" n="8"/>fingulas, dulciter me confortat ille fortis adiutor, apud quem non est 
+      im<lb ed="#L" n="9" break="no"/>possibile neque difficile omne verbum. Scio namque, Domine Deus, scio, 
+      <lb ed="#L" n="10"/>quod te sustinentes non despicis, non deseris, non relinquis, sed sustines, 
+      <lb ed="#L" n="11"/>doces, foues, circundas, roboras &amp; confirmas. Hac igitur fretus 
+      fidu<lb ed="#L" n="12" break="no"/>cia, sub inuictissimis signis tuis militaturus continue accipio causam 
+      <lb ed="#L" n="13"/>tuam. 
+      </p>
+            <p xml:id="dcn2br-d1e3xx-d1e740">
+               <lb ed="#L" n="14"/>Dignantibus autem opusculum istud inspicere, pro quotationibus textus Aristotelis, 
+      <lb ed="#L" n="15"/>aduertendum, quod vbi Auerroes commentando exponit, quotatio sumitur secundum 
+      par<lb ed="#L" n="16" break="no"/>titiones ipsius &amp; particulas commentorum; alibi autem secundum diuisiones capitulorum 
+      <lb ed="#L" n="17"/>apud alios consuetas.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

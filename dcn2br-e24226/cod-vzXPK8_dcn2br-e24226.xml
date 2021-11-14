@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="175"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e24226"><!-- l1c5 -->
+            <head xml:id="dcn2br-e24226-Hd1e106">Caput 5</head>
+            <head xml:id="dcn2br-e24226-Hd1e109" type="question-title">Quod Deus non est mutabilis ullo modo</head>
+            <p xml:id="dcn2br-e24226-d1e112">
+      <!--208.xml-->
+               <pb ed="#A" n="175"/>
+               <lb ed="#L" n="1"/>CAP. V. 
+      <lb ed="#L" n="2"/>Quod Deus non est mutabilis vllo modo: habet Corollarium 
+      <lb ed="#L" n="3"/>quinque partium. 
+    </p>
+            <p xml:id="dcn2br-e24226-d1e125">
+               <lb ed="#L" n="4"/>OStenso igitur quod Deus est principium effectiuum cuiuslibet 
+      <lb ed="#L" n="5"/>mutationis &amp; motus, restat consequenter ostendere, quod Deus 
+      <lb ed="#L" n="6"/>non est mutabilis vllo modo; hoc autem sequitur euidenter ex 
+      <lb ed="#L" n="7"/>sexta parte Corollarij primi huius; &amp; licet ibi videatur 
+      sufficien<lb ed="#L" n="8" break="no"/>ter ostensum; est tamen hic ex causa aliquibus rationibus &amp; 
+      Au<lb ed="#L" n="9" break="no"/>toritatibus amplius muniendum. Constat siquidem secundum 
+      <lb ed="#L" n="10"/>praemissa tertio huius &amp; quarto, quod Deus omnia facit &amp; 
+      mo<lb ed="#L" n="11" break="no"/>uet; &amp; in omni factione &amp; motione est aliquis factor &amp; motor 
+      <lb ed="#L" n="12"/>infactibilis &amp; immobilis, alioquin esset processus infinitus in eis 
+      <lb ed="#L" n="13"/>contra Suppositionem secundam; quod &amp; quaedam praemissa 
+      <lb ed="#L" n="14"/>secundo huius testantur. Et quis dignius talis, quam p 
+      <lb ed="#L" n="15"/>summus factor &amp; motor; quod &amp; quaedam 20. 30. &amp; 40. huius praemissa testari videntur. 
+      <lb ed="#L" n="16"/>Istam quoo; conclusionem propter rationem praemissam multi Philosophi, &amp; Theologi 
+      con<lb ed="#L" n="17" break="no"/>testantur. Praeterea si Deus esset aliquo modo mutabilis, non esset actus purissimus, contra 
+      se<lb ed="#L" n="18" break="no"/>cundam suppositionem, &amp; tertiam partem Corollarij primi huius. Vnde &amp; Philosophus I2. 
+      <lb ed="#L" n="19"/>Metaphys. 3 8. Quoniam autem est mouens ipsum quidem immobile, actu ens, hoc non 
+      con<lb ed="#L" n="20" break="no"/>uenit aliter se habere vllatenus. Vbi Auerroes, Illud quod mouet primum motum, cum sit 
+      <lb ed="#L" n="21"/>non motum, quia est actus purus sine aliqua potentia, impossibile est vt habeat aliquam 
+      dis<lb ed="#L" n="22" break="no"/>positionem ab ea quam habet. Item si Deus quomodolibet mutaretur, non esset summe vnus 
+      <lb ed="#L" n="23"/>&amp; simpliciter, neque summe necesse esse, contra ian suppositionem 2am partem, &amp; alias 
+      Corol<lb ed="#L" n="24" break="no"/>larij primi huius, &amp; Philosophos &amp; Theologos multis locis. Vnde Philosophus S Metaph. 6. 
+      <lb ed="#L" n="25"/>distinguens necessarium, scribit ita; Primum &amp; proprium necessarium quod i, simplex est; 
+      <lb ed="#L" n="26"/>hoc enim non conuenit pluribus modis habere; quare nec aliter &amp; aliter; Iam enim pluribus 
+      <lb ed="#L" n="27"/>modis vtique haberet: Et 12. Metaphys. distinguens necessarium 38. sic dicit; Hoc autem 
+      <lb ed="#L" n="28"/>non contingens aliter, sed simplex; ex tali igitur principio dependet coelum &amp; natura: &amp; 
+      Aui<lb ed="#L" n="29" break="no"/>cen. 1. Metaph. 6. Necesse esse per se est necessarium omnibus suis modis; &amp; infra noni; 10. 
+      Ne<lb ed="#L" n="30" break="no"/>cesse esse, per hoc est necesse esse, omnibus suis modis, quod non potest esse ei alia dispositio 
+      <lb ed="#L" n="31"/>futura quae non erat. Item si Deus posset mutari, cur non posset mutari in peius; quomodo 
+      <lb ed="#L" n="32"/>etiam nullatenus alio indigeret, contra ram Suppositionem, &amp; partes Corollarij primi huius? 
+      <lb ed="#L" n="33"/>Vnde &amp; Hermes de verbo aeterno vlt. Nihil, inquit, deest ei, qui ipse est omnia, aut in eo sunt 
+      <lb ed="#L" n="34"/>omnia; &amp; Sixtus Pictagorieus in sententiolis suis ait, Deus quidem nullius eget; quare &amp; 
+      Pro<lb ed="#L" n="35" break="no"/>pheta Deus meus es tu, quoniam bonorum meorum non eges, Psalmo 15. &amp; Apostolus; 
+      <lb ed="#L" n="36"/>Hic coeli &amp; terrae cum sit Dominus, non in manufactis habitat templis, nec manibus huma 
+      <lb ed="#L" n="37"/>nis colitur indigens aliquo. Item tunc esset passibilis vt patet per se; quoniam omne mutari est 
+      <lb ed="#L" n="38"/>pati; &amp; sic arguit Auerroes super 5. Metaph. comment. 6. Si fuerit possibile mutare in aliam 
+      <lb ed="#L" n="39"/>speciem, scilicet dispositionem aut modum, tunc natura eius erit de natura passibilis 
+      recipi<lb ed="#L" n="40" break="no"/>entis multas species, quod reputat impossibile; &amp; ita videtur cum agere semper praestantius sit 
+      <lb ed="#L" n="41"/>quam pati. Vnde Aristoteles 3. de Anima 19. Semper, inquit, honorabilius agens patiente, 
+      <lb ed="#L" n="42"/>&amp; principium materia; &amp; 4. Eth. 1. virtutis magis est bene facere, quam bene pati; &amp; August. 
+      <lb ed="#L" n="43"/>12. super Genesin ad literam 29. Omni modo, inquit, praestantior est qui facit, ea re, de qua 
+      <lb ed="#L" n="44"/>aliquid facit; &amp; idem probat 6. Musicae suae diffuse; &amp; 83. quaest. 28. Omne, inquit, efficiens 
+      <lb ed="#L" n="45"/>magis est quam id quod efficitur; &amp; de immortalitate anime dicit idem: Item tunc 
+      mutare<lb ed="#L" n="46" break="no"/>tur Lab alio, I vel saltem hoc posset, vt patet per Arist. 7. Phys. &amp; Auerr. in comment. &amp; 
+      Aui<lb ed="#L" n="47" break="no"/>cen. 1. Metaph. 3. qui volunt concorditer, quod omne quod mouetur, mouetur ab alio, &amp; sic 
+      <lb ed="#L" n="48"/>esset in potentia respectu alterius inferior &amp; passiuus; quae omnia primae suppositioni, &amp; tertic 
+      <lb ed="#L" n="49"/>parti Corollarij primi derogant multum nimis. Et haec videtur ratio Algazel. 2. Met. dicto 9. 
+      <lb ed="#L" n="50"/>Necesse esse, inquit, non potest permutari, quia non ab alio nec a seipso, quia nulla res agit 
+      ali<lb ed="#L" n="51" break="no"/>quid in seipsa vllo modo. Arist. etiam 1o de Coelo 1I0. multas istarum rationum more suo 
+      bre<lb ed="#L" n="52" break="no"/>uiter comprehendens, sic ait; In Encidijs philosophismatibus circa diuina multoties 
+      declara<lb ed="#L" n="53" break="no"/>tum est rationibus, quod diuinum intransmutabile necessarium esse omne primum &amp; 
+      sum<lb ed="#L" n="54" break="no"/>mum, quod sic habens testificatur dictis, neque aliud melius est quod mouebit; Illud enim vtique 
+      <!--209.xml-->
+      <pb ed="#A" n="176"/>
+               <lb ed="#L" n="1"/>erit diuinius, neque habet prauum nihil, neque indigens eorum quod ipsius bonorum vllo est. 
+      <lb ed="#L" n="2"/>Hoc idem satis multae Autoritates Philosophicae &amp; Theologicae contestantur; Vnde 
+      Her<lb ed="#L" n="3" break="no"/>mes de verbo aeterno ostenso 33. Deum mouere omnia coelestia &amp; terrestria, superiora, &amp; in 
+      <lb ed="#L" n="4"/>feriora, temporaria ratione diuina lege conscripta 34. sic ait, Cunctis ergo ita se habentibus 
+      <lb ed="#L" n="5"/>nihil stabile, nihil fixum, nihil immobile, nec nascentium, nec coelestium, nec terrenorum; 
+      <lb ed="#L" n="6"/>sed solus Deus, &amp; merito solus; Ipse enim in se est &amp; a se; et circum se totus est plenus, atque 
+      <lb ed="#L" n="7"/>perfectus, isque sua firma stabilitas est, nec alicuius impulsu, nec loco moueri potest, cum in eo 
+      <lb ed="#L" n="8"/>sint omnia, et in omnibus ipse est solus. Quare &amp; Aristoteles 12. Metaph. SI. Deus non 
+      trans<lb ed="#L" n="9" break="no"/>mutatur; In indignius enim transmutatio, et motus // quidam tale; et 9. Metaph. 2. 
+      Passibili<lb ed="#L" n="10" break="no"/>tas est in deterius &amp; corruptionis; vbi Auerroes, Omne quod patitur, aut patitur ad peius, aut  
+      <lb ed="#L" n="11"/>patitur ad corruptionem; et 8. Phys. 36. et post diffuse ostendit Philosophus, Primum 
+      mo<lb ed="#L" n="12" break="no"/>uens non moueri omnino, quia neque essentialiter, neque accidentaliter vllo modo; vbi &amp; 37. 
+      <lb ed="#L" n="13"/>allegat Anaxagoram ponentem intellectum, qui est primum principium, necessario esse 
+      im<lb ed="#L" n="14" break="no"/>passibilem, immixtum, &amp; immobilem. Boetius quoque 3. de Consolatione Philosophiae 
+      <lb ed="#L" n="15"/>prosa vltima allegat a Parmenide, diuinae forma substantiae rerum orbem mobilem rotat,  
+      <lb ed="#L" n="16"/>dum se immobilem ipsa conseruat. Vnde &amp; 24. definitionum 24. Philosophorum de Deo 
+      <lb ed="#L" n="17"/>19. ita dicit, Deus est semper mouens immobilis. Hoc idem Auicen. Algazel, Ammonius, 
+      <lb ed="#L" n="18"/>Auerroes, &amp; alij plures Philosophi pluries contestantur. Quod &amp; Autoritas sacra docet; vnde 
+      <lb ed="#L" n="19"/>Psalmo 43. Tu ipse Rex meus, &amp; Deus meus; vbi Augustinus, Tu es ipse, non enim 
+      muta<lb ed="#L" n="20" break="no"/>tus es; tempora mutata video, Creator temporum non mutatur, &amp; Exod. 3. Ego sum qui sum; 
+      <lb ed="#L" n="21"/>&amp; Psalmo 10I. Mutabis eos &amp; mutabuntur, tu autem idem ipse es. Glossa; tu autem qui 
+      dix<lb ed="#L" n="22" break="no"/>isti Ego sum qui sum, idem ipse es, id est, immutabilis, &amp; omnipotens; haec enim sunt ex te, 
+      <lb ed="#L" n="23"/>per te, &amp; in te; non tamen sunt quod ipse es, qui es mutans non mutatus, faciens non factus, 
+      <lb ed="#L" n="24"/>mouens sed manens. Vnde &amp; Num. 23. Non est Deus vt filius hominis vt mutetur Mala. 3. 
+      <lb ed="#L" n="25"/>Ego Dominus, &amp; non mutor. Iac. 2. Apud quem non est transmutatio, nec vicissitudinis 
+      ob<lb ed="#L" n="26" break="no"/>umbratio; I. ad Tim. vlt. qui solus habet immortalitatem, id est, immutabilitatem; vnde 
+      bea<lb ed="#L" n="27" break="no"/>tus Augustinus I. de Trin. 1. sic dicit, Dictum est ad Mosen Ego sum, qui sum; et qui est 
+      mi<lb ed="#L" n="28" break="no"/>sit me ad vos; sed cum esse aliquo modo dicatur &amp; corpus &amp; animus, nisi proprio quodam 
+      <lb ed="#L" n="29"/>modo vellet intelligi, non id vtique diceret; &amp; id quod ait Apostolus, qui solus habet 
+      immor<lb ed="#L" n="30" break="no"/>talitatem, cum &amp; Anima quodammodo immortalis esse dicatur, &amp; sit, non diceret solus 
+      ha<lb ed="#L" n="31" break="no"/>bet, nisi quia vera immortalitas incommutabilitas est, quam nulla potest habere creatura, 
+      <lb ed="#L" n="32"/>quoniam solius creatoris est. Hoc et Iacobus dicit, Omne datum optimum, &amp; omne donum 
+      <lb ed="#L" n="33"/>perfectum desursum est descendens a Patre luminum, apud quem non est commutatio nec 
+      <lb ed="#L" n="34"/>momenti obumbratio. Hoc et Dauid, Mutabis ea &amp; mutabuntur, tu autem idem ipse es, 
+      <lb ed="#L" n="35"/>proinde substantiam Dei sine vlla sui commutatione mutabilia facietem, &amp; sine vllo suo 
+      tem<lb ed="#L" n="36" break="no"/>porali motu temporalia creantem intueri, &amp; plene nosse difficile est. Et 5. de Trin. 2. breuius 
+      <lb ed="#L" n="37"/>docet idem, vbi vult quod solus Deus omnino mutari non potest; &amp; subdit, Quod mutatur 
+      <lb ed="#L" n="38"/>non seruat ipsum esse; &amp; quod mutari potest, etiamsi non muretur, potest quod fuerat non  
+      <lb ed="#L" n="39"/>esse, ac per hoc non illud solum quod non mutatur, verum illud quod omnino mutari non  
+      <lb ed="#L" n="40"/>potest sine scrupulo occurrit, quod verissime dicatur esse. Et I. de doctrina Christiana penult. 
+      <lb ed="#L" n="41"/>sentent. 37. Ille summe ac primitus est, qui omnino incommutabilis est. Idem vult 12. de 
+      <lb ed="#L" n="42"/>Ciuitate Dei 1. 2. 3. &amp; alijs locis multis. Quare &amp; beatus Gregorius 18. Moral. 3I. super 
+      <lb ed="#L" n="43"/>illud Iobi 28. Nec commemorabuntur in comparatione eius, Propheta, inquit, eiusdem 
+      in<lb ed="#L" n="44" break="no"/>commutabilitatem essentiae contemplatus, ait. Omnia sicut vestimentum veterascent, &amp; sicut 
+      <lb ed="#L" n="45"/>opertorium mutabis eos, &amp; mutabuntur; Tu autem idem ipse es, &amp; anni tui non deficient. 
+      <lb ed="#L" n="46"/>Hinc ad Mosen dicitur, Ego sum, qui sum, &amp; dices filijs Israel, Qui est, misit me ad vos. 
+      So<lb ed="#L" n="47" break="no"/>lus quippe veraciter est, qui solus incommutabiliter permanet. Nam omne quod modo sic 
+      <lb ed="#L" n="48"/>est, modo aliter est, iuxta non esse est; permanere enim in suo statu non potest; atque aliquo 
+      <lb ed="#L" n="49"/>modo ad non est itur, dum ab eo quod fuerat semper ad aliud per momenta temporum 
+      duci<lb ed="#L" n="50" break="no"/>tur. Hoc idem ostendit &amp; Petrus 1. Sententiarum suarum dist. 8. &amp; dist. 37. Autoritates 
+      San<lb ed="#L" n="51" break="no"/>ctorum copiosius allegando.
+    </p>
+            <div xml:id="dcn2br-e24226-Dd1e353">
+               <head xml:id="dcn2br-e24226-Hd1e355">Corollarium</head>
+               <p xml:id="dcn2br-e24226-d1e358">
+      <!--210.xml-->
+                  <pb ed="#A" n="177"/>
+                  <lb ed="#L" n="1"/>prima, quod Deus essentialiter &amp; praesentialiter necessario est vbique, nedum in mun 
+      <lb ed="#L" n="2" break="no"/>do, &amp; in eius partibus vniuersis: 
+      <lb ed="#L" n="3"/>Verumetiam extra mundum in situ seu vacuo imaginario infinito. 
+      <lb ed="#L" n="4"/>Vnde &amp; inimensus &amp; incircumscriptus veraciter dici potest. 
+      <lb ed="#L" n="5"/>Vnde &amp; videtur patere responsio ad Gentilium &amp; Haereticorum veteres quaestiones; 
+      <lb ed="#L" n="6"/>Vbi est Deus tuus? &amp; Vbi Deus fuerat ante mundum? 
+      <lb ed="#L" n="7"/>Vnde &amp; similiter clare patet, quod vacuum a corpore potest esse, vacuum vero a 
+      <lb ed="#L" n="8"/>Deo nequaquam.
+      </p>
+               <p xml:id="dcn2br-e24226-d1e382">
+                  <lb ed="#L" n="9"/>EX his autem verisimiliter, si vere veritas ipsa nouit, videtur corollarie inferendum, quod 
+      <lb ed="#L" n="10"/> Deus essentialiter &amp; praesentialiter est vbique, nedum in mundo, &amp; in eius partibus 
+      vni<lb ed="#L" n="11" break="no"/>uersis; verumetiam extra mundum in situ seu vacuo imaginario infinito; Vnde &amp; 
+      immen<lb ed="#L" n="12" break="no"/>sus &amp; incircumscriptus veraciter dici potest, quanquam dicatur immensus, &amp; incircum scrip 
+      <lb ed="#L" n="13"/>tus etiam alia ratione. Vnde &amp; videtur patere responsio quaedam clara ad gentilium &amp; hae 
+      <lb ed="#L" n="14"/>reticorum veteres quaestiones, quas a fidel bus quaeritabant; Vbi est Deus tuus? &amp;, Vbi Deus 
+      <lb ed="#L" n="15"/>fuerat ante mundum? quorum vnum metrice sic quaesiuit, 
+      <lb ed="#L" n="16"/>
+                  <quote xml:id="dcn2br-e24226-Qd1e401">Dic vbi tunc esset, cum praeter eum nihil esset?</quote> 
+                  <lb ed="#L" n="17"/>Vnde &amp; similiter clare patet, quod vacuum a corpore potest esse, vacuum vero a Deo 
+      nequa<lb ed="#L" n="18" break="no"/>quam. Quod autem Deus necessario sit vbique in mundo, sequitur manifeste. Si enim in 
+      <lb ed="#L" n="19"/>aliquo eius loco non sit, &amp; potest esse in illo, cum per septimam partem primi sit 
+      omnipo<lb ed="#L" n="20" break="no"/>tens, hoc potest per motum, &amp; non per motum creaturae, quia nunc est ibi creatura &amp; 
+      conti<lb ed="#L" n="21" break="no"/>nue prius fuit, quae, eadem ratione, qua alia creatura sufficit &amp; suffecit ad existentiam Dei ibi, 
+      <lb ed="#L" n="22"/>nec per motum sui, sicut capitulum ostendebat: Hoc idem ex Corollario secundi huius, &amp;  
+      <lb ed="#L" n="23"/>eius ostensione ostenditur euidenter. Pro secunda parte probanda suppono, quod A sit 
+      si<lb ed="#L" n="24" break="no"/>tus fixus imaginarius huius mundi, &amp; Bsitus simul imaginarius extra mundum distans ab 
+      A<lb ed="#L" n="25" break="no"/>&amp; quod Deus moueat mundum ab A ad B, situans eum in B: tunc per primam partem huius, 
+      <lb ed="#L" n="26"/>&amp; per Corollarium secundi huius, &amp; ostensionem ipsius, Deus nunc est in B, vel ergo prius 
+      <lb ed="#L" n="27"/>fuit ibi vel non: Si fuit, eadem ratione prius fuit, &amp; nunc est vbique imaginarie extra 
+      mun<lb ed="#L" n="28" break="no"/>dum; Si non, eadem ratione nunc non est in A, sed in B: Deus ergo prius fuit in A, &amp; non in 
+      <lb ed="#L" n="29"/>B: &amp; nunc non est in A, sed in B omnino distante, ergo recessit ab A, &amp; accessit ad B. ergo &amp;  
+      <lb ed="#L" n="30"/>localiter seu situaliter mouebatur, sicut &amp; anima nostra mouetur ad corporis nostri motum 
+      <lb ed="#L" n="31"/>Hic respondent quidam sequentes Philosophum, r. de Coelo, supponentes omnem motum 
+      <lb ed="#L" n="32"/>localem necessario esse surium vel deorsum, vel circulatem, scilicet a medio, ad medium, 
+      <lb ed="#L" n="33"/>vel circa medium: sed istum motum si poneretur, non esse aliquem praedictorum; quare &amp;  
+      <lb ed="#L" n="34"/>dicunt non esse possibile mundum sic moueri. Sed isti diuinam potentiam, imo 
+      omnipoten<lb ed="#L" n="35" break="no"/>tiam grauiter inutilant, &amp; detruncant. Potuit quoque Deus in principio creauisse hunc 
+      <lb ed="#L" n="36"/>mundum in B; cur ergo nunc non potest ponere illum in B2 Potest etiam nunc creare alium 
+      <lb ed="#L" n="37"/>mundum in ; cur ergo non potest ponere hunc mundum in B? Haec etiam responsio 
+      dam<lb ed="#L" n="38" break="no"/>natur a Stephano Parisiensi Episcopo in haec verba: Quod Deus non potest mouere coelum 
+      <lb ed="#L" n="39"/>motu recto; &amp; est ratio, quia tunc relinqueretur vacuum. Nec ista responsio difficultatem 
+      <lb ed="#L" n="40"/>euitat: Ponatur enim, quod Deus sine motu localicrent alium mandum in B, &amp; annihilet 
+      <lb ed="#L" n="41"/>istum mundum in A, &amp; reuertitur difficultas. Alij etiam sequentes Philosopum, vt videtur, 
+      <lb ed="#L" n="42"/>respondent dicentes; Nolr esse aliquem situm aut vacuum extra mundum; quare nec Deum 
+      <lb ed="#L" n="43"/>ibi esse, nec posse mundum illuc monere. Sed hi habent dicere consequenter, Deum de 
+      om<lb ed="#L" n="44" break="no"/>nipotentia sua nullatenus potuisse fecisse mundum maiorem in aliquo, nec minorem, quod 
+      <lb ed="#L" n="45"/>eius omnipotentiam nimis restringeret, &amp; nimium coarctaret. Habent etiam dicere, quod 
+      <lb ed="#L" n="46"/>Deus necessario fecit mundum in A fitu, &amp; quod ante mundum fuit A situs, &amp; non alius. Sed 
+      <lb ed="#L" n="47"/>cur iste, non alius? cur tantus, non maior, nec minor? vel enim hoc fuit a Deo, vel per se, 
+      <lb ed="#L" n="48"/>non ab eo: Si a Deo, potuit &amp; ab eo fuisse situs maior &amp; maior, &amp; alius, &amp; alius sine fine, 
+      <lb ed="#L" n="49"/>propter eius potentiam infinitam: Si autemper se, non ab eo, quae virtus? quae ratio? quae 
+      <lb ed="#L" n="50"/>natura hund ei praecisum, &amp; impertransibilem terminum inuiolabiliter limitauit? cum ille 
+      fi<lb ed="#L" n="51" break="no"/>tus imaginarius nullam naturam habeat positiuam, sicut nulius ignorat; alias etenim esset 
+      ali<lb ed="#L" n="52" break="no"/>qua natura positiua, quae nec esset Deus, nec a Deo, cuius oppositum 2um. &amp; 3um. huius docent. 
+      <lb ed="#L" n="53"/>essetque coaeterna Deo, quod nullus recipit Christianus. Quare &amp; <name xml:id="dcn2br-e24226-Nd1e484">Stephanus Parisiensis 
+      <lb ed="#L" n="54"/>Episcopus</name> damnauit articulum asserentem, quod multa sunt aeterna, nec Deus posset illa de¬ 
+      <!--211.xml-->
+      <pb ed="#A" n="178"/>
+                  <lb ed="#L" n="1"/>struere etsi vellet, quare &amp; omnipotentia priuaretur. Ratio quoque horum militat contra 
+      <lb ed="#L" n="2"/>cos: Si enim secundum Philosophum, &amp; secundum suppositionem ipsorum vacuum esse 
+      <lb ed="#L" n="3"/>non possit, nec situs imaginarius corpore non repletus, Mundus est aeternus, quod est 
+      haere<lb ed="#L" n="4" break="no"/>ticum, quod &amp; negant, vel ante creationem ipsius erat situs eius imaginarius vacuus, nec 
+      <lb ed="#L" n="5"/>corpore occupatus. Hanc etiam responsionem, &amp; eius irrationalem rationem damnat 
+      Ar<lb ed="#L" n="6" break="no"/>ticulus recitatus: His igitur nequaquam obstantibus, videtur praemissam rationem 
+      procede<lb ed="#L" n="7" break="no"/>re inoffense. Rursum Deus in principio creans mundum, &amp; quamlibet partem eius, simul 
+      <lb ed="#L" n="8"/>fuit cum Mundo, &amp; qualibet parte eius: Nam sicut patet ex7o. Phys. 9. &amp; post, &amp; 2. de 
+      A<lb ed="#L" n="9" break="no"/>nima 74. In omni motu, &amp; in omni actione mouens &amp; agens est simul cum moto &amp; 
+      passo<lb ed="#L" n="10" break="no"/>Vnde &amp; Augustinus homilia secunda, super illud Ioan. 1. In Mundo erat, &amp; Mundus per 
+      <lb ed="#L" n="11"/>eum factus est: Quomodo, inquit, erat in mundo? &amp; respondet, quomodo Artifex regens 
+      <lb ed="#L" n="12"/>quod fecit; Non enim sic fecit, quomodo facit Faber foris secus est arcam quam facit, &amp; illa 
+      <lb ed="#L" n="13"/>in alio loco posita est, cum fabricatur; &amp; quamuis iuxta sit, ipse alio loco sedet qui fabricat, 
+      <lb ed="#L" n="14"/>&amp; extrinsecus est ad illud quod fabricat; Deus autem infusus Mundo fabricat, vbique 
+      posi<lb ed="#L" n="15" break="no"/>tus fabricat, &amp; non recedit aliquo, non extrinsecus quasi versat molem quam fabricat, 
+      prae<lb ed="#L" n="16" break="no"/>sentia maiestatis facit quod facit, praesentia sua gubernat quod fecit. Sic ergo erat in 
+      mun<lb ed="#L" n="17" break="no"/>do, quomodo per quem mundus factus est. Vel ergo Deus prius natura fuit ibi, quam 
+      crea<lb ed="#L" n="18" break="no"/>uit ibi, &amp; quam creatura fuit ibi, vel e contra: Si prius natura fuit ibi, hoc non fuit per 
+      creatu<lb ed="#L" n="19" break="no"/>ram, nec per creare, sed per seipsum &amp; non nouiter, quia tunc per seipsum nouiter 
+      mutare<lb ed="#L" n="20" break="no"/>tur; fuit ergo ibi aeternaliter per seipsum; quare &amp; eadem ratione fuit aeternaliter per 
+      seip<lb ed="#L" n="21" break="no"/>sum vbique in vacuo, seu situ imaginario infinito, &amp; adhuc est vbique similiter extra 
+      mun<lb ed="#L" n="22" break="no"/>dum: Nec potest quis dicere quod e contra, prius natura est creaturam creari, quam esse hic  
+      <lb ed="#L" n="23"/>vel ibi; &amp; prius natura est Deum creare ibi, quam creaturam creari ibi. Haec enim est causa 
+      <lb ed="#L" n="24"/>huius: &amp; adhuc prius natura est Deum esse ibi quam creare ibi, sicut &amp; prius natura, est, quam  
+      <lb ed="#L" n="25"/>creet; sicuti &amp; quodlibet aliud agens? Non enim quia Deus vel quodlibet aliud agens agit, ideo 
+      <lb ed="#L" n="26"/>est; nec quia agit ibi, ideo est ibi, sed potius e contra. Ad idem, creato Mundo in hoc situ, 
+      <lb ed="#L" n="27"/>Deus fuit hic, vel ergo nouiter vel aeternaliter; si nouiter, hoc fuit per aliquam mutationem 
+      <lb ed="#L" n="28"/>vel motum in Deo, vel in alio, puta mundo; sed non per mutationem in Deo, sicut 
+      quin<lb ed="#L" n="29" break="no"/>tum ostendit; nec per mutationem in mundo, quia Deus prius natura fuit ibi quam mundus 
+      <lb ed="#L" n="30"/>crearetur, vel quomodolibet mutaretur, sicut praecedentia manifestant. Non est ergo Deus 
+      <lb ed="#L" n="31"/>nouiter factus ibi, sed aeternaliter funt ibi: quare &amp; eadem ratione aeternaliter fuit, est, &amp; erit 
+      v<lb ed="#L" n="32" break="no"/>bique in situ imaginario infinito. Simili modo, &amp; forsitan planiori potest idem ostendi, 
+      sup<lb ed="#L" n="33" break="no"/>ponendo Deum creare aliquid puta A per aliquam distantiam extra coelum, sicut patet ex 
+      <lb ed="#L" n="34"/>praemissis, quod potest; Potest enim mouere mundum ad alium situm distantem, 
+      potuit<lb ed="#L" n="35" break="no"/>que creasse Mundum in situ distante, quare &amp; adhuc potest ibi creare. Creet igitur ibi A. tunc 
+      <lb ed="#L" n="36"/>Deus immediate agit ibi A, &amp; conseruat, sicut praemissa hic, &amp; in corollario secundi huius 
+      o<lb ed="#L" n="37" break="no"/>stendunt. Est ergo Deus ibi immediate &amp; essentialiter per seipsum; vel ergo prius natura est D 
+      <lb ed="#L" n="38"/>ibi, quam Asit ibi, vel e contra, &amp;c. sicut prius. Ad idem, Creato ibi A. Deus est ibi; vel 
+      <lb ed="#L" n="39"/>ergo nouiter, vel aeternaliter, &amp;c. sicut supra. Amplius autem, Deus est in situ Mundi, vel 
+      <lb ed="#L" n="40"/>ergo ad hoc quod sit ibi indiget necessario creatura, quasi quodam innixorio seu reclinatorio 
+      <lb ed="#L" n="41"/>fulcimento, seu fundamento ipsum sustinente ne cadat, ne defluat, ne potius euanescat, vel non 
+      <lb ed="#L" n="42"/>sic indiget creatura; primum dici non potest propter praemissa, prius enim natura est Deus 
+      <lb ed="#L" n="43"/>in situ cuiuslibet creaturae, quam ipsa creatura, sicut superius est ostensum, nec ipse sustinetur 
+      <lb ed="#L" n="44"/>aut portatur a creatura, nec aliquo modo creatura innititur, sed e contra, sicut secundum 
+      <lb ed="#L" n="45"/>huius ostendit. Deus etiam ante quamlibet creaturam in aliquo situfuit: Hoc enim eius 
+      per<lb ed="#L" n="46" break="no"/>fectioni &amp; sufficientiae infinitae, quam psupposito cum partibus sequentibus ei dedit,  
+      <lb ed="#L" n="47"/>nimium repugnaret; Est ergo Deus fundamentum sine fundamento, in nullo scilicet priori 
+      <lb ed="#L" n="48"/>fundatum, sed primum &amp; originarium fundamentum omnium aliorum, cui omnia alia, quia 
+      <lb ed="#L" n="49"/>de se instabilia, velut fundamento per se fixo, stabili, &amp; immobili innituntur, a quo &amp; 
+      iugi<lb ed="#L" n="50" break="no"/>ter sustinentur, &amp; continue supportantur, sicut secundum huius multipliciter ostendebat: Non  
+      <lb ed="#L" n="51"/>ergo e contra. Potest igitur Deus esse in situ quo voluerit, sine indigentia creaturae, &amp; non  
+      <lb ed="#L" n="52"/>nouiter, quia non per motum sui sicut quintum ostendit, ergo aeternaliter quiescendo. Deus 
+      <lb ed="#L" n="53"/>ergo essentialiter per seipsum in omni situ vbique aeternaliter &amp; immobiliter perseuerat. 
+      Prae<lb ed="#L" n="54" break="no"/>terea perfectius est esse in aliquo situ vbique, &amp; in sitibus multis simul, quam in vnico situ 
+      <lb ed="#L" n="55"/>tantum; quapropter &amp; spiritus qui hoc potest, perfectior est corpore quod non potest; sed 
+      <lb ed="#L" n="56"/>Deus est spiritus infinite perfectus, sicut prima Suppositio &amp; eius ostensio manifestant; hoc  
+      <lb ed="#L" n="57"/>ergo ei conuenit infinite, &amp; hoc sine indigentia creaturae, sicut superius est ostensum, &amp; sine 
+      <lb ed="#L" n="58"/>mutabilitate quacunque. Est ergo Deus necessario, aeternaliter, infinite vbique in situ ima¬ 
+      <!--212.xml-->
+      <pb ed="#A" n="179"/>
+                  <lb ed="#L" n="1"/>ginario infinito; vnde &amp; veraciter omnipraesens sicut &amp; omnipotens dici potest. Potest 
+      quo<lb ed="#L" n="2" break="no"/>que simili ratione dici quodammodo infinitus, infinite magnus, seu magnitudinis infinitae. 
+      <lb ed="#L" n="3"/>etiam quodammodo licet Metaphysice &amp; improprie extensiue; Est enim inextensibiliter &amp; 
+      <lb ed="#L" n="4"/>indimensionabiliter infinite extensus. Infinitae namque magnitudini, &amp; extensioni 
+      imagina<lb ed="#L" n="5" break="no"/>riae, &amp; cuilibet parti eius totus simul plenarie coexistit; quare &amp; similiter dici potest; 
+      Im<lb ed="#L" n="6" break="no"/>mensus enim non mensus, nec mensurabilis vlla mensura, &amp; incircumscriptus, quia non 
+      cir<lb ed="#L" n="7" break="no"/>cumscribitur ab aliquo ipsum plenarie circundante; nec sic potest ab aliquo circumscribi, 
+      <lb ed="#L" n="8"/>sed ipse omnia circumscribit, continet, &amp; circundat. Vnde &amp; Sixtus Pictagoricus in 
+      sen<lb ed="#L" n="9" break="no"/>tentiolis suis ait; Magnitudinem Dei non inuenies, etiamsi pennis volare posses. Huic 
+      au<lb ed="#L" n="10" break="no"/>tem sententiae attestatur secunda 24. definitionum de Deo, a 24. Philosophis positarum,  
+      <lb ed="#L" n="11"/>quae dicit, Deus est sphaera infinita, cuius centrum est vbique &amp; circumferentia nusquam; 
+      <lb ed="#L" n="12"/>&amp; 18. Deus, inquiens, est sphaera, cuius tot sunt circumferentiae, quot puncta; &amp; ioa ita 
+      <lb ed="#L" n="13"/>dicens, Deus est, cuius posse non // numeratur, cuius esse non clauditur, cuius bonitas non  
+      <lb ed="#L" n="14"/>terminatur. Hanc quoque sententiam Autoritates Theologicae testari videntur: Dicit enim 
+      <lb ed="#L" n="15"/>Salomon loquens Deo; Coelum &amp; Coeli Coelorum te capere non possunt. 3. Regum 8. 
+      <lb ed="#L" n="16"/>&amp; 2. Paralipom. 6. Coelum &amp; Coeli Coelorum te non capiunt. Cui &amp; concordat Ecclesiae 
+      <lb ed="#L" n="17"/>canens ita: Sancta Dei genitrix quae digne meruisti concipere quem totus orbis nequiuit 
+      <lb ed="#L" n="18"/>comprehendere &amp;c. &amp; rursum: 
+      <lb ed="#L" n="19"/>
+                  <quote xml:id="dcn2br-e24226-Qd1e665">Virgo Dei genitrix, quem totus non capit orbis, 
+      <lb ed="#L" n="20"/>In tua se clausit viscera factus homo.</quote> 
+                  <lb ed="#L" n="21"/>Quare &amp; Hieronymus ad Marcellam de quinque quaestionibus, Epistola 96. respondendo 
+      <lb ed="#L" n="22"/>ad vltimam, Non ambiges, inquit, sic in Dominico corpore habitasse Deum verbum, vt &amp; 
+      <lb ed="#L" n="23"/>in patre esset, &amp; coeli circulum clauderet, atque in omnibus infusus esset, &amp; circumfusus, idem 
+      <lb ed="#L" n="24"/>vt cuncta penetraret interior, &amp; contineret exterior. Stultum est ergo illius potentiam vnius 
+      <lb ed="#L" n="25"/>corpusculi paruitate finiri, quem non capit Coelum, &amp; tamen qui vbique erat, etiam in filio 
+      <lb ed="#L" n="26"/>hominis totus erat. Dicit quoque Baruc. 3. O Israel, quam magna est domus Domini, &amp; in 
+      <lb ed="#L" n="27"/>gens locus possessionis eius; magnus &amp; non habens finem, excelsus &amp; immensus. Vnde &amp;  
+      <lb ed="#L" n="28"/>Propheta, magnus Dominus &amp; laudabilis nimis, &amp; magnitudinis eius non est finis Psalmo 
+      <lb ed="#L" n="29"/>I44. Et IobII. loquens de Deo sic ait, Excelsior Coelo est &amp; quid facies, profundior 
+      infer<lb ed="#L" n="30" break="no"/>no, &amp; vnde cognosces; longior terra mensura eius, &amp; latior mari. Super quod Gregorius 
+      <lb ed="#L" n="31"/>10. Motal. 8. dicit, quod Deus transcendendo omnia concludit; qui &amp; infra 16i libri 12. 
+      <lb ed="#L" n="32"/>super illud Iob 23. Si ad orientem iero, non apparet &amp;c. Creator, inquit, omnium in parte 
+      <lb ed="#L" n="33"/>non est, quia vbique est, &amp; tunc minus inuenitur, quando is qui totus vbique est, in parte 
+      <lb ed="#L" n="34"/>quaeritur. Incircumscriptus namque spiritus omnia intra semetipsum habet, quae tamen &amp;  
+      <lb ed="#L" n="35"/>implendo circundat, &amp; circundando implet, &amp; sustinendo transcendit, &amp; transcendendo 
+      su<lb ed="#L" n="36" break="no"/>stinet. Augustinus etiam 9. de diuinitatis Dei essentia dicit, quod solus Deus est 
+      incircum<lb ed="#L" n="37" break="no"/>scriptus, immutabilis &amp; immensus: &amp; addit, de cuius immensitate in libro Beati Iob 
+      scrip<lb ed="#L" n="38" break="no"/>tum est, Excelsior Coelo est, &amp;c. superius recitata: Qui &amp; 8. super Genesin ad literam 33. 
+      <lb ed="#L" n="39"/>dicit quod Deus nullo est locorum vel interuallo, vel spacio, incommutabili, excellentique 
+      <lb ed="#L" n="40"/>potentia, &amp; interior omni re, quia in ipso sunt omnia; &amp; exterior omni re, quia ipse est 
+      su<lb ed="#L" n="41" break="no"/>per omnia. Nonne &amp; hoc est, quod Propheta, licet obscure, insinuare videtur; Quis, 
+      in<lb ed="#L" n="42" break="no"/>quiens, mensus est pugillo aquas, &amp; coelos palmo ponderauit? Es. 40. quasi diceret, Nonne 
+      <lb ed="#L" n="43"/>Deus? Et Dominus per Prophetam, Coelum sedes mea, terra scabellum pedum meorum, 
+      <lb ed="#L" n="44"/>Esaiae vlt. Quare &amp; Gregorius secundus super Ezechielem, homilia quinta; Deus, inquit, 
+      <lb ed="#L" n="45"/>vbique est, &amp; vbique totus est; Ait enim, Coelum mihi sedes est, terra autem scabellum 
+      pe<lb ed="#L" n="46" break="no"/>dum meorum; &amp; de ipso scriptum est, Qui Coelum metitur palmo, &amp; terram pugillo 
+      con<lb ed="#L" n="47" break="no"/>cludit; ex qua re necesse est, quod is qui Coelo vt sedi praefidet, super &amp; intus est; &amp; qui 
+      coe<lb ed="#L" n="48" break="no"/>lum palmo metitur, &amp; terram pugillo concludit, exterius superius, &amp; inferius est. Vt ergo 
+      <lb ed="#L" n="49"/>indicaret omnipotens Deus interiotem se esse, &amp; superiorem omnibus, Coelum sibi sedem 
+      <lb ed="#L" n="50"/>esse perhibuit; vt vero se ostenderet omnia circundare, coelum meriri palmo, &amp; terram se 
+      as<lb ed="#L" n="51" break="no"/>serit pugillo coneludere. Beatus insuper Augustinus 7. confess. 5. vniuersam creaturam 
+      <lb ed="#L" n="52"/>comparans creatori, sic ait; Fecit vnam massam grandem, distinctam generibus 
+      corpo<lb ed="#L" n="53" break="no"/>rum, creaturam tuam, siue reuera quae corpora erant, siue quae ipse pro spiritibus 
+      fin<lb ed="#L" n="54" break="no"/>xeram; &amp; eam feci grandem, non quantum erat quod scire non poteram, sed 
+      quan<lb ed="#L" n="55" break="no"/>tum libuit, vndique versum, sane finitam, te autem Domine ex omni parte 
+      ambien<lb ed="#L" n="56" break="no"/>tem, &amp; penetrantem eam, sed vsquequaque infinitum, tanquam si mare esset vbique 
+      <lb ed="#L" n="57"/>&amp; vndique per immensa infinitum solum mare, &amp; haberet intra se spongiam quamlibet 
+      <lb ed="#L" n="58"/>magnam, &amp; finitam tamen, plena esset vndique spongia illa ex omni sua parte ex im¬ 
+      <!--213.xml-->
+      <pb ed="#A" n="180"/>
+                  <lb ed="#L" n="1"/>menso mari: sic creaturam tuam finitam, te infinito plenam putabam, &amp; dicebam: Ecce A 
+      <lb ed="#L" n="2"/>Deus, &amp; ecce quae creauit Deus, &amp; bonus Deus, atque validissime longissimeque praestantior. 
+      <lb ed="#L" n="3"/>sed tamen bonus bona creauit; &amp; ecce quomodo ambit atque implet ea. Nec debet obstare, 
+      <lb ed="#L" n="4"/>quod Autoritates scripturae praemissae saepius exponantur ad alium intellectum: Quis enim 
+      ig<lb ed="#L" n="5" break="no"/>norat sacram Scripturam virtute multiplici sancti Spiritus impregnatam, intellectum 
+      multipli<lb ed="#L" n="6" break="no"/>cem continere, &amp; parere multos sensus? His autem partibus huius Corollarij patefactis, 
+      resi<lb ed="#L" n="7" break="no"/>due patefient. Si quis vero contra possibilitatem motus totius mundi secundum rectum, de 
+      <lb ed="#L" n="8"/>quo superius tangebatur, obijciat sententiam Philosophi prius tactam, videlicet quod omnis 
+      <lb ed="#L" n="9"/>motus est a medio ad medium, vel circa medium huius mundi; dicendum quod loquitur de 
+      <lb ed="#L" n="10"/>speciebus naturalium motuum naturalium corporum, &amp; partium huius mundi. Et si quis 
+      ad<lb ed="#L" n="11" break="no"/>huc eum obijciat vacuum reprobantem, dicendum, quod fortassis intelligit, quod vacuum  
+      <lb ed="#L" n="12"/>non est necessario &amp; naturaliter ponendum in mundo, nec etiam extra mundum, propter 
+      effe<lb ed="#L" n="13" break="no"/>ctus, propter quos <name xml:id="dcn2br-e24226-Nd1e785">Pictagorici</name>, <name xml:id="dcn2br-e24226-Nd1e788">Democritus</name> &amp; <name xml:id="dcn2br-e24226-Nd1e791">Leucippus</name> &amp; multi antiquiores Philosophi 
+      il<lb ed="#L" n="14" break="no"/>lud ponunt, scilicet propter motum localem, propter motum augmentationis &amp; 
+      diminutio<lb ed="#L" n="15" break="no"/>nis, condensationis &amp; rarefactionis, propter motum alterationis, &amp; propter distinctionem 
+      en<lb ed="#L" n="16" break="no"/>tium ne sint vnum, seu propter respirationem coeli ab infinito vacuo extra ipsum, sicut patet 4.a 
+      <lb ed="#L" n="17"/>Phys. 3. &amp; 4. de coelo &amp; mundo, 2. de Anima, alijs quoque locis. Quod &amp; dupliciter poni 
+      <lb ed="#L" n="18"/>videtur; vno modo tantummodo priuatiue, scilicet ipsa pura priuatio, seu carentia pura pleni; 
+      <lb ed="#L" n="19"/>alio modo positiue &amp; hoc adhuc dupliciter; vno modo vt esset tantum dimensio corporea a 
+      <lb ed="#L" n="20"/>formis naturalibus separata, quasi esset corpus Mathematicum, seu ipsa sola quantitas a rebus 
+      <lb ed="#L" n="21"/>naturalibus alijs separata; et sic 4. Phys. accipitur aliquando; alio modo vt haberet etiam 
+      <lb ed="#L" n="22"/>virtutem actiuam, &amp; secundum locum motiuam, vt patet 4. de Coelo. Definitur etiam apud 
+      <lb ed="#L" n="23"/>eum vacuum aliquando, quod sit locus non repletus, natus autem repleri; Locus autem 
+      se<lb ed="#L" n="24" break="no"/>cundum eundem est vltimum, scilicet vltima superficies corporis continentis; tale autem 
+      va<lb ed="#L" n="25" break="no"/>cuum non est extra Coelum; nec est ibi locus, aut situs natus repleri, secundum naturas rebus 
+      <lb ed="#L" n="26"/>naturalibus institutas. Verum est tamen quod argumenta sua nequaquam de itrefragabili 
+      ne<lb ed="#L" n="27" break="no"/>cessitate conuincunt, quin Deus posset de omni potentia sua absoluta facere vacuum vbi 
+      vel<lb ed="#L" n="28" break="no"/>let in mundo, vel extra, quin etiam nunc de facto; Sit situs imaginarius vacuus extra 
+      mun<lb ed="#L" n="29" break="no"/>dum, vacuus, inquam, a corpore, &amp; a quolibet alio praeter Deum, sicut praecedentia 
+      suase<lb ed="#L" n="30" break="no"/>runt. Sunt autem illa argumenta sua, sicut &amp; plurima alia, quaedam probabiles argutiae, in 
+      ma<lb ed="#L" n="31" break="no"/>teria naturali, &amp; magis ad hominem contrarium profitentem, quam ad rem ipsam, quod 
+      ni<lb ed="#L" n="32" break="no"/>hilominus multum valet in scrutinio veritatis. Vnde &amp; ipsemet 2. de Coelo 80. Videntur. 
+      <lb ed="#L" n="33"/>inquit, vsque ad aliquid quaerere, sed non vsque quidem vbi possibile dubitationis. Omnibus 
+      <lb ed="#L" n="34"/>enim modis hoc consuetum, non ad rem fieri quaestionem, sed ad contraria dicentem. Adhuc 
+      <lb ed="#L" n="35"/>autem opponitur, quod si esset situs huiusmodi vacuus extra hunc mundum, esset possibile 
+      <lb ed="#L" n="36"/>mundum alium ibi esse, contra eundem Philosophum I. de Coelo 76. &amp; post, hoc 
+      multipli<lb ed="#L" n="37" break="no"/>citer reprobantem. Sed quis conclusionem hanc negat aut dubitat, nisi fortassis qui &amp; 
+      omni<lb ed="#L" n="38" break="no"/>potentiam Dei negat, aut dubitat; quod si quis fecerit, primae Suppositionis, &amp; septimae 
+      par<lb ed="#L" n="39" break="no"/>tis Corollarij primi huius auxilio corrigetur. Argumenta autem Philosophi in hac parte, 
+      si<lb ed="#L" n="40" break="no"/>milia sunt alijs eius argutijs superius memoratis. Et siquis adhuc non desinat obuiare 
+      dicen<lb ed="#L" n="41" break="no"/>do, si praemissa sint vera, necesse est Deum esse in hoc situ quocunque signato, quod videtur 
+      <lb ed="#L" n="42"/>eius omnipotentiae infinitae. &amp; libertati dignissimae plurimum contraire, imo &amp; ipsum 
+      inui<lb ed="#L" n="43" break="no"/>tum in carcere compedire irrecessibiliterque vincire. Sed aduertat obijciens, quod potest 
+      si<lb ed="#L" n="44" break="no"/>militer obijci contra eum: Existentibus namque sitibus &amp; situatis, locis &amp; locatis realibus, 
+      ne<lb ed="#L" n="45" break="no"/>cesse est Deum esse in quocunque illorum, necesse est similiter Deum esse in toto situ 
+      imagina<lb ed="#L" n="46" break="no"/>rio, &amp; etiam in situ aliquo partiali; posset enim alias nusquam esse, quare &amp; non esse. Non est. 
+      <lb ed="#L" n="47"/>ergo hoc in Deo imperfectionis, illiberalitatis, aut impotentiae alicuius, sed potentiae infinitae. 
+      <lb ed="#L" n="48"/>sicut &amp; quod est necessario actus purus, quod necessario actualiter cogitat, &amp; cognoscit 
+      quod<lb ed="#L" n="49" break="no"/>libet, licet vile, sicut etiam necessario generat, &amp; hoc non filiam, sed filium, nec alium filium, 
+      <lb ed="#L" n="50"/>neque multos, sed istum vnicum necessario absolute. Est ergo perfectionis &amp; potentiae 
+      infini<lb ed="#L" n="51" break="no"/>tae, quod Deus necessario sit vbique: Alias enim non esset summe perfectus &amp; potens, quia 
+      <lb ed="#L" n="52"/>non summe in actu, seu potius summus actus, sed potentialis &amp; mobilis, quare &amp; secundum 
+      <lb ed="#L" n="53"/>aliquid imperfectus, sicut quintum huius plenius ostendebat. Haec autem nequaquam 
+      teme<lb ed="#L" n="54" break="no"/>rariae assertionis, sed sobriae inquisitionis gratia dicta sint pariter &amp; accepta.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

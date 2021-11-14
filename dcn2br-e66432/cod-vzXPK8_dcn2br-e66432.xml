@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="499"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e66432"><!-- l2c10 -->
+            <head xml:id="dcn2br-e66432-Hd1e106">Caput 10</head>
+            <p xml:id="dcn2br-e66432-d1e109">
+               <lb ed="#L" n="20"/>CAP. X. 
+      <lb ed="#L" n="21"/>Obiicit &amp; respondet. 
+    </p>
+            <p xml:id="dcn2br-e66432-d1e116">
+               <lb ed="#L" n="22"/>Ec fortassis obijciet aliquis contra dicta? Nam Lumbardus 2. sentent. 
+      <lb ed="#L" n="23"/>dist. 24. postquam allegauit quasdam autoritatum dictarum 
+      asseren<lb ed="#L" n="24" break="no"/>tium Dei adiutorium esse necessarium homini vel Angelo ante 
+      lap<lb ed="#L" n="25" break="no"/>sum, ad manendum in bono quod tunc acceperant, ita dicit; Hic 
+      <lb ed="#L" n="26"/>considerandum est quod fuerit illud adiutorium homini datum in 
+      <lb ed="#L" n="27"/>creatione, quo poterat manere si vellet; &amp; respondet; Illud vtique fuit 
+      <lb ed="#L" n="28"/>libertas arbitrij ab omni labe &amp; corruptela immunis, atque 
+      volunta<lb ed="#L" n="29" break="no"/>ltis rectitudo, &amp; omnium naturalium potentiarum animae sinceritas, &amp; 
+      <lb ed="#L" n="30"/>uiuacitas; &amp; ad hoc facit, quod dicit Augustinus de Correptione &amp; gratia, 48. Dederat 
+      adiu<lb ed="#L" n="31" break="no"/>torium sine quo non posset permanere si vellet; vt autem vellet in eius reliquit libero arbitrio; 
+      <lb ed="#L" n="32"/>posset ergo permanere si vellet, &amp; 57. vt non acciperet hoc donum Dei, id est perseuerantiam 
+      <lb ed="#L" n="33"/>in bono primus homo, sed perseuerate vel non perseuerate in eius relinqueretur arbitrio; 
+      ta<lb ed="#L" n="34" break="no"/>les vires habebat eius voluntas, quae sine vllo fuerat instituta peccato, &amp; nihil ipsi ex seipsa 
+      <lb ed="#L" n="35"/>concupiscenter resistebat, vt digne tantae bonitati, &amp; bene viuendi faelicitati perseuerandi 
+      <lb ed="#L" n="36"/>committeretur arbitrium. Idem de bono perseuerantiae. 10. Non discedere a Deo, &amp; non  
+      <lb ed="#L" n="37"/>inferri in tentationem non esse omnino in viribus liberi arbitrij quales nunc sunt; fuerat 
+      au<lb ed="#L" n="38" break="no"/>tem in homine antequam caderet; quae tamen libertas voluntatis in illius primae conditionis 
+      <lb ed="#L" n="39"/>praestantia, quantum valuerit, apparuit in Angelis, qui Diabolo cum suis cadente, in veritate 
+      <lb ed="#L" n="40"/>steterunt. Idemque Hypognost. 28. vt liberum arbitrium cum possibilitatis bono, quo 
+      vale<lb ed="#L" n="41" break="no"/>ret implere quod voluisset Adam, factum intelligas: audi quid dicat scriptura sancta in libro 
+      <lb ed="#L" n="42"/>Ecclesiastico. Deus, inquit, ab initio fecit hominem, &amp; reliquit illum in manum consilij sui &amp;c. 
+      <lb ed="#L" n="43"/>quid est, autem, reliquit eum in manu consilij sui, nisi, dimisit eum in possibilitate liberi 
+      arbi<lb ed="#L" n="44" break="no"/>trij sui?. In manu enim possibilitas intelligitur. Ipsa est prima gratia, qua primus homo stare 
+      <lb ed="#L" n="45"/>potuisset, si seruare Domini mandata voluisset. Sed proculdubio miror non modicum, 
+      ma<lb ed="#L" n="46" break="no"/>gistrum bonum, Doctorem catholicum, sectatorem Augustini praecipuum, eius vera 
+      doctri<lb ed="#L" n="47" break="no"/>na contempta, ad Pelagianas fallaeias in hac parte fallaciter deuolutum. Nam sicut. 3pum. 
+      <lb ed="#L" n="48"/>primi retexuit, Pelagiani dixerunt, gratiam quae est necessaria homini ad implendum diuina 
+      <lb ed="#L" n="49"/>mandata, esse naturalia hominis; &amp; liberum voluntatis arbitrium a Deo homini gratis datum. 
+      <lb ed="#L" n="50"/>Quomodo ergo // ponit illud // diuinum adiutorium homini &amp; Angelo ante lapsum, ad 
+      stan<lb ed="#L" n="51" break="no"/>dum in bono, necessario requisitum, esse naturalia sua, &amp; liberum arbitrium voluntatis? 
+      Di<lb ed="#L" n="52" break="no"/>cet fortassis quod non est idem stare in bono, &amp; implere diuina mandata. Quare licet liberum 
+      <lb ed="#L" n="53"/>voluntatis arbitrium tunc fuerit homini vel Angelo adiutorium sufficiens ad standum in 
+      bo<lb ed="#L" n="54" break="no"/>no, non tamen ad implendum diuina mandata, sicut Pelagius posuit. Verum si liberum ar¬ 
+      <!--533.xml-->
+      <pb ed="#A" n="500"/>
+               <lb ed="#L" n="1"/>bitrium tunc suffecerat homini ad standum in bono, ergo &amp;es ad non comedendum de ligno 
+      <lb ed="#L" n="2"/>scientiae boni &amp; mali, quia per comestionem de illo cadebat; quare &amp; fuit sufficiens homini 
+      <lb ed="#L" n="3"/>ad implendum diuinum mandatum, de non comedendo de ligno praedicto, quod solum sibi 
+      <lb ed="#L" n="4"/>fuerat imperatum, vt patet Gen. 2. quare &amp; praedictus error Pelagiani adhuc redit, scilicet,  
+      <lb ed="#L" n="5"/>hominem per solum liberum arbitrium posse seruare Dei mandata. Et si adhuc respondeat, 
+      <lb ed="#L" n="6"/>quod secus est de homine pro statuante sapsum, &amp; pro statu post Iapsum, (Nam post Iapsum 
+      <lb ed="#L" n="7"/>non potest homo per liberum arbitrium sine gratia seruare Dei mandata, sicut mentiebatur 
+      <lb ed="#L" n="8"/>Pelagius, sed potuit ante lapsum.) Contra, si homo per solum liberum arbitrium sine gratia 
+      <lb ed="#L" n="9"/>tunc potuit seruare Dei mandata, ergo &amp;e mereri: Non enim videtur alia ratio quare Deus 
+      <lb ed="#L" n="10"/>sibi praecepit ne comederet de illo ligno, quod nullo modo fuisset malum si non fuisset 
+      prohibi<lb ed="#L" n="11" break="no"/>tum, nisi vt haberet in quo posset mereri. Quis enim audeat dicere, quod Deus praecepit 
+      homi<lb ed="#L" n="12" break="no"/>ni aliquid vtile Deo, aut inutile homini, &amp; quod nullius vtilitatis fuisset tunc homini diuinis 
+      <lb ed="#L" n="13"/>iussionibus paruisse? Vnde Augustinus 8. super Genesin ad literam 2I. inquirens causam 
+      il<lb ed="#L" n="14" break="no"/>lius diuini mandati, ponit prohibitionem trimembrem: Nam quandoque prohibetur 
+      ali<lb ed="#L" n="15" break="no"/>quid per se malum, sicut gustare herbam mortiferam, quod siue prohibeatur, siue non, semper 
+      <lb ed="#L" n="16"/>est malum facienti, &amp; ideo prohibetur, ne prohibitus malum incurrat: Quandoque autem 
+      <lb ed="#L" n="17"/>prohibetur aliquid, quod si fiat est malum prohibenti, vt si diues prohibeat quempiam 
+      pecu<lb ed="#L" n="18" break="no"/>niam suam contingere, &amp; ideo prohibetur ne prohibens malum incurrat: quandoque vero 
+      a<lb ed="#L" n="19" break="no"/>liquid prohibetur, quod non est malum prohibenti, nec illi cui prohibetur, nisi quia 
+      prohibi<lb ed="#L" n="20" break="no"/>tum, &amp; ideo prohibetur, non vt prohibens, aut prohibitus vitet malum, sed tantum vt 
+      prohi<lb ed="#L" n="21" break="no"/>bitus captet bonum, bonum, inquam, meritum, obediendo scilicet prohibenti: &amp; istud 
+      pro<lb ed="#L" n="22" break="no"/>hibitorium Dei mandatum sub membro tertio continetur; qui &amp; inter caetera ita dicit, Ab 
+      <lb ed="#L" n="23"/>illo ligno, quod malum non erat, prohibitus est, vt ipsa per se precepti conseruatio bonum illi 
+      <lb ed="#L" n="24"/>esset, &amp; transgressio malum: Et infra eodem; Cum vero illud tangitur, quod nec tangenti 
+      <lb ed="#L" n="25"/>obesset, si non prohiberetur, nec cuilibet alteri quamlibet tangeretur, quare prohibitum est,  
+      <lb ed="#L" n="26"/>nisi vt ipsius per se bonum obedientia, &amp; ipsius per se malum inobedientia monstraretur? Et  
+      <lb ed="#L" n="27"/>adhuc inferius in eodem, Dominus quidem cur iusserit viderit, faciendum est a seruiente quod 
+      <lb ed="#L" n="28"/>iussit, &amp; tunc forte videndum est a promerente cur iusserit; a promerente, inquit, &amp; addit, Sed 
+      <lb ed="#L" n="29"/>tamen vt causam, iussionis huius non diutius requiramus, si haec ipsa magna est vtilitas 
+      <lb ed="#L" n="30"/>homini quod Deo seruit, iubendo Deus vtile facit, quicquid iubere voluerit; &amp; haec Autoritas 
+      <lb ed="#L" n="31"/>allegatur in glossa Gen. 2. &amp; 2. sententiarum Lumbardi dist. 17. Item si homo perstitisset in 
+      <lb ed="#L" n="32"/>bono, meruisset per hoc confirmationem, &amp; beatitudinem sempiternam, &amp; hoc potuit per 
+      li<lb ed="#L" n="33" break="no"/>berum arbitrium sine gratia, ergo &amp;est illud; quod autem per stationem, confirmationem &amp; 
+      <lb ed="#L" n="34"/>beatitudinem meruisset, satis apparet, quia si sic Angeli meruerunt, dicente Augustino de 
+      <lb ed="#L" n="35"/>Correptione &amp; gratia, L89 139. Boni Angeli per ipsum liberum arbitrium in veritate 
+      stere<lb ed="#L" n="36" break="no"/>runt, eamque de casu suo nunquam futuro certissimam scire meruerunt. Et capit. 40. 
+      Diabo<lb ed="#L" n="37" break="no"/>lus &amp; Angeli eius, etsi beati erant antequam eaderent, erat tamen adhuc quod eorum ad 
+      dere<lb ed="#L" n="38" break="no"/>tur beatitudini, si per liberum arbitrium in veritate stetissent, donec istam summae 
+      beaticudi<lb ed="#L" n="39" break="no"/>nis plenitudinem tanquam praemium ipsius mansionis acciperent. Et 4I. Hominem fecit 
+      <lb ed="#L" n="40"/>cum libero arbitrio, &amp; quamuis sui futuri casus ignarum, tamen ideo bonum, quia &amp; mori &amp;  
+      <lb ed="#L" n="41"/>miserum non fieri in sua potestate esse sentiebat: In quo statu recto, ac sine vitio, si per ipsum 
+      <lb ed="#L" n="42"/>liberum arbitrium manere voluisset, profecto sine mortis &amp; infaelicitatis vllo experimento, 
+      ac<lb ed="#L" n="43" break="no"/>ciperet illam, merito huius permansionis beatitudinis, plenitudinem, qua &amp; sancti Angeli 
+      <lb ed="#L" n="44"/>iunt beati, id est, vt cadere non posset vlterius, &amp; hoc certissime sciret: &amp; 4B. Tunc dederat  
+      <lb ed="#L" n="45"/>homini Deus bonam voluntatem; In illa quippe eum fecerat, qui fecerat rectum; Dederat 
+      <lb ed="#L" n="46"/>adiutorium sine quo in ea non posset permanere si vellet, sed quia noluit permanere, profecto 
+      <lb ed="#L" n="47"/>eius est culpa, cuius meritum fuisset, si permanere voluisset; sicut fecerunt Angeli sancti, qui  
+      <lb ed="#L" n="48"/>cadentibus alijs per liberum arbitrium, per indem liberum arbitrium steterunt; &amp; huius 
+      man<lb ed="#L" n="49" break="no"/>sionis debitam mercedem recipere meruerunt, tantam scilicet beatitudinis plenitudinem, qua 
+      <lb ed="#L" n="50"/>eis cestissimum sit, semper se in illa esse mansutos. Et de bono perseuerantiae 10. Angeli qui.  
+      <lb ed="#L" n="51"/>diabolo cum suis cadente, in veritate steterunt, ad securitatem perpetuam non cadendi 
+      per<lb ed="#L" n="52" break="no"/>uenire meruerunt. Beatus quoque Gregorius 27. Moral. 25. super illud Iob 37. Tu forsitan 
+      <lb ed="#L" n="53"/>cum eo fabricatus es coelos qui solidssimi quasi aere fusi sunt, sic ait; Possunt per coelos, Ru 
+      <lb ed="#L" n="54"/>qui in coelestibus sunt conditi Angelici spiritus designari, de quibus bene dicitur; qui 
+      solidij<lb ed="#L" n="55" break="no"/>simi quasi aere fusi sunt: Natura namque aeris est rubigine difficile consumi; &amp; virtutes 
+      An<lb ed="#L" n="56" break="no"/>gelicae, quae in diuino amore fixae perstiterint, lapsis superbientibus Angelis hoc in munere 
+      re<lb ed="#L" n="57" break="no"/>tributionis acceperunt, vt nulla iam rubigine surripientis culpe mordeantur, vt in 
+      contempla<lb ed="#L" n="58" break="no"/>tione conditoris siue faelicitatis fine permaneant, &amp; in hoc, quod sunt conditae aeterna stabili¬ 
+      <!--534.xml-->
+      <pb ed="#A" n="501"/>
+               <lb ed="#L" n="1"/>tate subsistant. Ex quibus Autoritatibus incidenter apparet, praeter praedictum errorem 
+      <lb ed="#L" n="2"/>Lumbardi alius adhuc duplex: Primus dicit Angelos ante suam confirmationem ipsam nul 
+      <lb ed="#L" n="3"/>latenus meruisse, qui ponitur 2. sententiarum suarum dist. 5. quem per multas alias multorum 
+      <lb ed="#L" n="4"/>sanctorum autoritates possem conuincere, nisi per hoc ab incepti proposito cogerer declinare 
+      <lb ed="#L" n="5"/>Ad praesens namque tantum proponebam ostendere quod homo si mansisset in bono, &amp; 
+      ser<lb ed="#L" n="6" break="no"/>uando Dei mandatum restitisset tentanti, per hoc aliquid meruisset, sicut sancti Angeli 
+      simili<lb ed="#L" n="7" break="no"/>ter meruerunt, quod &amp; per autoritates praemissas me reputo ostendisse. Vnde patet secundus 
+      <lb ed="#L" n="8"/>error Lumbardi qui ponit 2. sentent. dist. 24. vt vtar proprijs eius verbis, quod recedere a 
+      <lb ed="#L" n="9"/>malo, &amp; non consentire tentationi, non fecisset illi, scilicet Adae ante sapsum meritum, etiamsi 
+      <lb ed="#L" n="10"/>non consensisset, quia nihil in eo erat, quod ad malum impelleret, sicut Angelis, qui non 
+      ceci<lb ed="#L" n="11" break="no"/>derunt, non fuit meritum quod steterunt, id est, quod non corruerunt; Nobis autem meritum 
+      <lb ed="#L" n="12"/>est aliquando, si malum non facimus, sed resistimus ibi duntaxat, vbi causa subest, quae nos 
+      <lb ed="#L" n="13"/>id facere mouet, quia ex peccati corruptela proni sunt ad lapsum gressus nostri: Vbi autem non  
+      <lb ed="#L" n="14"/>interuenit causa nos ad malum impellens, non meremur si ab eo declinamus; cum tamen 
+      di<lb ed="#L" n="15" break="no"/>cat Augustinus I4. de Ciuitate Dei, penult. sicut capitulum proximum allegauit, quod 
+      pri<lb ed="#L" n="16" break="no"/>mus homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum Angelum 
+      <lb ed="#L" n="17"/>vinceret, meritum bonum habens in adiuta diuinitus voluntate recta. Anselmus quoque de 
+      <lb ed="#L" n="18"/>casu diaboli 14. inquirens quomodo bonus Angelus suam beatitudinem meruit, ita dicit; 
+      An<lb ed="#L" n="19" break="no"/>gelus nec potest, nec debet esse beatus nisi velit, &amp; nisi iuste velit; necesse est vt sic faciat Deus 
+      <lb ed="#L" n="20"/>vtramque voluntatem in illo conuenire, vt &amp; beatus esse velit, &amp; iuste velit, quatenus addita 
+      <lb ed="#L" n="21"/>iustitia sic temperet voluntatem beatitudinis, vt &amp; resecet voluntatis excessum, &amp; excedendi 
+      <lb ed="#L" n="22"/>non amputet potestatem; vt cum per hoc quia &amp; volet esse beatus, modum posset excedere, 
+      <lb ed="#L" n="23"/>per hoc quod iuste volet &amp; non volet excedere, &amp; sic iustam habens beatitudinis voluntatem, 
+      <lb ed="#L" n="24"/>possit &amp; debeat esse beatus, qui non volendo, quod non debet velle cum tamen posset, 
+      mere<lb ed="#L" n="25" break="no"/>atur vt quod velle non debet, nunquam velle possit. Beatus etiam Gregorius 34. Moral. 6. 
+      <lb ed="#L" n="26"/>super illud Iob 4I. Cum sublatus fuerit, scilicet Leuiathan, timebunt Angeli, &amp; territi pura 
+      <lb ed="#L" n="27"/>gabuntur, dicit, quod sub futuri temporis modo praeterita describuntur, &amp; addit; Nec rectae 
+      <lb ed="#L" n="28"/>intelligentiae sensum reliquimus, si credamus, Leuiathan isto ab arce beatitudinis cadente, in 
+      <lb ed="#L" n="29"/>ruina eius etiam electos angelos expauisse, vt cum istum ex illorum numero superbiae Iapsus 
+      <lb ed="#L" n="30"/>eijceret, illos ad robustius standum timor ipse solidaret: Vnde &amp; subditur, &amp; territi 
+      purga<lb ed="#L" n="31" break="no"/>buntur; Purgati enim sunt, quia nimirum isto cum reprobis legionibus exeunte, soli in 
+      coe<lb ed="#L" n="32" break="no"/>lestibus sedibus qui beate in aeternum viuerent, remanserunt; Huius // itaque Iapsus eos &amp; 
+      <lb ed="#L" n="33"/>terruit &amp; purgauit; terruit, ne conditorem suum superbe despicerent, eius scilicet 
+      similitudi<lb ed="#L" n="34" break="no"/>nem appetendo; purgauit vero, quia exeuntibus reprobis actum est, vt electi soli 
+      remane<lb ed="#L" n="35" break="no"/>rent, &amp; quia cunctorum opifex Deus scit ad bonorum custodiam bene vti etiam mala 
+      actio<lb ed="#L" n="36" break="no"/>ne, reproborum sapsum cadentium vertit in prouectum manentium, &amp; vnde punita est 
+      cul<lb ed="#L" n="37" break="no"/>pasuperbientium, in humilibus Angelis &amp; inuenta &amp; solidata sunt augmenta meritorum; 
+      <lb ed="#L" n="38"/>Istis namque cadentibus, illis in munere datum est, vt cadere omnino non possint: Ergo 
+      se<lb ed="#L" n="39" break="no"/>cundum Anselmum &amp; Gregorium, Angeli confirmati, suam confirmationem per // 
+      huiusmo<lb ed="#L" n="40" break="no"/>di meruerunt, quod non voluerunt, quod non debuerunt, &amp; per hoc, quod cum Leuiathan 
+      <lb ed="#L" n="41"/>superbiae lapsus eijceret, isti ex timore robustius &amp; solidius perstiterut, &amp; per hoc quod territi, 
+      <lb ed="#L" n="42"/>nequaquam conditorem suum superbe cum alijs despexerunt; ergo secundum vtrumque 
+      <lb ed="#L" n="43"/>non consentiendo tentati, suam beatitudinem meruerunt: Nam sicut Eua per serpentem 
+      ten<lb ed="#L" n="44" break="no"/>tabatur antiquum, sic &amp; boni Angeli per illum Leuiathan tentabantur; de quo exponitur vno 
+      <lb ed="#L" n="45"/>modo illud Apoc 12. Factum est praelium magnum in coelo, Michael &amp; Angeli eius 
+      praelia<lb ed="#L" n="46" break="no"/>bantur cum Dracone, scilicet resistendo; &amp; Draco pugnabat, &amp; Angeli eius, id est, tentando, 
+      <lb ed="#L" n="47"/>&amp; non valuerunt, nec locus eorum inuentus est amplius in coelo; &amp; proiectus Draco ille 
+      mag<lb ed="#L" n="48" break="no"/>nus, serpens antiquus, qui vocatur Diabolus &amp; Satanas, qui seducit vniuersum orbem, 
+      pro<lb ed="#L" n="49" break="no"/>iectus est in terram, &amp; Angeli eius cum eo missi sunt. Vnde si ratio Lumbardi diligentiori 
+      <lb ed="#L" n="50"/>scrutinio ventiletur, videbitur multum infirma: Licet enim in homine ante lapsum, &amp; in An 
+      <lb ed="#L" n="51"/>gelis iam beatis non erat aliquid, quod ad malum impelleret; erat tamen extra ipsos tentator 
+      <lb ed="#L" n="52"/>fortissimus, qui ipsos quantum potuit, impulit ad peccandum: qui eos fortasse ad malum 
+      tan<lb ed="#L" n="53" break="no"/>tum tunc impulit, quantum aliqua parua tentatio hominem nunc impellit: Non est enim 
+      <lb ed="#L" n="54"/>super terram potestas, quae comparetur ei; Iob4I. quomodo etiam secundum catholicos 
+      tra<lb ed="#L" n="55" break="no"/>ctatores, peccatum Angeli ideo est irremediabile, quia ex se non aliunde tentatus peccauit; 
+      <lb ed="#L" n="56"/>peccatum vero hominis ideo remediabile, quia non penitus ex se, sed aliunde tentatus pecca 
+      <lb ed="#L" n="57"/>uit, nisi illa tentatio hominem ad peccandum aliquantulum impulisset, alias in // nullo 
+      excu<lb ed="#L" n="58" break="no"/>fabilior videretur, quia peccauit tentatus, quam si non tentatus peccasset: Quomodo etiam  
+      <!--535.xml-->
+      <pb ed="#A" n="502"/>
+               <lb ed="#L" n="1"/>mulier nullo modo impellebatur ad comedendum de ligno prohibito, cum dicat Scriptura 
+      <lb ed="#L" n="2"/>Gen. 3. Vidit igitur mulier, quod bonum esset lignum ad vescendum &amp; pulchrum oculis 
+      <lb ed="#L" n="3"/>aspectuque delectabile, &amp; tulit de fructu illius, &amp; comedit: Nonne illa apparens sibi 
+      boni<lb ed="#L" n="4" break="no"/>tas, pulchritudo, &amp; delectabilitas, eam ad comedendum quoquo modo impulit &amp; attraxit, 
+      <lb ed="#L" n="5"/>cum dicat Virgilius in Bucol.  trahit sua quemque voluptas? cum &amp; hoc satis testetur 
+      Phi<lb ed="#L" n="6" break="no"/>losophus 3. de Anima in fine cap. de mouente &amp; in libro Ethic. quasi per totum. 
+      Dicit<lb ed="#L" n="7" break="no"/>que beatus Gregorius 21. Moral. 2. super illud Iob31. Pepigi foedus cum oculis meis, vt ne 
+      <lb ed="#L" n="8"/>cogitarem quidem de virgine. Nec Eualignum vitae contigisset, nisi hoc prius incaute 
+      respi<lb ed="#L" n="9" break="no"/>ceret; scriptum quippe est, vidit multer quod bonum esset lignum ad vescendum, &amp;c. huic 
+      <lb ed="#L" n="10"/>ergo pensandum est, cum quanto debemus moderamine erga illicita visum restringere, nos 
+      <lb ed="#L" n="11"/>qui mortaliter viuimus; si &amp; mater viuentium per oculos ad mortem venit: Hinc Propheta 
+      <lb ed="#L" n="12"/>dicit, Oculus meus depraedatus est animam meam; concupiscendo enim visibilia, 
+      inuisibi<lb ed="#L" n="13" break="no"/>les virtutes amisit: quae ergo interiorem fructum per exteriorem visum perdidit, per oculum p 
+      <lb ed="#L" n="14"/>corporis pertulit predam cordis; Et allegat hoc glossa super Gen. vbi prius: Quomodo etiam 
+      <lb ed="#L" n="15"/>malus Angelus similitudinem Dei appetijt, si non prius hoc apparuit sibi bonum, cum tam 
+      <lb ed="#L" n="16"/>secundum Philosophos, quam Theologos nilaliud apperatur; &amp; qualiter consequenter ad  
+      <lb ed="#L" n="17"/>huius appetitum per talem apparentiam nullo modo allectus fuerat, aut impulsus. Dicitque 
+      <lb ed="#L" n="18"/>Augustinus Enchirid. 87. quod illam immortalitatem in qua posset non mori, natura 
+      huma<lb ed="#L" n="19" break="no"/>na perdidit per liberum arbitrium, hanc immortalitatem in qua non possit mori, est acceptura 
+      <lb ed="#L" n="20"/>per gratiam, quam fuerat, si non peccasset, acceptura per meritum, quamuis sine gratia; nec 
+      <lb ed="#L" n="21"/>tunc vllum meritum esse potuisset, quia etsi peccatum in solo erat libero arbitrio 
+      constitu<lb ed="#L" n="22" break="no"/>tum, non tamen iustitiae retinendae sufficiebat liberum arbitrium, nisi participatione 
+      immuta<lb ed="#L" n="23" break="no"/>bilis boni diuinum adiutorium praeberetur; quam Autoritatem recitat Lumbard. 4. sent. dist. 29. 
+      <lb ed="#L" n="24"/>&amp; addit, Ecce his verbis satis ostendit, quod ante peccatum homo indigebat gratia operante &amp; 
+      <lb ed="#L" n="25"/>cooperante? Non enim habebat, quo pede mouere posset sine gratiae operantis &amp; cooperantis 
+      <lb ed="#L" n="26"/>auxilio; habuit tamen quo stare poterat. Vnde patet expositio Lumbardi in principio 
+      ea<lb ed="#L" n="27" break="no"/>pituli recitata, autoritatum Augustini dicentium diuinum adiutorium fuisse necessarium 
+      ho<lb ed="#L" n="28" break="no"/>mini ante lapsum, ad standum in bono, asserens hoc esse liberum eius arbitrium, non est 
+      ve<lb ed="#L" n="29" break="no"/>rax: Non enim veraciter exprimit mentem Autoris, sed est contraria menti eius, nec 
+      fideli<lb ed="#L" n="30" break="no"/>ter recitat eius verba, ex quibus posset fideliter // conuinci mens ipsius: Cum enim recitauit 
+      il<lb ed="#L" n="31" break="no"/>lud Enchirid. 87. Sic prius oportebat hominem fieri, vt &amp; bene velle posset, &amp; male; nec 
+      <lb ed="#L" n="32"/>gratis seu frustra, si bene; nec impune, si male; cur subticuit quod eodem capitulo ponitur 
+      <lb ed="#L" n="33"/>consequenter, &amp; erat superius proximo recitatum; videlicet, etsi peccatum erat in solo 
+      libe<lb ed="#L" n="34" break="no"/>ro arbitrio constitutum, non tamen iustitiae retinendae sufficiebat liberum arbitrium, nisi 
+      par<lb ed="#L" n="35" break="no"/>ticipatione immutabilis boni diuinum adiutorium praeberetur: Quomodo ergo adiutorium 
+      <lb ed="#L" n="36"/>illud diuinum, per quod suffecisset iustitiae retinendae, &amp; sine quo liberum arbitrium non 
+      suf<lb ed="#L" n="37" break="no"/>ficit, liberum arbitrium dici potest? quia si sic, nihil aliud diceretur, nisi quod liberum 
+      arbi<lb ed="#L" n="38" break="no"/>trium per seipsum suffecisset iustitiae retinendae, &amp; sine seipso nullatenus suffecisset; quorum  
+      <lb ed="#L" n="39"/>primum negat Augustinus expresse, &amp; secundum nullus dubitet idiota. Cur itaque post hane 
+      <lb ed="#L" n="40"/>2. sentent. dist. 29. recitatam ab eo, subiunxit, quod homo ante peccatum sine gratiae 
+      operan<lb ed="#L" n="41" break="no"/>tis &amp; cooperantis auxilio habuit quo stare poterat, cum tamen dicat Autoritas, quod tunc 
+      <lb ed="#L" n="42"/>non sic sufficiebat liberum arbitrium iustitiae retiuendae? Ergo nec tunc sic suffecit stare in 
+      <lb ed="#L" n="43"/>ea. Cur etiam dist. 24. suppressit, quod Augustinus adhuc eodem capitulo immediate 
+      sub<lb ed="#L" n="44" break="no"/>iungit; sicut enim mori est in hominis potestate cum velit; Nemo est enim qui non seipsum, 
+      <lb ed="#L" n="45"/>vt nihil aliud dicam, vel non vescendo possit occidere; Ad tenendam ergo vitam voluntas 
+      <lb ed="#L" n="46"/>non satis est, si adiutoria siue alimentorum, siue quorumcunque tutamiuum desint, sic homo 
+      <lb ed="#L" n="47"/>in Paradiso ad se occidendum, relinquendo iustitiam idoneus erat per voluntatem; vt autem 
+      <lb ed="#L" n="48"/>ab eo teneretur vita iustitiae, parum erat velle, nisi ille, qui eum fecerat, adiuuaret; nisi forsan 
+      <lb ed="#L" n="49"/>quia per hoc significatur expresse, quod ad tenendam iustitiam quam homo in Paradiso 
+      fia<lb ed="#L" n="50" break="no"/>bebat, ipsius liberum voluntatis arbitrium sine alio Dei // adiutorio non suffecit. Cur etiam 
+      <lb ed="#L" n="51"/>quaeso cum recitaret in eadem dist. Autoritates Augustini de Correptione &amp; gratia 40. &amp; 48. 
+      <lb ed="#L" n="52"/>capitulis hic capit. proximo plenius recitatas? cur inquam, pertransiuit silentio alia dicta 
+      Au<lb ed="#L" n="53" break="no"/>gustini ibidem, quae sua praedicta expositio destruit, vel potius ab eis destruitur? Nam capit. 
+      <lb ed="#L" n="54"/>47. dicit ita; Istam gratiam non habuerat homo, qua nunquam vellet esse malus, sed sane 
+      <lb ed="#L" n="55"/>habuit, in qua si permanere vellet, nunquam malus esset, &amp; sine qua etiam cum libero 
+      arbi<lb ed="#L" n="56" break="no"/>trio bonus esse non posset, sed eam tamen per liberum arbitrium deserere posset. Idem 
+      ibi<lb ed="#L" n="57" break="no"/>dem capit. 48. Tunc dederat homini Deus bonam voluntatem: In illa quippe eum fecerat, 
+      <lb ed="#L" n="58"/>qui fecerat rectum. Dederat adiutorium sine quo in ea non posset permanere si vellet; vbi 
+      <!--536.xml-->
+      <pb ed="#A" n="503"/>
+               <lb ed="#L" n="1"/>semper distinguit inter hanc gratiam, seu hoc adiutorium, &amp; liberum arbitrium voluntatis 
+      <lb ed="#L" n="2"/>Idem ibidem cap. 49. Si autem hoc adiutorium vel Angelo vel homini cum primum facti 
+      <lb ed="#L" n="3"/>sint, defuisset, quoniam natura non erat facta vt sine diuino adiutorio posset manere si vellet, 
+      <lb ed="#L" n="4"/>non vtique sua culpa cecidisset: Adiutorium quippe defuisset, sine quo manere non posset: 
+      <lb ed="#L" n="5"/>Sed si hoc adiutorium sit liberum voluntatis arbitrium, quomodo potuit vel Angelo, vel 
+      ho<lb ed="#L" n="6" break="no"/>mini defuisse? certe non aliter quam natura sua sibi existenti potuit defuisse: Intelligit ergo 
+      <lb ed="#L" n="7"/>de adiutorio alio per quod liberum arbitrium iuuaretur, vnde &amp; subdit; Nunc autem, 
+      scili<lb ed="#L" n="8" break="no"/>cet pro statu hominis post peccatum, quibus deest tale adiutorium, iam poena peccati est; 
+      <lb ed="#L" n="9"/>quibus autem datur, secundum gratiam datur, non secundum debitum. Idem ibidem, 
+      cap<lb ed="#L" n="10" break="no"/>52. Primo vtique homini, qui in eo bono quo factus erat rectus, acceperat posse non 
+      pecca<lb ed="#L" n="11" break="no"/>re, posse non mori, posse ipsum bonum non deserere, datum est adiutorium perseuerantiae, 
+      <lb ed="#L" n="12"/>non quo fieret vt perseueraret, sed sine quo per liberum arbitrium perseuerare non posset. Et  
+      <lb ed="#L" n="13"/>capit. 60. Ita factum est, vt voluntas hominis inualida &amp; imbecilla, scilicet post peccatum, 
+      <lb ed="#L" n="14"/>in bono adhuc paruo perseueret per virtutem Dei, cum voluntas primi hominis fortis &amp; sana 
+      <lb ed="#L" n="15"/>in bono ampliori non perseuerauerit, habens virtutem liberi arbitrij, quamuis non de futuro 
+      <lb ed="#L" n="16"/>adiutorio Dei, sine quo non posset perseuerare, si vellet: Ex quibus, vt reor, satis apparet 
+      le<lb ed="#L" n="17" break="no"/>gentibus, &amp; non negligentibus literas Augustini allegatas a Lumbardo locis praedictis, ipsum 
+      <lb ed="#L" n="18"/>Augustinum eisdem locis velle liberum arbitrium, &amp; illud Dei adiutorium ad 
+      perseueran<lb ed="#L" n="19" break="no"/>dum in bono, homini vel Angelo necessario requisitum semper distingui realiter, &amp; differre. 
+      <lb ed="#L" n="20"/>Idem quoque ostendunt Autoritates eiusdem de Natura &amp; gratia, &amp; de Ciuitate Dei capit. 
+      <lb ed="#L" n="21"/>proximo allegatae. Et siquid acutius dixerim, &amp; cum minori reuerentia, quam deceret 
+      con<lb ed="#L" n="22" break="no"/>tra Dominum meum Magistrum Petrum Lumbardum, imo &amp; Christum Domini 
+      Parisien<lb ed="#L" n="23" break="no"/>sem Episcopum; excuset me quaeso zelus Domus Dei &amp; catholicae veritatis, qui me contra 
+      <lb ed="#L" n="24"/>Pelagianorum commenta vehementer accendit: Non enim contra ipsum aliquid dixeram, 
+      <lb ed="#L" n="25"/>sed contra suum errorem, quia errori Pelagij plurimum est affinis; Concesso namque quod 
+      <lb ed="#L" n="26"/>Angelus vel homo ante peccatum, per solum liberum arbitrium potuit perseuerate in bono 
+      <lb ed="#L" n="27"/>quod habuit, concederetur faciliter consequenter, quod homo post peccatum reparatus per 
+      <lb ed="#L" n="28"/>gratiam, posset in ea perseuerare finaliter per solum liberum arbitrium voluntatis; sicut 
+      capi<lb ed="#L" n="29" break="no"/>tulum proximum plenius deducebat, quod est contra capitulum septimum iam praemissum. 
+      <lb ed="#L" n="30"/>Ad illud autem dictum Augustini de correptione &amp; gratia 48. quod videtur facere pro hac 
+      <lb ed="#L" n="31"/>parte. Dederat, inquit, adiutorium sine quo non posset permanere, si vellet; vt autem vellet 
+      <lb ed="#L" n="32"/>in eius reliquit libero arbitrio; posset ergo permanere si vellet; dicendum, quod hoc non 
+      pro<lb ed="#L" n="33" break="no"/>bat, quod illud adiutorium sit liberum arbitrium, sed magis videtur innuere contrarium, 
+      sci<lb ed="#L" n="34" break="no"/>licet quod a libero arbitrio sit distinctum, sicut superius est ostensum: Posset, inquit, permanere 
+      <lb ed="#L" n="35"/>si vellet; cuius causam immediate subiungit, quia inquiens non deerat adiutorium, per quod 
+      <lb ed="#L" n="36"/>posset perseueranter bonum tenere, // si vellet; vult ergo dicere quod illud adiutorium fuit non 
+      <lb ed="#L" n="37"/>ipsum liberum arbitrium, sed aliquid sibi oppositum, per quod si vellet illi inniti, perseuerare 
+      vale<lb ed="#L" n="38" break="no"/>ret, &amp; quod si desereret perseuerate non posset; pro quo supra eiusdem 47. expressius dicitur 
+      <lb ed="#L" n="39"/>isto modo; Istam gratiam habuit primus homo, in qua si permanere vellet, nunqua malus esset, 
+      <lb ed="#L" n="40"/>&amp; sine qua etiam cum libero arbitrio bonus esse no posset, sed eam per liberum arbitrium 
+      de<lb ed="#L" n="41" break="no"/>serere posset, quonia liberum arbitrium ad malum sufficit, ad bonum autem parum est, nisi 
+      adiu<lb ed="#L" n="42" break="no"/>uetur ab omnipotenti Deo bono; quod adiutorium si honio ille per liberum arbitrium non 
+      de<lb ed="#L" n="43" break="no"/>seruisset, semper esset bonus; sed deseruit, &amp; desertus est; tale quippe erat adiutorium quod 
+      de<lb ed="#L" n="44" break="no"/>sereret cum vellet, &amp; in quo permaneret si vellet. Illud aliud eius dictum c. 57. patet per idem: 
+      <lb ed="#L" n="45"/>Non enim sequitur, licet perseuerare, &amp; non perseuerare in hominis relinqueretur arbitrio, 
+      <lb ed="#L" n="46"/>quod adiutorium Dei, sine quo perseuerare non posset si vellet, sit eius liberum arbitrium; 
+      <lb ed="#L" n="47"/>imo quod potuit perseuerasse si voluisset, non tamen viribus solius liberi arbitrij, sed illius 
+      di<lb ed="#L" n="48" break="no"/>uini adiutorij saepe dicti, quod eum ad perseuerandum finaliter adiuuisset, nisi illud prius 
+      <lb ed="#L" n="49"/>culpabiliter impulisset, sicut superius proximo erat dictum. Cum autem dicit de bono 
+      per<lb ed="#L" n="50" break="no"/>seuerantiae 10. Non discedere a Deo, &amp; non inferri in tentationem non esse in viribus liberi 
+      <lb ed="#L" n="51"/>arbitrij, quales nunc sunt, fuisse autem in homine antequam caderet; intelligit, quod cum 
+      ae<lb ed="#L" n="52" break="no"/>quali adiutorio &amp; caeteris paribus, hoc est minus &amp; difficilius in viribus liberi arbitrij nunc, 
+      <lb ed="#L" n="53"/>qua tunc erat: Ita quod tunc non omnino nullo, sed minori adiutorio quam nunc egebat: Cuius 
+      <lb ed="#L" n="54"/>causa est, quia tunc secundum Aug. de Corrept. &amp; gratia 57. vt perseuerare vel non perseuerare 
+      <lb ed="#L" n="55"/>in hominis relinqueretur arbitrio, tales vires habebat eius voluntas, quae sine vllo fuerat 
+      insti<lb ed="#L" n="56" break="no"/>tura peccato, &amp; nihil ipsi ex seipsa concupiscentialiter resistebat, vt digne tante bonitati, &amp; 
+      be<lb ed="#L" n="57" break="no"/>ne viuendi faelicitati perseuerandi committeretur arbitrium; Nunc vero posteaquam est 
+      illa<lb ed="#L" n="58" break="no"/>magna, peccati merito, amissa libertas, etiam maioribus donis adiuuanda remansit infirmi¬ 
+      <!--537.xml-->
+      <pb ed="#A" n="504"/>
+               <lb ed="#L" n="1"/>tas: Nunc, inquit, maioribus donis adiuuanda remansit infirmitas, scilicet libertatis arbitrij, A 
+      <lb ed="#L" n="2"/>ergo tunc saltem minoribus fuit adiuuanda libertas; &amp; supra eiusdem 54. sic ait, Maior 
+      quip<lb ed="#L" n="3" break="no"/>pe libertas est necessaria aduersus tot &amp; tantas tentationes, quae in Paradiso non fuerunt, 
+      do<lb ed="#L" n="4" break="no"/>no perseuerantiae munita atque perfecta, vt cum amoribus omnibus, terroribus, &amp; 
+      errori<lb ed="#L" n="5" break="no"/>bus suis vincatur hic mundus: Et sequitur 55. Haec Sanctorum martyria docuerunt; 
+      Dein<lb ed="#L" n="6" break="no"/>de ille Adam scilicet, &amp; terrente nullo, &amp; insuper contra Dei terrentis imperium, libero vsus 
+      <lb ed="#L" n="7"/>arbitrio non steti, in tanta faelicitate, in tanta non peccandi facilitate: Isti autem non dico 
+      ter<lb ed="#L" n="8" break="no"/>rente mundo, sed saeuiente ne starent, steterunt in fide. Vnde hoc, nisi donante illo, a quo 
+      <lb ed="#L" n="9"/>misericordiam consecuti sunt vt fideles essent, a quo acceperunt spiritum non timoris, quo 
+      <lb ed="#L" n="10"/>persecutionibus cederent, sed virtutis, &amp; charitatis, &amp; continentiae, quo cuncta minantia, 
+      <lb ed="#L" n="11"/>cuncta inuitantia, cuncta cruciantia superarent? Is ergo est vnus intellectus Augustini in 
+      au<lb ed="#L" n="12" break="no"/>toritate sua praemissa. Alius eius intellectus est iste, quod homo pro statu huius miseriae 
+      indi<lb ed="#L" n="13" break="no"/>get multiplicius adiutorio diuino ad perseuerandum in bono, quam pstatu innocentiae 
+      in<lb ed="#L" n="14" break="no"/>diguit primus homo. Nam pro isto duplici statu adiutorio Dei eget, vno vt liberetur a 
+      ser<lb ed="#L" n="15" break="no"/>uiture peccati; alio vt conseruetur in libertate boni: Primo pro primo statu primus homo 
+      <lb ed="#L" n="16"/>non eguit, sed secundo, vt partim ex prioribus, partim ex alijs satis patet. Pro quo &amp; 
+      Au<lb ed="#L" n="17" break="no"/>gustinus de Correptione &amp; gratia 49. dicit; Nunc autem quibus deest tale adiutorium 
+      poe<lb ed="#L" n="18" break="no"/>na peccati est; quibus autem datur, secundum gratiam datur, non secundum debitum; &amp; 
+      <lb ed="#L" n="19"/>tanto amplius datur per Iesum Christum Dominum nostrum; quibus id dare Deo placuit, vt 
+      <lb ed="#L" n="20"/>non solum assit sine quo permanere non possumus etiamsi velimus, verumetiam tantum ac 
+      <lb ed="#L" n="21"/>tale sit, vt velimus. Fit quippe in nobis per hanc Dei gratiam in bono recipiendo, &amp; 
+      perse<lb ed="#L" n="22" break="no"/>ueranter tenendo, non solum posse quod volumus, verumetiam velle quod possumus, quod 
+      <lb ed="#L" n="23"/>non fuit in homine primo; vnum enim illorum in illo fuit, alterum non: Namque vt 
+      reci<lb ed="#L" n="24" break="no"/>peret bonum gratia non egebat, quia nondum perdiderat; vt autem in eo permaneret, 
+      ege<lb ed="#L" n="25" break="no"/>bat adiutorio, sine quo id omnino non posset. Idemque de eodem Enchirid. 87. ita dicit; 
+      Ho<lb ed="#L" n="26" break="no"/>mo in Paradiso ad se occidendum, relinquendo iustitiam, idoneus erat per voluntatem; vt ab 
+      <lb ed="#L" n="27"/>co teneretur vita iustitiae, parum erat velle, nisi ille qui eum fecerat, adiuuaret; sed post illam 
+      <lb ed="#L" n="28"/>ruinam maior est misericordia Dei, quando &amp; ipsum arbitrium liberandum est a seruitute, 
+      <lb ed="#L" n="29"/>cui dominatur cum morte peccatum. Illa vero Autoritas Hypognost, in contrarium 
+      alle<lb ed="#L" n="30" break="no"/>gata, quae dicit liberum arbitrium Adae factum cum possibilitatis bono, quo valeret 
+      imple<lb ed="#L" n="31" break="no"/>re quod voluisset, &amp; quod ipsa fuit prima gratia, qua stare potuisset, si seruare mandata 
+      Do<lb ed="#L" n="32" break="no"/>mini voluisset, non probat, quod illud possibilitatis bonum, &amp; illa prima gratia, aut illud 
+      diui<lb ed="#L" n="33" break="no"/>num adiutorium saepius memoratum sit liberum arbitrium, sed magis videtur probare 
+      con<lb ed="#L" n="34" break="no"/>trarium: Cum enim dicit liberum arbitrium cum illo bono creatum, nec vult dicere illud 
+      <lb ed="#L" n="35"/>cum seipso creatum, videtur distinguere inter illa, innuendo quod liberum arbitrium non 
+      <lb ed="#L" n="36"/>fuit creatum abinitio totum nudum, sed tanta gratia splendidum &amp; vestitum, vt quod 
+      volu<lb ed="#L" n="37" break="no"/>isset, potuisset implesse, seruasse scilicet mandata dominica, &amp; stetisse, si hoc facere voluisset, 
+      <lb ed="#L" n="38"/>sed adhuc vltra gratiam iam praedictam indiguit alio Dei auxilio ad hoc volendum; Nam 
+      <lb ed="#L" n="39"/>neque tunc quicquam potuit voluisse sine adiutorio manus eius, qui secundum Apostolum 
+      <lb ed="#L" n="40"/>ad Philippen. 2. operatur in nobis velle, &amp; perficere: Et quod Augustinus hoc modo 
+      in<lb ed="#L" n="41" break="no"/>telligat, ipsummet in testem adduco de Correptione &amp; gratia 47. de eadem materia sic 
+      dicen<lb ed="#L" n="42" break="no"/>tem; Istam gratiam non habuerat homo primus, qua nunquam vellet esse malus; sed sant 
+      <lb ed="#L" n="43"/>habuit, in qua si permanere vellet, nunquam malus esset, &amp; sine qua etiam cum libero 
+      ar<lb ed="#L" n="44" break="no"/>bitrio bonus esse non posset: ergo illa gratia a libero arbitrio differebat; &amp; immediate 
+      sub<lb ed="#L" n="45" break="no"/>iungit; sed eam tamen per liberum arbitrium deserere posset; nec ipsum esse ergo Deus 
+      vo<lb ed="#L" n="46" break="no"/>luit sine sua gratia, quem reliquit in eius libero arbitrio, quoniam liberum arbitrium ad 
+      ma<lb ed="#L" n="47" break="no"/>lum sufficit, ad bonum autem parum est, nisi adiunetur ab omnipotenti Dei bono, quod 
+      <lb ed="#L" n="48"/>adiutorium si homo ille per liberum arbitrium non deseruisset, semper esset bonus; sed 
+      deser<lb ed="#L" n="49" break="no"/>uit, &amp; desertus est: Tale quippe erat adiutorium, quod desereret cum vellet, &amp; in quo 
+      per<lb ed="#L" n="50" break="no"/>maneret si vellet, non quo fieret vt vellet. Haec est prima gratia quae data est primo Adam. 
+      <lb ed="#L" n="51"/>sed haec potentior in secundo Adam: Prima est enim qua fit, vt habeat homo iustitiam si 
+      ve<lb ed="#L" n="52" break="no"/>lit, secunda ergo plus potest, qua etiam sit vt velit, &amp; tantum velit, tanto ardore diligat, vt 
+      <lb ed="#L" n="53"/>carnis voluntatem contraria concupiscentem voluntatespiritus vincat; nec illa quidem parua 
+      <lb ed="#L" n="54"/>erat qua demonstrata est etiam potentia liberi arbitrij, quoniam sic adiuuabatur, vt sine hoc 
+      <lb ed="#L" n="55"/>adiutorio in bono non maneret, sed hoc adiutorium si vellet, desereret; haec autem tanto 
+      <lb ed="#L" n="56"/>maior est, vt parum sit homini per illam reparare perditam libertatem; parum sit denique 
+      <lb ed="#L" n="57"/>non posse sine illa, vel apprehendere bonum, vel permanere in bono si velit, nisi etiam 
+      effi<lb ed="#L" n="58" break="no"/>ctatur vt velit. Et infra cap. 49. sic ait, Si hoc adiutorium vel Angelo, vel homini, cum 
+      <!--538.xml-->
+      <pb ed="#A" n="505"/>
+               <lb ed="#L" n="1"/>primum facti sunt, defuisset; quoniam natura talis non erat facta, vt sine diuino adiurorie 
+      <lb ed="#L" n="2"/>posset // manere si vellet, non vtique sua culpa cecidisset: Adiutorium quippe defuisset sine 
+      <lb ed="#L" n="3"/>quo manere non posset; nunc autem quibus deest tale adiutorium, poena peccati est; quibus 
+      <lb ed="#L" n="4"/>autem datur, secundum gratiam datur, non secundum debitum, &amp; tanto amplius datur per 
+      <lb ed="#L" n="5"/>Iesum Christum Dominum nostrum, quibus id dare Deo placuit; vt non solum adsit, sine 
+      <lb ed="#L" n="6"/>quo permanere non possumus, etiamsi velimus; verumetiam tantum ac tale sit vt velimus; sit 
+      <lb ed="#L" n="7"/>quippe in nobis per hanc Dei gratiam in bono recipiendo, &amp; perseueranter tenendo, non 
+      so<lb ed="#L" n="8" break="no"/>lum posse quod volumus, verumetiam velle quod possumus, quod non fuit in homine 
+      pri<lb ed="#L" n="9" break="no"/>mo; vnum enim illorum in illo fuit,, alterum non. Acceperat posse si vellet, sed non 
+      ha<lb ed="#L" n="10" break="no"/>buit velle quo posset: Nam si habuisset, perseuerasset; posset enim etiam, si vellet, 
+      perseue<lb ed="#L" n="11" break="no"/>rare. Hoc idem eiusdem testatur Autoritas 14. de Ciuit. Dei penult. cap. proximo allegata; 
+      <lb ed="#L" n="12"/>Primus, inquit, homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum 
+      <lb ed="#L" n="13"/>Angelum vinceret, meritum bonum habens in adiuta diuinitus voluntate recta; quia &amp; 
+      ip<lb ed="#L" n="14" break="no"/>sum fidere de adiutorio Dei non quidem posset sine adiutorio Dei. Patet ergo, quod licet 
+      pri<lb ed="#L" n="15" break="no"/>mus homo ante peccatum potuit perseuerasse, si voluisset, tamen sine Dei auxilio non potuit 
+      <lb ed="#L" n="16"/>illud velle; quare nec perseuerare finaliter, nec ad tempus, sicut capitulum proximum 
+      <lb ed="#L" n="17"/>asserebat. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="626"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e82885"><!-- l2c34 -->
+            <head xml:id="dcn2br-e82885-Hd1e106">Caput 34</head>
+            <p xml:id="dcn2br-e82885-d1e109">
+      <!--659.xml-->
+               <pb ed="#A" n="626"/>
+               <lb ed="#L" n="1"/>CAP. XXXIIII. 
+      <lb ed="#L" n="2"/>Per praemissa allicit homines ad timorem &amp; amorem, ad confiden¬ 
+      <lb ed="#L" n="3"/>tiam, ad patientiam &amp; humilitatem, ad orationem, &amp; ad 
+      grati<lb ed="#L" n="4" break="no"/>as referendas. 
+      </p>
+            <p xml:id="dcn2br-e82885-d1e125">
+               <lb ed="#L" n="5"/>Magne &amp; mirabilis Deus noster, Iux vnica oculorum, aperi quaeso 
+      o<lb ed="#L" n="6" break="no"/>culos cordis mei, &amp; oculos aliorum, vt magnalia &amp; mirabilia tua 
+      prae<lb ed="#L" n="7" break="no"/>missa veraciter contemplemur, &amp; contemplata deuotius veneremur. 
+      <lb ed="#L" n="8"/>B Praemissis namque discreta consideratione pensatis, quis non timore 
+      <lb ed="#L" n="9"/>sse concutitur? Quis non amore succenditur? Quis confidentia non fir¬ 
+      <lb ed="#L" n="10"/>matur? Quis patientia non armatur? Quis non ad humiliationem 
+      <lb ed="#L" n="11"/>infimam, ad orationem sedulam, &amp; ad gratiarum actionem continuam  
+      <lb ed="#L" n="12"/>prouocatur? Quis, inquam, consideratis discrete praemissis, non 
+      concu<lb ed="#L" n="13" break="no"/>tiatur timore videndo tuam omnipotentissimam voluntatem in omnibus efficacem, 
+      secun<lb ed="#L" n="14" break="no"/>dum quam omnia coelestia, terrestria &amp; infera moderaris? Qua quem vis, &amp; quando vis, 
+      ex<lb ed="#L" n="15" break="no"/>altas; quem vis, &amp; quando vis, humilias, sanas, infirmas, viuificas, mortificas, quem vis 
+      prae<lb ed="#L" n="16" break="no"/>destinas atque saluas, &amp; quem vis reprobas atque damnas. Etiam si innocentem damnaret.  
+      <lb ed="#L" n="17"/>quis eum argueret, cum voluntas eius in talibus sit domina rationis, auctrix iustitiae, &amp; regula 
+      <lb ed="#L" n="18"/>aequitatis, sicut patet ex 20o &amp; 2Io &amp; 39o primi? Quod &amp; in parte Nabuchodonosor ille 
+      <lb ed="#L" n="19"/>Magnus expertus testatur, de quo Dan. 4. scribitur isto modo; Sermo completus est super 
+      <lb ed="#L" n="20"/>Nabuchodonosor &amp; ex omnibus abiectus est, &amp; foenum vt bos comedit, &amp; rore coeli corpus 
+      <lb ed="#L" n="21"/>eius infectum est, donec capilli eius in similitudinem Aquilarum crescerent, &amp; vngues eius 
+      <lb ed="#L" n="22"/>quasi vngues auium. Igitur post finem dierum ego Nabuchodonosor oculos meos ad 
+      coe<lb ed="#L" n="23" break="no"/>lum leuaui, &amp; sensus meus redditus est mihi, &amp; altissimo benedixi, &amp; viuentem in 
+      sempiter<lb ed="#L" n="24" break="no"/>num laudaui &amp; glorificaui, quia potestas eius potestas sempiterna, &amp; regnum eius in 
+      generati<lb ed="#L" n="25" break="no"/>one &amp; generationem, &amp; omnes habitatores terrae apud eum in nihilum reputati sunt. Iuxta 
+      <lb ed="#L" n="26"/>enim voluntatem suam facit tam in virtutibus coeli, quam in habitatoribus terrae, &amp; non est 
+      <lb ed="#L" n="27"/>qui resistat manui eius, &amp; dicat ei, Quare fecisti? Quare &amp; Iob, licet sanctissimus, dicit ita, 
+      Ve<lb ed="#L" n="28" break="no"/>stigia eius secutus est pes meus; Viam eius custodiui, &amp; non declinaui ex ea; a mandatis 
+      la<lb ed="#L" n="29" break="no"/>biorum eius non recessi, &amp; in finu meo abscondi verba oris eius: Ipse enim solus est, &amp; nemo 
+      <lb ed="#L" n="30"/>aduertere potest cogitationem eius; &amp; Anima eius quodcunque voluit, hoc fecit, &amp; cum 
+      ex<lb ed="#L" n="31" break="no"/>pleuerit in me voluntatem suam, &amp; alia multa similia praesto sunt ei; &amp; idcirco a facie eius 
+      <lb ed="#L" n="32"/>turbatus sum, &amp; considerans cum timore sollicitor: Iob. 23. super quod beatus Gregorius 
+      <lb ed="#L" n="33"/>16. Moral. 15. ita scribit; Ac si a parte dicat, iam perpendo quae patior, sed adhuc formido 
+      <lb ed="#L" n="34"/>quae pati possum: Explet enim in me voluntatem suam, quia multis me percussionibus 
+      affli<lb ed="#L" n="35" break="no"/>git, sed multa similia praesto sunt ei, quia si ferire cogitat, adhuc inuenitur vbi plaga crescat. 
+      <lb ed="#L" n="36"/>Hinc itaque pensandum est quam pauidus ante flagellum fuit, qui etiam percussus adhuc 
+      me<lb ed="#L" n="37" break="no"/>tuit ne feriatur. Incomprehensibilem quippe vim ei inesse considerans &amp; potestatis &amp; 
+      exami<lb ed="#L" n="38" break="no"/>nis, esse vir iustus noluit nec de flagello securus; vnde adhuc metuens adiungit, Et idcirco a 
+      <lb ed="#L" n="39"/>facie eius turbatus sum, &amp; considerans eum, timore sollicitor. Bene a facie Domini 
+      turba<lb ed="#L" n="40" break="no"/>tur, qui terrorem maiestatis illius cordis sui obtutibus proponit, &amp; eius rectitudinis pauore 
+      <lb ed="#L" n="41"/>concutitur, dum se reddendis rationibus conspicit idoneum non esse, si districte iudicetur. 
+      <lb ed="#L" n="42"/>Recte autem dicitur, &amp; considerans eum, timore sollicitor, quia diuinae animaduersionis vim 
+      <lb ed="#L" n="43"/>cum minime quisque considerat, minime formidat, &amp; tanto magis in hac vita quasi securus est,  
+      <lb ed="#L" n="44"/>quanto a consideratione internae districtionis alienus: semper etenim iusti viri ad cordis 
+      se<lb ed="#L" n="45" break="no"/>cretarium redeunt, vim occultae districtionis intuentur, maiestatis intimae iudicio assistunt, vt 
+      <lb ed="#L" n="46"/>eo magis quandoque securi sint, quo hic quamdiu viuerent, securi esse voluerunt. Sed ecce, 
+      <lb ed="#L" n="47"/>de // beato Iob nouimus quod omnibus sanctitatis operibus deditus fuit, &amp; tamen tot flagella 
+      <lb ed="#L" n="48"/>suscipit, nec etiam securus inter flagella existit, sed adhuc metuit, adhuc diuinae districtionis 
+      <lb ed="#L" n="49"/>vim considerans contremiscit. Quid nos itaque miseri, quid peccatores dicimus, si sic 
+      ti<lb ed="#L" n="50" break="no"/>met, qui sic egit? Vnde &amp; Augustinus super Psalmum 7cum tractatuprimo; Multum, in¬ 
+      <!--660.xml-->
+      <pb ed="#A" n="627"/>
+               <lb ed="#L" n="1"/>quit, mouet Dei amor &amp; timor: timor, quia iustus est: amors quiam misericors est.  
+      <lb ed="#L" n="2"/>Quis enim ei diceret, quid fecisti, si damnaret iustum? Quanta ergo misericordia eius 
+      <lb ed="#L" n="3"/>// vt iustificet iniustum? Quis talem ac tantum Dominum non timebit? Et quis non 
+      tan<lb ed="#L" n="4" break="no"/>to timore compunctus, offensam eius vitare, &amp; ipsum placare curabit, &amp; sic mala 
+      om<lb ed="#L" n="5" break="no"/>nia fugiendo, ac bona omnia persequendo, ipsum tandem super omnia totis viribus non  
+      <lb ed="#L" n="6"/>amabit? Amor namque ad bonum extenditur, &amp; quanto fuerit maius bonum, tanto 
+      <lb ed="#L" n="7"/>magis amandum. Tu autem Domine Deus meus es omnis boni bonum, super omnia 
+      bo<lb ed="#L" n="8" break="no"/>na bonus, bonum infinitissime infinitum, sicut suppositio prima monstrat: quantum 
+      er<lb ed="#L" n="9" break="no"/>go rationabiliter debeo te amare? Nunquid proportionabiliter infinite? Vtinam ita 
+      pos<lb ed="#L" n="10" break="no"/>sem. Sed quomodo ego tam paruulus &amp; finitus possum te diligere infinite? Et 
+      quomo<lb ed="#L" n="11" break="no"/>do aliter seruabitur proportio debita amabilium &amp; amorum? Tu enim superamabilis 
+      <lb ed="#L" n="12"/>Deus meus excedis amabilia caetera infinite. Quomodo etiam si te infinitum bonum 
+      fi<lb ed="#L" n="13" break="no"/>nite diligerem, non possem diligere congrue aliquod bonum finitum aequaliter, aliquod 
+      <lb ed="#L" n="14"/>vero magis? Aut forsan Domine debeo te diligere infinite quantum ad modum, &amp; si 
+      for<lb ed="#L" n="15" break="no"/>tassis non quantum ad actum. Quantum enim ad modum pertinet diligendi, debeo 
+      dili<lb ed="#L" n="16" break="no"/>gere te finaliter propter te, &amp; nullum aliud bonum finaliter propter se, sed propter te 
+      <lb ed="#L" n="17"/>Domine summum bonum, qui cunctorum bonorum principium es &amp; finis. Aut forte te 
+      <lb ed="#L" n="18"/>diligam quodammodo infinite, quantum ad actum tam intensiue quam extensiue. 
+      In<lb ed="#L" n="19" break="no"/>tensiue quodammodo, quia quantocunque bono finito intensius, firmius &amp; fortius si te 
+      <lb ed="#L" n="20"/>&amp; illud congrue diligam, cum illud non nisi propter te diligam: semper enim propter 
+      <lb ed="#L" n="21"/>quod vnum quo dque illud magis est, vt propter quod amamus, illud amicum magis 
+      <lb ed="#L" n="22"/>est. Extensiue quodammodo, comparando videlicet te Domine, summum bonum, ad 
+      a<lb ed="#L" n="23" break="no"/>lia bona quaecunque quantumlibet multa &amp; magna, &amp; te Domine prae omnibus &amp; 
+      su<lb ed="#L" n="24" break="no"/>per omnia diligendo, dum vellem potius omnia illa etiam &amp; me ipsum non esse, quam  
+      <lb ed="#L" n="25"/>te solum; siue dum mallem omnia illa insuper &amp; meipsum non esse, quam te semel 
+      offen<lb ed="#L" n="26" break="no"/>dere bone Deus. Sed adhuc, amantissime Domine, quandam aliam 
+      proportionali<lb ed="#L" n="27" break="no"/>tatem amorum &amp; // amicitiarum considerans, valde sollicitor, &amp; conturbor. Si enim 
+      ve<lb ed="#L" n="28" break="no"/>rum est quod quidam ait, Analogum in omnibus secundum superabundantiam 
+      existen<lb ed="#L" n="29" break="no"/>tibus amicitijs &amp; amationem fieri oportet, puta meliorem magis amari, quam amare, &amp;  
+      <lb ed="#L" n="30"/>vtiliorem, &amp; aliorum vnumquodque similiter: cum enim secundum dignitatem 
+      ama<lb ed="#L" n="31" break="no"/>tio fiat, tunc sit aliqualiter aequalitas, quod vtique amicitiae esse videtur: quanto tu es 
+      <lb ed="#L" n="32"/>melior me, &amp; vtilior mihi quam ego tibi, tanto magis debeo amare te quam tu amas 
+      <lb ed="#L" n="33"/>me. Sed nunquid hoc possum? Quantum quaeso amas me Domine? Nunquid 
+      exili<lb ed="#L" n="34" break="no"/>ter &amp; remisse, sicut exiliter &amp; remisse sum bonus? Absit hoc a te Domine summe 
+      bo<lb ed="#L" n="35" break="no"/>ne. Non enim esses summe bonus, nisi in qualibet bonitate quam habes esses 
+      sum<lb ed="#L" n="36" break="no"/>mus summe bonus, &amp; summe perfectus, sicut &amp; me superius docuisti. Non est ergo 
+      <lb ed="#L" n="37"/>amor tuus, quo amatorem &amp; amicum tuum, licet indignum, amas, exilis aut tenuis, frigidus 
+      <lb ed="#L" n="38"/>aut remissus, sed perfectissimus atque summus: Alias quoque bonitate amati &amp; amici tui 
+      <lb ed="#L" n="39"/>crescente posses amorem tuum intendere, in amore proficere &amp; mutari, cuius oppositum in 
+      <lb ed="#L" n="40"/>praecedentibus ostendisti quinto &amp; vicesimo tertio primi. Quomodo ergo tantum amabo 
+      <lb ed="#L" n="41"/>te, quantum tu amas me? Imo quomodo tantum plus amabo te, quam tu amas me, 
+      <lb ed="#L" n="42"/>quantum tu es melior me? An forte, quia debeo amare te infinite quodammodo 
+      quan<lb ed="#L" n="43" break="no"/>tum ad modum amandi, &amp; quantum ad actum amoris tam intensiue quam extensiue 
+      <lb ed="#L" n="44"/>modis praedictis, tu vero non sic amas me, quia non sum sic amandus? Debeo na 
+      m<lb ed="#L" n="45" break="no"/>que amare te finaliter propter te, &amp; omnia alia propter te, tu autem non amas me 
+      <lb ed="#L" n="46"/>propter me, nec caetera propter me, sed me &amp; alia propter te, sicut nec aliter // sunt 
+      <lb ed="#L" n="47"/>amanda. Debeo etiam amare te infinite quodammodo intensiue, supra videlicet 
+      quod<lb ed="#L" n="48" break="no"/>cunque bonum finitum, tu autem non sic amas me. Debeo quoque amare te, 
+      Domi<lb ed="#L" n="49" break="no"/>ne, summum bonum, infinite quodammodo extensiue, volendo scilicet potius 
+      quot<lb ed="#L" n="50" break="no"/>cunque &amp; quantacunque bona alia, etiam &amp; meipsum non esse quam te, vel quam te 
+      <lb ed="#L" n="51"/>semel offendere, tu vero non sic amas me, quia non debeo sic amari. Scio tamen 
+      <lb ed="#L" n="52"/>quod modo quodam ineffabili mihi // muto incomparabiliter magis amas tuos amicos, 
+      <lb ed="#L" n="53"/>quam ameris ab eis, sicut &amp; incomparabiliter melior es &amp; maior: Sic enim tuus amor omnis 
+      <lb ed="#L" n="54"/>creaturae amorem, sicut &amp; tua quaelibet bonitas omnis creaturae qualibet bonitatem transcendit 
+      <lb ed="#L" n="55"/>incomparabiliter infinite. O magne Domine, magnum bonum, qui imples coelum &amp; terram, 
+      <lb ed="#L" n="56"/>imo quem coelum, &amp; coeli coelorum non capiunt, sicut 2. &amp; 5. primi mihi pusillo ostendere 
+      <lb ed="#L" n="57"/>dignabaris/ Cur paruulam animam meam non reples? O anima, quam pusilla, tam misera, 
+      <!--661.xml-->
+      <pb ed="#A" n="628"/>
+               <lb ed="#L" n="1"/>quae // tanti boni amore plenissime non repleris; cur non omnia ostiola aperis? cur non 
+      om<lb ed="#L" n="2" break="no"/>nes sinus expandis? cur non omnem capacitatem extendis, vt tanti amoris dulcore tantilla 
+      <lb ed="#L" n="3"/>totaliter occuperis, totaliter satieris, &amp; totaliter deebrieris? praesertim cum tu quantum libet 
+      <lb ed="#L" n="4"/>paruula, minoris boni amore non valeas satiari, quod videtur mirabile; Sed adhuc 
+      mirabi<lb ed="#L" n="5" break="no"/>lior Deus meus; Dic ergo quaeso suppliciter, vt sic fiat amabilissime Deus meus, &amp; 
+      procul<lb ed="#L" n="6" break="no"/>dubio ita fiet. Quid etiam efficacius ad amorem, quam paeuenire amando? Tu autem 
+      <lb ed="#L" n="7"/>amantissime, vtinam, amatissime Domine, me miserum non amantem, sed inimicantem 
+      <lb ed="#L" n="8"/>praeuenisti amando, reconciliando, praeclarae charitatis iocalia magnifice largiendo, sicut ex 
+      <lb ed="#L" n="9"/>multis praemissorum ostendis. Quid insuper amabilius multipliciter misero, quam multiplex 
+      <lb ed="#L" n="10"/>misericordia, aut multiplicior misericordia, sine fine, numero, pondere, vel mensura? Tu 
+      <lb ed="#L" n="11"/>autem Domine, sicut ex primo primi ostendis, quia infinite &amp; summe bonus, ideo 
+      consequen<lb ed="#L" n="12" break="no"/>ter &amp; infinite &amp; summe misericors, ita quod nihil misericordius posset esse, aut etiam cogitari, 
+      <lb ed="#L" n="13"/>Tu misericordissime Domine, me ingratissimum seruum tuum, nedum debitum tibi 
+      serui<lb ed="#L" n="14" break="no"/>tium subtrahentem, sed multipliciter rebellantem, nequaquam a protectione tua piissima 
+      <lb ed="#L" n="15"/>seclusisti; sed a leonibus rugientibus, a daemonibus frendentibus, ne me deuoratum ad 
+      in<lb ed="#L" n="16" break="no"/>ferna detraherent, misericorditer defendisti; sicut ex 220. primi; &amp; 320. secundi &amp; alijs pie 
+      <lb ed="#L" n="17"/>doces; &amp; quod non computo pro minori a tot peccatis maioribus &amp; minoribus 
+      misericor<lb ed="#L" n="18" break="no"/>diter praeseruasti, quot alias potui incurrisse, sicut ex quarto huius ostendis. Quinimo &amp; 
+      <lb ed="#L" n="19"/>quod videtur misericordiae incomparabiliter amplioris, me nedum nihil boni merentem, sed 
+      <lb ed="#L" n="20"/>icelera sceleribus cumulando, te tante Domine tam multipliciter continue offendentem, tua 
+      <lb ed="#L" n="21"/>gratuita gratia misericorditer praeuenisti, omnes infirmitates meas sanasti, &amp; sanum iam 
+      fa<lb ed="#L" n="22" break="no"/>ctum, ad omnia sana &amp; sancta quae feci, de virtute in virtutem prouehens sublimasti, sanum 
+      <lb ed="#L" n="23"/>&amp; saluum ab omnibus inimicis, &amp; infirmitatibus animae, donec te superbe desererem, 
+      custodi<lb ed="#L" n="24" break="no"/>sti, sicut ex trigesimo quinto primi cum sequentibus, &amp; ex quinto huius cum trigesimo eius, &amp; 
+      <lb ed="#L" n="25"/>proximo reuelasti. Quin etiam &amp; si post gratiae tantae munus, post amicitiae tantae foedus, te 
+      <lb ed="#L" n="26"/>contumaciter deserens, quantumcunque ingratus efficiar &amp; indignus, quantumcunque te 
+      <lb ed="#L" n="27"/>Domine irrideam &amp; contemnam, ab inimicis defendis, a peccatis praeseruas, sicut 
+      supe<lb ed="#L" n="28" break="no"/>rius docuisti, &amp; quando misericordiae tuae placet, me nedum immeritum, verum &amp; 
+      ma<lb ed="#L" n="29" break="no"/>lis meritis deditum, gratia tua gratuita praeuenis &amp; reducis, nec de ignominijs 
+      retroa<lb ed="#L" n="30" break="no"/>ctis improperas, neque ad amicitiae tuae gradum inferiorem, sed ad aequalem vel 
+      excellen<lb ed="#L" n="31" break="no"/>tiorem restituis misericordissime Deus meus; sicque me diligenter custodis, foues, &amp; nutris, 
+      <lb ed="#L" n="32"/>protegis, &amp; prouehis continue ad maiora, donec fortassis iterato superbiens, te 
+      relin<lb ed="#L" n="33" break="no"/>quam, sicut per praehabita cum quadragesimo tertio primi doces, piissime Deus meus. 
+      <lb ed="#L" n="34"/>Sicque toties quoties a te recessero quantumcunque in regionem longinquam, etiam ad 
+      ex<lb ed="#L" n="35" break="no"/>tremum deserti, profundumue maris; Imo etsi ad portas inferi inferioris abiero, praesto 
+      <lb ed="#L" n="36"/>est tua misericordia miserum reductura: Alias enim esses misericordiae numerabilis &amp; 
+      fini<lb ed="#L" n="37" break="no"/>tae, cuius contrarium superius demonstrasti. Et super bona haec omnia memorata, 
+      bo<lb ed="#L" n="38" break="no"/>num consummatiuum, &amp; coronatiuum cunctorum, sine quo nec caetera proderunt, non 
+      <lb ed="#L" n="39"/>propter exigentiam meritorum, sed ex gratia tua gratuita, scilicet finalem 
+      perseueranti<lb ed="#L" n="40" break="no"/>am mihi donas, sicut per decimum quartum huius monstras; Et sic tandem vitam 
+      sempi<lb ed="#L" n="41" break="no"/>ternam, gloriam, &amp; teipsum. Misericordia enim miserationibusque coronas, &amp; gratia 
+      <lb ed="#L" n="42"/>tua vita aeterna. Tu meritorum nostrorum tibi placentium operator, remunerator, &amp; 
+      mer<lb ed="#L" n="43" break="no"/>ces; qui tamen si velles computare districte nobiscum, nihil boni penitus mereremur, sicut 
+      <lb ed="#L" n="44"/>a te didici trigesimo nono primi: Non est ergo volentis, nec currentis, sed tui, Domine, 
+      <lb ed="#L" n="45"/>superabundantissime miserentis. Vt autem non solum bona maiora, sed &amp; minora 
+      con<lb ed="#L" n="46" break="no"/>siderem, puta bona naturae &amp; fortunae, sicut vulgariter nuncupantur, bona interiora &amp; 
+      <lb ed="#L" n="47"/>exteriora: interiora, mentis &amp; corporis; mentis ingeniositatem, virtutes morales &amp;  
+      <lb ed="#L" n="48"/>intellectuales; corporis sanitatem, fortitudinem, pulchritudinem, virtutesque caeterasl 
+      <lb ed="#L" n="49"/>corporales: exteriora; nobilitatem, diuitias, victorias, famam, gloriam, &amp; honorem, &amp;  
+      <lb ed="#L" n="50"/>quaecunque sunt alia, infallibiliter video omnia bona ista esse gratuita dona tua; sicut per 
+      <lb ed="#L" n="51"/>vigesimum septimum primi, &amp; sequentia tua gratuita gratia me docebas. Sunt autem &amp; alia 
+      bo<lb ed="#L" n="52" break="no"/>na multa &amp; magna, quae pauci considerant, vel aduertunt; priuationes videlicet cunctorum 
+      <lb ed="#L" n="53"/>malorum, quae quis non habet? quod scilicet non es amens nec fatuus, non es leprosus nec 
+      <lb ed="#L" n="54"/>caecus, non es infamis in populo, nec opprobrium hominum, nec plebis abiectio &amp; 
+      deri<lb ed="#L" n="55" break="no"/>sus, non es in factis tuis clericus vel laicus deficiendo confusus, non es ignominiose 
+      deui<lb ed="#L" n="56" break="no"/>ctus, nec vili seruituti addictus, non es inedia maceratus, non es a latronibus spoliatus 
+      <lb ed="#L" n="57"/>nec mactatus, non es a bestia deuoratus, non es in mari submersus, non in patibulo es 
+      sus<lb ed="#L" n="58" break="no"/>pensus, nec aliqua turpiori &amp; acerbiori morte consumptus: Et a quo quaeso, Domine, haec 
+      <!--662.xml-->
+      <pb ed="#A" n="629"/>
+               <lb ed="#L" n="1"/> bona quampiurima, quia multitudine infinita; &amp; maxima, quia &amp; magnitudine infinita; 
+      <lb ed="#L" n="2"/>vel quasi inutili seruo tuo, nisi a te multiplicissime summe, &amp; infinitissime bone Deus, sicut ex 
+      <lb ed="#L" n="3"/>13. &amp; 22. primi, ac 32 huius benignus ostendere voluisti? Vnde &amp; quadam quaestiumcula animum 
+      <lb ed="#L" n="4"/>men pulsas; Nunquid vi2. magis tibi, bone Domine, tenear ad amorem pro bonis positiuis 
+      cre<lb ed="#L" n="5" break="no"/>atis, quae te donate accepi, an pro bonis priuatiuis praedictis, sc. exclusiuis malorum, quae etia 
+      <lb ed="#L" n="6"/>nisi te donate, non valeba accipere, nec habere, cum illa, sicut videtur, ta multitudine quam 
+      mag<lb ed="#L" n="7" break="no"/>nitudine sint finita, haec autem ta multitudine quam magnitudine infinita, vel saltem plura atque 
+      ma<lb ed="#L" n="8" break="no"/>iora? Sed quis me redarguet, si quaestiuncula istam bonam transiliens, te, Domine, summum bonum 
+      <lb ed="#L" n="9"/>quaeram, inueniam, ac teneam, nec dimittam? Scio enim, &amp; ista vice sufficiat mihi scire, quod 
+      <lb ed="#L" n="10"/>tam propter haec bona tua quam illa, amori tuo tenear multum valde, sed propter teipsum 
+      <lb ed="#L" n="11"/>summum bonum incomparabiliter amplius supra modum: Alia quoque quaestione me 
+      mo<lb ed="#L" n="12" break="no"/>ues; nunquid videlicet praeseruatus misericorditer a peccato, magis teneatur tuo amori, quam  
+      <lb ed="#L" n="13"/>sapsus &amp; resuscitatus misericorditer a peccato? Sed istam quaestionem ad praesens mihi 
+      simi<lb ed="#L" n="14" break="no"/>liter relinquenti, da vt faciem tuam queram, inueniam, &amp; videam iugiter atque fruar. His 
+      <lb ed="#L" n="15"/>ergo &amp;t huiusmodi quaestionibus nunc relictis, quis tam bonum Dominum, &amp; tanta beneficia 
+      <lb ed="#L" n="16"/>eius considerans, non totus dilectione succenditur, non totus deuotione suspenditur, non 
+      to<lb ed="#L" n="17" break="no"/>tus conuertitur in amorem? Sed video, Domine, quod facile est haec dicere, &amp; depingere in 
+      <lb ed="#L" n="18"/>membrana, difficile forsitan facere &amp; perficere in effectu. Tu ergo, optime, &amp; ideo 
+      poten<lb ed="#L" n="19" break="no"/>tissime Domine, cui nihil difficile, da quaeso vt facilius ista faciam corde meo, quam 
+      pofe<lb ed="#L" n="20" break="no"/>ram ore meo: Aperi, // supplico, munificentissimam manum tuam, &amp; praesta, vt nihil mihi 
+      fa<lb ed="#L" n="21" break="no"/>cilius, nihil dulcius, nihil delectabilius, quam ista effectuosissime &amp; affectuosissime 
+      adimple<lb ed="#L" n="22" break="no"/>re. Tu autem amantissime Domine, qui diligentes te diligis, &amp; praeuenis diligendo, atque 
+      in<lb ed="#L" n="23" break="no"/>comparabiliter magis nos amas, quam reamaris a nobis, quem tanti amoris charismate, 
+      tan<lb ed="#L" n="24" break="no"/>tae amicitiae foedere non erigis ad sperandum in te? ad confidendum de te? imo ad 
+      superspe<lb ed="#L" n="25" break="no"/>randum &amp; fiducialiter praesumendum? Tu siquidem Domine tam infinite bonus &amp; miseri¬ 
+      <lb ed="#L" n="26"/>cors es, quod nihil melius aut misericordius possit esse, aut etiam cogitari, sicut superius 
+      mise<lb ed="#L" n="27" break="no"/>ricorditer ostendisti; &amp; quantum es bonus &amp; misericors, tantum pius &amp; clemens, diues &amp; 
+      po<lb ed="#L" n="28" break="no"/>tens, magnificus, liberalis, &amp; virtutibus omnibus gratiosus; sicut ex illa prima praetiosissima 
+      <lb ed="#L" n="29"/>&amp; verissima suppositione tua verissime manifestas. Quid ergo negare poteris amico tuo 
+      egen<lb ed="#L" n="30" break="no"/>ti, auxilium tuum suppliciter mendicanti? Permitte me, quaeso, iam super speratione 
+      concep<lb ed="#L" n="31" break="no"/>ta paulisper praesumere, &amp; cum tua bonitate magnifica disputare, vt sic altius adhuc sperem, 
+      <lb ed="#L" n="32"/>ampliusque confidam. Non est, inquam, humanae amicitiae, amicum egentem, mendicantem, 
+      <lb ed="#L" n="33"/>&amp; erubescentem repellere, &amp; confundere faciem eius magis, praesertim si facultas affuerit 
+      co<lb ed="#L" n="34" break="no"/>piosa; quanto magis tam horribile vitium a tua amicitia longe abest? Ostendisti quoque 
+      mi<lb ed="#L" n="35" break="no"/>hi superius, me non posse quicquam boni cogitare vel petere, nisi re operante, &amp; 
+      anteceden<lb ed="#L" n="36" break="no"/>ter operante hoc in me: qui ergo plantas initium, da medium, dona finem: qui facis me 
+      pe<lb ed="#L" n="37" break="no"/>tere, fac consequi, &amp; tenere: qui das non petentibus multa bona, quomodo petentibus 
+      ni<lb ed="#L" n="38" break="no"/>hil dabis? Qui inimicos tuos, etiam daemones impie petentes exaudis, quomodo amicos tuos 
+      <lb ed="#L" n="39"/>&amp; filios pie petentes repellis? Nec potes qualemcunque inopiam allegare, sicut praedicta 
+      sup<lb ed="#L" n="40" break="no"/>positio clare docet. Obiicis forsan mihi, quod non mereor adiuuari. O liberalissime 
+      Do<lb ed="#L" n="41" break="no"/>mine, si nullum adiuueris, nisi adiuuari meruerit, non das adiutorium tuum gratis, sed 
+      <lb ed="#L" n="42"/>vendis: quae ergo laus tua? Vbi est liberalitas tua magna? Adhuc forsan replicas, quod non  
+      <lb ed="#L" n="43"/>solum non mereor, sed demereor abundanter. O misericors Domine, abundantior est 
+      mife<lb ed="#L" n="44" break="no"/>ricordia tua magna. Totum namque meum peccatum, etiam omnium hominum est finitum; 
+      <lb ed="#L" n="45"/>posset enim augeri: tua autem misericordia infinita, quae augeri non potest. Nonne etiam 
+      <lb ed="#L" n="46"/>misericordius atque liberalius est benefacere inimico egenti, &amp; alias perituro, inimicanti 
+      con<lb ed="#L" n="47" break="no"/>tinue, quam amico bene merenti? Quid misericordius aut liberalius, quam nullo modo 
+      prae<lb ed="#L" n="48" break="no"/>uentus inimicum inimicantem continue ad amicitiam gratis conuertere, omnem inimicitiam  
+      <lb ed="#L" n="49"/>&amp; iniutiam gratis remittere, &amp; gratis ei conferre beneficia copiosa? Tua autem misericordia 
+      <lb ed="#L" n="50"/>&amp; liberalitas est tam magna, quod maior esse non posset, nec etiam cogitari. Et quid 
+      propor<lb ed="#L" n="51" break="no"/>tionalius &amp; congruentius tantae misericordiae, liberalitatique tantae, quam tanta miseriam gratuito 
+      <lb ed="#L" n="52"/>foelicitare, &amp; tanta egestatem gratis ditare; vel siquid misericordius &amp; liberalius inuenitur, quis 
+      <lb ed="#L" n="53"/>alius autor eius putabitur, quam tu misericordissime &amp; liberalissime Deus meus? Qui ergo das 
+      <lb ed="#L" n="54"/>maius, quomodo minus negabis? Si autem adhuc mihi opponas quantacunque meam miseriam; 
+      <lb ed="#L" n="55"/>fateor, &amp; ideo confideter accedo ad tuam misericordiam sine coparatione maiore. Vbi namque 
+      <lb ed="#L" n="56"/>mnnstratur tua misericordia, nisi in reuelata miseria? Et vbi tua magna misericordia, nisi in 
+      <lb ed="#L" n="57"/>magna miseria reuelata? Nonne etiam, Domine, ostendisti mihi superius, vbi ad amore tuum 
+      <lb ed="#L" n="58"/>me paululum excitasti, quod gratia tua gratuita gratis praeuenis peccatores, ingratos gratis gra¬ 
+      <!--663.xml-->
+      <pb ed="#A" n="630"/>
+               <lb ed="#L" n="1"/>tificas, &amp; gratificatos gratis conseruas? Quis ergo peccator in te, Domine, non sperabit? 
+      <lb ed="#L" n="2"/>Scio tamen, Domine, scio, &amp; non sine dolore scio, aut refero, quod istis nequaquam 
+      obstan<lb ed="#L" n="3" break="no"/>tibus, sunt quidam, puta Pelagiani superbi, qui mallent sperare in hominibus, scilicet in 
+      seip<lb ed="#L" n="4" break="no"/>sis: Dicunt enim, Si Deus nos &amp; opera nostra gratis praedestinat, &amp; sicut voluerit 
+      admini<lb ed="#L" n="5" break="no"/>strat; ita quod nihil sine eo operante &amp; // praeparante possimus; potest &amp; nos similiter 
+      reproba<lb ed="#L" n="6" break="no"/>re, opera bona non dare, vel data auferre; in mala opera praecipitare, &amp; praecipitatos ligare: 
+      <lb ed="#L" n="7"/>Quis ergo potest esse securus? quis certe sperabit, &amp; non potius desperacit? Sed si 
+      praedesti<lb ed="#L" n="8" break="no"/>natio &amp; reprobatio ex nostro penderet arbitrio, &amp; nos soli essemus liberi Domini nostrorum 
+      <lb ed="#L" n="9"/>actuum sine Deo, possemus esse securi, bene esset nobis, tunc tute possemus confidere &amp; 
+      spe<lb ed="#L" n="10" break="no"/>rare. O vani filij hominum, mendaces filij hominum, in stateris fallaciter ponderantesI 
+      <lb ed="#L" n="11"/>quare non vultis sperare in illo qui est summe bonus, summe misericors, summe propitius, 
+      <lb ed="#L" n="12"/>&amp; in charismatibus omnibus gratiarum inaestimabiliter copiosus, sed in // vobis ipsis 
+      multipli<lb ed="#L" n="13" break="no"/>citer miseris &amp; malignis, in bonisque omnibus defectiuis? quare non vultis sperare in eius 
+      fae<lb ed="#L" n="14" break="no"/>lici regimine, qui errare non potest, sed in vobis ipsis, qui sicut ouis quae perijt, sepius 
+      aber<lb ed="#L" n="15" break="no"/>ratis? quare non vultis sperare in eius potenti iuuamine, cuius potentie non est finis, quem  
+      <lb ed="#L" n="16"/>vincere nihil potest, cui resistere nihil potest, sed in vobis ipsis fragilibus, &amp; infirmis, &amp; quasi 
+      <lb ed="#L" n="17"/>nihilum &amp; inane? Caueatis quaeso, maledictionem prophericam, imo maledictionem 
+      do<lb ed="#L" n="18" break="no"/>minicam per Prop hetam: Haec enim dicit Dominus; Maledictus homo qui confidit in 
+      ho<lb ed="#L" n="19" break="no"/>mine, &amp; ponit carnem brachium suum, &amp; a Domino recedit coreius, Ierem. 17. Aduertatis 
+      <lb ed="#L" n="20"/>etiam, supplico, quid vnus sperans in Domino, nec fraudatus in materia ista, dicat, Ego, 
+      in<lb ed="#L" n="21" break="no"/>quit, nolo exaggerate verbis meis, sed in illis potius cogitandum relinquo vt videant quale 
+      <lb ed="#L" n="22"/>sit quod sibi persuaserunt, praedicatione praedestinationis plus desperationis audientibus 
+      <lb ed="#L" n="23"/>quam exhortationis afferri; hoc est dicere, tunc de sua salute hominem desperare, quando 
+      <lb ed="#L" n="24"/>spem suam non in seipso sed in Deo didicerit ponere; cum Propheta clamet, Maledictus 
+      <lb ed="#L" n="25"/>homo qui spem habet in homine. Augustinus de bono perseuerantiae quinquagesimo 
+      se<lb ed="#L" n="26" break="no"/>cundo. Et infra 64. agens contra eos qui dicunt praedicationem de praedestinatione facere 
+      <lb ed="#L" n="27"/>homines desperate; Absit, inquit, a vobis, ideo desperate de vobis, quoniam spem vestram 
+      <lb ed="#L" n="28"/>in ipso habere iubemini, non in vobis: Maledictus enim omnis qui spem habet in homine, 
+      <lb ed="#L" n="29"/>quia beati omnes qui confidunt in eo. Et 65. Cur metuimus sanctorum praedestinationem 
+      <lb ed="#L" n="30"/>&amp; veram Dei gratiam, id est, quae non secundum merita nostra datur, sicut etiam sancta 
+      Scrip<lb ed="#L" n="31" break="no"/>tura, praedicare? An vero timendum est, ne tunc de se homo desperet, quando spes eius 
+      po<lb ed="#L" n="32" break="no"/>nenda demonstatur in Deo? non autem desperaret, si eam in seipso superbissimus &amp; 
+      infidelis<lb ed="#L" n="33" break="no"/>simus poneret. Et 69. Sicut caetera praedicanda sunt, vt qui ea praedicat obedienter audiatur: 
+      <lb ed="#L" n="34"/>Ita praedestiuatio praedicanda est, vt qui obedienter hoc audit, non in homine, ac per hoc nec 
+      <lb ed="#L" n="35"/>in seipso, sed in Domino glorietur, quia &amp; hoc praeceptum Dei est, &amp; hoc praeceptum 
+      obedi<lb ed="#L" n="36" break="no"/>enter audire, vt qui gloriatur, in Domino glorietur, similiter vt caetera, Dei donum est: quod I 
+      <lb ed="#L" n="37"/>donum qui non habet non dubito dicere, alia quaecunque habet, inaniter habet. Haec 
+      Pela<lb ed="#L" n="38" break="no"/>giani optamus vt habeant. Idem de praedestinatione Sanctorum 13. Cum Apostolus dicat,  
+      <lb ed="#L" n="39"/>Ideo ex fide, vt secundum gratiam firma sit promissio, miror homines infirmitati suae se 
+      mal<lb ed="#L" n="40" break="no"/>le committere, quam firmitati promissionis Dei. Sed incerta est mihi, inquis, de meipso 
+      vo<lb ed="#L" n="41" break="no"/>luntas Dei. Quid ergo? tua ne tibi voluntas de teipso certa est? Non times? Qui videtur 
+      sta<lb ed="#L" n="42" break="no"/>re, videat ne cadat; cum igitur vtraque incerta sit, cur non homo firmiori potius quam 
+      in<lb ed="#L" n="43" break="no"/>firmiori fidem suam, spem &amp; charitatem committit? Qui &amp; 2. contra Iulianum 17. agens 
+      <lb ed="#L" n="44"/>contra Pelagianos dicentes homines prouocari ad virtutem, cum praedicatur eis se posse 
+      vir<lb ed="#L" n="45" break="no"/>ture propria facere facta sua, sed cum praedicatur eis se nihil posse facere sine misericordia 
+      <lb ed="#L" n="46"/>Dei, auxilio eius &amp; gratia, desperatione deijci atque frangi, sic ait; Quantum sancti de 
+      mise<lb ed="#L" n="47" break="no"/>ricordia Dei, quae magna est, tantum vos de vestra, quae nulla est, virtute praesumitis: &amp; 
+      quan<lb ed="#L" n="48" break="no"/>tum ipsi aduersus ingenerata vitia bella gerunt adiuti per Dei gratiam, tantum vos bellum 
+      ge<lb ed="#L" n="49" break="no"/>ritis aduersus ipsam Dei gratiam: sed itane in corde vestro dicere audetis, quod cum vos 
+      au<lb ed="#L" n="50" break="no"/>diunt, accenduntur homines ad virtutem, cum autem istos audiunt tantos ac tales viros, 
+      Cy<lb ed="#L" n="51" break="no"/>prianum, Hilarium, Gregorium, Ambrosium, caeterosque Domini sacerdotes, desperatione 
+      <lb ed="#L" n="52"/>franguntur, ac renuntiant studijs perfectionis? Haeccine monstra cogitationum ascendunt in 
+      <lb ed="#L" n="53"/>in cor vestrum, &amp; non elidunt frontem vestram? Vos etiam Pelagiani qui videmini vobis 
+      <lb ed="#L" n="54"/>subtiles, quomodo non videtis, si per argutiam vestram praemissam praedestinatio, &amp; 
+      coope<lb ed="#L" n="55" break="no"/>ratio Dei tollatur, etiam eius praescientiam similiter posse tolli? aut si haec non vollatur, nec 
+      <lb ed="#L" n="56"/>illa? Speretis vos, vt vultis; sed vtinam Lsperetis / in Domino; mihi autem adhaerere Deo 
+      <lb ed="#L" n="57"/>bonum est, ponere in Domino Deo spem meam: Psalmo 72. Benedictus enim vir qui 
+      con<lb ed="#L" n="58" break="no"/>fidit in Domino, &amp; erit Dominus fiducia eius, Ierem. 17. Quare &amp; Augustinus super Psal¬ 
+      <!--664.xml-->
+      <pb ed="#A" n="631"/>
+               <lb ed="#L" n="1"/>mum 7oun tractatu primo, Tota, inquit, spes nostra in Deo sit, nihilque de bonis tanquam  
+      <lb ed="#L" n="2"/>de nostris viribus praesumamus, ne nostrum facientes quod ab illo est, &amp; quod accepimus 
+      a<lb ed="#L" n="3" break="no"/>mittamus: quibus &amp; tota Scriptura sacra concordat, cum omnibus tractatoribus eius sacris, 
+      <lb ed="#L" n="4"/>sicut &amp; tricesimum secundum primi, de timore, amore atque spe licet breuiter suadebat. Et  
+      <lb ed="#L" n="5"/>quis perfecte confidens in tali tantoque Domino, sine cuius voluntate semper optima, 
+      sapi<lb ed="#L" n="6" break="no"/>entissima, iustissima, &amp; misericordissima, nec vnquam ertante, nihil aduersi potest accidere, 
+      <lb ed="#L" n="7"/>non ad perfectam patientiam in aduersis omnibus confortetur, sicut tricesimo secundo primi 
+      <lb ed="#L" n="8"/>breuiter tangebatur? Quis etiam diligens plene Deum, &amp; proximum, aduertens quod 
+      dili<lb ed="#L" n="9" break="no"/>gentibus Deum omnia cooperantur in bonum, &amp; quod Deus omnia ordinat propter electos 
+      <lb ed="#L" n="10"/>&amp; propter seipsum, sicut ex 39. &amp; 32. &amp; alijs primi patet, aduersa quaecunque non 
+      aequanimi<lb ed="#L" n="11" break="no"/>ter tolerabit, imo &amp; gaudenter atque hilariter sustinebit, ac vehementer sitiet aduersariam  
+      <lb ed="#L" n="12"/>passionem, sicut de Apostolis legitur, &amp; alijs sanctis multis? Quis insuper peccator, vel alius, 
+      <lb ed="#L" n="13"/>si quis tamen alium se praesumat confidens in Deo iustissimo &amp; piissimo; quod omnis 
+      aduersi<lb ed="#L" n="14" break="no"/>tas //immittitur ab eo, vel ad punitionem peccati, vt si sufficiat, statim post vitam praesentem 
+      <lb ed="#L" n="15"/>aduolet ad aeternam, vel si minus sufficiat, saltem proportionaliter minus, vel forsan 
+      incom<lb ed="#L" n="16" break="no"/>parabiliter quasi minus in Purgatorio puniatur, praesertim si consideret, quod secundum 
+      prae<lb ed="#L" n="17" break="no"/>missa tricesimo nono primi, quaecunque aduersitas siue poena immissa ei a Deo sit minor 
+      quo<lb ed="#L" n="18" break="no"/>dammodo infinite, quam peccatum eius requirat, si cum eo remota misericordiam ageretur, vel 
+      <lb ed="#L" n="19"/>ad materiam, &amp; cumulum meriti dum sustinet patienter? Quis enim coronabitur gloria, nisi 
+      <lb ed="#L" n="20"/>gloriose certauerit? Et quis gloriose certabit, vbi defuerit concertator? Affert ergo Deus 
+      ho<lb ed="#L" n="21" break="no"/>mini aduersarium certatorem, vt habeat cum quo certare legitime, sicque victoriosi 
+      certami<lb ed="#L" n="22" break="no"/>nis merito coronetur, sicut ex tricesimo primo &amp; tricesimo secundo primi apparet, praesertim 
+      <lb ed="#L" n="23"/>si secundum praemissa tricesimo nono primi aduertat, quod Passiones huius temporis &amp; me 
+      <lb ed="#L" n="24"/>rita patientiae quantacunque non sunt condigna, imo quasi nihilum &amp; inane ad futuram 
+      mer<lb ed="#L" n="25" break="no"/>cedem &amp; gloriam pro istis liberaliter compensandam, vel tam ad punitionem peccati, quam  
+      <lb ed="#L" n="26"/>etiam ad augmentum meriti sui non minus, sicut ex tricesimo nono, &amp; quadragesimo tertio 
+      <lb ed="#L" n="27"/>primi patet? Quis, inquam, sic confidens in Deo, non patientissime, libentissime, &amp; 
+      gauden<lb ed="#L" n="28" break="no"/>tissime aduersa omnia sustinebit? Amplius autem quis ista debite ponderans, inimicos &amp; 
+      ini<lb ed="#L" n="29" break="no"/>micitias exercentes non solum non odiet, sed diliget? Non solum non maledicet, sed e 
+      con<lb ed="#L" n="30" break="no"/>trario benedicet? Non selum non respuet, sed amplexando suscipiet, sicut Dei ministros &amp; 
+      <lb ed="#L" n="31"/>suos beneficos adiutores? Praestat enim Deus per ipsos, ipsique praestant materiam, quae 
+      de<lb ed="#L" n="32" break="no"/>fuit, exercendae virtutis gloriosissimi meriti &amp; praemij consequendi. Quare &amp; Senacherib 
+      <lb ed="#L" n="33"/>vastator Israelitici populi, vocatur virga, &amp; baculus, securis, &amp; serra in manu Dei: &amp; 
+      Nabu<lb ed="#L" n="34" break="no"/>chodonosor depopulator eiusdem saeuissimus, seruus Dei, sicut ex tricesimo secundo primi 
+      <lb ed="#L" n="35"/>apparet. Quapropter &amp; Abishai volenti occidisse Shimaei maledicentem Dauidi, &amp; 
+      mitten<lb ed="#L" n="36" break="no"/>tem lapides contra eum, sanctus Dauid respondit, Dimitte eum, vt maledicat iuxta 
+      praecep<lb ed="#L" n="37" break="no"/>tum Domini: Dominus enim praecepit ei vt malediceret Dauidi; &amp; quis est qui audet dicere, 
+      <lb ed="#L" n="38"/>quare sic fecerit? Dimitte eum, vt maledicat iuxta praeceptum Domini, si forte respiciat 
+      Do<lb ed="#L" n="39" break="no"/>minus afflictionem, &amp; reddat mihi bonum pro maledictione hac hodierna, 2. Reg. 16. 
+      Bea<lb ed="#L" n="40" break="no"/>tus quoque Gregorius homilia 35. super Euangelia, tractans illud Lucae 2I. In patientia 
+      ve<lb ed="#L" n="41" break="no"/>stra possidebitis animas vestras, refert quod quidam Stephanus Pater cuiusdam monasterij, 
+      <lb ed="#L" n="42"/>valde fanctus, patientiae virtute singularis, in quo virtus patientiae ita vehementer excreuerat, 
+      <lb ed="#L" n="43"/>vt eum sibi amicum crederet, qui sibi molestiae aliquid irrogasset, reddat contumelijs gratias, 
+      <lb ed="#L" n="44"/>&amp; si quid in ipsa sua inopia ei damnum fuisset illatum, hoc maximum lucrum putabat. Et  
+      <lb ed="#L" n="45"/>quis tanta patientia praeditus humilitate carebit? Quis etiam discrete considerans, quod nihil 
+      <lb ed="#L" n="46"/>boni penitus per se potest sine Deo illud specialiter operante, nec adhuc cum Deo 
+      anteceden<lb ed="#L" n="47" break="no"/>ter sed subseruienter, velut in manuartificis instrumentum, &amp; hoc tam in consensu libero vt 
+      <lb ed="#L" n="48"/>sub &amp; cum tali artifice operetur, quam in alijs eius motibus &amp; quietibus vniuersis, vt 20. 30. 
+      <lb ed="#L" n="49"/>&amp; 32. huius ostendunt, non ad humilitatem infimam faciliter inclinetur, sicut vicesimo tertio 
+      <lb ed="#L" n="50"/>&amp; tricesimo huius patet? Quare duorum vasorum aequalium aut inaequalium quantum voles 
+      <lb ed="#L" n="51"/>in nobilitate materiae suae &amp; formae, si in vnum liquor pretiosissimus infundatur, altero vacuo 
+      <lb ed="#L" n="52"/>romanente, istud superbiat, &amp; super aliud inaniter se extollat? Eadem &amp; non irrationabili 
+      ra<lb ed="#L" n="53" break="no"/>tione etiam vas ignobilius quantumcunque liquorem talem recipiens, simili modo posseta 
+      <lb ed="#L" n="54"/>nobilius autem vas, si liquor huiusmodi in ipsum speciali er infundatur, posset forsitan 
+      super<lb ed="#L" n="55" break="no"/>bite credendo ipsum propter sui nobilitatem ad tale officium preassumi. Sed nonne in vas 
+      <lb ed="#L" n="56"/>vilius posset iste liquor infundi? Cur etiam de nobilitate tua, tu vas nobile inaniter gloriaris? 
+      <lb ed="#L" n="57"/>Vnde tibi tua nobilitas? Non a te; constat. Nonne potuit Plastes tuus ad vsum vilissimum 
+      <lb ed="#L" n="58"/>te plasmasse? Duarum quoque tubarum aequalium vel inaequalium modo dicto, si nobilis tu¬ 
+      <!--665.xml-->
+      <pb ed="#A" n="632"/>
+               <lb ed="#L" n="1"/>bicen vna canat solenniter, altera muta manente, cur ista superbiat &amp; super aliam se extollat. A 
+      <lb ed="#L" n="2"/>pensatis causis praemissis? Duorum insuper calamorum, seu duarum pennarum aequalium vel 
+      <lb ed="#L" n="3"/>inaequalium quantumlibet modis praedictis, si scriptor subtilis vno vel vna scribat subtiliter. 
+      <lb ed="#L" n="4"/>altero seu altera quiescente, quae superbiendi materia, &amp; inaniter gloriandi, omnibus vt 
+      <lb ed="#L" n="5"/>praemittitur debite ponderatis? Veraciter sic videtur mihi adhuc misero peccatori, Si 
+      De<lb ed="#L" n="6" break="no"/>us dignetur infundere aliquem habitum seu actum mihi ignobili vasi suo prae quibusdam 
+      <lb ed="#L" n="7"/>alijs mihi aequalibus aut inferioribus, si qui sunt tales, vel superioribus (frequenter enim 
+      <lb ed="#L" n="8"/>contingit quod valis inferioribus, &amp; simplicioribus plus infunditur de liquore) Similiter 
+      e<lb ed="#L" n="9" break="no"/>tiam sentio, si cor meum eructet aliquod verbum bonum, imo non cor meum, sed si 
+      spi<lb ed="#L" n="10" break="no"/>ritus Patris nostri per me organum suum loquatur aliquod verbum bonum; aut si summus 
+      <lb ed="#L" n="11"/>scriba digito dextrae suae per me calamum suum aliquod verum scribat. Quis etiam non 
+      hu<lb ed="#L" n="12" break="no"/>milime &amp; abiectissime sentiat de se ipso, si prudenter aduertat, quam pauper &amp; miserabilis 
+      <lb ed="#L" n="13"/>fuerit ex seipso, &amp; quod praecipua bona, quae habet, non ex praecedentibus suis meritis habet,  
+      <lb ed="#L" n="14"/>sed ex gratuito dono Dei, quod etiam nec bona sua iam habita, imo nec minimum bonum suum 
+      <lb ed="#L" n="15"/>sufficit conseruare, sed Deus continue ea seruat; quod etiam nullum malum animae vel 
+      corpo<lb ed="#L" n="16" break="no"/>ris intrinsecum vel extrinsecum potest per se vitare, sed per Dei auxilium speciale? Quam ergo 
+      <lb ed="#L" n="17"/>miserabilis, faetidus &amp; abiectus fuisset omnibus miserijs &amp; fetoribus mentis &amp; corporis, 
+      inte<lb ed="#L" n="18" break="no"/>rius &amp; exterius totus plenus, nisi Deus eum misericorditer praeseruasset, sicut praemissa 
+      testan<lb ed="#L" n="19" break="no"/>tur, quae alliciunt ad amorem? Quare &amp; quidam multum // humilis // humiliter multum scribit, 
+      <lb ed="#L" n="20"/>Felix est cui ostendit Deus misericordiam suam; ipse est qui superbire non potest, cui Deus 
+      o<lb ed="#L" n="21" break="no"/>stendit misericordiam suam; Ostendendo enim illi misericordiam suam, persuadet illi, quia 
+      <lb ed="#L" n="22"/>quicquid boni habet ipse homo, non habet nisi ab illo, qui omne bonum nostrum est; &amp; cum 
+      vide<lb ed="#L" n="23" break="no"/>rit quicquid boni habet non se habere a se, sed a Deo suo; videt quia totum, quod in illo 
+      lauda<lb ed="#L" n="24" break="no"/>tur, de misericordia Dei est, non de meritis ipsius, &amp; videndo ista non superbit, non 
+      super<lb ed="#L" n="25" break="no"/>biendo non extollitur, non se extollendo non cadit, non cadendo stat, stando inhaeret, 
+      in<lb ed="#L" n="26" break="no"/>haerendo manet, manendo perfruitur, &amp; laetatur in Domino Deo suo: erunt illi delicie ipsae, 
+      <lb ed="#L" n="27"/>qui fecit eum, &amp; delicias ipsas nemo corrumpit, nemo interpolat, nemo aufert. Quis 
+      e<lb ed="#L" n="28" break="no"/>tiam ista humilitate infima radicatus, vere perpendens se nihil boni a se habere, aut per se 
+      <lb ed="#L" n="29"/>posse  perquirere, vel acquisitum seruare, nec vllum malum vitare, nequaquam deuota &amp;  
+      <lb ed="#L" n="30"/>continua orationis instantia ad illum se semper conuertit, qui supra mensuram est diues &amp; 
+      <lb ed="#L" n="31"/>potens, &amp; liberali, &amp; clemens, sicut testantur praemissa ad amorem &amp; confidentiam 
+      inducti<lb ed="#L" n="32" break="no"/>ua, instantissime deprecando vt noxia cuncta submoueat, &amp; omnia profutura concedat? 
+      <lb ed="#L" n="33"/>Quis non vijs &amp; modis omnibus eius promerebitur voluntatem? Sed licet Pater infinite 
+      mag<lb ed="#L" n="34" break="no"/>nificus, &amp; super effluentissime liberalis, nolit vendere, sed dare liberalissime suis filijs 
+      da<lb ed="#L" n="35" break="no"/>ta bona; non vult tamen eos torpere ignauia, acediaue marcere, verum per preces &amp; 
+      <lb ed="#L" n="36"/>alia merita probitatis pertingere strenue ad coronam, sicut patet ex vigesimo tertio, &amp; I 
+      <lb ed="#L" n="37"/>trigesimo nono primi. Dominum autem dare coronam militibus sus dignificatis per 
+      prae<lb ed="#L" n="38" break="no"/>ces, &amp; alia merita probitatis est multum liberalius, quam ipsos indignos sine meritis 
+      <lb ed="#L" n="39"/>coronate; Nonne liberalius est dare multiplicia dona quam simpla? quibusdam autem 
+      <lb ed="#L" n="40"/>filijs suis dat quasi vnicum, simplex munus, paruulis scilicet baptizatis glotiam 
+      sem<lb ed="#L" n="41" break="no"/>piternam: Quibusdam vero, quos voluit spectabiliori dare honori &amp; gloriosiori 
+      coro<lb ed="#L" n="42" break="no"/>nae, alia munera praeuia liberaliter destinauit; accinxit eos liberaliter cingulo militari, 
+      <lb ed="#L" n="43"/>dedit eis liberaliter certamina fortia, gloriosas victorias, &amp; quam multiplicia opera 
+      pro<lb ed="#L" n="44" break="no"/>bitatis, quibus nec minus liberaliter adhuc dedit vt ipsummet insuper in bello patronum 
+      <lb ed="#L" n="45"/>haberent, a quo omnia alia habuerunt, eiusque nomen, quod est omnipotens, 
+      con<lb ed="#L" n="46" break="no"/>tinue acclamarent, saltem in corde &amp; opportunis temporibus ore fiducialiter resonarent: 
+      <lb ed="#L" n="47"/>Turris enim fortissima nomen Domini, ad ipsam currit iustus deuotius inuocando, &amp; 
+      exal<lb ed="#L" n="48" break="no"/>tabitur triumphado: Et quis ignorat omnes praeces &amp; merita vniuersa esse specialia dona Dei, 
+      <lb ed="#L" n="49"/>sicut quamplura loca primi &amp; secundi lucide manifestant? Quare &amp; Dominus ipse dicit, 
+      Es<lb ed="#L" n="50" break="no"/>fundam super domum Dauid, &amp; super habitatores Ierusalem spiritum gratiae, &amp; praecum Zache 12. 
+      <lb ed="#L" n="51"/>haec autem omnia Deus dat suis, non propter sui vtilitatem aliquam, sed ipsorum. Nonne 
+      <lb ed="#L" n="52"/>ergo maior liberalitas hic quam ibi, praesertim cum Dominus non det coronam vitae suis 
+      mi<lb ed="#L" n="53" break="no"/>litibus propter merita eorum priora, tanquam propter aliquam vtilitatem sibi allatam, aut  
+      <lb ed="#L" n="54"/>propter aliquam causam antecedenter mouentem voluntatem ipsius, sed merita propter 
+      <lb ed="#L" n="55"/>coronam, &amp; tam merita quam coronam secundum suam liberalissimam &amp; gratuitam 
+      vo<lb ed="#L" n="56" break="no"/>luntatem, sicut patet ex 35. &amp; 39. primi? Et quis tot &amp; tanta, ac tam grata beneficia 
+      posi<lb ed="#L" n="57" break="no"/>tiua &amp; priuatiua grate considerans, non facile prouocatur, imo non quadam grata &amp; spon 
+      <lb ed="#L" n="58"/>tanea violentia, gratis trahitur &amp; vrgetur ad gratias omnimodas rependendas, &amp; gratiaru 
+      <!--666.xml-->
+      <pb ed="#A" n="633"/>
+               <lb ed="#L" n="1"/>gratissimas actiones ad semper Deo gratias decantandum? Quicquid enim boni habemus aut  
+      <lb ed="#L" n="2"/>possumus, quicquid mali non habemus, nec facimus, totum est gratuitum donum tuum, 
+      gratissi<lb ed="#L" n="3" break="no"/>ma gratia, &amp; Autor gratiae Deus meus. Quinimo &amp; quia tibi magno haec parua videntur, 
+      insu<lb ed="#L" n="4" break="no"/>per &amp; teipsum das nobis: Dedisti enim te nobis nondum existentibus prouifore, 
+      praedestina<lb ed="#L" n="5" break="no"/>torem, electorem, &amp; tandem factorem: Das quoque te nobis iam perte existentibus 
+      continu<lb ed="#L" n="6" break="no"/>issimum seruatorem, magnificentissimum promotorem, promptissimum adiutorem, &amp; 
+      piissi<lb ed="#L" n="7" break="no"/>mum in omnibus protectorem. Quid ergo retribuam Domino pro omnibus, quae retribuit 
+      <lb ed="#L" n="8"/>mihi gratis? quas gratias referam tot &amp; tantarum gratiarum gratuito largitori? Retributio 
+      <lb ed="#L" n="9"/>namque grata aliquid proportionale requirit, sicut tam per rationem naturalem, quam pe 
+      <lb ed="#L" n="10"/>morales Philosophos tu Domine gratis doces; quid ergo bonis tuis de bonis meis tibi retribua, 
+      <lb ed="#L" n="11"/>cum nihil boni habeam, habereue valeam, nisi de gratuito dono tuo? nec etiam sic das mihi 
+      a<lb ed="#L" n="12" break="no"/>lia dona tua, vt ita sint mea, quod desinant esse tua; Ego namque totus magis sum tuus, quam  
+      <lb ed="#L" n="13"/>meus; imo sum tuus, non meus; &amp; omnia mea magis sunt tua quam mea, imo sunt tua non 
+      mea<lb ed="#L" n="14" break="no"/>Quid ergo tibi retribuam, Deus meus? imo Domine, pro bonis tuis, tibi retribuam bona tua, 
+      <lb ed="#L" n="15"/>&amp; idem bonum quodammodo pro seipso. Quare &amp; quidem filius tuus gratus gratiae tuae 
+      mu<lb ed="#L" n="16" break="no"/>neribus sublimatus gratias referens grate dicit, Benedictus es Dominus Deus Israel Patris 
+      no<lb ed="#L" n="17" break="no"/>stri ab aeterno in aeternum; Tua est Domine magnificentia &amp; potestas, &amp; gloria, atque victoria, 
+      <lb ed="#L" n="18"/>&amp; tibi laus: Cuncta enim quae in coelo sunt, &amp; in terra, tua sunt. Tuum Domine regnum, &amp; tu 
+      <lb ed="#L" n="19"/>es super omnes Principes: Tuae diuitiae, &amp; tua est gloria, tu dominatis omnium; in manu tua 
+      <lb ed="#L" n="20"/>virtus &amp; potentia; in manu tua magnitudo &amp; imperium omnium: Nunc igitur Deus noster 
+      <lb ed="#L" n="21"/>confitemur tibi, &amp; laudamus nomen tuum inclytum. Quis ego, &amp; quis populus meus, vt 
+      pos<lb ed="#L" n="22" break="no"/>simus tibi haec vniuersa promittere? tua sunt omnia, &amp; quae de manu tua accepimus, dedimus 
+      <lb ed="#L" n="23"/>tibi. Tu enim, Domine Deus meus, qui bonorum nostrorum non eges, nequaquam sic 
+      retri<lb ed="#L" n="24" break="no"/>butionem requiris vt ditior inde fias, sed vt per eandem retributionem nos efficias ditiores, &amp;  
+      <lb ed="#L" n="25"/>te &amp; tua amplius nobis dones. Sed adhuc, Domine, proportionalitatem praemissam beneficij 
+      <lb ed="#L" n="26"/>&amp; retributionis considerans, // multipliciter distrahor &amp; conturbor: Si enim retribuere tibi ad 
+      <lb ed="#L" n="27"/>aequalitatem, vel vltra, sicut forsitan deberem si possem, voluero, quid aequale vel maius tibi 
+      <lb ed="#L" n="28"/>retribuam pro meipso, pro omnibus bonis meis positiuis &amp; similiter priuatiuis; quid insuper 
+      <lb ed="#L" n="29"/>pro teipso gratuito mihi dabo? Si vero retribuere tibi noluero, vel non secundum 
+      proportio<lb ed="#L" n="30" break="no"/>nalitatem debitam, quomodo ingratus tibi non ero? quomodo ab ingratitudine excusabor? 
+      <lb ed="#L" n="31"/>Imo fortassis remittes mihi obligationem, qua me tibi retribuere astrinxi. Cur enim, summe 
+      <lb ed="#L" n="32"/>liberalis, in tantum quod liberalior esse non posses, etiam obligationem huiusmodi no 
+      remit<lb ed="#L" n="33" break="no"/>teres, nec donares; cam multo maiora, quia peccata contra te grauissima remittis &amp; donas; 
+      <lb ed="#L" n="34"/>cum etiam obligationem fortissimam ex praecepto tuo proprio &amp; expresso, ex proprio 
+      iurame<lb ed="#L" n="35" break="no"/>to &amp; voto solenni, siue virginitate mentis vel corporis, siue continentise a peccato mortali 
+      con<lb ed="#L" n="36" break="no"/>tractam lapso resurgenti remittis? &amp; quomodo es omnipotens, si hoc non potes? &amp; 
+      quomo<lb ed="#L" n="37" break="no"/>do es tu deterioris, illiberioris, &amp; illiberalioris conditionis misero homine, qui sic potest 
+      remit<lb ed="#L" n="38" break="no"/>tere, scilicet obligationem etiam fortissimam, vt videtur, qua quisquis ei fuerit obligatus? 
+      <lb ed="#L" n="39"/>Quare &amp; vnus de amatoribus sapientiae tuae, si sapiens, nescio, tu scis; loquens de obligatione 
+      <lb ed="#L" n="40"/>filij ad patrem &amp; retributione, sic ait; debentem, scilicet filium reddendum patri: Nihil autem 
+      <lb ed="#L" n="41"/>faciens dignum eorum quae subfuerunt operatus est, quare semper debet; quibus autem 
+      debe<lb ed="#L" n="42" break="no"/>tur, potestas dimittere, &amp; Patri vtique. Sed aliter, Domine, me ingratum, &amp; insipientem 
+      trige<lb ed="#L" n="43" break="no"/>simo nono primi gratius docuisti. Si namque me non retribuentem ab obligatione qua tibi 
+      a<lb ed="#L" n="44" break="no"/>sttingor, absolueres, liberiorem me faceres, libertatem maiorem conferres, &amp; nouum 
+      benefi<lb ed="#L" n="45" break="no"/>cium mihi dares: quomodo ergo nisi ingratus efficiar pro beneficio tanto nouo vna cum 
+      pri<lb ed="#L" n="46" break="no"/>oribus non subtractis, non tibi arctius sum astrictus, &amp; amorosius obligatus? Nonne si 
+      quis<lb ed="#L" n="47" break="no"/>quam accommodet mihi pecuniam sub obligatoria cautione, &amp; mihi non soluenti dimittat 
+      <lb ed="#L" n="48"/>gratis pecuniam, &amp; obligationem gratis retradat, multiplicioris obligationis vinculo me sibi 
+      <lb ed="#L" n="49"/>alligat &amp; astringit, non obligatione, quae in foro contentioso violentam pariat actionem, sed 
+      <lb ed="#L" n="50"/>quae in foro gratitudinis amoroso animum gratum requirit, &amp; retributionem concordem, 
+      <lb ed="#L" n="51"/>praesertim si opportunitas hoc permittat, necessitasue requirat? cuius quaeso animus nisi 
+      <lb ed="#L" n="52"/>ingrati forsitan, intrinsecus non sic sentit? Quare &amp; quidam alius amator moralis sapientiae, 
+      <lb ed="#L" n="53"/>studiosus // benefsciorum liberator aequissimus &amp; gratissimus retributor saltem doctrina &amp; 
+      ver<lb ed="#L" n="54" break="no"/>bo; vtinam Domine sic coram te operatione &amp; facto? sic ait, Diligentius quaerendus 
+      bene<lb ed="#L" n="55" break="no"/>ficij quam pecuniae creditor. Hinc enim reddendum est quantum accepi, &amp; si reddidi 
+      solu<lb ed="#L" n="56" break="no"/>tus sum ac liber: at illi, &amp; plus soluendum est, &amp; nihilominus etiam gratia relata debemus? 
+      <lb ed="#L" n="57"/>debeo enim cum reddidi, rursus incipere. Verum Domine, vt cum priore sapiente siue cum 
+      <lb ed="#L" n="58"/>sapientiae amatore, de promissione tua, pro te &amp; lege gratitudinis, quam sanxisti, paululum 
+      <!--667.xml-->
+      <pb ed="#A" n="634"/>
+               <lb ed="#L" n="1"/>disputem. Si, inquam, pater potest remittere filio obligationem naturalem qua ei tenetur; 
+      <lb ed="#L" n="2"/>remittat; &amp; tunc per tuam ingratam hypothesin, in quantamcunque calamitatem pater 
+      inci<lb ed="#L" n="3" break="no"/>derit, quantumcunque filius sit diues &amp; potens, in nullo penitus ei tenetur, vel saltem non  
+      <lb ed="#L" n="4"/>plus patri quam extraneo, imo quemcunque extraneum, a quo minimum beneficium 
+      non<lb ed="#L" n="5" break="no"/>dum remuneratum receperit, potius teneretur liberare a morte quam patrem proprium 
+      mo<lb ed="#L" n="6" break="no"/>riturum: quod quis, nisi ingratissimus filius vel gratis audiet, vel etiam cogitabit? Vt autem 
+      <lb ed="#L" n="7"/>ad obligationes minores descendam, &amp; tandem ab eis ad maiores ascendam: videtur quod 
+      <lb ed="#L" n="8"/>nulla obligatio quantumlibet parvula inter benefactorem &amp; beneficiatum contracta, etiam  
+      <lb ed="#L" n="9"/>ex beneficio minimo possit ipsis manentibus plene solui, ita quod beneficiatus ratione 
+      bene<lb ed="#L" n="10" break="no"/>ficij praeaccepti benefactori in nullo penitus teneatur: non enim plenarie solui potest, 
+      bene<lb ed="#L" n="11" break="no"/>factore omne debitum &amp; obligationem omnimodam dimittente; sic enim amplius 
+      benefici<lb ed="#L" n="12" break="no"/>ans amplius obligat receptorem; nec beneficiato retribuente aequale vel maius etiam centies 
+      <lb ed="#L" n="13"/>millesies, vel amplius quantumcunque. Ponatur enim secundum suppositionem ingratam, 
+      <lb ed="#L" n="14"/>beneficiatum retribuisse plenarie benefactori, &amp; se penitus exuisse ab omni obligatione 
+      con<lb ed="#L" n="15" break="no"/>tracta ratione beneficij praeaccepti; tuncque benefactor &amp; extraneus indigentes, existente 
+      <lb ed="#L" n="16"/>in caeteris paritate, occurrant beneficiato potenti vnico subuenire, eius auxiuum 
+      suppli<lb ed="#L" n="17" break="no"/>citer deprecantes; &amp; quis, nisi ingratus, imo secundum quendam gratum ingratissimus 
+      <lb ed="#L" n="18"/>omnium, oblitus scilicet beneficij praeaccepti, ambigit benefactorem extraneo 
+      praeponen<lb ed="#L" n="19" break="no"/>dum ratione beneficentiae praeacceptae? Quis igitur patri sufscienter retribuet? aut quis tibi 
+      <lb ed="#L" n="20"/>sufficienter retribuet, summe Pater? 
+      </p>
+            <div xml:id="dcn2br-e82885-Dd1e1183">
+               <head xml:id="dcn2br-e82885-Hd1e1185">Corollarium</head>
+               <p xml:id="dcn2br-e82885-d1e1188">
+                  <lb ed="#L" n="21"/>COROLLARIVM. 
+      <lb ed="#L" n="22"/>Corollarium multiplex est, &amp; omnibus gratis gratum.
+      </p>
+               <p xml:id="dcn2br-e82885-d1e1195">
+                  <lb ed="#L" n="23"/>EX his autem gratissimis gratitudinis regulis gratis omnibus porisma gratissimum 
+      de<lb ed="#L" n="24" break="no"/>riuatur, obligationem videlicet gratitudinis naturalem, qua beneficiatus benefactori 
+      <lb ed="#L" n="25"/>AAratione cuiuscunque beneficij praeaccepti etiam minimi non posse plene dissolui; nec 
+      <lb ed="#L" n="26"/>beneficiatum posse benefactori retribuere ad condignum sufficienter seu plene, ita videlicet 
+      <lb ed="#L" n="27"/>quod tota obligatio totaliter extinguatur, imo forsan quanto beneficiatus abundantius 
+      be<lb ed="#L" n="28" break="no"/>nefactori retribuit, tanto ei amplius obligatur, &amp; amplius ei debet: multo magis nec 
+      obli<lb ed="#L" n="29" break="no"/>gationem gratitudinis naturalem, qua patri filius obligatur, posse plene dissolui, nec filium 
+      <lb ed="#L" n="30"/>posse patri retribuere ad condignum, sed fortassis quo amplius ei retribuit, tanto ei amplius 
+      <lb ed="#L" n="31"/>obligari. Quare supra modum magis &amp; magis nec obligationem creaturae rationalis 
+      bene<lb ed="#L" n="32" break="no"/>ficiatae a Deo, qua ei lege gratitudinis obligatur posse dissolui, etiam per Dei 
+      omnipoten<lb ed="#L" n="33" break="no"/>tiam infinitam, nec aliquem posse Deo pro aliquo beneficio etiam minimo retribuere ad  
+      <lb ed="#L" n="34"/>condignum, ita videlicet quod tota obligatio totaliter annulletur; imo quod videtur 
+      mira<lb ed="#L" n="35" break="no"/>bilissimum, &amp; tamen verissimum atque gratissimum, quanto quis amplius retribuerit 
+      Do<lb ed="#L" n="36" break="no"/>mino, &amp; amplius soluerit gratitudinis debitum, tanto amplius ei debet &amp; amplius 
+      obliga<lb ed="#L" n="37" break="no"/>tur. Oadmirabile gratitudinis vinculum, &amp; gratae obligationis ligamen, quod nec creatura 
+      <lb ed="#L" n="38"/>nec creator soluere plene potest / imo quanto dator beneficij vel acceptor illud multiplicius 
+      <lb ed="#L" n="39"/>sategerit soluere, omne debitum &amp; obligationem omnimodam dimittendo, retributiones 
+      <lb ed="#L" n="40"/>retributionibus cumulando, tanto multiplicius illud stringit, firmius efficit, &amp; insolubilius 
+      <lb ed="#L" n="41"/>illud nectit. O ergo ingratitudinis vitium quamplurimum detestandum, quod tam 
+      in<lb ed="#L" n="42" break="no"/>solubile gratitudinis vinculum soluere, imo rumpere nititur, &amp; penitus dissipare, quod nec 
+      <lb ed="#L" n="43"/>aliqua creatura, nec etiam Deus potest. Quis cum tanto vitio valeat dispensare? Certe nec 
+      <lb ed="#L" n="44"/>homo, nec Angelus, nec Deus; cum alijs autem possunt. Nullus ergo beneficiatus ab 
+      ho<lb ed="#L" n="45" break="no"/>mine vel a Deo, retribuere sic intendat, vt se ab omni obligatione &amp; vlteriori retributione 
+      <lb ed="#L" n="46"/>liberare festinet. Hoc enim animi est ingrati: verum retributiones // retributionibus, munera 
+      <lb ed="#L" n="47"/>muneribus, &amp; gratias gratijs semper accumulet, vt sic semper gratissimis gratitudinis 
+      vin<lb ed="#L" n="48" break="no"/>culis multiplicius alligetur, &amp; gratior ac gratior semper fiat, sicque tandem totus in 
+      gra<lb ed="#L" n="49" break="no"/>tiam gratissime transformetur. Prima pars huius porismatis euidenter consequitur ex 
+      prae<lb ed="#L" n="50" break="no"/>missis; secunda sequitur ex hac prima &amp; similiter ex praemissis. Sed quae ratio aut quae 
+      <lb ed="#L" n="51"/>causa, quare ex tam pusilla radice, ex tam exili beneficio &amp; finito, procedit &amp; oritur 
+      tam<lb ed="#L" n="52" break="no"/>fortis obligatio, tam magna &amp; quodammodo infinita, quia nec a potentia finita nec forsitan 
+      <lb ed="#L" n="53"/>infinita, nec per aliquam retributionem finitam, aliquasve finitas potest extingui? Puto, 
+      <lb ed="#L" n="54"/>quia manentibus benefactore &amp; beneficiato, beneficiatum affici quodammodo &amp; teneri bene¬ 
+      <!--668.xml-->
+      <pb ed="#A" n="635"/>
+                  <lb ed="#L" n="1"/>factori est rationabile &amp; iustum mixtum ex rationabili &amp; iusto antecedente quodammodo 
+      <lb ed="#L" n="2"/>voluntatem diuinam, &amp; sequente, sicut potest haberi ex 2I. primi. Sicut enim est rationabile 
+      <lb ed="#L" n="3"/>&amp; iustum sic mixtum hominem affici &amp; inclinari ad bonum; ita &amp; ad boni datorem: ipse 
+      <lb ed="#L" n="4"/>enim est ei bonus. Et sicut hoc est rationabile &amp; iustum, ita &amp; necessarium, sicut patet ex 
+      eo<lb ed="#L" n="5" break="no"/>dem 2I. primi. Sicut ergo existentibus creatura &amp; creatore, rationabile est &amp; iustum atque 
+      <lb ed="#L" n="6"/>necessarium, creaturam teneri &amp; subijci creatori: sic &amp; creaturam rationalem esse bonam; ac 
+      <lb ed="#L" n="7"/>naturaliter affici &amp; inclinari ad bonum, &amp; ad boni datorem, eique similiter obligari. Non 
+      <lb ed="#L" n="8"/>ergo ex beneficio paruo vel magno tantum oritur tanta obligatio, nec ex aliqua natura 
+      cre<lb ed="#L" n="9" break="no"/>ata, nec ex aliquo staturo humano vel diuino, sed ex divinae essentiae immutabili veritate, sicut 
+      <lb ed="#L" n="10"/>potest aliqualiter apparere ex2I. primi. Tertia pars apparet, quoniam quilibet, vt videtur, 
+      <lb ed="#L" n="11"/>rationabiliter amplius diligit, &amp; amplius tenetur diligere illum per quem habet bonum. 
+      <lb ed="#L" n="12"/>quam alium: quare &amp; illum per quem, &amp; in quem exercet operationem laudabilem, &amp; 
+      me<lb ed="#L" n="13" break="no"/>ritoriam actionem; quamobrem &amp; beneficiatus retribuens, benefactorem, circa quem 
+      lau<lb ed="#L" n="14" break="no"/>dabiliter &amp; meritorie operatur, &amp; quanto magis hoc fecerit, tanto magis. Hanc autem 
+      ra<lb ed="#L" n="15" break="no"/>tionem secutus Philosophus, 9. Ethic. 7. astruit benefactores magis amare beneficiatos, 
+      <lb ed="#L" n="16"/>quam e contra, quod &amp; quibusdam alijs rationibus manifestat. Sed quis dubitat 
+      retributio<lb ed="#L" n="17" break="no"/>nem grate factam, beneficiato gratam esse? Benefactor quoque retributione recepta magis 
+      <lb ed="#L" n="18"/>diligit beneficiatum retribuentem quam p, est paratior facere ei bonum: quare &amp; 
+      be<lb ed="#L" n="19" break="no"/>neficiatus potest tunc in benefactore confidere plusquam prius, &amp; quanto magis retribuerit, 
+      <lb ed="#L" n="20"/>tanto magis. Nonne ergo beneficiatus retribuens magis tenetur benefactori recipienti 
+      <lb ed="#L" n="21"/>quam prius, &amp; quanto magis retribuerit, tanto magis? Tres autem partes sequentes de 
+      pa<lb ed="#L" n="22" break="no"/>tre &amp; filio sequuntur secundum ordinem ex his tribus, quae &amp; possunt probari vt istae, &amp; per 
+      <lb ed="#L" n="23"/>locum similiter a minori. Aliae vero tres partes sequentes simili ordine consequuntur ex 
+      tri<lb ed="#L" n="24" break="no"/>bus primis partibus, &amp; ex istis, similiterque probantur. Vltimam autem harum, quae 
+      mirabi<lb ed="#L" n="25" break="no"/>lissima videbatur, intellectis praehabitis, verissimam esse constat, quae &amp; aliter melius 
+      demon<lb ed="#L" n="26" break="no"/>stratur: nam secundum praemissa, quicquid retribuimus Deo, accipimus prius ab eo; quare 
+      <lb ed="#L" n="27"/>&amp; pro retributione quacunque amplius ei tenemur. Cum enim augentur dona, augentur &amp; 
+      <lb ed="#L" n="28"/>rationes donorum, reliquae partes patent. O liberalissime Domine, qui gratis dedisti me 
+      <lb ed="#L" n="29"/>mihi, &amp; omnia alia bona mea? Insuper ad te ipsum quanta obligatione ad retribuendum me 
+      <lb ed="#L" n="30"/>ligas? quam insolubili vinculo me astringis; quae &amp; quod, superius sicut docuisti, nec a me, 
+      <lb ed="#L" n="31"/>nec a te, omnipotens Domine, solui potest? Et quid dignum tibi retribuam? quid 
+      proporti<lb ed="#L" n="32" break="no"/>onale reperiam? quid aequale vel maius inueniam? An forte condgne quoquomodo tibi 
+      re<lb ed="#L" n="33" break="no"/>tribuam, fatendo humiliter &amp; veraciter profitendo, me nunquam posse tibi retribuere ad 
+      <lb ed="#L" n="34"/>condignum? aut forte sufficienter tibi retribuam, si omnibus viribus mentis &amp; corporis 
+      sem<lb ed="#L" n="35" break="no"/>per tibi retribuam quantum possum? Non enim permittit tua iustitia, nec pietas tua sinit me 
+      <lb ed="#L" n="36"/>supra potentiam ad impossibile obligari. Nonne verum est quod quidam in materia ista 
+      <lb ed="#L" n="37"/>dicit, Possibile amicitia requirit, non quod secundum dignitatem? Neque enim in omnibus 
+      <lb ed="#L" n="38"/>est, quemadmodum &amp; his, quae ad Deos, honoribus, &amp; parentes. Nullus enim secundum 
+      <lb ed="#L" n="39"/>dignitatem aliquando vtique retribuet: impotentiam autem famulans Satuut esse videtur. 
+      <lb ed="#L" n="40"/>Nonne sufficit quod quidam alius nos hortatur, Glorificantes Dominum quantumcunque 
+      <lb ed="#L" n="41"/>potueritis, supervalebit adhuc admirabilis magnificentia eius? benedicentes Dominum 
+      exal<lb ed="#L" n="42" break="no"/>tate illum quantum potestis; maior est enim omni laude? Aut forsitan possum tibi retribuere 
+      <lb ed="#L" n="43"/>quoquomodo aequale aliquid mihi ipsi, bonis mihi collatis, vel aliquid maius istis, aliquid ve 
+      <lb ed="#L" n="44"/>aequale tibi ipsi mihi collato? quia maius non possum, si me totum &amp; omnia quae habeo, &amp; 
+      <lb ed="#L" n="45"/>quae possum, &amp; plura ac maiora si possem, &amp; etiam temetipsum quodammodo tibi retribuam; 
+      <lb ed="#L" n="46"/>me totum videlicet tota virtute mentis &amp; corporis, &amp; quicquid quomodolibet habeo, aut  
+      <lb ed="#L" n="47"/>valeo quouismodo, ad tuam laudem, gloriam, &amp; honotem; imo ad te, Domine, &amp; propter 
+      <lb ed="#L" n="48"/>te tantummodo referendo, malens haec omnia &amp; plura ac maiora supra omnem numerum 
+      <lb ed="#L" n="49"/>&amp; mensuram, etiam memetipsum irrecuperabiliter perdere, quam semel vel leuissime tuam 
+      <lb ed="#L" n="50"/>ostendere maiestatem, teipsum quoque propter temetipsum tantummodo super omnia alia 
+      <lb ed="#L" n="51"/>totis praecordijs diligendo. Sic enim doces me debere te diligere, bone Deus: alias etenim 
+      <lb ed="#L" n="52"/>data mihi optione, aut quod bona alia quantacunque, etiam memetipsum, omnibus 
+      re<lb ed="#L" n="53" break="no"/>dactis in nihilum sine recuperatione amittam, tamen sine meo peccato; aut quod te semel 
+      <lb ed="#L" n="54"/>leuissimeque offendam &amp; peccem, deberem secundum rectissimam rationem, etiam te 
+      Do<lb ed="#L" n="55" break="no"/>mine iudicante, peccare: quar? si sic facerem, non peccarem. Omne namque peccatum 
+      <lb ed="#L" n="56"/>est quaedam obliquitas a rectitudine rationis. O potens &amp; bone Domine Deus, quaeso vt sicut 
+      <lb ed="#L" n="57"/>vocaliter proloquor, sic efficaciter faciam, &amp; faciens finaliter perseuerem; quod munus tuum 
+      <lb ed="#L" n="58"/>ate mihi collatum, &amp; per te ac per me ad te relatum, dignare quaeso suppliciter pro retri 
+      <!--669.xml-->
+      <pb ed="#A" n="636"/>
+                  <lb ed="#L" n="1"/>butione qualicunque misericorditer acceptare. Non enim habeo, habereve potero 
+      quic<lb ed="#L" n="2" break="no"/>quam maius, nisi forsitan illud esset efficaciter velle, scire, &amp; facere, &amp; quod in me circa me, 
+      <lb ed="#L" n="3"/>&amp; de me in quibuscunque prosperis vel aduersis, laetis vel tristibus, &amp; quibuslibet alijs 
+      sem<lb ed="#L" n="4" break="no"/>per solummodo fieret, quod tibi gratissimum fuerit, &amp; tuae placitissimum voluntati. Quod 
+      <lb ed="#L" n="5"/>etiam munus tribue, precor humiliter, mihi misero mendicanti, quod &amp; per te, ac per me tibi 
+      <lb ed="#L" n="6"/>retribuas tribuenti, &amp; pro qualicunque retributione acceptes. Et si adhuc fortassis fuerit 
+      <lb ed="#L" n="7"/>quicquam maius, quod tamen aspiciens quaquauersum non video, illud etiam humiliter 
+      sup<lb ed="#L" n="8" break="no"/>plico &amp; deuote requiro, vt mihi obnixe mendicanti ostendas &amp; tribuas, vt per te retribuam 
+      <lb ed="#L" n="9"/>illud tibi; vt sic pro tuis beneficijs maximis gratissime mihi collatis, maximam &amp; 
+      gratissi<lb ed="#L" n="10" break="no"/>mam retributionem mihi possibilem gratissime tibi retribuam, gratissimas gratiarum 
+      actio<lb ed="#L" n="11" break="no"/>nes rependam, &amp; gratissimas gratias referam incessanter. Sed adhuc mens tremula, &amp; velut  
+      <lb ed="#L" n="12"/>apes argumentosa titubat, &amp; inquirit, Quomodo possum illi reddere gratiam, cui pro 
+      gratio<lb ed="#L" n="13" break="no"/>sis operibus, pro beneficijs suis gratuitis, quicquid possum est debitum, etiam ego ipse? 
+      <lb ed="#L" n="14"/>Nonne si gratia, non ex operibus? alioquin gratia iam non est gratia. Nunquid debitor 
+      red<lb ed="#L" n="15" break="no"/>dendo debitum facit gratiam creditori? Nonne gratia &amp; debitum videntur mutuo repugnare? 
+      <lb ed="#L" n="16"/>Vnde videtur confici res miranda, nullum videlicet posse quomodolibet obligari ad gratiam 
+      <lb ed="#L" n="17"/>faciendam nec ad gratiam rependendam. An forte ab isto ingrato nimis inuolucro me 
+      euol<lb ed="#L" n="18" break="no"/>uam, faciendo gratis &amp; libere, ad quod ex debito &amp; necessitate astringor, sicut opera 
+      Profes<lb ed="#L" n="19" break="no"/>sorum tuorum, Domine, aut aliter obligatorum spontanee ad aliqua facienda, non minus 
+      <lb ed="#L" n="20"/>sunt coram oculis tuis grata, dum tamen non inuite fiant, sed gratis ac spontanea voluntate? 
+      <lb ed="#L" n="21"/>Nonne verum est, quod vnus de gratis filijs tuis, &amp; Patribus nostris dicit; Est necessitas quae 
+      <lb ed="#L" n="22"/>benefacienti gratiam aufert aut minuit, &amp; est necessitas, qua maior beneficio gratia debetur? 
+      <lb ed="#L" n="23"/>Cum enim aliquis ea necessitate, cui subiacet, inuitus benefacit, aut nulla, aut minor ei gratia 
+      <lb ed="#L" n="24"/>debetur: cum vero ipse sponte se necessitati benefaciendi subdit, nec inuitus eam sustinet, 
+      <lb ed="#L" n="25"/>tunc vtique maiorem beneficii gratiam meretur. Non enim haec est dicenda necessitas, sed 
+      <lb ed="#L" n="26"/>gratia, quia nullo cogente illam // suscepit aut seruat, sed gratis. Tale est cum quis sanctae 
+      con<lb ed="#L" n="27" break="no"/>uersationis sponte vouet propositum: quamuis enim seruare illud ex necessitate post votum 
+      <lb ed="#L" n="28"/>debeat, ne Apostatae damnationem incurrat, &amp; licet cogi possit seruare, si nolit. Si tamen 
+      <lb ed="#L" n="29"/>non iuuitus seruat quod vouet, non minus sed magis gratus est Deo, quam si non vouisset, 
+      <lb ed="#L" n="30"/>nec sancte viuere dicendus est necessitate, sed ea qua vouit, libertate. An forte distinctio 
+      quae<lb ed="#L" n="31" break="no"/>dam de gratia, quam me superius docuisti, ab ista // ingrata argutia me defendet? Dicitur 
+      ete<lb ed="#L" n="32" break="no"/>nim gratia quod gratis rependitur pro gratia gratis data. Quid ergo magis debitum? &amp; quid 
+      <lb ed="#L" n="33"/>magis gratum tibi, Domine Deus noster? &amp; quid nobis magis congruum, quam vt in 
+      omni<lb ed="#L" n="34" break="no"/>bus, vbique &amp; semper toto corde, ore, &amp; opere gratias gratis agamus Domino Deo nostro? 
+      <lb ed="#L" n="35"/>Nonne vnum de tuis gratis discipulis, &amp; nostris Doctoribus dicere, &amp; scribere docuisti, Quid 
+      <lb ed="#L" n="36"/>melius &amp; animo geramus, &amp; ore premamus, &amp; calamo exprimamus, quam Deo gratias? 
+      <lb ed="#L" n="37"/>hoc nec dici breuius, nec audiri laetius, nec intelligi gratius, nec agi fructuosius potest. Quem  
+      <lb ed="#L" n="38"/>&amp; iterum sapere ac sapide dicere docuisti, quod sapientia est Dei cultus, qui in hoc maxime 
+      <lb ed="#L" n="39"/>constitutus est, vt anima ei non sit ingrata: Vnde &amp; in ipso verissimo &amp; singulati sacrificio 
+      <lb ed="#L" n="40"/>Domino Deo nostro agere gratias admonemur. Erit autem ingrata, si quod illi ex Deo est,  
+      <lb ed="#L" n="41"/>sibi tribuit, sicut faciunt Pelagiani pestiferi &amp; ingrati. Non sic autem, non sic nos filij Dei 
+      <lb ed="#L" n="42"/>grati, sed agnoscentes humiliter, &amp; non minus veraciter omnia &amp; singula bona nostra 
+      positi<lb ed="#L" n="43" break="no"/>ua, &amp; similiter priuatiua, habitus, actus, &amp; opera, carentiasque malorum habituum, actuum, 
+      <lb ed="#L" n="44"/>&amp; operum non esse nobis ex nobis, sed a Patre nostro coelesti, a Patre luminum desursum 
+      <lb ed="#L" n="45"/>descendere, &amp; esse dona gratuita Domini Dei nostri, semper &amp; vbique, in omnibus 
+      <lb ed="#L" n="46"/>&amp; singulis, pro omnibus &amp; singulis, toto corde, ore &amp; opere gratias gratis a¬ 
+      <lb ed="#L" n="47"/>gamus Domino Deo nostro. Sic enim te Autore nos instruit mater no¬ 
+      <lb ed="#L" n="48"/>stra virgo prudentissima, &amp; pulcherrima sponsa tua, non habens 
+      <lb ed="#L" n="49"/>maculam neque rugam, Ecclesiae sancta tua. Iterum ergo &amp;t 
+      <lb ed="#L" n="50"/>iterum, imo continue semper &amp; vbique incessabili 
+      <lb ed="#L" n="51"/>voce cordis, &amp; oris, &amp; operis gratias 
+      <lb ed="#L" n="52"/>agamus Domino Deo nostro¬
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

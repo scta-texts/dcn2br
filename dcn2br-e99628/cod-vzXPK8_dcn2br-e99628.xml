@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e99628"><!-- l3c31 -->
+            <head xml:id="dcn2br-e99628-Hd1e106">Caput 31</head>
+            <p xml:id="dcn2br-e99628-d1e109">
+               <lb ed="#L" n="15"/>CAP. XXXI. 
+      <lb ed="#L" n="16"/>Reuocat eandem per viam necessitatis &amp; contingentiae intellectus 
+      <lb ed="#L" n="17"/>scientiaeque diuinae. 
+      </p>
+            <p xml:id="dcn2br-e99628-d1e118">
+               <lb ed="#L" n="18"/>COntra eandem quoque hypothesin potest similiter argui per viam 
+      ne<lb ed="#L" n="19" break="no"/>cessitatis &amp; contingentiae intellectus scientiaeque diuinae. Nam ante 
+      <lb ed="#L" n="20"/>praesentiam seu praeteritionem rei Deus contingenter sciuit eam 
+      sem<lb ed="#L" n="21" break="no"/>per fuisse futuram &amp; fore; sed in eius praesentia seu praeteritione 
+      neces<lb ed="#L" n="22" break="no"/>sario scit eam semper fuisse futuram, &amp; esse vel fuisse; ergo tunc aliter 
+      <lb ed="#L" n="23"/>intrinsece scit quam p, quod est contra rationes praemissas, &amp; 
+      con<lb ed="#L" n="24" break="no"/>tra autoritates superius memoratas. Nec aliqua rationalis causa huius 
+      <lb ed="#L" n="25"/>Xl necessitatis nouellae in diuina scientia poterit assignari, prohibentibus 
+      <lb ed="#L" n="26"/>rationibus de necessitate nouella in volutione seu voluntate diuina, si ad diuinam scientiam 
+      <lb ed="#L" n="27"/>congrue transferantur, decimo quinto primi, atque decimo, sexto succurrente. Nec sine causa 
+      <lb ed="#L" n="28"/>rationabili potest necessitas talis poni, sicut contra responsionem vltimam est ostensum. 
+      <lb ed="#L" n="29"/>Item si diuina scientia respectu futurorum sit contingens ad vtrumlibet, &amp; respectu 
+      praesen<lb ed="#L" n="30" break="no"/>tium &amp; praeteritorum necessaria, Deus certius intrinsece scit praesentia &amp; praeterita quam 
+      fu<lb ed="#L" n="31" break="no"/>tura: haec enim scita certiora sunt illis. Illa namque, quae necessario sunt aliqualia, sunt 
+      cer<lb ed="#L" n="32" break="no"/>tius talia quam illa quae contingenter ad vtrumlibet tantum sunt talia: nam haec non possunt 
+      <lb ed="#L" n="33"/>non esse talia, illa possunt; Deus ergo perfectius scit praesentia &amp; praeterita, quam futura. 
+      <lb ed="#L" n="34"/>Nam scire quid certe est perfectius, quam incerte; quare Deus intrinsece mutatur &amp; 
+      melio<lb ed="#L" n="35" break="no"/>ratur de nouo; nec etiam scit futura summe certe, nec summe perfecte. Huius // etiam 
+      ma<lb ed="#L" n="36" break="no"/>ioris certitudinis nulla causa rationalis potest dari, quia non intrinseca ipsi Deo, cum ipse 
+      in<lb ed="#L" n="37" break="no"/>trinsece non mutetur, nec extrinseca, quia nulla res extrinseca quicquam causat in eo, sicut 15. 
+      <lb ed="#L" n="38"/>&amp; 1I6. ac 20. primi docent. Quapropter &amp; Sapiens Ecclesiastici 23. Domino, inquit, Deo 
+      an<lb ed="#L" n="39" break="no"/>tequam crearentur, omnia sunt agnita, sic &amp; post perfectum respicit omnia; sic inquit, &amp; non 
+      <lb ed="#L" n="40"/>aliter. Vnde &amp; Augustinus I5. de Trinit. 13. Nec, inquit, aliter sciuit creata quam creanda: 
+      <lb ed="#L" n="41"/>non enim eius sapientiae aliquid accessit ex eis, ita vt scriptum est in libro Ecclesiastico, 
+      Ante<lb ed="#L" n="42" break="no"/>quam crearentur, omnia nota sunt ei, sic &amp; postquam consummata sunt; sic inquit, non 
+      ali<lb ed="#L" n="43" break="no"/>ter. Qui &amp; quinto super Gen. ad literam 18. Ipsi, inquit, Deo non audeo dicere alio modo 
+      <lb ed="#L" n="44"/>
+               <!-- line coord error -->
+               <lb ed="#L" n="45"/>tatio nec momenti obumbratio. Quare &amp; Petrus I. sentent. dist. 35. Sciuit, inquit, Deus 
+      <lb ed="#L" n="46"/>ab aeterno aeternum, &amp; omne quod futurum erat, &amp; sciuit immutabiliter; scit quoque non 
+      mi<lb ed="#L" n="47" break="no"/>nus praeterita vel futura, quam paesentia, &amp; sua aeterna sapientia &amp; immutabili scit ipse 
+      om<lb ed="#L" n="48" break="no"/>nia quae sciuntur.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

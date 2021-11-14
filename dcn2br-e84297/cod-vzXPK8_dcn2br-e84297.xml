@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="637"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e84297"><!-- l3c1 -->
+            <head xml:id="dcn2br-e84297-Hd1e106">Caput 1</head>
+            <p xml:id="dcn2br-e84297-d1e109">
+      <!--670.xml-->
+               <pb ed="#A" n="637"/>
+               <lb ed="#L" n="1"/>TIHME 
+      <lb ed="#L" n="2"/>BRADWARDINI 
+      <lb ed="#L" n="3"/>LIBER III. 
+    </p>
+            <p xml:id="dcn2br-e84297-d1e122">
+               <lb ed="#L" n="4"/>CAP I 
+      <lb ed="#L" n="5"/>Quod Deus potest necessitare quodammodo omnem voluntatem cre¬ 
+      <lb ed="#L" n="6"/>atam ac liberum actum suum, &amp; ad liberam cessationem &amp; 
+      vaca<lb ed="#L" n="7" break="no"/>tionem ab actu. 
+      </p>
+            <p xml:id="dcn2br-e84297-d1e133">
+               <lb ed="#L" n="8"/>PElagiani autem, pestiferi &amp; multiplici 
+      <lb ed="#L" n="9"/>gratiae Dei ingrati, nituntur auferre a Deo debitas gratias, 
+      <lb ed="#L" n="10"/>&amp; gratiarum debitas actiones. Negant enim 
+      praedesti<lb ed="#L" n="11" break="no"/>nationem, prouidentiamque diuinam in bono &amp; in 
+      ma<lb ed="#L" n="12" break="no"/>lo, Coefficientiam quoque Dei &amp; specialiter eius 
+      praees<lb ed="#L" n="13" break="no"/>ficientiam cum libero arbitrio in libero actu suo, &amp; in 
+      <lb ed="#L" n="14"/>meritis vniuersis huic motiuo potissime innitentes; quia 
+      <lb ed="#L" n="15"/>tunc ibi esset necessitas, non libertas neque meritum. Alij 
+      <lb ed="#L" n="16"/>vero haeretici conantur auferre a Deo similiter actiones 
+      <lb ed="#L" n="17"/>debitas gratiarum, dicentes ipsum agere quicquid agit ex 
+      <lb ed="#L" n="18"/>necessitate, &amp; nihil gratis, nec libera voluntate. Quare 
+      <lb ed="#L" n="19"/>&amp; quidam haeretici moliuntur destruere vniuersaliter 
+      si<lb ed="#L" n="20" break="no"/>berum arbitrium tam in Deo quam in creatura, &amp; omnem gratiam, ac gratuitam &amp; liberam 
+      <lb ed="#L" n="21"/>actionem, dicentes quod omnia quae eueniunt, de necessitate eueniunt. De his ergo &amp; istis 
+      si<lb ed="#L" n="22" break="no"/>milibus ammodo inquirendum. Pro quibus diligenter inuestigandum videtur, Nunquid 
+      ne<lb ed="#L" n="23" break="no"/>cessitas &amp; libertas, meritumque repugnant. In primis igitur ostendendum, Deum posse 
+      ne<lb ed="#L" n="24" break="no"/>cessitare quodammodo omnem voluntatem creatam ad liberum, imo ad liberrimum actum 
+      <lb ed="#L" n="25"/>suum, similemque cessationem &amp; vacationem ab actu. Deus enim potest velle voluntatem 
+      <lb ed="#L" n="26"/>creatam producere liberum actum suum, &amp; hoc antecedenter, &amp; prius naturaliter voluntate 
+      <lb ed="#L" n="27"/>creata: quare &amp; per 10. primi, illa de necessitate obediret, &amp; hoc, quamdiu Deus sic voluerit 
+      <lb ed="#L" n="28"/>ipsam velle. De cessatione quoque &amp; de vacatione eadem ratio est omnino. Vnde Anselmus 
+      <lb ed="#L" n="29"/>de Concordia 2. Sicut, inquit, necesse est esse quicquid Deus vult, ita esse necesse est quod vult 
+      <lb ed="#L" n="30"/>homo in his quae Deus ita subdit humanae voluntati, vt si vult fiant, si non vult, non fiant. 
+      <lb ed="#L" n="31"/>Quoniam enim quod Deus vult, non potest non esse, cum vult hominis voluntatem nulla 
+      co<lb ed="#L" n="32" break="no"/>gi vel prohiberi necessitate ad volendum vel non volendum; &amp; vult effectum sequi 
+      volunta<lb ed="#L" n="33" break="no"/>tem, tunc necesse est voluntatem esse liberam, &amp; esse quod vult. Item aliter posset homo 
+      fa<lb ed="#L" n="34" break="no"/>cere Deum falsum, &amp; periurum: Ponatur enim quod Deus praedicat, &amp; per semetipsum 
+      iu<lb ed="#L" n="35" break="no"/>rando affirmer, quod iste libere faciat hoc vel illud, &amp; ad hoc faciat quantum potest; tunc si 
+      <lb ed="#L" n="36"/>iste non necessitetur per Deum ad hoc vel illud libere faciendum, potest dimittere libere hoc  
+      <lb ed="#L" n="37"/>&amp; illud. Item aliter posset homo frustrare prouidentiam &amp; praedestinationem ac voluntatem 
+      <lb ed="#L" n="38"/>diuinam, imo &amp; facere miserum foelicissimum Deum nostrum. Nulli etenim dubium, quin Deus 
+      pos<lb ed="#L" n="39" break="no"/>set facere, prouidere, praedestinare, ac praeuelle liberos actus humanos, &amp; quae ex eis depedet, 
+      <lb ed="#L" n="40"/>imo ab aeterno sic fecit, sicut a7oprimi, &amp; sequentia cum 45. probant: quod &amp; plane testatur 
+      <lb ed="#L" n="41"/>Apostolus ad Eph. 2. Ipsius, inquiens, sumus factura, creati in Christo sesu in operibus bo¬ 
+      <!--671.xml-->
+      <pb ed="#A" n="638"/>
+               <lb ed="#L" n="1"/>nis, quae praeparauit Deus, vt in illis ambulemus. Et Glossa adhuc expressius dicit idem, 
+      si<lb ed="#L" n="2" break="no"/>cut 3rum primi plenius allegauit. Item omnis potentia in proportione debita fortior, potest. 
+      <lb ed="#L" n="3"/>necessitare debiliorem naturaliter sibi subiectam in sua qualibet actione, &amp; isto modo se 
+      ha<lb ed="#L" n="4" break="no"/>bent ad inuicem voluntas diuina, Angelica, &amp; humana; sicut prima suppositio, &amp; decimum 
+      <lb ed="#L" n="5"/>primi, cum 20. &amp; 30. secundi testantur. Vnde Philosophus 5. Metaphys. 16. distinguens 
+      <lb ed="#L" n="6"/>priora sic ait; Alia secundum potestatem scilicet dicuntur priora; Excedens enim potestate 
+      <lb ed="#L" n="7"/>prius, &amp; quod potentius: tale vero est cuius praeuoluntatem sequi necesse est alterum est 
+      po<lb ed="#L" n="8" break="no"/>sterius, vt non mouente illo, non moueatur, &amp; mouente illo moueatur; &amp; est praeuoluntas 
+      <lb ed="#L" n="9"/>principium. Vbi transtatio, quam exponit Auerroes, sic habet, Etiam illud quod est fortius 
+      <lb ed="#L" n="10"/>dicitur ante, &amp; tale est illud quod cogit alterum sequi suam voluntatem; ita quod si illud quod 
+      <lb ed="#L" n="11"/>est ante non mouetur, non mouebitur aliud quod est post; &amp; si mouetur, mouebitur; &amp; 
+      vo<lb ed="#L" n="12" break="no"/>luntas est principium hic. Super quod Auerroes sic dicit; Vniuersaliter dicitur, ante, illud, 
+      <lb ed="#L" n="13"/>quod est fortius &amp; dignius, &amp; est illud quod cogit illud quod est post, vt voluntas eius 
+      conse<lb ed="#L" n="14" break="no"/>quatur voluntatem suam, quoniam voluntas debilioris sequitur voluntatem fortioris. Item 
+      <lb ed="#L" n="15"/>adhuc physice arguendo ponatur quod esset tantum vir vnus &amp; multer vnica; tunc ex quo 
+      <lb ed="#L" n="16"/>species humana non potest deficere, nec sine generatione saluari, necesse est eos voluntarie 
+      <lb ed="#L" n="17"/>generate. Nec potest quis fingere, quod licet necessario voluntarie generabunt, non tamen  
+      <lb ed="#L" n="18"/>hac vice, nec illa; ideoque quilibet eorum concubitus erit liber, nec vlli necessitati subiectus, 
+      <lb ed="#L" n="19"/>quia ponatur quod vir seu mulier tantum processit in diebus suis generationi aptis (qui 
+      se<lb ed="#L" n="20" break="no"/>cundum Philosophum 9. de Animalibus, in mulieribus sunt 50. anni in viris autem 70. aut  
+      <lb ed="#L" n="21"/>secundum Plinium &amp; Solinum 80. in viris) quod non remaneat sibi tempus, nisi pro vnico 
+      <lb ed="#L" n="22"/>tali actu: quare tunc statim // necessario illum actum vnicum voluntarie exercebunt: Nam 
+      si<lb ed="#L" n="23" break="no"/>ne voluntate generatio nunquam fiet. Illud autem, quod eos sic arctabit, ponitur a 
+      Philoso<lb ed="#L" n="24" break="no"/>phis esse natura vniuersalis, quae per tertium secundi non potest dici aliqua vis stellarum, aut  
+      <lb ed="#L" n="25"/>quarumcunque causarum secundarum; est igitur necessario prima causa, sicut 27. primi per 
+      <lb ed="#L" n="26"/>autoritates Philosophicas ostendebat. Et similiter potest etiam Theologice argui; Si esset 
+      <lb ed="#L" n="27"/>vnus vir tantum &amp; vnica mulier ante completum numerum electorum &amp; praedestinatorum a 
+      <lb ed="#L" n="28"/>Deo ex propagatione hominum naturali a primis parentibus continue deriuata, 
+      NisiLenim<lb ed="#L" n="29" break="no"/>ipsi necessario voluntarie gignerent, cessaretur generatio hominum, &amp; Dei propositum 
+      fru<lb ed="#L" n="30" break="no"/>straretur, contra decimum primi libri. De Adam quoque &amp; Eua priusquam naturaliter 
+      con<lb ed="#L" n="31" break="no"/>uenirent, potest fieri // simise argumentum. Item aliter Deus non posset necessitare 
+      creatu<lb ed="#L" n="32" break="no"/>ram rationalem, vt esset slimpeccabilis perpetuoque beata, contra 17. 1S5que secundi. Item Esaiae 
+      <lb ed="#L" n="33"/>40. Ecce, inquit, gentes, quasi momentum staterae reputatae sunt ei: Glossa, in comparatione 
+      <lb ed="#L" n="34"/>eius, scilicet Dei; quod scilicet momentum ex nihilo in vtramlibet partem inelinatur. Et 
+      Pa<lb ed="#L" n="35" break="no"/>rab. 21. Sicut diuisiones aquarum, ita cor Regis in manu Domini, quocunque voluerit ineli 
+      <lb ed="#L" n="36"/>nabit illud, sicut vicesimum secundi plenius allegauit. Beatus etiam Augustinus de Gratia, 
+      <lb ed="#L" n="37"/>&amp; libero arbitrio, hac autoritate Salomonis cum multis alijs recitata, cap. 48. ita concludit; 
+      <lb ed="#L" n="38"/>His &amp; talibus testimonijs diuinorum eloquiorum, satis, quantum existimo, manifestatur, 
+      ope<lb ed="#L" n="39" break="no"/>rari Deum in cordibus hominum ad inclinandas eorum voluntates quocunque voluerit, siue ad bona 
+      <lb ed="#L" n="40"/>pro sua misericordia, siue ad mala pro meritis eorum. Ide Enchir. 77. Quis tam impie desipiat, 
+      <lb ed="#L" n="41"/>vt dicat Deum malas hominum voluntates quas voluerit, &amp; quando voluerit, &amp; vbi voluerit,  
+      <lb ed="#L" n="42"/>non posse in bonum conuertere? Idem de bono perseuerantiae 20. quam possibile est Deo 
+      a<lb ed="#L" n="43" break="no"/>uersas &amp; aduersas in fidem conuertere hominum voluntates &amp; in eorum cordibus operari, vt 
+      <lb ed="#L" n="44"/>nullis aduersitatibus cedant, nec ab illo aliquo tentatione superati discedant. Idem quoque 
+      <lb ed="#L" n="45"/>de Correptione &amp; gratia 69. dicit; Deo volenti saluum facere hominem, nullum resistit 
+      arbi<lb ed="#L" n="46" break="no"/>trium. Sic enim seu velle, seu nolle in volentis aut nolentis est potestate, vt diuinam 
+      volunta<lb ed="#L" n="47" break="no"/>tem impleat, nec superet potestatem. Et infra per totum 70. capitulum &amp; in principio 7i. 
+      pla<lb ed="#L" n="48" break="no"/>nissime &amp; notabilissime docet idem, sicut 20. secundi plenius allegauit: Item aliter Deus non 
+      <lb ed="#L" n="49"/>esset omnipotens: licet enim Deus faceret quantum posset, vt tu simpliciter vel certo tempore 
+      <lb ed="#L" n="50"/>velles, seu diligeres quippiam, posses, hoc non obstante omnino, // idem non velle, &amp; per 
+      ali<lb ed="#L" n="51" break="no"/>quam partem dati temporis // illam velle, per aliam vero non velle, imo &amp; nolle, sicque posses 
+      <lb ed="#L" n="52"/>reddere Deum &amp; hominem Iesum Christum falsum, mendacem, periurum &amp; miserum, 
+      si<lb ed="#L" n="53" break="no"/>cut in principio est argutum. Nec potest quis dicere quod actus liberi voluntatis sub 
+      omni<lb ed="#L" n="54" break="no"/>potentia Dei minime continentur, propter decimum primi, vicesimum, &amp; tricesimum 
+      secun<lb ed="#L" n="55" break="no"/>di, ac propter autoritates Augustini proximo recitatas: tunc quoque sub prouidentia, 
+      gu<lb ed="#L" n="56" break="no"/>bernatione &amp; praedestinatione diuina nullatenus clauderentur, contra vicesimum septimum 
+      <lb ed="#L" n="57"/>cum sequentibus, &amp; 45. primi. Quid etiam dignius ad eius omnipotentiam pertinet, quam 
+      <lb ed="#L" n="58"/>suam veritatem in omnibus, etiam in actibus liberis inuiolabilem conseruare? Quomodo 
+      <!--672.xml-->
+      <pb ed="#A" n="639"/>
+               <lb ed="#L" n="1"/>etiam ad omnipotentiam eius non attinet, posse disponere libere de possibilibus vniuersis 
+      <lb ed="#L" n="2"/>naturalibus &amp; liberis quibuscunque? Quare &amp; dicit Augustinus de correptione &amp; gratia 
+      <lb ed="#L" n="3"/>7o. quod Deus habet humanorum cordium quo placet inclinandorum omnipotentissimam 
+      <lb ed="#L" n="4"/>potestatem: Et 7i. quod Deus magis habet in potestate voluntates hominum quam ipsi. Nulli 
+      <lb ed="#L" n="5"/>etiam dubium, quin actus liberi voluntatis sint nobilissimi omnium, &amp; aliqui actus sub Dei 
+      <lb ed="#L" n="6"/>omnipotentia continentur, &amp; non ignobiliores tantummodo: hoc enim vetat eius infinita 
+      <lb ed="#L" n="7"/>nobilitas, &amp; suppositio prima primi, ac foelicitas beatorum. Si quis autem voluerit dicere, 
+      <lb ed="#L" n="8"/>quod Deus potest necessitare hominem ad actum voluntatis, sed hoc facto, non erit 
+      huius<lb ed="#L" n="9" break="no"/>modi actus liber, potest sibi faciliter contradici; quia si Deus hoc faciat, cum ad omne quod 
+      <lb ed="#L" n="10"/>agit exterius sufficiat sua sola voluntas, sicut corollarium decimi primi // docet, &amp; per suam 
+      <lb ed="#L" n="11"/>omnipotentiam demonstratur; potest Deus hoc facere per voluntatem suam solam, 
+      vide<lb ed="#L" n="12" break="no"/>licet sine aliquo habitu, vel aliquo creato quocunque, quod nunc ad volutionem liberam 
+      <lb ed="#L" n="13"/>hominis non concurrit; &amp; non nisi volendo, seu naturaliter praeuolendo hominem velle; 
+      <lb ed="#L" n="14"/>&amp; per tricesimum secundi, nunc de facto sic facit de quocunque actu libero voluntatis. Item 
+      <lb ed="#L" n="15"/>eliciat Iohannes A. actum liberum voluntatis, cum B. C. causis secundis sufficientibus, &amp; 
+      <lb ed="#L" n="16"/>necessario requisitis; tunc Deus potest necessitare // Iobannem ad A. actum, &amp; hoc sine aliqua 
+      <lb ed="#L" n="17"/>alia causa secunda, vt patet per praemissa, scilicet tantum volendo, vel naturaliter 
+      praeuo<lb ed="#L" n="18" break="no"/>lendo; &amp; per 3oum. secundi sic prius fecit, quando A. fuit liber; ergo tunc Deus necessita 
+      <lb ed="#L" n="19"/>uit // Iohannem ad A. actum liberum voluntatis; &amp; etiam si tunc fuit A. liber, eadem ratione 
+      <lb ed="#L" n="20"/>&amp; nunc est: omnia enim omnino eodem modo se habent nunc &amp; tunc in omnibus causis 
+      pri<lb ed="#L" n="21" break="no"/>mis d&amp; secundis. Vel etiam supponatur quod Deus necessitet Iohannem ad D. actum 
+      simi<lb ed="#L" n="22" break="no"/>lem. A. quantum potest, cum B. C. causis secundis praecise vel omnino similibus, quod 
+      po<lb ed="#L" n="23" break="no"/>test, sicut praemissa probarunt; aliterque aliqua causa secunda, illa scilicet alia necessario 
+      re<lb ed="#L" n="24" break="no"/>quisita necessitaret voluntatem hominis sicut bruti, contra tertium secundi, &amp; erunt A. &amp; D. 
+      <lb ed="#L" n="25"/>actus omnino similis rationis: nam in suis causis primis &amp; secundis nulla potest diuersitas 
+      <lb ed="#L" n="26"/>assignari: quare si alter est liber, vel necessarius quouismodo, erit similiter &amp; vterque. Si 
+      <lb ed="#L" n="27"/>autem dicatur, quod ideo D. est necessarius, &amp; A. liber, quia Deus vult facere ipsos tales, 
+      <lb ed="#L" n="28"/>contradicetur hoc modo: Si Deus sic volendo necessitet ad D. actum, hoc non est faciendo 
+      <lb ed="#L" n="29"/>D. actum per se necessarium, quia ex se potest non esse, &amp; quia tantum vnum est per se 
+      ne<lb ed="#L" n="30" break="no"/>cesse esse, scilicet ipse Deus, vt patet per 17. partem corollarij primi primi, nec per aliquas 
+      <lb ed="#L" n="31"/>causas secundas per se necessitantes voluntatem creatam, sicut natura &amp; obiectum per se 
+      ne<lb ed="#L" n="32" break="no"/>cessitant bestias, sicut superius est ostensum: hoc ergo est tantum per voluntatem diuinam, 
+      <lb ed="#L" n="33"/>volendo scilicet Lse[necessitare ad D, seu facere D necessarium, sicut hypothesis confitetur. 
+      <lb ed="#L" n="34"/>Vel ergo Deus sic volendo absolute necessitat ad D. actum, &amp; reddit eum necessarium 
+      abso<lb ed="#L" n="35" break="no"/>lute, vel tantum respectu suae volutionis; ita scilicet quod stante illa, impossibile est aliter 
+      <lb ed="#L" n="36"/>euenire, seu quia non potest aliqualiter impediri. Primum dici non potest, vt nullus 
+      igno<lb ed="#L" n="37" break="no"/>rat, &amp; praehabita docuerunt; relinquitur ergo secundum, &amp; sic loquendo A. actus liber, 
+      <lb ed="#L" n="38"/>quem Deus vult facere liberum, est ita necessarius respectu illius volutionis diuinae, sicut D. 
+      <lb ed="#L" n="39"/>respectu alterius: quia, stante illa, ita impossibile est aliter euenire, &amp; ita impossibile est istam 
+      <lb ed="#L" n="40"/>impediri in aliquo, sicut illam, vt 10. primi docet: ergo A. &amp; quilibet actus creaturae 
+      liberri<lb ed="#L" n="41" break="no"/>mus est ita necessarius sicut est D. Item ponatur imaginarie, vel secundum quosdam sicut est 
+      <lb ed="#L" n="42"/>vere possibile, quod Deus faciat aliquem actum voluntatis creatae, volendo simpliciter 
+      fa<lb ed="#L" n="43" break="no"/>cere illum actum, non velendo illum facere necessarium, nec liberum; tunc per hypothesin 
+      <lb ed="#L" n="44"/>neuter erit. Item si Deus tantum simpliciter volendo faceret actus irrationalium 
+      animato<lb ed="#L" n="45" break="no"/>rum vel inanimatorum, illi non essent necessarij respectu Dei, nec respectu aliarum 
+      causa<lb ed="#L" n="46" break="no"/>rum: nulla enim alia causa necessitat, nisi per virtutem &amp; cooperationem &amp; 
+      connecessitatio<lb ed="#L" n="47" break="no"/>nem primae causae, quae est primum necesse esse, sicut primum &amp; sequentia primi docent. 
+      <lb ed="#L" n="48"/>Item si Deus faciat aliquem actum voluntatis creatae, non volendo necessitare ad illum, sed 
+      <lb ed="#L" n="49"/>volendo simpliciter illum efficere, adhuc ille actus est necessarius respectu voluntatis diuinae, 
+      <lb ed="#L" n="50"/>quia illa impediri non potest. Prima ergo &amp; per se ratio quare aliquid dicitur necessarium 
+      re<lb ed="#L" n="51" break="no"/>spectu Dei seu voluntatis diuinae, non est quia vult necessitare ad illud, sed quia est causa 
+      pri<lb ed="#L" n="52" break="no"/>ma vniuersaliter efficax, omnipotens &amp; impediri non potest. Quare &amp; <name xml:id="dcn2br-e84297-Nd1e455">Stephanus Parisiensis 
+        <lb ed="#L" n="53"/>Episcopus</name> condemnauit quendam errorem, dicentem, <quote xml:id="dcn2br-e84297-Qd1e461" source="http://scta.info/resource/z88d99-avn8u2-d1e589@1-40">quod ad hoc quod effectus omnes sint 
+      <lb ed="#L" n="54"/>necessarij respectu causae primae non sufficit, quod ipsa causa prima non sit impedibilis, sed 
+      <lb ed="#L" n="55"/>exigitur, quod causae mediae non sint impedibiles. Error, inquit Episcopus, quia tunc Deus 
+      <lb ed="#L" n="56"/>non posset facere aliquem effectum necessarium sine causis posterioribus</quote>: omnes ergo 
+        effe<lb ed="#L" n="57" break="no"/>ctus etiam liberi possunt esse necessarij respectu causae primae, quia a voluntate sua 
+      proce<lb ed="#L" n="58" break="no"/>dunt, quae non potest aliqualiter impediri. Adhuc autem sicut necesse est quidlibet fieri, quod 
+      <!--673.xml-->
+      <pb ed="#A" n="640"/>
+               <lb ed="#L" n="1"/>Deus vult fieri, sic &amp; necesse est quidlibet fieri eo modo quo Deus vult illud fieri, sicut 
+      praece<lb ed="#L" n="2" break="no"/>dentia clare monstrant. Sicut ergo effectus naturales necessarios necesse est necessario fieri 
+      <lb ed="#L" n="3"/>respectu causarum suarum naturalium secundarum propter efficaciam voluntatis diuinae; sic 
+      <lb ed="#L" n="4"/>&amp; effectus liberos necesse est libere fieri respectu causarum suarum inferiorum libere 
+      actiua<lb ed="#L" n="5" break="no"/>rum propter vniuersalem efficaciam voluntatis diuinae. Omnes ergo effectus actusve liberi 
+      <lb ed="#L" n="6"/>omnium inferiorum agentium liberorum respectu voluntatis diuinae sunt necessarij, sicut  
+      <lb ed="#L" n="7"/>necessario liberi, &amp; necessario libere producuntur. Amplius autem nulla voluntas creata est, 
+      <lb ed="#L" n="8"/>liberior voluntate Christi humana, &amp; illam potuit necessitare voluntas eius diuina, imo &amp; 
+      ne<lb ed="#L" n="9" break="no"/>cessitauit de facto ad omnes &amp; singulos liberos actus suos, &amp; ad omnes &amp; singulas cessationes 
+      <lb ed="#L" n="10"/>&amp; vacationes liberas ab actu &amp; actibus quibuscunque. Si namque voluntas eius humana non 
+      <lb ed="#L" n="11"/>necessario consensisset voluntati eius diuinae naturaliter praecedenti, sicut tricesimum secundi 
+      <lb ed="#L" n="12"/>docebat, potuit dissensisse ab ea, &amp; voluisse aliquid aliud, imo &amp; contrarium, ac peccasse. 
+      <lb ed="#L" n="13"/>quod pro singulis partibus repugnat praeostensis de Christo 30. secundi; vnde &amp; Ioh. 5. Non 
+      <lb ed="#L" n="14"/>possum ego a meipso facere quicquam, sed sicut audio, iudico: quod Christus dicit 
+      secun<lb ed="#L" n="15" break="no"/>dum id quod est homo, vt Augustinus testatur, sicut ibi plenius allegatur. Hoc idem de 
+      <lb ed="#L" n="16"/>Christo, scilicet quod voluntas eius humana necessario sequebatur diuinam, docet Anselmus 
+      <lb ed="#L" n="17"/>I. Cur Deus homo, 10. &amp; 2i. 10. ostendit quod Christus potuit mentiri si voluerit, sed non 
+      <lb ed="#L" n="18"/>potuit velle mentiri, sicut 30. secundi plenius allegauit, &amp; 2. Cur Deus homo 17. ostendit, 
+      <lb ed="#L" n="19"/>quod Deus habuit potestatem seruandi vitam suam vt nunquam moreretur, licet nequiuerit 
+      <lb ed="#L" n="20"/>illud velle: ergo eadem ratione non potuit quicquam velle quod diuina eius voluntas non 
+      <lb ed="#L" n="21"/>praedisposuit ipsum velle, vel cuius oppositum disposuit circa ipsum. Vnde &amp; infra eodem 
+      <lb ed="#L" n="22"/>capite ita dicit, Si vis omnium quae fecit &amp; quae passus est veram scire necessitatem, scito 
+      <lb ed="#L" n="23"/>omnia ex necessitate fuisse, quia ipse voluit, voluntatem vero eius nulla praecessit necessitas: 
+      <lb ed="#L" n="24"/>voluntatem, inquam, eius diuinam nulla praecessit necessitas, sed humanam, sicut ab eodem 
+      <lb ed="#L" n="25"/>Anselmo exIc. primi fuerat allegatum. Haec est ergo sententia Christi, Augustini, Anselmi, 
+      <lb ed="#L" n="26"/>Damasceni, atque Lumbardi, sicut praemissa in isto capitulo, &amp; 30. secundi declarant, nec 
+      <lb ed="#L" n="27"/>vidi quenquam Doctorum contraria sentientem: videtur ergo ista sententia satis certa. 
+      </p>
+            <div xml:id="dcn2br-e84297-Dd1e538">
+               <head xml:id="dcn2br-e84297-Hd1e540">Corollarium</head>
+               <p xml:id="dcn2br-e84297-d1e543">
+                  <lb ed="#L" n="28"/>COROLLARIVM. 
+      <lb ed="#L" n="29"/>Corollarium, quod aliqualis necessitas &amp; libertas, ac meritum casusque &amp; fortuna in¬ 
+      <lb ed="#L" n="30"/>uicem non repugnant: de fati quoque praescientiae, praedestinationis &amp; gratiae cum 
+      li<lb ed="#L" n="31" break="no"/>bero arbitrio ac merito concordia generali.
+      </p>
+               <p xml:id="dcn2br-e84297-d1e554">
+                  <lb ed="#L" n="32"/>VNde redditur manifestum, quod necessitas &amp; libertas, necessitas quoque &amp; quodlibet 
+      <lb ed="#L" n="33"/>meritum, necessitas insuper &amp; casus &amp; fortuna inuicem non repugnant: vnde &amp; 
+      con<lb ed="#L" n="34" break="no"/>cordia generaliter fati, praescientiae, praedestinationis &amp; gratiae cum libero arbitrio ac merito 
+      <lb ed="#L" n="35"/>cognoscitur euidenter. Nam primam partem istius ostendit clarissime conclusio principalis, 
+      <lb ed="#L" n="36"/>secunda vero ostenditur ex hac prima, potest quoque probari per eadem per quae principalis 
+      <lb ed="#L" n="37"/>conclusio probatur. Item secundum Philosophum, 1. peri hermenias vlt. Esse quod est,  
+      <lb ed="#L" n="38"/>quando est, necesse est; &amp; aliquis actus liber &amp; meritorius nunc est; ergo illum nunc esse 
+      ne<lb ed="#L" n="39" break="no"/>cesse est. Item in Deo &amp; in Angelis confirmatis est necessitas pro multis actibus voluntatis, 
+      <lb ed="#L" n="40"/>maximaque libertas. Item Augustinus Enchir. 86. sic inquit, Prius oportebat hominem fieri, vt 
+      <lb ed="#L" n="41"/>&amp; bene velle posset &amp; male: postea vero sic erit, vt male velle non posset, nec ideo libero 
+      ca<lb ed="#L" n="42" break="no"/>rebit arbitrio; multo quippe liberius erit arbitrium quod omnino non poterit seruire peccato. 
+      <lb ed="#L" n="43"/>Neque enim culpanda est voluntas, aut voluntas non est, aut libera dicenda non est, qua bene 
+      <lb ed="#L" n="44"/>esse sic volumus, vt esse miseri non solum nolumus, sed nequaquam velle prorsus possumus. 
+      <lb ed="#L" n="45"/>Idem 5. de eiu. Dei 10. postquam prius disputauit contra Stoicos dicentes voluntates nostras 
+      <lb ed="#L" n="46"/>necessitati non subdi, eo quod tunc non essent liberae, respondet ad motiuum illorum distinguens 
+      <lb ed="#L" n="47"/>necessitatem bifarie, ostendendo vna esse necessitatem inuita, quae aufert seu adimit libertatem; 
+      <lb ed="#L" n="48"/>aliam vero voluntariam, quae compatitur libertatem: vnde &amp; capit. 9. sic ait, Quoquomodo 
+      <lb ed="#L" n="49"/>se habeant tortuosissimae concertationes &amp; disputationes Philosophorum, nos vt confitemur 
+      <lb ed="#L" n="50"/>summum &amp; verum Deum, ita voluntatem diuinam, summamque potestatem ac praescientiam  
+      <lb ed="#L" n="51"/>eius confitemur, nec timemus ne ideo non voluntate faciamus, quod voluntate facimus, quia 
+      <lb ed="#L" n="52"/>illud nos facturos ille praesciuit, cuius praescientia falli non potest: quod Cicero timuit vt 
+      op<lb ed="#L" n="53" break="no"/>pugnaret praescientiam; &amp; Stoici, vt non omnia necessitate fieri dicerent, quamuis omnia 
+      <lb ed="#L" n="54"/>fato fieri contenderent, quos redarguit consequenter. Et cap. 10. sic adiungit; Nec illa 
+      neces<lb ed="#L" n="55" break="no"/>sitas formidanda est, quam formidando Stoici laborarunt causas rerum ita distinguere, vt 
+      <!--674.xml-->
+      <pb ed="#A" n="641"/>
+                  <lb ed="#L" n="1"/>quasdam subtraherent necessitati, quasdam subderent, atque in his quas esse sub necesatate 
+      no<lb ed="#L" n="2" break="no"/>luerunt, posuerunt etiam nostras voluntates, ne videlicet non essent liberae si subderentur 
+      ne<lb ed="#L" n="3" break="no"/>cessitati; &amp; distinguendo subiungit, Si enim necessitas nostra illa dicenda est, quae non est in 
+      <lb ed="#L" n="4"/>nostra potestate, sed etiamsi nolumus, efficit quod potest, sicut est necessitas mortis; 
+      manife<lb ed="#L" n="5" break="no"/>stum est, voluntates nostras, quibus recte vel perperam viuitur; sub tali necessitare non esse. 
+      <lb ed="#L" n="6"/>Multa n. facimus, quae si nollemus, non vtique faceremus, quo primitus pertinet ipsum velle : 
+      <lb ed="#L" n="7"/>nam si volumus, est; si nolumus, non est: non n. vellemus, si nollemus. Et subdit pro membio 
+      <lb ed="#L" n="8"/>secundo, Si autem illa definitur esse necessitas secundum quam dicimus necesse esse, vt ita sit 
+      ali<lb ed="#L" n="9" break="no"/>quid, vel ita fiat, nescio cur ea timeamus, ne nobis libertate auferat voluntatis? Neque n. &amp; vita 
+      <lb ed="#L" n="10"/>Dei &amp; praescientiam Dei sub necessitate ponimus, sc. primo modo, si dicamus necesse esse Deum 
+      <lb ed="#L" n="11"/>semper viuere &amp; cuncta praescire, sicut nec potestas eius minuitur, cum dicitur mori, fallique 
+      <lb ed="#L" n="12"/>non posse. Vnde &amp; Ioseph. 1B. de Antiqe 2. agens de 4. fectis Philosophorum apud Iudaeos, 
+      qua<lb ed="#L" n="13" break="no"/>rum vna fuit Phariseorum, dicit quod illi fuerunt primi, quia meliores caeteris aestimantur, &amp; hi, 
+      <lb ed="#L" n="14"/>vt dicit, fato geri omnia credunt; sed neque liberum arbitrium hominis auferunt; fatum autem 
+      necessi<lb ed="#L" n="15" break="no"/>tatem importat, sicut 28. primi monstrauit: dicitque idem Ioseph. 7. de Iudaico bello 8. homines 
+      <lb ed="#L" n="16"/>fatum vitare non possunt, etiam si praeuiderint. Patet igitur quod necessitas &amp; libertas 
+      nequaqua<lb ed="#L" n="17" break="no"/>repugnant; quare nec necessitas &amp; meritum repugnabunt; quod &amp; aliter potest ostendi. 
+      Pona<lb ed="#L" n="18" break="no"/>tur n. quod Deus alique viatore confirmaret ad libere faciendum omnia bona quae faciet hic 
+      <lb ed="#L" n="19"/>in via, ipso penitus ignorante, sicut boni Angeli confirmantur ad bona sua facienda scienter. 
+      <lb ed="#L" n="20"/>tunc talis operaretur bona &amp; bene, quia ita voluntaris &amp; ita libere quantum in eo est, sicut alius 
+      <lb ed="#L" n="21"/>viator non confirmatus omnino: ergo &amp; ita meritorie, quod &amp; per exemplum euidens 
+      con<lb ed="#L" n="22" break="no"/>firmatur. Ponatur enim quod euntem deuote ad Missam aliqua vis occulta ita nescium 
+      pro<lb ed="#L" n="23" break="no"/>sequatur, vt cessare, tardare, vel declinare non possit, tunc talis necessario ita vadit, &amp; non  
+      <lb ed="#L" n="24"/>minus meretur quam faceret si vis illa praedicta penitus tolleretur. Sed ne exemplum huiusmodi 
+      <lb ed="#L" n="25"/>extra sacram Scripturam videat mendicare, ponatur quempiam tenentem virgam seu baculum, 
+      <lb ed="#L" n="26"/>volentemque ac intentum temere percutere proximum, sed propriis tamen viribus non valentem, 
+      <lb ed="#L" n="27"/>fiatque talis percussio per aliquam vim occultam, ipsum tamen valide dirigentem vt resistere 
+      <lb ed="#L" n="28"/>omnino non possit, ipse tamen non sic, sed contrarium opinetur, tunc ipse peccat, ac si 
+      pro<lb ed="#L" n="29" break="no"/>pria virtute percuteret, &amp; ita de actibus liberis quibuscunque. Quod autem in omnibus 
+      acti<lb ed="#L" n="30" break="no"/>bus liberis, nedum posset sic esse, sed &amp; quod sit ita de facto satis ostendit ipsemet Dominus 
+      <lb ed="#L" n="31"/>Esa. 10. Vae inquiens Assur virga furoris mei, &amp; baculus ipse est in manu eorum indignatio 
+      <lb ed="#L" n="32"/>mea; ad gentem fallacem mittam eum, &amp; contra populum furoris mei mandabo illi, vt auferat 
+      spo<lb ed="#L" n="33" break="no"/>lia, &amp; diripiat praedam, &amp; ponat illum in conculcationem quasi lutum plateatum: ipse autem 
+      <lb ed="#L" n="34"/>non sic arbitrabitur, &amp; cor eius non ita existimabit, sed ad conterendum erit cor eius, &amp; ad 
+      in<lb ed="#L" n="35" break="no"/>ternecionem gentium non paucarum. Dicet enim, Nunquid non Principes mei simul Reges 
+      <lb ed="#L" n="36"/>sunt, &amp;c. Et infra, Quomodo inuenit manus mea regna idoli, sic &amp; simulachra eorum 
+      de<lb ed="#L" n="37" break="no"/>Ierusalem &amp; Samatia. Nunquid non sicut feci Samariae &amp; idolis eius, sic faciam Ierusalem 
+      <lb ed="#L" n="38"/>&amp; simulachris eius? Et sequitur comminatio poenae cum expressione culpae: Et erit cum 
+      im<lb ed="#L" n="39" break="no"/>pleuerit Dominus cuncta opera sua in monte Sion &amp; in Ierusalem, visitabo super fructum 
+      <lb ed="#L" n="40"/>cordis magnifici Regis Assur, &amp; super gloriam altitudinis oculorum eius: Dixit enim, in 
+      forti<lb ed="#L" n="41" break="no"/>tudine manus meae ego feci, &amp; in sapientia mea intellexi, &amp; abstulili terminos popilorum, &amp;  
+      <lb ed="#L" n="42"/>Principes eorum depraedatus sum. Nunquid gloriabitur secutis contra eum qui secat in ea? aut 
+      <lb ed="#L" n="43"/>exaltabitur serra contra eum a quo trahitur? Quomodo, si eleuetur virga contra seuante se, &amp; 
+      <lb ed="#L" n="44"/>exaltetur baculus, qui vtique lignum est? Propter hoc mirtet dominator Deus exercituum in 
+      pin<lb ed="#L" n="45" break="no"/>guibus eius tenuitatem, &amp; subtus gloria, seu alias gloriam eius, succensa ardebit, quasi ignis 
+      com<lb ed="#L" n="46" break="no"/>bustio. Super quod glossa sic dicit, Sicut hic inanimata tantum instrumenta sunt, nihil per se 
+      faci<lb ed="#L" n="47" break="no"/>entia, sed per eum qui mouet ea; sic nec Senacheribper se, sed in Dei virtute operatus est: vnde 
+      <lb ed="#L" n="48"/>&amp; gloriatio eius stulta &amp; vltione digna. Ex hoc ergo clare videtur, quod licet aliquis faciat 
+      ali<lb ed="#L" n="49" break="no"/>quod bonum vel malum necessario, ignoranter tamen &amp; libere, quantum in eo est, meretur vel 
+      pec<lb ed="#L" n="50" break="no"/>cat. Vnde Theophilus, sicut allegatur in glossa super illud Luc. 22. Filius hominis secundum 
+      <lb ed="#L" n="51"/>quod definitum est vadit, sic ait, Non quasi non valens tueri seipsum, sed sicut definiens sibi 
+      <lb ed="#L" n="52"/>morte propter humanam salutem: sed quia Iudas ea quae sunt scripta praua intentione agebat, 
+      <lb ed="#L" n="53"/>ne quis putet eum innoxium tanqua dispensationis ministrum, subdit, Veruntamen vae homini 
+      <lb ed="#L" n="54"/>illi per quem tradetur. Cui &amp; cocordanter Isidorus, sicut allegatur in glossa super illud Luc. 24. 
+      <lb ed="#L" n="55"/>Nonne haec oportuit pati Christum, &amp;c. sed si oportuit Christum pati, tame qui crucifixerunt rei 
+      <lb ed="#L" n="56"/>sunt poenae: no n. satagebat perficere quod Deus disponebat, vnde &amp; eorum executio fuit 
+      impia<lb ed="#L" n="57" break="no"/>Quibus &amp; plane cocordat autoritas Aug. 83. q27. cum multis similibus 32. 1. plenius allegatis, 
+      <lb ed="#L" n="58"/>quod etiam bonum vel malum actum ab aliquo libere, quatum in eo est, licet no penitus libere, 
+      debeat<lb ed="#L" n="59" break="no"/>sibi prolibero merito computari, ratio plane docet, quia sic est in omnibus alijs factis humanis 
+      <!--675.xml-->
+      <pb ed="#A" n="642"/>
+                  <lb ed="#L" n="1"/>vel malis, iustis vel iniustisinam dicens verum, volens tamen &amp; credens mentiri, reus est men. A 
+      <lb ed="#L" n="2"/>dacij; &amp; e contra. Vnde Augustinus Enchirid. 12. Nemo sane mentiens iudicandus est,  
+      <lb ed="#L" n="3"/>qui dicit falsum, quod putat verum, quoniam quantum in ipso est, non fallit ipse, sed fallitur 
+      <lb ed="#L" n="4"/>potius: e contrario quantum in ipso est ille mentitur, qui dicit verum quod putat falsum; 
+      <lb ed="#L" n="5"/>quantum enim ad animum eius attinet, quia non quod sentit, hoc dicit, non verum dicit, 
+      <lb ed="#L" n="6"/>quamuis verum inueniatur esse quod dicit; nec vllo modo liber est a mendacio, qui ore 
+      ne<lb ed="#L" n="7" break="no"/>sciens verum loquitur, sciens autem voluntate mentitur. Non consideratis itaque rebus 
+      ip<lb ed="#L" n="8" break="no"/>lis; de quibus aliquid dicitur, sed sola intentione dicentis, melior est qui nesciens falsum dicit, 
+      <lb ed="#L" n="9"/>quoniam id verum putat, quam qui mentiendi animum sciens gerit, nesciens verum esse quod 
+      <lb ed="#L" n="10"/>dicit. Item volens quenquam occidere, &amp; faciens quantum in eo est vt occidat, vere dicitur 
+      <lb ed="#L" n="11"/>homicida. Unde 1. Ioh. 3. Omnis qui odit fratrem suum, homicida est: secundum quem 
+      mo<lb ed="#L" n="12" break="no"/>dum loquitur Apostolus ad Heb 6. dicens semel illuminatos deinde prolapsos, rursus 
+      cruci<lb ed="#L" n="13" break="no"/>figentes sibimetipsis filium Dei: Sic loquitur beatus Cyprianus Carthaginensis Episcopus, 
+      <lb ed="#L" n="14"/>Doctor &amp; Martur egregius, epist. 3. intitulata de lapsis. Sic &amp; loquitur Augustinus epist. 14. 
+      <lb ed="#L" n="15"/>ad Bonifacium, allegans &amp; recitans verba Cypriani in serie ac exponens, Recte, inquiens, 
+      <lb ed="#L" n="16"/>dicuntur parentes, vel quicunque maiores, filios seu quoslibet paruulos baptizatos 
+      daemo<lb ed="#L" n="17" break="no"/>niorum sacrilegijs obligare conantes, spiritualiter homicidae. Nam in illis quidem qui 
+      inter<lb ed="#L" n="18" break="no"/>fectionem non faciunt, sed quantum in ipsis est interfectores fuerunt, recte illis dicitur 
+      quan<lb ed="#L" n="19" break="no"/>do ab hoc scelere prohibentur, Nolite occidere paruulos vestros. Dicit enim &amp; Apostolus, 
+      <lb ed="#L" n="20"/>Spiritum nolite extinguere, non quia ille extingui potest, sed quantum in ipsis est, extinctores 
+      <lb ed="#L" n="21"/>eius merito dicuntur, qui sic agunt vt extinctum velint. Isto sensu recte intelligi potest, quod  
+      <lb ed="#L" n="22"/>scripsit beatissimus Cyprianus in epistola de sapsis, cum eos qui tempore persecutionis idolis 
+      <lb ed="#L" n="23"/>immolauerant, arguens, Ac ne quid deesset, inquit, ad criminis cumulum, infantes quoque 
+      <lb ed="#L" n="24"/>parentum manibus impositi vel attracti, amiserunt paruuli quod in primo statim natiuitatis 
+      <lb ed="#L" n="25"/>exordio fuerant consecuti. Amiserunt, dixit, quantum attinuit ad illorum scelus, a quibus 
+      <lb ed="#L" n="26"/>amittere coacti sunt: amiserunt in eorum mente ac voluntate, qui in illos tantum facinus 
+      co<lb ed="#L" n="27" break="no"/>miserunt. Nam si in se ipsi amisissent, remansissent vtique diuina sententia sine vlla defensione 
+      <lb ed="#L" n="28"/>damnandi: quod si sanctus Cyprianus arbitraretur, non eorum defensionem continuo 
+      sub<lb ed="#L" n="29" break="no"/>ijceret, dicens, Nonne illi cum iudicij dies venerit, dicent, Nos nihil fecimus, nec derelicto 
+      <lb ed="#L" n="30"/>cibo &amp; poqulo Domini ad profana contagia sponte properauimus? Perdidit nos aliena 
+      perfi<lb ed="#L" n="31" break="no"/>dia, parentes sensimus parricidas: illi nobis Ecclesiam matrem, illi patrem Deum 
+      negaue<lb ed="#L" n="32" break="no"/>runt; vt dum parui &amp; improuidi, &amp; tanti facinoris ignari, per alios ad consortium criminis 
+      <lb ed="#L" n="33"/>iungimur, aliena fraude caperemur. Hanc defensionem non subnecteret, nisi iustissimam 
+      cre<lb ed="#L" n="34" break="no"/>deret, &amp; in Dei iudicio paruulis profuturam. Si enim dicitur, Nos nihil fecimus, Anima 
+      quae<lb ed="#L" n="35" break="no"/>peccauit, ipsa morietur, nec illi peribunt sub Dei iusto iudicio, quos parentes sui suo scelere, 
+      <lb ed="#L" n="36"/>quantum ad seipsos attinet perdiderunt. Item volens &amp; faciens, quantum in eo est, vt 
+      cog<lb ed="#L" n="37" break="no"/>noscat alienam vxorem, cognoscens tamen propriam creditam alienam, reus adulterij 
+      con<lb ed="#L" n="38" break="no"/>demnatur: vnde Marth. 5. Omnis qui viderit mulierem ad concupiscendum eam, iam 
+      moe<lb ed="#L" n="39" break="no"/>chatus est eam in corde suo; sicut volens cognoscere propriam, &amp; inscius cognoscens aliena, 
+      <lb ed="#L" n="40"/>seu sororem propriae creditam propriam, a crimine excusatur, sicut canon testatur, nedum de 
+      <lb ed="#L" n="41"/>isto, sed de multis similibus, &amp; Lumbardus, sicut primum primi plenius recitauit. Item per 
+      <lb ed="#L" n="42"/>10. primi, nullus potest facere simpliciter contra voluntatem diuinam, &amp; per indem 10. cum 
+      <lb ed="#L" n="43"/>22. eiusdem primi, necesse est quemlibet semper conformiter agere voluntati diuinae; 
+      ergo<lb ed="#L" n="44" break="no"/>nullus meretur nec peccat, nisi libere faciendo quantum in eo est conformiter aut difformiter 
+      <lb ed="#L" n="45"/>voluntati diuinae. Vnde Augustiuus Enchirid. 80. Haec sunt, inquit, magna opera Domini 
+      <lb ed="#L" n="46"/>exquisita in omnes voluntates eius, &amp; tam sapienter exquisita, vt cum Angelica &amp; humana 
+      <lb ed="#L" n="47"/>creatura peccasset, 1. non quod ille, sed quod voluit ipsa fecisset, etiam per eandem creaturae, 
+      <lb ed="#L" n="48"/>voluntatem, qua factum est quod creator noluit, impleret ipse quod voluit, bene vtens &amp; 
+      ma<lb ed="#L" n="49" break="no"/>lis tanquam summe bonis ad eorum damnationem, quos iuste praedestinauit ad poenam; &amp; ad  
+      <lb ed="#L" n="50"/>eorum salutem, quos benigne praedestinauit ad gratiam. Quantum enim: ad ipsos attinet, 
+      <lb ed="#L" n="51"/>quod Deus noluit, fecerunt; quantum vero ad omnipotentiam Dei, nullo modo id // efficere 
+      <lb ed="#L" n="52"/>valuerunt. Idem 22. contra Faustum: Fit autem homo iniquus, cum propter seipsas diligit. 
+      <lb ed="#L" n="53"/>res propter aliud assumendas, &amp; propter aliud appetit res propter seipsas diligendas: sic enim 
+      <lb ed="#L" n="54"/>quantum in ipso est, perturbat in se ordinem naturalem, quem lex aeterna conseruari iuber. 
+      <lb ed="#L" n="55"/>Cui concordans Anselmus I. Cur Deus homo, 15. ita dicit; Dei honori nequit aliquid, 
+      quan<lb ed="#L" n="56" break="no"/>tum ad illum pertinet, addi vel minui: idem namque ipse sibi est honor incorruptibilis, nullo 
+      <lb ed="#L" n="57"/>modo mutabilis. Verum quando vnaquaeque creatura suum quasi sibi praeceptum ordinem 
+      <lb ed="#L" n="58"/>siue naturaliter siue rationabiliter seruat, Deo obedire &amp; eum honorarte dicitur, &amp; hoc maxime 
+      <!--676.xml-->
+      <pb ed="#A" n="643"/>
+                  <lb ed="#L" n="1"/>rationalis natura, cui datum est intelligere quae debeat, quae cum vult quod debes, Deum 
+      ho<lb ed="#L" n="2" break="no"/>norat, non quia illi aliquid confert, sed quia sponte se eius voluntati &amp; dispositioni subdit, &amp;  
+      <lb ed="#L" n="3"/>in rerum vniuersitate ordinem suum, &amp; eiusdem vniuersitatis pulchritudinem, quantum in 
+      <lb ed="#L" n="4"/>ipsa est, conseruat. Cum vero non vult quod debet, Deum, quantum ad illam pertinet, 
+      inho<lb ed="#L" n="5" break="no"/>norat, quoniam non se sponte subdit illius dispositioni, &amp; vniuersitatis ordinem, &amp; 
+      pulchritu<lb ed="#L" n="6" break="no"/>dinem, quantum in se est, perturbat; quod tamen absolutem non potest, sicut ostendit eodem 
+      <lb ed="#L" n="7"/>cap. consequenter, ad duo impossibilia deducendo. Primum est, quod si sic esset, fieret in 
+      ip<lb ed="#L" n="8" break="no"/>sa vniuersitate, quam Deus debet ordinare, quaedam ex violentia ordinis in pulchritudine 
+      <lb ed="#L" n="9"/>deformitas. Secundum est, quod Deus in sua dispositione videretur deficere; quae duo, inn 
+      <lb ed="#L" n="10"/>quit, sicut sunt inconuenientia, itae sunt impossibilia. Aliter autem breuius &amp; forsitan leuius 
+      <lb ed="#L" n="11"/>potest adhuc hoc idem itidem sic ostendi. Nulli enim Philosopho, vel Theologo dubium. 
+      <lb ed="#L" n="12"/>quin homo ideo meretur vel peccat, quia in statu merendi, &amp; peccandi, scienter, voluntarie, 
+      <lb ed="#L" n="13"/>gratis, &amp; sponte consentit, vult, &amp; facit bonum vel malum; sed hoc &amp; sic potest, licet 
+      neces<lb ed="#L" n="14" break="no"/>nario faciat hoc vel illud, sicut praemissa testantur. Vnde &amp; Vilhelmus de Aluernia 
+      Parisien<lb ed="#L" n="15" break="no"/>sis Episcopus in suo tripartito, cuius prima pars principalis est de fide &amp; legibus, secunda de 
+      <lb ed="#L" n="16"/>virtutibus, tertia de vitijs &amp; peccatis, part. vlt. cap. 10. recitato errore dicentium hominem 
+      <lb ed="#L" n="17"/>non posse peccare, quia habet necessitatem vel impossibilitatem faciendi vel non faciendi 
+      quod<lb ed="#L" n="18" break="no"/>cunque; quare, vt arguunt, non habet liberum arbitrium, nec culpam, nec laudem: ipsisque 
+      <lb ed="#L" n="19"/>redargutis, respondens ad motiuum eorum; Propter hoc, inquit, solebamus distinguere, quod 
+      <lb ed="#L" n="20"/>quaedam necessitas est violentiae, &amp; illata; &amp; quicquid ex ea agitur, non agenti, sed violentiam 
+      <lb ed="#L" n="21"/>inferenti imputandum est: imo non agens dicendum est illud cui violentia infertur, sed magis ipsu 
+      <lb ed="#L" n="22"/>quod infert violentia, vt rota molendini est. Et secunda est necessitas stabilitatis &amp; 
+      immuta<lb ed="#L" n="23" break="no"/>bilitatis, quale dicimus esse necessitatem Dei, qua immutabiliter bonus est, &amp; quicquid est hac 
+      <lb ed="#L" n="24"/>necessitate, necesse est ipsum bene agere semper, &amp; contrarium impossibile, &amp; ista necessitas 
+      <lb ed="#L" n="25"/>non aufert libertatem sed perficit. Tertia necessitas est extranea siue forinseca, quam nonnulli 
+      <lb ed="#L" n="26"/>vocant necessitatem per accidens; &amp; easdem distinctiones facimus de impossibilitatibus, &amp;  
+      <lb ed="#L" n="27"/>hoc modo dicutur quaeda de praeterito necessaria vel impossibilia, sicut te comedisse &amp; fecisse, 
+      <lb ed="#L" n="28"/>quicquid fecisti. Est &amp; quarta necessitas, quam vocat Aristoteles determinatam, vt Socratem 
+      <lb ed="#L" n="29"/>sedere dum sedet, &amp; forte referri potest ad necessitatem quam diximus extraneam; quoniam 
+      <lb ed="#L" n="30"/>sicut necesse est te fe¬ta quod fecisti, quia tempus non recipit mutationem reditus siue 
+      reuoca<lb ed="#L" n="31" break="no"/>tionis: sic &amp; Socratem sedere dum sedet; quare fluxus temporis vtrique est causa necessitatis &amp; 
+      <lb ed="#L" n="32"/>impossibilitatis. Necessitas violentiae, cum violentia contra voluntatem fuerit, inculpabilem 
+      <lb ed="#L" n="33"/>facit: contra voluntatem autem dicimus necessitatem, aut impossibilitatem, aut etiam 
+      vio<lb ed="#L" n="34" break="no"/>lentiam, cum nec affectata est, nec procurata, nec tolerata, aut neglecta. Et infra eiusdem 
+      ri<lb ed="#L" n="35" break="no"/>Secundum, inquit, errorem illorum, qui dicunt omnia ex necessitate euenire, non est necesse 
+      <lb ed="#L" n="36"/>vt propter hoc nemo peccare possit, aut bene agere: &amp; hoc apparet per ea quae diximus de 
+      ne<lb ed="#L" n="37" break="no"/>cessitate &amp; impossibilitate, videlicet, quae &amp; quando excusant a culpa &amp; obligatione, &amp; 
+      qua<lb ed="#L" n="38" break="no"/>tenus. Ostendimus quod necessitas, qua necesse est Deum semper bene agere, &amp; 
+      impossibili<lb ed="#L" n="39" break="no"/>tas, qua impossibile est ipsum male agere, in nullo prohibent vel impediut, quo minus bene &amp; 
+      <lb ed="#L" n="40"/>Iaudabiliter agat vtrumque: &amp; hoc est, quoniam nec violenter impellunt ipsum ad bene 
+      agen<lb ed="#L" n="41" break="no"/>dum, nec violenter ipsum impediunt aut auertunt a malo agendo, nec vllo modorum resistit, 
+      <lb ed="#L" n="42"/>illa impossibilitas aut contradicit voluntati eiusdem. Sic necessitas virtutis coelestis aut fati, 
+      <lb ed="#L" n="43"/>quam secundum eos impossibile est // auerti vel impediri, &amp; quae etiam mouent animas 
+      huma<lb ed="#L" n="44" break="no"/>nas, vt ipsi opinantur, mouent, inquam, ad cogitationes &amp; affectiones, quae in eis sunt, &amp; 
+      per<lb ed="#L" n="45" break="no"/>illas ad operationes, &amp; operum declinationes, quoniam non mouent eos violenter, imo 
+      vo<lb ed="#L" n="46" break="no"/>luntarie, non excusat animas humanas a peccatis &amp; culpis: &amp; hoc est, quoniam a quocunque 
+      <lb ed="#L" n="47"/>principio fit opus voluntarium, dummodo voluntarium sit, id est, volutum quocunque trium 
+      <lb ed="#L" n="48"/>modorum quos diximus, id est, vel affectatum, vel toleratum, vel neglectum, semper 
+      impu<lb ed="#L" n="49" break="no"/>tandum est volenti &amp; agenti per voluntatem: nec sequitur; Si non potest aliud agere, vel etiam 
+      <lb ed="#L" n="50"/>velle propter hoc excusatus fit, quia nec vult aliud posse vel agere nec aliud velle. Propter hoc 
+      <lb ed="#L" n="51"/>dicit Seneca, quia omne peccatum adeo est voluntarium, quia si non est voluntarium, non est 
+      <lb ed="#L" n="52"/>peccatum: Quare necessitas vel impossibilitas, quae non aufert operi, quin sit voluntarium, 
+      <lb ed="#L" n="53"/>hoc est, ex necessitate, quam impossibile est non esse liberam, nec culpam aufert nec meritum 
+      <lb ed="#L" n="54"/>eidem operi. Reuera autem si totum quod mouet animas nostras extra nos esset, &amp; non 
+      ha<lb ed="#L" n="55" break="no"/>beremus principium motiuum operum nostrorum intra nos vel in nobis, totum 
+      attribuen<lb ed="#L" n="56" break="no"/>dum videretur extrinseco motori, vel motoribus, si plures essent: Quare non erit nobis 
+      im<lb ed="#L" n="57" break="no"/>putandum vel ad laudem vel ad vituperium, similiter nec ad meritum, nec ad culpam: Non 
+      <!--677.xml-->
+      <pb ed="#A" n="644"/>
+                  <lb ed="#L" n="1"/>en im erit secundum hoc alterutrum in potestate nostra. Cum enim a solo motore, qui extra 
+      <lb ed="#L" n="2"/>nos est, sint voluntates nostrae, &amp; voluntatum aduersiones vel repressiones, &amp; motor 
+      huius<lb ed="#L" n="3" break="no"/>modi in potestate nostra non sit vllo modo, non erunt illae in potestate nostra, nec erunt in 
+      <lb ed="#L" n="4"/>nobis vt actiones nostrae &amp; opera, sed vt passiones tantum a forinseco agente, &amp; erimus 
+      tan<lb ed="#L" n="5" break="no"/>tum receptores huiusmodi impressionum, &amp; nullo modo actores, quare nec bene nec male 
+      a<lb ed="#L" n="6" break="no"/>gemus, sed virtus coelestis vel fatum aget omnia haec quae videntur esse actiones nostrae, &amp; 
+      <lb ed="#L" n="7"/>erimus tantum organa virtutis coelestis &amp; fati. Manifestum est autem quod organo non est 
+      <lb ed="#L" n="8"/>imputanda operatio, quae per ipsum agitur, ad laudem vel vituperium, culpam vel meritum, 
+      <lb ed="#L" n="9"/>sicut motus rotae molendini varie, nec quantum ad essentiam suam, nec quantum ad 
+      tardita<lb ed="#L" n="10" break="no"/>tem vel velocitatem culpabiliter imputari potest ipsi rotae, sed aquae soli impellenti &amp; 
+      reuol<lb ed="#L" n="11" break="no"/>uenti illam. Quare manifestum est, quia si virtus coelestis vel fatum, vel quicunque alius 
+      mo<lb ed="#L" n="12" break="no"/>tor extrinsecus moueret animas humanas ad volendum vel nolendum, non aufert eis 
+      domini<lb ed="#L" n="13" break="no"/>um &amp; imperium, vel autoritatem suarum voluntatum &amp; actionum, cum nec vim, nec 
+      violen<lb ed="#L" n="14" break="no"/>tiam nec coactionem eis inferre ad haec possunt: &amp; hoc est propter libertatem atque 
+      imperio<lb ed="#L" n="15" break="no"/>sitatem voluntatis, propter quas nec coactionem sustinet, nec receptibilis est vllo modorum  
+      <lb ed="#L" n="16"/>ipsius. Ex his autem euidenter apparet, quod licet quis necessitatus fuerit ad faciendum quic¬ 
+      <lb ed="#L" n="17"/>quam boni vel mali, si tamen necessitationem illam ignoret, &amp; faciat hoc voluntarie &amp; libere, 
+      <lb ed="#L" n="18"/>quantum in // eo est, meretur. Sed quia ignorantia non est per se causa merendi, nec necessario 
+      <lb ed="#L" n="19"/>consequens meritum, potest quis non ignoranter, sed vere scienter necessitatus ad aliquid 
+      fa<lb ed="#L" n="20" break="no"/>ciendum, hoc faciendo mereri. Si namque ignorantia necessario praeexigeretur ad meritum, 
+      <lb ed="#L" n="21"/>ipsa esset causa essentialis illius, vt quarto &amp; decimo tertio primi docetur. Omnis enim 
+      effe<lb ed="#L" n="22" break="no"/>ctus ponitur, vel poni potest, positis omnibus &amp; solis essentialibus causis suis: sed ignorantia 
+      <lb ed="#L" n="23"/>non est aliqua essentialis causa meriti, vt inductio manifestat; ipsa quoque ignorantia pura 
+      <lb ed="#L" n="24"/>priuatio est &amp; nihil, quare nullam veram rem causat. Et per decimum octauum secundi 
+      hu<lb ed="#L" n="25" break="no"/>ius: meritum est vera res existens: sublata igitur ignorantia supradicta, &amp; stantibus omnibus 
+      <lb ed="#L" n="26"/>causis essentialibus meriti, erit meritum sicut prius; maxime quia habitus oppositus 
+      ignoran<lb ed="#L" n="27" break="no"/>tiae, id est, scientia, non repugnat formaliter merito, nec alicui alij positiuo cum tali merito 
+      ne<lb ed="#L" n="28" break="no"/>cessario concurrente: Quare &amp; videtur quod essentialis &amp; per se ratio merendi sit ista; 
+      meri<lb ed="#L" n="29" break="no"/>tiuum, vt sic loquar, scilicet habile ad merendum facere quid morale libere, quantum in // eo 
+      <lb ed="#L" n="30"/>est, seu simpliciter libere, scilicet voluntarie siue spontanee. Posui meritiuum ad differentiam 
+      <lb ed="#L" n="31"/>Dei &amp; sanctorum confirmatorum perfecte, sicut erunt post finale iudicium, qui possunt tale 
+      <lb ed="#L" n="32"/>&amp; sic facere non merendo, eo quod non sunt aut erunt habiles ad merendum. Hoc autem 
+      <lb ed="#L" n="33"/>videtur multum consonum rationi. Nam si quis licet necessitatus scienter ad faciendum 
+      ali<lb ed="#L" n="34" break="no"/>quid pro amico, faciat hoc pro eo non inuitus tanquam necessitate coactus, sed quantum in 
+      <lb ed="#L" n="35"/>eo est, libere &amp; omnino spontanee ac deuote gratissimoque amore, videtur quod ratio 
+      exi<lb ed="#L" n="36" break="no"/>gat, &amp; gratitudo compellat, quod ille beneficiatus benefactori suo aliquam gratiam referat, T 
+      <lb ed="#L" n="37"/>aut saltem aliquem gratum effectum rependat: Nam vis ipsa gratitudinis // intima non 
+      per<lb ed="#L" n="38" break="no"/>mittit, vt sit sibi, sicut caeteri hominum, sicut Ethnicus &amp; Publicanus, qui nunquam eum 
+      gra<lb ed="#L" n="39" break="no"/>tis dilexit, nunquam sibi voluit bonum nec vnquam in minimo benefecit. Hoc autem totum 
+      <lb ed="#L" n="40"/>demonstratur clarissime in Domino Iesu Christo, qui fuit necessitatus quodammodo ad 
+      ope<lb ed="#L" n="41" break="no"/>ra sua meritoria vniuersa, sicut praesens capitulum ostendebat, nec ignoranter, sed distincte 
+      <lb ed="#L" n="42"/>scienter, sicut nullus ambigit Christianus: quod &amp; ipsemet expresse contestans, Non 
+      pos<lb ed="#L" n="43" break="no"/>sum, inquit, ego a me ipso facere quicquam, sed sicut audio, iudico Ioh. 5. quod dixit de 
+      se<lb ed="#L" n="44" break="no"/>ipso secundum naturam suam humanam, sicut tricesimum secundi allegat. Vnde 
+      Ansel<lb ed="#L" n="45" break="no"/>mus 2. Cur Deus homo 5. necessitatem bipartiendo distinguens iuxta distinctionem 
+      Augu<lb ed="#L" n="46" break="no"/>stini praemissam, ostendit vnam esse, quae prohibitionem aut coactionem importat, &amp; 
+      red<lb ed="#L" n="47" break="no"/>dit // necessitatum inuitum: &amp; alteram, quae nhil hiorum importat, sed tantum immutabilitatem 
+      <lb ed="#L" n="48"/>spontanea voluntatis. Prima, vt dicit, tollit gratia &amp; meritum //facienti: secunda vero non 
+      <lb ed="#L" n="49"/>tollit, sed compatitur &amp; adauget: vbi ad propositum primo quaerit, Quomodo 
+      imputabi<lb ed="#L" n="50" break="no"/>mus nostram salutem eius gratis, si nos saluat necessitate? Et statim respondet, Est necessitas, 
+      <lb ed="#L" n="51"/>quae benefacienti gratiam aufert aut minuit: &amp; est necessitas, qua maior beneficio gratia 
+      <lb ed="#L" n="52"/>debetur. Cum enim aliquis ea necessitate cui subiacet, inuitus benefacit, aut nulla aut  
+      <lb ed="#L" n="53"/>minor ei gratia debetur: cum vero ipse sponte se necessitati benefaciendi subdit, nec inuitus 
+      <lb ed="#L" n="54"/>eam sustinet, tunc vtique maiorem beneficij gratia meretur: Non enim haec est dicenda 
+      necessi<lb ed="#L" n="55" break="no"/>tas, sed gratia, quia nullo cogente illa suscepit, aut seruat, sed gratis. Nam si quod hodie sponte 
+      <lb ed="#L" n="56"/>promittis cras te daturum, eadem cras voluntate das, quamuis necesse sit te cras reddere pro¬ 
+      <!--678.xml-->
+      <pb ed="#A" n="645"/>
+                  <lb ed="#L" n="1"/>missum, si potes, aut mentiri, non tamen minus tibi debet ille pro impenso beneficio cui das, 
+      <lb ed="#L" n="2"/>quam si non promisisses, quoniam te debitorem ante tempus dationis illi facere non es 
+      neces<lb ed="#L" n="3" break="no"/>sitatus: tale est cum quis sanctae conuersationis sponte vouet propositum. Quamuis namque 
+      <lb ed="#L" n="4"/>seruare illud ex necessitate post votum debeat, ne Apostatae damnationem incurrat, &amp; licet 
+      <lb ed="#L" n="5"/>cogi posset seruare si nolit, si tamen non inuitus seruat quod vouit, non minus sed magis 
+      gra<lb ed="#L" n="6" break="no"/>tus est Deo, quam si non vouisset, quoniam non solum communem vitam, sed etiam eius 
+      li<lb ed="#L" n="7" break="no"/>centiam sibi propter Deum abnegauit; nec sancte viuere dicendus est necessitate, sed eadem 
+      <lb ed="#L" n="8"/>qua vouit libertate. Et eandem distinctionem decimo &amp; decimo septimo recitat, vbi &amp; 
+      <lb ed="#L" n="9"/>ostendit diffuse, quod Christus ista secunda necessitate fecit &amp; passus est quaecunque; vnde 
+      <lb ed="#L" n="10"/>&amp; dicit, quod Deus homo nequiuit velle seruare vitam suam, vt nunquam moreretur, &amp; 
+      quo<lb ed="#L" n="11" break="no"/>niam hoc a seipso habuit, vt scilicet velle non posset, non necessitate, sed libera potestate, 
+      a<lb ed="#L" n="12" break="no"/>nimam suam posuit; quod &amp; consequenter per impossibile &amp; ostensiue demonstrat. Primo 
+      <lb ed="#L" n="13"/>per impossibile isto modo; Christus potuit non mori; ergo fides virginis benedictae &amp; 
+      anti<lb ed="#L" n="14" break="no"/>quorum sanctorum, qua credebant Christum passurum, in qua fide fuerunt a peccato 
+      mun<lb ed="#L" n="15" break="no"/>dati, potuit tunc semper prius fuisse falsa, quae si falsa fuisset, neminem emundasset; potuit 
+      er<lb ed="#L" n="16" break="no"/>go tunc virgo benedicta, &amp; sancti antiqui nunquam prius fuisse mundati, cum tamen tunc 
+      e<lb ed="#L" n="17" break="no"/>rat verum de praeterito, ipsos fuisse mundatos. Secundo hoc ostensiue demonstrat, e 
+      contra<lb ed="#L" n="18" break="no"/>rio arguendo hoc modo; Tempore Christi incarnati non passi verum fuit de praeterito, &amp;  
+      <lb ed="#L" n="19"/>necessarium virginem benedictam &amp; sanctos antiquos fuisse mundatos in fide non ficta, sed 
+      <lb ed="#L" n="20"/>vera passionis Christi futurae; ergo tunc fuit necessarium Christum pati: nam si antecedens 
+      <lb ed="#L" n="21"/>est necessarium, &amp; consequens erit similiter, vt supponit, quod ostendit Philosophus I. Prior. 
+      <lb ed="#L" n="22"/>Aliter enim ex vero sequeretur falsum quandoque. Si enim consequens non esset 
+      necessari<lb ed="#L" n="23" break="no"/>um, aut esset falsum, aut fieri posset falsum; ergo secundum Anselmum, quam necesse fuit 
+      <lb ed="#L" n="24"/>tempore Christi incarnati non passi virginem benedictam, &amp; sanctos antiquos fuisse 
+      mun<lb ed="#L" n="25" break="no"/>datos, tam necesse fuit Christum fore passurum secundo modo necessitatis, non primo: 
+      <lb ed="#L" n="26"/>vnde &amp; inter caetera ita dicit; Vere moriturus erat, quoniam si vere non fuisset 
+      mori<lb ed="#L" n="27" break="no"/>turus, non fuisset vera fides futurae mortis eius, per quam &amp; illa virgo, de qua natus est,  
+      <lb ed="#L" n="28"/>&amp; multi alij mundati sunt a peccato. Nam si vera non fuisset, nihil prodesse potuisset: 
+      <lb ed="#L" n="29"/>Quapropter si potuit non mori, potuit facere non esse verum quod verum erat. Deinde 
+      <lb ed="#L" n="30"/>quaerens, quare verum erat antequam moreretur, quod moriturus erat, &amp; discipulo 
+      re<lb ed="#L" n="31" break="no"/>spondente, quoniam hoc ipse sponte voluit &amp; immutabili voluntate; subiungit Anselmus, 
+      <lb ed="#L" n="32"/>Si ergo, sicut dicis, idcirco non potuit non mori, quia vere moriturus erat, &amp; ideo vere 
+      <lb ed="#L" n="33"/>erat moriturus, quia hoc ipse sponte voluit &amp; immutabiliter, sequitur illum non ob 
+      ali<lb ed="#L" n="34" break="no"/>ud non potuisse non mori, nisi quia immutabili voluntate voluit mori. Et paulo post sic 
+      <lb ed="#L" n="35"/>ait; Cum dicimus quod homo ille, qui secundum vnitatem personae, sicut supradictum 
+      <lb ed="#L" n="36"/>est, idem ipse est, qui filius Dei Deus, non potuit non mori, aut velle non mori, 
+      post<lb ed="#L" n="37" break="no"/>quam de virgine natus est; non significatur in illo vlla impotentia seruandi aut volendi 
+      <lb ed="#L" n="38"/>seruare vitam suam immortalem, sed immutabilitas voluntatis eius, qua se sponte fecit 
+      <lb ed="#L" n="39"/>ad hoc hominem, vt in eadem voluntate perseuerans moreretur, &amp; quia nulla res 
+      potu<lb ed="#L" n="40" break="no"/>it illam voluntatem mutare: Plus enim esset impotentia, quam potentia, si posset velle 
+      <lb ed="#L" n="41"/>mentiri, aut fallere, aut mutare voluntatem, quam psimmutabilem esse voluit. Et  
+      <lb ed="#L" n="42"/>si quemadmodum supra dixi, cum aliquis sponte se proponit facturum bonum aliquod, 
+      <lb ed="#L" n="43"/>&amp; eadem voluntate postea perficit quod proposuit, quamuis cogi possit, si nolit, 
+      pro<lb ed="#L" n="44" break="no"/>missum soluere; non tamen dicendus est necessitate facere quod facit, sed ea, qua 
+      pro<lb ed="#L" n="45" break="no"/>posuit, libera voluntate. Non enim necessitate aut impotentia fieri, vel non fieri dici 
+      <lb ed="#L" n="46"/>debet aliquid, vbi neque necessitas, neque impotentia quicquam operatur, sed 
+      volun<lb ed="#L" n="47" break="no"/>tas. Si, inquam, ita est in homine, multo magis necessitas aut impotentia nequaquam  
+      <lb ed="#L" n="48"/>nominandae sunt in Deo, qui nihil nisi quod vult, facit, &amp; cuius voluntatem nulla vis 
+      co<lb ed="#L" n="49" break="no"/>gere aut prohibere valet. Denique virgo, quae per fidem munda facta est, vt de illa 
+      <lb ed="#L" n="50"/>posset assumi, nequaquam credidit illum moriturum, nisi quia vellet, quemadmodum 
+      <lb ed="#L" n="51"/>per Prophetam squi de illo dixit, Oblatus est quia ipse voluit) didicerat. Quapropter 
+      <lb ed="#L" n="52"/>quoniam vera fuit fides eius necesse erat ita futurum esse. sicut credidit. Legens igitur ac 
+      rele<lb ed="#L" n="53" break="no"/>gens diligenter hunc librum Anselmi Christiani Philosophi, audeo asserere pro constanti 
+      <lb ed="#L" n="54"/>mentis suae fuisse, quod Christus patiebatur, &amp; fecit quaecunque secunda necessitate praedicta, 
+      <lb ed="#L" n="55"/>non prima; nec dubium, quin Christus vtroque modo plurimum meruit: Quare nec dubium 
+      <lb ed="#L" n="56"/>secundum eundem, quin scita necessitas &amp; meritum non repugnant. Idem videtur testari 
+      Lum<lb ed="#L" n="57" break="no"/>bardus, qui 2. sen. dist. 5. &amp; II. dicit sanctos Angelos cofirmatos continue proficere in meredo; 
+      <!--679.xml-->
+      <pb ed="#A" n="646"/>
+                  <lb ed="#L" n="1"/>qui &amp; 4. sentent. dist. 45. dicit, quod Angeli cognoscunt in Dei voluntate esse, volunt &amp; 
+      ip<lb ed="#L" n="2" break="no"/>si: adeo enim voluntati addicti sunt supernae, vt nihil praeter voluntatem eius queant velle, 
+      <lb ed="#L" n="3"/>nec est verisimile quod ipsi Angeli illam necessitatem ignorent, cum nos ignari homines 
+      <lb ed="#L" n="4"/>hanc sciamus. Item tu scis te nunc mereri, ponatur; &amp; tu scis secundum Philosophum 1. peri 
+      <lb ed="#L" n="5"/>hermenias vlt. quod esse quod est, quando est, necesse est: tu ergo scis, quod tu necessatio 
+      <lb ed="#L" n="6"/>nunc mereris; quare &amp; scis, quod scita necessitas &amp; meritum non repugnant. Prima igitur 
+      <lb ed="#L" n="7"/>demonstrationum istarum, que per ignorantiam ostendebat non repugnantiam necessitatis 
+      <lb ed="#L" n="8"/>&amp; meriti, est demonstratio cognitionis tantummodo. Non est enim propter quid, nec quia, 
+      <lb ed="#L" n="9"/>quoniam nec a causa ad effectum, nec e contra. Apertius tamen &amp; facilius facit cognoscere 
+      <lb ed="#L" n="10"/>veritatem: secunda autem est propter quid, quia procedit a causa: tertia, scilicet in vltimo 
+      ar<lb ed="#L" n="11" break="no"/>gumento, est demonstratio tantum quia, eo quod sumitur ab effectu. Has autem tres 
+      demon<lb ed="#L" n="12" break="no"/>strationes tangit breuiter Auerroes, super 8. Phys. 5 8. sub alijs tamen verbis. Tertia pars 
+      co<lb ed="#L" n="13" break="no"/>rollarij patet ex prima, cum vicesimonono primi: quarta vero pars eius, fatum, 
+      praescienti<lb ed="#L" n="14" break="no"/>am, praedestinationem, &amp; gratiam cum libero arbitrio &amp; merito satagens concordare ex 
+      pri<lb ed="#L" n="15" break="no"/>ma d&amp; secunda, consequitur euidenter: Non enim est causa quare discordare videntur, nisi 
+      <lb ed="#L" n="16"/>quia haec necessitatem, illa libertatem importare creduntur; sed hae non repugnant inuicem, 
+      <lb ed="#L" n="17"/>ned stant simul concorditer, testibus partibus supradictis. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

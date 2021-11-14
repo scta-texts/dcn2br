@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="756"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e99714"><!-- l3c32 -->
+            <head xml:id="dcn2br-e99714-Hd1e106">Caput 32</head>
+            <p xml:id="dcn2br-e99714-d1e109">
+      <!--789.xml-->
+               <pb ed="#A" n="756"/>
+               <lb ed="#L" n="1"/>CAP. XXXII. 
+      <lb ed="#L" n="2"/>Reducit eandem per viam immutabilitatis voluntatis diuinae.
+    </p>
+            <p xml:id="dcn2br-e99714-d1e120">
+               <lb ed="#L" n="3"/>Et viam etiam immutabilitatis voluntatis diuinae potest eadem hypo¬ 
+      <lb ed="#L" n="4"/>thesis impugnati. Nam si Deus posset nolle priuatiue, seu etiam 
+      posi<lb ed="#L" n="5" break="no"/>tiue pro nunc praesentia ista esse, quae nunc vult esse, &amp; praeterita illa 
+      <lb ed="#L" n="6"/>fuisse quae vult fuisse, &amp; ammodo semper nolle illa praesentia atque 
+      <lb ed="#L" n="7"/>praeterita fuisse futura, quae semper ante voluit fuisse futura, esset 
+      mu<lb ed="#L" n="8" break="no"/>tabilis, sicut &amp; omnes Autores huius hypothesis confitentur. Sed 
+      si<lb ed="#L" n="9" break="no"/>militer omnino intrinsece se habet voluntas diuina ad futura, sicut ad E 
+      <lb ed="#L" n="10"/>praesentia vel praeterita, vt potest haberi per prius ostensa tricesimo 
+      <lb ed="#L" n="11"/>huius; alias etiam re futura facta praesente vel praeterita intrinsece mutaretur contra 
+      vicesi<lb ed="#L" n="12" break="no"/>mum tertium primi libri; ergo si futura quae vult, &amp; semper prius fore voluit, potest pro nunc 
+      <lb ed="#L" n="13"/>&amp; semper post nolle fore, non positis illis in esse, est mutabilis: vel e contra, si Deus sine sui 
+      <lb ed="#L" n="14"/>mutatione, futura, quae nunc vult, &amp; semper prius voluit fore atque fuisse futura, potest pro 
+      <lb ed="#L" n="15"/>nunc &amp; semper post nolle fore ipsis non positis, &amp; nolle illa fuisse futura; potest similiter sine 
+      <lb ed="#L" n="16"/>sui mutatione nolle pro nunc praesentia ista esse, praeteritaque fuisse, &amp; semper post nolle haec 
+      <lb ed="#L" n="17"/>fuisse futura. Nam nulla causa vel ratio dissimilitudinis potest dari. Et si fortassis quis dicat 
+      <lb ed="#L" n="18"/>hanc esse causam dissimilitudinis inter ista, quod nunc necesse est Deum velle &amp; semper 
+      vo<lb ed="#L" n="19" break="no"/>luisse hoc praesens praeteritumue fuisse futurum, &amp; ideo, si post hoc nollet, necessario 
+      mutar<lb ed="#L" n="20" break="no"/>tur; non sic ante de futuris; ergo Deus aliter intrinsece vult praesentia &amp; praeterita quam 
+      fu<lb ed="#L" n="21" break="no"/>tura, &amp; aliter intrinsece eandem rem primo futuram, deinde praesentem, ergo est mutabilis. 
+      <lb ed="#L" n="22"/>Voluntas quoque diuina non est magis necessaria respectu praeteritorum vel praesentium, 
+      <lb ed="#L" n="23"/>quam futurorum, sicut tricesimum huius docet. Et si quis adhuc aliter dixerit, quod si Deus 
+      <lb ed="#L" n="24"/>posset post hoc nolle de hac re praesenti vel praeterita ipsam fuisse futuram, quam semper 
+      vo<lb ed="#L" n="25" break="no"/>luit fuisse futuram, &amp; hoc faceret, ipsa res esset mutabilis, &amp; necessario mutaretur de fuisse 
+      <lb ed="#L" n="26"/>futurum in non fuisse futurum, non sic autem de re futura; quare &amp; voluntas diuina hic 
+      ne<lb ed="#L" n="27" break="no"/>cessario commutaretur similiter &amp; non ibi. Sed quare magis in hoc casu res praesens vel 
+      prae<lb ed="#L" n="28" break="no"/>terita mutaretur, quam res futura? Nulla enim causa nec ratio potest reddi, nisi quia rem 
+      prae<lb ed="#L" n="29" break="no"/>sentem vel praeteritam necesse est semper fuisse futuram, &amp; Deum semper conformiter 
+      volu<lb ed="#L" n="30" break="no"/>isse, &amp; non sic de re futura, &amp; sic ista responsio similis est priori. Rursum ad idem, Mutatio 
+      <lb ed="#L" n="31"/>in effectu non est causa mutationis in agente, sed magis e contra, vbi sit mutatio in agente, 
+      <lb ed="#L" n="32"/>&amp; maxime in effectu voluntatis diuinae: alias enim ad mutationem suorum effectuum 
+      conti<lb ed="#L" n="33" break="no"/>nue mutaretur; ipsa quoque est impassibilis, inalterabilis, immutabilisque omnino a suis 
+      effe<lb ed="#L" n="34" break="no"/>ctibus vniuersis, sicut vicesimum primi docet. Item istud videtur quasi vna communis animi 
+      <lb ed="#L" n="35"/>conceptio apud omnes; omne quod est vnius dispositionis, &amp; potest esse oppositae, hoc potest. 
+      <lb ed="#L" n="36"/>per aliquam mutationem, loquendo de potentia actuabili, &amp; non penitus absoluta. Hoc 
+      vi<lb ed="#L" n="37" break="no"/>detur in omni alia materia tam absoluta, quam etiam relatiua. Nam si hoc non est ens, vel 
+      <lb ed="#L" n="38"/>homo, vel calidum, &amp; potest esse, per aliquam mutationem hoc esse potest. Et idem apparet 
+      <lb ed="#L" n="39"/>in omni specie relatiua: nam si hoc non est duplum huius, vel pater, vel cognitum, &amp; potest 
+      <lb ed="#L" n="40"/>esse, per aliquam mutationem hoc potest, sicut tricesimum huius monstrat. Hoc idem non  
+      <lb ed="#L" n="41"/>improbabiliter confirmatur, quoniam, vt videtur, si hoc non est tale, &amp; potest esse, potest fieri 
+      <lb ed="#L" n="42"/>tale, communiter loquendo de fieri, sicut Dominus refugium factus est nobis, vt idem 
+      tricesi<lb ed="#L" n="43" break="no"/>mum manifestat: omnis autem huiusmodi factio, mutatio videtur aliqualis, quia de vno 
+      op<lb ed="#L" n="44" break="no"/>positorum in reliquum transitus siue motus. Et causa huius totius quasi maxima inserta 
+      na<lb ed="#L" n="45" break="no"/>turaliter omnibus haec videtur, quia esse quod est, quando est, &amp; non esse quod non est, 
+      quan<lb ed="#L" n="46" break="no"/>do non est, necesse est; &amp; similiter fuisse quando fuit, &amp; non fuisse quod non fuit. In hoc  
+      <lb ed="#L" n="47"/>enim consentiunt Logici, Philosophi, Theologi, &amp; communiter totum vulgus; &amp; si necesse 
+      <lb ed="#L" n="48"/>sit hoc esse aut fuisse dispositionis vnius, &amp; potest esse oppositae, potest mutari, quia hoc non 
+      <lb ed="#L" n="49"/>potest nisi per recessum a dispositione priori, tanquam a termino a quo, &amp; accessum ad 
+      poste<lb ed="#L" n="50" break="no"/>riorem, velut ad terminum ad quem motus. Et si quis dixerit illam maximam esse veram de 
+      <lb ed="#L" n="51"/>praesentibus &amp; praeteritis duntaxat non dependentibus a futuro; aduertat, quaeso, hanc 
+      glos<lb ed="#L" n="52" break="no"/>sam nulla communi animi conceptione, nec vlla autoritate maiorum, sed tantum quibusdam 
+      <lb ed="#L" n="53"/>sophistarum argutijs sustentari. Dei quoque voluntas nequaquam a futuris dependet, sicut 
+      <lb ed="#L" n="54"/>vicesimum primi, &amp; tricesimum secundi docebant, sed futura ab illa, sicut decimum quartum 
+      <!--790.xml-->
+      <pb ed="#A" n="757"/>
+               <lb ed="#L" n="1"/>primi monstrat: nec aliter intrinsece quouis modo se habet diuina voluntas ad futura, quam ad 
+      <lb ed="#L" n="2"/>praescientia vel praeterita, nec e contra, sicut 30. huius claret. Praemissis igitur suppositis 
+      vide<lb ed="#L" n="3" break="no"/>tur, quod si Deus nunc est &amp; semper fuit volens hoc fore, vel hoc fuisse futurum, &amp; potest esse 
+      <lb ed="#L" n="4"/>dispositionis oppositae, non posita re in esse, quod hoc possit per aliquam mutationem, &amp; non  
+      <lb ed="#L" n="5"/>ex parte voluti ante positionem eius in esse. Nam contradictionem includit quod aliquid 
+      <lb ed="#L" n="6"/>mutetur de futuro in non futurum, nisi per positionem eius in esse, sicut 18. huius 
+      eratosten<lb ed="#L" n="7" break="no"/>sum; ergo per mutationem voluntatis diuinae. Potestque similiter argui supponendo A. esse 
+      <lb ed="#L" n="8"/>vnum non futurum, possibile tamen fore, quod Deus fuit semper nolens A, fore, &amp; potest 
+      es<lb ed="#L" n="9" break="no"/>se volens A. fore; ergo per aliquam mutationem hoc potest, &amp; non per mutationem ex parte 
+      <lb ed="#L" n="10"/>rei, quia illa esset de non futuro in futurum, contra 18. huius, ergo per mutationem voluntatis 
+      <lb ed="#L" n="11"/>diuinae. Porro istas ratiunculas logicas transeundo, idem ostendo per vnam Theologicam 
+      ra<lb ed="#L" n="12" break="no"/>tionem, nempe si secundum hypothesin Deus semper voluit aliquid fore, &amp; potest nunquam  
+      <lb ed="#L" n="13"/>hoc voluisse, sed semper voluisse oppositum, sine mutatione quacunque; simili ratione, 
+      post<lb ed="#L" n="14" break="no"/>quam Deus dixit, promisit, &amp; iurauit se facturum A. seu A. fore, potest non facere A. &amp; 
+      possibi<lb ed="#L" n="15" break="no"/>le est non fore sine sui mutatione, mendacio, vel periurio qualicunque. Potest enim nunquam  
+      <lb ed="#L" n="16"/>sic dixisse, promisisse, neque iurasse, sine mutatione quacunque: quod si ponatur, potest non 
+      fa<lb ed="#L" n="17" break="no"/>cere A. sine mutatione, mendacio, &amp; periurio qualicunque; quod videtur mendacium, &amp; 
+      <lb ed="#L" n="18"/>contrarium Theologicae veritati. Nam Numer. 23. Balal volenti placasse Dominum, vt 
+      Ba<lb ed="#L" n="19" break="no"/>laam de suo cosensu vel permissione maledixisset populo Israel, cui parum ante, Dominus 
+      bo<lb ed="#L" n="20" break="no"/>na, &amp; benedictionem promisit, respondit Balaam, imo Dominus per Balaam, Non est Deus, 
+      <lb ed="#L" n="21"/>quasi homo vt mentiatur, nec vt filius hominis vt permutetur. Dixit ergo, &amp; non faciet? 
+      Lo<lb ed="#L" n="22" break="no"/>cutus est, &amp; non implebit? Ad benedicendum adductus sum, venedictionem prohibere non 
+      <lb ed="#L" n="23"/>valeo; ergo si Deus quicquam promiserit, puta A. futurum, nisi iliud impleret, esset 
+      mutabi<lb ed="#L" n="24" break="no"/>lis atque mendax. Secundum tamen praedictam hypothesin potuit Balal veraciter 
+      respon<lb ed="#L" n="25" break="no"/>disse, etsi Deus dixit &amp; locutus est Aufore, potest esse quod nunquam hoc dixit, nec locutus est,  
+      <lb ed="#L" n="26"/>&amp; hoc sine mutatione quacunque: quod si ponatur in esse, licet non faciat A. sed eius 
+      opposi<lb ed="#L" n="27" break="no"/>tum, non sequitur quod mutetur aut etiam mentiatur. Nec quisquam hoc dictum Balaam, quia 
+      <lb ed="#L" n="28"/>malus fuit, tanquam non authenticum parui pendat, quia est dictum Domini summi autoris, 
+      <lb ed="#L" n="29"/>sicut &amp; Caiphae dictum fuit: nam Scriptura ibi praemisit; Cui, scilicet Balaam, cum Dominus 
+      <lb ed="#L" n="30"/>occurrisset, posuissetque verbum in ore eius, ait, Reuertere ad Balale, &amp; haec loqueris ei; 
+      omnes<lb ed="#L" n="31" break="no"/>que catholici tractatores dicta Balaam ibi pro Prophetijs ac dictis diuinis, &amp; authenticis 
+      am<lb ed="#L" n="32" break="no"/>plectuntur, quod &amp; Ecclesiae sancta facit, quae in die Epiphaniae sic canit, Balaam de quo 
+      vati<lb ed="#L" n="33" break="no"/>cinans, Exibit // ex Iacobrutilans, inquit, stella. Item Psalmo 88. Neque profanabo 
+      testamen<lb ed="#L" n="34" break="no"/>tum meum, &amp; quae, procedent de labijs meis non faciam irrita: Semel iuraui in sancto meo, si 
+      <lb ed="#L" n="35"/>Dauidi mentiar; semen eius in aeternum manebit. Vbi Dominus innuit per Prophetam, quod 
+      <lb ed="#L" n="36"/>si semen Dauidis non in aeternum maneret, sicut ipse promisit atque iurauit, qu. ipse profanaret 
+      <lb ed="#L" n="37"/>testamentum suum, &amp; quae processerunt de labijs suis faceret irrita, ac etiam mentiretur. Sed 
+      <lb ed="#L" n="38"/>profanatio, irritatio, &amp; mendacium mutationem important. Si tamen Dominus postquam 
+      pro<lb ed="#L" n="39" break="no"/>misit &amp; iurauit hoc Dauidi, posset hoc nunquam promisisse, neque iurasse, posset hoc non 
+      face<lb ed="#L" n="40" break="no"/>re absque profanatione testamenti, irritatione, vel mendacio qualicunqe. Item Malach. 3. Ecce, 
+      <lb ed="#L" n="41"/>inquit Dominus populo Israel, Ego mirtam angelum meum &amp; praeparabit viam ante faciem tuam: 
+      <lb ed="#L" n="42"/>&amp; promirtit alia bona multa, &amp; ad confirmationem promissionis adiungit; Ego // enim 
+      Do<lb ed="#L" n="43" break="no"/>minus, &amp; non mutor, quasi diceret, Ego non sum mutabilis, ergo faciam vobis ista, ergo e 
+      con<lb ed="#L" n="44" break="no"/>tra, non faciam vobis ista, ergo sum mutabilis, quod tamen secundum hypothesin nullatenus 
+      <lb ed="#L" n="45"/>sequeretur. Licet enim Dominus ista promisit, potest esse sine mutatione quacunqe; quod 
+      nu<lb ed="#L" n="46" break="no"/>quum ista promisit; quod si ponatur, &amp; si Deus ista non faciat, non mutatur. Item ad Hebri 
+      <lb ed="#L" n="47"/>6. Abundantius volens Deus ostendere pollicitationis haeredibus immobilitatem consilij 
+      <lb ed="#L" n="48"/>sui, interposuit iusiurandum, vt per duas res immobiles, quibus impossibile est mentiri 
+      De<lb ed="#L" n="49" break="no"/>um, fortissimum solatium habeamus: vbi supponit Apostolus, quod pollicitatio &amp; 
+      iusiuran<lb ed="#L" n="50" break="no"/>dum Dei, quibus promisit haeredibus certa bona, quae sint A. sunt res immobiles,, quas si non  
+      <lb ed="#L" n="51"/>impleret exhibendo eis A. bona, mentiretur, quare &amp; similiter mutaretur, quod tamen 
+      secun<lb ed="#L" n="52" break="no"/>dum hypothesin nullatenus sequeretur. Simus enim in medio tempore inter promissionem 
+      <lb ed="#L" n="53"/>&amp; exhibitionem A. bonorum, tunc secundum hypothesim, potest esse quod Deus nunquam  
+      <lb ed="#L" n="54"/>promisit nec iurauit haeredibus A. bona futura; quod si ponatur, potest Deus illa nunquam 
+      ex<lb ed="#L" n="55" break="no"/>hibere haere libus sine mutatione vel mendacio qualicunque. Ad haec omnia liquissiam fortasse 
+      <lb ed="#L" n="56"/>breuiter respondebit, dicendo haec omnia debere intelligi in sensu compositionis semper 
+      con<lb ed="#L" n="57" break="no"/>iunctim, non in sensu diuisionis siue diuisim, quia si Deus promissuno impleret, ita quod ista 
+      <lb ed="#L" n="58"/>duo concurrant, qd. Deus hoc promisit, &amp; quod Deus hoc non impleat, mutatur atque metitur: 
+      <!--791.xml-->
+      <pb ed="#A" n="758"/>
+               <lb ed="#L" n="1"/>diuisim tamen hoc, puta A. quod Deus praemisit, potest non implere siue non facere sine 
+      mu<lb ed="#L" n="2" break="no"/>tatione &amp; sine mendacio, quia potest esse quod hunquam. A. promisit. Sed autoritates 
+      prae<lb ed="#L" n="3" break="no"/>missae, si respiciantur interius, non loquuntur coniunctim, sed tantummodo diuisim. 
+      Aposto<lb ed="#L" n="4" break="no"/>lus namque per praemissa voluit erigere haeredes ad fortissimum solatium, &amp; firmissimam 
+      <lb ed="#L" n="5"/>spem in Christo; Vt, inquit, per duas res immobiles, quibus impossibile est mentiri Deum,  
+      <lb ed="#L" n="6"/>fortissimum solatium habeamus, qui confugimus ad tenendam propositam spem, quam 
+      si<lb ed="#L" n="7" break="no"/>cut anchoram habemus animae turam ac firmam, &amp; incedentem vsque ad interiora 
+      velami<lb ed="#L" n="8" break="no"/>nis, vbi praecursor pro nobis introijt Iesus secundum ordinem Melchisedech, Pontifex factus 
+      <lb ed="#L" n="9"/>in aeternum: quomodo tamen haberemus fortissimum solatium, aut spem tutam ac firmam 
+      <lb ed="#L" n="10"/>tantum in vna oratione composita, in vna coditionali, in vna congerie dictionum, puta, Deus no 
+      <lb ed="#L" n="11"/>potest sine mutatione &amp; mendacioI non simplere promissum existens promissu?: i. talis 
+      propo<lb ed="#L" n="12" break="no"/>sitio non est possibilis, Deus sine mutatione &amp; medacio non implebit promissu, vel si Deo 
+      quic<lb ed="#L" n="13" break="no"/>quam promisit, &amp; non implebit, mentietur atque mutabitur, Maxime cum illud, cui talis 
+      pro<lb ed="#L" n="14" break="no"/>posito seu conditionalis consolatoria, &amp; speratoria, velut fundamento consolationis &amp; spei 
+      <lb ed="#L" n="15"/>totius innititur, scilicet Dei promittere sit infirmius &amp; instabilius re quacunque. Nam omnis res 
+      <lb ed="#L" n="16"/>praesens siue praeterita necessario est aut fuit; sed secundum hypothesin Dei promittere quod 
+      <lb ed="#L" n="17"/>nunc est, &amp; quod semper fuit, potest pro nunc non esse &amp; nunquam fuisse. Imo videtur quod 
+      <lb ed="#L" n="18"/>in hac parte minus solatium rationabiliter haberemus de promissis diuinis quam humanis. 
+      <lb ed="#L" n="19"/>Nam si homo quicquam promiserit, saltem cum stipulatione solenni, aut iuramento, aliaue 
+      hu<lb ed="#L" n="20" break="no"/>iusmodi cautione, si non satisfecerit, potest redargui &amp; conuinci tanquam falsus, mendax, &amp; 
+      <lb ed="#L" n="21"/>periurus; Deus autem non sic, quia potest nunquam aliquid promisisse. Quis enim catholicus 
+      <lb ed="#L" n="22"/>praesumet assumere hanc spem; ad quam Apostolus nos inducit, esse in solis huiusmodi 
+      pro<lb ed="#L" n="23" break="no"/>positionibus, seu consequentijs, non in rebus? Nec sic sentit Apostolus, sed quod tute ac 
+      fir<lb ed="#L" n="24" break="no"/>miter speremus rem ipsam promissam a Deo, sicut &amp; Ecclesiae tota sperat, &amp; sic solatium 
+      for<lb ed="#L" n="25" break="no"/>tissimum habeamus. Quare &amp; Apostolus ostendens se non loqui de immutabilitate 
+      conse<lb ed="#L" n="26" break="no"/>quentiae conditionalis, siue huiusmodi propositionis compositae, sed de immutabilitate 
+      volun<lb ed="#L" n="27" break="no"/>tatis, consilij, promissionis, seu iuramenti diuini; Volens, inquit, Deus ostendere 
+      pollicitati<lb ed="#L" n="28" break="no"/>onis haeredibus immobilitatem consilij, interposuit iusiurandum, vt per duas res immobiles, 
+      <lb ed="#L" n="29"/>scilicet pollicitationem &amp; iuramentum, quibus impossibile est mentiri Deum, fortissimum 
+      solati<lb ed="#L" n="30" break="no"/>um habeamus. Videtur igitur quod Apostolus intelligat, &amp; loquatur diuisim potius quam  
+      <lb ed="#L" n="31"/>coniunctim, ad communem scile hominum intellectum, qui est iste, quod quodcunque 
+      promis<lb ed="#L" n="32" break="no"/>sum a Deo necesse est impleri, aut Deum mentiri, atque mutari; verbi gratia, Deus promisit 
+      he<lb ed="#L" n="33" break="no"/>ri se facturum hominibus cras A. bonum, tunc hodie dicent &amp; ita intelligent, Deus faciet nobis 
+      <lb ed="#L" n="34"/>cras A. bonum, aut mentietur atque mutabitur; Malachias quoque. Dauid, &amp; Balaam, imo 
+      spi<lb ed="#L" n="35" break="no"/>ritus sanctus qui locutus est per istos Prophetas, videtur intelligere, &amp; loqui similiter in 
+      autori<lb ed="#L" n="36" break="no"/>tatibus recitatis: haec eadem etiam possunt reduci contra eandem hypothesin per viam 
+      immu<lb ed="#L" n="37" break="no"/>tabilitatis diuinae scientiae transtatis nominibus competenter. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

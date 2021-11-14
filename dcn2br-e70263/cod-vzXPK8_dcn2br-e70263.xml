@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="529"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e70263"><!-- l2c18 -->
+            <head xml:id="dcn2br-e70263-Hd1e106">Caput 18</head>
+            <p xml:id="dcn2br-e70263-d1e109">
+      <!--562.xml-->
+               <pb ed="#A" n="529"/>
+               <lb ed="#L" n="1"/>CAP. XVIII. 
+      <lb ed="#L" n="2"/>Contra quosdam dicente; actum Liberi Arbitrim nihil esse. 
+      </p>
+            <p xml:id="dcn2br-e70263-d1e120">
+               <lb ed="#L" n="3"/>Is igitur per Dei auxilium expeditis, iam restat de actu proprio 
+      li<lb ed="#L" n="4" break="no"/>beri arbitrij, cum eiusdem adiutorio perscrutari. Sed quia sunt aliqui 
+      <lb ed="#L" n="5"/>de quibus non tacuit Esaias, palpantes sicut caeci parietem, &amp; quasi 
+      <lb ed="#L" n="6"/>absque oculis attrectantes, impingentes in meridie quasi in tenebris, 
+      <lb ed="#L" n="7"/>&amp; in caliginosis velut mortui dormientes, tam insensibiles atque 
+      exa<lb ed="#L" n="8" break="no"/>nimes, vt actus proprios nequaquam percipiant, asserentes actum 
+      li<lb ed="#L" n="9" break="no"/>beri arbitrij nihil esse, ideo immorabor paulisper, vt qui oculos 
+      ce<lb ed="#L" n="10" break="no"/>corum illuminat, eis &amp; mihi dignetur infundere veram lucem. Luce 
+      <lb ed="#L" n="11"/>siquidem clarius patet cunctis, quod si actus liberi arbitrij nihil sit, nec actus alicuius alterius 
+      <lb ed="#L" n="12"/>potentiae siue formae est aliquid: Nam liberum arbitrium est perfectissima potentia, seu for 
+      <lb ed="#L" n="13"/>ma creata; quare &amp; proprius actus eius non erit imperfectior actu proprio cuiuscunque 
+      alte<lb ed="#L" n="14" break="no"/>rius; quare nec minus clare videtur, quod haec caeca positio habet ponere consequenter 
+      om<lb ed="#L" n="15" break="no"/>nem actionem &amp; passionem, omne agere &amp; pati, omnem motum &amp; mutationem, omne 
+      <lb ed="#L" n="16"/>mouere seu moueri, mutare seu mutari vniuersaliter nihil esse, quod quantum aduersetur 
+      om<lb ed="#L" n="17" break="no"/>nibus pene scientijs, scientes faciliter deprehendent; omnes scientias molitur extinguere, 
+      <lb ed="#L" n="18"/>quae se non abstrahunt ab actione &amp; motu, &amp; hae sunt omnes scientiae, vix Arithmetica &amp; 
+      <lb ed="#L" n="19"/>veometria exceptis; quoniam Geometria Euclidis in libro vndecimo, &amp; Iordanus de 
+      trian<lb ed="#L" n="20" break="no"/>gulis vtuntur in definitionibus &amp; theorematibus suis motu; &amp; Boetius secundo suae 
+      Arith<lb ed="#L" n="21" break="no"/>meticae vltimo musicas consonantias omnes tractat, quae nusquam possunt fieri sine 
+      mo<lb ed="#L" n="22" break="no"/>tu. Quia igitur omnes scientias iniuste conatur destruere, iuste ab omnibus destruetur; 
+      <lb ed="#L" n="23"/>primo a scientijs quadriuialibus, Grammatica, scilicet, Dialectica, Rhetorica, &amp; 
+      Musi<lb ed="#L" n="24" break="no"/>ca quae de sono &amp; voce considerant: Si enim tam sonus quam vox sit aliquid, sicut scientiae 
+      <lb ed="#L" n="25"/>istae docent, sonatio &amp; vocatio est aliquid, sonare &amp; vocare est aliquid, imo &amp; percussio seu 
+      <lb ed="#L" n="26"/>percutere vnde generatur sonus, &amp; vox est similiter aliquid; Nihil enim ex nihilo 
+      genera<lb ed="#L" n="27" break="no"/>tur. Respondebit forsitan consequenter, negando sonum aut vocem esse aliquid: Sed istam 
+      <lb ed="#L" n="28"/>responsionem praedictae scientiae conuincunt vt insciam &amp; ignaram, docentes concorditer 
+      <lb ed="#L" n="29"/>sonum &amp; vocem veram rem esse, quod &amp; sensus auditus experientia certa docet. Sonus enim 
+      <lb ed="#L" n="30"/>est proprium eius obiectum, sed nihil nullius sensus est obiectum; Quomodo namque 
+      po<lb ed="#L" n="31" break="no"/>test nil mouere medium &amp; sensum? Quomodo potest nil in medio, &amp; in sensu suam 
+      similitu<lb ed="#L" n="32" break="no"/>dinem, seu speciem generare? Quomodo pure nihil imprimeret speciem tam firmiter &amp; tam 
+      <lb ed="#L" n="33"/>diu in memoria remanentem? Quomodo pure nihil tot proprietates mirabiles &amp; tot 
+      differen<lb ed="#L" n="34" break="no"/>tias in auditu, memoriaque causare? Si etiam sonus &amp; vox sit nihil, quomodo secundum 
+      <lb ed="#L" n="35"/>praedictas scientias, &amp; secundum scientiam naturalem causatur, generatur, atque formatur? 
+      <lb ed="#L" n="36"/>si insuper sonus sit nihil, quomodo sonus excellens sensum auditus debilitat, &amp; corrumpit? 
+      <lb ed="#L" n="37"/>Nonne &amp; secundum Auicennam 7. de Animalibus vlt. tonitrus nocet piscibus, d secundum 
+      <lb ed="#L" n="38"/>eundem 8. de Animalibus 2. oues &amp; caprae impregnatae cum audiunt tonitrua abortiunt? 
+      Ad<lb ed="#L" n="39" break="no"/>huc autem si sonus sit nihil, quomodo consonantia &amp; dissonantia musicalis delectat, aut con 
+      <lb ed="#L" n="40"/>tristat auditum, &amp; totum hominem audientem, &amp; etiam animalia carentia ratione? 
+      quomo<lb ed="#L" n="41" break="no"/>do haberent modi Musici tam vehementem virtutem, tam multiplicem potestatem, &amp; tam 
+      <lb ed="#L" n="42"/>mirabilem actionem? Quis enim non audiuit, // &amp; legit, quanta miracula vereres per Musi 
+      <lb ed="#L" n="43"/>cam perfecerunt? Nonne Tullius in libro consiliorum suorum, &amp; Boetius I. Mulicae suae in 
+      <lb ed="#L" n="44"/>Prologo recitant, quomodo Pythagoras stellarum cursus, vt ei mos erat, nocturnus 
+      inspici<lb ed="#L" n="45" break="no"/>ens, vbi intellexit adolescentem Tauromilitanum ebrium &amp; furentem sono modi Phrygij 
+      in<lb ed="#L" n="46" break="no"/>citatum, vt domum scorti clausam vellet comburere, nec multis amicorum monitionibus a 
+      <lb ed="#L" n="47"/>facinore vellet desistere, mutari modum praecepit, &amp; fuccinente Spondaeo animum furiosi ad 
+      <lb ed="#L" n="48"/>statum mentis pacatissime temperauit? Referunt quoque Tullius &amp; Boetius vbi prius, quod 
+      <lb ed="#L" n="49"/>cum quidam adolescentes vinolenti tibiarum cantu instincti, mulieris pudicae fores infringe 
+      <lb ed="#L" n="50"/>rent, Pythagoras admonebat tibicinem vt modum verteret, caneretque Spondaeum; quod  
+      <lb ed="#L" n="51"/>cum fecisset, tarditate modorum &amp; grauitate canentis, illorum furentem petulantiam 
+      conse<lb ed="#L" n="52" break="no"/>dauit; Quod &amp; 5. contra Iulianum 9. commemorat Augustinus. Et subdit Boetius vbi 
+      pri<lb ed="#L" n="53" break="no"/>us; Sed vt similiabreuiter exempla conquiram, Tetpander, atque Arion Methymnaeus Les¬ 
+      <!--563.xml-->
+      <pb ed="#A" n="530"/>
+               <lb ed="#L" n="1"/>bios atque Iones grauissimis morbis cantus eripuere praesidio. Ismenias vero Thebanus 
+      Bae<lb ed="#L" n="2" break="no"/>otorum pluribus, quos sciatici doloris tormenta vexabant, modis fertur cunctas abstersisse 
+      <lb ed="#L" n="3"/>molestias. Similiter Empedocles, cum eius hospitem quidam gladio furibundus inuaderet, 
+      <lb ed="#L" n="4"/>quod eius ille patrem accusatione damnasset, inflexisse dicitur modum canendi, atque 
+      adoles<lb ed="#L" n="5" break="no"/>centis iracundiam temperasse. Istis quoque similia testatur Aristoteles 8. Polit. vlt. &amp; per 
+      to<lb ed="#L" n="6" break="no"/>tum, &amp; in de problemat. particula 19a. quae &amp; Pythagoras, Socrates, Plato, &amp; omnes antiqui 
+      <lb ed="#L" n="7"/>Philosophi similiter contestantur; imo &amp; concorditer putauere harmonias &amp; numeros 
+      musi<lb ed="#L" n="8" break="no"/>cales animos humanos &amp; corpora pariter possidere. Quapropter &amp; Plato cauendum maxime 
+      <lb ed="#L" n="9"/>aestimat, ne de bene morata Musica aliquid permutetur: Negat enim esse vllam tantam 
+      mo<lb ed="#L" n="10" break="no"/>rum in Republica labem, quam paulatim de pudenti ac modesta musica inuertere: Statim 
+      <lb ed="#L" n="11"/>quoque enim idem audientium animos pati, paulatimque discedere, nullumque honesti ac recti 
+      <lb ed="#L" n="12"/>retinere vestigium; sed vel per lasciuiores modos inuerecundum aliquid, vel per asperiores 
+      fe<lb ed="#L" n="13" break="no"/>rox atque immane mentibus illabatur. Verum quid opus in exteris diuagari? cum literae 
+      no<lb ed="#L" n="14" break="no"/>strae sacrae perhibeant, quomodo Dauidica cithara temperauit malitiam maligni spiritus in 
+      <lb ed="#L" n="15"/>Saule, quomodo etiam Psalte canente, facta est manus Domini super Elizaeum in spiritu 
+      Pro<lb ed="#L" n="16" break="no"/>phetiae: Quare &amp; Philosophus 8. Polit. vlt. agens generaliter de Musica, &amp; specialiter de 
+      mo<lb ed="#L" n="17" break="no"/>ralibus harmonijs, &amp; sacris melodijs, &amp; earum vtilitatibus, dicit quod vna earum est raptus. 
+      <lb ed="#L" n="18"/>An non &amp; verba sacramentalia, &amp; forsitan alia habent miram efficaciam &amp; virtutem? 
+      Prop<lb ed="#L" n="19" break="no"/>ter haec igitur &amp; similia, aliter forsitan respondebit dicendo, quod sonus generatur a 
+      percu<lb ed="#L" n="20" break="no"/>tiente, quod est aliquid, non autem a percussione, quae est aliquid; vel ergo ferrum 
+      percuti<lb ed="#L" n="21" break="no"/>ens aes per se facit sonum, vel non per se; si per se, semper sic faceret; Per se namque prae 
+      <lb ed="#L" n="22"/>supponit de omni, pro vniuersalitate suppositor um &amp; temporis, sicut 2um, &amp; 2dum, primi plenius 
+      <lb ed="#L" n="23"/>ostendebant; ferrum ergo &amp; aes contiguata in aere sine aliqua percussione, aut motione qua 
+      <lb ed="#L" n="24"/>cunque facerent semper sonum. Si autem ferrum per accidens causet sonum, illud accidens 
+      <lb ed="#L" n="25"/>necessario requisitum ad sonum causandum non potest dici aliud, quam perr, siue 
+      per<lb ed="#L" n="26" break="no"/>cussio: Ergo percussio est saltem concausans cum ferro &amp; congregans ipsum sonum; est 
+      er<lb ed="#L" n="27" break="no"/>go aliquid &amp; non nihil. Dicetur fortassis quod ferrum per accidens causet sonum, id est, 
+      ac<lb ed="#L" n="28" break="no"/>cidentaliter, non tamen per aliquod tale accidens realiter distinctum ab eo. Quare ergo nunc, 
+      <lb ed="#L" n="29"/>scilicet quando percutit, causat sonum &amp; non prius, cum omnia omni eodem modo realiter 
+      <lb ed="#L" n="30"/>se habeant nunc vt prius; Si dicatur, quia nunc percutit, &amp; non prius; tunc haec responsio si 
+      <lb ed="#L" n="31"/>sit conueniens, cum per quare quaeratur causa, per quia respondet de causa; ferrum ergo 
+      <lb ed="#L" n="32"/>nunc percutere est causa, &amp; causa efficiens huius soni; ergo ferrum percutere est aliquid: Si 
+      <lb ed="#L" n="33"/>enim non esset aliquid, non causaret nec efficeret aliquid; quare &amp; ferri percussio non est 
+      ni<lb ed="#L" n="34" break="no"/>hil. Item si per quia respondeatur ibi causa, tunc ferrum percutere est aliqua causa soni: aut  
+      <lb ed="#L" n="35"/>ergo illa causa est ipsummet ferrum tantum, vel aliud; si ipsummet ferrum tantum, ergo 
+      ad<lb ed="#L" n="36" break="no"/>huc ferrum percutere est aliquid etiam, cum ipsummet ferrum prius fuit cum omni causa reali, 
+      <lb ed="#L" n="37"/>cum qua nunc est, &amp; aes, &amp; aer disponebantur similiter, prius causabatur sonus ab eo seuab 
+      <lb ed="#L" n="38"/>eis; falsum est etiam quod nunc est illa causa, &amp; prius non fuit: Si autem illa causa sit aliud 
+      <lb ed="#L" n="39"/>realiter ab illo ferro, &amp; non potest poni aliud quam percutere, vel ipsa percussio; ergo 
+      percu<lb ed="#L" n="40" break="no"/>tere, vel percussio est causa realis efficiens ipsum sonum; est igitur aliquid &amp; non nihil. Item 
+      <lb ed="#L" n="41"/>si ista ratiocinatio non valeret, nulla via rationis valeret ad ostendendum diuersitatem 
+      ager<lb ed="#L" n="42" break="no"/>tium aut formarum: Nam ex diuersitate effectuum aut operationum non potest concludi 
+      <lb ed="#L" n="43"/>talis diuersitas; quoniam ab eodem ferro agente per omnem eandem formam, nunc, scilicet,  
+      <lb ed="#L" n="44"/>quando quiescit, producitur vnus effectus, &amp; nunc, scilicet quando percutit, diuersus omnino; 
+      <lb ed="#L" n="45"/>quae tamen via in Philosophia vbique sola ad illum terminum valida reputatur. Item qui 
+      ne<lb ed="#L" n="46" break="no"/>gat percutere seu percussionem esse aliquid, negat eam posse sentiri; quare &amp; habet 
+      conse<lb ed="#L" n="47" break="no"/>quenter negare omnem castigationem percussoriam paruulorum, quae per praeceptores 
+      gram<lb ed="#L" n="48" break="no"/>maticos fieri consueuit: Vtinam igitur efficiatur, vt paruulus, &amp; toties &amp; tam valde 
+      percutia<lb ed="#L" n="49" break="no"/>tur ferula Prisciani, &amp; virga Donati, donec experientia certa discat percutere seu 
+      percussio<lb ed="#L" n="50" break="no"/>nem se posse sentire, sicque percutere &amp; percussionem esse aliquid fateatur. Item Logica 
+      <lb ed="#L" n="51"/>specialiter ipsum redarguit isto modo; Aliqua est propositio categorica in intellectu habens 
+      <lb ed="#L" n="52"/>copulam actualem, quae est actualis compositio intellectus: Nam illa copula, illud scilicet 
+      <lb ed="#L" n="53"/>quod correspondet in intellectu huic verbo, est, in voce nihil aliud dici potest quam actus 
+      in<lb ed="#L" n="54" break="no"/>tellectus, seu eius compositio actualis, quo vel qua copulat &amp; componit extrema 
+      propositio<lb ed="#L" n="55" break="no"/>nis adinuicem: Vnde Philosophus I. peri hermenias 3. (Est,) inquit, consignificat quandam 
+      <lb ed="#L" n="56"/>compositionem, quam sine compositis non est intelligere. Et Auerroes super illud 
+      Philoso<lb ed="#L" n="57" break="no"/>phi 5. Metaphys. 14. Amplius esse &amp; est significant quia verum, sic dicit; Intendebat 
+      distin<lb ed="#L" n="58" break="no"/>guere inter hoc nomen ens quod significat copulationem in intellectu, &amp; quod significat es¬ 
+      <!--564.xml-->
+      <pb ed="#A" n="531"/>
+               <lb ed="#L" n="1"/>sentiam quae est extra intellectum; &amp; siilla copositio, seu copulatio nihil sit, nihil iuuat ad 
+      com<lb ed="#L" n="2" break="no"/>ponendum, ad sciendum, ad discurrendum, seu quidlibet aliud faciendum; imo &amp; tunc nulla 
+      <lb ed="#L" n="3"/>est differentia inter talem propositionem &amp; sua extrema; per nihil enim differrent. Et etiam  
+      <lb ed="#L" n="4"/>tunc actualis negatio in intellectu nihil est; Ergo negatiua &amp; affirmatiua de eisdem terminis 
+      <lb ed="#L" n="5"/>in intellectu nullatenus differunt, quia per nihil; quare &amp; contradictoria sunt simul vera; Imo 
+      <lb ed="#L" n="6"/>quod magis est impossibile, eadem propositio numero sibi ipsi planissime contradicit. Item 
+      <lb ed="#L" n="7"/>aliae scientiae triuiales, Arithmetica, &amp; Geometria, &amp; Astronomia asserunt motum esse, licet 
+      <lb ed="#L" n="8"/>fortassis Arithmetica &amp; Geometria hoc accidentaliter faciant; sed Astronomia essentialiter:  
+      <lb ed="#L" n="9"/>est enim de integritate illius. Philosophia etiam naturalis essentialiter maxime tractat de 
+      mo<lb ed="#L" n="10" break="no"/>tu, saepissime asserens ipsum nedum generaliter esse aliquid, sed specialiter, quod aliquid sit,  
+      <lb ed="#L" n="11"/>ostendens: Ostendit enim quod est actus entis in potentia, quod est actus diminutus, quod 
+      <lb ed="#L" n="12"/>est perfectio motoris &amp; moti, &amp; similia, vt patet 3. Physicae diffuse, &amp; alibi multis locis. Item 
+      <lb ed="#L" n="13"/>motus est causa efficiens caloris, sicut scientia naturalis frequenter testatur, &amp; sine ipsa 
+      quili<lb ed="#L" n="14" break="no"/>bet experitur; Motus ergo est aliquid: Omnis enim causa efficiens alicuius effectus realis, 
+      <lb ed="#L" n="15"/>est aliquid vere reale. Respondebitur forsitan quod motus non proprie est causa effectiua 
+      ca<lb ed="#L" n="16" break="no"/>loris, sed tantum improprie, quia scilicet per ipsum partes calidae congregantur adinuicem,  
+      <lb ed="#L" n="17"/>quae congregatae calefaciunt fortius quam dispersae. Sed proculdubio sic motus non magis 
+      <lb ed="#L" n="18"/>esset causa caloris quam frigoris, vel cuiuslibet alterius qualitatis: Sicut enim congregat 
+      par<lb ed="#L" n="19" break="no"/>tes calidas, ita &amp; frigidas, humidas, atque siceas, albas &amp; nigras, dulces &amp; amatas, ac alias 
+      <lb ed="#L" n="20"/>qualescunque. Item si sic esset, corpora quae sunt magis frigida quam calida, habentque 
+      plu<lb ed="#L" n="21" break="no"/>res partes frigidas quam calidas, mota velociter &amp; fortiter adinuicem confricata deberent 
+      <lb ed="#L" n="22"/>amplius infrigidari; quia partes frigidae amplius vniuntur, cum tamen amplius calefiant, sicut 
+      <lb ed="#L" n="23"/>lapides, metalla, &amp; ligna frigida manifestant: Lapides enim collisi generant clarum ignem, 
+      <lb ed="#L" n="24"/>&amp; metalla mota velociter liquefiunt, dicente Philosopho 1. Metaphys. 2. Videmus itaque 
+      <lb ed="#L" n="25"/>morum, quod potest disgregare aerem &amp; ignire, vt lata etiam liquefacta videantur sepe: Lig¬ 
+      <lb ed="#L" n="26"/>num etiam durum &amp; frigidum contra aliud fortiter agitatum procurat incendium, sicut 
+      no<lb ed="#L" n="27" break="no"/>runt euntes ad nemora sine igne. Haec etiam responsio peccat in alio, quia ponit motum 
+      cale<lb ed="#L" n="28" break="no"/>facere per hoc quia congregat; Videtur enim potius disgregare, sicut experientia satis 
+      do<lb ed="#L" n="29" break="no"/>cet. Dicitque Philos. 1. Met. 2. Videmus itaque motum quod potest disgregarea erem &amp; ignire; &amp; 
+      <lb ed="#L" n="30"/>infra eodem, Violentia latus vicinus aer maxime sit calidus, &amp; hoc rationabiliter accidit; 
+      max<lb ed="#L" n="31" break="no"/>ime autem motus solidi disgregat ipsum: propter hanc igitur causam pertingit ad hunc locum 
+      <lb ed="#L" n="32"/>caliditas. Item cum motus disgreget partes moti, &amp; per consequens partes eius calidas segreget 
+      <lb ed="#L" n="33"/>quodammodo &amp; exhalet, si non haberet virtutem propriam calefactiuam, quanto mixtum 
+      di<lb ed="#L" n="34" break="no"/>utius moueretur, tanto amplius infrigidaretur, quia tanto amplius recederent partes calidae, &amp;  
+      <lb ed="#L" n="35"/>remaneret frigide puriores. Item si nulla alteratio est aliquid, quomodo per eam tot 
+      acciden<lb ed="#L" n="36" break="no"/>tia &amp; substantiae generantur, &amp; tot similiter corrumpuntur? Quomodo etiam medicina per 
+      <lb ed="#L" n="37"/>eam viuificat, &amp; mortificat? sanum efficit &amp; infirmum? quomodo etiam Alchymia per 
+      ean<lb ed="#L" n="38" break="no"/>dem tot miracula operatur? Sed haec &amp; huiusmodi alijs derelinquo, accedens ad illa quae 
+      ma<lb ed="#L" n="39" break="no"/>gis ad propositum pertinent, &amp; de quibus nobis conceditur plenior certitudo, ad operationes 
+      <lb ed="#L" n="40"/>icilicet sensuum, animaeque humanae. Porro quicquid vere sentitur, est aliquid; &amp; sentire, 
+      <lb ed="#L" n="41"/>vere sentitur vt quilibet experitur. Philosophus quoque 2. de Anima, 134. ostendit quod 
+      eo<lb ed="#L" n="42" break="no"/>dem sensu exteriori sentimus obiectum extrinsecum, &amp; sentimus nos illud sentire; &amp; 
+      Auerro<lb ed="#L" n="43" break="no"/>es similiter in Comment. Et secundum alios sensum exteriorem sentire, sentitur a sensu 
+      com<lb ed="#L" n="44" break="no"/>muni, ita quod secundum omnes sensum exteriorem sentire, a fensu materiali sentitur: Est 
+      er<lb ed="#L" n="45" break="no"/>go aliquid, &amp; non nihil. Item imaginatio, cogitatio, concupiscere, irasci, gaudere, tristari, &amp;  
+      <lb ed="#L" n="46"/>multa similia sentiuntur a sensu materiali; Sunt ergo aliquid &amp; non nihil. Haec etiam 
+      mul<lb ed="#L" n="47" break="no"/>tipliciter &amp; vere realiter alterant corpora &amp; causant multos reales effectus, &amp; nihil, nihil 
+      alte<lb ed="#L" n="48" break="no"/>rat siue causat. Illud autem quod assumpsi omnes multipliciter experimur; dicitque 
+      Philo<lb ed="#L" n="49" break="no"/>sopus in de Causa motus Animalium, qui est duodecimus de historijs Animalium, in noua 
+      <lb ed="#L" n="50"/>transtatione cap. penult. &amp; vlt. quod ex sensatione, phantasia, meditatione, &amp; intellectione, 
+      fi<lb ed="#L" n="51" break="no"/>unt multae alterationes &amp; passiones in corpore secundum caliditatem &amp; frigiditatem, vt in 
+      ru<lb ed="#L" n="52" break="no"/>boribus, &amp; palloribus, &amp; timoribus; &amp; fere omnia delectabilia &amp; tristabilia cum caliditate &amp;  
+      <lb ed="#L" n="53"/>frigiditate. vt in passionibus audaciae, &amp; timoris &amp; venereorum, &amp; haec quidem partem 
+      cor<lb ed="#L" n="54" break="no"/>poris occupant, haec autem vniuersaliter totum corpus; imo &amp; quod magis videtur inter na 
+      <lb ed="#L" n="55"/>turae miracula, haec habent similem virtutem agendi, sicut &amp; res quarum sunt; Vnde 
+      capi<lb ed="#L" n="56" break="no"/>tulo illo penultimo ita dicit; Alterant autem phantasiae, &amp; sensus &amp; meditationes; sensus enim 
+      <lb ed="#L" n="57"/>statim sunt alterationes quaedam existentes; Phantasia autem &amp; intelligentia habent rerum 
+      <lb ed="#L" n="58"/>virtutem; Aliquo enim modo species intellecta calidi, aut frigidi, delectabilis aut tristabilis 
+      <!--565.xml-->
+      <pb ed="#A" n="532"/>
+               <lb ed="#L" n="1"/>talis existit, qualis quidem &amp; rerum vnaquaeque, propter quod tremunt &amp; timent 
+      intelligen<lb ed="#L" n="2" break="no"/>tes solum; haec autem omnia passiones &amp; alterationes sunt; alteratis aute haec quidem 
+      maio<lb ed="#L" n="3" break="no"/>ra, haec autem minora fiunt. Quod autem modica permutatio facta in principio multas &amp; magnas 
+      <lb ed="#L" n="4"/>facit differentias deinceps, non immanifestum, velut gubernaculo secundum modicum aliquid 
+      <lb ed="#L" n="5"/>transposito, magna prorae transpositio. Adhuc autem secundum caliditatem aut frigiditatem, aut 
+      <lb ed="#L" n="6"/>secundum aliquam aliam talem passionem, cum fiat alteratio circa cor, &amp; in hoc secundum 
+      <lb ed="#L" n="7"/>magnitudinem in senfili parte multam facit corporis differentiam in ruboribus, &amp; 
+      pallori<lb ed="#L" n="8" break="no"/>bus, &amp; tremoribus, &amp; timoribus, &amp; horum contrarijs; principium quidem quemadmodum 
+      <lb ed="#L" n="9"/>dictum est, motus, quod in operabilibus, persequibile &amp; fugibile; ex neces sitate autem 
+      con<lb ed="#L" n="10" break="no"/>sequitur meditationi &amp; phantasiae ipsorum, caliditas &amp; frigiditas; tristabile enim, fugibile, 
+      de<lb ed="#L" n="11" break="no"/>lectabile autem persequibile: sed latet circa modica accidens Eoc. Sunt autem tristabilia &amp;  
+      <lb ed="#L" n="12"/>delectabilia omnia fere cum frigiditate aliqua aut caliditate; hoc autem palam ex 
+      passioni<lb ed="#L" n="13" break="no"/>bus: Audacia enim, &amp; timores, &amp; ad venerea motus, &amp; alia corporalia tristabilia &amp; 
+      delecta<lb ed="#L" n="14" break="no"/>bilia, haec quidem secundum partem cum caliditate &amp; frigiditate sunt, haec autem secundum 
+      <lb ed="#L" n="15"/>totum corpus; Memoriae autem &amp; species, quasi idolis vtentes his, aliquando minus, 
+      ali<lb ed="#L" n="16" break="no"/>quando magis causae eorundem sunt. Et capit. vlt. ponens distinctionem trimembrem de 
+      <lb ed="#L" n="17"/>motibus Animalium, voluntarijs scilicet, &amp; inuoluntarijs ac non voluntarijs; de 
+      inuolunta<lb ed="#L" n="18" break="no"/>rijs ita dicit; Mouentur autem &amp; aliquibus inuoluntarijs quaedam partium; dico autem 
+      in<lb ed="#L" n="19" break="no"/>uoluntarios, vt puta eum qui cordis, &amp; eum qui pudendi. Multoties enim apparente aliquo, 
+      <lb ed="#L" n="20"/>non tamen iubente intellectu mouentur. Idem 1. de Anima. 14. videntur, inquit, animae 
+      <lb ed="#L" n="21"/>passiones omnes esse cum corpore, puta mansuetudo, timor, misericordia, confidentia, 
+      ad<lb ed="#L" n="22" break="no"/>huc gaudium, &amp; amare &amp; odire; Simul enim his patitur aliquid corpus. Super quod dicit ibi 
+      <lb ed="#L" n="23"/>Auerroes in comment. quod omnia accidentia animae concupiscibilis fiunt cum alteratione 
+      <lb ed="#L" n="24"/>&amp; transmutatione in corpore. Philosophus insuper 7. Eth. 3. ita dicit, Ira, &amp; concupiscentia 
+      <lb ed="#L" n="25"/>venereorum &amp; quedam talium manifeste &amp; corpus transmutant, quibusdam autem &amp; 
+      insa<lb ed="#L" n="26" break="no"/>nias faciunt. Hoc &amp; ostendit Auicenna 4. de Anima 4. dissuse; vbi inter caetera ita dicit; 
+      <lb ed="#L" n="27"/>Nos autem dicimus ad summam, quod ex anima solet contingere in materia corporali 
+      per<lb ed="#L" n="28" break="no"/>mutatio coplexionis, quae acquiritur sine actione &amp; pas sione corporali; ita quod calor accidat 
+      <lb ed="#L" n="29"/>non ex calido, &amp; frigiditas non ex frigido. Cum enim imaginatur anima aliqua imaginatione, 
+      <lb ed="#L" n="30"/>&amp; corroboratur in ea, statim materia corporalis recipit forma habentem operationem ad illa aut  
+      <lb ed="#L" n="31"/>qualitatem; &amp; infra eode, Attende dispositioni infirmi, cum credit se conualescere, aut sani, 
+      <lb ed="#L" n="32"/>cum credit se aegrotare; multoties enim contingit ex hoc, vt cum corroboratur forma in 
+      ani<lb ed="#L" n="33" break="no"/>ma eius, patiatur ex ea ipsius materia, &amp; proueniat ex hoc sanitas aut infirmitas; &amp; est haec 
+      <lb ed="#L" n="34"/>actio efficatior, quam id quod agit medicus instrumentis suis &amp; medijs; &amp; propter hoc 
+      po<lb ed="#L" n="35" break="no"/>test homo ambulare super trabem quae est in media via, sed si positus fuerit pons super aquam  
+      <lb ed="#L" n="36"/>profundam, non audebit ambulare super eum, eo quod imaginatur in anima eius formam  
+      <lb ed="#L" n="37"/>cadendi vehementer impressam, cui obedit natura eius, &amp; virtus membrorum eius, &amp; non  
+      <lb ed="#L" n="38"/>obediunt eius contrario, scilicet ad erigendum &amp; ambulandum: Ergo cum esse forimarum  
+      <lb ed="#L" n="39"/>impressum fuerit in anima, &amp; constiterit animae quod habent esse, contingit saepe materiam 
+      <lb ed="#L" n="40"/>pati ex eis, &amp; vt habeant esse. Idem 8. de Animalibus vlt. agens de moribus Annimalium, 
+      <lb ed="#L" n="41"/>icribit ita; De mirabilibus etiam est, quod gallina, quando vincit gallum, erigit se quasi 
+      es<lb ed="#L" n="42" break="no"/>set gallus, &amp; percutit suis alis in sua luxuria, quasi esset gallus, &amp; eleuat suam caudam sicut 
+      <lb ed="#L" n="43"/>gallus, &amp; aliquando ei nascitur cornu in crure quasi gallo; &amp; in hoc potest percipi 
+      obedien<lb ed="#L" n="44" break="no"/>tia naturae cogitationibus animae, quando propter suam cogitationem nascebatur cornu in 
+      <lb ed="#L" n="45"/>crure. Item Algazel. 5. Physicae suae 5. sic ait, Cum venit in animam forma horribilis, 
+      con<lb ed="#L" n="46" break="no"/>uertitur complexio corporis, &amp; prouenit inde humiditas sudoris; cum vero venit in animam 
+      <lb ed="#L" n="47"/>forma victoriae, calescit complexio corporis &amp; rubescit facies: cum autem venit in animam 
+      <lb ed="#L" n="48"/>forma desiderata, sit in commeatu spermatis calor vaporabilis mouens ventum, ita vt 
+      im<lb ed="#L" n="49" break="no"/>pleantur venae instrumenti coitus, &amp; appetatur ad illud, hic autem calor, &amp; humiditas, &amp; 
+      fri<lb ed="#L" n="50" break="no"/>giditas quae fiunt in corpore ab his imaginationibus non sunt ex alio calore, vel ex alia 
+      frigi<lb ed="#L" n="51" break="no"/>ditate vel humiditate, sed ex sola imaginationem; ergo sola imaginatio est causa fiendi istas 
+      <lb ed="#L" n="52"/>permutationes in em corporis. Quis enim nesciat, quantum somnia, &amp; imaginationes in 
+      <lb ed="#L" n="53"/>somnis alterant somniantes? Quis est enim qui non habeat experientiam certam huius, quod 
+      <lb ed="#L" n="54"/>&amp; satis ostendit Auicenna 4. de anima 2. vbi inter caetera ita dicit; Mirum est, quod sicut 
+      ali<lb ed="#L" n="55" break="no"/>quando accidit // ex motu naturae ad expellendum sperma, sic aliquando accidet imaginatio 
+      <lb ed="#L" n="56"/>aliqua formae desideratae propter aliquam causam, &amp; mouetur natura ad coniungendum 
+      sper<lb ed="#L" n="57" break="no"/>ma, &amp; aliquando emittit sperma, &amp; aliquando contingit hoc in somnis aliquando in vigilia. 
+      <lb ed="#L" n="58"/>Haec autem &amp; multa similia omnes medici pariter contestantur: Dicunt enim quod imagi¬ 
+      <!--566.xml-->
+      <pb ed="#A" n="533"/>
+               <lb ed="#L" n="1"/>nans fortiter de lepra, &amp; quibusdam infirmitatibus alijs, ex sola imaginatione incidit in eas 
+      <lb ed="#L" n="2"/>quandoque, praesertim si et ad infirmitates huiusmodi disponatur. Imaginatio quoque 
+      fir<lb ed="#L" n="3" break="no"/>ma nedum corpus imaginantis, verum etiam corpus alterius quandoque alterat manifeste: 
+      <lb ed="#L" n="4"/>vt autem de fascinatione &amp; superstitiosis similibus taceam, de quibus tamen Auicenna, 
+      Alga<lb ed="#L" n="5" break="no"/>zel, Plinius, Virgilius, alijque non tacent, sicut in ostensione 37. partis corollarij primi, 
+      <lb ed="#L" n="6"/>primi aliquantulum recitatur, vnum experimentum de sacris literis profero, nulli 
+      Theolo<lb ed="#L" n="7" break="no"/>go dubium aut suspectum: Quis enim Theologorum ignorat, quomodo oues Laban 
+      vnico<lb ed="#L" n="8" break="no"/>lores concipiendo virgas varias intuentes, foetus conceptos coloribus varijs affecerunt, sicut 
+      <lb ed="#L" n="9"/>ex Gen. 30. omnibus est vulgatum. Nec potest quis fingere hoc tantum ex obiectis 
+      colori<lb ed="#L" n="10" break="no"/>bus, &amp; nihil ex imaginatione ouium contigisse, quia colores obiecti hoc non fecerunt 
+      im<lb ed="#L" n="11" break="no"/>mediate per seipsos, sed mediate sensatione &amp; speciebus colorum receptis in imaginatiua &amp; 
+      <lb ed="#L" n="12"/>alijs potentijs interioribus; sed illae species receptae solae sine actuali &amp; forti imaginatione de 
+      <lb ed="#L" n="13"/>ijs minime suffecerunt, quia tunc quaelibet ouis seu faemina habens varias species vatiorum 
+      <lb ed="#L" n="14"/>prius visorum retentas, nec quicquam de eis imaginans quando conciperet, varium faceret 
+      <lb ed="#L" n="15"/>suum foetum, cuius contrarium experientia certa docet. Vnde &amp; Augustinus II. de 
+      Trini<lb ed="#L" n="16" break="no"/>tate 2. Aliorum, inquit, animalium, quia non est ad conuersationem facilis corpulentia 
+      foe<lb ed="#L" n="17" break="no"/>tus, pluriumque produnt libidines matrum // quid cum magna delectatione conspexerint; 
+      <lb ed="#L" n="18"/>quam enim teneriora, atque vt ita dixerim, formabiliora sunt primordia seminum, tam 
+      effica<lb ed="#L" n="19" break="no"/>citer &amp; capaciter sequuntur intentionem maternae animae, &amp; quae in ea facta est phantasia per 
+      <lb ed="#L" n="20"/>corpus quod cupide aspexit. Sunt exempla quae copiose commemorari possunt, sed vnum 
+      <lb ed="#L" n="21"/>sufficit de fidelis simis libris; quod fecit Iacob vt oues &amp; caprae varios coloribus parerent 
+      foe<lb ed="#L" n="22" break="no"/>tus, supponendo eis vatiata virgulta in canalibus aquarum, quae potantes intuerentur eo 
+      <lb ed="#L" n="23"/>tempore quo conciperent. (Item ad idem 5. contra Iulianum 19. sic ait; Rerum 
+      corpora<lb ed="#L" n="24" break="no"/>lium qualitates in res incorporales transeunt, quando formas corporum, quas videmus, 
+      hau<lb ed="#L" n="25" break="no"/>rimus quodammodo &amp; in memoria recondimus, &amp; quocunque pergimus, nobiscum 
+      feri<lb ed="#L" n="26" break="no"/>mus; quomodo autem de corpore ad spiritum, eo modo transeunt de spiritu ad corpus. Iam 
+      <lb ed="#L" n="27"/>colores virgarum, quas variauit Iacob, afficiendo sensus, transierunt in animas pecorum 
+      ma<lb ed="#L" n="28" break="no"/>trum, atque inde rursus eadem affectione transeundo apparuerunt in corporibus filiorum. 
+      <lb ed="#L" n="29"/>Tale vero aliquid etiam in foetibus humanis posse contingere Soranus medicinae Autor 
+      no<lb ed="#L" n="30" break="no"/>bilissimus scribit, &amp; exemplo confirmat historiae: Nam Dionysium tyrannum narrat, eo 
+      <lb ed="#L" n="31"/>quod ipse deformis esset, nec tales habere filios vellet, vxori suae in concubitu formosam 
+      pro<lb ed="#L" n="32" break="no"/>ponere solere imaginem seu picturam, cuius pulchritudinem concupiscendo quodammodo 
+      <lb ed="#L" n="33"/>raperet, &amp; in prolem quam concipiebat afficiendo transmitteret. Multa quoque istis similia 
+      <lb ed="#L" n="34"/>&amp; multi alij medici contestantur. Quis etiam studiosus vel medicatiuus ignoret, quantum, &amp;  
+      <lb ed="#L" n="35"/>quam multipliciter vehemens studium, &amp; intensa meditatio alteret corpus suum 
+      calefacien<lb ed="#L" n="36" break="no"/>do, consumendo, sensuum officia suspendendo, somnum saepius auferendo, quandoque vero 
+      <lb ed="#L" n="37"/>somnum vel syncopen, seu extasin procurando, delectationem multiplicem ingerendo, &amp; 
+      <lb ed="#L" n="38"/>multa similia faciendo? Vnde Ecclesiastici 3I. Vigilia honestatis tabefaciet carnes, &amp; 
+      vigi<lb ed="#L" n="39" break="no"/>lia illius auferet somnum. Item Auerroes in com. super librum Aristotelis de somno &amp; vi 
+      <lb ed="#L" n="40"/>gilia ita dicit; Illi qui multum cogitant, intrant suae virtutes sensibiles intra corpus, ita quod 
+      <lb ed="#L" n="41"/>acciditeis somnus magnus: Istae enim virtutes interiores quando mouebuntur forti motu, 
+      <lb ed="#L" n="42"/>contrahentur virtutes exteriores adeo, quod forte accidit syncope. Dicitque Auicenna A. 
+      <lb ed="#L" n="43"/>de Anima 2. quod lassitudo aliquando contingit ex curis, aliquando ex pauore; ex pauore 
+      <lb ed="#L" n="44"/>etenim aliquando accidit somnus, &amp; etiam mors: aliquando vero curae faciunt somnum, non 
+      <lb ed="#L" n="45"/>eo modo, sed quia calefaciunt cerebrum, &amp; humores attenuabuntur ad illud, &amp; cum 
+      imple<lb ed="#L" n="46" break="no"/>tur cerebrum, sit dormitatio propter humorem. Vnde &amp; Psalmista, Dormitauit anima mea 
+      <lb ed="#L" n="47"/>prae taedio, Psalmo 1I8. Adhuc autem &amp; Auicenna 7. de Animalibus vlt. refert de quodam 
+      <lb ed="#L" n="48"/>homine, qui tempore Auicennae erat in terra Vassaciae, quod potuit paraliticare corpus suum 
+      <lb ed="#L" n="49"/>quando voluit, cuius filium &amp; vidit, vt dicit, multa mirabilia facientem. Beatus quoque 
+      <lb ed="#L" n="50"/>Augustinus 14. de Ciuit. Dei 24. refert quod quidam presbiter nomine Restitutus in 
+      paro<lb ed="#L" n="51" break="no"/>chia Calamensis Ecclesiae quando ei placebat, rogatus ab eis qui scire rem mirabilem cupie 
+      <lb ed="#L" n="52"/>bant, ita se auferebat a sensibus, &amp; iacebat simillimus mortuo, vt non solum vellicantes at 
+      <lb ed="#L" n="53"/>que pungentes minime sentiret, sed aliquando etiam igne vreretur admoto, sine vllo doloris 
+      <lb ed="#L" n="54"/>sensu, nisi postmodum ex vulnere, non obnitendo, sed non sentiendo: Non mouere corpus 
+      <lb ed="#L" n="55"/>eo probabatur, quod tanquam in defuncto nullus inueniebatur anhelitus. Item omnis 
+      ap<lb ed="#L" n="56" break="no"/>prehensio actualis conuenientis obiecti causat delectationem, &amp; maior &amp; conuenientioris 
+      <lb ed="#L" n="57"/>maiorem, sicut quilibet experitur, et omnes Philosophi contestantur. Vnde Philosophus 
+      <lb ed="#L" n="58"/>duodecimo Metaphysicorum 39. sic ait, vigilatio sensus intelligentia delectabilis simum, 
+      <!--567.xml-->
+      <pb ed="#A" n="534"/>
+               <lb ed="#L" n="1"/>lspecies vero &amp; memoriae propter haec: super quod Auerroes sic ait, Signum quod 
+      compre<lb ed="#L" n="2" break="no"/>liendo est causa voluntatis, quia vigilia &amp; sensus &amp; intellectus sunt in nobis voluptuosa; spes 
+      <lb ed="#L" n="3"/>autem &amp; rememoratio quamuis sint voluptuosae, tamen sunt de rebus non existentibus in 
+      a<lb ed="#L" n="4" break="no"/>ctu, &amp; sunt voluptuosae, quia sperans imaginatur ea esse comprehensa in actu, &amp; similiter 
+      com<lb ed="#L" n="5" break="no"/>memorans, &amp; innuit quod comprehensio voluptuosa non est nisi illius quod est in actu, non 
+      <lb ed="#L" n="6"/>in potentia: &amp; infra eodem; Manifestum est, quod intelligere per intellectum qui est in 
+      no<lb ed="#L" n="7" break="no"/>bis, valde est voluptuosum, &amp; nobilius omnibus rebus existentibus in nobis; &amp; adhuc 
+      inferi<lb ed="#L" n="8" break="no"/>us in eodem, Voluptas ita consequitur comprehensionem, sicut vmbra corpus: Eadem 
+      quo<lb ed="#L" n="9" break="no"/>que sententia habetur 10. Eth. a Philosopho, &amp; ab omnibus eum exponentibus satis plane, 
+      <lb ed="#L" n="10"/>Hoc idem testantur clarissime verba // Auchanoch recitata 4. de Anima Auicennae 4. 
+      Gaudi<lb ed="#L" n="11" break="no"/>um, inquit, est delicia; Omnis autem delicia est apprehensio perfectae acquisitionis propriae 
+      <lb ed="#L" n="12"/>virtuti apprehendenti, sicut sentire dulce, &amp; odorare bonum odorem sensui, // parare 
+      vindi<lb ed="#L" n="13" break="no"/>ctam virtuti irascibili, &amp; // parare spem virtuti cogitatiuae &amp; aestimatiuae; Omnis autem percep 
+      <lb ed="#L" n="14"/>tio est res naturalis, &amp; omnis perceptio rei quae est naturalis virtuti est delicia. Quas delicias 
+      <lb ed="#L" n="15"/>expertus Propheta Sanctissimus, Dominosic dicebat, In via mandatorum tuorum 
+      delecta<lb ed="#L" n="16" break="no"/>tus sum, sicut in omnibus diuitijs, Psalmo II8. &amp; infra eodem, Quam dulcia faucibus meis 
+      <lb ed="#L" n="17"/>eloquia tua, super mel ori meo: Sed haec tam delicata dulcedo nobis miseris animalibus, 
+      ho<lb ed="#L" n="18" break="no"/>minibus illecebrosis siliquis saturatis non sapit; imo &amp; merito nec ostenditur talibus 
+      degu<lb ed="#L" n="19" break="no"/>standa; Anima namque saturata calcabit fauum. Parab. 27. sed spiritualibus viris 
+      abscon<lb ed="#L" n="20" break="no"/>ditur reseruata, quare &amp; ille sanctus Dauid spiritu Dei plenus. Quam magna, inquit, 
+      multitu<lb ed="#L" n="21" break="no"/>do dulcedinis tuae, Domine, quam abscondisti timentibus te? Perfecisti autem eis, qui 
+      spe<lb ed="#L" n="22" break="no"/>rant in te, Psalmo 30. Quin nihil melius quam timor Dei, &amp; nihil dulcius, quam respicere 
+      <lb ed="#L" n="23"/>in mandatis Domini: Ecclesiast. 33. Item si intelligere, cogitare, componere, diuidore, 
+      dis<lb ed="#L" n="24" break="no"/>currere &amp; caetera talia non sunt aliquid, nec faciunt aliquid, &amp; cum faciant scientiam, &amp; alios 
+      <lb ed="#L" n="25"/>habitus intellectuales; patenter consequitur quod nullus illorum est aliquid: Quare vt verbis 
+      <lb ed="#L" n="26"/>Philosophi 3. de Anima 14. vtar, Accidit intellectui sic dicentis, quod sit sicut tabula in qua 
+      <lb ed="#L" n="27"/>nihil est actu scriptum, quod licet ipse de suo intellectu concesserit, alij tamen Philosophi. 
+      <lb ed="#L" n="28"/>Theologi, &amp; vulgares de suis intellectibus non concedent; quod quia intelligentibus reputo 
+      <lb ed="#L" n="29"/>manifestum, tantum vnam probationem breuissimam affero ista vice. Est quidem 
+      articu<lb ed="#L" n="30" break="no"/>lus damnatus &amp; excommunicatus per Dominum Stephanum Parisiensem Episcopum sub 
+      <lb ed="#L" n="31"/>his verbis, Quod intellectiua scientia non differt a substantia intellectiuae: // Ibi enim non est 
+      <lb ed="#L" n="32"/>diuersitas intellecti ab intelligente, nec diuersitas intellectorum. Item si hominem 
+      intelli<lb ed="#L" n="33" break="no"/>gere, non est aliquid, nec hominem esse intelligentem est aliquid; ergo nec hominem esse 
+      calcea<lb ed="#L" n="34" break="no"/>tum, aut armatum est aliquid, quare &amp; praedicamentum habitus deperibit. Et si hominem 
+      in<lb ed="#L" n="35" break="no"/>telligere non est aliquid, nec hominem sedere aut stare est aliquid, quare &amp; praedicamentum 
+      <lb ed="#L" n="36"/>situs seu positionis etiam simul perit. Item Philosophus 5. Metaphys. 13. diuidit ens, in ensI 
+      <lb ed="#L" n="37"/>secundum accidens, &amp; in ens secundum se; &amp; 14. sic dicit; Secundum se vero esse dicuntur, 
+      <lb ed="#L" n="38"/>quaecunque fignificant figuras praedicationis: Quoties enim esse dicitur, toties esse 
+      significa<lb ed="#L" n="39" break="no"/>bit. Quoniam ergo praedicatorum alia quid est significant, alia quale, alia facere, alia pati, &amp;c. 
+      <lb ed="#L" n="40"/>horum vnicuique idem esse significat: Nihil enim refert, homo conualescens est, vel homo 
+      <lb ed="#L" n="41"/>conualescit; vel homo vadens est, aut stans; vel hominem vadere aut stare. Similiter autem 
+      <lb ed="#L" n="42"/>&amp; alijs. Idem 7. Metaphys. 3. Dubitat aliquis, vtrum vadere, &amp; sanare, &amp; sedere 
+      vnumquod<lb ed="#L" n="43" break="no"/>que ipsorum sit ens aut non ens, similiter autem &amp; in alijs; Nihil enim ipsorum est, nec 
+      fe<lb ed="#L" n="44" break="no"/>cundum se aptum natum, nec separari possibile a substantia: vbi textus Auerrois sic habet; 
+      <lb ed="#L" n="45"/>Quaeret aliquis vtrum ambulatio, sanitas, &amp; sessio significant ens aut non ens; &amp; soluit 
+      Trans<lb ed="#L" n="46" break="no"/>latio noua dicens, Palam igitur, quod propter eam, scilicet substantia &amp; illorum singula sunt; 
+      <lb ed="#L" n="47"/>vbi transtatio Auerrois sic habet, Manifestum est igitur quod haec est causa essentiae 
+      cuiusti<lb ed="#L" n="48" break="no"/>bet istorum, &amp; ista sunt propter illud, super quod dicit Auerroes, id est, manifectum est quod 
+      <lb ed="#L" n="49"/>substantiae sunt causae essentiae accidentium, &amp; accidentia non sunt nisi propter substantias; &amp; p 
+      <lb ed="#L" n="50"/>hoc est necessarium, quoniam cum declaratum est, quod hoc nomen ens dicitur de decem 
+      <lb ed="#L" n="51"/>praedicamentis, &amp; dignius de substantijs; &amp; declaratum est quod cum plura communicant in 
+      <lb ed="#L" n="52"/>eodem nomine, &amp; quaedam dignius quibusdam, illud quod est dignius isto nomine est causa 
+      <lb ed="#L" n="53"/>caeterorum. Item si hominem intelligere, aut esse intelligentem non est aliquid, nec 
+      homi<lb ed="#L" n="54" break="no"/>nem esse est aliquid; quia nec esse est aliquid, quare nec esse est, cum tamen per ipsum existat 
+      <lb ed="#L" n="55"/>quaelibet creatura, imo &amp; esse non est, &amp; est non ens &amp; nihil, quod quanta absurditate 
+      dica<lb ed="#L" n="56" break="no"/>tur, pene non est qui nescit. Item si hominem intelligere, esse intelligentem, aut esse non sit 
+      <lb ed="#L" n="57"/>aliquid, eadem ratione nec Deum intelligere, esse intelligentem, &amp; esse, nec intellectio diuina 
+      <lb ed="#L" n="58"/>est aliquid, quod est contra Philosophum 12. Metaphys. SI. vbi inquirendo quid &amp; qualiter  
+      <!--568.xml-->
+      <pb ed="#A" n="535"/>
+               <lb ed="#L" n="1"/>Deus intelligit, ostendit quod non intelligit principaliter aliud a seipso, ita quod perficiatuil 
+      <lb ed="#L" n="2"/>ab illo, per demonstrationem ducentem ad hoc impossibile, quod ipse non sit hoc, quod Iua 
+      <lb ed="#L" n="3"/>intelligentia, &amp; quod non sit optima substantia consequenter. Vnde sic ait, Si non 
+      intelli<lb ed="#L" n="4" break="no"/>gat, quid vtique erit insigne venerabile, sed habet quemadmodum vt sit dormiens; siue 
+      intelli<lb ed="#L" n="5" break="no"/>gat, huius vero ad aliud principale non est hoc quod est sua intelligentia, sed potentia, non 
+      v<lb ed="#L" n="6" break="no"/>tique erit optima substantia; per intelligere enim honorabile est; &amp; intelligit ibi per 
+      intelli<lb ed="#L" n="7" break="no"/>gentiam actum intelligendi, siue intellectionem actiuam, seu ipsum intelligere, vt ipsemet 
+      sta<lb ed="#L" n="8" break="no"/>tim exprimit subsequenter, per intelligere inquiens honorabile est, &amp; vbi textus nouus habet; 
+      <lb ed="#L" n="9"/>Non est hoc quod est sua intelligentia, textus antiquior, quem Auerroes commentator 
+      expo<lb ed="#L" n="10" break="no"/>nit, sic habet, hoc intelligere non est &amp; substantia eius. Vnde &amp; Augustinus de Verit. 8. 
+      Quip<lb ed="#L" n="11" break="no"/>pe secundum id quod agit, magis proprie videtur dici agentia, &amp; percutientia; d&amp; secundum 
+      <lb ed="#L" n="12"/>id quod patitur, actio &amp; passio: Nam agentia, &amp; percutientia ab agente &amp; percutiente 
+      dicun<lb ed="#L" n="13" break="no"/>tur, sicut prouidentia a prouidente, &amp; continentia a continente; quae, scilicet agens &amp; 
+      percu<lb ed="#L" n="14" break="no"/>tiens, prouidens &amp; continens actiua sunt; actio vero &amp; passio ab acto &amp; passo quae passiua 
+      <lb ed="#L" n="15"/>sunt, deriuantur. Philosophus vero vbi prius, prosequens quod incepit, sic arguit 
+      consequen<lb ed="#L" n="16" break="no"/>ter: Si non est intelligentia, sed potentia rationale, laboriosum esse ei continuationem 
+      intel<lb ed="#L" n="17" break="no"/>lectiuae. Et addit deinde palam, quia aliud aliquid erit dignius quam intellectus, scilicet 
+      intelle<lb ed="#L" n="18" break="no"/>ctum: Etenim intelligere, &amp; intellectiua inerit indignissimum intelligenti; quare fugiendum 
+      <lb ed="#L" n="19"/>hoc; etenim non videre quaedam, dignius quam videre; non, si sit optimum intelligentia; 
+      se<lb ed="#L" n="20" break="no"/>ipsum ergo intelligit siquid est potentissimum, &amp; est intelligentia intelligentiae intelligentia; 
+      <lb ed="#L" n="21"/>vbi textus Auertois sic habet, &amp; ipse intelligit intelligere, super quod sic ait; &amp; ipse intelligit 
+      <lb ed="#L" n="22"/>intelligere, id est, &amp; intelligit suam actionem, quae est intelligere; sua enim substantia est sua 
+      <lb ed="#L" n="23"/>actio. Item si Deum intelligere non est aliquid, nec Deum viuere, aut Deum esse viuentem est 
+      <lb ed="#L" n="24"/>aliquid, imo nec vita Dei est aliquid; Nam vita est actio seu actus viuentis: Dicit enim 
+      Phi<lb ed="#L" n="25" break="no"/>losophus 9. Metaphys. 16. Quorum non est aliquid aliud opus praeter actionem, in ipsis 
+      <lb ed="#L" n="26"/>existit actio, vt visio in vidente, &amp; speculatio in speculante, &amp; vita in anima, quare &amp; faelicitas; 
+      <lb ed="#L" n="27"/>Vita namque qualis quaedam est. Idem 12. Metaphys. 39. Intellectus actus vita, vbi 
+      trans<lb ed="#L" n="28" break="no"/>latio Auerrois sic habet, Actio intellectus est vita; vbi &amp; probat Philosophus, quod Deus est, 
+      <lb ed="#L" n="29"/>vita, sic dicens, &amp; vita vtique existit, etenim intellectus actus vita, id autem ipse actus, actus 
+      <lb ed="#L" n="30"/>autem quae secundum se illius vita optima, &amp; sempiterna; dicimus autem Deum esse animal 
+      <lb ed="#L" n="31"/>sempiternum optimum, quare vita, &amp; duratio continua &amp; aeterna existit Deo, hoc enim Deus: 
+      <lb ed="#L" n="32"/>Super quod dicit Auerroes, Actio intellectus est vita, id est, &amp; dicitur de eo vita choc enim 
+      <lb ed="#L" n="33"/>nomen, scilicet vita dicitur de comprehensione) &amp; cum actio intellectus est comprehensio. 
+      <lb ed="#L" n="34"/>ergo actio intellectus est vita, &amp; cum intellectus est viuus, &amp; cum actio eius est vita: Illud 
+      igi<lb ed="#L" n="35" break="no"/>tur quod intellectus est, quia intelligit aliud illud esse vnum, quod habet vitam in fine 
+      nobili<lb ed="#L" n="36" break="no"/>tatis, &amp; ideo vita &amp; scientia proprie dicuntur de Deo. Et infra, Sic est intelligendum cum di 
+      <lb ed="#L" n="37"/>cimus, ipsum esse viuum &amp; habentem vitam, non quia // sggnfficant idem omnibus modis, sicut 
+      <lb ed="#L" n="38"/>nomina synonyma, nec sicut significant nomina substantialia, nec sicut significant principale, 
+      <lb ed="#L" n="39"/>&amp; sumptum, quia sumptum significat illud quod significat principale &amp; magis, vita enim 
+      sig<lb ed="#L" n="40" break="no"/>nificat aliquid non in subiecto; viuum autem significat aliquid in subiecto, scilicet formam in 
+      <lb ed="#L" n="41"/>materia, &amp; habitum in subiecto. Hae igitur sunt omnes dispositiones significationum 
+      nomi<lb ed="#L" n="42" break="no"/>num in eis quae sunt forma in materia, in eis autem quae sunt forma non in materia, 
+      disposi<lb ed="#L" n="43" break="no"/>tio &amp; dispositum reducuntur ad vnum in esse &amp; duo in consideratione. Ista enim essentia cum 
+      <lb ed="#L" n="44"/>fuerit accepta, secundum quod est posita, &amp; fuerit disposita aliqua dispositione, tunc dispositio 
+      <lb ed="#L" n="45"/>&amp; dispositum vnum erit in praedicatione, &amp; duo in intentione; quia praedicatum differt a subiecto, 
+      <lb ed="#L" n="46"/>sed tamem non sicut predicatum differt in propositionibus categoricis substantialibus: Dispositio 
+      <lb ed="#L" n="47"/>enim non idem est &amp; dispositum, sicut in rebus abstractis; quando autem fuerit considerata 
+      <lb ed="#L" n="48"/>dispositio &amp; dispositum in eis, quae non sunt in materia, tunc reducuntur ad vnam intentione 
+      <lb ed="#L" n="49"/>omnibus modis, &amp; nullus modus erit quo distinguatur praedicatum a subiecto &amp; disposito 
+      <lb ed="#L" n="50"/>extra intellectum, scilicet in esse rei: Multiplicitas igitur in Deo non est nisi in intellectu 
+      dis<lb ed="#L" n="51" break="no"/>ferentia, non in esse. Hanc quoque sententiam ostendit Anselmus Monolog. diffuse 16. &amp; 
+      <lb ed="#L" n="52"/>17. Vnde &amp; 16. ita dicit; Quoniam igitur summa natura non proprie dicitur quia habet 
+      iusti<lb ed="#L" n="53" break="no"/>tiam, sed existit iustitia, cum dicitur iusta proprie intelligitur existens iustitia, non autem 
+      ha<lb ed="#L" n="54" break="no"/>bens iustitiam; quare sicut dicitur existens iustitia, non dicitur qualis est, sed quid est, 
+      conse<lb ed="#L" n="55" break="no"/>quitur, vt cum dicitur iusta non dicatur qualis sit, sed quid sit. Deinde, quoniam de illa 
+      supre<lb ed="#L" n="56" break="no"/>ma essentia, idem est dicere quod est iusta, &amp; quod est existens iustitia, &amp; cum dicitur existens 
+      <lb ed="#L" n="57"/>iustitia, non est aliud quam est iustitia, nihil differt in illa, siue dicatur, est iusta, siue est 
+      iustitia<lb ed="#L" n="58" break="no"/>Quod vero in exemplo iustitiae ratum esse conspicitur, hoc de omnibus quae similiter de ipsa¬ 
+      <!--569.xml-->
+      <pb ed="#A" n="536"/>
+               <lb ed="#L" n="1"/>summa natura dicuntur, intellectus sentire per rationem constringitur: Quicquid ergo 
+      eo<lb ed="#L" n="2" break="no"/>rum de illa dicatur, non qualis vel quanta, sed magis quid sit monstratur: Sed palam est quia 
+      <lb ed="#L" n="3"/>quodlibet bonum summa natura sit, summe illud est; illa est igitur summa essentia, summa 
+      <lb ed="#L" n="4"/>vita, summa ratio, summa salus, summa iusticia, quod non est aliud quam summum ens, 
+      sum<lb ed="#L" n="5" break="no"/>me viuens, &amp; alia similiter: Est ergo summe cognoscens, &amp; summa cognitio, summe 
+      intelli<lb ed="#L" n="6" break="no"/>gens, &amp; summa intellectio, summe agens, &amp; summa actio, &amp; similiter de similibus vniuersis. 
+      <lb ed="#L" n="7"/>Cui satis concorditer dicit Augustinus I. Confess. 6. hoc modo; Domine, tibi esse &amp; 
+      viue<lb ed="#L" n="8" break="no"/>re, non aliud atque aliud est, quia summe esse &amp; summe viuere id ipsum es; &amp; eadem 
+      senten<lb ed="#L" n="9" break="no"/>tia habetur ab eodem 7. de Trinitate I. &amp; per magnum processum sequentem; &amp; 15. de 
+      Tri<lb ed="#L" n="10" break="no"/>nitat. 5. 13. &amp; 14. &amp; saepissime in multis libris &amp; capitulis inuenitur, quod esse, viuere, scire, 
+      <lb ed="#L" n="11"/>&amp; sapere sunt idem in Deo, imo &amp; vnus simplicissimus idem Deus. Et hoc est, quod fidelis 
+      <lb ed="#L" n="12"/>Dei Ecclesiae in die Sanctae Trinitatis profitetur, cum in quadam antiphona Deo dicit; Te 
+      <lb ed="#L" n="13"/>semper indem esse viuere &amp; intelligere profitemur; &amp; in legenda sic ait, Cui, scilicet Deo 
+      pro<lb ed="#L" n="14" break="no"/>prium est, cui sempiternum est, cui idem est, esse, viuere, &amp; intelligere, &amp; haec tria vnus 
+      <lb ed="#L" n="15"/>Deus; &amp; vt in paucis multa concludam, hanc sententiam tenent omnes Philosophi &amp; 
+      Docto<lb ed="#L" n="16" break="no"/>res Catholici propter rationem Aristotelis 12. Metaphis. supra tactam: Omnes enim 
+      faten<lb ed="#L" n="17" break="no"/>tur Deum esse substantiam optimam, &amp; per consequens simplicissimam, nec aliquo alio 
+      in<lb ed="#L" n="18" break="no"/>digentem. Quare nulla est in ipsa realis huiusmodi multitudo, sed omnia talia quae sibi 
+      mul<lb ed="#L" n="19" break="no"/>tifarie tribuuntur, sunt realiter eadem ipsa vna. Quis etiam praesumet abnuere 
+      loquutio<lb ed="#L" n="20" break="no"/>nem Dei, qua semel loquutus est Deum &amp;c. esse aliquid, qua etiam efficit vniuersa: Ipse enim 
+      <lb ed="#L" n="21"/>dixit, &amp; facta sunt, ipse mandauit &amp; creata sunt, sicut nonum primi plenius pertractauit. Si 
+      <lb ed="#L" n="22"/>quis autem sit talis, legat Monologium Anselmi, &amp; libros Augustini de Trinitate, &amp; aliorum 
+      <lb ed="#L" n="23"/>Doctorum; Et nisi ipsos negare voluerit, istum errorem abnegare cogetur. Item habitus 
+      <lb ed="#L" n="24"/>morales generantur ex actibus, vt patet 2. Eth. &amp; 3. &amp; hihil, nihil facit aut generat; actus 
+      <lb ed="#L" n="25"/>ergo est aliquid, vel habitus virtuosus est nihil. Item actus est melior habitum, &amp; potentia 
+      <lb ed="#L" n="26"/>seu forma a qua procedit, &amp; eius perfectio propria, sicut 22um &amp; 2cum primi plenius 
+      ostende<lb ed="#L" n="27" break="no"/>bant. Item Augustinus 2. de libero arbitrio 3I. &amp; 1. retractationum 9. diuisis omnibus 
+      bo<lb ed="#L" n="28" break="no"/>nis in tria, in minima &amp; media, &amp; magna; dicit, quod bonus vsus liberi arbitrij in magnis 
+      re<lb ed="#L" n="29" break="no"/>peritur bonis, &amp; quia omnia bona magna, media, &amp; minima sunt ex Deo, sequitur vt ex 
+      <lb ed="#L" n="30"/>Deo sit etiam bonus vsus liberae voluntatis. Quis etiam Christianus audebit negate 
+      incar<lb ed="#L" n="31" break="no"/>nationem Christi, natiuitatem &amp; vitam, baptismum, praedicationem, miraculorum operationem, eius 
+      <lb ed="#L" n="32"/>omnimodam actionem esse aliquid? Quis insuper Christianus, &amp; non magis prophanus 
+      infiti<lb ed="#L" n="33" break="no"/>ari praesumpserit passionem Christi, orationem, &amp; quodlibet eius meritum esse aliquid? Si 
+      e<lb ed="#L" n="34" break="no"/>nim nihil fuit, nihil valuit; quomodo ergo fuit redemptionis nostrae pretium copiosum? quia 
+      <lb ed="#L" n="35"/>teste Psalmista, redemptio apud eum copiosa; quomodo etiam fuit illa redemptio copiosa, si 
+      <lb ed="#L" n="36"/>illa redemptio nihil fuit? Secundum istam quoque sententiam, quin verius insaniam 
+      insensa<lb ed="#L" n="37" break="no"/>tam, baptizatio, consecratio Eucharistiae, &amp; vniuersaliter omnis sacramentalis operatio in 
+      <lb ed="#L" n="38"/>Christi Ecclesia instituta nihil est, quare &amp; profecto nullius est efficaciae aut valoris. Formae 
+      <lb ed="#L" n="39"/>quoque propriae habent operationes sibi realiter proprias, sicut tota Philosophia testatur; 
+      <lb ed="#L" n="40"/>Dicitque Auerroes super 9. Metaphis. 7. contra quosdam, Cum omnia entia non habeant 
+      a<lb ed="#L" n="41" break="no"/>ctiones proprias, non habebunt essentias proprias: Actiones enim non diuersantur, nisi per 
+      <lb ed="#L" n="42"/>essentias diuersas; &amp; ista opinio est valde extranea a natura hominis, &amp; qui recipiunt 
+      huius<lb ed="#L" n="43" break="no"/>modi non habent cerebrum habile naturaliter ad bonum. Item omnis actus secundum 
+      sub<lb ed="#L" n="44" break="no"/>stantiam actus est bonus naturaliter, &amp; a Deo, sicut docet 26. primi; ergo omnis actus habet  
+      <lb ed="#L" n="45"/>bonitatem naturalem, ergo &amp;st entitatem naturalem, ergo est aliquid. Item omne meritum 
+      <lb ed="#L" n="46"/>bonum positiuum est aliquid, &amp; omne bonum meritum positiuum est actus voluntatis, quia 
+      <lb ed="#L" n="47"/>vel est actus vel habitus, &amp; non habitus, quia tunc infans dormiens, furiosus &amp; mortuus 
+      ha<lb ed="#L" n="48" break="no"/>bens habitum charitatis continue meretur, quod &amp; satis patet per Autoritatem Augustini ad  
+      <lb ed="#L" n="49"/>Sixtum presbiterum, quam allegat Lumbardus 2. sentent. dist. 27. Omne bonum, inquit, p 
+      <lb ed="#L" n="50"/>meritum nostrum non in nobis facit nisi gratia. Dicitque ibi Lumbardus, sicut ex // fidei 
+      ver<lb ed="#L" n="51" break="no"/>ture &amp; hominis libero arbitrio generatur in mente bonus quidem motus, &amp; remunerabilis, 
+      <lb ed="#L" n="52"/>scilicet ipsum credere, ita ex charitate &amp; libero arbitrio alius quidem motus prouenit valde 
+      <lb ed="#L" n="53"/>bonus, scilicet deligere; sic de eaeteris virtutibus intelligendum est, &amp; isti motus boni, vel 
+      ar<lb ed="#L" n="54" break="no"/>fectus merita sunt, &amp; dona Dei: Quare &amp; bonus motus, seu actus est aliquid: Omnes enim 
+      <lb ed="#L" n="55"/>Autores supponunt, quod omne bonum meritum positiuum est aliquid, &amp; ostendunt 
+      pecca<lb ed="#L" n="56" break="no"/>tum nihil esse, sicut 26. primi plenius allegauit. Et si quodlibet tale meritum sit donum Dei, sicut  
+      <lb ed="#L" n="57"/>dicit Lumbardus &amp; praecedentia manifestant, &amp; etiam factum in nobis a Deo; quoniam ipse 
+      <lb ed="#L" n="58"/>est qui operatur in nobis velle &amp; perficere, sicut dicit Apostolus ad Phil. 2. quodlibet tale me¬ 
+      <!--570.xml-->
+      <pb ed="#A" n="537"/>
+               <lb ed="#L" n="1"/>ritum est opus Dei, &amp; eius effectus, ergo &amp;t aliquid. Vnde &amp; Augustin. 12. de Ciuit. Dei 8. &amp; 9. 
+      <lb ed="#L" n="2"/>probat quod bona voluntas babet causam efficientem, scilicet Deum, &amp; quod mala 
+      volun<lb ed="#L" n="3" break="no"/>tas non habet causam efficientem, sed deficientem, quia ipsa non est effectus sed defectus, 
+      <lb ed="#L" n="4"/>quod intelligitur de deformitate malae voluntatis, non de substantia actus, sicut docet 
+      vigesi<lb ed="#L" n="5" break="no"/>mum sextum primi; sicut &amp; dicit quidem articulus condemnatus &amp; excommunicatus per 
+      <lb ed="#L" n="6"/>Stephanum Parisiensem Episcopum sub his verbis: Quod omnes motus voluntarij 
+      redu<lb ed="#L" n="7" break="no"/>cuntur in motorem primum, error est nisi intelligatur, in motorem primum simpliciter non  
+      <lb ed="#L" n="8"/>causatum, &amp; intelligendo de motu secundum substantiam, non secundum deformitatem, 
+      <lb ed="#L" n="9"/>Actus ergo voluntatis secundum suam substantiam habet Deum causam efficientem, &amp; est 
+      ali<lb ed="#L" n="10" break="no"/>quid; secundum deformitatem suam, quae nullam habet essentiam, sed tantum priuationem 
+      <lb ed="#L" n="11"/>essentiae, minime. Vnde &amp; cap. 8. // Augustinus sic dicit; Nemo quaerat causam efficientem 
+      <lb ed="#L" n="12"/>malae voluntatis: Non enim est efficiens, sed deficiens, quia nec illa affectio, sed defectio est. 
+      <lb ed="#L" n="13"/>Scio naturam Dei ex nulla parte posse deficere, &amp; ea posse deficere quae ex nihilo facta sunt,  
+      <lb ed="#L" n="14"/>quae tamen quanto magis sunt, &amp; bona faciunt, (tunc enim aliquid faciunt) causas habent 
+      ef<lb ed="#L" n="15" break="no"/>ficientes, in quantum autem deficiunt, &amp; ex hoc male faciunt, (quid enim tunc faciunt nisi 
+      <lb ed="#L" n="16"/>vana) causas habent deficientes. Dicitque Anselmus de conceptu virginali 5. Ex his ergo 
+      <lb ed="#L" n="17"/>facile cognoscitur, quia iniustitia nullam habet essentiam, quamuis voluntatis affectus, &amp; 
+      a<lb ed="#L" n="18" break="no"/>ctus, qui per se considerati aliquid sunt, vsus iniustitiam vocet, illa autem essentia quamuis 
+      <lb ed="#L" n="19"/>mala dicatur, est nihil. Idem de casu Diaboli 8. Nec voluntatem, inquit, nec conuersionem 
+      <lb ed="#L" n="20"/>voluntatis puto negari posse aliquid esse; Nam etsi non sunt substantiae, non tamen probari 
+      <lb ed="#L" n="21"/>potest eas non esse essentias, quoniam multae sunt essentiae praeter illam, quae proprie dicitur 
+      <lb ed="#L" n="22"/>substantia; &amp; cap. 20. Nec negare possum vere aliquid esse quamlibet actionem &amp; 26. 
+      Tri<lb ed="#L" n="23" break="no"/>stitia &amp; dolor est aliquid; &amp; 28. scilicet vlt. Velle secundum essentiam bonum est; sed quoniam 
+      <lb ed="#L" n="24"/>iniuste factum est, malum est, &amp; cum sit a Deo a quo est omne quod est aliquid. Amplius 
+      au<lb ed="#L" n="25" break="no"/>tem, quis fidelis praesumet asserere fidem, scilicet actum fidei, puta credere nihil esse? Quid 
+      <lb ed="#L" n="26"/>enim est fides, nisi sicut dicit August. 1. parte super Ioannem, sermone 40. credere quod non  
+      <lb ed="#L" n="27"/>vides? Vnde &amp; Autor fidei fidelis, Hoc est opus Dei vt credatis in eum, quem misit ille. 
+      Ioan<lb ed="#L" n="28" break="no"/>6. &amp; infra eisdem; Nemo potest venire ad me nisi fuerit ei datum a Patre meo; venire autem 
+      <lb ed="#L" n="29"/>ad Christum, quid est nisi credere in Christum, &amp; hoc datur a Patre. Credere ergo non est 
+      <lb ed="#L" n="30"/>nihil sed aliquid, quia Dei donarium pretiosum. Quare &amp; Augustinus I. partis super 
+      Ioan<lb ed="#L" n="31" break="no"/>nem, sermone 27. verbum Christi praemissum exponens immediate subiungit; Ergo &amp; 
+      crede<lb ed="#L" n="32" break="no"/>re datur nobis; Non enim nihil est credere, si autem aliquid magnum est, gaude quod 
+      cre<lb ed="#L" n="33" break="no"/>didisti, sed noli extolli: Quid enim habes quod non accepisti? Quomodo etiam fides sic 
+      di<lb ed="#L" n="34" break="no"/>centis non sterilis, quin verius mortua reputanda, cum nihil boni operis parturiat, aut 
+      produ<lb ed="#L" n="35" break="no"/>cat; imo nec possit, cum omne partum sit aliquid &amp; productum? Adhuc autem &amp; haec dicens, 
+      <lb ed="#L" n="36"/>habet dicere consequenter, diligere, &amp; amare, dilectionem, amorem, &amp; amicitiam nihil esse: 
+      <lb ed="#L" n="37"/>Sed quis amicitiam cum tali homine copulabit? Huius etiam perniciosum errorem 
+      experi<lb ed="#L" n="38" break="no"/>entia nostra certa, moralis scientia, omnis politia, omnis ciuilitas &amp; omnis vrbanitas 
+      destru<lb ed="#L" n="39" break="no"/>it &amp; // refutat. Quis etiam audebit concedere nihil esse dilectionem seu amorem Dei &amp; 
+      proxi<lb ed="#L" n="40" break="no"/>mi, quos Scriptura canonica, &amp; canonizati Doctores tot &amp; tantis laudibus praedicant &amp; 
+      extol<lb ed="#L" n="41" break="no"/>lunt? Quis etiam tam insensibilis &amp; tam rudis, vt non experiatur in alijs vel seipso tam 
+      multi<lb ed="#L" n="42" break="no"/>plices amoris effectus? Quis enim ignorat illud experimentum etiam inter rudissimos laicos 
+      <lb ed="#L" n="43"/>tam vulgatum, quomodo per variationem pulsuum varietas deprehendatur amorum, sicut 
+      <lb ed="#L" n="44"/>&amp; Democritus docuit Hippocrate. Vnde Boetius I. Musicae suae in prologo scribit ita; Vt sese 
+      <lb ed="#L" n="45"/>corporis, id est, hominis corporalis habet effectus, ita etiam pulsus cordis motibo agitatur; quod 
+      <lb ed="#L" n="46"/>Democritus Hippocrati medico tradidisse fertur, cum eum medendi causa viseret: Huius 
+      <lb ed="#L" n="47"/>quoque experientiae veritatem &amp; alij medici confitentur. Quis etiam nesciat, colorem 
+      viro<lb ed="#L" n="48" break="no"/>rum &amp; foeminarum in amore &amp; ira, laetitia, &amp; tristitia, verecundia, audacia, &amp; timore 
+      multi<lb ed="#L" n="49" break="no"/> pliciter variari, sicut frequens experientia, &amp; Philosophi naturales, &amp; Medici contestantur? 
+      <lb ed="#L" n="50"/>Quis etiam ignoraret, quod amore mouetur animal processiue quocunque mouetur? Nam 
+      <lb ed="#L" n="51"/>sicut allegauit sextum huius secundi; Pes meus, amor meus, illo feror quocunque feror; &amp; 
+      <lb ed="#L" n="52"/>3. Reg. 19. dicitur de Elia, quod surgens abijt, quocufique eum ferebat voluntas. 
+      Philoso<lb ed="#L" n="53" break="no"/>phus etiam 3. de Anima cap. de mouente, &amp; 12. de Animalibus nouae transtationis 8. in de 
+      <lb ed="#L" n="54"/>causa motus Animalium ostendit, quod voluntas, id est actualis volutio mouet hominem, &amp;  
+      <lb ed="#L" n="55"/>appetitus, scilicet appetitio actualis mouet caetera Animalia processiue; Omnis autem 
+      vo<lb ed="#L" n="56" break="no"/>lutio &amp; appetitio, quaedam amatio est &amp; amor. Item si nullus actus sit aliquid, cum 
+      beatitu<lb ed="#L" n="57" break="no"/>do sit actus, ipsa non est aliquid; imo nihil: Quod autem beatitudo sit actus, patet per 
+      Philo<lb ed="#L" n="58" break="no"/>sophum 1. Eth. &amp; 3. &amp; 10. vbi demonstrat multis capitulis quod faelicitas est operatio, &amp; a¬ 
+      <!--571.xml-->
+      <pb ed="#A" n="538"/>
+               <lb ed="#L" n="1"/>ctus faelicis &amp; 9. Metaphys. 16. dicit quod faelicitas est operatio in anima, quia est quaedam 
+      vi<lb ed="#L" n="2" break="no"/>ta, sicut erat superius allegatum. Quod &amp; veritas ipsa concorditer attestatur, haec est, 
+      inqui<lb ed="#L" n="3" break="no"/>ens, vita aeterna, vt cognoscant te solum verum Deum, &amp; quem misisti Iesum Christum. 
+      Ioh<lb ed="#L" n="4" break="no"/>17. Vnde &amp; Augustinus 2. de libero arbitrio 33. Vita beata est animi affectio inhaerentis 
+      in<lb ed="#L" n="5" break="no"/>commutabili bono. Omnes enim Philosophi, puta Aristoteles, Auerroes, Auicenna, 
+      Alga<lb ed="#L" n="6" break="no"/>zel, &amp; caeteri praeter Epicureos qui non sunt dicendi Philosophi; sed magis philouoli, 
+      amato<lb ed="#L" n="7" break="no"/>res scilicet voluptatis, &amp; omnes Theologi, nullo excepto, in hoc vno conueniunt, quod 
+      faeli<lb ed="#L" n="8" break="no"/>citas &amp; beatitudo finalis est Dei visio seu fruitio actualis, vel hanc &amp; illam pariter 
+      comprehen<lb ed="#L" n="9" break="no"/>dens, sicut libri eorum copiosissime &amp; clarissime contestantur; nec aliquis, sicut spero, in tantum 
+      <lb ed="#L" n="10"/>desipit, aut insanit, quod vitam aeternam, faelicitatem &amp; beatitudinem esse aliquid denegabit: 
+      <lb ed="#L" n="11"/>Actus ergo voluntatis est aliquid, &amp; non nihil. Ad hanc autem conclusionem satis plures &amp; 
+      <lb ed="#L" n="12"/>subtiliores rationes possent adduci; sed quia nullus subtilis ipsam negat, aut dubitat, sed 
+      tan<lb ed="#L" n="13" break="no"/>tum pauci rudes &amp; grossi, sufficiant eis hae paucae rudes, grossae &amp; palpabiles rationes. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

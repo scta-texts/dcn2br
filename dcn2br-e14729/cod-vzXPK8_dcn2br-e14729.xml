@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 53</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 53</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="872"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e14729"><!-- l3c53 -->
+            <head xml:id="dcn2br-e14729-Hd1e106">Caput 53</head>
+            <p xml:id="dcn2br-e14729-d1e109">
+      <!--905.xml-->
+               <pb ed="#A" n="872"/>
+               <lb ed="#L" n="1"/>CAP. LIII. 
+      <lb ed="#L" n="2"/>Contra promptulos accusatores, faciles iudices &amp; praecipites 
+      <lb ed="#L" n="3"/>damnatores, &amp; ponit 30. capitula, quae sibi videntur 
+      erro<lb ed="#L" n="4" break="no"/>nea, implorans humiliter autoritatem ecclesiae quatenus 
+      de<lb ed="#L" n="5" break="no"/>terminet veritatem 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e127">
+               <lb ed="#L" n="6"/>HIs autem Dei gratia consummatis, respicio &amp; respecto magnitudinem 
+      <lb ed="#L" n="7"/>perhorrendam huius periculosissimi pelagi, Pelagio pestilente cum 
+      <lb ed="#L" n="8"/>suis Pelagianis pestiferis a voraginibus eius absorptis, Duce Domino 
+      <lb ed="#L" n="9"/>in tutissimam Petri nauiculam iam transacti, pro gratia multiformi 
+      <lb ed="#L" n="10"/>gratias referens multiformes: Reuertor ad animum, reuoluo 
+      praemis<lb ed="#L" n="11" break="no"/>ta, rumino &amp; mastico, considerans quoque mecum materiae, imo 
+      <lb ed="#L" n="12"/>materiarum difficultatem quam maximam, opinionum varietatem 
+      <lb ed="#L" n="13"/>quam plurimam, &amp; opinantium non minimam vanitatem: Credo 
+      <lb ed="#L" n="14"/>firmiter, &amp; indubitanter existimo quod multi promptuli detractores me multipliciter 
+      accusa<lb ed="#L" n="15" break="no"/>bunt, leuiter iudicabunt, &amp; praecipitanter forsitan condemnabunt. Sed nonne Patres nostri, 
+      <lb ed="#L" n="16"/>tam veteres, quam recentes, ante legem, sub lege, atque sub gratia, imo &amp; Magister noster &amp; 
+      <lb ed="#L" n="17"/>Dominus Iesus Christus a similibus similia sunt perpessi, sicut non paucae testantur historiae. 
+      <lb ed="#L" n="18"/>&amp; exordium huius tangit? Et quis ego tantillus, putredo &amp; vermis, vnde tantis &amp; talibus 
+      re<lb ed="#L" n="19" break="no"/>putor comparandus? cur ergo cum eis timeam perpeti, aut refugiam tribulari, vt sic saltem, 
+      <lb ed="#L" n="20"/>licet multum dissimiliter &amp; distanter, ipsis merear comparati? Veruntamen qui me errare 
+      <lb ed="#L" n="21"/>putauerit, hortante, quaeso, Timaeo, &amp; Apostolo suadente, consideret, &amp; etiam atque etiam  
+      <lb ed="#L" n="22"/>considerando consideret &amp; aduertat seipsum esse hominem similem mei, infirmitate 
+      circun<lb ed="#L" n="23" break="no"/>datum, vanitati subiectum, multipliciter errabundum, &amp; caueat, ne forsitan ipse erret. Vnum 
+      <lb ed="#L" n="24"/>scio, quod si erro, probabiliter multum erro, quia non solus, sed cum multis &amp; magnis 
+      Au<lb ed="#L" n="25" break="no"/>toribus approbatis, cum multis quoque &amp; magnis rationibus probabilibus, nec facile 
+      re<lb ed="#L" n="26" break="no"/>probandis. Vnum quoque peto humiliter &amp; requiro, vt qui me errare contenderit, 
+      appen<lb ed="#L" n="27" break="no"/>dat rationes &amp; autoritates nostras contrarias, sententias nostras contrarias munientes 
+      indis<lb ed="#L" n="28" break="no"/>ferenti &amp; iusta statera, non fauorabili aut dolosa, &amp; probatiorem sententiam amplexetur. 
+      <lb ed="#L" n="29"/>Puto siquidem confidenter, imo videor me scire, quod si pro sententia partis contrariae essent 
+      <lb ed="#L" n="30"/>tot &amp; tam validae rationes, &amp; tot autoritates tam medullatae, tam consonae, sicut pro sententia 
+      <lb ed="#L" n="31"/>partis huius, &amp; tam marcidae rationes &amp; autoritates tam macrae, tam absonae pro ista, sicut pro 
+      <lb ed="#L" n="32"/>illa, illa fuisset ab olim canonixata solenniter, &amp; ista solenniter lapidata. Harum quoque sentent. 
+      <lb ed="#L" n="33"/>qualitates contrarias videtur perspicue demonstrare, quod quanto nuper ambae sententiae in 
+      <lb ed="#L" n="34"/>costatorio scholastico diutino, &amp; frequenti vehementius tentabatur, &amp; diligentius 
+      probaban<lb ed="#L" n="35" break="no"/>tur, ista semper velut aurum praeclarior, illa velut aurichalcum seu scoria obscurior videbatur. 
+      <lb ed="#L" n="36"/>Veruntamen quia nequaquam tantae autoritatis me reputo, nec tam ebrie sapio, vt vel leuiter 
+      <lb ed="#L" n="37"/>aestimem, quod tanta causa per me tantillum finaliter decidatur, &amp; os iniqua loquentium 
+      ob<lb ed="#L" n="38" break="no"/>struatur, flexis genibus cordis mei imploro Ecclesiam, praecipue autem Romanam, quae 
+      sum<lb ed="#L" n="39" break="no"/>ma autoritate vigere dignoscitur, &amp; spiritu sapientiae gubernari, quatenus ipsa determinare 
+      <lb ed="#L" n="40"/>dignetur quid circa praemissa catholice sit tenendum: Non enim sine periculo in talibus 
+      aber<lb ed="#L" n="41" break="no"/>ratur. Simon, dormis; exurge, quaeso, exime gladium, amputa quaeque sinistra haereticae 
+      pra<lb ed="#L" n="42" break="no"/>uitatis, defende &amp; protege catholicam veritatem. Porro, etsi Dominus ipsoin Petri 
+      nauicu<lb ed="#L" n="43" break="no"/>la dormiat nimietate tempestatis compulsus, ipsum quoque fiducialiter excitabo, quatenus 
+      <lb ed="#L" n="44"/>spiritus oris sui tempestate sedata tranquillum faciat &amp; serenum. Absit autem, vt qui in prora 
+      <lb ed="#L" n="45"/>huius nauiculae peruigil laborabat, iam in puppi super ceruical dormiat vel dormitet, nisi ea 
+      <lb ed="#L" n="46"/>occasione fortassis, vt sic supra vires grauati imbecillitatem propriam agnoscentes, ad ipsum 
+      <lb ed="#L" n="47"/>clament feruentius, pulsent attentius, diligentius quaerant auxilium, inuentumque amantius 
+      <lb ed="#L" n="48"/>teneant &amp; charius amplexentur. Verum licet magno desiderio affectarem vt omnia &amp; 
+      singu<lb ed="#L" n="49" break="no"/>la prelibata examen Ecclesie mererentur, hoc tamen praecipue in 36. articulis infra scriptis, qui 
+      <lb ed="#L" n="50"/>mihi videntur erronei, exoro suppliciter toto corde, vt sic, quicunque errauerit, siue ego quod 
+      ti<lb ed="#L" n="51" break="no"/>meo, siue alius, sicut puto, reducatur perspicue ad semitam veritatis, &amp; in ipsa indeclinabiliter  
+      <lb ed="#L" n="52"/>confirmetur.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e231">
+      <!--906.xml-->
+               <pb ed="#A" n="873"/>
+               <lb ed="#L" n="1"/>Quod Deus non est tam perfectus &amp; bonus, quin aliquid perfectius &amp; melius esse posset.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e240">
+               <lb ed="#L" n="2"/>Quod aliqua res existit, Deo ipsam nullatenus conseruante 
+    </p>
+            <p xml:id="dcn2br-e14729-d1e246">
+               <lb ed="#L" n="3"/>Quod aliqua res existit, Deo nequaquam ipsam immediate &amp; per se &amp; proprie conseruante, 
+      <lb ed="#L" n="4"/>sed tantum mediante coelo vel aliquo alio &amp; per illud; vel quia prohibet corruptiua, vel quia 
+      <lb ed="#L" n="5"/>permittit rem esse, aut non destruit rem cum posset. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e255">
+               <lb ed="#L" n="6"/>Quod aliqua res creata vel creabilis sine conseruatione diuina omnino, vel saltem sine 
+      con<lb ed="#L" n="7" break="no"/>seruatione diuina immediata, per se &amp; // proprie posset esse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e262">
+               <lb ed="#L" n="8"/>Quod aliqua res secundum essentiam suam siue substantiam fiat, Deo ipsam minime faciente.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e267">
+               <lb ed="#L" n="9"/>Quod aliqua res secundum essentiam suam siue substantiam fiat sine Deo ipsam immediate 
+      <lb ed="#L" n="10"/>per se &amp; proprie faciente, sed tantum mediante coelo vel aliquo alio, &amp; per illud, vel Deo 
+      tan<lb ed="#L" n="11" break="no"/>tum impeditiua contraria prohibente, vel ea tantummodo ratione quia causa eius efficiens 
+      <lb ed="#L" n="12"/>est facta, conseruata, permissa, vel non impedita a Deo. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e278">
+               <lb ed="#L" n="13"/>Quod aliqua res secundum essentiam suam siue substantiam posset fieri Deo ipsam minime 
+      <lb ed="#L" n="14"/>faciente, vel saltem Deo immediate per se &amp; proprie ipsam nullatenus faciente. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e285">
+               <lb ed="#L" n="15"/>Quod Deus est aliquo modo mutabilis.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e291">
+               <lb ed="#L" n="16"/>Quod scientia Dei, aut eius voluntas est aliquo modo mutabilis.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e296">
+               <lb ed="#L" n="17"/>Quod Deus sciendo, volendo, seu quicquam agendo intrinsecus non est semper intrinsece, 
+      <lb ed="#L" n="18"/>aeque summe &amp; plenissime actualis. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e303">
+               <lb ed="#L" n="19"/>Quod scientia Dei causatur a posterioribus rebus scitis,
+      </p>
+            <p xml:id="dcn2br-e14729-d1e308">
+               <lb ed="#L" n="20"/>Quod voluntas Dei, siue volutio, a posterioribus volutis suis causatur.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e313">
+               <lb ed="#L" n="21"/>Quod actus voluntatis diuinae, Angelicae, vel humanae, nihil est.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e318">
+               <lb ed="#L" n="22"/>Quod actus voluntatis creatae secundum essentiam siue substantiam actus fiat ab ipsa, Deo 
+      <lb ed="#L" n="23"/>eundem nullatenus coagente. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e326">
+               <lb ed="#L" n="24"/>Quod actus voluntatis creatae secundum essentiam siue substantiam actus fiat ab ipsa, sine 
+      <lb ed="#L" n="25"/>Deo eundem immediate, per se &amp; proprie faciente, sed tantum mediante coelo, influentia ge¬ 
+      <lb ed="#L" n="26"/>nerali, obiecto, vel aliquo alio simili, &amp; per illud; vel tali tantummodo impropria ratione, 
+      <lb ed="#L" n="27"/>quia Deus voluntatem creatam, quae efficit actum illum, fecit aut // seruat, non destruit, vel non 
+      <lb ed="#L" n="28"/>impedit, sed esse &amp; operati permittit, aut quia prohibet ipsam ab alijs impediri. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e339">
+               <lb ed="#L" n="29"/>Quod quando Deus &amp; creatura rationalis coefficiunt liberum actum suum, creatura prius 
+      <lb ed="#L" n="30"/>naturaliter agit illum quam Deus; &amp; quod voluntas creata praecedit naturaliter in agendo vt 
+      <lb ed="#L" n="31"/>Domina, &amp; diuina ipsam subsequitur naturaliter vt ancilla. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e348">
+               <lb ed="#L" n="32"/>Quod Deum praeuelle hoc, id est, prius naturaliter velle, seu prius aeternaliter voluisse hoc 
+      <lb ed="#L" n="33"/>vel illud praesens vel futurum, sit vel fuit in libera contradictionis hominis potestate. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e355">
+               <lb ed="#L" n="34"/>Quod causa prima, seu voluntas diuina sit in causae posterioris seu voluntatis creatae libera 
+      <lb ed="#L" n="35"/>potestate. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e362">
+               <lb ed="#L" n="36"/>Quod gratia, qua saluamur, non datur a Deo gratis simpliciter, sed aliquo merito praeuio 
+      <lb ed="#L" n="37"/>magno vel paruo, condigno vel congruo comparatur. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e369">
+               <lb ed="#L" n="38"/>Quod voluntas diuina est impedibilis, &amp; non vniuersaliter efficax in causando,
+      </p>
+            <p xml:id="dcn2br-e14729-d1e375">
+               <lb ed="#L" n="39"/>Quod ad hoc quod volutas diuina sit infrustrabilis &amp; necessaria in causando respectu 
+      suo<lb ed="#L" n="40" break="no"/>rum effectuum quorumcunque, &amp; quarumcunque posteriorum causarum, omnesque sui effectus sint 
+      <lb ed="#L" n="41"/>necessarij respectu illius, non sufficit quod ipsa sit causa prima naturaliter, &amp; in nullius 
+      alte<lb ed="#L" n="42" break="no"/>rius, nullarumue aliarum potestate non impedibilis &amp; vniuersaliter efficax in causando. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e386">
+               <lb ed="#L" n="43"/>Quod non est necessarium, Deum creasse mundum, incarnatum fuisse, vel hominem 
+      rede<lb ed="#L" n="44" break="no"/>misse, nec Deum hoc velle, aut etiam voluisse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e393">
+               <lb ed="#L" n="45"/>Quod voluntas diuina respectu futurorum contingentium, quamdiu sunt futura, est libera 
+      <lb ed="#L" n="46"/>libertate contradictionis, &amp; non necessaria; sed cum fiunt praesentia in praeteritumue 
+      labun<lb ed="#L" n="47" break="no"/>tur, desinit esse libera huiusmodi libertate, &amp; incipit esse necessaria necessitare opposita 
+      respe<lb ed="#L" n="48" break="no"/>ctu eorum. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e404">
+               <lb ed="#L" n="49"/>Quod voluntas diuina non semper est aeque libera vel aeque necessaria respectu cuiuscunque 
+      <lb ed="#L" n="50"/>sui obiecti, &amp; cuiuslibet intrinseci actus sui¬ 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e411">
+               <lb ed="#L" n="51"/>Quod non est necessarium Deum scire aut sciuisse de qualibet re praesenti vel praeterita 
+      ip<lb ed="#L" n="52" break="no"/>sam esse aut fuisse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e418">
+               <lb ed="#L" n="53"/>Quod scientia Dei respectu futurorum contingentium, quamdiu sunt futura contingentia, 
+      <lb ed="#L" n="54"/>est contingens, non necessaria; sed quando fiunt praesentia vel in praeteritum transeunt, desia 
+      <lb ed="#L" n="55"/>nit esse contingens &amp; incipit esse necessaria necessitare opposita respectu eorum. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e428">
+               <lb ed="#L" n="56"/>Quod scientia Dei non semper est aeque libera, vel aeque necessaria respectu cuiuscunque sui 
+      <lb ed="#L" n="57"/>obiecti, &amp; quod intellectus diuinus seu Deus nequaqua aeternaliter permanet intrinsecus 
+      ple<lb ed="#L" n="58" break="no"/>nissime vniformis, semper vix. aeque liber, aut aeque necessarius respectu cuiuslibet intrinfeci 
+      <lb ed="#L" n="59"/>actus sui. 
+      <!--907.xml-->
+      <pb ed="#A" n="874"/>
+               <lb ed="#L" n="1"/>Quod licet Christus secundum intellectum, voluntatem &amp; lingua suos humanos in proprio 
+      ge<lb ed="#L" n="2" break="no"/>nere per actus naturales humanos distincte sciuit, seu credidit, &amp; similiter voluit, viua voce 
+      as<lb ed="#L" n="3" break="no"/>seruit &amp; iurauit, quod Sacramenta Ecclesiae vsque ad fine saeculi perdurarent, quod foret 
+      gene<lb ed="#L" n="4" break="no"/>ralis resurrectio mortuorum, &amp; quod haberent poena vel gloria sempiternam, non est tamen  
+      <lb ed="#L" n="5"/>necessarium quod illud sciuit, credidit, voluit, asseruit, vel iurauit. Vel sicut quidam 
+      sophisti<lb ed="#L" n="6" break="no"/>calius aiunt, quod licet Christus secundum intellectum, voluntatem &amp; linguam suos humanos 
+      <lb ed="#L" n="7"/>quicquam horum sic sciuit, credidit, voluit, asseruit, &amp; iurauit, &amp; hoc ad intellectum 
+      genera<lb ed="#L" n="8" break="no"/>lem, planum, simplicem, absolutum; non est tamen necessarium quod hoc sciuit, credidit,  
+      <lb ed="#L" n="9"/>voluit, asseruit, aut iurauit ad illum intellectum, sed est contingenter possibile quod hoc fecit, 
+      <lb ed="#L" n="10"/>non ad illum, sed ad alique parabolicum, mysticum, conditionale, vel alium huiusmodi intellectum 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e465">
+               <lb ed="#L" n="11"/>Quod etsi Christus secundum naturam suam humanam per actus naturales humanos 
+      di<lb ed="#L" n="12" break="no"/>stincte sciuit, credidit, voluit, asseruit, &amp; iurauit de aliquo futuro contingenti quod hoc erit, 
+      <lb ed="#L" n="13"/>quamdiu illud manet futurum contingens, contingens est &amp; liberum secundum contradicti, B 
+      <lb ed="#L" n="14"/>onem, non necessarium Christum hoc sic sciuisse, credidisse, voluisse, asseruisse, atque iurasse; 
+      <lb ed="#L" n="15"/>sed quando illud sit praesens, aut in praeteritum labitur, non est contingens aut liberum 
+      Chri<lb ed="#L" n="16" break="no"/>stum sic fecisse, sed necessarium necessitate opposita. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e481">
+               <lb ed="#L" n="17"/>Quod fuit &amp; est in hominis potestate decipere Christum secundum naturam humanam 
+      <lb ed="#L" n="18"/>assumptam, vnione manente, facere ipsum credere falsum, mentiri, velle inaniter, &amp; 
+      repug<lb ed="#L" n="19" break="no"/>nanter voluntati diuinae; siue, vt quidam subtiliores in oculis suis astruere non verentur, 
+      <lb ed="#L" n="20"/>quod fuit &amp; est in hominis potestate facere aliquid; vnde cum quibusdam veris alijs sequitur 
+      <lb ed="#L" n="21"/>Christum secundum naturam suam humanam vnitam, fuisse aut esse deceptum, falsum 
+      cre<lb ed="#L" n="22" break="no"/>dendo, mentitum fuisse, praesentialiterue mentiri voluisse, seu velle inaniter &amp; repugnanter 
+      vo<lb ed="#L" n="23" break="no"/>luntati diuinae. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e499">
+               <lb ed="#L" n="24"/>Quod impossibile fuit Christum secundum naturam suam humanam vnitam, &amp; in proprio 
+      <lb ed="#L" n="25"/>genere habere actus cognoscendi aut volendi naturales, proprios, &amp; distinctos, respectu 
+      ali<lb ed="#L" n="26" break="no"/>quorum in potestate hominis positorum, aut aliquorum contingenter seu non absolute 
+      ne<lb ed="#L" n="27" break="no"/>cessario futurorum; aut quod possibile fuit Christum secundum naturam suam humanam 
+      <lb ed="#L" n="28"/>vnitam &amp; in proprio genere decipi in credendo, &amp; errate volendo, velle videlicet fieri quod 
+      <lb ed="#L" n="29"/>nunquam fieret, &amp; repugnanter siue difformiter voluntati diuinae, velle, inquam, voluntate 
+      <lb ed="#L" n="30"/>rationali, non appetitu sensuali siue carnali. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e517">
+               <lb ed="#L" n="31"/>Quod prophetiae de Christo ante adimpletionem earum non erant necessario adimplendae; 
+      <lb ed="#L" n="32"/>&amp; quod medio tempore inter mundationem seu sanctificationem B. Mariae &amp; sanctorum 
+      Pa<lb ed="#L" n="33" break="no"/>trum veteris Testamenti in fide Christi Redemptoris futuri, transitum quoque &amp; saluationem 
+      eo<lb ed="#L" n="34" break="no"/>rundem Patrum, &amp; passionem Christi, non fuit necessarium ipsos fuisse mundatos, 
+      sanctifi<lb ed="#L" n="35" break="no"/>catos, aut saluatos per fidem Christi Redemptoris futuri; aut quod fuit possibile ipsos fuisse 
+      <lb ed="#L" n="36"/>mundatos, sanctificatos &amp; saluatos per fidem fictam, falsam, erroneam &amp; mendacem. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e533">
+               <lb ed="#L" n="37"/>Quod prophetiae &amp; promissiones Christi ante adimpletionem ipsarum non erant nec sunt 
+      <lb ed="#L" n="38"/>necessario adimplendae. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e541">
+               <lb ed="#L" n="39"/>Quod omnes prophetiae praedicte de Christo, &amp; omnes prophetiae ac promissiones Christi 
+      <lb ed="#L" n="40"/>de futuris, licet videbantur verbaliter absolutae, erant tamen mentaliter tacitae conditionales, 
+      <lb ed="#L" n="41"/>&amp; nullae simpliciter absolutae. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e550">
+               <lb ed="#L" n="42"/>Quod non est necessarium, quod Ecclesia Christi vsque in finem mundi perseueret fidelis. 
+      <lb ed="#L" n="43"/>uod possibile est Ecclesiam Christi ex doctrina Christi semper directe fuisse deceptam in 
+      <lb ed="#L" n="44"/>substantialibus articulis fidei Christianae, &amp; erronee credidisse resurrectionem mortuorum, 
+      <lb ed="#L" n="45"/>diem iudicij, &amp; vitam aeternam futuras; &amp; quod non est necessarium quod erit generalis 
+      re<lb ed="#L" n="46" break="no"/>surrectio mortuorum, neque quod reprobi vel electi habebunt supplicium vel gaudium sempiternum¬ 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e563">
+               <lb ed="#L" n="47"/>Istis autem articulis velut erroneis condemnatis, quid consequentius quam vt hae totidem 
+      <lb ed="#L" n="48"/>veritates oppositae sanciantur? 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e570">
+               <lb ed="#L" n="49"/>Quod Deus est tam perfectus &amp; bonus, quod nihil perfectius aut melius esse posset.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e575">
+               <lb ed="#L" n="50"/>Quod nulla res existit, nisi Deo ipsam conseruante in esse.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e580">
+               <lb ed="#L" n="51"/>Quod nulla res existit, nisi Deo ipsam immediate, per se &amp; proprie conseruante in esse, non  
+      <lb ed="#L" n="52"/>tantum mediante coelo vel aliquo alio, &amp; per illud, vel quia prohibet corruptiua, vel quia 
+      <lb ed="#L" n="53"/>permittit rem esse, aut non destruit rem cum posset. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e590">
+               <lb ed="#L" n="54"/>Quod nulla res creata vel creabilis sine conseruatione diuina omnino, neque sine 
+      conser<lb ed="#L" n="55" break="no"/>uatione diuina immediate, per se &amp; propria posset esse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e597">
+               <lb ed="#L" n="56"/>Quod omnis res facta, secundum essentiam suam, siue substantiam, sit a Deo, 
+      <lb ed="#L" n="57"/>id 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e604">
+               <lb ed="#L" n="58"/>Quod omnis res facta, secundum essentiam suam siue substantia, fit a Deo ipsa immediate, per se 
+      <lb ed="#L" n="59"/>&amp; proprie faciente, no tantum mediante coelo, vel aliquo &amp; alio, &amp; per illud, nec tantum ideo quia 
+      <!--908.xml-->
+      <pb ed="#A" n="875"/>
+               <lb ed="#L" n="1"/>Deus impeditiua contraria prohibet, aut causam efficientem rei fecit aut seruat, permittit, vel 
+      <lb ed="#L" n="2"/>non impedit operati. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e620">
+               <lb ed="#L" n="3"/>Quod nulla res secundum essentiam suam siue substantiam posset fieri nisi a Deo, neque nisi 
+      <lb ed="#L" n="4"/>a Deo ipsam immediate, per se &amp; proprie faciente. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e627">
+               <lb ed="#L" n="5"/>Quod Deus non est aliquo modo mutabilis.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e632">
+               <lb ed="#L" n="6"/>Quod neque scientia Dei, neque eius voluntas est mutabilis vllo modo.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e638">
+               <lb ed="#L" n="7"/>Quod Deus sciendo, volendo, &amp; quodcunque agendo intrinsecus est semper intrinsece 
+      ae<lb ed="#L" n="8" break="no"/>que summe &amp; plenissime actualis. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e645">
+               <lb ed="#L" n="9"/>Quod nulla scientia Dei causatur a posterioribus rebus scitis,
+      </p>
+            <p xml:id="dcn2br-e14729-d1e650">
+               <lb ed="#L" n="10"/>Quod nulla voluntas Dei, siue volutio a posterioribus volutis suis causatur.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e655">
+               <lb ed="#L" n="11"/>Quod omnis actus voluntatis diuinae, Angelicae, &amp; humanae est aliquid.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e660">
+               <lb ed="#L" n="12"/>Quod omnis actio voluntatis creatae, secundum essentiam siue substantiam ipsam actus, sit 
+      <lb ed="#L" n="13"/>ab ipsa, &amp; a Deo eundem pariter coagente. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e667">
+               <lb ed="#L" n="14"/>Quod omnis actus voluntatis creatae, secundum essentiam siue substantiam ipsam actus, sit 
+      <lb ed="#L" n="15"/>ab ipsa &amp; a Deo eundem pariter immediate, per se &amp; proprie coagente, non tantum mediante 
+      <lb ed="#L" n="16"/>coelo, influentia generali, obiecto, vel aliquo alio simili, &amp; per illud; neque tali tantummodo 
+      <lb ed="#L" n="17"/>impropria ratione, qua Deus voluntatem creatam, quae efficit actum illum, fecit aut seruat, 
+      <lb ed="#L" n="18"/>non destruit, vel non impedit, sed esse &amp; operati permittit, aut quia prohibet ipsam ab alijs 
+      <lb ed="#L" n="19"/>impediri. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e684">
+               <lb ed="#L" n="20"/>Quod quandocumque Deus &amp; creatura rationalis coefficiunt liberum actum suum, Deus prius 
+      <lb ed="#L" n="21"/>naturaliter agit illum quam ipsa, &amp; quod voluntas diuina praecedit naturaliter in agendo, vt 
+      <lb ed="#L" n="22"/>Domina, &amp; creata ipsam subsequitur naturali ordine, vt ancilla. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e693">
+               <lb ed="#L" n="23"/>Quod Deum praeuelle, id est, prius naturaliter velle, seu prius aeternaliter voluisse hoc vel 
+      <lb ed="#L" n="24"/>illud praesens vel futurum, nec est nec fuit in libera contradictionis hominis potestate. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e700">
+               <lb ed="#L" n="25"/>Quod causa prima, seu voluntas diuina non est in causa posterioris seu voluntatis creatae 
+      <lb ed="#L" n="26"/>libera potestate. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e707">
+               <lb ed="#L" n="27"/>Quod gratia, qua saluamur, datur a Deo gratis simpliciter, nec aliquo merito praeuio 
+      mag<lb ed="#L" n="28" break="no"/>no vel paruo, condigno vel congruo comparatur. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e714">
+               <lb ed="#L" n="29"/>Quod voluntas diuina non est impedibilis, sed vniuersaliter efficax in causando.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e719">
+               <lb ed="#L" n="30"/>Quod ad hoc, quod voluntas diuina sit infrustrabilis &amp; necessaria in causando respectu 
+      <lb ed="#L" n="31"/>suorum effectuum quorumcunque, &amp; quarumcunque posteriorum causarum, omnesque sui 
+      <lb ed="#L" n="32"/>effectus sint necessarij respectu illius, sufficit quod ipsa sit causa prima naturaliter, &amp; in nullius 
+      <lb ed="#L" n="33"/>alterius, nullarumue aliarum potestate, non impedibilis, &amp; vniuersaliter efficax in causando, 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e731">
+               <lb ed="#L" n="34"/>Quod necessarium est Deum mundum creasse, incarnatum fuisse, hominem redemisse, &amp; 
+      <lb ed="#L" n="35"/>Deum hoc velle, ac etiam voluisse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e738">
+               <lb ed="#L" n="36"/>Quod cum futura contingentia // siant praesentia, aut in praeteritum dilabuntur, voluntas 
+      <lb ed="#L" n="37"/>diuina respectu illorum non desinit esse libera aliqua libertate, seu aliquo modo libertatis 
+      in<lb ed="#L" n="38" break="no"/>trinsecus, qua vel quo prius fuerat libera, nec incipit esse necessaria aliqua necessitare opposita 
+      <lb ed="#L" n="39"/>respectu ipsorum. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e749">
+               <lb ed="#L" n="40"/>Quod voluntas diuina semper est aeque libera, seu aeque necessaria respectu cuiuscunque 
+      <lb ed="#L" n="41"/>sui obiecti, &amp; cuiuslibet intrinseci actus sui. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e756">
+               <lb ed="#L" n="42"/>Quod necessarium est Deum scire de qualibet re praesenti, ipsam esse, scire quoque atque 
+      sci<lb ed="#L" n="43" break="no"/>uisse de qualibet re praeterita ipsam fuisse. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e763">
+               <lb ed="#L" n="44"/>Quod cum futura contingentia fiunt praesentia, in praeteritumue transcurrunt, scientia Dei 
+      <lb ed="#L" n="45"/>respectu illorum non desinit esse contingens aliqua contingentia, seu aliquo modo 
+      contingen<lb ed="#L" n="46" break="no"/>tiae intrinsecus, qua seu quo prius fuit contingens, nec incipit esse necessaria aliqua necessitate 
+      <lb ed="#L" n="47"/>opposita respectu ipsorum. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e774">
+               <lb ed="#L" n="48"/>Quod scientia Dei semper est aeque libera, seu eque necessaria intrinsece respectu 
+      cuius<lb ed="#L" n="49" break="no"/>cunque sui obiecti, &amp; quod intellectus diuinus seu Deus aeternaliter permanet intrinsecus 
+      ple<lb ed="#L" n="50" break="no"/>nissime vniformis, semper videlicet aeque liber, aut aeque necessarius respectu cuiuslibet 
+      in<lb ed="#L" n="51" break="no"/>trinseci actus sui. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e786">
+               <lb ed="#L" n="52"/>Quod quicquid Christus secundum intellectum, voluntatem, &amp; linguam suos humanos 
+      <lb ed="#L" n="53"/>in proprio genere, per actus naturales humanos distincte sciuit, credidit, voluit, viua voce 
+      as<lb ed="#L" n="54" break="no"/>seruit &amp; iurauit, necesse est eum ita fecisse; &amp; quicquid ad quemcunque intellectum sciuit, 
+      cre<lb ed="#L" n="55" break="no"/>didit, voluit, asseruit, aut iurauit, necesse est eum ad eundem intellectum ita fecisse 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e797">
+               <lb ed="#L" n="56"/>Quod si Christus secundum naturam suam humanam per actus naturales humanos 
+      distin<lb ed="#L" n="57" break="no"/>cte sciuit, credidit, voluit, &amp; asseruit, &amp; iurauit de aliquo futuro contingenti quod hoc erit, 
+      <lb ed="#L" n="58"/>illo adhuc manente futuro contingenti, necessarium est Christum ita fecisse, &amp; ita necessa¬ 
+      <!--909.xml-->
+      <pb ed="#A" n="876"/>
+               <lb ed="#L" n="1"/>rium tunc sicut erit quando illud erit praesens in praeteritumue transmissum¬ 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e813">
+               <lb ed="#L" n="2"/>Quod nunquam fuit nec est in hominis potestate decipere Christum secundum naturam 
+      <lb ed="#L" n="3"/>humanam assumptam, vnione manente, facere ipsum credere falsum, mentiri velle inaniter, 
+      <lb ed="#L" n="4"/>aut repugnanter voluntati diuinae, neque vnquam fuit aut est in hominis potestate facere 
+      ali<lb ed="#L" n="5" break="no"/>quid: vnde cum quibusdam veris alijs sequitur Christum secundum naturam suam humanam 
+      <lb ed="#L" n="6"/>vnitam fuisse aut esse deceptum falsum credendo, mentitum fuisse, praesentialiterue mentiri, 
+      <lb ed="#L" n="7"/>voluisse, seu velle inaniter, aut repugnanter voluntati diuinae. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e829">
+               <lb ed="#L" n="8"/>Quod possibile fuit Christum secundum naturam suam humanam vnitam &amp; in proprio 
+      ge<lb ed="#L" n="9" break="no"/>nere habere actus cognoscendi, &amp; volendi naturales proprios &amp; distinctos respectu 
+      aliquo<lb ed="#L" n="10" break="no"/>rum in potestate hominis positorum, &amp; aliquorum contingenter, &amp; non absolute necessario 
+      <lb ed="#L" n="11"/>futurorum; &amp; quod impossibile fuit Christum secundum naturam suam humanam vnitam, 
+      <lb ed="#L" n="12"/>&amp; in proprio genere decipi in credendo, aut errare volendo, velle videlicet fieri quod 
+      nun<lb ed="#L" n="13" break="no"/>quam fieret, aut repugnanter siue difformiter voluntati diuinae, velle, inquam, voluntate 
+      rati<lb ed="#L" n="14" break="no"/>onali, non appetitu sensuali siue carnali. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e847">
+               <lb ed="#L" n="15"/>Quod Prophetiae de Christo ante adimpletionem earum erant necessario adimplendae, &amp; T 
+      <lb ed="#L" n="16"/>quod medio tempore inter mundationem seu sanctificationem beatae Mariae &amp; sanctorum 
+      <lb ed="#L" n="17"/>Patrum veteris testamenti in fide Christi redemptoris futuri, transitum quoque &amp; saluationem 
+      <lb ed="#L" n="18"/>corundem Patrum &amp; passionem Christi fuit necessarium, ipsos fuisse mundatos, sanctificatos, 
+      <lb ed="#L" n="19"/>&amp; saluatos per fidem Christi redemptoris futuri, &amp; quod non fuit possibile ipsos fuisse 
+      mun<lb ed="#L" n="20" break="no"/>datos, sanctificatos, &amp; saluatos per fidem fictam, falsam, erroneam, &amp; mendacem. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e863">
+               <lb ed="#L" n="21"/>Quod prophetiae &amp; promissiones Christi ante adimpletionem ipsarum erant &amp; sunt 
+      neces<lb ed="#L" n="22" break="no"/>sario adimplendae. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e871">
+               <lb ed="#L" n="23"/>Quod non omnes prophetiae praedictae de Christo, nec omnes prophetiae aut promissiones 
+      <lb ed="#L" n="24"/>Christi de futuris erant mentaliter, tacite, conditionales, sed multae mentaliter simpliciter 
+      ab<lb ed="#L" n="25" break="no"/>solute. 
+      </p>
+            <p xml:id="dcn2br-e14729-d1e880">
+               <lb ed="#L" n="26"/>Quod necesse est Ecclesiam sanctam Christi vsque in finem mundi perseuerare fidelem.
+      </p>
+            <p xml:id="dcn2br-e14729-d1e885">
+               <lb ed="#L" n="27"/>Quod non est possibile Ecclesiam sanctam Christi ex doctrina Christi semper aut vnquamC 
+      <lb ed="#L" n="28"/>directe fuisse deceptam in substantialibus articulis fidei Christianae, aut erronee credidisse 
+      re<lb ed="#L" n="29" break="no"/>surrectionem mortuorum, diem Iudicij, aut vitam aeternam, &amp; quod necesse est haec fore, 
+      Re<lb ed="#L" n="30" break="no"/>probos quoque habere supplicium, &amp; electos gaudium sempiternum.
+    </p>
+            <p xml:id="dcn2br-e14729-d1e896">
+               <lb ed="#L" n="31"/>Explicit istud opus, De causa Dei contra Pelagium, &amp; de virtute causarum, &amp; virtute 
+      <lb ed="#L" n="32"/>Dei causae causarum; perscriptum London, anno millesimo trecentesimo 
+      <lb ed="#L" n="33"/>quadragesimo quarto Dom. Iesu Christi. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

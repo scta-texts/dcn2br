@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 43</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 43</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="787"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e03795"><!-- l3c43 -->
+            <head xml:id="dcn2br-e03795-Hd1e106">Caput 43</head>
+            <p xml:id="dcn2br-e03795-d1e109">
+               <lb ed="#L" n="39"/>CAP. XLIII. 
+      <lb ed="#L" n="40"/>Tractat aliam responsionem.
+    </p>
+            <p xml:id="dcn2br-e03795-d1e116">
+               <lb ed="#L" n="41"/>POrro sunt alij tantum horrorem vitare volentes, qui dicunt quod nunc 
+      <lb ed="#L" n="42"/>est possibile Christum nunquam credidisse in proprio genere, Paulum 
+      <lb ed="#L" n="43"/>fuisse saluandum. Sed ista responsio incidit in Scyllam volens vitare 
+      <lb ed="#L" n="44"/>Charybdin. Si namque quod Christus credidit in proprio genere 
+      po<lb ed="#L" n="45" break="no"/>test nullatenus credidisse, potest &amp; quod similiter voluit nullatenus 
+      <lb ed="#L" n="46"/>voluisse, quare &amp; quod fecit exterius non fecisse; potest ergo non  
+      <lb ed="#L" n="47"/>orasse, non locutus fuisse, non ambulasse, non passus fuisse, nec 
+      ho<lb ed="#L" n="48" break="no"/>mines redemisse; potest &amp; nunquam instituisse Ecclesiastica 
+      Sacra<lb ed="#L" n="49" break="no"/>menta, nec iustificasse quempiam aut saluasse, sicut series rationum 33. &amp; 35. huius plenius 
+      <lb ed="#L" n="50"/>manifestat; quae omnia plane interimunt hypothesin principalem. Rursum tunc actus 
+      cre<lb ed="#L" n="51" break="no"/>dendi seu volendi Christi creatus in proprio genere praesens vel praeteritus potest nunc non 
+      <lb ed="#L" n="52"/>esse, nec vnquam fuisse, contra hypothesin manifeste. Praeterea si Christus secundum homi¬ 
+      <!--821.xml-->
+      <pb ed="#A" n="788"/>
+               <lb ed="#L" n="1"/>nem ita potest, potest &amp; alius purus homo vt Paulus, maxime dum sint eiusdem naturae, 
+      sal<lb ed="#L" n="2" break="no"/>tem per omnipotentiam magni Dei, &amp; eius cooperationem, seu assistentiam specialem; 
+      po<lb ed="#L" n="3" break="no"/>test ergo. Paulus viator, qui credidit quicquam &amp; voluit atque fecit, meruit, vel peccauit, 
+      ni<lb ed="#L" n="4" break="no"/>hil horum fecisse, nec operationes huiusmodi habuisse, contra hypothesin principalem. 
+      Am<lb ed="#L" n="5" break="no"/>plius si sit ita, possibile est Christum mentiri, peiurare, atque peccare. Asserat namque nunc 
+      <lb ed="#L" n="6"/>Christus cum iuramento firmissimo, sine aliqua condittione expressa vel tacita, quantum 
+      <lb ed="#L" n="7"/>potest simpliciter absolute, quod Paulus viator portabit nomen suum coram hominibus, seu 
+      <lb ed="#L" n="8"/>libere faciet hoc vel illud, vel quod hoc futurum, vel illud eueniet contingenter: adhuc 
+      se<lb ed="#L" n="9" break="no"/>cundum hypothesin possibile est illud nullatenus euenire; quare &amp; est consequenter possibile 
+      <lb ed="#L" n="10"/>Christum illud nec nescire nec credere, cum per praeostensa capitulo proximo non possit 
+      de<lb ed="#L" n="11" break="no"/>cipi vel errare; imo cum semper omnia vera sciat, possibile est ipsum nunc scire distincte 
+      op<lb ed="#L" n="12" break="no"/>positum eius quod nunc iuratorie asserit; est ergo possibile quod Christus homo nunc 
+      iura<lb ed="#L" n="13" break="no"/>torie asserat contra mentem, sicque esset in potestate libera viatoris reddere Dominum Deum  
+      <lb ed="#L" n="14"/>suum mendacem, periurum, miserum &amp; infamem, quod licet per se sit satis absonum &amp; 
+      absur<lb ed="#L" n="15" break="no"/>dum, est etiam per prius ostensa 30. secundi veraciter reprobatum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="294"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e39949"><!-- l1c34 -->
+            <head xml:id="dcn2br-e39949-Hd1e106">Caput 34</head>
+            <p xml:id="dcn2br-e39949-d1e109">
+               <lb ed="#L" n="22"/>CAP. XXXIV
+      <lb ed="#L" n="23"/>Si, &amp; quomodo Deus vult, &amp; non vult, peccatum.
+      </p>
+            <p xml:id="dcn2br-e39949-d1e116">
+               <lb ed="#L" n="24"/>HIc restat consequenter inquirere, An Deus velit peccatum, Et videtur quod 
+      <lb ed="#L" n="25"/>aliquo modo velit; Deus namque permittit peccatum; quare videtur per 
+      <lb ed="#L" n="26"/>capitulum proximum quod aliqualiter illud velit. Item per capitulum 
+      <lb ed="#L" n="27"/>vigesimum secundum, Deus habet velle vel nolle respectu peccati, &amp; non 
+      nol<lb ed="#L" n="28" break="no"/>se; quia tunc non fieret per capitulum 10. ergo velle. Item Deus 
+      volunta<lb ed="#L" n="29" break="no"/>rie prouidet atque facit omnia opera voluntaria tam mala quam bona, cum 
+      <lb ed="#L" n="30"/>omnibus suis circumstantijs positiuis, vt est ex prioribus manifestum, quae 
+      <lb ed="#L" n="31"/>necessario peccatum important. Item peccatum esse est verum, &amp; non est primum verum, 
+      <lb ed="#L" n="32"/>sicut ex duodecimo huius patet; est ergo verum ex primo vero, sicut ex eodem 120. &amp; 13o. 
+      <lb ed="#L" n="33"/>clare liquet: Primum autem verum esti in Deo, vt patet ibidem; Deus ergo est causa huius 
+      <lb ed="#L" n="34"/>veritatis, &amp; non nisi voluntarie. Vult ergo Deus hanc esse veram, Peccatum est; quare &amp;  
+      <lb ed="#L" n="35"/>sic esse ex parte rei, sicut significatur per illam: vult ergo peccatum esse; quanquam 
+      Lum<lb ed="#L" n="36" break="no"/>bardus I. sentent. dist. quadragesima sexta reputet hoc argumentum sophisticum, &amp; 
+      respon<lb ed="#L" n="37" break="no"/>sione indignum, cui tamen videtur indignius respondere, &amp; responsionem per instantiam 
+      <lb ed="#L" n="38"/>indignissimam confirmare. Nam secundum Philosophum 2. Topic. Instantia est 
+      argumen<lb ed="#L" n="39" break="no"/>tum ad oppositionem; haec autem instantia nihil opponit contra positionem priorem: Dicit 
+      <lb ed="#L" n="40"/>enim argumentum non tenere, sicut &amp; in simili non sequitur, Deus prohibet furtum fieri, &amp;  
+      <lb ed="#L" n="41"/>furtum fieri verum est, ergo prohibet verum. Verum est, quod non sequitur, nec est 
+      instan<lb ed="#L" n="42" break="no"/>tia, sicut credit. Prohibere namque importat negationem, scilicet velle aut praecipere 
+      quie<lb ed="#L" n="43" break="no"/>quam non fieri aut non esse, quare &amp; confundit terminum sequentem confuse &amp; distributiue, 
+      <lb ed="#L" n="44"/>ita quod pro dici de nullo contingit descendere ad quodlibet suppositum negatiue, vt patet 
+      <lb ed="#L" n="45"/>ex primo Priorum; modo non sequitur, Deus prohibet furari, &amp; omne furari est aliquid 
+      ope<lb ed="#L" n="46" break="no"/>rari, ergo Deus prohibet aliquid operari; quia iste terminus, aliquid operari, in Minore 
+      <lb ed="#L" n="47"/>supponit seu significat confuse tantum, ita quod non contingit ibi descendere ad quodlibet 
+      <lb ed="#L" n="48"/>cius suppositum; &amp; in conclusione accipitur confuse &amp; distributiue vt est dictum, ex qua 
+      <lb ed="#L" n="49"/>mutatione suppositionis oritur fallacia figurae dictionis. Nec dubium quin illa conclusio non  
+      <lb ed="#L" n="50"/>sequatur, quia si Deus prohibet aliquid operari, vult vel praecipit ne aliquid operetur, &amp; sic 
+      <lb ed="#L" n="51"/>non licet aliquid operari: Si tamen arguatur hoc modo, Deus prohibet furari, &amp; furari est 
+      <lb ed="#L" n="52"/>aliquid operari, ergo aliquid operari &amp; aliqua operatio prohibetur a Deo, bene sequitur, &amp; 
+      <lb ed="#L" n="53"/>est conclusio illa vera. Et eodem medo videtur esse de vero &amp; eius prohibitione; Veritas 
+      e<lb ed="#L" n="54" break="no"/>nim sequitur esse vel non esse rei: Si enim arguitur hoc modo; Deus prohibet hoc verum, 
+      <lb ed="#L" n="55"/>vel hanc esse veram, Fur furatur, &amp; hoc est verum, Fur furatur, ergo Deus prohibet verum, 
+      <lb ed="#L" n="56"/>non sequitur; bene tamen sequitur, quod aliquod verum, vel aliquam propositionem esse ve¬ 
+      <!--328.xml-->
+      <pb ed="#A" n="295"/>
+               <lb ed="#L" n="1"/>ram Deus prohibet. Quilibet enim tenetur cauere tale verum de se ipso, Iste furatur; &amp; hoc 
+      <lb ed="#L" n="2"/>est ratione alicuius prohibitionis diuinae; Deus enim posset rationabiliter prohibere, &amp; ita 
+      <lb ed="#L" n="3"/>effectualiter &amp; realiter videtur prohibuisse cuilibet de seipso, ne talis vnquam sit vera, Iste 
+      fu<lb ed="#L" n="4" break="no"/>ratur, Iste maechatur, &amp; sic de omnibus malis similibus: Quare &amp; Beatr sunt illi aduersum 
+      <lb ed="#L" n="5"/>quos omne malum dixerunt mentientes. Amplius autem haec est vera, Peccatum est; Aliqua 
+      <lb ed="#L" n="6"/>ergo est causa veritatis illius, &amp; Deus est causarum omnium prima causa, &amp; omnis causa 
+      se<lb ed="#L" n="7" break="no"/>cunda causat in virtute primae causae, sicut praecedentia docuerunt. Item aliqua est causa 
+      ve<lb ed="#L" n="8" break="no"/>ritatis illius, &amp; non soli termini, nec ipsum solum peccatum, cum ipsum nihil sit, vt patet 
+      <lb ed="#L" n="9"/>per 28un huius: Est ergo aliqua causa positiua?; &amp; Deus est omnium talium prima causa. 
+      <lb ed="#L" n="10"/>Item peccatum est quaedam priuatio, vt patet 26o huius, &amp; omni negatione &amp; priuatione 
+      <lb ed="#L" n="11"/>prior est affirmatio &amp; habitus, &amp; causa illius, sicut decimo tertio huius patet; &amp; omnis 
+      affir<lb ed="#L" n="12" break="no"/>mationis &amp; habitis Deus est prima causa, vt patet ibidem. Item Deus est prima causa 
+      cuius<lb ed="#L" n="13" break="no"/>libet esse &amp; non esse, sicut Irum, 12um, I3um, &amp; I4um probauerunt: Quare &amp; non esse iustitiae 
+      <lb ed="#L" n="14"/>debitae, &amp; esse peccati. Item alias Deus non optime disponeret vniuersum, nec 
+      perfectissi<lb ed="#L" n="15" break="no"/>me ordinaret. Melius enim &amp; perfectius est ordinare, &amp; disponere, imo praedisponere &amp;  
+      <lb ed="#L" n="16"/>praeordinare, sicut capitulo proximo erat dictum, de omnibus, tam malis quam bonis, tam 
+      <lb ed="#L" n="17"/>priuatiuis quam positiuis; quam de bonis &amp; positiuis tantummodo. I/ Clius enim mala &amp; 
+      <lb ed="#L" n="18"/>priuatiua relinquerentur inordinata, ordinatione huiusmodi praecedente; &amp; esset aliquid 
+      in<lb ed="#L" n="19" break="no"/>iustum &amp; indecorum simpliciter, quod ordinem vniuersi iustissimum &amp; pulcherrimum non  
+      <lb ed="#L" n="20"/>minimum deturparet, quod videtur contra praehabita capitulo praecedenti. Item omne quod 
+      <lb ed="#L" n="21"/>bonum est esse, a primo bono bonum est esse, &amp; Deus vult illud esse; Peccatum autem esse 
+      <lb ed="#L" n="22"/>bonum est, vt patet per Autoritatem Augustini capitulo proximo allegatam. Hugo 
+      quo<lb ed="#L" n="23" break="no"/>que 1. de Sacramentis 4. part. 14. ostendit quod Deus vult mala esse, quia hoc bonum est. 
+      <lb ed="#L" n="24"/>Et supra 13. ita dicit; Si dicitur Deus vult malum, graue est auditui, &amp; non recipit hoc pia 
+      <lb ed="#L" n="25"/>mens de bono, quia vult malum. Et ideo refutat hoc pia mens, non quia quod dicitur, non 
+      <lb ed="#L" n="26"/>bene dicitur, sed quia quod bene dicitur, non bene intelligitur: Habet enim zelum Dei, sed 
+      <lb ed="#L" n="27"/>non secundum scientiam. Item omne quod expedit hominibus, est a primo bono vtili 
+      om<lb ed="#L" n="28" break="no"/>nibus, &amp; Deus vult illud expedire, &amp; esse; sed peccata expediunt hominibus, nedum 
+      alie<lb ed="#L" n="29" break="no"/>na, sicut superius est ostensum, sed etiam propria. Vnde ad Roman. 8. Diligentibus Deum 
+      <lb ed="#L" n="30"/>omnia cooperantur in bonum, his qui secundum propositum vocati sunt, sancti; Talibus 
+      <lb ed="#L" n="31"/>enim vt ait Augustinus de correptione &amp; gratia 35. vsque adeo Deus omnia cooperatur in 
+      <lb ed="#L" n="32"/>bonum, vt si qui horum deuiant, &amp; exorbitant, &amp; hoc ipsum eis faciat proficere in bonum, 
+      <lb ed="#L" n="33"/>quia humiliores // redduntur atque doctiores, vt Petrus; &amp; Psalmo 82. Imple facies eorum 
+      <lb ed="#L" n="34"/>ignominia, &amp; quaerent nomen tuum Domine. Augustinus quoque 14. de Ciuitate Dei 13. 
+      <lb ed="#L" n="35"/>Audeo dicere, superbis esse vtile incidere in aliquod apertum, manifestumque peccatum, 
+      vn<lb ed="#L" n="36" break="no"/>de sibi displiceant, qui sibi placendo ceciderant: Salubrius enim Petrus sibi displicuit, 
+      quan<lb ed="#L" n="37" break="no"/>do fleuit, quam sibi placuit, liquando praesumpsit. Hoc dicit &amp; sacer Psalmus, Imple facies 
+      <lb ed="#L" n="38"/>eorum ignominia, &amp;c. Item omne quod facit ad pulchritudinem vniuersi, Deus totius 
+      pul<lb ed="#L" n="39" break="no"/>chritudinis pulcher Autor vult esse: Peccatum est huiusmodi; Nam secundum illam 
+      pro<lb ed="#L" n="40" break="no"/>pheticam sententiam &amp; famosam 2. de Coelo 40. &amp; 3. Meteor. &amp; 1. Elench. Contraria, siue 
+      <lb ed="#L" n="41"/>opposita iuxta se posita magis apparent. Vnde &amp; in De mundo 10. ita dicit; Quidam 
+      mira<lb ed="#L" n="42" break="no"/>tus est, quomodo mundus constans ex contrarijs principiis, dico autem siccis &amp; 
+      humi<lb ed="#L" n="43" break="no"/>dis, frigidis, &amp; calidis, non corruptus est olim; quasi quis miraretur ciuitatem quo 
+      pa<lb ed="#L" n="44" break="no"/>cto perseuerat, consistens ex contrarijs gentibus, egenis dico &amp; diuitibus, iuuenibus, 
+      se<lb ed="#L" n="45" break="no"/>nibus, debilibus, fortibus, ex reprobis atque probis; in alia transtatione, ex malis atque 
+      <lb ed="#L" n="46"/>bonis; sed ignorant, quod erat ciuilis vnanimitatis, in alia transtatione, concordiae 
+      mirabi<lb ed="#L" n="47" break="no"/>lissimum, dico autem quod e multis vna, &amp; similis suscipitur omnis natura, &amp; fortuna. 
+      <lb ed="#L" n="48"/>Fortassis autem gliscit contrariorum natura, &amp; ex his efficere consonum, non ex similibus. 
+      <lb ed="#L" n="49"/>Velut ergo Marem foeminae copulauit, nec vtrumque proprio sexui, &amp; primum foedus 
+      <lb ed="#L" n="50"/>coniunxit per contraria non per // similia sicut videtur. Ars quoque naturam imitans facit 
+      <lb ed="#L" n="51"/>hoc. Nam pictura alborum, nigrorum, citrinorum, &amp; rubeorum colorum commiscens 
+      <lb ed="#L" n="52"/>naturas, egit praecedentibus imagines consonas; Musica vero acutos pariter &amp; gra 
+      <lb ed="#L" n="53"/>ues, longos &amp; breues sonos commiscens, in vocibus diuersis vnam harmoniam 
+      perfe<lb ed="#L" n="54" break="no"/>cit: Crammatica vero ex vocalibus &amp; consonantibus literis mixturam faciens, totam 
+      <lb ed="#L" n="55"/>artem ex eis constituit. Idem autem huic erat &amp; quod ab obscuro dicebatur Heraclito, 
+      <lb ed="#L" n="56"/>Coniungit conuersa, &amp; non conuersa, conueniens, &amp; differens, consonum &amp; 
+      abso<lb ed="#L" n="57" break="no"/>num, &amp; ex omnibus vnum, &amp; ex vno omnia. Sic igitur &amp; omnium constitutionem, 
+      <lb ed="#L" n="58"/>Coeli, dico, &amp; terrae vndique totius permixtam, maxime contratiorum principiorum vna 
+      <!--329.xml-->
+      <pb ed="#A" n="296"/>
+               <lb ed="#L" n="1"/>decorauit harmonia, siccum humido, calidum frigido, graue leui, rectum circulato 
+      deco<lb ed="#L" n="2" break="no"/>rauit: totam terram, &amp; mare, aetherem, atque Solem &amp; Lunam, &amp; totum coelum 
+      decora<lb ed="#L" n="3" break="no"/>uit vna, quae per omnia transit virtus; ex immixtis &amp; diuersis, ex acre, terra, igne &amp; aqua 
+      to<lb ed="#L" n="4" break="no"/>tum orbem creans &amp; disponens vnius sphaerae superficiae; ac maxime contrarias in eo 
+      natu<lb ed="#L" n="5" break="no"/>ras cogens adinuicem concordare, &amp; ex his ingenians vniuerso salutem. Et infra, eodem; De 
+      <lb ed="#L" n="6"/>omnibus quasi contrarijs ita dicit. Haec autem omnia videntur causa boni facta, &amp; praestare 
+      <lb ed="#L" n="7"/>salutem per saecula. Alacen quoque 2. Perspectiuae suae ostendit; Quod nedum Iux &amp; 
+      simili<lb ed="#L" n="8" break="no"/>tudo, verum &amp; vmbra, obscuritas, &amp; diuersitas facit pulchritudinem aliquando, vbi &amp; 
+      exem<lb ed="#L" n="9" break="no"/>pli gratia dicit, quod pulchritudo stellarum non apparet, nisi in nigredine noctis, &amp; quod stelle 
+      <lb ed="#L" n="10"/>in noctibus obscuris sunt pulchriores, quam in noctibus Lunae. Cui concordat sapiens 
+      Eccle<lb ed="#L" n="11" break="no"/>siastici 33. ita dicens: Quare dies diem superat, &amp; lux lucem, &amp; annus annum, &amp; Sol Solem; 
+      <lb ed="#L" n="12"/>ct respondet; A Domini scientia separati sunt, facto Sole, &amp; praeceptum custodiente, per Dei 
+      <lb ed="#L" n="13"/>sapientiam diuiduntur; &amp; immutauit, vel alias immutabit tempora &amp; dies festos eorum, &amp; I 
+      <lb ed="#L" n="14"/>ex ipsis posuit in numerum dierum, &amp; omnes homines de terra in multitudine disciplinae 
+      Do<lb ed="#L" n="15" break="no"/>mini separauit eos, &amp; immutauit vias eorum, &amp; ex ipsis benedixit &amp; exaltauit, sanctificauit, &amp;  
+      <lb ed="#L" n="16"/>ad se applicauit; ex ipsis maledixit, &amp; humiliauit, &amp; conuertit illos ad separationem ipsorum, 
+      <lb ed="#L" n="17"/>quasi lutum figuli in manu ipsius plasmare &amp; disponere illud, omnes viae eius secundum 
+      dis<lb ed="#L" n="18" break="no"/>positionem eius, sic homo in manu illius qui se fecit, contra malum bonum est, &amp; contra 
+      vi<lb ed="#L" n="19" break="no"/>tam mors, sic &amp; contra virum iustum peccator, &amp; sic intuere in omnia opera Altissimi, duo 
+      <lb ed="#L" n="20"/>contra duo, &amp; vnum contra vnum. Dicitque Augustinus II. de Ciuitate Dei 18. Nullum 
+      <lb ed="#L" n="21"/>Deus Angelorum vel hominum creasset, quem malum futurum esse praescisset, nisi pariter 
+      <lb ed="#L" n="22"/>nosset, quibus eos bonorum vsibus commodatet, atque ita ordinem saeculorum, tanquam  
+      <lb ed="#L" n="23"/>pulcherrimum carmen ex quibusdam quasi antithetis honestaret. Antitheta enim quae 
+      appel<lb ed="#L" n="24" break="no"/>lantur in ornamentis locutionis, sunt decentissima, quae latine appellantur opposita, vel 
+      con<lb ed="#L" n="25" break="no"/>tra posita. Sicut ergo ista contraria contrarijs opposita, sermonis pulchritudimem reddunt; 
+      <lb ed="#L" n="26"/>ita quadam non verborum, sed rerum eloquentia contratiorum oppositione saeculi 
+      pulchri<lb ed="#L" n="27" break="no"/>tudo componitur. Apertissime hoc positum est in libro Ecclesiastici isto modo; Contra 
+      ma<lb ed="#L" n="28" break="no"/>lum, bonum; &amp; contra mortem, vita; sic contra pium, peccator. Et infra, eodem 23. Sicut 
+      pi<lb ed="#L" n="29" break="no"/>ctura cum colore nigro v loco suo posita; ita vniuersitas rerum, si quis posset intueri, etiam  
+      <lb ed="#L" n="30"/>cum peccatoribus pulchra est, quamuis per seipsos consideratos sua deformitas turpet. 
+      Idem<lb ed="#L" n="31" break="no"/>que de vera religione 73. dicit, quod pulchritudo vniuersi non est consideranda in vna parte 
+      <lb ed="#L" n="32"/>tantum, sed in omnibus, &amp; in toto. Error quoque noster parti mundi adhaerens per se foedus 
+      <lb ed="#L" n="33"/>est: sed sicut niger color in pictura cum toto sit pulcher, sic totum istum agonem decenter 
+      e<lb ed="#L" n="34" break="no"/>dit ex contrarijs incommutabilis diuina; prouidentia. Idem quoque Enchirid. 7. In 
+      vniuer<lb ed="#L" n="35" break="no"/>sitate illud quod malum dicitur, bene ordinatum &amp; loco suo positum eminentius commendat 
+      <lb ed="#L" n="36"/>bona, vt magis placeant, &amp; laudabiliora sint, dum comparantur malis. Idem insuper de 
+      Na<lb ed="#L" n="37" break="no"/>tura boni 16. ita dicit, Priuationes sic in vniuersitate naturae ordinatur, vt non indecenter 
+      ha<lb ed="#L" n="38" break="no"/>beant vices suas. Nam &amp; Deus certa loca &amp; tempora non illuminando decenter tenebras 
+      fa<lb ed="#L" n="39" break="no"/>cit; Si enim nos continendo vocem decenter interponimus silentium in loquendo, quanto 
+      <lb ed="#L" n="40"/>magis ille quarundam rerum priuationes decenter facit, sicut rerum omnium perfectus 
+      Arti<lb ed="#L" n="41" break="no"/>fex. Vnde &amp; in hymno trium puerorum, etiam Lux &amp; tenebrae Iaudant Deum, id est, 
+      Iau<lb ed="#L" n="42" break="no"/>dem eius in bene // confidentium cordibus pariunt. Item omne iustum a primo iusto scilicet  
+      <lb ed="#L" n="43"/>Deo est iustum; et Deus vult illud esse iustum &amp; esse. Omnis poena peccati est iusta, sicut patet 
+      <lb ed="#L" n="44"/>3I. huius, &amp; vnum peccatum est poena alterius: Dicit enim Propheta, Non veniat mihi pes 
+      <lb ed="#L" n="45"/>superbiae, &amp;c. Ibi ceciderunt qui operantur iniquitatem, expulsi sunt, nec potuerunt stare 
+      <lb ed="#L" n="46"/>Psalm. 35. Quare &amp; Salomon; Fouea, inquit, profunda os alienae; cui iratus est Dominus, 
+      in<lb ed="#L" n="47" break="no"/>cidet in eam Parab. 22. Quod &amp; patet ad Rom. 1. de illis qui cum cognouissent Deum, non 
+      <lb ed="#L" n="48"/>sicut Deum glorificauerunt, aut gratias egerunt. Quapropter tradidit illos Deus in desideria 
+      <lb ed="#L" n="49"/>cordis eorum, in immunditiam. Vnde &amp; Augustinus super illud Psalmi 35. praemissum, 
+      Au<lb ed="#L" n="50" break="no"/>dite, inquit, pedem superbiae, Qui cum cognouiscent Deum, non sicut Deum glorificauerunt. 
+      <lb ed="#L" n="51"/>Venit ergo illis pes superbiae, vnde venerunt in profundum. Tradidit illos Deus in disideria 
+      <lb ed="#L" n="52"/>cordis eorum, facere quae non conueniunt. Qui &amp; super illud Psalmi 57. Sicut cera lique facta 
+      <lb ed="#L" n="53"/>auferentur, sic dicit, Istas poenas pauci vident, propterea eas maxime commemorant Spiritus 
+      <lb ed="#L" n="54"/>Dei. Audi Apostolum dicentem; Tradidit illos Deus, &amp;c. Et enumerat multa quae peccata 
+      <lb ed="#L" n="55"/>sunt, &amp; poenas dicit esse peccatorum. Nam pmumpeccatum superbia est, uvltima poena 
+      ig<lb ed="#L" n="56" break="no"/>nis aut Infernus. Peccata vero damnatorum media inter illud primum peccatum, &amp; hanc 
+      <lb ed="#L" n="57"/>ultimam poenam, &amp; peccata sunt, &amp; poene, vt adulter sit, iam poena est, vt mendax, vt auarus, 
+      <lb ed="#L" n="58"/> vt fraudulentus, vt homicida iam poene sunt. ? Cuius pecati poene? prioris Apostasiae: illius 
+      <!--330.xml-->
+      <pb ed="#A" n="297"/>
+               <lb ed="#L" n="1"/>superbiae, qua dixerunt se esse sapientes, quia a se habere dicebant, quod a Deo acceperant: 
+      <lb ed="#L" n="2"/>Quod &amp; docet similiter, quinto contra Iulianum 3. &amp; post diffuse &amp; similiter libro sexto; 
+      Di<lb ed="#L" n="3" break="no"/>cit quoque Gregorius super Ezechielem homil. 1I. Peccatum quod per poenitentiam citius 
+      <lb ed="#L" n="4"/>non deletur, aut peccatum est, &amp; causa peccati, aut peccatum, &amp; poena peccati, aut peccatum 
+      <lb ed="#L" n="5"/>simul &amp; causa &amp; poena peccati. Vnde Moses: Nondum completa sunt peccata 
+      Amorraeo<lb ed="#L" n="6" break="no"/>rum: &amp; Dauid; Appone iniquitatem super iniquitatem eorum: &amp; alius Propheta; Sanguis 
+      <lb ed="#L" n="7"/>sanguinem tetigit, id est, peccatum peccato redditum est. Paulus quoque ait; Propterea 
+      tra<lb ed="#L" n="8" break="no"/>didit illos, &amp;c. Iohanni quoque per Angelum dicitur; Qui in fordibus est sordescat adhuc 
+      <lb ed="#L" n="9"/>Quem sequitur Isidorus secundo De summo bono 19. dicens; Quod peccatum precedens 
+      <lb ed="#L" n="10"/>est causa sequentis peccati, sequens vero peccatum poena est precedentis delicti, neque dum 
+      qui<lb ed="#L" n="11" break="no"/>cunque iusti sunt a Deo impelluntur vt mali fiant, sed dum mali iam sunt, indurantur, vt 
+      dete<lb ed="#L" n="12" break="no"/>riores existant, sicut dicit Apostolus, Quoniam veritatem Dei non receperunt, vt salui fierent; 
+      <lb ed="#L" n="13"/>immisit illis Deus spiritum erroris. Facit ego Deus quosdam peccare, sed in quibus iam talia 
+      <lb ed="#L" n="14"/>peceata praecesserunt, vt iusto iudicio eius mereantur in desiderijs ire. Respondebitur forsitan  
+      <lb ed="#L" n="15"/>quod vnum peccatum est poena alterius, sed secundum substantia puram actus, non secundum 
+      <lb ed="#L" n="16"/>deformitatem ipsius; sed quomodo est hoc verum de actu peccati, cui magna delectatio, &amp;  
+      <lb ed="#L" n="17"/>nulla penitus tristitia admiscetur? cum etiam nullus actus sit essentialiter per se malus, per 26. 
+      <lb ed="#L" n="18"/>huius. Et siquis dixerit, quod talis actus peccati est nociuus homini &amp; poenalis, in quantum 
+      <lb ed="#L" n="19"/>aufert ab eo iustitiam debitam quam habebat, &amp; oppositam priuationem inducit, habet 
+      di<lb ed="#L" n="20" break="no"/>cere consequenter, quod ablatio &amp; priuatio talis passiua, est potius eius poena, &amp; illa per se &amp; 
+      <lb ed="#L" n="21"/>proprie est peccatum, sicut 26. huius &amp; Doctores plurimi contestantur: Alioquin etiam post 
+      <lb ed="#L" n="22"/>peccare non remaneret peccatum. Quare &amp; Petrus 2 Sent dist. 35. vlt. dicit, quod priuatio &amp; 
+      <lb ed="#L" n="23"/>corruptio boni dicitur poena secundum effectum, id est, secundum passionem, quae est 
+      effe<lb ed="#L" n="24" break="no"/>ctus peccati, id est, peccare, ipsum &amp; ipsam causantis, &amp; dicit quod haec poena est Dei. Vnde 
+      <lb ed="#L" n="25"/>&amp; Augustinus de vera religione, 24. Defectus, inquit, iste qui peccatum vocatur, si tanquam  
+      <lb ed="#L" n="26"/>febris inuitum occuparet, recte iniusta poena videretur quae peccantem consequitur, &amp; quae 
+      <lb ed="#L" n="27"/>damnatio nuncupatur. Qui &amp; 5. contra Iulianum 14. loquens de malo homine male operante 
+      <lb ed="#L" n="28"/>sic ait; Quod profecto illi peccatum est, quia malum facit, &amp; poena peccati quia malum se 
+      pa<lb ed="#L" n="29" break="no"/>titur. Et si quis adhuc respondeat ad dictum Apostoli, &amp; similia, sic glossando; Deus tradidit 
+      <lb ed="#L" n="30"/>illos, &amp;c. id est, deserendo tradi permisit, sicut etiam quidam Doctores glossare videntur, 
+      po<lb ed="#L" n="31" break="no"/>test argui per cap. proximum, si permisit eos sic tradi, quod voluit eos sic tradi. Item dicit 
+      Au<lb ed="#L" n="32" break="no"/>gustinus, &amp; concordant alij duo sancti, quod vt adulter sit, &amp; mendax, &amp;c. sunt poenae pec 
+      <lb ed="#L" n="33"/>cati prioris. Sunt ergo aliquo modo iusta, volutaque a Deo. Item peccatum secundum est 
+      ali<lb ed="#L" n="34" break="no"/>quo modo poena peccati prioris, vt patet per testimonia Scripturae, &amp; Doctores praedictos; &amp; 
+      <lb ed="#L" n="35"/>si hoc non sit per intentionem nec voluntatem Dei, nec per intentionem nec volutionem 
+      pec<lb ed="#L" n="36" break="no"/>cantis, nec alicuius alterius hoc esset pure casualiter contra 29. huius; &amp; etiam tunc non 
+      ordi<lb ed="#L" n="37" break="no"/>nate nec iuste puniret illud: Nihil enim ordinate vel iuste punit aliud, nisi ab aliquo iusto 
+      Iudi<lb ed="#L" n="38" break="no"/>ce ordinetur in poena illius. Item tunc Deus non aliter traderet malos in desideria seu peccata 
+      <lb ed="#L" n="39"/>quam bonos: Ambos enim tradit tantummodo permittendo, quod est contra Scripturam &amp;  
+      <lb ed="#L" n="40"/>Doctores praemissos. Propter namque pedem superbiae praecedentem ceciderunt, qui 
+      ope<lb ed="#L" n="41" break="no"/>rantur iniquitatem, expulsi sunt, nec potuerunt stare. Quare &amp; dicit Isidorus; Neque dum 
+      <lb ed="#L" n="42"/>quicunoue iusti sunt a Deo impelluntur vt mali fiant, &amp;c. innuendo quod aliqui dum iniusti 
+      <lb ed="#L" n="43"/>sunt, sic impellantur a Deo, vt deteriores existant; &amp; ideo dicit expresse quod Deus facit, 
+      <lb ed="#L" n="44"/>tales peccare non alios; quod etiam sapiunt verba Apostoli allegata; Quoniam veritatem 
+      <lb ed="#L" n="45"/>Dei non receperunt, immisit illis Deus spiritum erroris; vbi transtatio Ieronymi dicit 
+      expres<lb ed="#L" n="46" break="no"/>sius; Ideo immittet illis Deus operationem erroris, vt credant mendacio, 2. ad Thes. 2. Et 
+      Scrip<lb ed="#L" n="47" break="no"/>tura vbique loquens de talibus dicit; Propter quod, Ideo, Eo quod, vel aliquod simile, quod 
+      <lb ed="#L" n="48"/>significat causam, ostendendo per hoc quod peccatum praecedens est causa sequentis. Item 
+      <lb ed="#L" n="49"/>Lumb. 2. Sent. dist. 30. ostendit, quod vnum peccatum est poena alterius, &amp; dicit; quod pec 
+      <lb ed="#L" n="50"/>catum in quantum est poena peccati prioris est a Deo, non autem in quantum peccatum. Vel 
+      <lb ed="#L" n="51"/>ergo intelligit, quod vt est poena peccati, est a Deo tautummodo permirtente, &amp; sic est, vt est 
+      <lb ed="#L" n="52"/>peccatum; differentia ergo nulla: vel quod est a Deo volente &amp; ordinante, &amp; tunc Deus vult 
+      <lb ed="#L" n="53"/>peccatum fieri &amp; esse, saltem in quantum est poena peccati prioris. Item ista videtur 
+      periculo<lb ed="#L" n="54" break="no"/>sa responsio, nisi per permissionem intelligat voluntatem Dei secundum quid, sicut capitulum 
+      <lb ed="#L" n="55"/>proximum exponebat, sicut &amp; Doctores, sic quandoque glossantes dictum Apostoli &amp; similra. 
+      <lb ed="#L" n="56"/>possunt exponi: Haec est enim responsio &amp; exposito Iuliani haeretici, 5. libro contra eum ab 
+      <lb ed="#L" n="57"/>Augustino diffusius reprobata. Iulianus enim sicut ibi 4. capitulo recitat Augustinus, sic 
+      ex<lb ed="#L" n="58" break="no"/>posuit dictum Apostoli; Tradidit illos Deus, &amp;c. id est, tradidit deferendo, &amp; non potentia, sed 
+      <!--331.xml-->
+      <pb ed="#A" n="298"/>
+               <lb ed="#L" n="1"/>patientia. Contra quem sic inuehit Augustinus, Quaeris inaniter, quomodo intelligendus sit 
+      <lb ed="#L" n="2"/>tradere Deus, multum laborans, vt ostendas eum tradere deserendo. Et infra, eodem. 
+      <lb ed="#L" n="3"/>Dixit Apostolus quid mali ante fecissent, &amp; adiunxit, Propter quod tradidit illos Deus in 
+      <lb ed="#L" n="4"/>desideria cordis eorum. Proinde haec praecedentis est poena peccati, &amp; tamen etiam ipsa 
+      pec<lb ed="#L" n="5" break="no"/>tum. Sed tu contra disserens eo modo tibi videris istam soluisse quaestionem, quia desiderijs 
+      <lb ed="#L" n="6"/>suis Apostolus traditos dixit. Iam enim flagitiorum, iniquis desiderijs aestuabant, &amp; adiungis 
+      <lb ed="#L" n="7"/>quomodo per potentiam tradentis Dei, putandi sunt in talia facta cecidisse. Et Augustinus 
+      <lb ed="#L" n="8"/>contra eum, Quid ergo plus factum est, obsecro te? aut vt quid diceret Apostolus, 
+      Ara<lb ed="#L" n="9" break="no"/>didit illos Deus in desideria cordis eorum, sriam erant possessi quoquomodo malis deliderijs 
+      <lb ed="#L" n="10"/>cordis sui? Nunquid autem consequens est, vt si quis habeat mala desideria, iam etiam 
+      con<lb ed="#L" n="11" break="no"/>sentiat eis ad committenda eadem mala? 7ac per hoc, aliud est habere mala desideria, aliud 
+      <lb ed="#L" n="12"/>tradi eis, vt consentiendo eis possideatur ab eis, quod fit cum diuino iudicio traditur eis. Et  
+      <lb ed="#L" n="13"/>infra 5. recitat multa de scriptura, per quae ostendit vnum peccatum esse poenam alterius. 
+      Do<lb ed="#L" n="14" break="no"/>minus, inquit, miscuit illis spiritum erroris, &amp; seduxerunt Aegyptum; Iterum, Quid errare 
+      <lb ed="#L" n="15"/>fecisti nos, Domine, a via tua, obdurasti corda nostra vt non timeremus te; Iterum, Ecce tu 
+      <lb ed="#L" n="16"/>iratus es, &amp; nos peccauimus, propterea errauimus; Iterum, Per Dominum confortatum est, 
+      <lb ed="#L" n="17"/>cor gentium, vt obuiam irent. Israel, vt exterminarentur; Iterum, Non audiuit Rex 
+      Ro<lb ed="#L" n="18" break="no"/>boam, &amp;c. vt Dominus statueret verbum Prophetae; Iterum, Non audiuit Amasias, quoniam 
+      <lb ed="#L" n="19"/>a Domino erat vt traderetur; Iterum, Pro eo quod dilectionem veritatis non receperunt, &amp;c. 
+      <lb ed="#L" n="20"/>Mirtet illis Deus operationem erroris, vti credant mendacio; Iterum, Propheta si errauerit, 
+      <lb ed="#L" n="21"/>ego Dominus seduxi Prophetam, &amp;c. Et iterum, Misit iram &amp; indignationem per Angelos 
+      <lb ed="#L" n="22"/>malos; &amp; post testimonium de Amasia, dicit alia multa se posse commemorare, in quibus 
+      <lb ed="#L" n="23"/>liquido apparet, occulto indicio Dei fieri peruersitatem cordis, vt non audiatur quod verum 
+      <lb ed="#L" n="24"/>dicitur &amp; inde peccetur, &amp; sit ipsum peccatum praecedentis etiam poena peccati. Nam 
+      cre<lb ed="#L" n="25" break="no"/>dere mendacio, &amp; non crodere veritati, vtique peccatum est: Venit tamen ab ea 
+      caeci<lb ed="#L" n="26" break="no"/>tate cordis, quae occulto iudicio Dei, sed tamen iusto etiam peccati poena monstratur. Et 
+      in<lb ed="#L" n="27" break="no"/>fra, eisdem, sic alloquitur Iulianum, Quid est autem quod dicis, cum desiderijs traditi 
+      dicun<lb ed="#L" n="28" break="no"/>tur, relicti per diuinam patientiam intelligendi sunt, &amp; non per potentiam in peccata 
+      compul<lb ed="#L" n="29" break="no"/>si, quasi non simul posuit haec duo idem Apostolus, &amp; patientiam &amp; potentiam? vbi ait, Si 
+      <lb ed="#L" n="30"/>autem volens Deus ostendere iram, &amp; demonstrare potentiam suam attulit in multa 
+      pati<lb ed="#L" n="31" break="no"/>entia vasa ire, quae perfecta sunt in interitum. Et Infra 6. Quis dicat non peccasse Achab 
+      <lb ed="#L" n="32"/>spiritui credendo mendacij? Quis dicat hoc peccatum non fuisse poenam peccati venientem de 
+      <lb ed="#L" n="33"/>iudicio Dei, ad quem legitmendacem spititum siue missum, siue permissum? quis harum 
+      ali<lb ed="#L" n="34" break="no"/>quid dicit, nisi qui dicit quod vult, &amp; quod verum est audire non vult? quis vero ita desipiat, vt 
+      <lb ed="#L" n="35"/>cum audierit quod in Psalmo canitur, Ne tradas me Domine a desiderio meo peccatori, hoc  
+      <lb ed="#L" n="36"/>dicat orasse hominem, ne Deus sit patiens erga eum, si Deus non tradit vt mala fiant; nisi 
+      pa<lb ed="#L" n="37" break="no"/>tientem bonitatem praebendo cum fiunt? Quid est autem quod quotidie dicimus, De hos 
+      in<lb ed="#L" n="38" break="no"/>feras in tentationem, nisi vt non tradamur concupiscentijs nostris? vnusquisque enim 
+      <lb ed="#L" n="39"/>temptatur; a concupiscentia sua abstractus &amp; illectus. An forte hoc a Deo petimus, vt non  
+      <lb ed="#L" n="40"/>sit erga nos patiens bonitas eius? Non ergo eius inuocamus misericordiam, sed potius 
+      ira<lb ed="#L" n="41" break="no"/>cundiam prouocamus? Quis ista sapiat sanus, imo vel quis furiosus haec dicat? Traditer: 
+      <lb ed="#L" n="42"/>go Deus in passiones ignominiae, vt fiant quae non conueniunt, sed ipse conuenienter tradit, 
+      <lb ed="#L" n="43"/>&amp; fiunt eadem peccata &amp; peccatorum supplicia praeteritorum, &amp; suppliciorum merita 
+      futu<lb ed="#L" n="44" break="no"/>rorum: Sriquis gutem dixerit cum Lumbardo, quod Deus vult peccatum sub ratione, qua 
+      <lb ed="#L" n="45"/>est prena, non sub ratione qua est peccatum, potest sic argui contra eum; Ista poena &amp; 
+      pecca<lb ed="#L" n="46" break="no"/>tum perse, scilic etsub ratione qua est peccatum necessario &amp; inseparabiliter contunguntur, &amp; 
+      <lb ed="#L" n="47"/>illa necessitas &amp; infeparabilitas est a Deo, sicut ex praecedentibus satis patet:, Ipscenim, est 
+      <lb ed="#L" n="48"/>prima necessitas ii &amp; primum necesse esse. Vult ergo illa sic coniungi &amp; esse coniuncta, &amp; 
+      <lb ed="#L" n="49"/>esse; vult ergo percatum esse. Item quicunque scit aliqua duo esse necessario &amp; 
+      inseparabili<lb ed="#L" n="50" break="no"/>tencopulata, &amp; vult illa¬ taliter copulari, &amp; scienter ac rationabiliter vult vnum, vult ¬ 
+      <lb ed="#L" n="51"/>reliquum, maxime si circa vtrumque habeat aliquem actum voluntatis, sicut vigesimum 
+      se<lb ed="#L" n="52" break="no"/>cundum ostendit de Deo; Deus autem scit &amp; vult ista duo taliter copulari, &amp; scienter ac 
+      ra<lb ed="#L" n="53" break="no"/>tionabiliter vult vnum, scilicet poenam peccati, ergo &amp;st peccatum. Hoc statim potest 
+      pa<lb ed="#L" n="54" break="no"/>tere, quia si A &amp; Btaliter copulentur, &amp; Deus vult A fieri &amp; potest, A fit, &amp; Bnecessario 
+      <lb ed="#L" n="55"/>fit cum eo; &amp; Deus nihil casualiter operatur; sed totum, ex intentione, sapientissima 
+      om<lb ed="#L" n="56" break="no"/>nisuauiter disponente, sicut vigesimum nonum docet. Deus ergo vult B. &amp; 
+      quodam<lb ed="#L" n="57" break="no"/>modo facit illuda. Adhuc autem in consequentia necessaria qui vult antecedens, fuit 
+      con<lb ed="#L" n="58" break="no"/>sequens vt videtur; saltem in vniuersalii, licet non in particulari, &amp; sub propria forma 
+      <!--332.xml-->
+      <pb ed="#A" n="299"/>
+               <lb ed="#L" n="1"/>sua. Qui namque vult aliquod totum, vult aliquo modo omnes necessarias partes eius: Do¬ 
+      <lb ed="#L" n="2"/>cet quoque Philosophus 2. Priorum, quod quicunque opinatur aliquod antecedens, &amp; quod 
+      <lb ed="#L" n="3"/>libet eius consequens similiter opinatur, saltem in vniuersali, licet fortassis quandoque in 
+      <lb ed="#L" n="4"/>particulari, &amp; sub forma propria opinetur oppositum cuiuspiam consequentis. Cur ergo 
+      <lb ed="#L" n="5"/>nequaquam de volutione similiter iudicandum? Sed absit quod Deus quicquam velit in 
+      vni<lb ed="#L" n="6" break="no"/>uersali &amp; confuse, &amp; illud nolit in particulari &amp; distincte, aut sic oppositum eius velit, sicut 
+      <lb ed="#L" n="7"/>praecedentia clare monstrant. Scit enim Deus distinctissime quicquid in antecedente 
+      quo<lb ed="#L" n="8" break="no"/>libet continetur: Omnem enim consequentiam bonam nouit, vultque omnem bonam 
+      con<lb ed="#L" n="9" break="no"/>sequentiam esse bonam. Quomodo ergo Deus quodlibet suum volutum rationabiliter 
+      <lb ed="#L" n="10"/>summe volens, vult aliquod antecedens, &amp; aliquod consequens eius non vult, non 
+      solum<lb ed="#L" n="11" break="no"/>modo priuatiue, sed etiam positiue, per actum videlicet volutioni contrarium positiuum. Si 
+      <lb ed="#L" n="12"/>enim quicquam non velit, cur non potest rationabiliter illud sic nolle? Sed quis tantam 
+      con<lb ed="#L" n="13" break="no"/>B trarietatem &amp; irrationabilitatem in Deo vel leuiter suspicatur? Nonne &amp; si Deus velit quic¬ 
+      <lb ed="#L" n="14"/>quam, cui multa necessario sunt annexa, quomodolibet fieri a quocunque, illud sic fiet ab eo 
+      <lb ed="#L" n="15"/>cum annexis huiusmodi vniuersis, decimo huius teste? &amp; si aliquod tale annexum Deus non  
+      <lb ed="#L" n="16"/>velit, potest rationabiliter illud nolle, nolutione videlicet positiua; quod si ponatur per indem  
+      <lb ed="#L" n="17"/>decimum illud non sit. Simul ergo illud fit &amp; non fit, &amp; similiter illud totum. An non &amp; si 
+      <lb ed="#L" n="18"/>Deus vult aliquod antecedens, illud est iustum saltem respectu voluntatis iustitiaeque diuinae? 
+      <lb ed="#L" n="19"/>quare &amp; quodlibet consequens eius est simili modo iustum. Quapropter &amp; a Deo totius 
+      Au<lb ed="#L" n="20" break="no"/>tore iustitiae volutum &amp; amatum, sicut priora testantur, &amp; Psalmus 10. contestatur, Iustus, 
+      <lb ed="#L" n="21"/>inquiens, Dominus, &amp; iustitias dilexit: Alioquin etiam posset Deus simul velle aliquod 
+      an<lb ed="#L" n="22" break="no"/>tecedens, &amp; aliquod consequens eius nolle, imo &amp; velle oppositum consequentis, quare &amp; 
+      a<lb ed="#L" n="23" break="no"/>liquod iustum nolle, &amp; oppositum iusti velle. Nonne &amp; secundum omnem rationem &amp; 
+      le<lb ed="#L" n="24" break="no"/>gem, Logicam, Philosophicam, humanam, &amp; diuinam, qui concedit, fatetur, dat, aut 
+      di<lb ed="#L" n="25" break="no"/>E cit aliquod antecedens, facit &amp; similiter omnia &amp; singula, quae necessario consequuntur, nec 
+      <lb ed="#L" n="26"/>debet admitti, neque permitti in opposito alicuius huiusmodi consequentis. Quis enim 
+      op<lb ed="#L" n="27" break="no"/>posita, repugnantia, contradictoriaue admittet rationabiliter ab eodem, quia nec veritas haec 
+      <lb ed="#L" n="28"/>admittit? Quomodo ergo Deus per suam rationabilissimam voluntatem aliquid ordinat, 
+      <lb ed="#L" n="29"/>dat, aut dicit, &amp; aliquid ipsum necessario consequens nullatenus ordinat, nec dat, aut dicit; 
+      <lb ed="#L" n="30"/>quinimo vult, &amp; dicit oppositum huius consequentis? &amp; licet ista per se satis perspicua 
+      vi<lb ed="#L" n="31" break="no"/>deantur; Ecce tamen testimonium Philosophi 2. Topic. dicentis, Omnis qui dixit 
+      quidli<lb ed="#L" n="32" break="no"/>bet, quodammodo multa dixit, eo quod plura sunt vnumquodque ex necessitate 
+      conse<lb ed="#L" n="33" break="no"/>quentia, vt si hominem esse dixit, &amp; quoniam animal est, dixit, &amp; quoniam animatum est,  
+      <lb ed="#L" n="34"/>&amp; quoniam bipes, &amp; quoniam mentis &amp; disciplinae susceptibile. Quare quolibet vno 
+      inter<lb ed="#L" n="35" break="no"/>empto consequentium, interimitur &amp; quod in principio est. Vnde &amp; Thomas 1. contra 
+      Gen<lb ed="#L" n="36" break="no"/>tiles 8i, sic ait; Sapientis voluntas ex hoc quod est de causa, est de effectu, qui ex causa de 
+      <lb ed="#L" n="37"/>necessitate sequitur: Stultum enim esset velle Solem existere super terram, &amp; non esse dici 
+      <lb ed="#L" n="38"/>claritatem. Et infra 83. Quicunque vult aliquid, necessario vult ea quae necessario 
+      requirun<lb ed="#L" n="39" break="no"/>tur ad illud, nisi sit ex parte eius defectus, vel propter ignorantiam, vel quia a recta electione 
+      <lb ed="#L" n="40"/>eius quod est ad finem intentum, abducitur per aliquam passionem, quae de Deo dici non  
+      <lb ed="#L" n="41"/>possunt. Si ergo Deus volendo se, vult aliquid aliud a se, necessarium est eum velle omne 
+      <lb ed="#L" n="42"/>illud quod ad volutum ab eo de necessitate requiritur, sicut necessarium est Deum velle 
+      ani<lb ed="#L" n="43" break="no"/>mam rationalem esse, supposito quod velit hominem esse. Et infra 84. Si igitur Deus 
+      neces<lb ed="#L" n="44" break="no"/>sario vult ea quae requiruntur ad hoc quod supponitur velle, impossibile est eunt velle ea 
+      <lb ed="#L" n="45"/>quae eis repugnant. Hoc etiam testatur Philosophus 3. Ethic. 12. sub his verbis, 
+      Trratio<lb ed="#L" n="46" break="no"/>nabile iniusta facientem non velle iniustum esse, aut stuprantem, incontinentem. Si autem 
+      <lb ed="#L" n="47"/>non ignorans aliquis operatur ex quibus erit iniustus, volens iniustus vtique erit. Item alias 
+      <lb ed="#L" n="48"/>posset quis simili ratione, duorum taliter coniunctorum, puta vnius rei spiritualis &amp; 
+      alte<lb ed="#L" n="49" break="no"/>rius temporalis, emere vnum vel vnam rem scilicet temporalem, reliquum vel reliquam  
+      <lb ed="#L" n="50"/>non emendo, sed eam quasi gratis recipiendo, sine aliqua Symonia, cuius contrarium 
+      vi<lb ed="#L" n="51" break="no"/>detur determinatum per Dominum Papam Paschalem, sicut recitatur in Canone, Causa I. 
+      <lb ed="#L" n="52"/>quaest. 3. Si quis obiecerit, in haec verba: Si quis obiecerit, non consecrationes enim, sed res 
+      <lb ed="#L" n="53"/>quae ex consecratione proueniunt, penitus desipere probatur. Nam quisquis eorum alterum 
+      <lb ed="#L" n="54"/>vendiderit sine quo nec alterum prouenit, neutrum inuenditum dereliquit. Et recitat hoc 
+      <lb ed="#L" n="55"/>Lumbardus 4. sentent. distinct. 25. Ad hoc etiam facit Augustinus 83. quaest. 15. arguens 
+      <lb ed="#L" n="56"/>isto modo; Intellectus intelligit se, ergo est finitus sibi, nec infinitus esse vult, 
+      quam<lb ed="#L" n="57" break="no"/>uis possit, quia notus sibi esse vult. Amplius autem potest similiter argui de actibus 
+      ho<lb ed="#L" n="58" break="no"/>micidij, furti, &amp; similibus; [cum quibus / cum suis omnibus circumstantijs positis ne¬ 
+      <!--333.xml-->
+      <pb ed="#A" n="300"/>
+               <lb ed="#L" n="1"/>cessario conunctum est peccatum. Quod si Deus sic vuit illos, imo &amp; facit, sicut 
+      praeceden<lb ed="#L" n="2" break="no"/>tia docuerunt, quod etiam vult peccatum. Istam quoque sententiam &amp; Iohannes Scotus, 
+      <lb ed="#L" n="3"/>super 1. Sentent. distinct. 41. tenere videtur 18. huius praescriptus. Oppositum autem 
+      hu<lb ed="#L" n="4" break="no"/>ius multipliciter suadetur: Si Deus vult peccatum, Deus est Autor peccati, teste Augustino 
+      <lb ed="#L" n="5"/>83. Quaest. 3. sic dicente, Deo Autore cum dicitur, illo volente dicitur; Et tunc Deo Autore 
+      <lb ed="#L" n="6"/>fieret homo deterior, contra Augustinum supra, eodem, taliter arguentem; Nullo homine 
+      sa<lb ed="#L" n="7" break="no"/>piente autore, fit homo deterior; est autem Deus omni homine sapiente praestantior, multo 
+      <lb ed="#L" n="8"/>minus: Igitur autore Deo non fit homo deterior. Et infra Quaest. 2I. probat, quod Deus 
+      <lb ed="#L" n="9"/>non est autor mali, quia non est causa deficiendi, nec tendendi ad non esse quod sit peccando, 
+      <lb ed="#L" n="10"/>cum ipse sit summum bonum &amp; causa essendi. Item si Deus vellet peccatum, cum per 
+      deci<lb ed="#L" n="11" break="no"/>mum voluntas sua non possit esse non efficax, ipse esset aliqua causa peccati, &amp; cum in omni 
+      <lb ed="#L" n="12"/>causatione ipsius cum creatura, ipse sit causa prima; vt videtur, sequeretur, quod Deus esset 
+      <lb ed="#L" n="13"/>prima causa peccati, contra Augustinum 3. De libero arbitrio 28. disputatione inuestigantem p 
+      <lb ed="#L" n="14"/>primam causam peccati, &amp; sic finaliter concludentem; Aut igitur voluntas est prima causa 
+      <lb ed="#L" n="15"/>peccandi, aut nullum peccatum est causa peccandi, nec est cui recte imputetur peccatum nisi 
+      <lb ed="#L" n="16"/>peccanti: Non est ergo cui recte imputetur nisi volenti. Et infra 35. Peccata, vt 
+      <lb ed="#L" n="17"/>iamdiu // disseruimus, non nisi propriae voluntati animarum tribuenda sunt, nec vlla vlterior 
+      <lb ed="#L" n="18"/>peccatorum causa quaerenda est. Item si Deus vult peccatum, &amp; per 10. voluntas sua est 
+      effi<lb ed="#L" n="19" break="no"/>cax, Deus facit peccatum, &amp; qui facit peccatum seruus est peccati, Ioh. 8. Deus ergo est seruus 
+      <lb ed="#L" n="20"/>peccati &amp; peccat. Item August. in de Confutatione haereticorum 16. falsa capitula sibi 
+      impo<lb ed="#L" n="21" break="no"/>nentium, responsione 5. dicit; Quod a Deo prorsus non est peccatum, nec cuiusquam peccati 
+      <lb ed="#L" n="22"/>autor est, sed naturae Creator; et fere in qualibet responsione, dicit expresse, quod nullus ex Dei 
+      <lb ed="#L" n="23"/>voluntate cadit in peccatum, nec praedestinauit aliquos ad peccandum. Item tunc posset 
+      qui<lb ed="#L" n="24" break="no"/>libet licite gaudere de peccato proprio, &amp; similiter alieno quocunque: Scit enim quod Deus 
+      <lb ed="#L" n="25"/>vult illud. Item tunc omnis male volens habet rectitudinem voluntatis; haec enim est velle 
+      si<lb ed="#L" n="26" break="no"/>cut Deus vult eum velle, vt patet per Anselmum de libero arbitrio 8. &amp; de concordia 5. &amp; 
+      qui<lb ed="#L" n="27" break="no"/>libet talis vult sicut Deus vult eum velle. Item tunc quilibet sciens hanc partem deberet, vel 
+      <lb ed="#L" n="28"/>saltem licite posset velle peccare,; quia illa est voluntas Dei iusta cui cognitae debet homo 
+      quan<lb ed="#L" n="29" break="no"/>tum potest, se licite conformare. Quare &amp; sic faciens non peccaret, simul ergo peccaret &amp; 
+      eti<lb ed="#L" n="30" break="no"/>am non peccaret. Vnde &amp; Augustinus 3. de libero arbitrio 26. Si hoc debet quisque quod ac 
+      <lb ed="#L" n="31"/>cepit, &amp; sic homo factus est vt necessario peccet, hoc debet vt peccet. Cum ergo peccat, quod 
+      <lb ed="#L" n="32"/>debet, facit; quod si scelus est dicere; neminem natura sua cogit vt peccet, sed nec aliena. Et  
+      <lb ed="#L" n="33"/>infra 28. loquens de prima causa malae voluntatis, sic ait; Quaecunque illa causa est voluntatis, 
+      <lb ed="#L" n="34"/>aut iusta profecto est, aut iniusta; si iusta, quisquis ei obtemperauerit, non peccabit. Et 
+      Ansel<lb ed="#L" n="35" break="no"/>mus De veritate duodecimo. Quicquid debet esse recte &amp; iuste est, nec aliquid recte &amp; iuste 
+      <lb ed="#L" n="36"/>est nisi quod debet esse. Item nullus iuste est accusator, aut vltor facti, cuius est autor; sed Deus 
+      <lb ed="#L" n="37"/>iuste est accusator &amp; vltor peccati. Item Psalmo quinto; Non Deus volens iniquitatem tu I 
+      <lb ed="#L" n="38"/>es; &amp; 44. dilexisti iustitiam, &amp; odisti iniquitatem; &amp; Parab. 6. Sex sunt, quae odit Deus, &amp; 
+      sep<lb ed="#L" n="39" break="no"/>timum detestatur anima eius &amp;c. Et Abacuc 1. Domine, mundi sunt oculi tui, ne videas 
+      ma<lb ed="#L" n="40" break="no"/>lum, &amp; respicere ad iniquitatem non poteris; Et Ioh. 1. Sine ipso factum est nihil, id est, 
+      pec<lb ed="#L" n="41" break="no"/>catum, secundum Augustinum homilia prima. Imo &amp; istam sententiam tota Scriptura 
+      Ca<lb ed="#L" n="42" break="no"/>nonica, &amp; omnes sancti, &amp; doctores videntur profiteri concorditer, &amp; vnanimiter sustineres 
+      <lb ed="#L" n="43"/>Haec igitur que videtur discordia, si per distinctionem de voluntate praemissam capit. 
+      prox<lb ed="#L" n="44" break="no"/>imo, reducatur ad medium, forsitan concordatur: Deus enim nequaquam simpliciter vult 
+      <lb ed="#L" n="45"/>peccatum, sed secundum quid tantummodo, vt est dictum. Deum namque velle simpliciter 
+      ali<lb ed="#L" n="46" break="no"/>quod factum, vt sonat in communi modo loquendi, est diligere illud approbare tanqua bonum 
+      <lb ed="#L" n="47"/>&amp; finaliter premiare, &amp; quia Scriptura &amp; Sancti sic loquuntur, negant Deum velle peccatum. 
+      <lb ed="#L" n="48"/>Vulgus etiam intelligit sic &amp; non aliter, ideoque illud non est dicendum coram eis, quia illud nimis 
+      <lb ed="#L" n="49"/>abhorrent; &amp; bene, secundum intellectum que habent. Tantum enim intelligunt Deum velle 
+      <lb ed="#L" n="50"/>secundum primum membrum distinctionis premissae. Vnde dicit Hugo I. de Sacraa. part. 13. 
+      <lb ed="#L" n="51"/>Cum dicitur, Deus vult bonum, bene sonat, si vero dicitur Deus vult malum, graue est auditui, &amp; 
+      <lb ed="#L" n="52"/>non recipit hoc pia mens de bono, quia vult malum. Videtur enim hoc solum dici cum dicitur, 
+      <lb ed="#L" n="53"/>Deus vult malum, quia bonus malum diligit, &amp; approbat quod prauum est, &amp; amicam sibi reputat 
+      <lb ed="#L" n="54"/>iniquitatem, &amp; gaudet de consimili &amp; bonum putat quod malum est; &amp; ideo // refutat hoc pia 
+      <lb ed="#L" n="55"/>mens, non quia quod dicitur non bene dicitur, sed quia quod bene dicitur, non bene 
+      intelligi<lb ed="#L" n="56" break="no"/>tur. An non etiam dici posset, quod in toto vniuerso non est inordinatio, deformitas aut 
+      pec<lb ed="#L" n="57" break="no"/>catum simpliciter, sed secundum quid tantum? non simpliciter, quia non in respectu causae 
+      <lb ed="#L" n="58"/>primae &amp; summae, omnia positiua &amp; priuatiua, entia &amp; non entia cum summa sapientia, pul¬ 
+      <!--334.xml-->
+      <pb ed="#A" n="301"/>
+               <lb ed="#L" n="1"/>chritudine, &amp; iustitia suauiter disponentis, sicut praemissa decimo tertio huius, 140. &amp; 330. 
+      <lb ed="#L" n="2"/>suaserunt. Nonne &amp; 33. huius ostendit, quod nullus actus est iniustus simpliciter, imo quod 
+      <lb ed="#L" n="3"/>omnis actus est iustus respectu voluntatis diuinae, licet aliquis sit iniustus respectu voluntatis 
+      <lb ed="#L" n="4"/>creatae, a voluntate diuina, squantum ad ipsam attinet licet non possit simpliciter) delirantis: 
+      <lb ed="#L" n="5"/>Docetque vicesimum sextum huius, quod omnis actus secundum substantiam ipsam actus, 
+      <lb ed="#L" n="6"/>non est malus, sed bonus, &amp; factus a Deo, quod &amp; nonum huius confirmat. Quilibet ergo 
+      a<lb ed="#L" n="7" break="no"/>ctus respectu Dei autoris est iustus; quare &amp; omne necessario consequens actum quemcunquee 
+      <lb ed="#L" n="8"/>Si enim antecedens est iustum, &amp; quodlibet ipsum necessario consequens iustum erit, sicut &amp; 
+      <lb ed="#L" n="9"/>verum; Et aliquis talis actus, &amp; aliquod ipsum necessario consequens est peccatum. Videtur 
+      <lb ed="#L" n="10"/>ergo quod non sit aliqua inordinatio, deformitas, aut peccatum simpliciter in toto vniuerso, 
+      <lb ed="#L" n="11"/>sed secundum quid tantummodo, respectu videlicet inferiorum causarum, ordinationem 
+      su<lb ed="#L" n="12" break="no"/>perioris causae volentium, licet non valentium perturbare. Quare &amp; quantum in eis est, 
+      ip<lb ed="#L" n="13" break="no"/>sam violant &amp; perturbant, sicut ex vicesimo sexto, &amp; proximo huius patet. Quapropter &amp; 
+      <lb ed="#L" n="14"/>potest non improbabiliter aestimari, quod Deus saltem secundum quid vult peccatum, licet 
+      <lb ed="#L" n="15"/>non simpliciter, quia non secundum seipsum, sicut tricesimum tertium hoc verbum simpliciter 
+      <lb ed="#L" n="16"/>exponebat. Non enim vult peccatum nisi forsan sicut Medicus in medicaminibus suis? 
+      vene<lb ed="#L" n="17" break="no"/>num, in quantum scilicet valet ad exercitium bonorum, ad punitionem malorum, ad 
+      pulchri<lb ed="#L" n="18" break="no"/>tudinem vniuersi per antiperistasin contemplandam, &amp; ad similia superius recitata. Quare &amp;  
+      <lb ed="#L" n="19"/>Ammonius superius recitatus dicit; quod Dij habent cognitionem omnium, etiam 
+      contin<lb ed="#L" n="20" break="no"/>gentium, velut omnia, quae in mundo producentes, nedum substantias, sed &amp; operationes 
+      ea<lb ed="#L" n="21" break="no"/>rum, eas quae secundum naturam, &amp; eas quae praeter naturam. Et addit: Quod quidem 
+      prae<lb ed="#L" n="22" break="no"/>ter naturam simul intrauit cum necessario ordine subiecto decurrentiae entium, in his quae 
+      na<lb ed="#L" n="23" break="no"/>ta sunt hoc participare, non priacipaliter, sed secundum modum qui dicitur, parypostaseos. 
+      <lb ed="#L" n="24"/>scilicet, secus existentiae. Algazel etiam quinto Metaphysicorum vlt. agens de prouidentia 
+      <lb ed="#L" n="25"/>Dei, &amp; malo, sic ait; Bonum prouisum est per se, malum vero prouisum est accidentaliter. 
+      <lb ed="#L" n="26"/>Vnumquodque igitur ordinatum est, &amp; haec est similiter sententia Auicennae. Nonne &amp; 
+      Scrip<lb ed="#L" n="27" break="no"/>tura &amp; Ecclesiae sic loquitur, saepe dicens; Deum nolle mortem peccatoris aut impij, nec in 
+      ho<lb ed="#L" n="28" break="no"/>minum perditione laetari? An non Dominus ipse dicit; Nunquid voluntatis meae est mors 
+      im<lb ed="#L" n="29" break="no"/>pij? Exe. 18. An non &amp; Sap. 1. sic scribitur; Deus mortem non fecit, nec laetatur in perditione 
+      <lb ed="#L" n="30"/>viuorum; quibus &amp; occurrunt multa similia in Scriptura. Annon &amp; cosimilia Ecclesiae sepe canit? 
+      </p>
+            <p xml:id="dcn2br-e39949-d1e1039">
+               <lb ed="#L" n="31"/>Sed quomodo debent ista sane intelligi? certum est enim quod Dominus damnabit 
+      impi<lb ed="#L" n="32" break="no"/>os, maledictos, &amp; filios perditionis, ad mortem &amp; perditionem aeternam, &amp; hoc volendo non  
+      <lb ed="#L" n="33"/>volutione noua sed aeterna, nec volutione tristi sibi, sed laeta, quinimo summe laeta, sicut 39a. 
+      <lb ed="#L" n="34"/>pars corollarij primi huius, 9. huius, &amp; 23. cum tertia parte corollarij primi huius, 
+      Scrip<lb ed="#L" n="35" break="no"/>tura Canonica, &amp; fides Ecclesiae clare docent. Annon &amp; Scriptura testatur, quod fames &amp; 
+      <lb ed="#L" n="36"/>mors ad vindictam creata sunt, Ecclesiast. 39. Annon &amp; Deuteronom. 28. Moses ita dicit; 
+      <lb ed="#L" n="37"/>Quod si audire nolueris vocem Domini tui, &amp;c. venient super te omnes maledictiones istae, 
+      <lb ed="#L" n="38"/>&amp;c. Et sicut ante laetatus est Dominus super vos, bene vobis faciens, sic laetabitur disperdens 
+      <lb ed="#L" n="39"/>vos atque subuertens. Annon &amp; Sapientia Dei dicit rebellibus; Ego in interritu vestro 
+      ridebo<lb ed="#L" n="40" break="no"/>Parabol. 1. nec mirum: Laetabitur enim Dominus in omnibus operibus suis, Psalm. 103. Et  
+      <lb ed="#L" n="41"/>quomodo ista contrarietas, vt videtur, ad concordiam reducetur, aut nulla esse monstrabitur, 
+      <lb ed="#L" n="42"/>nisi suffragio distinctionis praemissae? Quare &amp; Augustinus 5. contra Iulianum 15. Haec, 
+      in<lb ed="#L" n="43" break="no"/>quit Iuliano, asseueras esse contraria, quasi fieri non possit, vt vnum atque idem malum, &amp;  
+      <lb ed="#L" n="44"/>Diaboli iniquitate, &amp; Dei aequitate peccantibus ingeratur; neque hinc sibi ipsa diuina 
+      aduer<lb ed="#L" n="45" break="no"/>santur eloquia, quia scriptum est; Deus mortem non fecit; itemque scriptum est; Vita &amp;  
+      <lb ed="#L" n="46"/>mors a Domino Deo, quia deceptor hominis causa mortis est Diabolus, quam non vt primus 
+      <lb ed="#L" n="47"/>autor eius, sed vt peccati vltor intulit Deus. Huic quoque modo loquendi de velle, &amp; nolle, 
+      <lb ed="#L" n="48"/>concordant nonnulla Philosophica, &amp; Theologica proximo huius scripta. Secundum 
+      di<lb ed="#L" n="49" break="no"/>stinctionis igitur biuium praelibatae, currunt, vt videtur, nec obuiantiam obiecta. Illud 
+      nem<lb ed="#L" n="50" break="no"/>pe Augustini, Deo autore, non fit homo deterior, videtur posse intelligi modo dicto, 
+      videli<lb ed="#L" n="51" break="no"/>cet Deo autore principaliter, id est, principaliter hoc volente. Et si cuipiam hoc non placet,  
+      <lb ed="#L" n="52"/>dicat mihi quomodo, Deo autore, facit homo omnem actum peccati, secundum substantiam  
+      <lb ed="#L" n="53"/>totam actus, sicut tertium huius, &amp; 4. 26. 27. &amp; sequentia manifestant? &amp; quomodo istud Deo 
+      <lb ed="#L" n="54"/>conueniat, &amp; non illud? &amp; si Deo autore homo haec facit, quomodo Deo autore non fit 
+      ho<lb ed="#L" n="55" break="no"/>mo deterior? &amp; certe per hoc vnum potest ad omnia poene obiecta quod amodo responderi. 
+      <lb ed="#L" n="56"/>Verum est tamem &amp; aliter, &amp; veraciter dici posse, quod videlicet, Deus no est autor peccati, sicut 
+      <lb ed="#L" n="57"/>recte facti; huius enim sic est autor, quod ipse solus supernaturaliter creat, &amp; dat recte facienti 
+      <lb ed="#L" n="58"/>fidem, spem, &amp; charitatem, &amp; forsita alios habitus ad meritum inclinantes, &amp; omne meritum facientes, 
+      <!--335.xml-->
+      <pb ed="#A" n="302"/>
+               <lb ed="#L" n="1"/>non sic autem ex parte peccati. Vt tamen intentio Augustini &amp; aliorum Sanctorum magis 
+      <lb ed="#L" n="2"/>appareat, aduertendus est modus eorum loquendi &amp; intelligendi, cum negant Deum velle 
+      <lb ed="#L" n="3"/>peccatum, &amp; causa negationis huius est pensanda. Causa autem huius negationis videtur ista, 
+      <lb ed="#L" n="4"/>quia Apostolus, &amp; Augustinus, ac alij Sancti posuerunt praedestinationem, praescientiam, &amp; 
+      <lb ed="#L" n="5"/>similia exparte Dei, voluerunt Pelagiani, &amp; alij haeretici excusare. peccantes a suis peccatis, 
+      <lb ed="#L" n="6"/>&amp; retorquere causam &amp; culpam in Deum, qui sic praedestinauit vel praesciuit, Volunt igitur 
+      <lb ed="#L" n="7"/>Sancti dicere, quod Deus per suam praedestinationem, praescientiam vel aliquid 
+      huius<lb ed="#L" n="8" break="no"/>modi non cogit eos contra voluntatem suam ad peccandum; sed quod ipsi peccant libere &amp; 
+      <lb ed="#L" n="9"/>propria voluntate; &amp; quod Deus praedestinando, praesciendo, seu volendo peccata non 
+      pec<lb ed="#L" n="10" break="no"/>cat, nec facit iniuste, nec est prima causa imputabilis, seu culpabilis peccatorum, sed quod 
+      <lb ed="#L" n="11"/>prima causa imputabilis &amp; culpabilis est propria voluntas peccantis. Vnde Anselmus de 
+      <lb ed="#L" n="12"/>Concordia 5. dicit; Conqueruntur multi quia putant ad salutem vel ad damnationem nihil 
+      <lb ed="#L" n="13"/>valere liberum arbitrium, sed solam necessitatem propter Dei praescientiam. Et infra 7. Qui¬ B 
+      <lb ed="#L" n="14"/>dam clamant, dicentes, Sic praescitum &amp; praedestinatum erat a Deo, &amp; ideo necessitate factum 
+      <lb ed="#L" n="15"/>est, nec aliter fieri potuit, quos &amp; redarguit consequenter. Et infra vlt. dicit, quod solam cuspa 
+      <lb ed="#L" n="16"/>hominis mala fiunt, quae operatur, non culpa Dei. Quare &amp; Augustinus 3. de libero arbitrio 
+      a<lb ed="#L" n="17" break="no"/>&amp; in sententijs Prosperi 38I. Deus, inquit, neminem ad peccandum cogens, praeuidet 
+      ta<lb ed="#L" n="18" break="no"/>men eos qui propria voluntate peccabunt. Cur ergo non iudicet iustus, quae fieri non cogit 
+      <lb ed="#L" n="19"/>praescius? Sicut enim memoria tuam non cogis facta esse, quae praeteriere; sic Deus 
+      praescien<lb ed="#L" n="20" break="no"/>tia sua non cogit facienda quae futura sunt. Et sicut tu quaedam, quae fecisti, meministi, nec 
+      ta<lb ed="#L" n="21" break="no"/>men quae meministi omnia fecisti: Ita Deus omnia quorum autor est, praescit, nec tamen 
+      om<lb ed="#L" n="22" break="no"/>nium, quae praescit, ipse autor est: quorum autem non est malus autor, iustus est vltor. Ecce 
+      <lb ed="#L" n="23"/>quod negat Deum praescium peccatorum cogere ad peccandum; &amp; quod prius dixit simpliciter, 
+      <lb ed="#L" n="24"/>quod Deus non omnium, quae praescit, quia non malorum est autor, statim determinat &amp; 
+      ex<lb ed="#L" n="25" break="no"/>ponit, Quorum, inquiens, non est malus autor; &amp; subdit, Iustus est vltor: sicque Deum a 
+      <lb ed="#L" n="26"/>peccato excusat, &amp; peccatorem accusat. Item Apostolus ad Rom. 9. tractans de 
+      praedesti<lb ed="#L" n="27" break="no"/>natione Iacob, &amp; reprobatione Esau, non ex operibus, sed secundum electionem Dei 
+      vocan<lb ed="#L" n="28" break="no"/>tis; Quid ergo dicemus, nunquid iniquitas apud Deum? Absit; Et supra, 3. Quid siquide 
+      <lb ed="#L" n="29"/>illorum non crediderunt, nunquid incredulitas illorum fidem Dei euacuabit? Est autem Deus 
+      <lb ed="#L" n="30"/>verax, omnis autem homo mendax, sicut scriptum est, vt iustificeris in sermonibus tuis, &amp; 
+      <lb ed="#L" n="31"/>vincas cum iudicaris. Si autem iniquitas nostra iustitiam Dei commendat, quid dicemus? 
+      <lb ed="#L" n="32"/>nunquid iniquus est Deus, qui infert iram? Absit: Si enim veritas Dei in meo mendacio 
+      abun<lb ed="#L" n="33" break="no"/>dauit in gloriam ipsius, quid adhuc &amp; ego tanquam peccator, iudicor? Vbi remouet a Deo 
+      <lb ed="#L" n="34"/>iniquitatem, infidelitatem &amp; iniustitiam; vbi Glossa recitat quosdam carnaliter sapientes, 
+      <lb ed="#L" n="35"/>qui ex illo dicto prophetico, Peccaui, vt iustificeris in sermonibus tuis, &amp; vincas cum iudicaris, 
+      <lb ed="#L" n="36"/>arguebat, quod Deus voluit nos peccare, vt comparatione nostri, iustus appareret, &amp; dum 
+      di<lb ed="#L" n="37" break="no"/>mitteret nobis peccata, misericors; &amp; quod peccata nostra illi proficiunt atque prosunt; &amp; 
+      <lb ed="#L" n="38"/>quanto amplius peccamus, tanto magis ei placet, &amp; amplius iustitia &amp; sanctitas eius crescit, 
+      <lb ed="#L" n="39"/>Vbi &amp; dicit Ambrosius sicut recitat ibi Glossa, Manifestum est, quod si ad gloriam Dei 
+      pro<lb ed="#L" n="40" break="no"/>ficit mendacium hominum, vt ille solus verus appareat, peccatores non sunt dicendi, qui 
+      pec<lb ed="#L" n="41" break="no"/>cant, quia non voluntate, sed impulsu eius videbuntur peccare, quod absit; &amp; est sensus, Si 
+      <lb ed="#L" n="42"/>Deus meo mendacio, id est peccato, verax appareat, quare me iudicat tanquam peccatorem? 
+      <lb ed="#L" n="43"/>Item Augustinus Enchirid. 78. Cum, inquit, respondisset Apostolus, Absit, id est, Absit vt 
+      <lb ed="#L" n="44"/>sit iniquitas apud Deum; mox vt probaret, nulla hoc Dei iniquitate fieri dicit: Mosi enim 
+      <lb ed="#L" n="45"/>ait, Miserebor cui misertus ero, &amp; misericordiam praestabo cui misericors fuero. Idem de 
+      prae<lb ed="#L" n="46" break="no"/>destinatione contra Pelagianos 9. sic ait, Qui absque praedestinationis gratia sunt, id est, 
+      ali<lb ed="#L" n="47" break="no"/>eni a proposito Dei, &amp; perdurant in operibus malis; si etiam ex hac migrauerint vita, vt vos 
+      <lb ed="#L" n="48"/>putatis, non eos dicimus ita a Deo hominum opifice ordinatos, vt perirent, tanquam ipse 
+      il<lb ed="#L" n="49" break="no"/>lis mores malae vitae creauerit, ipse ad omne opus mortis inuitos praecipitauerit. Absit hoc ap 
+      <lb ed="#L" n="50"/>diuino proposito: Non enim volens iniquitatem est Deus, nec mandauit cuipiam impie 
+      age<lb ed="#L" n="51" break="no"/>re. Ecce intellectus &amp; glossa autoritatum talium in scriptura. Et infra vlt. Quoniam hicilliquide 
+      <lb ed="#L" n="52"/>vtraque pars dicere nihil valemus, credamus tantum reum mortis ex Iudicis voluntate pendere, 
+      <lb ed="#L" n="53"/>ne quisqua putaret, diuino vitio fieri, non omnes saluari, dixit Apost. Qui vult omnes saluos 
+      <lb ed="#L" n="54"/>fieri. Quapropter omnes homines qui saluantur, Deo volente saluantur: Deus enim noster, 
+      <lb ed="#L" n="55"/>Deus saluos faciendi, &amp; Domini, exitus mortis, &amp; quia ira in furore eius, &amp; vita in 
+      volun<lb ed="#L" n="56" break="no"/>tate eius. Et de praedestinatione Sanctorum 12. Praedestinatione quippe Deus ea 
+      praesci<lb ed="#L" n="57" break="no"/>uit, quae fuerat ipse facturus. Praescit autem quae non facit, sicut quaecunque peccata, quia 
+      <lb ed="#L" n="58"/>etsi sint quaedam, quae peccata sunt &amp; poenae peccatorum, vnde dictum est, Tradidit illos 
+      <!--336.xml-->
+      <pb ed="#A" n="303"/>
+               <lb ed="#L" n="1"/>Deus in reprobam mentem vt faciant, quae non conueniunt, non ibi peccatum Dei est, sed 
+      <lb ed="#L" n="2"/>iudicium. Et 5. contra Iulianum 5. loquens de Achab decepta per falsos prophetas, sic dicit, 
+      <lb ed="#L" n="3"/>Rex ipse peccauit, falsis credendo prophetis: At haec ipsa ilerat &amp; poena peccati, Deo 
+      iudi<lb ed="#L" n="4" break="no"/>cante &amp; mittente Angelum malum, vt apertius intelligeremus, quomodo in Psalmo dictus sit 
+      <lb ed="#L" n="5"/>misisse iram indignationis suae per Angelos malos. Sed nunquid errando? nun quid iniuste 
+      <lb ed="#L" n="6"/>quicquam, vel temere iudicando, siue faciendo? Absit: Sed non frustra illud dictum est, 
+      Iu<lb ed="#L" n="7" break="no"/>dicia tua, sicut multa abyssus, &amp; o altitudo diuitiarum sapientiae &amp; scientiae Dei &amp;c. Idem 1. 
+      <lb ed="#L" n="8"/>Retract. 21. dicit, Dixi, nullius mortem Deus quaerit, quod sic accipiendum est, quia homo 
+      ac<lb ed="#L" n="9" break="no"/>quisiuit sibi mortem, deserens Deum, vel non recurrens ad Deum secundum quod scriptum 
+      <lb ed="#L" n="10"/>est, Deus mortem non fecit. Ecce, secundum quid, id est, non secundum illud, seu illum 
+      mo<lb ed="#L" n="11" break="no"/>dum qui peccatum importat, est mors a Deo, secundum // quid, vel // quod est ab homine; &amp;  
+      <lb ed="#L" n="12"/>addit, Sed etiam illud non minus verum est vita &amp; mors a Domino Deo est. Et infra 26. Ne 
+      <lb ed="#L" n="13"/>male intelligatur quod dixi, Deus mali autor non est, quia omnium quae sunt, autor est, quia 
+      <lb ed="#L" n="14"/>in quantum sunt omnia, in tantum bona sunt, &amp; ne hinc putetur non ab illo esse poenam 
+      ma<lb ed="#L" n="15" break="no"/>lorum, quae vtique malum est his qui puniuntur; sed hoc ita dixi, quemadmodum dictum est,  
+      <lb ed="#L" n="16"/>Deus mortem non fecit, cum alibi scriptum sit, Mors &amp; vita a Domino Deo est. Malum est 
+      qui<lb ed="#L" n="17" break="no"/>dem malum, sed in bonis operibus Dei, quoniam iustum est, vt mali puniantur; &amp; vtique 
+      bo<lb ed="#L" n="18" break="no"/>num est omne quod iustum est. Item Greg 25. Moral. 15. super illud Iob 34. Regnare facit 
+      hy<lb ed="#L" n="19" break="no"/>pocritam, &amp;c. quod ergo tunc Antichristus super impios regnabit, non est ex iniustitia 
+      iudi<lb ed="#L" n="20" break="no"/>cantis, sed ex culpa patientis. Et infra, Qui malum rectorem patitur, culpam proprij magis 
+      ac<lb ed="#L" n="21" break="no"/>cuset operis, quam iniustitiam gubernantis. Lumbardus quoque tales autoritates intelligit 
+      mo<lb ed="#L" n="22" break="no"/>do dicto, pro quo I. sent. dist. 38. adducit Augustinum super Iohannem dicentem, Deus futu 
+      <lb ed="#L" n="23"/>rorum praescius per Prophetam praedixit infidelitatem Iudaeorum, sed non fecit: Non enim ideo 
+      <lb ed="#L" n="24"/>quenquam ad peccandum cogit, quia futura hominum peccata praenouit; Illorum enim 
+      pec<lb ed="#L" n="25" break="no"/>cata praesciuit, non sua. Idemque de gratia, &amp; libero arbit. 3. contra excusantes peccantes, &amp; 
+      ac<lb ed="#L" n="26" break="no"/>cusantes Deum, sic dicit; Sunt homines, qui etiam de ipso Deo se excusare conantur, quibus 
+      <lb ed="#L" n="27"/>dicit Iacobus Apostolus, Nemo, cum tentatur, dicat, quoniam a Deo tentatur; Deus enim 
+      in<lb ed="#L" n="28" break="no"/>tentator malorum est. Item de ipsis se excusare volentibus respondet liber Prouerb. Salomo 
+      <lb ed="#L" n="29"/>nis, Insipientia viri violat viam eius. Deum autem causatur in corde suo: Et liber Ecclesiastici 
+      <lb ed="#L" n="30"/>dicit, Ne dixeris, quia propter Deum recessi; ne dixeris, quia ipse me induxit. Et infra5 
+      Ne<lb ed="#L" n="31" break="no"/>mo causetur Deum in corde suo, sed sibi imputet quisque cum peccat, neque cum aliquid saeuum 
+      <lb ed="#L" n="32"/>operatur, alienet hoc a propria voluntate. Et si quis arguat, quod eadem ratione esset dicendum, 
+      <lb ed="#L" n="33"/>quod Deus non vult, nec facit merita nostra bona, quia neminem cogit inuite mereri; 
+      Dicen<lb ed="#L" n="34" break="no"/>dum quod merita aliter tribuuntur Deo quam peccata, scilicet propter habitus a solo Deo 
+      <lb ed="#L" n="35"/>creatos, &amp; nobis infusos ad merita excitantes, &amp; merita omnia facientes; &amp; quia Deus in 
+      me<lb ed="#L" n="36" break="no"/>rito cuiuscunque est ra causa imputabilis &amp; laudabilis, propter illud &amp; meritum diligit &amp; 
+      appro<lb ed="#L" n="37" break="no"/>bat, &amp; praemium ei parat; non sic ex parte peccati. Vnde Ansel. de concordia 6. Facit, inquit,  
+      <lb ed="#L" n="38"/>Deus in omnibus volutatibus, &amp; operibus bonis, &amp; quod essentialiter sunt, &amp; quod bona sunt; 
+      <lb ed="#L" n="39"/>In malis vero non quod mala sunt, sed tantum quod per essentiam sunt. Quomodo autem Deus 
+      <lb ed="#L" n="40"/>bona faciat sola sua bonitate, &amp; mala solam culpa hominis, vel diaboli; &amp; qualiter homo bona 
+      <lb ed="#L" n="41"/>faciat, per liberum arbitrium praestante gratia &amp; malum sola sua operante propria voluntate; 
+      <lb ed="#L" n="42"/>&amp; quid habeat Deus in malis sine culpa sua, &amp; homo in bonis cum Iaude sua, vt tamen bona 
+      <lb ed="#L" n="43"/>hominis videantur aperte imputanda Deo, &amp; mala homini, cum de gratia &amp; libero arbitrio 
+      <lb ed="#L" n="44"/>tractabimus, vt puto, Deo donante apertius patebit. Similiter intelligendum est quod dicit 
+      <lb ed="#L" n="45"/>Scriptura Sacra &amp; Doctores saepissime, scilicet poenam esse a Deo, non culpam: Poena 
+      e<lb ed="#L" n="46" break="no"/>nim est a Deo tantum sine homine coagente, non sic culpa; &amp; poena similiter est a Deo 
+      pu<lb ed="#L" n="47" break="no"/>niente, imo prima &amp; principali causa puniente; sed culpa vel peccatum non sic est a Deo, 
+      <lb ed="#L" n="48"/>tanquam a prima causa culpabili vel peccante. Et si adhuc dicatur quod semper male sapit 
+      <lb ed="#L" n="49"/>multis dicere, Deum qualitercunque velle peccatum, pro certo verum est, &amp; hoc forsan 
+      <lb ed="#L" n="50"/>secundum Hugonem vbi prius, non quia quod dicitur, non bene dicitur, sed quia quod 
+      <lb ed="#L" n="51"/>bene dicitur, non bene intelligitur. Vtinam igitur acciperent sal sapientiae saperent &amp; 
+      in<lb ed="#L" n="52" break="no"/>telligerent sapidam sano gustui veritatem, scirentque nullum esse malum in mundo, quod 
+      <lb ed="#L" n="53"/>non est propter aliquod magnum bonum, &amp; forsitan propter aliquod maius bonum. Cur 
+      <lb ed="#L" n="54"/>ergo subtraheretur a mundo &amp; a Deo totius mundi autore, iste modus benefaciendi, seu 
+      <lb ed="#L" n="55"/>benefactionis mirus &amp; magnus; Imo miraculosius videtur, &amp; maius facere bona ex 
+      ma<lb ed="#L" n="56" break="no"/>lis, quam ex bonis, aut facere bona sola. Et proculdubio ita male sapit multis, si dicatur 
+      <lb ed="#L" n="57"/>Deum velle &amp; facere actum incestus patris cum filia, filij cum matre, professi 
+      continen<lb ed="#L" n="58" break="no"/>tiam cum professa, parricidij, seditionis, blasphemiae, &amp; caeterorum similium; &amp; tamen 
+      <!--337.xml-->
+      <pb ed="#A" n="304"/>
+               <lb ed="#L" n="1"/>tam Sancti, quam Philosophi ita dicunt, sicut praehabita manifestant: Quis enim in tali A 
+      <lb ed="#L" n="2"/>incaestu praeparat semen &amp; mouet, creat &amp; infundit animam faetui, nisi Deus? Et 
+      quomo<lb ed="#L" n="3" break="no"/>docunque sonet, sic loquuntur Sancti Dei, imo Spiritus Dei qui loquitur in eis, sicut erat 
+      <lb ed="#L" n="4"/>superius recitatum. Et Esaiae 26. Domine, omnia opera nostra operatus es in nobis; Et 
+      in<lb ed="#L" n="5" break="no"/>fra 43. Ego Dominus formans lucem &amp; creans tenebras, faciens pacem &amp; // creans malum, 
+      <lb ed="#L" n="6"/>Et Amos 3. Si erit malum in Ciuitate quod Dominus non fecit? Dicitque Apostolus 2. ad  
+      <lb ed="#L" n="7"/>Corinth. 5. quod Christum pro nobis peccatum fecit Deus, quod non paucorum simplicium 
+      <lb ed="#L" n="8"/>auribus secundum superficiem literae iudicantium multum horribilius insonaret; Ideoque 
+      Iu<lb ed="#L" n="9" break="no"/>dex noster iustissimus sic prohibuit, &amp; aliter docuit iudicare, Nolite inquit, iudicare 
+      secun<lb ed="#L" n="10" break="no"/>dum faciem, sed iustum iudicium iudicate Ioh. 7. Per haec patet ad obiecta, quae arguunt de 
+      <lb ed="#L" n="11"/>autorizatione peccatoris a Deo, &amp; quomodo Deus non sit prima causa peccati, quia non est 
+      <lb ed="#L" n="12"/>prima causa imputabilis ad culpam, &amp; de tali loquitur ibi plane autoritas Augustini, &amp; 
+      sumi<lb ed="#L" n="13" break="no"/>tur fortassis modus ille loquendi ex illo Psalmi 31. Beatus vir, cui non imputauit Dominus B 
+      <lb ed="#L" n="14"/>peccatum. Ad aliud quod arguit, quod Deus facit peccatum, redarguendum similiter de 
+      ac<lb ed="#L" n="15" break="no"/>tu reali peccati: Respondendum tamen per distinctionem penes secundum modum 
+      amphi<lb ed="#L" n="16" break="no"/>boliae. Potest enim illa sumi proprie vel transmutiue, &amp; secundum vsualem modum 
+      loquen<lb ed="#L" n="17" break="no"/>di, &amp; sicut dicit Philosophus I. Elench. quando soliti sumus sic dicere. Primo modo non est 
+      <lb ed="#L" n="18"/>vera, quia peccatum proprie nihil est nec esse potest per 26. huius; quare nec est factibile 
+      a<lb ed="#L" n="19" break="no"/>quocunque; Quapropter &amp; sicut idem 26. recitat ab Augustino, Peccatum sic non habet 
+      a<lb ed="#L" n="20" break="no"/>liquam causam efficientem, sed tantum deficientem. Transumptiue potest adhuc intelligi 
+      <lb ed="#L" n="21"/>dupliciter; Primo, sicut est vsitabilior modus loquendi, secundum quod dicimus, quod facere 
+      <lb ed="#L" n="22"/>peccatum est peccare, &amp; qui facit peccatum peccat; &amp; sic loquitur Euangilista, &amp; sic Deus non  
+      <lb ed="#L" n="23"/>facit peccatum; Secundo quod Deus facit alique actum positiuum in creatura rationali, ex quo 
+      <lb ed="#L" n="24"/>consequitur, vel cum quo coniungitur peccatum illius creaturae, non Dei, &amp; sic Deus facit 
+      pec<lb ed="#L" n="25" break="no"/>catum: Ipse enim omnia opera nostra facit, sicut superius est ostensum. Ad aliud Aug. de 
+      con<lb ed="#L" n="26" break="no"/>fut haeret, respondetur similiter instantiue per actum positiuum peccati, alia tamen responsio 
+      <lb ed="#L" n="27"/>patet ex processu ibi &amp; alibi, sicut iam fuerat allegatum: Cum enim dicit peccatum non esse a 
+      <lb ed="#L" n="28"/>Deo &amp; similia, intelligit modo dicto, scilicet quod peccatum non est Deo cogente, seu 
+      impel<lb ed="#L" n="29" break="no"/>lente quenquam inuite, &amp; ita quod reddat hominem excusatum, &amp; Deum accusatum. Vnde 
+      <lb ed="#L" n="30"/>responsione 16. ita dicit, Non perseueraturi, cum a pietate deficiunt, non ex Dei opere, sed ex 
+      <lb ed="#L" n="31"/>sua voluntate deficiunt. Ecce non ex Dei opere, secundum quod voluntatem eorum excludat,  
+      <lb ed="#L" n="32"/>aut ei contrarietur, sed aduersatiue, &amp; contrarie ex sua voluntate deficiunt. Et sequitur, 
+      <lb ed="#L" n="33"/>Nec impelluntur vt cadant, nec eijciuntur vt deserant. Ecce per hoc negat coactionem 
+      <lb ed="#L" n="34"/>aut violentiam a Deo inferri talibus ad peccandum. Item supra, ponitur haec obiectio 
+      <lb ed="#L" n="35"/>vndecima contra eum, quod quando incestant patres filias, &amp; filij matres, ideo fiat, quia 
+      <lb ed="#L" n="36"/>Deus ita praedestinauit vt fieret. Respondet Augustinus, Si Diabolo obijceretur, quod 
+      <lb ed="#L" n="37"/>talium facinorum ipse autor, ipse esset incentor, puto quod aliqua ratione exonerare se D 
+      <lb ed="#L" n="38"/>hac posset inuidia, &amp; alium scelerum patratorem, de ipsorum voluntate vinceret, quia 
+      <lb ed="#L" n="39"/>&amp; si delectatus est furore peccantium, probaret tamen se non intulisse vim criminum. Qua 
+      <lb ed="#L" n="40"/>ergo insipientia, quauc dementia definitur ad Dei esse referendum consilium, quod nec 
+      Di<lb ed="#L" n="41" break="no"/>abolo intotum ascribi potest? Ecce quod ad intellectum Augustini, Diabolus etiam non 
+      <lb ed="#L" n="42"/>est autor peccati humani, ita quod homo per illum se posset totaliter excusare, quia non 
+      <lb ed="#L" n="43"/>infert vim criminum, nec peccatum Diabolo potest ascribi in totum, quia homo 
+      consen<lb ed="#L" n="44" break="no"/>tit, &amp; cooperatur libere &amp; propria voluntate. Aliud quod quilibet posset licite gaudere,  
+      <lb ed="#L" n="45"/>procedit similiter de essentia actus mali, &amp; nihilominus non procedit. Ponatur enim 
+      <lb ed="#L" n="46"/>quod Deus velit te tristari &amp; non gaudere, &amp; facias hoc scienter, ergo debes de hoc  
+      <lb ed="#L" n="47"/>gaudere; quomodo sequitur? Et sicut forsan bonus filius &amp; gratus non debet gaudere 
+      <lb ed="#L" n="48"/>de morte patris sui temporali vel aeterna, quamuis sciat illam sibi a si Deo infligi, sicut 
+      <lb ed="#L" n="49"/>nec forte beata Maria, neque Discipuli de occisione Christi gaudebant, sed magis 
+      dole<lb ed="#L" n="50" break="no"/>bant, sicuti &amp; caeteri Christiani deuoti, scientes nihilominus nihil circa Christum 
+      casua<lb ed="#L" n="51" break="no"/>liter aut fortuitu contigisse, sed totum ex voluntate diuina &amp; prouidentia disponente. Et  
+      <lb ed="#L" n="52"/>si adhuc forsitan replices, Si Deus vult peccatum, debes tu aut potes similiter licite 
+      il<lb ed="#L" n="53" break="no"/>lud velle, quare &amp; similiter gaudere de illo, dicente Scriptura, Desiderium si compleatur, 
+      <lb ed="#L" n="54"/>delectat animam, Parabol. 13. Potest secundum Anselmi, Augustini, &amp; aliorum Patrum 
+      <lb ed="#L" n="55"/>sententiam responderi, quod rectitudo voluntatis non semper est quenquam velle quod 
+      <lb ed="#L" n="56"/>Deus vult, sed quod Deus vult eum velle cum circumstantijs requisitis, quapropter &amp; 
+      si<lb ed="#L" n="57" break="no"/>militer de gaudere. Vel forsitan posset dici, quod peccatum in quantum est poena, &amp; a Deo, 
+      <lb ed="#L" n="58"/>est illius tamen quodam modo, sicut ex praemissis hic &amp; tricessimo secundo huius apparet. 
+      <!--338.xml-->
+      <pb ed="#A" n="305"/>
+               <lb ed="#L" n="1"/>&amp; sic forsan potest homo gaudere de illo, non autem in quantum est peccatum liberae 
+      volun<lb ed="#L" n="2" break="no"/>tatis. Pro quo dicit Gregorius, vicesimo secundo, Moral. 10. super illud Iob tricesimo 
+      pri<lb ed="#L" n="3" break="no"/>mo, Si gauisus sum ad ruimam eius qui me oderat; Cum peruersum quenquam omnipotens 
+      <lb ed="#L" n="4"/>Deus percurit, condolendum est miseriae pereuntis, &amp; congaudendum iustitiae Iudicis. Illud 
+      <lb ed="#L" n="5"/>autem Anselmi, quod rectitudo voluntatis est quenquam velle, sicut Deus vult eum velle, 
+      <lb ed="#L" n="6"/>procedit similiter de ipsa substantia actus mali. Constat quoque quod illa definitio secundum 
+      <lb ed="#L" n="7"/>illa verba praecise non est conuertibilis cum rectitudine voluntatis, illa, inquam, rectitudine, 
+      <lb ed="#L" n="8"/>quae reddit volentes rectos corde, &amp; iustos moraliter: Sic enim equus, pueri, moriones, &amp; 
+      si<lb ed="#L" n="9" break="no"/>miles, quodcunque volentes, essent moraliter recti corde &amp; iusti, sicut ex nono huius, 27. &amp; 
+      <lb ed="#L" n="10"/>sequentibus plane constat. Neque si Deus velit quippiam fieri per Iohannem, &amp; ipse 
+      volun<lb ed="#L" n="11" break="no"/>tatiem, sed ignoranter, &amp; non intendenter hoc facit, ignorando videlicet, quod Deus hoc velit 
+      <lb ed="#L" n="12"/>fieri per eum, neque habendo intentionem directam ad Deum, sed praeter eum vel contra, 
+      si<lb ed="#L" n="13" break="no"/>cut frequenter contingit, sicuti 32. huius praemissa testantur, dicendus est velle recte 
+      morali<lb ed="#L" n="14" break="no"/>ter neque iuste, sicut Philosophis moralibus, &amp; Theologis satis constat: Quis enim nesciat 
+      <lb ed="#L" n="15"/>opera exintentione operantium iudicanda, sicut tota secta Stoicorum concorditer attestatur. 
+      <lb ed="#L" n="16"/>Philosophus etiam septimo Politicorum 15. Duo, inquit, sunt in quibus sit bene omnibus; 
+      v<lb ed="#L" n="17" break="no"/>num quidem in eo quod est intentionem &amp; finem actionum poni recte; vnum quidem 
+      inue<lb ed="#L" n="18" break="no"/>nire actiones ferentes ad finem. Et sexto Ethicorum 10. Opus perficitur de secundum 
+      pruden<lb ed="#L" n="19" break="no"/>tiam, &amp; secundum moralem virtutem: Virtus quidem enim intentionem facit rectam, 
+      pru<lb ed="#L" n="20" break="no"/>dentia autem quoad hanc. Et infra; Iusta dicimus operantes quosdam nequaquam iustos 
+      <lb ed="#L" n="21"/>esse, puta a legibus ordinata facientes, vel nolentes, vel propter ignorantiam, vel propter 
+      <lb ed="#L" n="22"/>alterum quid, &amp; non propter ipsa, quamuis operantur quidem quae oportet, &amp; quaecunque 
+      <lb ed="#L" n="23"/>oportet studiosum, sed vt sic videtur, &amp; qualiter habentem operari singula, velut sit bonus, 
+      <lb ed="#L" n="24"/>Dico autem puta propter electionem, &amp; ipsorum // gratiam operatorum. Qui &amp; secundo 
+      E<lb ed="#L" n="25" break="no"/>thicorum, quarto, ponit conuenientia artis &amp; virtutis in isto, quod ad hoc, quod aliquis sit 
+      ar<lb ed="#L" n="26" break="no"/>tifex, puta Grammaticus, non sufficit quod faciat opus artis, puta opus grammaticum, sed 
+      <lb ed="#L" n="27"/>&amp; requiritur, quod faciat illud artificialiter, puta grammatice secundum grammaticam 
+      scili<lb ed="#L" n="28" break="no"/>cet existentem in eo: Dicit enim; Contingit grammaticum quidem facere &amp; a casu, &amp; alio 
+      <lb ed="#L" n="29"/>supposito. Tunc igitur grammaticus, si grammaticum quidem faciat, &amp; grammatice, hoc 
+      <lb ed="#L" n="30"/>autem est secundum eam, quae in ipso est, grammaticam, innuens quod contingit similiter in 
+      <lb ed="#L" n="31"/>virtute. Vbi &amp; statim ponit differentiam artis &amp; virtutis sic dicens; Adhuc neque simile est in 
+      <lb ed="#L" n="32"/>artibus &amp; virtutibus. Quae enim ab artibus fiunt, bene habent in eis, sufficit igitur haec 
+      quali<lb ed="#L" n="33" break="no"/>ter habentia fieri: quae autem secundum virtutes fiunt, neque si haec oualiter habeant, iuste vel 
+      <lb ed="#L" n="34"/>temperate operata sunt, sed &amp; si operans qualiter habens operetur: Primum quidem si sciens, 
+      <lb ed="#L" n="35"/>deinde si eligens, &amp; eligens propter hoc. Quis insuper nesciat operationes morales 
+      nequa<lb ed="#L" n="36" break="no"/>quam ex sola substantia operis, sed multo per amplius ex circumstantijs discernendas; 
+      qua<lb ed="#L" n="37" break="no"/>rum vna est, nec minima, qua intentione, cuius finis obtentu, cuius finaliter gratia opus fiat. 
+      <lb ed="#L" n="38"/>Quare &amp; Philosophus tertio Ethicorum. 3. septem circumstantias morales enumerat, quis, 
+      <lb ed="#L" n="39"/>quid, circa quid, &amp; in quo, quo, cuius gratia, &amp; qualiter. Istam quoque sententiam plane 
+      <lb ed="#L" n="40"/>monstrant multae autoritates Catholicae recensitae in ostensione 32. partis corollarij primi 
+      hu<lb ed="#L" n="41" break="no"/>ius; imo &amp; totius fidei Catholicae summus Autor, sub Metaphora oculi simplicis atque 
+      ne<lb ed="#L" n="42" break="no"/>quam: Hanc enim quis vspiam dubitat ad intentionem interioris oculi referendam. 
+      Qua<lb ed="#L" n="43" break="no"/>propter &amp; ipsemet Anselmus qui de veritate 12. docet, quod veritas, rectitudo &amp; iustitia sunt 
+      <lb ed="#L" n="44"/>idem realiter, imo &amp; quod inuicem sese definiunt, De libero arbitrio 3. &amp; 8. &amp; de concordia, 
+      <lb ed="#L" n="45"/>3. &amp; 8. definit iustitiam esse rectitudinem voluntatis propter se seruatam, videlicet propter 
+      ip<lb ed="#L" n="46" break="no"/>sam rectitudinem siue iustitiam, quod fieri nusquam potest nisi per intentionem directam 
+      fina<lb ed="#L" n="47" break="no"/>liter ad rectitudinem seu iustitiam propter ipsam. Quare &amp; de concord. 8. sic ait: Sed ne quis 
+      e<lb ed="#L" n="48" break="no"/>xistimet autoritate diuina dici iustum illum vel rectum, qui non nisi propter aliud tenet 
+      recti<lb ed="#L" n="49" break="no"/>E tudinem voluntatis, Dicimus iustitiam esse rectitudinem voluntatis propter se seruatam: Qui  
+      <lb ed="#L" n="50"/>enim solum propter aliud illam seruat, non eam diligit, sed illud propter quod illam seruat, &amp;  
+      <lb ed="#L" n="51"/>ideo non est dicendus iustus, nec talis rectitudo nominanda est iustitia. Idem &amp; de veritate I2. 
+      <lb ed="#L" n="52"/>praemisso, quod quicquid debet esse recte &amp; iuste est, nec aliquid recte &amp; iuste est nisi quod 
+      <lb ed="#L" n="53"/>debet esse; quaerit, an lapis descendens debeat dici iustus, quia facit quod debet? &amp; 
+      respon<lb ed="#L" n="54" break="no"/>det quod non, quia non vult quod facit. An etiam equus volens pascere, valeat dici 
+      iu<lb ed="#L" n="55" break="no"/>stus quia volens facit quod debet? &amp; respondet, quod non, quia iustitiam seu rectitudinem 
+      <lb ed="#L" n="56"/>non agnoscit. An insuper quicunque homo volens quod debet, recte velit &amp; habeat 
+      rectitu<lb ed="#L" n="57" break="no"/>dinem voluntatis? &amp; respondet quod non, quia potest hoc facere nesciens, vt si quis vult claudere 
+      <lb ed="#L" n="58"/>ostium contra illum, qui, ipso nesciente, vult alium in domo occidere. Amplius autem an ille qui  
+      <!--339.xml-->
+      <pb ed="#A" n="306"/>
+               <lb ed="#L" n="1"/>scit se debere velle quod vult, semper recte velit, &amp; habeat rectitudinem voluntatis? &amp; 
+      res<lb ed="#L" n="2" break="no"/>pondet quod non, quia potest contingere vt intelligens velit quod debet, &amp; nolit se debere, 
+      <lb ed="#L" n="3"/>sicut cum latro cogitur ablatam pecuniam reddere. Adhuc autem, An omnis qui scit &amp; vult 
+      <lb ed="#L" n="4"/>se debere velle quod vult, habeat rectitudinem voluntatis, &amp; respondet quod non, sicut est de 
+      <lb ed="#L" n="5"/>illo qui cibat pauperem esurientem, propter inanem gloriam consequendam. Et addit, 
+      Om<lb ed="#L" n="6" break="no"/>nis voluntas sicut vult aliquid, ita vult propter aliquid; Nam quemadmodum considerandum 
+      <lb ed="#L" n="7"/>est quid velit, sic videndum est cur velit; quippe non magis recta debet esse volendo quod 
+      <lb ed="#L" n="8"/>debet, quam volendo propter quod debet. Quapropter omnis voluntas habet &amp; cur, &amp;  
+      <lb ed="#L" n="9"/>quid. Omnino namque nihil volumus, nisi sit cur volumus; Iustus autem cum vult quod 
+      <lb ed="#L" n="10"/>debet, seruat voluntatis rectitudinem, non propter aliud, in quantum iustus dicendus est,  
+      <lb ed="#L" n="11"/>quam propter ipsam rectitudinem. Ex his igitur omnibus clare patet, non omnem 
+      volen<lb ed="#L" n="12" break="no"/>tem, sicut Deus vult eum velle, ideo semper necessario simpliciter recte velle, nisi scienter, 
+      <lb ed="#L" n="13"/>scientia saltem in moralibus requisita, &amp; intendenter hoc velit, vt scilicet credat Deum sic 
+      <lb ed="#L" n="14"/>velle, &amp; ideo finaliter, secundum intentionem &amp; propositum suum sic velit, vt diuinam non  
+      <lb ed="#L" n="15"/>suam perficiat voluntatem. Posset autem qui vellet, multo breuius exponere sic 
+      Ansel<lb ed="#L" n="16" break="no"/>mum, cum dicit: Quod rectitudo voluntatis, est quenquam velle, sicut Deus vult eum 
+      vel<lb ed="#L" n="17" break="no"/>le; quod accipit ibi, vult, pro vult simpliciter, diligit, &amp; approbat, non secundum quid, 
+      <lb ed="#L" n="18"/>vt est dictum; &amp; non quilibet qui vult aliquid, vult sicut Deus vult, simpliciter diligit, &amp; 
+      <lb ed="#L" n="19"/>approbat eum velle. Et si adhuc replices contra istud ponendo quenquam scire, Deum velle 
+      <lb ed="#L" n="20"/>ipsum committere peccatum adulterij, quod ideo scienter &amp; intendenter modo praedicto 
+      <lb ed="#L" n="21"/>committat, qui tunc peccat, &amp; non peccat; peccat enim peccatum adulterij committendo, 
+      <lb ed="#L" n="22"/>non peccat cum hoc agendo recte velit &amp; agat, &amp; habeat rectitudinem voluntatis &amp; 
+      opera<lb ed="#L" n="23" break="no"/>tionis, sicut ex praemissis videtur. Si per peccatum adulterij intelligas actum, quisolet esse 
+      <lb ed="#L" n="24"/>adulterium &amp; peccatum, videtur quod aliquis ex dispensatione seu iussione diuina posset 
+      ip<lb ed="#L" n="25" break="no"/>sum committere, non peccando, sicut videtur fuisse ad literam de Hosea; qui Domino 
+      im<lb ed="#L" n="26" break="no"/>perante accepit vxorem fornicationum, &amp; fecit filios fornicationis ex ea, sicut Hoseae 
+      pri<lb ed="#L" n="27" break="no"/>mo apparet, sicut &amp; quidam Doctores intelligunt, quanquam &amp; quidam sentire 
+      contra<lb ed="#L" n="28" break="no"/>rium videantur: Constat siquidem ex praemissis vigesimo sexto huius, talem actum non 
+      <lb ed="#L" n="29"/>esse per se peccatum. Et si adhuc obstare coneris, ponendo quenquam scire, Deum velle 
+      <lb ed="#L" n="30"/>ipsum committere aliquod peccatum existens peccatum, actum peccati cum malitia 
+      conuolu<lb ed="#L" n="31" break="no"/>tum; qui ideo scienter &amp; intendenter modo praedicto ipsum committat, tunc peccat, sicut 
+      hy<lb ed="#L" n="32" break="no"/>pothelis clare probat, &amp; non peccat secundum resposionem praemissam: Positio tua 
+      repugnan<lb ed="#L" n="33" break="no"/>tiam &amp; contradictionem patenter includit, videlicet ipsum peccare, &amp; similiter non 
+      pecca<lb ed="#L" n="34" break="no"/>re. Quilibet enim cognoscens voluntatem diuinam, &amp; faciens aliquid propter eam tantum 
+      <lb ed="#L" n="35"/>modo &amp; secundum eam in omnibus, videtur bene facere &amp; non peccare. Sed ex hoc forsitan 
+      <lb ed="#L" n="36"/>argues, Deum habere aliquam voluntatem circa hominem &amp; liberum actum eius, cui homo 
+      <lb ed="#L" n="37"/>non potest se meritorie conformare, quantumcunque Deus illam cognoscendam illi reuelet,  
+      <lb ed="#L" n="38"/>&amp; reuelare conetur, volutatem videlicet qua vult hominem peccare, commirtereue peccatum, 
+      <lb ed="#L" n="39"/>existens peccatu. Nonne &amp; tufateberis Deum habere aliqua voluntatem circa Angelum &amp; 
+      ho<lb ed="#L" n="40" break="no"/>minem confirmatos, cui se scienter non possunt meritorie conformare? Constat enim 
+      confirma<lb ed="#L" n="41" break="no"/>tos in beatitudine consummata, non posse vlterius in merito proficisci, &amp; si promeritorie, 
+      po<lb ed="#L" n="42" break="no"/>sueris, recte seuiuste, constat adhuc Deum posse velle quepiam non se conformare iuste &amp; 
+      re<lb ed="#L" n="43" break="no"/>cte voluntati diuinae, cui voluntati quomodo scienter, iuste &amp; recte se poterit conformare? 
+      <lb ed="#L" n="44"/>Potest quoque Deus velle quempiam facere quippiam ignoranter, cui voluntati quomodo 
+      <lb ed="#L" n="45"/>posset quis se scienter aptare? Potest etiam Deus velle hominem errare, credendo hoc 
+      fal<lb ed="#L" n="46" break="no"/>sum vel illud, &amp; quomodo huic voluntati potest se scienter aliquis conformare? Quomo¬ 
+      <lb ed="#L" n="47"/>do namque potest quis scienter errare credendo in particulari, &amp; sub propria forma sua 
+      di<lb ed="#L" n="48" break="no"/>stincte falsum quodcunque? Quis etenim ita? sciens aliquid esse falsum, credit illud 
+      simili<lb ed="#L" n="49" break="no"/>ter esse verum? Potest insuper Deus velle, quempiam velle &amp; orare meritorie, sancte, 
+      <lb ed="#L" n="50"/>&amp; iuste, iuste, inquam, respectu ipsius volentis aliquid fieri, credendo ignoranter &amp; 
+      <lb ed="#L" n="51"/>erronec illud fieri, Deo placere, aut Deum hoc velle, Deo volente contrarium &amp;  
+      <lb ed="#L" n="52"/>non illud, cui voluntati quomodo quisquam conformauerit se scienter? Adhuc autem 
+      for<lb ed="#L" n="53" break="no"/>tassis non desines obiectare, ponendo quenquam scire Deum velle, peccare ipsum, tunc 
+      <lb ed="#L" n="54"/>talis debet, aut licite potest peccare. Debet namque potestue licite diuinae se subdere 
+      volun<lb ed="#L" n="55" break="no"/>tati; &amp; ipsi se plenarie conformare, praesertim cum eam cognoscit. Sed istud procedit 
+      si<lb ed="#L" n="56" break="no"/>militer de essentia actus turpis, &amp; nihilominus soluitur per praemissa. Neque adhuc fortassis 
+      <lb ed="#L" n="57"/>cessabis, sed dices, Tubene scis aut credis, quod aliquando peccabis; scis ergo aut credis 
+      <lb ed="#L" n="58"/>secundum praemissa Deum hoc velle. Quare &amp; tu ipse debes aut potes licite idem velle. 
+      <!--340.xml-->
+      <pb ed="#A" n="307"/>
+               <lb ed="#L" n="1"/>Sed istud procedit similiter de substantia actus mali; soluitur etiam per praemissa. Ad aliud 
+      <lb ed="#L" n="2"/>patet per idem, per substantiam scilicet actus turpis, &amp; per alia iam praemissa. Consequentia 
+      <lb ed="#L" n="3"/>insuper claudicat, nec procedit: Ponatur enim quod scias, Deum velle te nihil velle, vel quod 
+      <lb ed="#L" n="4"/>velit te velle ipsum solum, ergo debes hoc velle, quomodo sequitur? Illud autem Augustini 
+      <lb ed="#L" n="5"/>&amp; Anselmi de debere, ad confirmationem huius adductum, soluitur per praemissa: Procedit 
+      <lb ed="#L" n="6"/>enim similiter de ipsa essentia actus mali: neque etiam quicunque facit quod debet, ideo statim 
+      <lb ed="#L" n="7"/>iuste facit, aut recte, nisi scienter &amp; intendenter hoc faciat modo dicto, sicut praecedentia 
+      ma<lb ed="#L" n="8" break="no"/>nifestant; quod &amp; testatur Auselmus superius recitatus. Veruntamen debitum fieri, potest 
+      <lb ed="#L" n="9"/>dupliciter attendi, respectu videlicet voluntatis diuinae, &amp; respectu voluntatis rationalis 
+      crea<lb ed="#L" n="10" break="no"/>tae; Respectu voluntatis diuinae omnia debent fieri sicut fiunt, &amp; iustum &amp; rectum est cuncta 
+      <lb ed="#L" n="11"/>sic fieri sicut fiunt, sicut praehabita clare monstrant; Respectu vero voluntatis rationalis 
+      crea<lb ed="#L" n="12" break="no"/>tae, illud solum in actionibus eius est debitum fieri, iustum, &amp; rectum, quod facit scienter, &amp; 
+      <lb ed="#L" n="13"/>intendenter ad Deum, &amp; ex eius amore finaliter propter eum, sicut per hic praemissa, &amp; per 
+      <lb ed="#L" n="14"/>3oam partem Corollarij, primi patet. Ad illud etiam Augustini; Si voluntas est iusta, 
+      quis<lb ed="#L" n="15" break="no"/>quis ei obtemperauerit, non peccabit, similiter respondendum: Pro alio autem constat, quod 
+      <lb ed="#L" n="16"/>quis potest iuste &amp; rationabiliter accusare atque vlcisci aliquod factum, cuius est aliquo 
+      mo<lb ed="#L" n="17" break="no"/>do autor, puta si faciens nequaquam hoc faciat scienter, intendenter, &amp; animo exequendi 
+      au<lb ed="#L" n="18" break="no"/>toritatem, seu voluntatem sui autoris, sed modo contratio, &amp; animo malignandi, sicut 
+      prae<lb ed="#L" n="19" break="no"/>habita docuerunt. Ad autoritates Scripturae patet per praedicta: Potest tamen sic obijci, Deus 
+      <lb ed="#L" n="20"/>vult peccatum, ergo aliquo modo diligit peccatum, &amp; odit omne peccatum; ergo idem 
+      dili<lb ed="#L" n="21" break="no"/>git atque odit: Dicendum, quod loquendo de diligere &amp; odire secundum quid, conclusio est 
+      <lb ed="#L" n="22"/>vera de Deo, sicut &amp; de homine: Potest enim quis diligere aliquem tanquam patrem, &amp; 
+      odi<lb ed="#L" n="23" break="no"/>re eum tanquam punientem; Deum autem diligere aliquem, est velle ribi bonum, &amp; odire 
+      <lb ed="#L" n="24"/>eum, velle sibi malum, sicut ex 25o constat, &amp; sic vult electis suis bonum aeternum &amp; malum 
+      <lb ed="#L" n="25"/>temporale; reprobis autem contrarie; &amp; ipsi diabolo vult magnum bonum naturae, &amp; 
+      mag<lb ed="#L" n="26" break="no"/>num malum poenae, &amp; miseriae sempiternae: Vel potest dici in his omnibus, sicut dicitur a 
+      <lb ed="#L" n="27"/>nonnullis, quod sicut peccatum &amp; omnis priuatio non intelligitur per se, sed in 
+      comparatio<lb ed="#L" n="28" break="no"/>ne ad suum habitum, &amp; non proprie positiue, sed quodammodo priuatiue, sicut ?cum tradit; 
+      <lb ed="#L" n="29"/>sic etiam peccatum est a Deo volutum priuatiue; quilibet tamen actus secundum id quod est,  
+      <lb ed="#L" n="30"/>quia, vt sic, bonus est, est volutus a Deo proprie positiue. Haec autem responsio, si plene 
+      sus<lb ed="#L" n="31" break="no"/>ficiat, &amp; maioribus placeat, placet mihi: Mallem enim in huius magnitudine quaestionis 
+      ma<lb ed="#L" n="32" break="no"/>iores audire, quam ipse minimus respondere 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

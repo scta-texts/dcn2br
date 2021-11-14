@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 20</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 20</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="227"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e31192"><!-- l1c20 -->
+            <head xml:id="dcn2br-e31192-Hd1e106">Caput 20</head>
+            <p xml:id="dcn2br-e31192-d1e109">
+               <lb ed="#L" n="30"/>CAP.XX. 
+      <lb ed="#L" n="31"/>Distinguit similiter voluta in priora &amp; posteriora voluntate diuina, 
+      <lb ed="#L" n="32"/>&amp; ostendit, quod voluta posteriora non sunt causa volutio¬ 
+      <lb ed="#L" n="33"/>nis diuinae, nec causa sine qua non, &amp; quod voluta pri¬ 
+      <lb ed="#L" n="34"/>ora sunt aliqua causa eius. 
+    </p>
+            <p xml:id="dcn2br-e31192-d1e122">
+               <lb ed="#L" n="35"/>Is ita constantibus ratum erit, quod voluta posteriora volutione, di 
+      <lb ed="#L" n="36"/>uina, non sunt causa volutionis diuinae, nec causa sine qua non, vt 
+      <lb ed="#L" n="37"/>fingitur a quibusdam, &amp; quod voluta priora sund aliqua causa eius 
+      <lb ed="#L" n="38"/>Sunt autem aliqua voluta priora volutione diuina, vti Deum esse, 
+      De<lb ed="#L" n="39" break="no"/>um esse omnipotentem, bonum, cognoscentem, &amp; similia. Alia vero 
+      <lb ed="#L" n="40"/>posteriora, vt totum mundum esse, &amp; singulas partes dius. Haec igitur 
+      <lb ed="#L" n="41"/>tria de volutione diuina possunt ostendi similiter sicut tria priora 
+      ca<lb ed="#L" n="42" break="no"/>pitula, scilicet 15um I6um &amp; I7um tria similia de diuina scientia 
+      osten<lb ed="#L" n="43" break="no"/>debant; possuntque per locum a simili, aliter suaderi; sic est in scientia diuina; quare &amp; in 
+      <lb ed="#L" n="44"/>volutione diuina, maxime cum voluntas sit ita libera vel liberior intellectu. Item prima pars 
+      <lb ed="#L" n="45"/>huius potest ostendi per hoc, quod voluntas Dei est causa omnium posteriorum, vt nonum 
+      <lb ed="#L" n="46"/>&amp; decimum quartum capitula docuerunt: si ergo aliquod istorum esset causa volutionis 
+      di<lb ed="#L" n="47" break="no"/>uinae, illud esset causa suiipsius. Item aliter Deus nesciret vera posteriora, sicut decimi 
+      <lb ed="#L" n="48"/>octaui sententia manifestat. Nec Deus esset certus de eis, quoniam ad eius volutionem 
+      ne<lb ed="#L" n="49" break="no"/>cessario praeexigitur causa incerta, scilicet illa posteriora, vt futura contingentia, &amp; haec 
+      <lb ed="#L" n="50"/>ad eius scientiam, sicut eodem I8o planius est argutum. Item cum Deus de necessitate 
+      cu<lb ed="#L" n="51" break="no"/>iuslibet contradictionis alteram partem sciat, &amp; hoc in omnibus scitis posterioribus per 
+      <lb ed="#L" n="52"/>suam voluntatem, per indem Capitulum, si volutio eius causetur a posterioribus volutis, 
+      vo<lb ed="#L" n="53" break="no"/>luntas diuina necessario patitur ab eis volutionem aut nolutionem; quomodo ergo habetli¬ 
+      <!--261.xml-->
+      <pb ed="#A" n="228"/>
+               <lb ed="#L" n="1"/>beram voluntatem? Item si voluntas Dei patiatur a talibus non necessario sed libere, potest non 
+      <lb ed="#L" n="2"/>sic pati, &amp; facere omnia nihiliminus. Frustra ergo ponitur eam sic pati. Item si Deus per 
+      volun<lb ed="#L" n="3" break="no"/>tatem suam posset vna vice non sic pati, alia sic pati, posset aliquo modo mutari contra quintum, 
+      <lb ed="#L" n="4"/>Quicquid enim patitur a causa mutabili, mutabiliter patitur, &amp; est mutabile. Item perfectius 
+      <lb ed="#L" n="5"/>est simpliciter agere, &amp; non pati a talibus, quam sic pati, sicut praecedentia docuerunt; Hoc 
+      <lb ed="#L" n="6"/>ergo, non alia, tribuendum est Deo, sicut Suppositio prima dictat. Item futura contingentia 
+      <lb ed="#L" n="7"/>non sunt causa mouens voluntatem diuinam, quia tunc prius naturaliter essent futura quam  
+      <lb ed="#L" n="8"/>mouerent, &amp; quam Deus vellet illa esse futura, contra 14. &amp; 18. sicut &amp; 15. de scientia talium 
+      <lb ed="#L" n="9"/>arguebat. Hoc etiam posset ostendi per multas Autoritates nono cap. allegatas, &amp; specialiter  
+      <lb ed="#L" n="10"/>per illas, quae dicunt; quod voluntas Dei est prima &amp; summa causa omnium; si tamen ab 
+      a<lb ed="#L" n="11" break="no"/>lio moueretur, illud esset prius &amp; superius: Omnis enim causa efficiens, siue mouens est prior 
+      <lb ed="#L" n="12"/>naturaliter &amp; superior suo moto. Item hoc plane tener Petrus Lumbardus I. Sentent. dist. 
+      <lb ed="#L" n="13"/>45. 4 sic dicens; Haec itaque summe bona voluntas, est causa omnium quae naturaliter fiunt, B 
+      <lb ed="#L" n="14"/>vel facta, siue futura sunt, quae nulla praeuenta est causa, quia aeterna est, ideoque causa illius 
+      <lb ed="#L" n="15"/>quaerenda non est. Ad quod multas Autoritates adducit, primo Augustini 83. Quaestionum 
+      <lb ed="#L" n="16"/>28. dicentis, Qui querit, quare voluerit Deus mundum facere; causam quaerit voluntatis Deis 
+      <lb ed="#L" n="17"/>Omnis autem causa efficiens maior est eo quod efficitur, nihil autem maius est voluntate Dei. 
+      <lb ed="#L" n="18"/>Item Augustinus I. de Genes. contra Manichaeos 5. Causas voluntatis Dei Manichaei scire 
+      <lb ed="#L" n="19"/>quaerunt, cum omnium, quae sunt, ipsa sit causa. Si voluntas Dei habet causam, est aliquid  
+      <lb ed="#L" n="20"/>quod antecedat voluntatem Dei, quod nefas est credere. Qui ergo dicit, quare Deus fecit 
+      coe<lb ed="#L" n="21" break="no"/>lum &amp; terram? respondendum est ei, quia voluit: qui autem dicit, quare voluit? maius 
+      ali<lb ed="#L" n="22" break="no"/>quid quaerit quam est voluntas Dei; nihil autem maius inueniri potest? Compescat ergo se 
+      <lb ed="#L" n="23"/>humana temeritas, &amp; id, quod non est, non quaerat ne id quod est, non inueniat. Hoc etiam  
+      <lb ed="#L" n="24"/>tenet Hugo de Sacramentis libro primo, parte quarta, capite primo, dicens, Prima 
+      <lb ed="#L" n="25"/>rerum omnium causa voluntas est creatoris, quam nulla praecedens causa mouet, nec 
+      sub<lb ed="#L" n="26" break="no"/>sequens aliqua confirmat, quoniam ex semetipsa iusta est. Et infra, vltimo. Hic igitur 
+      con<lb ed="#L" n="27" break="no"/>stat ordo rerum, vt post prima posteriora sequantur; Prima omnium est voluntas creatoris, 
+      <lb ed="#L" n="28"/>quoniam ex ipsa sunt omnia; post ipsam sequuntur, quae sunt ex ipsa: Prima sunt, quae in ea 
+      <lb ed="#L" n="29"/>iunt; secunda sunt, quae ex ea sunt: Quae in ea sunt, aeterna sunt, nec gradum habent, nec 
+      suc<lb ed="#L" n="30" break="no"/>cessionem, quoniam in vnitate consistunt, &amp; in aeternitate non transeunt; quae ex ea sunt, 
+      cre<lb ed="#L" n="31" break="no"/>ag sunt per eam. Aliae vero partes sequentes possunt ostendi, sicut 16. &amp; 17. de non 
+      causa<lb ed="#L" n="32" break="no"/>tione, &amp; causatione diuinae scientiae, similia ostendebant. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

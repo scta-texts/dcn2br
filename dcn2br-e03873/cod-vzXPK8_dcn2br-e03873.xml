@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 44</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 44</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="788"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e03873"><!-- l3c44 -->
+            <head xml:id="dcn2br-e03873-Hd1e106">Caput 44</head>
+            <p xml:id="dcn2br-e03873-d1e109">
+               <lb ed="#L" n="16"/>CAP. XLIV. 
+      <lb ed="#L" n="17"/>Recitat tertiam responsionem.
+    </p>
+            <p xml:id="dcn2br-e03873-d1e116">
+               <lb ed="#L" n="18"/>Dhaec autem, sicut ad alia, non pauci, sed super capillos capitis mei 
+      <lb ed="#L" n="19"/>multi, erroris veteris clamosi &amp; tumidi defensores, eo quod contuma 
+      <lb ed="#L" n="20"/>cem ceruicem recusant supponere iugo, licet suauissimo, veritatis, 
+      re<lb ed="#L" n="21" break="no"/>sponsiones &amp; obiectiones innumeras sibi ipsis, &amp; veritati contrarias 
+      <lb ed="#L" n="22"/>somniant &amp; confingunt, quasdam falsigraphicas, quasdam litigiosas, 
+      <lb ed="#L" n="23"/>quasdam peccantes in materia, quasdam in forma, quasdam in vtraque; 
+      <lb ed="#L" n="24"/>B multas vero nec difficultatis inuolucrum euoluentes, verum multi¬ 
+      <lb ed="#L" n="25"/>pliciori se reti inuoluentes; plurimas autem quas quilibet veritatis 
+      ami<lb ed="#L" n="26" break="no"/>cus ad modicum quid prouectus facile reprimet &amp; conuincet. Peruersi namque, vt dicit 
+      Ec<lb ed="#L" n="27" break="no"/>clesiastes, difficile corriguntur, &amp; stultorum infinitus est numerus. Nec mirum: erroris nam 
+      <lb ed="#L" n="28"/>semper est comes tortuosa pluralitas; simplex vero vnitas veritatis. Quare &amp; Philosophus 
+      <lb ed="#L" n="29"/>14. Met. 3. Omnia, inquit, irrationabilia &amp; repugnant ipsa sibi ipsis, &amp; rationabilibus, &amp; 
+      vi<lb ed="#L" n="30" break="no"/>detur in ipsis esse Simonidicus longus sermo: sit enim longus sermo, quemadmodum qui 
+      ser<lb ed="#L" n="31" break="no"/>uorum, cum nihil sanum dicant: vnde &amp; Parab. 14. Vbi verba sunt plurima, ibi frequenter 
+      <lb ed="#L" n="32"/>egestas. Hae autem responsiones non omnes, sed probabiliores videntur rationabiliter 
+      per<lb ed="#L" n="33" break="no"/>tractandae; inaniores vero sub silentio transeundae, ne tempus &amp; studium, praetermissis 
+      vtili<lb ed="#L" n="34" break="no"/>bus, circa inania inaniter consumatur. Dicit enim Philosophus I. Phys. 1I. Neque soluere 
+      <lb ed="#L" n="35"/>omnia conuenit, sed quaecunque ex principiis aliquis demonstrans mentitur; quaecunque 
+      <lb ed="#L" n="36"/>vero non, minime: &amp; I. Topic. Quolibet contraria opinionibus proferente sollicitum esse 
+      <lb ed="#L" n="37"/>stultum est, aut de quibus rationem habemus contrariam opinionibus. Quare non oportet 
+      <lb ed="#L" n="38"/>omne problema, nec omnem positionem considerate, sed quam dubitabit aliquis rationis 
+      in<lb ed="#L" n="39" break="no"/>digentium, &amp; non qui poenae vel sensus. Qui &amp; 3. Metaphys. 15. De fabulose, inquit, 
+      sophi<lb ed="#L" n="40" break="no"/>sticantibus non est dignum cum studio intendere; quare &amp; Sapiens prohibet sapienter stulto 
+      <lb ed="#L" n="41"/>secundum stultitiam suam respondere. Vna igitur responsionum istarum, quae sibi videtur 
+      <lb ed="#L" n="42"/>probabilis, asserit, quod quamdiu obiectum creditum a Christo, aut volutum est futurum, 
+      <lb ed="#L" n="43"/>potest Christus illud non credere neque velle, nec credidisse, nec etiam voluisse; cum autem 
+      <lb ed="#L" n="44"/>fuerit praesens vel praeteritum, non sic potest. Sed ista per rationes tricesimi huius faciliter 
+      <lb ed="#L" n="45"/>conuincetur, cum nullam huius necessitatis nouellae causam poterit assignare, nec ipsam 
+      po<lb ed="#L" n="46" break="no"/>nere sine causa. Rursum ponatur Christum specialiter orasse pro Paulo adhuc superstite 
+      via<lb ed="#L" n="47" break="no"/>tore, &amp; similiter infideli vt conuerteretur ad fidem, aliosque conuerteret praedicando, ac 
+      bea<lb ed="#L" n="48" break="no"/>tificaretur in coelo; ponaturque Christum fecisse alia opera ad eundem effectum, puta venisse 
+      <lb ed="#L" n="49"/>ad eum, circumfudisse eum lumine, prostrasse, excoecasse, &amp; similia, sicut historia Act. 9. 
+      do<lb ed="#L" n="50" break="no"/>cet; nunc ergo medio tempore, in quo simus, possibile est Christum nihil horum fecisse, 
+      <lb ed="#L" n="51"/>quia possibile Christum nunquam credidisse aut voluisse futura huiusmodi circa Paulum, 
+      <lb ed="#L" n="52"/>cum sit possibile haec non fore, aut est possibile Christum irrationabiliter, erronee, &amp; culpa¬ 
+      <!--822.xml-->
+      <pb ed="#A" n="789"/>
+               <lb ed="#L" n="1"/>biliter haec fecisse, quia non conformiter, imo difformiter, &amp; contrarie visioni in proprio ge¬ 
+      <lb ed="#L" n="2"/>nere, &amp; in verbo ac mandato paterno. Ponatur namque ipsum recepisse mandatum a Patre, 
+      <lb ed="#L" n="3"/>quod nihil oraret aut faceret, nisi secundum quod esset sibi in proprio venere diuinitus 
+      reue<lb ed="#L" n="4" break="no"/>latum. Nec potest quis fingere, quod licet non sit possibile effectus Christi praeteritos non  
+      <lb ed="#L" n="5"/>fuisse, possibile tamen esse ipsos non fuisse factos ad finem praedictum circa Paulum, sed ad  
+      <lb ed="#L" n="6"/>alium finem omnino propter rationes praemissas 8. &amp; 35. huius. Praeterea medio tempore, 
+      <lb ed="#L" n="7"/>in quo sumus, inter sudorem Christi sanguineum &amp; eius terribilem passionem, secundum 
+      <lb ed="#L" n="8"/>istos possibile est Christum nullatenus sic sudasse, sicut 33. huius plenius arguebat. Alij 
+      astru<lb ed="#L" n="9" break="no"/>unt, quod idem actus credendi in Christo, qui est aut fuit distinctissimus vnius obiecti potest. 
+      <lb ed="#L" n="10"/>esse &amp; fuisse distinctissimus obiecti oppositi, non illius; sed tunc hoc posset sine mutatione 
+      <lb ed="#L" n="11"/>quacunque; quare esset pure indifferens ad ostendendum menti Christi hoc obiectum vel 
+      il<lb ed="#L" n="12" break="no"/>lud; quamobrem sine determinatione aliqua per se ipsum neutrum distincte ostenderet, vel 
+      <lb ed="#L" n="13"/>vtrumque, sicut septimum primi plenius arguebat. Rursum omnis talis actus creatus in 
+      pro<lb ed="#L" n="14" break="no"/>prio genere, est res inanimata pure naturalis, non libera; ergo secundum ostensa contra 
+      <lb ed="#L" n="15"/>quartam responsionem 30. huius semper sic agit &amp; secundum vltimum suae potentiae, atque 
+      <lb ed="#L" n="16"/>significat, quare si idem actus eodem modo dispositus possit repraesentare &amp; ostendere 
+      <lb ed="#L" n="17"/>vtrumque oppositorum, semper sic facit, quoniam nulla penitus ratio potest reddi, quare iste 
+      <lb ed="#L" n="18"/>actus eodem modo omnino dispositus, heri ostendit animae Christi vnum oppositorum, &amp;  
+      <lb ed="#L" n="19"/>hodie alterum. Item si sit ita, cum actus proprijssime, distinctissime, immediatissime per se 
+      <lb ed="#L" n="20"/>&amp; primo repraesentet, significet, &amp; ostendat obiectum, posset &amp; eadem similitudo seu 
+      spe<lb ed="#L" n="21" break="no"/>cies esse similiter propria oppositorum, &amp; eadem ratione qua vna &amp; alia, &amp; sic quaelibet pars 
+      <lb ed="#L" n="22"/>definitionis &amp; tota, sicque vnum oppositorum esset veraciter aliud: eadem quoque 
+      proposi<lb ed="#L" n="23" break="no"/>tio numero esset vera &amp; falsa, &amp; contradictoria simul vera. Propositio namque affirmans 
+      <lb ed="#L" n="24"/>per talem actum &amp; speciem vtrique oppositorum communem vnum oppositorum de se, esset 
+      <lb ed="#L" n="25"/>vera; propositio vero affirmans per actum &amp; speciem eosdem numero, vnum oppositorum 
+      <lb ed="#L" n="26"/>de altero esset falsa; &amp; haec propositio esset illa, quia per nihil penitus differret haec ab illa; &amp; 
+      <lb ed="#L" n="27"/>quaelibet pars huius esset pars illius similiter, &amp; e contra. Secundum hoc &amp; similitudines 
+      re<lb ed="#L" n="28" break="no"/>rum in anima non significarent naturaliter semper vnum, sed ad placitum hoc vel illud, 
+      cu<lb ed="#L" n="29" break="no"/>ius oppositum anima sapiens facillime experitur. Quare &amp; Philosophus I. peri hermenias I. 
+      <lb ed="#L" n="30"/>Quemadmodum, inquit, nec literae omnibus eaedem sunt, sic nec eaedem voces; quorum 
+      au<lb ed="#L" n="31" break="no"/>tem hae primorum notae sunt, &amp; eaedem omnibus passiones sunt animae, &amp; quorum hae 
+      simi<lb ed="#L" n="32" break="no"/>litudines, res etiam eaedem; quod &amp; omnes Logici &amp; Philosophi sentiunt concordanter; 
+      bea<lb ed="#L" n="33" break="no"/>tus etiam Augustinus 15. de Trinit. 10. his consentit. Item tunc talis species seu actus in 
+      ani<lb ed="#L" n="34" break="no"/>ma esset pure aequiuoca seu aequiuocus; significaret enim plura, scilicet ambo contraria aeque 
+      <lb ed="#L" n="35"/>primo, quorum ratio substantiae est diuersa, &amp; eadem ratione, qua vna species siue actus, &amp; 
+      <lb ed="#L" n="36"/>omnes: quare nullus posset aliquid certe, distincte, &amp; proprie intelligere, componere vel 
+      di<lb ed="#L" n="37" break="no"/>uidere, diligere, nec odire. Talis etiam aequiuocatio nondum fuit ab aliquo Logico aut 
+      Phi<lb ed="#L" n="38" break="no"/>losopho adinuenta; imo secundum eorum sententiam nec est possibilis inueniri: omnes enim 
+      <lb ed="#L" n="39"/>concorditer sentiunt, quod omnis species in anima naturaliter &amp; vniuoce maxime significat 
+      <lb ed="#L" n="40"/>semper vnum. Est insuper talis species in anima siue actus vniuoca seu vniuocus maxime, 
+      <lb ed="#L" n="41"/>sicut praemissa testantur; quod &amp; definitio vniuocorum in praedicamentis ostendit. Quis 
+      eti<lb ed="#L" n="42" break="no"/>am terminus esset vniuocus, si non ille? Est igitur vniuocus &amp; aequiuocus pure simul. 
+      Prae<lb ed="#L" n="43" break="no"/>terea si sit ita de specie &amp; actu in anima, eadem ratione sic erit in memoria, &amp; in omni sensu 
+      <lb ed="#L" n="44"/>interiori &amp; exteriori similiter, imo &amp; in medio sensitiuo, &amp; etiam in obiecto: hic enim stat  
+      <lb ed="#L" n="45"/>sicut &amp; fundatur tota huiusmodi resolutio naturalis. Quamobrem e contrario accidit. Nam 
+      <lb ed="#L" n="46"/>sicut vnum obiectum est tantum vnum, sic &amp; causat naturaliter tantum vnam speciem 
+      simi<lb ed="#L" n="47" break="no"/>lem sibi tantum in medio sensitiuo, sic etiam illa vltra in sensu exteriori, sicque vlterius per 
+      <lb ed="#L" n="48"/>sensus interiores, donec similiter vltimo ad animam pertingatur. Praeterea visio seu 
+      cogni<lb ed="#L" n="49" break="no"/>tio vnius oppositorum causat vnum effectum in anima vel in corpore cognoscentis, puta 
+      de<lb ed="#L" n="50" break="no"/>lectationem, dilatationem &amp; huiusmodi; cognitio autem &amp; credulitas alterius effectum 
+      op<lb ed="#L" n="51" break="no"/>positum; potest ergo aliquis effectus praeteritus non fuisse, oppositusque fuisse, sicut tricesimo 
+      <lb ed="#L" n="52"/>sexto huius fuit ostensum: rationes etiam // illae tricesimo sexto factae contra istam 
+      responsiun<lb ed="#L" n="53" break="no"/>culam plene vadunt. Praeterea quicunque hoc dixerit, habet similiter dicere de actibus 
+      vo<lb ed="#L" n="54" break="no"/>luntatis, quare &amp; habet dicere consequenter quod istud, quod Christus vel alius purus homo 
+      <lb ed="#L" n="55"/>mediante tali volutione fecit exterius, potest nunquam fecisse, sed eius oppositum, quod // non 
+      <lb ed="#L" n="56"/>fecit. Item tunc actus in Christo, vel in alio, qui est aut prius fuit amor &amp; meritum, potest. 
+      <lb ed="#L" n="57"/>nunc esse, &amp; prius fuisse odium &amp; peccatum: posset quoque amicus alicuius fieri seu esse 
+      ini<lb ed="#L" n="58" break="no"/>micus eiusdem sine mutatione quacunque in alio vel in ipso, contra praeostensa 30. &amp; 22. istius, 
+      <!--823.xml-->
+      <pb ed="#A" n="790"/>
+               <lb ed="#L" n="1"/>&amp; conra Augusinums. de Fint. vit. vbi dicit, Anicis relatiue dicitur: neque enim esse. s 
+      <lb ed="#L" n="2"/>incipit, nisi cum amare coeperit: sit ergo aliqua mutatio voluntatis, vt amicus dicatur. 
+      Di<lb ed="#L" n="3" break="no"/>citque Anselmus de libero arbitrio 7. quod illa voluntas, quae est opus, scilicet actus 
+      volunta<lb ed="#L" n="4" break="no"/>tis, quae est instrumentum naturale volendi, tam multiplex est quam multa, &amp; quam saepe 
+      <lb ed="#L" n="5"/>volumus. Quare &amp; Philosophus 8. Eth. 7. distinguit species amationis &amp; amicitiae 
+      secun<lb ed="#L" n="6" break="no"/>dum species amatorum; vnde sic ait, Altera, propter quae amant; alterae ergo &amp; amationes 
+      <lb ed="#L" n="7"/>&amp; amicitiae. Alij vero ponunt esse possibile effectus praeteritos factos a Christo mediante 
+      <lb ed="#L" n="8"/>cognitione seu volutione humana fuisse factos ab eo, mediante tantummodo sua cognitione 
+      <lb ed="#L" n="9"/>&amp; volutione diuina. Sed isti refellentur per tricesimum nonum huius. Rursum secundum 
+      <lb ed="#L" n="10"/>istud, nunc est possibile Christum secundum naturam humanam nunquam aliquid voluisse, 
+      <lb ed="#L" n="11"/>nunquam aliquid meruisse, nunquam homines redemisse: haec enim non fecit, nisi 
+      secun<lb ed="#L" n="12" break="no"/>dum naturam suam humanam; quare &amp; est nunc consequenter possibile nullum hominem 
+      <lb ed="#L" n="13"/>fuisse saluatum. Praeterea tunc actus Christi volendi creatus in proprio genere praeteritus 
+      po<lb ed="#L" n="14" break="no"/>test non fuisse, vel Christus inuitus quicquam fecisse, voluisseque difformiter &amp; contrarie 
+      vo<lb ed="#L" n="15" break="no"/>luntati diuinae, &amp; mandato paterno, atque peccasse &amp; miser fuisse. Alij adhuc in oculis suis 
+      <lb ed="#L" n="16"/>subtiles, vt eis videtur, subtiliter respondendo affirmant Christum non intellexisse, aut 
+      credi<lb ed="#L" n="17" break="no"/>disse in proprio genere per actus naturales similes actibus cognitiuis hominum caeterorum, 
+      <lb ed="#L" n="18"/>sed per vnum actum supernaturalem supernaturaliter sibi datum, qui &amp; sicut ipsum verbum 
+      <lb ed="#L" n="19"/>&amp; diuina essentia potest repraesentasse &amp; ostendisse aequaliter quodcunque futurum fore vel 
+      <lb ed="#L" n="20"/>non fore, sic &amp; potest, vt asserunt, ille actus. Sed ista responsio Christum secundum 
+      natu<lb ed="#L" n="21" break="no"/>ram suam humanam &amp; diuinam similiter molitur crudeliter mutilare. Nam secundum ipsam,  
+      <lb ed="#L" n="22"/>Christus non potuit, neque potest habere propriam &amp; perfectam operationem hominis 
+      na<lb ed="#L" n="23" break="no"/>turalem, distinctam scilicet cognitionem obiecti per actum singulariter proprium &amp; 
+      distin<lb ed="#L" n="24" break="no"/>ctum, sicut caeteri homines puri habent; nec Deus de tota sua potentia potest Christo talem 
+      <lb ed="#L" n="25"/>cognitionem conferre. Si namque Christus potuit aut possit quomodolibet talem 
+      cognitio<lb ed="#L" n="26" break="no"/>nem &amp; scientiam seu credulitatem de futuris habere, ponatur; &amp; euacuatur responsio, &amp; 
+      re<lb ed="#L" n="27" break="no"/>uertitur difficultas. Aut si Christus non sit in aliqua potentia hominis mutilatus, potest, sicut 
+      <lb ed="#L" n="28"/>&amp; caeteri hominum in illam operationem hominis naturalem; &amp; etiam si Deus non sit in sua 
+      <lb ed="#L" n="29"/>omnipotentia defalcatus, potest saltem de plenitudine potestatis dare Christo actum 
+      huius<lb ed="#L" n="30" break="no"/>modi cognitiuum. Nam si non potest, aut hoc est propter impotentiam actiuam in Deo, 
+      <lb ed="#L" n="31"/>quod nullus concedet, aut propter impotentiam susceptiuam in Christo, quod dici non 
+      po<lb ed="#L" n="32" break="no"/>test, cum quilibet alius homo eiusdem naturae sit actus huiusmodi susceptiuus. Rursum 
+      <lb ed="#L" n="33"/>Christus &amp; caeteri homines sunt eiusdem naturae, &amp; isti naturaliter sunt capaces actionum 
+      hu<lb ed="#L" n="34" break="no"/>iusmodi, ergo &amp;st ipse, sicut per se patet: quod etiam testatur Philosophus 2. de coelo 48. 
+      ar<lb ed="#L" n="35" break="no"/>guens quod si vnum astrum mouetur motu circumgirationis, omnia sic moueri; &amp; 49. 
+      in<lb ed="#L" n="36" break="no"/>nuit simile argumentum de motu volutationis astrorum; qui &amp; 59. similiter arguit de 
+      sphae<lb ed="#L" n="37" break="no"/>ricitate astrorum. Super quod Auerroes, Demonstratio, inquit, fundatur super hoc, quod 
+      <lb ed="#L" n="38"/>omnia corpora coelestia sunt eiusdem naturae specie, &amp; quod corpora coelestia sunt plura 
+      in<lb ed="#L" n="39" break="no"/>diuidua in specie; &amp; cum ita sit, &amp; necesse est vt illud quod existit in aliquo indiuiduorum 
+      <lb ed="#L" n="40"/>speciei ex rebus essentialibus, existat in omnibus indiuiduis illius speciei; &amp; quod figura est 
+      <lb ed="#L" n="41"/>ex rebus essentialibus in corporibus coelestibus, quia sunt animata; secundum has igitur 
+      pro<lb ed="#L" n="42" break="no"/>positiones verificatur iste sermo, &amp; non est per exemplum. Item formae eiusdem naturae natae 
+      <lb ed="#L" n="43"/>sunt habere operationes proprias eiusdem naturae, &amp; anima Christi, ac anima cuiuslibet 
+      ho<lb ed="#L" n="44" break="no"/>minis alterius sunt eiusdem naturae. Item natura humana in Christo si esset dimissa a verbo, 
+      <lb ed="#L" n="45"/>posset in se producere talem actum, nec verbum ipsam debilitat, sed fortificat potius nunc 
+      <lb ed="#L" n="46"/>vnitam. Item simili ratione habent necessario dicere consequenter Christum habuisse &amp; 
+      <lb ed="#L" n="47"/>habere similem actum volendi; qui licet nunc esset aut prius fuisset distinctissimus respectu 
+      <lb ed="#L" n="48"/>vnius obiecti, posset nunc non esse &amp; prius non fuisse illius, sed alterius; quare &amp; opus quod 
+      <lb ed="#L" n="49"/>in praesenti a tali volutione procederet, vel in praeterito processisset, posset nunc non esse, &amp; T 
+      <lb ed="#L" n="50"/>in praeterito non fuisse; opus quoque, quod nunc non est, nec prius fuit, posset nunc esse, &amp; 
+      <lb ed="#L" n="51"/>prius fuisse. Item Christus potest habere actus cognoscendi &amp; volendi similes actibus 
+      homi<lb ed="#L" n="52" break="no"/>num caeterorum circa praesentia &amp; praeterita; quare &amp; circa necessaria, &amp; circa futura omnia; 
+      <lb ed="#L" n="53"/>quare &amp; circa contingentia vniuersa. Praeterea non videtur quod idem actus creatus 
+      cogni<lb ed="#L" n="54" break="no"/>tiuus aut volutiuus posset immediate &amp; per se solum semper eodem modo penitus se 
+      haben<lb ed="#L" n="55" break="no"/>tem esse distinctissimus omnium diuersorum, sicut superius contra responsionem similem est 
+      <lb ed="#L" n="56"/>argutum: alia etiam argumenta contra illam pugnantia militant contra istam. Item cum 
+      <lb ed="#L" n="57"/>Christus secundum hominem, &amp; alius purus homo sint eiusdem naturae, &amp; Christus 
+      secun<lb ed="#L" n="58" break="no"/>dum hominem est capax actus huiusmodi cognitiui, &amp; similiter volutiui; est &amp; alius purus 
+      <!--824.xml-->
+      <pb ed="#A" n="791"/>
+               <lb ed="#L" n="1"/>homo, cum ergo purus homo sit capax, &amp; Deus omnipotens potest ei dare tales actus cog¬ 
+      <lb ed="#L" n="2"/>noscendi atque volendi, quibus receptis, etsi nunc credat &amp; velit, aut prius credidit &amp; voluit  
+      <lb ed="#L" n="3"/>aliquod futurum contingens merendo, peccando, aut opus extrinsecum faciendo, potest nunc 
+      <lb ed="#L" n="4"/>&amp; prius non ista, sed eorum opposita facere &amp; fecisse. Contra istam responsionem similiter 
+      <lb ed="#L" n="5"/>vadit processus 33. huius plane. Aliae vero responsiunculae possibiles hic confingi, per haec 
+      <lb ed="#L" n="6"/>&amp; huiusmodi, iuuante gratia Iesu Christi, faciliter confringentur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

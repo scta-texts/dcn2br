@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="237"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e32452"><!-- l1c23 -->
+            <head xml:id="dcn2br-e32452-Hd1e106">Caput 23</head>
+            <p xml:id="dcn2br-e32452-d1e109">
+               <lb ed="#L" n="9"/>CAP. XXIII. 
+      <lb ed="#L" n="10"/>Quod tam scientia Dei quam eius voluntas immuta¬ 
+      <lb ed="#L" n="11"/>bilis est omnino. 
+    </p>
+            <p xml:id="dcn2br-e32452-d1e118">
+               <lb ed="#L" n="12"/>POst haec autem reputo demonstrandum, quod tam scientia Dei, 
+      <lb ed="#L" n="13"/>quam eius voluntas immutabilis sit omnino: Si enim haec 
+      mu<lb ed="#L" n="14" break="no"/>taretur vel illa, commutaretur necessario ipse Deus, contra 5. 
+      <lb ed="#L" n="15"/>cap. iam praemissum. Hoc etiam per rationes &amp; autoritates 
+      illi<lb ed="#L" n="16" break="no"/>us capituli potest sufficienter ostendi, &amp; ex abundanti per alias 
+      <lb ed="#L" n="17"/>confirmari: Si namque scientia Dei aliquoties mutaretur, hoc 
+      <lb ed="#L" n="18"/>maxime videretur circa futura, cum fiunt presentia, &amp; sic in 
+      pre<lb ed="#L" n="19" break="no"/>teritum dilabuntur; sed hoc non est verum, quoniam ista nullo 
+      <lb ed="#L" n="20"/>modo sunt causa diuine scientie; sed e contra, sicut superius est 
+      <lb ed="#L" n="21"/>ostensum, quare semper eodem modo, nec quomodolibet aliter 
+      <lb ed="#L" n="22"/>intrinsece hec cognoscit. Quare &amp; Auicenna 8. Metaph. 6. &amp; 
+      <lb ed="#L" n="23"/>Algazel 3. Metaph. 1. Sent. 6. ostendunt Deum non sic scire 
+      sin<lb ed="#L" n="24" break="no"/>gularia seu particularia, primo futura, secundo presentia, tertioque praeterita, quod secundum 
+      <lb ed="#L" n="25"/>mutationem eorum aliquo modo mutetur; sed semper similiter, nec vnquam aliter vllo 
+      mo<lb ed="#L" n="26" break="no"/>do. Quapropter &amp; idem Aui. 9. Met. 1. dicit; Necesse esse per hoc est, necesse esse omnibus suis 
+      <lb ed="#L" n="27"/>modis, quia non potest esse ei aliqua dispositio futura, quae non erat. Quamobrem &amp; 
+      Ammo<lb ed="#L" n="28" break="no"/>nius super iperihermenias vlt. Dij, inquit, vere existunt, &amp; transmutationem neque secundum 
+      <lb ed="#L" n="29"/>intellectum sustinere est possibile. Et infra; Cognoscere, inquit, contingentia, ipforum scilicet 
+      <lb ed="#L" n="30"/>deorum natura est: propter quod haec quidem indeterminatam habentia naturam, posse 
+      qui<lb ed="#L" n="31" break="no"/>dem &amp; euenire, &amp; non euenire; illos autem velut modo nobiliori, quam sit ipsorum natura, 
+      <lb ed="#L" n="32"/>cognitionem illorum preaccipientes, determinate &amp; haec scire. Etenim res partibiles 
+      imparti<lb ed="#L" n="33" break="no"/>biliter, &amp; indistanter cognoscere ipsos est necessarium, &amp; plurificata vnitiue, &amp; temporalia 
+      ae<lb ed="#L" n="34" break="no"/>ternaliter, &amp; generabilia ingenerabiliter. Non enim vtique sustinebimus, quod dicatur simul 
+      <lb ed="#L" n="35"/>cum fluxu rerum cognitionem deorum decurrere, neque esse aliquid apud ipsos aut 
+      praeteri<lb ed="#L" n="36" break="no"/>tum, aut futurum, neque dici de ipsis; erat, vel erit, vt in Timeo assumpsimus, cum sint 
+      signifi<lb ed="#L" n="37" break="no"/>catiua cuiusdam transmutationis; solum autem ipsum est, &amp; hoc non ipsum quod 
+      connumera<lb ed="#L" n="38" break="no"/>tur cum ipso erat, &amp; cum erit, &amp; codiuiditur cum ipsis; sed quod intelligitur ante omnem 
+      tem<lb ed="#L" n="39" break="no"/>poralem insinuationem, &amp; quod significat ipsorum inuertibilitatem, &amp; indecidentiam; quod  
+      <lb ed="#L" n="40"/>quidem &amp; magnus Parmenides omni intellectuali in esse denuntiat: Non enim erat, neque erit; 
+      <lb ed="#L" n="41"/>est autem solum. Cui &amp; concordanter Boetius 5. de Consol. Phil pros vlt. scribitita; Omne 
+      <lb ed="#L" n="42"/>iudicium secundum sui naturam, quae sibi subiecta sunt, comprehendit; est autem Deo semper 
+      <lb ed="#L" n="43"/>aeternus, ac praesentarius status; scientia quoque eius, omnis temporis supergressa motionem, 
+      <lb ed="#L" n="44"/>in suae manet simplicitate presentiae; infinita quoque praeteriti ac futuri spacia complectens, 
+      <lb ed="#L" n="45"/>omnia quasi iam geruntur, in sua simplici cognitione considerat. Itaque si praesentiam pensare 
+      <lb ed="#L" n="46"/>velis, qua cuncta dignoscit, non esse spraesentiam quasi futuri, sed scientiam nunquam 
+      deficien<lb ed="#L" n="47" break="no"/>tis instantie, rectius aestimabis. Hoc idem etiam volunt concorditer omnes Philosophi &amp; 
+      The<lb ed="#L" n="48" break="no"/>ologi de eternitate loquentes, &amp; de actionibus intrinfecis Dei aeternis, aeternitate non tempore 
+      <lb ed="#L" n="49"/>mensuratis. Amplius autem Ecclesiast. 23. Domino, inquit, Deo antequam crearentur omnia 
+      <lb ed="#L" n="50"/>sunt agnita, sic &amp; post perfectum respicit omnia. Quod tractans beatus Aug. 15. de Trinit. 13. 
+      <lb ed="#L" n="51"/>dicit ita; Vniuersas creaturas, non quia sunt, ideo nouit, sed ideo sunt, quia nouit, nec aliter 
+      sci<lb ed="#L" n="52" break="no"/>uit creata quam creanda; non enim eius sapientie aliquid accessit ex eis, sed illis existentibus 
+      <lb ed="#L" n="53"/>sicut oportebat, &amp; quando oportebat, ille mansit vt erat. Ita enim scriptum est in libro 
+      Ec<lb ed="#L" n="54" break="no"/>clesiastico; Antequam crearentur, omnia nota sunt ei, sic &amp; postquam consummata sunt,  
+      <!--271.xml-->
+      <pb ed="#A" n="238"/>
+               <lb ed="#L" n="1"/>sic inquit, non aliter. Eandem quoque sententiam roborat Dionysiis de diuinis nominibus, 
+      <lb ed="#L" n="2"/>7. sicut 15. recitauit. Adhuc autem &amp; Aug. 6. de Trin. vlt. scribit ita; Cum decedant, &amp; 
+      suc<lb ed="#L" n="3" break="no"/>cedant tepora, non decedit vel succedit scientia Dei. No enim hec que creata sunt, ideo 
+      sciun<lb ed="#L" n="4" break="no"/>tur a Deo quia facta sunt, ac non potius ideo facta sunt vel mutabilia, quia immutabiliter ab eo 
+      <lb ed="#L" n="5"/>sciuntur. Idem de quaest. Orosij 22. Deus omnia ab aeterno, stabilito consilio suo, quae voluit,  
+      <lb ed="#L" n="6"/>fecit, nec aliter facta, aliter facienda vidit; Eodem itaque modo videt facta, quo viderat 
+      faci<lb ed="#L" n="7" break="no"/>enda. Idem 5. super Gen. ad literam 18. Quomodo, inquit, nota Deo erant, quae non 
+      e<lb ed="#L" n="8" break="no"/>rant? &amp; rursus, Quomodo ea faceret quae sibi nota non erant? Non enim quicquam fecit 
+      ig<lb ed="#L" n="9" break="no"/>norans. Nota ergo fecit, non facta cognouit. Proinde antequam fierent, &amp; erant, &amp; non 
+      e<lb ed="#L" n="10" break="no"/>rant; Erant in Dei scientia, non erant in sua natura; Et infra, Ipsi autem Deo non audeo 
+      di<lb ed="#L" n="11" break="no"/>cere alio modo innotuisse, cum ea fecisset, quam illo quo ea nouerat vt faceret, apud quem  
+      <lb ed="#L" n="12"/>non est commutatio nec momenti obumbratio. Idem II. de Ciuit. Dei 21. Quid aliud 
+      intel<lb ed="#L" n="13" break="no"/>ligendum in eo quod per omnia dicitur; vidit Deus quia bonum est, nisi operis approbatio 
+      se<lb ed="#L" n="14" break="no"/>cundum artem facti, quae sapientia Dei est; Deus autem vsque adeo non cum factum est, tunc 
+      di<lb ed="#L" n="15" break="no"/>dicit bonum, vt nihil eorum fieret, si ei fuisset incognitum. Dum ergo videt; quia bonum est,  
+      <lb ed="#L" n="16"/>quod nisi vidisset antequam fieret, non vtique fieret, docet bonum esse, non discit; &amp; Plato 
+      qui<lb ed="#L" n="17" break="no"/>dem plus ausus est dicere, Deum scilicet elatum gaudio mundi vniuersitate perfecta; vbi &amp; 
+      ip<lb ed="#L" n="18" break="no"/>se, Non vsque adeo desipiebat, vt putaret Deum sui operis nouitate factum beatiorem, sed sic 
+      <lb ed="#L" n="19"/>ostendere voluit artifici suo placuisse iam factum, quod placuerat in arte faciendum; non quod 
+      <lb ed="#L" n="20"/>vllo modo Dei scientia varietur, vt aliud in eo faciunt quae nondum sunt, aliud quae iam sunt,  
+      <lb ed="#L" n="21"/>aliud quae fuerunt. Non enim more nostro ille quod futurum est prospicit, vel quod praesens 
+      <lb ed="#L" n="22"/>est aspicit, vel quod praeteritum est respicit, sed alio modo quodam a nostrarum cogitationum 
+      <lb ed="#L" n="23"/>consuetudine longe alteque diuerso. Ille quippe non ex hoc in illud cogitatione mutata, sed 
+      om<lb ed="#L" n="24" break="no"/>nino incommutabiliter videt, ita vt illa quidem quae temporaliter fiunt, &amp; futura nondum sint, 
+      <lb ed="#L" n="25"/>&amp; praesentia iam sint, &amp; praesentia iam non sint. Ipse vero haec omnia stabili ac sempiterna 
+      <lb ed="#L" n="26"/>praesentia comprehendat, nec aliter oculis, aliter mente; Non enim ex animo constat &amp; 
+      corpo<lb ed="#L" n="27" break="no"/>re, nec aliter nunc, aliter antea, &amp; aliter postea, quoniam non, sicut nostra, ita eius quoque 
+      scien<lb ed="#L" n="28" break="no"/>tia trium temporum, praesentis videlicet &amp; praeteriti, vel futuri varietate mutatur, apud quem  
+      <lb ed="#L" n="29"/>non est immutatio, nec momenti obumbratio. Neque enim eius intentio de cogitatioue in 
+      co<lb ed="#L" n="30" break="no"/>gitationem transit, in cuius incorporeo contuitu simul assunt cuncta quae nouit. Idem super 
+      <lb ed="#L" n="31"/>illud Psalmi 138. Mirabilis facta est scientia tua ex me, dicit, quod Deus loquebatur ad 
+      Mo<lb ed="#L" n="32" break="no"/>sem per aliquam creaturam corporalem assumptam, non quomodo loquitur in substantia 
+      <lb ed="#L" n="33"/>sua: Quomodo enim loquitur in substantia sua? Locutio Dei, verbum Dei est; verbum Dei 
+      <lb ed="#L" n="34"/>Christus est; verbum illud non sonat &amp; transit, sed semper incommutabiliter manet verbum, 
+      <lb ed="#L" n="35"/>per quod omnia facta sunt, Cui verbo dicitur Ipsa est enim &amp; sapientia Dei) Mutabis ea, &amp; 
+      <lb ed="#L" n="36"/>mutabuntur, Tu autem idem ipse es; Et alio loco de Sapientia cum scriptura diceret, In seipsa 
+      <lb ed="#L" n="37"/>manens, ait, Iunouat omnia; Illa ergo sapientia stans, si dici debeat vel stans; dicitur 
+      au<lb ed="#L" n="38" break="no"/>tem propter incommutabilitatem, non propter immobilitatem, &amp; eodem modo se semper 
+      <lb ed="#L" n="39"/>habens, nullo loco, nullo tempore variata, nusquam aliter quam hic aut ibi; nunquam 
+      a<lb ed="#L" n="40" break="no"/>liter quam nunc aut antea, Ipsa est locutio Dei. Idem4. de Trinit. 1. vnum est verbum Dei 
+      <lb ed="#L" n="41"/>per quod facta sunt omnia, quod est incommutabilis veritas; Ibi principaliter atque 
+      incom<lb ed="#L" n="42" break="no"/>mutabiliter sunt omnia simul, non solum quae nunc sunt in hac vniuersa creatura, 
+      verumeti<lb ed="#L" n="43" break="no"/>am quae fuerunt, &amp; quae facta sunt. Ibi autem nec fuerunt, nec futura sunt, sed tantummodo 
+      <lb ed="#L" n="44"/>sunt, &amp; omnia vita sunt, &amp; omnia vnum sunt, &amp; quod magis mirum est, &amp; vna est vita, sic enim 
+      <lb ed="#L" n="45"/>omnia per ipsum facta sunt, vt quicquid factum est in his in illo vita sit, &amp; facta non sit. 
+      Am<lb ed="#L" n="46" break="no"/>plius si scientia Dei esset mutabilis, esset &amp; aliquo modo mortalis, vt patet ex 50. huius 
+      prae<lb ed="#L" n="47" break="no"/>missis: Quomodo ergo dicente Apostolo, Solus habet immortalitatem 1. ad Timoth. vlt. 
+      <lb ed="#L" n="48"/>quomodo etiam alio Apostolo, &amp; Euangelista docente; Quod factum est in ipso, vita erat 10. 1. 
+      <lb ed="#L" n="49"/>qualis vita? mortalis? quis mortalium ita dicet? Nonne &amp; hoc videtur contra Aug. proximo 
+      re<lb ed="#L" n="50" break="no"/>citatum? qui &amp; I. Confess. 6. Tu Domine semper viuis, &amp; nihil moritur in te, quoniam ante 
+      <lb ed="#L" n="51"/>primordia saeculorum, &amp; ante omnia quod ante dici potest, tu es; &amp; Dominus meus es, 
+      Domi<lb ed="#L" n="52" break="no"/>nusque omnium quae creasti; &amp; apud te rerum omnium instabilium stant causae, &amp; rerum 
+      <lb ed="#L" n="53"/>omnium mutabilium immutabiles manent origines, &amp; omnium itrationabilium &amp; 
+      tem<lb ed="#L" n="54" break="no"/>poralium sempiternae viuunt rationes. Et infra 12i. libri 100. Tu aeternus es habens 
+      immortali<lb ed="#L" n="55" break="no"/>tatem, quoniam ex nulla specie // motus mutaris, nec temporibus variatur voluntas tua, quia 
+      <lb ed="#L" n="56"/>non est immortalis volutas quae alia atque alia est. Vnde &amp; sumitur 183a. propositio sententiarum 
+      <lb ed="#L" n="57"/>Prosperi, quae sic dicit, Vera aeternitas Dei est, qui solus habet immortalitatem, quoniam ex 
+      <lb ed="#L" n="58"/>nulla specie // motus mutatur, nec temporalis est voluntatis. Non enim immortalis est, 
+      <!--272.xml-->
+      <pb ed="#A" n="239"/>
+               <lb ed="#L" n="1"/> voluntas quae alia &amp; alia est; Cur ergo non similiter de scientia sentiendum? Imo audi ip¬ 
+      <lb ed="#L" n="2"/>summet super Ioan. Homilia 23. partis primae dicentem, Transi omnem mutabilem 
+      spiri<lb ed="#L" n="3" break="no"/>tum, transi spiritum qui modo scit, modo nescit, modo meminit &amp; obliuiscitur, vult 
+      <lb ed="#L" n="4"/>quod nolebat, non vult quod volebat, siue patiatur iam istas mutabilitates, siue pati, possit, 
+      <lb ed="#L" n="5"/>transi haec omnia. Non enim inuenis in Deo aliquid mutabilitatis, non aliquid quod, aliter 
+      <lb ed="#L" n="6"/>nunc sit, aliter paulo ante fuerit: Nam vbi inuenis aliter &amp; aliter, facta est ibi quaedam mors; 
+      <lb ed="#L" n="7"/>Mors enim est non esse quod fuit. Istam quoque sententiam confirmat Gregorius 18. 
+      Mo<lb ed="#L" n="8" break="no"/>ral. 3I. sicut ex quinto huius apparet. Ex his autem arbitror immutabilitatem diuinae 
+      scien<lb ed="#L" n="9" break="no"/>tiae apparere, qua concossa, quis immutabilitatem diuinae voluntatis negabit? Nonne similis 
+      <lb ed="#L" n="10"/>ratio est hinc inde? Nonne &amp; quaedam Autoritates praemissae ipsam clare testantur?, 
+      Am<lb ed="#L" n="11" break="no"/>plius autem si voluntas Dei esset mutabilis, &amp; alternabilis successiue, possibile esset aliquem  
+      <lb ed="#L" n="12"/>incipere esse saluandum, &amp; aliquid esse futurum, &amp; similiter definere absque positione in esse. 
+      <lb ed="#L" n="13"/>B Ponatur enim quod Deus heri noluit positiue Petrum esse saluandum, &amp; A esse futurum, sedi 
+      <lb ed="#L" n="14"/>quod voluit oppositum, &amp; quod hodie velit vtrumque; tunc per decimum heri Petrus, non, 
+      <lb ed="#L" n="15"/>fuit saluandus, nec  futurum, &amp; hodie est saluandus, &amp; E4 futurum, quod est impossibile 
+      <lb ed="#L" n="16"/>manifestum. Et idem potest argui de desitione praedicta, supponendo opposita 
+      praemisso<lb ed="#L" n="17" break="no"/>rum. Item si voluntas Dei esset mutabilis, ipse nesciret certe futura contingentia: Non enim 
+      <lb ed="#L" n="18"/>potest certitudinaliter illa scire nisi per aliquod certum, sicut decimo octauo est ostensum; 
+      <lb ed="#L" n="19"/>nec Deus scit futura contingentia nisi per voluntatem suam, &amp; si illa sit aiterbilis, suceessa 
+      <lb ed="#L" n="20"/>siue, ipsa est incerta, sicut voluntas humana. Nam sicut nescio nunc quod cra, scribam, iper 
+      <lb ed="#L" n="21"/>hoc quod nunc volo cras scribere, quia voluntas mea medio tempore potest matari; Ita 
+      vi<lb ed="#L" n="22" break="no"/>detur quod Deus nunc nesciat quod Antichristus erit, per hoc, quod nunc vult eum tote, si 
+      <lb ed="#L" n="23"/>voluntas eius posset similiter alternari. Hoc enim dato, non sequitur, Deus nunc vult 
+      An<lb ed="#L" n="24" break="no"/>tichristum fore in A tempore vel instanti, ergo Antichristus tunc erit. Potest enim post, 
+      prae<lb ed="#L" n="25" break="no"/>sens velle, ante A, habere nolle vel non velle respectu illius, &amp; continuare illud vsque ad A, &amp; 
+      <lb ed="#L" n="26"/>semper; quod si ponatur in esse, sequitur veritas antecedentis, &amp; oppositi consequentus. Hod 
+      <lb ed="#L" n="27"/>etiam Autoritates sacrae testantur: vnde Psalmo 32. Consilium autem Domini in aeternum 
+      <lb ed="#L" n="28"/>manet, Cogitationes cordis eius in generatione &amp; generationem. Olossa, ig // est, non sunt 
+      <lb ed="#L" n="29"/>mutabiles, sed aeternae, &amp; praedestinatio eius immutabilis est, in qua omnia reposita sunt. Et  
+      <lb ed="#L" n="30"/>sumitur haec Glossa ab Augustino super eundem locum Psalmi tractatu 1. dicente, Cogitatio. 
+      <lb ed="#L" n="31"/>nes sapientiae eius non sunt mutabiles, sed manentes in saeculum saeculi. Simile est illud Psalmi 
+      <lb ed="#L" n="32"/>II6. Veritas Domini manet in aeternum: &amp; illud Psalmi 1I8. Initio cognoui de testimonijs 
+      <lb ed="#L" n="33"/>tuis, quia in aeternum fundasti ea; &amp; illud Apostoli 2. ad Timoth. 2. Firmum sundamentum 
+      <lb ed="#L" n="34"/>Dei stat habens signaculum hoc, Nouit Dominus qui sunt eius. Et ad Hebr. 6. Volens Deus 
+      <lb ed="#L" n="35"/>ostendere pollicitationis haeredibus immobilitatem consilij sui, interponit iusiurandum: Et  
+      <lb ed="#L" n="36"/>Esaiae 46. Consilium meum stabit, &amp; omnis voluntas mea fiet: &amp; lerem. 31. In charitate 
+      per<lb ed="#L" n="37" break="no"/>petua dilexi te, ideo attraxi te, miserans; In charitate, inquit, perpetua, non nouella. Hoc idem 
+      <lb ed="#L" n="38"/>expresse dicit Augustinus 3. de Trinit. 2. exponens illud Psalmi I2I. Ierusalem, quae aedifica 
+      <lb ed="#L" n="39"/>tur vt ciuitas, cuius participatio eius in idipsum; per Idipsum, inquit, hoc loco, illud summum 
+      <lb ed="#L" n="40"/>&amp; incommutabile bonum intelligitur, quod Deus est, atque sapientia voluntasque ipsius, cui 
+      <lb ed="#L" n="41"/>cantatur in alio loco, Mutabis ea, &amp; mutabuntur, tu autem idem ipse es: &amp; cap. 3. quod 
+      om<lb ed="#L" n="42" break="no"/>nium visibilium, &amp; // inuisibilium factorum causa est inuisibilis, &amp; incommutabilis voluntas 
+      <lb ed="#L" n="43"/>Dei. Et cap. 4. Deus vtitur omnibus siue incorporeis, siue corporeis rebus, siue rationalibus 
+      <lb ed="#L" n="44"/>siue irrationalibus, siue bonis siue malis, ad incommutabile arbitrium sententiae suae. Et 
+      En<lb ed="#L" n="45" break="no"/>chitid 75. loquens de Tyrijs, &amp; Sidonijs, quos Deus noluit saluos fieri, dicit, quod in 
+      resurre<lb ed="#L" n="46" break="no"/>ctione in clarissima luce sapientiae videbitur, quod nunc piorum fides habet, quam certa &amp;  
+      <lb ed="#L" n="47"/>immutabilis, &amp; efficacissima sit voluntas Dei. Et 83. quaest. 27. Lex Dei incommutabilis 
+      ma<lb ed="#L" n="48" break="no"/>net, &amp; omnia mutabilia pulcherrima gubernatione moderatur. Et 1. delibero arbitrio 13. 
+      <lb ed="#L" n="49"/>Lex illa quae summa ratio nominatur, qua lex temporalis fertur &amp; mutatur, est 
+      incommuta<lb ed="#L" n="50" break="no"/>bilis in tantum, quod ipsa variari non poterit vllo modo. Quod &amp; sententiae Prosperi 
+      conte<lb ed="#L" n="51" break="no"/>stantur, quas ideo libenter allego, quia quoties eas allego, duos testes omni exceptione 
+      ma<lb ed="#L" n="52" break="no"/>iores adduco, Augustinum scilicet &amp; Prosperum Aquitanicum, qui velut apes argutula 
+      su<lb ed="#L" n="53" break="no"/>gens medullas de floribus operum Augustini in alueari sententiarum istarum, in fauos 
+      mel<lb ed="#L" n="54" break="no"/>listuos componebat? Harum igitur sententiarum propositio 342a sic dicit; Lex omnium 
+      <lb ed="#L" n="55"/>artium: cum sit omnino incommutabilis, satis apparet supra mentem nostram esse legem  
+      <lb ed="#L" n="56"/>quae veritas dicitur. Nam haec est illa incommutabilis veritas, quae lex omnium artium 
+      re<lb ed="#L" n="57" break="no"/>cte dicitur, &amp; ars omnipotentis Artificis, &amp; propositigne 42. Mutabilium dispositionem 
+      im<lb ed="#L" n="58" break="no"/>mutabilis ratio continen: &amp; 169. Cogitatio &amp; recognitio Dei mutandarum rerum est incom¬ 
+      <!--273.xml-->
+      <pb ed="#A" n="240"/>
+               <lb ed="#L" n="1"/>mutabilis ratio. Neque enim sicut hominem ita Deum, cuiusquam facti fui poenitet, cuius de 
+      <lb ed="#L" n="2"/>omnibus omnino rebus tam fixa est sententia, quam certa praescientia. Et propositione 158. 
+      <lb ed="#L" n="3"/>Quod in operibus prius dicitur aut posterius, no ad facientem, sed ad facta referendum est; 
+      Aeter<lb ed="#L" n="4" break="no"/>na enim est, &amp; incomutabilis voluntas eius, nec consilio alternatim variatur, in qua simul est 
+      <lb ed="#L" n="5"/>quicquid in rebus creandis, vel ordinandis, aut precessit aut sequitur. Item Aug. 5 de Trin. vlt. 
+      <lb ed="#L" n="6"/>Deus autem, absit, vt aliquem temporaliter diligat quasi noua dilectione quae in ipso ante non 
+      <lb ed="#L" n="7"/>erat, apud quem nec praeterita tranfierunt, &amp; futura iam facta sunt. Itaque omnes Sanctos 
+      <lb ed="#L" n="8"/>suos ante mundi constitutionem dilexit, sicut praedestinauit; sed cum conuertuntur ad illum, 
+      <lb ed="#L" n="9"/>tunc incipere ab eo diligi dicuntur, vt eo modo dicatur, quo potest humano affectu capi quod 
+      <lb ed="#L" n="10"/>dicitur. Sic etiam cum iratus malis dicitur &amp; placidus bonis, illi mutantur, non ipse, sicut 
+      <lb ed="#L" n="11"/>lux infirmis oculis aspera, firmis lenis est, ipsorum scilicet mutatione, non sua. Idem 15. de 
+      <lb ed="#L" n="12"/>Trin. 20. recitat diafecticam Eunomij Haeretici deridendam, qui posuit vnigenitum Dei 
+      ver<lb ed="#L" n="13" break="no"/>bum non esse filium naturae, sed voluntatis, accidentem scilicet Deo volens asserere 
+      volunta<lb ed="#L" n="14" break="no"/>tem, qua gigneret filium; videlicet ideo, quia nos aliquid aliquando volumus, quodante non  
+      <lb ed="#L" n="15"/>volebamus; quem redarguit statim dicens, Quasi non propter ista mutabilis intelligatur 
+      no<lb ed="#L" n="16" break="no"/>stra natura, quod absit, vt in Deo effe credamus. Non enim ob aliud scriptum est, multae 
+      co<lb ed="#L" n="17" break="no"/>gitationes in corde viri, Confilium autem Domini manet in aeternum, nisi vt intelligamus siue 
+      <lb ed="#L" n="18"/>credamus, sicut aeternum Deum, ita aeternum? eius esse Consilium; ac per hoc immutabile. 
+      <lb ed="#L" n="19"/>ficut ipse est. Quod autem de cogitationibus, hoc etiam de voluntatibus verissime dici potest. 
+      <lb ed="#L" n="20"/>Multae voluntates in corde viri, voluntas autem Domini manet in aeternum. Hoc idem 
+      dici<lb ed="#L" n="21" break="no"/>tur ab eodem multo diffusus 22. de Ciuit. Dei 2. distinguendo de voluntate Dei. Accipitur 
+      <lb ed="#L" n="22"/>enim quandoque pro effectu voluntatis diuinae, &amp; sic est mutabilis, quandoque vero pro illa 
+      <lb ed="#L" n="23"/>fua voluntate, quae est sempiterna cum eius praescientia, &amp; sic nunquam habet nouam 
+      volun<lb ed="#L" n="24" break="no"/>tatem, sed semper eandem quae immutabilis perseuerat. Hoc idem ostendit multum diffuse 
+      <lb ed="#L" n="25"/>supra 12. 17. &amp; 14. Idem 8. super Gen. ad literam 17. de diuina prouidentia loquens, dicit, 
+      <lb ed="#L" n="26"/>Deus omnipotens, &amp; omnia tenens, incommutabili aeternitate, veritate, &amp; voluntate, semper 
+      <lb ed="#L" n="27"/>idem non per tempus, nec per locum motus, mouet creaturas per locum &amp; tempus. Idem 
+      pa<lb ed="#L" n="28" break="no"/>tet per eundem 5. de Ciuit. Dei 9. &amp; alijs locis, &amp; libris non paucis; &amp; per Anselmum de 
+      Con<lb ed="#L" n="29" break="no"/>cordia 3. &amp; 4. &amp; 2. Cur Deus homo 17. alibique frequenter. Dicitque beatus Gregorius 
+      <lb ed="#L" n="30"/>26. Moral. 4. Omnipotens Deus etsi plerunque mutat sententiam, consilium nunquam. Et  
+      <lb ed="#L" n="31"/>idem habetur in Glossa Esai. 38. vbi tractat de adiectione 15. annorum ad vitam Exechiae. 
+      <lb ed="#L" n="32"/>Adhuc autem audi Augustinum vtramque simul sententiam egregie confirmantem 12. 
+      Con<lb ed="#L" n="33" break="no"/>fes. 15. sic dicendo, Veritas mihi dicit de vefa aeternitate creatoris, quod nequaquam eius 
+      sub<lb ed="#L" n="34" break="no"/>stantia per tempora varietur, nec eius voluntas extra substantia sit; vnde non eum modo velle 
+      <lb ed="#L" n="35"/>hoc, modo velle illud, sed simul &amp;e semel, &amp; semper velle omnia quae vult, non iterum &amp; 
+      ite<lb ed="#L" n="36" break="no"/>rum, neque nunc ista, nunc illa, nec velle quod nolebat, aut nolle quod volebat, quia talis 
+      vo<lb ed="#L" n="37" break="no"/>luntas mutabilis est, &amp; nullum mutabile est aeternum, Deus autem noster est aeternus. Item 
+      <lb ed="#L" n="38"/>quod mihi dicit n aure interiore, expectatio rerum venturarum sit contuitus cum venerint, 
+      <lb ed="#L" n="39"/>idemque contuitus sit memoria, cum praeterierint. Omnis porro intentio quae ita variatur 
+      mu<lb ed="#L" n="40" break="no"/>tabilis est, &amp; omne mutabile aeternum non est, Deus autem noster aeternus est. Haec colligo 
+      <lb ed="#L" n="41"/>atque coniungo, &amp; inuenio Deum meum, Deum aeternum non aliqua noua voluntate 
+      condi<lb ed="#L" n="42" break="no"/>disse creaturam, nec scientiam eius aliquid transitorium pati. Has quoque ambas sententias, 
+      <lb ed="#L" n="43"/>de scientia, &amp; voluntate Dei praedictas Ansel. Cant. Rob. Lincolniensis, Hugo de S. Victore, 
+      <lb ed="#L" n="44"/>P. Lumbardus, alijque Doctores non pauci vnanimiter contestantur: Imponitur quoque 
+      Ae<lb ed="#L" n="45" break="no"/>gyptijs tanquam error, quod ipsi putabant voluntatem diuinam posse per sacrificia immutari. 
+      </p>
+            <div xml:id="dcn2br-e32452-Dd1e576">
+               <head xml:id="dcn2br-e32452-Hd1e578">Corollarium</head>
+               <p xml:id="dcn2br-e32452-d1e581">
+                  <lb ed="#L" n="46"/>COROLLARIVM. 
+      <lb ed="#L" n="47"/>Et habet Corollarium, quod Deus nullum nouiter diligit neque odit, 
+      <lb ed="#L" n="48"/>Nec magis aut minus vna vice quam 
+      alia<lb ed="#L" n="49" break="no"/>Nec preces aut quaecunque merita bona vel mala flectant aut mutant voluntatem diui¬ 
+      <lb ed="#L" n="50"/>nam in minimo huc vel illuc: 
+      <lb ed="#L" n="51"/>Et quod omne saluandum aut damnandum, praemiandum vel puniendum sub quocunque 
+      <lb ed="#L" n="52"/>gradius, voluit ab aeterno saluari vel damnari, praemiarj similiter vel puniri sub eodem 
+      <lb ed="#L" n="53"/>gradu praecise, &amp; hoc nedum voluntate Conditionali, aut indeterminata, sed ita 
+      abso<lb ed="#L" n="54" break="no"/>luta &amp; determinata, sicut vult in praesenti vel finali iudicio, aut post volet.
+      </p>
+               <p xml:id="dcn2br-e32452-d1e603">
+                  <lb ed="#L" n="55"/>VNde sequitur manifeste, quod Deus nullum nouiter diligit neque odit; nec magis aut  
+      <lb ed="#L" n="56"/>Vminus vna vice, quam alia: nec preces aut quaecunque merita bona vel mala flectunt 
+      <!--274.xml-->
+      <pb ed="#A" n="241"/>
+                  <lb ed="#L" n="1"/>aut mutant voluntarem diuinam in minimo huc aut illuc; &amp; quod omnem saluandum aut 
+      <lb ed="#L" n="2"/>damnandum, praemiandum vel puniendum sub quocunque gradu, voluit ab aeterno saluari 
+      <lb ed="#L" n="3"/>vel damnari, praemiari similiter vel puniri, sub eodem gradu praecise, &amp; hoc nedum voluntate 
+      <lb ed="#L" n="4"/>conditionali aut indeterminata, sed ita absoluta &amp; determinata, sicut vult in praesenti, vel in 
+      <lb ed="#L" n="5"/>finali iudicio, aut post volet. Hoc autem totum ex praecedentibus sequitur manifeste. Sed ne 
+      <lb ed="#L" n="6"/>in tam sublimi materia ex phantasmate capitis mei, tantillum videar somniare, Maiorum 
+      me<lb ed="#L" n="7" break="no"/>orum testimonijs &amp; rationibus hoc ostendam. Prima igitur pars huius &amp; secunda patent per 
+      <lb ed="#L" n="8"/>illud Apostoli ad Ephes. 1. Elegit nos ante mundi constitutionem, vt essemus sancti &amp; 
+      imma<lb ed="#L" n="9" break="no"/>culati in conspectu eius in charitate secundum propositum voluntatis suae; &amp; ad Romanos 9. 
+      <lb ed="#L" n="10"/>Cum nondum nati fuissent, aut aliquid egissent boni aut mali, vt secundum electionem 
+      pro<lb ed="#L" n="11" break="no"/>positum Dei maneret, dictum est, quia maior seruiet minori, sicut scriptum est; lacob dilexi, 
+      <lb ed="#L" n="12"/>Esau autem odio habui. Hoc idem patet per Petrum Lumbardum 3. Sent. dist. 32. &amp; per 
+      testi<lb ed="#L" n="13" break="no"/>monia quae adducit. Tertia autem pars eius sequitur ex prioribus euidenter, potestque 
+      proba<lb ed="#L" n="14" break="no"/>ri per responsionem saluatoris filijs Zebedaei, adorante matre eorum, &amp; petente quatenus 
+      di<lb ed="#L" n="15" break="no"/>ceret, vt sederent, vnus ad dextram, &amp; vnus ad sinistram in regno suo, qui sic illis respondit; 
+      <lb ed="#L" n="16"/>Sedere ad dextram meam vel sinistram, non est meum dare vobis, sed quibus paratum est a 
+      <lb ed="#L" n="17"/>x Patre, Mat. 20. Si tamen hoc possent preces &amp; merita impetrare, ipse posset hoc dare. Hoc 
+      e<lb ed="#L" n="18" break="no"/>tiam patet per responsionem Samuelis, quam dedit Sauli; cum enim dixisset sibi Samuel; Pro 
+      <lb ed="#L" n="19"/>eo quod abiecisti sermonem Domini, abiecit te Deus, ne sis Rex, rogauit eum Saul, vt portaret 
+      <lb ed="#L" n="20"/>peccatum suum, reuertereturque cum eo, vt Dominum adoraret, qui recusans respondit; 
+      Tri<lb ed="#L" n="21" break="no"/>umphator in Israel, non parcet, &amp; poenitudine non flectetur; Neque enim homo est vt agat 
+      <lb ed="#L" n="22"/>poenitentiam. I. Reg. 15. Cumque Samuel lugeret Saulem, increpans eum Dominus, dixit ei; 
+      <lb ed="#L" n="23"/>Vsquequo tu luges Saulem, cum ego proiecerim eum, ne regnet super Israel? infra 16. Simile 
+      <lb ed="#L" n="24"/>est illud Ierem. 7. Proijciam vos a facie mea, tu ergo noli orare pro populo hoc, nec assumas 
+      <lb ed="#L" n="25"/>pro eis laudem vel orationem, &amp; non obsistas mihi, quia non exaudiam te. Et infra, eodem, II 
+      <lb ed="#L" n="26"/>praecepit illud idem: vbi Olossa; Praecipitur Prophetae ne pro eis oret in quos est 
+      consumma<lb ed="#L" n="27" break="no"/>ta sententia, ne videatur oratio eius infirma, &amp; merito non exaudita. Ne assumas pro eis 
+      lau<lb ed="#L" n="28" break="no"/>dem, quasi ne replicando historiae veteris clementiam, qua misereri soleo, &amp; Iaudando meam 
+      <lb ed="#L" n="29"/>nitaris mutare sententia. Et infra 14. Post confessionem multiplicem peccatorum, &amp; deuota 
+      <lb ed="#L" n="30"/>orationem Ieremiae, Dominus dixit ei; Noli orare pro populo isto in bonum; cum ieiunauerint 
+      <lb ed="#L" n="31"/>non exaudiam preces eorum, &amp; si obtulerint holocausta &amp; victimas non suscipiam ea, 
+      quoni<lb ed="#L" n="32" break="no"/>am gladio &amp; fame, &amp; peste consumam eos. Nonne &amp; hoc est quod Dominus plane docet 
+      E<lb ed="#L" n="33" break="no"/>zec. 14. per Noe, Danielem, &amp; Iob, qui etsi fuerint in medio populi peccatoris, cui Dominus 
+      <lb ed="#L" n="34"/>supplicia praedicebat, non liberarent filios, neque filias, sed se solos. Quare &amp; Gregorius sicut 
+      <lb ed="#L" n="35"/>recitatur in Canone 23. 4 4. Cum superna: sic ait; Cum indignatio sese, vt ita dixerim, 
+      medul<lb ed="#L" n="36" break="no"/>litus mouet, hanc opinio humana non remouet, nec se cuiuslibet vtiliter deprecatio obijcit,  
+      <lb ed="#L" n="37"/>cum semel Deus aliquid ab intimis irascendo disponit. Quibus concordat Aug. 2I. de Ciu. Dei 
+      <lb ed="#L" n="38"/>24. sic dicens; Si de aliquibus ita certa esset Ecclesia, vt qui sint illi etiam nosset, qui licet adhuc 
+      <lb ed="#L" n="39"/>in hac vita sint constituti, tamen praedestinati sunt in aeternum ignem ire cum diabolo, tam pro 
+      <lb ed="#L" n="40"/>eis non oraret, quam nec pro ipso. Simile etiam est illud Apostoli ad Hebr. 12. Esau cupiens 
+      <lb ed="#L" n="41"/>haereditare benedictionem reprobatus est. Non enim inuenit poenitentiae locum, quanquam  
+      <lb ed="#L" n="42"/>cum lacrymis inquisisset eam: Gen. 27. scribitur, quod eiulatu magno fleuit. Simile quoque est 
+      <lb ed="#L" n="43"/>illud Num. 23. Non est Deus quasi homo vt mentiatur, nec vt filius hominis vt mutetur; dixit 
+      <lb ed="#L" n="44"/>ergo, &amp; non faciet? locutus est, &amp; non implebit? Cui consonat illud 2. ad Tim. 2. Ille fidelis 
+      per<lb ed="#L" n="45" break="no"/>manet, seipsum negare non potest: Glosta; Ille, scilicet Christus, permanet fidelis in dictis suis 
+      <lb ed="#L" n="46"/>&amp; vere fidelis quia non potest negare seipsum, qui est veritas; quod faceret, si dicta sua non 
+      im<lb ed="#L" n="47" break="no"/>pleret. Et ne hoc videretur libertati voluntatis diuinae in aliquo derogare, statim subiungit, 
+      <lb ed="#L" n="48"/>Hoc autem quod seipsum negare non potest, laus est voluntatis diuinae; &amp; est Augustini 
+      ho<lb ed="#L" n="49" break="no"/>mil. 53. 1. partis super Iohan. qui etiam 15. de Trin. 14. Verbum, inquit, Dei falsum habere 
+      a<lb ed="#L" n="50" break="no"/>liquid nunqua potest, quia immutabiliter sic se habet, vt se habet de quo est. Non enim potest 
+      <lb ed="#L" n="51"/>filius a se facere quicquam, nisi quod viderit Patrem facientem. Potenter hoc non potest; Nec 
+      <lb ed="#L" n="52"/>est infirmitas ista sed firmitas, quia falsa esse non potest veritas. Haec etiam pars 3. patet per 
+      <lb ed="#L" n="53"/>beatum Greg. 1. dial. 2I. &amp; allegatur in Canone 23. q4. Obtineri, dicentem; Obtineri 
+      ne<lb ed="#L" n="54" break="no"/>quaquam possunt quae praedestinata non sunt, sed ea quae sancti viri orando efficiunt, ita prae 
+      <lb ed="#L" n="55"/>destinata sunt, vt precibus eorum obtineantur. Nam ipsa quoque perennis regni 
+      praedestina<lb ed="#L" n="56" break="no"/>tio, ita est a Deo disposita, vt ad hoc electi ex labore perueniant, quatenus postulando 
+      merean<lb ed="#L" n="57" break="no"/>tur accipere, quod eis omnipotens Deus ante saecula disposuit dare. Cui &amp; concordat Aug. 
+      <lb ed="#L" n="58"/>10, de Ciu. Dei 12. ita dicens; lncommutabile consilium penes ipsum est, in cuius dispositione 
+      <!--275.xml-->
+      <pb ed="#A" n="242"/>
+                  <lb ed="#L" n="1"/>iam tempora facta sunt, quecunque futura sunt. Nam temporalia mouens temporaliter non 
+      mo<lb ed="#L" n="2" break="no"/>uetur, nec aliter nouit facieda quam facta, nec aliter inuocantes exaudit, quam inuocaturos 
+      vi<lb ed="#L" n="3" break="no"/>det. Nam &amp; cum exaudiunt angeli eius, ipse in eis exaudit tanqua in vero non manufacto 
+      tem<lb ed="#L" n="4" break="no"/>plo suo, sicut in humilibus sanctis suis, eiusque temporaliter fiunt iussa aeterna eius lege 
+      con<lb ed="#L" n="5" break="no"/>specta. Qui &amp; supra 5i. 90. sic scribit, Non sunt frustra leges, obiurgationes, exhortationes, 
+      <lb ed="#L" n="6"/>laudes, &amp; vituperationes, quia &amp; ipsas futuras esse praesciuit Deus, &amp; preces valent ad ea 
+      impe<lb ed="#L" n="7" break="no"/>tranda, quae se precantibus concessurum esse praesciuit. Et infra 2Ii. 240. sic ait, Ecclesiae 
+      <lb ed="#L" n="8"/>orat pro omnibus hominibus, nec tamen pro omnibus exauditur, sed pro his solis, qui etsi 
+      <lb ed="#L" n="9"/>aduersantur Ecclesiae, ita sunt tamen praedestinati, vt pro eis exaudiatur. 150. quoque de 
+      <lb ed="#L" n="10"/>Trinit. 130. vult hoc idem. Item si voluntas Dei possit per aliquas preces mutari, liceret, &amp;  
+      <lb ed="#L" n="11"/>pium esset orare pro Angelis, hominibusque damnatis, contra Augustinum 2I. de Ciuit. Dei 
+      <lb ed="#L" n="12"/>24. plane, &amp; contra fidem Ecclesiae generalem. Item si sic, hoc maxime videretur per 
+      pre<lb ed="#L" n="13" break="no"/>ces dignissimas sanctissimae matris suae, sanctorum Angelorum, &amp; animarum sanctarum; sed p 
+      <lb ed="#L" n="14"/>isti nihil audent velle, nec petere, neque possunt, nisi quod viderint Deum velle. Vnde 
+      Pe<lb ed="#L" n="15" break="no"/>trus Lumbardus 3. sentent. dist. 3I. Qui, inquit, in patria sunt, adeo iustitiae Dei addicti 
+      <lb ed="#L" n="16"/>sunt, vt nihil eis placeat, nisi quod Deo placeat, ac per hoc illorum tantum salutem volunt,  
+      <lb ed="#L" n="17"/>quos Deus saluari vult, cosque solos sicut se diligunt. Qui &amp; 4. sentent. dist. 45. sic scribit, 
+      De<lb ed="#L" n="18" break="no"/>us dicitur exaudire preces quorundam non solum quando effectui mancipat, sed etiam 
+      quan<lb ed="#L" n="19" break="no"/>do innotescit curiae Angelorum &amp; sanctarum animarum, quid inde futurum sit vel non, &amp;  
+      <lb ed="#L" n="20"/>quod cognoscunt in Dei voluntate esse, volunt &amp; ipsi. Adeo enim voluntati addicti sunt 
+      su<lb ed="#L" n="21" break="no"/>pernae, vt nihil praeter voluntatem eius queant velle. Intercedunt ergo sancti pro nobis 
+      ad<lb ed="#L" n="22" break="no"/>Deum, &amp; merito dum eorum merita suffragantur nobis, &amp; affectu, dum vota nostra cupiunt 
+      <lb ed="#L" n="23"/>adimpleri, quod tamen non faciunt, nisi in voluntate Dei implenda didicerint. Apparet 
+      igi<lb ed="#L" n="24" break="no"/>tur quod voluntas Dei per preces &amp; bona merita non mutatur, quare nec per mala. 
+      Quar<lb ed="#L" n="25" break="no"/>ta vero pars patet per partes priores, &amp; probationes earum, &amp; quia si Deus aliud vel aliter 
+      <lb ed="#L" n="26"/>vellet vna vice quam alia, voluntas eius, &amp; ipse similiter mutaretur. Potest autem hoc 
+      i<lb ed="#L" n="27" break="no"/>dem specialiter sic probari: Quando Deus creauit naturam Angelicam &amp; humanam, 
+      a<lb ed="#L" n="28" break="no"/>liquid de ipsa finaliter intendebat absolute &amp; determinate, (Illa enim sapientia quae attingit 
+      <lb ed="#L" n="29"/>a fine vsque ad finem fortiter, &amp; disponit omnia suauiter, non agit stultius seu vanius quam  
+      <lb ed="#L" n="30"/>natura, &amp; voluntas creata, quae agunt actiones determinatas propter finem determinatum, 
+      <lb ed="#L" n="31"/>vt patet 2. Phys. diffuse;) &amp; non intendebat quod tota staret, &amp; beatitudine finaliter 
+      frue<lb ed="#L" n="32" break="no"/>retur, quia tunc eius propositum frustraretur, quod capitulum decimum non permittit; &amp;  
+      <lb ed="#L" n="33"/>idem argumentum de Lucifero, Adam, &amp; Iuda, &amp; qualibet persona quae cecidit; vel 
+      <lb ed="#L" n="34"/>damnatur. Vnde dicit Augustinus 5. contra Iulianum 6. Ex numero electorum nullus 
+      <lb ed="#L" n="35"/>perit; caeteri autem mortales qui ex hoc numero non sunt, sed vasa irae facti sunt, ad 
+      vtili<lb ed="#L" n="36" break="no"/>tatem nascuntur istorum: Non enim quenquam eorum Deus temere aut fortuito creat, aut  
+      <lb ed="#L" n="37"/>quid de illis boni operetur, ignorat, cum &amp; hoc ipso bonum operetur, quod in eis 
+      huma<lb ed="#L" n="38" break="no"/>nam creat naturam, &amp; quod ex eis ordinem saeculi praesentis exornat. Deus ergo non 
+      inten<lb ed="#L" n="39" break="no"/>debat statum cadentium, nec beatitudinem damnandorum, quare &amp; vt per vigesimum 
+      se<lb ed="#L" n="40" break="no"/>cundum videtur, intendebat aliquo modo casum &amp; damnationem cuiuscunque talis, quod &amp; 
+      <lb ed="#L" n="41"/>Psalmista videtur sentire Psalmo 103. cum sic dicit, Draco iste quem formasti ad illudendum 
+      <lb ed="#L" n="42"/>ei, si per Draconem Lucifer designetur. Et Ecclesiastici 39. Sunt spiritus qui ad vindictam 
+      <lb ed="#L" n="43"/>creati sunt, &amp;c. Et supra, eodem 26. Qui transgreditur a iustitia ad peccatum, Deus parauit 
+      <lb ed="#L" n="44"/>eum ad romphaeam; quibus &amp; consonare videtur dictum Saluatoris de filio perditionis, 
+      scili<lb ed="#L" n="45" break="no"/>cet Iuda, Ioan. 17. &amp; Apostolus 2. ad Thess. 2. de homine peccati, filio perditionis, scilicet 
+      Anti<lb ed="#L" n="46" break="no"/>christo; quanquam &amp; ista a sanctis Patribus aliter exponantur. Haec etiam videtur sententia 
+      <lb ed="#L" n="47"/>Apostoli ad Rom. 9. dicentis, Anno habet potestatem figulus luti ex eadem massa facere aliud 
+      <lb ed="#L" n="48"/>quidem vas in honorem, aliud vero in contumeliam? quod &amp; statim exponit de vasis irae aptis 
+      <lb ed="#L" n="49"/>in interitum, &amp; vasis misericordiae in gloriam preparatis, quem locum Apostoli Augustinus S. I 
+      <lb ed="#L" n="50"/>contra Iulianum recitat expressius pro ista sententia, secundum transtationem aliam in haec 
+      <lb ed="#L" n="51"/>verba, Si autem voluit Deus ostendere iram, &amp; demonstrare potentiam suam, attulit in multa 
+      <lb ed="#L" n="52"/>patientia vasa irae, quae perfecta sunt in perditionem, &amp;c.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="622"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e82442"><!-- l2c33 -->
+            <head xml:id="dcn2br-e82442-Hd1e106">Caput 33</head>
+            <p xml:id="dcn2br-e82442-d1e109">
+               <lb ed="#L" n="37"/>CAP. XXXIII. 
+      <lb ed="#L" n="38"/>Obiicit &amp; respondet.
+    </p>
+            <p xml:id="dcn2br-e82442-d1e116">
+               <lb ed="#L" n="39"/>HIc autem obijcitur a quibusdam, Deus omnia rationabiliter operatur, 
+      <lb ed="#L" n="40"/>&amp; ex aliqua iusta causa; alias enim temerarie agere videretur: 
+      Dicit<lb ed="#L" n="41" break="no"/>que Iob 5. Nihil in terra sine causa sit: Est ergo aliqua ratio &amp; 
+      ali<lb ed="#L" n="42" break="no"/>qua iusta causa, quare Deus huic dat gratiam aut perseuerantiam, &amp; 
+      <lb ed="#L" n="43"/>illi non dat; &amp; non ex parte Dei, quare ex parte istorum. Item tunc 
+      <lb ed="#L" n="44"/>nullus peccaret simpliciter omittendo: Non enim ipse est in causa 
+      <lb ed="#L" n="45"/>qui omittit, sed Deus. Item Deus neminem deserit, nisi prius 
+      desera<lb ed="#L" n="46" break="no"/>Itur ab eo: Qui enim quaerit auersos, quomodo deserit iam 
+      conuer<lb ed="#L" n="47" break="no"/>sos? aut qui attrahit inimicum, quomodo repellit amicum? Vnde Ioan. 6. Eum qui venit ad  
+      <lb ed="#L" n="48"/>me, non eijciam foras: &amp; Iudith. 13. Non deseruit sperantes in se: qui &amp; Apostolo teste dixit,  
+      <lb ed="#L" n="49"/>Non te deseram, nec derelinquam, ad Hebr. 13. qui &amp; per Prophetam sic ait, Quia tu 
+      sci<lb ed="#L" n="50" break="no"/>entiam repulisti, repellam &amp; ego te, Hoseae 4. Dicitque Augustinus 13. de Ciuit. Dei 15. 
+      <lb ed="#L" n="51"/>quod anima peccatrix non est deserta vita sua, quae est Deus, vt desereret; sed vt 
+      deserere<lb ed="#L" n="52" break="no"/>tur, deseruit; qui &amp; de confutatione 16. Capitulorum falso ei // imputatorum responsione 
+      <lb ed="#L" n="53"/>septima dicit, quod Deus priusquam deseratur neminem deserit, &amp; multos desertores saepe 
+      <lb ed="#L" n="54"/>conuertit; Et infra responsione 14a. Deus recessurum non deserit, antequam deseratur, &amp;  
+      <!--656.xml-->
+      <pb ed="#A" n="623"/>
+               <lb ed="#L" n="1"/>facit plerumque ne deserat, &amp; etiam si discesserit, vt redeat: quod &amp; plurimae autoritates ca¬ 
+      <lb ed="#L" n="2"/>nonicae, &amp; aliae contestantur. Item Sapiens admonet quemlibet sapientem sic dicens, Nor 
+      <lb ed="#L" n="3"/>dixeris per Deum abest, scilicet sapientia Dei. Item Anselmus de casu Diaboli 1. dicit, quod 
+      <lb ed="#L" n="4"/>solus Deus a se habet quicquid habet, &amp; omnia alia non nisi ab illo habent; &amp; sicut a se non  
+      <lb ed="#L" n="5"/>nisi nihil habent, ita ab illo non nisi aliquid habent: vbi &amp; consequenter ostendit, nihil &amp; 
+      <lb ed="#L" n="6"/>non esse, non esse a Deo, sed infuisse cuilibet alij ex seipso; qui &amp; infra 2. mouet 
+      quaestio<lb ed="#L" n="7" break="no"/>nem; An sicut bonus Angelus ideo accepit perseuerantiam, quia Deus eam dedit; nunquid 
+      <lb ed="#L" n="8"/>ita malus Angelus ideo non accepit perseuerantiam, quia Deus eam non dedit? Et insra 3. 
+      <lb ed="#L" n="9"/>respondendo dicit, quod in bono Angelo dare fuit causa accipiendi; in malo tamen 
+      Ange<lb ed="#L" n="10" break="no"/>lo non dare, non fuit causa non accipiendi perseuerantiam, sed e contra. Primum autem 
+      <lb ed="#L" n="11"/>obiectorum istorum soluitur per praemissa hic proximo &amp; vigesimo primo primi; Nec 
+      obie<lb ed="#L" n="12" break="no"/>ctum de omissione boni procedit; Similiter enim potes arguere, nullum mereri omittendo 
+      <lb ed="#L" n="13"/>malum, seu declinando a malo; Similiter etiam potes arguere de commissione, nullum sci¬ 
+      <lb ed="#L" n="14"/>licet peccare vel mereri aliquod faciendo, cum Deus ibi praeueniat operando. Quare &amp; 
+      Au<lb ed="#L" n="15" break="no"/>gustinus in glossa, super illud Deuter 29. Non dedit vobis cor intelligens, &amp;c. proximo 
+      al<lb ed="#L" n="16" break="no"/>legata, sic ait, Quomodo ait superius, vos vidistis tentationes, &amp;c. si non dedit Dominus 
+      <lb ed="#L" n="17"/>oculos videre? sed corpore viderunt, non corde: Vnde praemisit Non dedit Dominus 
+      <lb ed="#L" n="18"/>x vobis scire; Ad hoc pertinent duo quae sequuntur, oculos videre, &amp; autes audire, id est,  
+      <lb ed="#L" n="19"/>intelligere, &amp; obedire: Quod vero dicit, Non dedit vobis Dominus; increpans &amp; arguens, 
+      <lb ed="#L" n="20"/>non diceret, nisi ad eorum culpam pertineret, ne quisquam se ex hoc excusabilem puter; 
+      Si<lb ed="#L" n="21" break="no"/>mul enim ostendit sine adiutorio eos intelligere &amp; obedire non posse oculis &amp; auribus cordis; 
+      <lb ed="#L" n="22"/>&amp; tamen si adiutorium Dei desit, non ideo esse excusabile hominis vitium, quoniam iudicia 
+      <lb ed="#L" n="23"/>Dei, quamuis occulta, iusta sunt. Quod vero arguitur, Deum neminem deserere priusquam  
+      <lb ed="#L" n="24"/>deseratur; quid verius? Non enim irrogat Deus poenam, nisi prius offendatur per culpam; 
+      <lb ed="#L" n="25"/>Nullum ergo deserit gratiam auferendo, nisi qui eum prius deseruit delinquendo: Sed hoc 
+      <lb ed="#L" n="26"/>quid obitat? Non enim quia cuipiam non dat Deus gratiam &amp; perseuerantiam, ideo 
+      dese<lb ed="#L" n="27" break="no"/>ritur a Deo, nec quia quisquam non aecipit gratiam perseuerantiamue a Deo, ideo desertus 
+      <lb ed="#L" n="28"/>est ab eo, sicut patet de Angelis, &amp; primis parentibus, qui secundum sententiam aliquorum  
+      <lb ed="#L" n="29"/>per aliquam morulam gratia caruerunt, &amp; postquam gratiam acceperunt Apostate Angeli 
+      <lb ed="#L" n="30"/>&amp; primi parentes per aliam morulam perseuerantia caruerunt, sicut sequens casus ostendit; 
+      <lb ed="#L" n="31"/>nec tamen in hac morula vel in illa deserebantur a Deo, quia nullam culpam penitus 
+      habue<lb ed="#L" n="32" break="no"/>runt. Si autem non sic fuit de facto, potuit sic fuisse; &amp; quae quaeso fuit tunc causa non acci 
+      <lb ed="#L" n="33"/>piendi gratiam? Nonne non dare? &amp; cur de non accipiendo perseuerantiam non similiter 
+      <lb ed="#L" n="34"/>iudicandum? Quod autem dicit Sapiens, sapientiam Dei non abesse per Deum; per quem  
+      <lb ed="#L" n="35"/>ergo abest a multis sanctis viris sapientia prophetalis sine suo demerito praecedenti? &amp; adest 
+      <lb ed="#L" n="36"/>multis malis hominibus multiplici suo demerito non obstante, sicut &amp; malis Angelis, &amp; 
+      pri<lb ed="#L" n="37" break="no"/>mis parentibus ante peccatum; Et sanctis Angelis confirmatis abfuit sapientia multiformis, 
+      <lb ed="#L" n="38"/>sicut ex decimo sexto huius patet; &amp; per quem nisi per Deum non dantem? Verum est tamen  
+      <lb ed="#L" n="39"/>sapientiam Dei necessariam ad salutem semel datam, alicui non abesse per Deum illam 
+      omni<lb ed="#L" n="40" break="no"/>no voluntarie subtrahentem sine aliqua culpa praecedente, quia neminem deserit, nisi prius 
+      <lb ed="#L" n="41"/>deseratur ab eo, sicut superius est ostensum. Illud vero dictum Anselmi, quod non entia 
+      <lb ed="#L" n="42"/>non habent non esse a Deo, indiget scrutinio altiori: Oppositum enim videtur ex secunda 
+      <lb ed="#L" n="43"/>parte, quinta, nona, &amp; sequentibus 13i. &amp; capitulo 14. primi libri. Item Antichristum 
+      <lb ed="#L" n="44"/>non esse est verum, iustum, &amp; rationabile, &amp; non prius naturaliter voluntate diuina, quia 
+      <lb ed="#L" n="45"/>tunc esset necessarium, vt patet ex decimo octauo &amp; vigesimo primo primi; quare posterius 
+      <lb ed="#L" n="46"/>&amp; causatum, &amp; dependens ab illa, vt patet ibidem; &amp; ex ostensione duodecimae partis 
+      deci<lb ed="#L" n="47" break="no"/>mi tertij primi libri. Item Antichristum non esse, non est prius naturaliter voluntate 
+      diui<lb ed="#L" n="48" break="no"/>na, quia tunc esset necessarium per praemissa, &amp; quia tunc non subiaceret voluntati diuinae; est 
+      <lb ed="#L" n="49"/>ergo posterius &amp; dependens ab illa. Item per corollarium vigesimi secundi primi, Deus 
+      <lb ed="#L" n="50"/>vult Antichristum non esse; &amp; per vigesimum primi, non quia Antichristus non est, ideo 
+      <lb ed="#L" n="51"/>Deus vult eum non esse, cum ipsum non esse sit posterius voluntate diuina, &amp; ei subiectum; 
+      <lb ed="#L" n="52"/>cum &amp; per indem vigesimum entia contingentia non sint causa voluntatis diuinae; multo ergo 
+      <lb ed="#L" n="53"/>indignius non entia contingentia; est ergo e contra: quia scilicet Deus vult Antichristum 
+      <lb ed="#L" n="54"/>non esse, ideo non est. Item Deus scit Antichristum non esse, &amp; non quia Antichristus 
+      <lb ed="#L" n="55"/>non est, sicut ex decimo quinto primi patet, sed per decimum octauum primi, quia vult eum 
+      <lb ed="#L" n="56"/>non esse: Haec ergo scientia &amp; volutio est causa non entitatis ipsius. Item Antichristus 
+      ha<lb ed="#L" n="57" break="no"/>bet non esse &amp; est non ens, vel ergo per se, vel per aliud; si per se, sicut Anselmus videtur 
+      <lb ed="#L" n="58"/>ibi asserere, &amp; Augustinus de immortalitate Animae 13. sicut secundum primi allegat; ergo 
+      <!--657.xml-->
+      <pb ed="#A" n="624"/>
+               <lb ed="#L" n="1"/>semper &amp; necessario, sicut patet ex secundo &amp; vigesimo sexto primi. Quomodo etiam per 
+      <lb ed="#L" n="2"/>se habet non esse, cum nec se habeat nec quicquam sui, quia nec materiam nec formam? Si 
+      <lb ed="#L" n="3"/>etiam Antichristus de se aut per se habet non esse, vel ergo non esse necessarium, ita quod  
+      <lb ed="#L" n="4"/>impossibile sit ipsum esse; vel non esse possibile &amp; contingens; Non primum constat, nec 
+      <lb ed="#L" n="5"/>secundum, sicut ex decimo quarto primi etiam per Anselmum apparet. Si per aliud, vel per 
+      <lb ed="#L" n="6"/>aliud ens, vel non ens: si per aliud non ens, similiter inquirendum de illo, &amp; cum non sit 
+      pro<lb ed="#L" n="7" break="no"/>cessus infinitus in talibus, detur status in aliquo, &amp;c. sicut supra: si per aliud ens, illud vel est 
+      <lb ed="#L" n="8"/>Deus, vel dependens ab eo; &amp; ita tandem tota processio reducetur ad eum; Multa quoque sunt 
+      <lb ed="#L" n="9"/>non entia, quorum esse vel non esse non dependet nisi tantum a Deo, illa scilicet quae fiunt 
+      im<lb ed="#L" n="10" break="no"/>mediate, &amp; solum ab eo. Item Antichristus non per se habet esse, neque non esse; quia tunc 
+      <lb ed="#L" n="11"/>per praemissa, alterum semper de necessitate haberet; sed de se est indifferens, id est, nullam 
+      <lb ed="#L" n="12"/>differentiam de se habet ad esse, vel ad non esse; si ergo nunc habet vnum horum, nunc 
+      alte<lb ed="#L" n="13" break="no"/>rum, necesse est hoc esse per aliquid aliud ipsum determinans, nunc ad hoc, nunc ad illud. 
+      <lb ed="#L" n="14"/>Item secundum istam positionem videtur, quod non esse entium, siue non entium sit esse 
+      eo<lb ed="#L" n="15" break="no"/>rum, imo &amp; necesse esse eorum, &amp; quod habent illud a se, non a Deo; quod etiam Deus 
+      <lb ed="#L" n="16"/>non posset destruere illud esse, &amp; quod esse, quod a Deo recipiunt, sit eis accidentale, &amp; ipsis 
+      <lb ed="#L" n="17"/>essentialiter manentibus adueniat &amp; recedat, sicut vestis homini permanenti: Dicit enim 
+      <lb ed="#L" n="18"/>Anselmus ibidem, quod omnia alia a Deo, a se non nisi nihil habent. Et infra, cum Deus 
+      <lb ed="#L" n="19"/>quasi iratus destruendo aliquid ausert esse, non est ab illo non esse; sed illo tollente velut esse 
+      <lb ed="#L" n="20"/>suum quod praestiterat, quod ab eo factum seruabatur vt esset, redit in non esse, quod non ab 
+      <lb ed="#L" n="21"/>illo, sed a se, antequam fieret habebat; sicut si ab aliquo repetas tunicam, quam illi nudo sponte 
+      <lb ed="#L" n="22"/>ad tempus praestiteras, non habet a te nuditatem, sed te, quod tuum erat, tollente, redit in illud 
+      <lb ed="#L" n="23"/>quod erat antequam a te indueretur. Sed nulli dubium hanc non esse mentem Anselmi, quia alia 
+      <lb ed="#L" n="24"/>subtilia eius opera vidit: Deus enim de nihilo vere creat totum esse rei nouiter ei praestans, imo 
+      <lb ed="#L" n="25"/>forte non proprie praestans ei: prius enim videtur esse, cui praestatur quam ei praestetur, sed 
+      to<lb ed="#L" n="26" break="no"/>tam rem nouiter faciens &amp; producens. Nec debet mouere quod secundum Doctores omnia 
+      <lb ed="#L" n="27"/>aeternaliter fuerunt in Deo: Non enim fuerunt ibi realiter, &amp; veraciter diuersa ab eo, 
+      si<lb ed="#L" n="28" break="no"/>cut ex prima suppositione potest ostendi &amp; per multiplices rationes, &amp; autoritates 
+      quam<lb ed="#L" n="29" break="no"/>plures: Sed quia hoc reputo tam Philosophis quam Theologis quasi notum, 
+      breuissi<lb ed="#L" n="30" break="no"/>me hoc confirmo. Dicit siquidem Augustinus de gaudijs iustorum, &amp; poenis malorum, 
+      <lb ed="#L" n="31"/>quod Mundus erat in Deo antequam in semetipso erat, non mundus, sed Deus. 
+      Vilhel<lb ed="#L" n="32" break="no"/>mus quoque Parisiensis Episcopus damnauit articulum asserentem, quod multae veritates 
+      <lb ed="#L" n="33"/>fuerunt ab aeterno, quae non sunt ipse Deus. Potest tamen Anselmus exponi, quod non esse 
+      <lb ed="#L" n="34"/>non est a Deo efficienter, proprie, sed deficienter; nec sicut effectus, sed sicut defectus, 
+      si<lb ed="#L" n="35" break="no"/>cut proximum huius dixit; quod &amp; verba ibi praemissa, &amp; alia testari videntur. Dicit enim 
+      <lb ed="#L" n="36"/>cum Deus iratus destruendo aliquid aufert esse, non est ab illo non esse, sed illo tollente 
+      <lb ed="#L" n="37"/>velut esse suum quod praestiterat, quod ab eo factum seruabatur vt esset, redit in non esse. Et  
+      <lb ed="#L" n="38"/>infra, Nempe sicut a summo bono non est nisi bonum, ita a summa essentia non est nisi 
+      es<lb ed="#L" n="39" break="no"/>sentia; Vnde quoniam summum bonum est summa essentia, consequens est vt omne 
+      bo<lb ed="#L" n="40" break="no"/>num sit essentia, &amp; omnis essentia bonum: Nihil ergo &amp; non esse, sicut non est essentia, ita 
+      <lb ed="#L" n="41"/>non est bonum: Nihil namque &amp; non esse non est ab illo, a quo non est nisi bonum &amp; 
+      es<lb ed="#L" n="42" break="no"/>sentia. Quod autem tam Anselmus quam Augustinus videntur asserere res per se vel de se 
+      <lb ed="#L" n="43"/>non esse, seu habere non esse, potest exponi praeponendo negationem; scilicet, quod res non 
+      <lb ed="#L" n="44"/>per se sunt, nec habent esse, seu nullae res per se, &amp;c. sed per Deum. Et si quis obijciat, quod etsi 
+      <lb ed="#L" n="45"/>Deus non esset, adhuc non entia, puta Chimaera &amp; Antichristus non essent, vltima pars 13i. &amp;  
+      <lb ed="#L" n="46"/>coroll. 14i. primi cum suis ostensionibus respondebunt. Secundum quoque dictum Anselmi. 
+      <lb ed="#L" n="47"/>scilicet non accipere perseuerantiam fuisse causam non dandi, similiter indiget 
+      perscrutatio<lb ed="#L" n="48" break="no"/>ne maiori: Hoc enim repugnare videtur dicto eius priori, Si enim nullum ens, quia B 
+      <lb ed="#L" n="49"/>nec Deus, est causa non esse, seu non entis, sed quodlibet non esse, seu non ens per se 
+      <lb ed="#L" n="50"/>est tale; quomodo vnum non esse siue non ens erit causa alterius? Quomodo ergo 
+      po<lb ed="#L" n="51" break="no"/>test non accipere, esse causa non dandi? Si // etiam non accipere sit causa non dandi, vel ergo 
+      <lb ed="#L" n="52"/>causa positiua, vel priuatiua. Non positiua constat; nec priuatiua: Hoc enim esset quia priuaret 
+      <lb ed="#L" n="53"/>causam dandi, &amp; cum non priuet per se nisi accipere esset causa dandi, contra positionem 
+      An<lb ed="#L" n="54" break="no"/>selmi. Si etiam non accipere sit causa non dandi, in quo genere causae? non materialis, nec 
+      for<lb ed="#L" n="55" break="no"/>malis, constat, nec finalis; quia tunc non dare esset causa efficiens non acceptionis, &amp; 
+      <lb ed="#L" n="56"/>non dans finaliter non acceptionem intenderet, &amp; causaret contra Anselmum ibidem. 
+      <lb ed="#L" n="57"/>Nec potest dici, quod non accipere sit causa efficiens non dandi, quia non causa efficiens 
+      posi<lb ed="#L" n="58" break="no"/>tiue, constat; Nec causa efficiens priuatiue: hoc enim esset, quia priuaret causam efficiente, seu 
+      <!--658.xml-->
+      <pb ed="#A" n="625"/>
+               <lb ed="#L" n="1"/>effectiuam positiue; quapropter accipere esset causa efficiens positiue dandi contra 
+      positio<lb ed="#L" n="2" break="no"/>nem Anselmi. Venerabilis autem Pater Anselmus intendit, sicut puto, quod omnes Angeli 
+      <lb ed="#L" n="3"/>acceperunt bonam voluntatem a Deo; in qua si ad certum terminum praestitutum a Deo 
+      ste<lb ed="#L" n="4" break="no"/>tissent, merito stationis illius fuissent beatifice confirmati, sicut &amp; perstantes fuerunt, sicut 
+      <lb ed="#L" n="5"/>infra de casu diaboli:o. patet; &amp; in hac bona voluntate etiam Apostata Angelus sterit ad 
+      tem<lb ed="#L" n="6" break="no"/>pus, sed non perstitit, non peruoluit, non perseuerauit finaliter sic volendo, &amp; hanc 
+      volun<lb ed="#L" n="7" break="no"/>tatem perseuerantem non habuit, non quia Deus omnino voluntarie &amp; mero motu sine 
+      <lb ed="#L" n="8"/>demerito praecedenti illam abstulit, seu non dedit; ac si nunc de sua omnipotentia absoluta 
+      <lb ed="#L" n="9"/>auferret a Gabriele suam beatificam voluntatem pure voluntarie sine culpa aliqua 
+      prae<lb ed="#L" n="10" break="no"/>cedente; sed quia malus Angelus prius voluit culpabiliter aliud per illam culpabilem 
+      vo<lb ed="#L" n="11" break="no"/>luntatem, priorem iustam amisit. Intelligit ergo breuiter, quod Deus non sine culpa mali 
+      <lb ed="#L" n="12"/>Angeli praecedente abstulit ab eo iustam voluntatem, seu dare aut seruare cessauit; sed 
+      <lb ed="#L" n="13"/>hoc fecit propter peccatum eius praecedens, sicut illo tertio plane patet: vbi post longam 
+      <lb ed="#L" n="14"/>disputationem, in fine sic ait, Dico, quia non ideo non voluit cum debuit, &amp; quod debuit,  
+      <lb ed="#L" n="15"/>quia voluntas defecit non dare deficientem, sed quia ipse volendo quod non debuit, bonam 
+      <lb ed="#L" n="16"/>voluntatem expulit, mala semper veniente. Quapropter non ideo non habuit bonam 
+      volun<lb ed="#L" n="17" break="no"/>tatem perseuerantem, aut non accepit, quia Deus non dedit, sed ideo Deus non dedit, quia 
+      <lb ed="#L" n="18"/>ille volendo quod non debuit, &amp; eam deseruit, &amp; deserendo non tenuit: Quod &amp; 4. &amp; 6. 
+      con<lb ed="#L" n="19" break="no"/>sequenter ostendit, quod &amp; consonat multis dictis proximo huius scriptis. Quare &amp; 
+      Augusti<lb ed="#L" n="20" break="no"/>nus de correptione &amp; gratia, 48. Tunc, inquit, scilicet in statu innocentiae ante peccatum 
+      de<lb ed="#L" n="21" break="no"/>derat Deus homini bonam voluntatem; in illa quippe eum fecerat qui fecerat eum rectum, 
+      <lb ed="#L" n="22"/>dederat adiutorium, sine quo in ea non posset permanere si vellet, vt autem vellet in eius 
+      re<lb ed="#L" n="23" break="no"/>liquit libero arbitrio. Posset ergo permanere si vellet, quia non deerat adiutorium, per quod 
+      <lb ed="#L" n="24"/>posset perseueranter bonum tenere quod vellet: sed quia noluit permanere, profecto eius est 
+      <lb ed="#L" n="25"/>culpa, cuius meritum fuisset, si permanere voluisset, sicut fecerunt Angeli sancti, qui, 
+      cadenti<lb ed="#L" n="26" break="no"/>bus alijs per liberum arbitrium, per indem liberum arbitrium steterunt ipsi, &amp; huius mansionis 
+      <lb ed="#L" n="27"/>debitam mercedem recipere meruerunt, tantam scilicet beatitudinis plenitudinem, qua eis 
+      <lb ed="#L" n="28"/>certissimum sit semper se in illa esse permansuros. 
+      </p>
+            <div xml:id="dcn2br-e82442-Dd1e478">
+               <head xml:id="dcn2br-e82442-Hd1e480">Corollarium</head>
+               <p xml:id="dcn2br-e82442-d1e483">
+                  <lb ed="#L" n="29"/>COROLLARIVM. 
+      <lb ed="#L" n="30"/>Corollarium, nedum videlicet entia ad suum esse verum, &amp; non entia ad suum non essi 
+      <lb ed="#L" n="31"/>Deo necessario indigere, Deum quoque non solum super entia, sed &amp; super non entia 
+      <lb ed="#L" n="32"/>tenere dignissime Principatum. 
+      </p>
+               <p xml:id="dcn2br-e82442-d1e494">
+                  <lb ed="#L" n="33"/>EX his autem reputo manifestum, nedum entia ad suum esse, verum &amp; non entia ad suum 
+      <lb ed="#L" n="34"/>non esse Deo necessario indigere, Deum quoque non solum super entia, sed etiam 
+      su<lb ed="#L" n="35" break="no"/>XAper non entia tenere dignissime principatum. Hoc autem corollarium ex hic 
+      praemis<lb ed="#L" n="36" break="no"/>sis, &amp; corollario 14i. primi libri consequitur euidenter. Quare &amp; tres pueri Danielis, quasi ex 
+      <lb ed="#L" n="37"/>vno ore inuitant noctes &amp; dies, lucem &amp; tenebras, vt Domino benedicant, Iaudent, &amp; 
+      super<lb ed="#L" n="38" break="no"/>exaltent eum in saecula, Daniel. 3. Beatus quoque Dionysiis, 4. de diuinis nominibus, 
+      Om<lb ed="#L" n="39" break="no"/>nis, inquit, virtus, omnis operatio, omnis habitus, omnis sensus, omne verbum, omne factum, 
+      <lb ed="#L" n="40"/>omnis tactus, omnis scientia, omnis vnitio, &amp; simpliciter omne existens, &amp; ex pulchro &amp; 
+      bo<lb ed="#L" n="41" break="no"/>no, &amp; in pulchro &amp; bono est, &amp; ad pulchrum &amp; bonum conuertitur, &amp; omnia quaecunque 
+      <lb ed="#L" n="42"/>sunt, &amp; fiunt, &amp; ad ipsum omnia respiciunt, &amp; ab ipso mouentur &amp; continentur, &amp; in ipsius 
+      <lb ed="#L" n="43"/>gratia, &amp; propter ipsum &amp; in ipso exemplare principium omne, scilicet materiale, efliciens, 
+      <lb ed="#L" n="44"/>formale, elementarium, &amp; simpliciter omne principium, omnis continentia, omnis finis, aut,  
+      <lb ed="#L" n="45"/>vt comprehendens dicam, omnia existentia ex pulchro &amp; bono, &amp; omnia non existentia 
+      su<lb ed="#L" n="46" break="no"/>persubstantialiter &amp; in pulchro &amp; bono, &amp; est omnium principium &amp; finis super principale 
+      <lb ed="#L" n="47"/>&amp; super perfectum; quoniam ex ipso, &amp; in ipso, &amp; per ipsum, &amp; ad ipsum omnia, sicut dicit 
+      <lb ed="#L" n="48"/>sanctus sermo. Et infra, 5. Omnia quaecunque sunt &amp; fiunt, per bonum &amp; optimum sunt &amp; 
+      <lb ed="#L" n="49"/>fiunt; &amp; ad hoc omnia videt, &amp; ab ipso mouentur &amp; continentur, &amp; propter ipsum &amp; per 
+      ip<lb ed="#L" n="50" break="no"/>sum &amp; in ipso omne principium exemplatiuum, consummatiuum, intellectuale speciale, 
+      for<lb ed="#L" n="51" break="no"/>male, &amp; simpliciter omne principium, omnis continentia, omne summum, aut, vt compre 
+      <lb ed="#L" n="52"/>hendens dicam, omnia quae sunt ex bono &amp; optimo, &amp; omnia quae non sunt 
+      superessentiali<lb ed="#L" n="53" break="no"/>ter in bono &amp; optimo; &amp; est omnium principium, &amp; finis super principiale, &amp; 
+      superfinale<lb ed="#L" n="54" break="no"/>quia ex ipso, &amp; per ipsum, &amp; in ipso, &amp; in ipsum sunt omnia, vt ait sacer sermo¬
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

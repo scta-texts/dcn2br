@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="556"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e73890"><!-- l2c22 -->
+            <head xml:id="dcn2br-e73890-Hd1e106">Caput 22</head>
+            <p xml:id="dcn2br-e73890-d1e109">
+               <lb ed="#L" n="43"/>CAP. XXI 
+      <lb ed="#L" n="44"/>Specialiter corrigit primam harum.
+    </p>
+            <p xml:id="dcn2br-e73890-d1e116">
+               <lb ed="#L" n="45"/>Item specialiter contra primos, Nulla res facta a Deo potest per se exir g 
+      <lb ed="#L" n="46"/>stere, nec aliam rem seruare in esse sineco, vt secundum 
+      praemon<lb ed="#L" n="47" break="no"/>strauit; quare nec agere aut producere aliam rem in esse :vt capitulum 
+      <lb ed="#L" n="48"/>proximum arguebat. Item Corollaria tertij &amp; quarti primi cum 
+      ratio<lb ed="#L" n="49" break="no"/>nibus &amp; Autoritatibus illa probantibus specialiter hos refellunt. Item 
+      <lb ed="#L" n="50"/>O tunc Deus non haberet scientiam praesentium nec etiam futurorum. 
+      <lb ed="#L" n="51"/>nec omnia per eius prouidentiam regerentur, multaque contingerent 
+      <lb ed="#L" n="52"/>a casu &amp; a fortuna, nec esset aliqua via sumpta a motu efficax ad 
+      pro<lb ed="#L" n="53" break="no"/>bandum primum Motorem communem: Posset enim causa secunda mouere, causa prima 
+      to<lb ed="#L" n="54" break="no"/>taliter quiescente, cum multis impossibilibus alijs &amp; absurdis sicut capitulum proximum ple¬ 
+      <!--590.xml-->
+      <pb ed="#A" n="557"/>
+               <lb ed="#L" n="1"/>nius manifestat. Item tunc posset homo ex se solo aperire pulsanti ianuam cordis fui, 
+      con<lb ed="#L" n="2" break="no"/>tra 38. primi. Item hoc est contra Autoritates Anselmi de casu Diaboli 20. &amp; de Concor. 6. 
+      <lb ed="#L" n="3"/>&amp; 7. vbi ostendit quod Deus tripliciter efficit omnem actum voluntatis creatae, sicut 
+      capitu<lb ed="#L" n="4" break="no"/>lum proximum allegauit. Adhuc autem de secundum similem rationem Deus diceretur &amp;  
+      <lb ed="#L" n="5"/>esset factor &amp; Autor peccati, contra Doctores: vnde &amp; Augustinus de spiritu &amp; litera 29. sic 
+      <lb ed="#L" n="6"/>ait; Vtique voluntate credimus de hac quaeritur vnde sit nobis. Si natura; quare non 
+      omni<lb ed="#L" n="7" break="no"/>bus, cum sit idem Deus omnium Creator? Si dono Dei, etiam hoc quare non omnibus, cum 
+      <lb ed="#L" n="8"/>omnes homines velit saluos fieri, &amp; in agnitionem veritatis venire? Prius igitur illud 
+      dica<lb ed="#L" n="9" break="no"/>mus, &amp; videamus vtrum huic satisfaciat quaestioni, quod liberum arbitrium naturaliter 
+      attri<lb ed="#L" n="10" break="no"/>butum a Creatore animae rationali, illa media vis est, quae vel intendi ad fidem, vel inclinari 
+      <lb ed="#L" n="11"/>ad infidelitatem potest, &amp; ideo nec istam voluntatem, qua credit Deo, dici potest habere quam  
+      <lb ed="#L" n="12"/>non acceperit, quando quidem vocante Deo surgit de libero arbitrio, quod naturaliter cum 
+      <lb ed="#L" n="13"/>crearetur, accepit. Et cap. 31. Si autem respondetur cauendum esse, ne quisquam Deo 
+      tribu<lb ed="#L" n="14" break="no"/>endum putet peccatum, quod admittitur per liberum arbitrium, si in eo quod dicitur, quid 
+      ha<lb ed="#L" n="15" break="no"/>bes quod non accepisti? propterea etiam voluntas qua credimus, dono Dei tribuitur, quia 
+      <lb ed="#L" n="16"/>de libero existit arbitrio, quod cum crearemur, accepimus: Attendat &amp; videat, non ideo 
+      tan<lb ed="#L" n="17" break="no"/>tum istam voluntatem diuino muneri tribuendam, quia ex libero arbitrio est quod nobis 
+      na<lb ed="#L" n="18" break="no"/>turaliter concretum est, verumetiam quod viforum suasionibus agit Deus vt velimus, &amp; vt 
+      <lb ed="#L" n="19"/>credamus, siue extrinsecus per Angelicas exhortationes, siue intrinsecus, vbi nemo habet in 
+      <lb ed="#L" n="20"/>potestate quid ei veniat in mentem, sed consentire vel dissentire propriae voluntatis est. His 
+      <lb ed="#L" n="21"/>ergo modis quando Deus agit cum anima rationali vt ei credat (Neque enim credere potest 
+      <lb ed="#L" n="22"/>quodlibet libero arbitrio, si nulla sit suasio, vel vocatio cui credat) profecto &amp; ipsum velle 
+      cre<lb ed="#L" n="23" break="no"/>dere Deus operatur in homine, &amp; in omnibus misericordia eius praeuenit nos. Et ne forte 
+      <lb ed="#L" n="24"/>moueat quempiam quod dicit consentire vel dissentire esse proprie voluntatis, quasi tantum 
+      <lb ed="#L" n="25"/>sit voluntatis propriae &amp; non Dei; Caueat, quaeso, quilibet, caueat; quia iste fuit error 
+      Pela<lb ed="#L" n="26" break="no"/>gij, vt 37. &amp; 38. capitulis primi patet: quem &amp; Augustinus per totum librum de 
+      praedestina<lb ed="#L" n="27" break="no"/>tione sanctorum nititur extirpare. Vnde &amp; 4. cap. loquens de Autoritate Apostoli in de 
+      spi<lb ed="#L" n="28" break="no"/>ritu &amp; litera superius memorata, scilicet, Quid habes quod non accepisti? sic ait; Quo praeci 
+      <lb ed="#L" n="29"/>puo testimonio etiam ictus ipse conuictus sum, cum similiter errarem, putans fidem, qua in 
+      <lb ed="#L" n="30"/>Deum credimus, non esse donum Dei, sed a nobis esse in nobis, &amp; per illam nos impetrare 
+      <lb ed="#L" n="31"/>Dei dona. Et accipit ibi fidem non pro habitu, sed pro actu; addit, Neque enim fidem 
+      pu<lb ed="#L" n="32" break="no"/>tabam Dei gratia praeueniri, nisi quia credere non possemus, si non praecederet praeconium 
+      <lb ed="#L" n="33"/>veritatis; vt autem praedicato nobis Euangelio consentiremus, nostrum esse proprium 
+      arbi<lb ed="#L" n="34" break="no"/>trabar: Quem meum errorem nonnulla opuscula mea satis indicant, in quibus est illud quod 
+      <lb ed="#L" n="35"/>commemorastis in libris vestris, vbi expositio est quarundam propositionum ex epistola ad  
+      <lb ed="#L" n="36"/>Romanos. Denique cum mea cuncta opuscula retractarem, cuius operis iam duos libros 
+      ab<lb ed="#L" n="37" break="no"/>solueram, cum ad hunc librum retractandum in primo volumine peruenissem, sic inde 
+      loquu<lb ed="#L" n="38" break="no"/>tus sum, &amp; est 1. Retract. 23. Item quod disputans inquit, Quid elegerit in nondum nato, 
+      sci<lb ed="#L" n="39" break="no"/>licet Iacobo? ad hoc perduxi ratiocinationem, vt dicerem, Non ergo elegit Deus opera 
+      cu<lb ed="#L" n="40" break="no"/>iusquam in praescientia que ipse daturus est, sed fidem, scilicet actum; Vnde subiungit, ve 
+      <lb ed="#L" n="41"/>quem sibi crediturum esse praesciuit, ipsum eligeret, cui Spiritum Sanctum daret vt bona 
+      o<lb ed="#L" n="42" break="no"/>perando etiam vitam aeternam consequeretur. Proinde quod continuo dixi, Dicit enim idem  
+      <lb ed="#L" n="43"/>Apostolus, Idem Deus qui operatur omnia in omnibus; Nusquam dictum est, Deus qui 
+      cre<lb ed="#L" n="44" break="no"/>dit omnia in omnibus. Ac deinde subiunxi. Quod enim credimus, nostrum est; quod autem 
+      <lb ed="#L" n="45"/>bonum operamur illius est, qui credentibus dat Spiritum Sanctum. Profecto non dicerem, si 
+      <lb ed="#L" n="46"/>iam scirem etiam ipsam fidem inter Dei munera reperiri, quae dantur in eodem spiritu. 
+      V<lb ed="#L" n="47" break="no"/>trumque ergo nostrum est propter arbitrium voluntatis, &amp; vtrumque tamen datum est per 
+      <lb ed="#L" n="48"/>spiritum fidei &amp; charitatis: Non enim sola charitas, sed sicut scriptum est, charitas cum fide 
+      <lb ed="#L" n="49"/>a Deo. Et quod paulo post dixi, Nostrum est credere &amp; velle; ecce quod loquitur de actum 
+      fi<lb ed="#L" n="50" break="no"/>dei, Nostrum est, inquit, credere &amp; velle, ipsius autem dare credentibus facultatem bene 
+      ope<lb ed="#L" n="51" break="no"/>randi per spititum sanctum, per quem charitas diffunditur in cordibus nostris. Verum est 
+      <lb ed="#L" n="52"/>quidem, sed eadem regula &amp; vtrumque ipsius est, quia ipse praeparat voluntatem, &amp; 
+      vtrum<lb ed="#L" n="53" break="no"/>que nostrum, quia non sit nisi volentibus nobis. Ecce quod Augustinus in his duobus locis 
+      <lb ed="#L" n="54"/>retractat, quod dixit super epistolam ad Romanos, Credere &amp; velle esse nostrum; &amp; certum 
+      <lb ed="#L" n="55"/>est ipsum nequaquam tam insani capitis tunc fuisse, quando scilicet post conuersionem suam 
+      <lb ed="#L" n="56"/>exposuit illas propositiones epistolae memoratae, quod crederet, Credere &amp; velle esse sic 
+      no<lb ed="#L" n="57" break="no"/>strum, vt anima rationalis, intellectus, &amp; voluntas esset nostra, seu noster, &amp; nobis ex nobis, 
+      <lb ed="#L" n="58"/>ita quod non a Deo, imo sicut tam series illius expositionis, quam retractationis perhibet, tunc 
+      <!--591.xml-->
+      <pb ed="#A" n="558"/>
+               <lb ed="#L" n="1"/>credebat intellectum &amp; voluntatem esse nobis a Deo creante, sed actus illorum esse nobis ex solis 
+      <lb ed="#L" n="2"/>nobis illos agentibus, sine Deo vlterius coagete; &amp; hoc est quod posterius retractauit. Est ergo 
+      <lb ed="#L" n="3"/>posterioretus sententia, quod Deus cum homine coefficiat proprie actus potentiarum illarum, &amp; 
+      <lb ed="#L" n="4"/>non tantum improprie, quia scilicet potentias illas fecit. Vnde &amp; infra eiusde 18. de praedest. 
+      <lb ed="#L" n="5"/>sanct. 6. tractans illud dictum Apostoli; Quis enim te discernit? quid aute habes quod non 
+      acce<lb ed="#L" n="6" break="no"/>pisti? sic ait, In hac Apostoli intentione dona Dei naturalia suspicari, siue ipsam totam 
+      perfe<lb ed="#L" n="7" break="no"/>ctam naturam, qualis in prima conditione donata est, siue vitiatae naturae qualescunque 
+      reli<lb ed="#L" n="8" break="no"/>quias, nimis quantum existimo, absurdum est: Nunquid enim per haec dona, quae omnibus 
+      <lb ed="#L" n="9"/>sunt comunia hominibus, discernuntur homines ab hominibus? Hic enim prius dixit, Quis 
+      <lb ed="#L" n="10"/>enim te discernit? &amp; deinde addidit, Quid autem habes quod non accepisti? Posset quippe 
+      <lb ed="#L" n="11"/>homo dicere inflatus aduersus alterum, Discernit me fides mea, iustitia mea, vel si quid aliud. 
+      <lb ed="#L" n="12"/>Qualibus occurrens cogitationibus bonus Doctor. Quid autem habes, inquit, quod non 
+      ac<lb ed="#L" n="13" break="no"/>cepisti? a quo nisi ab illo qui te discernit ab alio, cui non donauit, quod donauit tibi? Ac per p 
+      <lb ed="#L" n="14"/>hoc quisquam audet dicere, Habeo fidem ex meipso; non ergo accepi? profecto contradicit 
+      <lb ed="#L" n="15"/>apertissimae veritati; non quia credere, vel non credere non est in arbitrio voluntatis 
+      huma<lb ed="#L" n="16" break="no"/>nae, sed in electis praeparatur voluntas a Deo, ideo ad ipsam quoque fidem quae in voluntate 
+      <lb ed="#L" n="17"/>est pertinet; Quis enim te discernit? quid autem habes quod non accepisti? &amp; sequitur cap. 7. 
+      <lb ed="#L" n="18"/>Multi audiunt verbum veritatis; sed alij credunt, alij contradicunt: volunt ergo isti credere, 
+      <lb ed="#L" n="19"/>nolunt illi. Sed cum in alijs praeparetur, in alijs non praeparetur voluntas a Domino, 
+      discer<lb ed="#L" n="20" break="no"/>nendum est vtique quid eueniat de misericordia eius, quid de iudicio. Item Augustinus super 
+      <lb ed="#L" n="21"/>illud Psalmi II8. Manus tuae fecerunt me &amp;c. distinguens duplicem modum factionis 
+      homi<lb ed="#L" n="22" break="no"/>nis a Deo, sic ait; Vtrum hoc secundum Adam dictum est, ex quo cum sint omnes homines 
+      <lb ed="#L" n="23"/>propagati, quis hominum, quando ille factus est, &amp; se factum non potest dicere originis 
+      se<lb ed="#L" n="24" break="no"/>minisque ratione? An etiam secundum hoc recte dici potuit, Manus tuae fecerunt me &amp; 
+      plas<lb ed="#L" n="25" break="no"/>mauerunt me, quod vnusquisque non sine opere Dei etiam de parentibus // sit, ipso creante, 
+      <lb ed="#L" n="26"/>illis generantibus, quoniam si operatoria Dei potentia rebus subtrahatur, intereunt, nec 
+      ali<lb ed="#L" n="27" break="no"/>quid omnino siue de mundi elementis, siue de genitoribus, siue de seminibus nascitur, si ea 
+      <lb ed="#L" n="28"/>non operetur Deus. Item tunc habens naturalia integra posset ex se solo, vel per Doctorem 
+      <lb ed="#L" n="29"/>alium sine Deo proprie coagente acquirere sibi morales &amp; intellectuales virtutes; cuius 
+      oppo<lb ed="#L" n="30" break="no"/>situm docet Augustinus 4. contra Iulianum multis capitulis, &amp; Beda contra eundem 
+      Iulia<lb ed="#L" n="31" break="no"/>num 13. sicut erat superius allegatum. Vnde &amp; Beda satis expresse contra istam 
+      responsio<lb ed="#L" n="32" break="no"/>nem sic dicit: Quod ergo dicit Iulianus multos Philosophorum patientiam, castitatem, 
+      mo<lb ed="#L" n="33" break="no"/>destiam, aliasque de naturae bono habuisse virtutes, constat quod quicunque Philosophorum 
+      <lb ed="#L" n="34"/>Christum Dei virtutem, &amp; Dei sapientiam nescierunt; hi nullam veram virtutem, nec veram 
+      <lb ed="#L" n="35"/>sapientiam vllam habere potuerunt: In quantum vero vel gustum aliquem sapientise 
+      cuiusli<lb ed="#L" n="36" break="no"/>bet, vel virtutis imaginem habebant, desuper hoc totum acceperunt, non solum munere 
+      pri<lb ed="#L" n="37" break="no"/>mae conditionis, verumetiam quotidiana eius gratia qui creaturam suam nec deserentem 
+      de<lb ed="#L" n="38" break="no"/>serens, dona sua, prout ipse iudicauerit, hominibus &amp; magna magnis, &amp; parua largitur 
+      par<lb ed="#L" n="39" break="no"/>uis. Ad illud autem quod pro ista opinione adducitur, potest faciliter responderi, quod ille 
+      <lb ed="#L" n="40"/>est vnus bonus &amp; verus modus loquendi, apud quos fuerit consuetus; sed per hoc non 
+      pro<lb ed="#L" n="41" break="no"/>batur, quin formae elementares moueant elementa: Certum est enim, quod corrupto 
+      gene<lb ed="#L" n="42" break="no"/>rante, &amp; impediens remouente, elementa mouentur; ergo ab aliquo motore, &amp; non a 
+      gene<lb ed="#L" n="43" break="no"/>rante, vel prohibens remouente, quia neutrum illorum est, &amp; per consequens nihil facit, 
+      cau<lb ed="#L" n="44" break="no"/>sat, aut mouet; est igitur forma mouens. In omni quoque motu mouens &amp; motum sunt 
+      si<lb ed="#L" n="45" break="no"/>mul, vt docetur 7. Phys. 8. &amp; post. &amp; 2. de Anima 74. sed neutrum praedictorum est simul 
+      <lb ed="#L" n="46"/>cum elemento moto, quia omnino non est. Tunc etiam elementa mouentur naturaliter, 
+      er<lb ed="#L" n="47" break="no"/>go a natura: Ipsa enim, vt docetur 2. Phys. 3. est principium &amp; causa mouendi &amp; quiescendi 
+      <lb ed="#L" n="48"/>in quo primum est; &amp; haec est duplex, scilicet materia, &amp; forma, vt ibi ostenditur 
+      consequen<lb ed="#L" n="49" break="no"/>ter: sed materia prima non est principium motiuum localiter, vt nulli Philosopho est 
+      igno<lb ed="#L" n="50" break="no"/>tum, ergo forma elementi naturaliter ipsum mouet. Per indem quoque quod elementum 
+      qui<lb ed="#L" n="51" break="no"/>escit in loco suo naturali mouetur ad eum: sed ibi quiescit per formam suam. Maior etiam 
+      <lb ed="#L" n="52"/>terra vel ignis descendit velocius vel ascendit; ergo non tantumab extrinseco, sed ab intrine 
+      <lb ed="#L" n="53"/>seca sibi forma. Corpora quoque mixta mouentur ad motum elementi dominantis; ergo 
+      <lb ed="#L" n="54"/>psum elementum dominans per se naturaliter habet motum. Ipse etiam idem Philosophus 
+      A<lb ed="#L" n="55" break="no"/>Phys. tractans de vacuo7I. &amp; post, supponit planissime, elementa moueri naturaliter ex 
+      se<lb ed="#L" n="56" break="no"/>ipsis: &amp; similiter 1. de Coelo, vbi reprobat infinitum. Auerroes quoque super loca praedicta 
+      <lb ed="#L" n="57"/>vult idem: &amp; super 3. de Coelo. 28. &amp; super 4. 22. ostendit diffuse quod in corporibus 
+      sim<lb ed="#L" n="58" break="no"/>plicibus, motor &amp; votum non distinguntur in actu ab inuicem, &amp; quod formae eorum sunt 
+      <!--592.xml-->
+      <pb ed="#A" n="559"/>
+               <lb ed="#L" n="1"/>motores eorum; &amp; glossat ibi processum <ref xml:id="dcn2br-e73890-Rd1e406">Philosophi in 7. Physicorum</ref> probantis quod nihil 
+      <lb ed="#L" n="2"/>mouet se, sed quod omne quod mouetur, mouetur ab alio, isto modo; Aristoteles, inquit,  
+      <lb ed="#L" n="3"/>non intendebat per istum sermonem quem scripsit in 7. Physicorum, nisi declarare quod 
+      ni<lb ed="#L" n="4" break="no"/>hil mouet se, scilicet ita quod motor sit idem cum moto, &amp; eodem modo, &amp; ideo posuit, quod  
+      <lb ed="#L" n="5"/>quicquid quiescit per quietem alterius, necesse est vt motus eius non sit nisi ab altero, id est,  
+      <lb ed="#L" n="6"/>necesse est, vt motor in eo differat essentia &amp; definitione a moto, licet non differat in 
+      subie<lb ed="#L" n="7" break="no"/>cto. Et similiter potest glossari similis processus Philosophi 8. Physicorum, &amp; 4. de Coelo 
+      su<lb ed="#L" n="8" break="no"/>perius memoratus. Item si elementa non haberent ex se, sed tantum a generante, vel 
+      impe<lb ed="#L" n="9" break="no"/>diens remouente, motum seu motionem // locase, eadem ratione nec aliquam aliam actionem: 
+      <lb ed="#L" n="10"/>ergo nec ignis ex se combureret, vel luceret vtroque illorum corrupto, plurimumue 
+      remoto<lb ed="#L" n="11" break="no"/>Mirabilis quoque modus loquendi videtur, &amp; a veritate nimis extraneus dicere, quod 
+      lucer<lb ed="#L" n="12" break="no"/>na, seu candela <name xml:id="dcn2br-e73890-Nd1e433">socij mei</name>, quae illuminauit lucernam meam, seu candelam illuminantem 
+      stu<lb ed="#L" n="13" break="no"/>dium meum, illuminat studium meum cum camera sua, forsitan nimis distet, murisque 
+      lapi<lb ed="#L" n="14" break="no"/>deis includatur, vel praedicta eius lucerna forsitan extinguatur. Per similem etiam rationem, 
+      <lb ed="#L" n="15"/>quicquid nunc scribo Oxoniae, scriberet pater meus Cicestriae, quia genuit me scribentem, 
+      <lb ed="#L" n="16"/>imo avus, &amp; proavus, ac caeteri genitores, ipsi quoque primi parentes nunc facerent omnia 
+      <lb ed="#L" n="17"/>facta nostra. Illud autem Anselmi non mouet, quia non dicit quod Deus illo modo tantum 
+      <lb ed="#L" n="18"/>efficit actus nostros, sed illo modo // transumtiue, &amp; alio proprio, sicut capitulum proximum 
+      <lb ed="#L" n="19"/>recitauit. Ad rationem dicendum, quod licet Deus sit omnipotens, nihil tamen potest face 
+      <lb ed="#L" n="20"/>re quod contradictionem includit, sed sicut contradictionem includit aliquam naturam esse 
+      <lb ed="#L" n="21"/>sine Deo per se, &amp; proprie eam actualiter &amp; specialiter conseruante, sicut secundum primi 
+      do<lb ed="#L" n="22" break="no"/>cebat: sic vel amplius contradictionem includit aliquam naturam agere, seu mouere sine 
+      <lb ed="#L" n="23"/>Deo per se &amp; proprie actualiter &amp; specialiter coagente &amp; similiter commouente, sicut 
+      terti<lb ed="#L" n="24" break="no"/>um &amp; quartum primi plenius // ostendebant. Et sic respondet sanctus Thomas de potentia Dei 
+      <lb ed="#L" n="25"/>quaestione 20. qua queritur, Vtrum Deus operetur in omni operatione naturae, ad simile 
+      ai<lb ed="#L" n="26" break="no"/>gumentum pro parte negatiua, quinto loco adductum: quandocunque inquit arguens, 
+      De<lb ed="#L" n="27" break="no"/>us aliquam naturam instituit, ex hoc ipso dat ei omnia illa quae sunt de ratione illius naturae. 
+      <lb ed="#L" n="28"/>Similiter ex hoc ipso quod facit hominem, det ei animam rationalem: sed de ratione virtutis 
+      <lb ed="#L" n="29"/>est quod sit principium agendi, cum virtus sit vltimum potentiae quae est principium agendi 
+      <lb ed="#L" n="30"/>in aliud, secundum quod est aliud, vt dicitur in 5. Metaphys. ergo ex hoc ipso, quod virtutes 
+      <lb ed="#L" n="31"/>naturales rebus indidit, dedit eis quod operationes perficerent: non ergo oportet quod 
+      vlte<lb ed="#L" n="32" break="no"/>rius in rebus naturalibus operetur. Et post septimo loco adducit aliud argumentum simile 
+      <lb ed="#L" n="33"/>huic quinto, ad quorum primum sic respondet; Ad quintum dicendum quod de ratione 
+      vir<lb ed="#L" n="34" break="no"/>turis inferioris est, quod sit aliquo modo operationis principium in suo ordine, id est, vt agat 
+      <lb ed="#L" n="35"/>vt instrumentum superioris virtutis: vnde exclusa superiori virtute, inferior virtus 
+      operatio<lb ed="#L" n="36" break="no"/>nem non habet. Et consequenter ad aliud sic respondet; Ad septimum dicendum, quod 
+      vir<lb ed="#L" n="37" break="no"/>tus naturalis, quae est rebus naturalibus in sua institutione collata, inest eis vt quaedam forma, 
+      <lb ed="#L" n="38"/>habens esse ratum &amp; firmum in natura; sed id quod a Deo sit in re naturali quo actualiter 
+      a<lb ed="#L" n="39" break="no"/>gat, est vt intentio sola habens quoddam esse incompletum, per modum quo colores sunt in 
+      <lb ed="#L" n="40"/>aere, &amp; virtus artis in instrumento artificis. Sicut igitur securi per artem dari potuit acumen, 
+      <lb ed="#L" n="41"/>vt esset forma in ea permanens, non autem dari ei potuit, quod vis artis esset in ea quasi 
+      quae<lb ed="#L" n="42" break="no"/>dam forma in ea permanens, nisi haberet intellectum: ita rei naturali potuit conferri virtus 
+      <lb ed="#L" n="43"/>propria, vt forma in ipsa permanens, non autem vis qua agit ad esse, vt instrumentum primae 
+      <lb ed="#L" n="44"/>causae, nisi daretur ei quod esset vniuersale essendi principium: nec iterum virtuti naturali 
+      <lb ed="#L" n="45"/>conferri potuit vt moueret seipsam, nec vt conseruaret se in esse. Vnde sicut patet, quod 
+      in<lb ed="#L" n="46" break="no"/>strumento artificis conferri non potuit, quod operaretur absque motu artis; ita rei naturali 
+      <lb ed="#L" n="47"/>conferri non potuit, quod operaretur absque operatione diuina.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

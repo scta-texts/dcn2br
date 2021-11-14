@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="702"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e92746"><!-- l3c26 -->
+            <head xml:id="dcn2br-e92746-Hd1e106">Caput 26</head>
+            <p xml:id="dcn2br-e92746-d1e109">
+               <lb ed="#L" n="30"/>CAP. XXVI. 
+      <lb ed="#L" n="31"/>Tractat opinionem tricesimamtertiam Famosiorem caeteris, quae affir¬ 
+      <lb ed="#L" n="32"/>mat quod aliquid semper fuit futurum, &amp; adhuc est futurum, 
+      <lb ed="#L" n="33"/>non est tamen necessarium vllo modo illud vnquam fuisse, aut nunc 
+      <lb ed="#L" n="34"/>esse futurum, &amp; quod aliquid nunquam fuit futurum 
+      <lb ed="#L" n="35"/>nec nunc est futurum, &amp; possibile possibilitate omni necessitati 
+      <lb ed="#L" n="36"/>opposita est illud semper fuisse, &amp; nunc esse futurum, &amp; de 
+      prae<lb ed="#L" n="37" break="no"/>scientia Dei correspondenter omnino. De omni tamen praeterito 
+      <lb ed="#L" n="38"/>vel praesenti dicit, quod necesse est illud fuisse, &amp; quod necesse 
+      <lb ed="#L" n="39"/>est Deum semper praesciuisse illud fuisse futurum, vel scire illud, 
+      <lb ed="#L" n="40"/>esse nunc praesens, quod etiam necesse est Deum scire illud esse 
+      <lb ed="#L" n="41"/>praeteritum ac fuisse. &amp; corripit eum super insufficientia 
+      respon<lb ed="#L" n="42" break="no"/>sionis, eo quod non sufficienter difficultatem euacuat. 
+      </p>
+            <p xml:id="dcn2br-e92746-d1e140">
+               <lb ed="#L" n="43"/>PRaeter has autem est &amp; tricesima tertia opinio, quae affirmat quod 
+      ali<lb ed="#L" n="44" break="no"/>quid semper fuit futurum, &amp; adhuc est futurum, non est tamen 
+      necessa<lb ed="#L" n="45" break="no"/>rium vllo modo illud vnquam fuisse, aut nunc esse futurum; &amp; quod 
+      <lb ed="#L" n="46"/>aliquid nunquam fuit futurum, nec nunc est futurum, &amp; possibile 
+      pos<lb ed="#L" n="47" break="no"/>sibilitate omni necessitati opposita est illud semper fuisse, &amp; nunc esse 
+      <lb ed="#L" n="48"/>futurum; &amp; de praescientia Dei correspondenter omnino. De omni 
+      ta<lb ed="#L" n="49" break="no"/>men praeterito vel praesenti dicit, quod necesse est illud fuisse vel esse, &amp; 
+      <lb ed="#L" n="50"/>quod necesse est Deum semper praesciuisse illud fuisse futurum, vel sci¬ 
+      <!--736.xml-->
+      <pb ed="#A" n="703"/>
+               <lb ed="#L" n="1"/>re illud esse nunc praesens, quod etiam necesse est Deum scire illud esse praeteritum ac fuisse, 
+      <lb ed="#L" n="2"/>Et haec est communior &amp; famosior apud moderniores Philosophos, atque Theologos, &amp;  
+      <lb ed="#L" n="3"/>praecipue apud Nostrates, &amp; quasi sola ab eis concorditer approbata. Quorum ante omnia 
+      <lb ed="#L" n="4"/>flexis genibus cordis mei imploro humiliter benignam patientiam charitatis cquae sua non 
+      <lb ed="#L" n="5"/>quaerit in praeiudicium veritatis, nec irritatur si quis elucidare studuerit veritatem, sed 
+      congau<lb ed="#L" n="6" break="no"/>det elucidatae a quolibet veritati, omnia vera credens, &amp; sustinens vniuersa) quatenus si non  
+      <lb ed="#L" n="7"/>ego, sed in me &amp; per me spiritus veritatis aliquam veritatem proferre dignetur huic opinioni 
+      <lb ed="#L" n="8"/>forsitan repugnantem, nullatenus aemulentur, nullatenus irritentur, nullatenus 
+      indignen<lb ed="#L" n="9" break="no"/>tur, ne fortassis non mihi, sed spiritui sancto magis resistere conuincantur. Nam quicquid 
+      <lb ed="#L" n="10"/>verum a quocunque dicitur, a sancto spiritu dicitur, sicut vicesimum secundi a beato 
+      Am<lb ed="#L" n="11" break="no"/>brosio recitauit, sed vt veri filij // charitatis congaudeant, credant, &amp; sustineant veritatem, 
+      <lb ed="#L" n="12"/>Non enim est mediocre periculum in scientia veritatis nolle deserere pristinam licet agnitam 
+      <lb ed="#L" n="13"/>falsitatem, sola superbia prohibente. Vnde Apostolus 2. ad Thessal. 2. Charitatem veritae 
+      <lb ed="#L" n="14"/>tis non receperunt, vt salui fierent, &amp; ideo mirtet illis Deus operationem erroris, vt credant 
+      <lb ed="#L" n="15"/>mendacio, &amp; vt iudicentur omnes qui non crediderunt veritati, sed consenserunt iniquitati, 
+      <lb ed="#L" n="16"/>Nos autem non ita, sed secundum eiusdem Apostoli salubre confilium deponentes secunt 
+      <lb ed="#L" n="17"/>dum pristinam conuersationem veterem hominem, qui corrumpitur secundum desideriam 
+      er<lb ed="#L" n="18" break="no"/>roris, renouemur spiritu mentis nostrae, &amp; induamus nonum hominem, qui secundum 
+      De<lb ed="#L" n="19" break="no"/>um creatus est in iustitia &amp; sanctitate veritatis, propter quod deponentes mendacium, 
+      loqua<lb ed="#L" n="20" break="no"/>mur per omnia veritatem, cantando cum Propheta, Aperite portas, &amp; ingrediatur gens iusta 
+      <lb ed="#L" n="21"/>custodiens veritatem: vetus error abijt &amp; recessit; credo tamen veraciter me nihil noui 
+      pe<lb ed="#L" n="22" break="no"/>nitus asserturum, quod non veterum ratio &amp; autoritas confirmabit. Placeat igitur huius 
+      opi<lb ed="#L" n="23" break="no"/>nionis rationabili charitati non obaudire, sed exaudire benigne aliquas rationes. Primo 
+      <lb ed="#L" n="24"/>autem videtur quod responsio huius opinionis nequaquam sufficiat; secundo, quod eius 
+      <lb ed="#L" n="25"/>hypothesis non subsistat: data namque opinionis hypothesi, non sufficienter soluitur 
+      diffi<lb ed="#L" n="26" break="no"/>cultas. Difficultas etenim quaestionis propter hoc maxime mordet omnes &amp; stimulat, quia 
+      <lb ed="#L" n="27"/>in suis actibus liberis, nulli necessitati superiori &amp; priori vellent esse subiecti, sed simpliciter 
+      <lb ed="#L" n="28"/>Domini, &amp; liberi penitus absolute respectu suorum actuum liberorum, habereque eos in sua 
+      <lb ed="#L" n="29"/>simpliciter libera potestate. Sed ista responsio non vitat omnimodam necessitatem, nec 
+      sal<lb ed="#L" n="30" break="no"/>uat omnimodam libertatem: Licet enim illud quod est futurum posset non esse futurum, &amp; 
+      <lb ed="#L" n="31"/>e contra, &amp; illud quod est praescitum a Deo, posset esse non praescitum, &amp; e contra; hoc 
+      ta<lb ed="#L" n="32" break="no"/>men non est antecedenter &amp; sufficienter in potestate nostra, nec omnium causarum 
+      inferio<lb ed="#L" n="33" break="no"/>rum, sicut septimum, octauum, &amp; nonum huius ostendunt. Causa enim superior, puta 
+      De<lb ed="#L" n="34" break="no"/>us: non sequitur quaestionis modo, sciendo aut volendo causas inferiores aliquas nec omnes. 
+      <lb ed="#L" n="35"/>sicut decimum quintum &amp; vicesimum primi cum suis sequentibus, ac tricesimum secundi 
+      <lb ed="#L" n="36"/>ostendunt; sed e contra ipsae omnes, &amp; singulae in omnibus suis motibus ac cessationibus 
+      <lb ed="#L" n="37"/>vniuersis voluntatem ipsius necessario consequuntur, sicut tricesimum &amp; tricesimum 
+      secun<lb ed="#L" n="38" break="no"/>dum secundi, ac secundum tertij cum decimo primi docent. Cum igitur per corollarium 
+      <lb ed="#L" n="39"/>noni primi omnia futura euenient a voluntate diuina, quae est causa prima &amp; summa, per 
+      <lb ed="#L" n="40"/>tricesimum secundi, &amp; nullo modo frustrabilis, sed efficax omniquaque per decimum primi, 
+      <lb ed="#L" n="41"/>nec antecedenter aut sufficienter in potestate nostra, nec causarum inferiorum aliquarum aut  
+      <lb ed="#L" n="42"/>omnium, per octauum &amp; nonum huius, Nullum futurum est simpliciter, scilicet sufficienter 
+      <lb ed="#L" n="43"/>&amp; antecedenter in nostra positum potestate, nec habemus respectu alicuius futuri 
+      omnimo<lb ed="#L" n="44" break="no"/>dam simpliciter libertatem, sed in omnibus necessario subdimur, &amp; seruimus necessitati 
+      na<lb ed="#L" n="45" break="no"/>turaliter praecedenti, diuinae scilicet voluntati, sicut quintum &amp; sextum cum sequentibus 
+      hu<lb ed="#L" n="46" break="no"/>ius docent.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

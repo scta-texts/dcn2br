@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 27</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 27</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="261"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e35616"><!-- l1c27 -->
+            <head xml:id="dcn2br-e35616-Hd1e106">Caput 27</head>
+            <p xml:id="dcn2br-e35616-d1e109">
+               <lb ed="#L" n="24"/>CAP. XXVII. 
+      <lb ed="#L" n="25"/>Quod omnia a prouidentia diuina eueniunt. 
+      </p>
+            <p xml:id="dcn2br-e35616-d1e116">
+               <lb ed="#L" n="26"/>COnsequens autem dictis videtur de prouidentia indagare. Reci. 
+      <lb ed="#L" n="27"/>tante namque Lactantio primi institutionum diuinarum 
+      aduer<lb ed="#L" n="28" break="no"/>sus gentes. 1. <name xml:id="dcn2br-e35616-Nd1e124">Democritus</name> est autor sententiae ponentis omnia 
+      <lb ed="#L" n="29"/>fortuito fieri, &amp; confirmator <name xml:id="dcn2br-e35616-Nd1e130">Epicurus</name>; vnde &amp; Philosophus 2. 
+      <lb ed="#L" n="30"/>Physic. 44. Sunt, inquit, quidam, qui coeli huius &amp; mundanorum 
+      <lb ed="#L" n="31"/>omnium causantur esse casum: a casu enim fieri volutionem, &amp;  
+      <lb ed="#L" n="32"/>motum discernentem in hunc ordinem, omne. Hi autem, sicut 
+      <lb ed="#L" n="33"/>apparet ex primo De generatione &amp; corruptione; &amp; 1. Metaph. 
+      <lb ed="#L" n="34"/>videntur fuisse Democritus &amp; collega eius Leucippus, qui 
+      po<lb ed="#L" n="35" break="no"/>suerunt omnia fieri ex corporibus indiuisibilibus, sed 
+      concur<lb ed="#L" n="36" break="no"/>rentibus differenter, secundum // risutos diatigi, &amp; tropi, id est,  
+      <lb ed="#L" n="37"/>secundum figuram, ordinem, &amp; positionem; huiusmodi autem concursum dixerunt fieri 
+      for<lb ed="#L" n="38" break="no"/>tuito seu a casu, quos &amp; imitans Epicurus similiter aestimauit. Quare &amp; Isidorus 8. Ethic. 10. 
+      <lb ed="#L" n="39"/>dicit, quod Epicurus dixit; Nulla diuina prouidentia instructum esse, aut regi mundum; sed 
+      <lb ed="#L" n="40"/>originem rerum Atomis, id est, insecabilibus ac solidis corporibus assignauit, quorum 
+      fortui<lb ed="#L" n="41" break="no"/>tis concursionibus vniuersa nascuntur: Asseruit autem &amp; Deum nihil agere Iosephus quoque 
+      <lb ed="#L" n="42"/>10. Antiquit. Iudaicae vlt. dicit; Quod Epicurei prouidentiam vitae negant, &amp; Deum res 
+      hu<lb ed="#L" n="43" break="no"/>manas curare non existimant, neque a beata incorruptibilique substantia pro stabilitate 
+      cun<lb ed="#L" n="44" break="no"/>ctorum, gubernari iudicant vniuersa, sed hunc mundum sine rectore, &amp; sine cura aliqua ferri 
+      <lb ed="#L" n="45"/>sponte confirmant. Alij vero non ita vniuersaliter, sed diuidentes dixerunt; Coelestia 
+      proui<lb ed="#L" n="46" break="no"/>dentia gubernari, inferiora vero quaecunque fortuitis motibus agitari. Alij autem 
+      irrationa<lb ed="#L" n="47" break="no"/>bilius opinantes, opinionem contrariam protulerunt. Verum contra hos omnes, quin 
+      ma<lb ed="#L" n="48" break="no"/>gis pro his omnibus ostendendum, omnia quae eueniunt a diuina prouidentia euenire, ac eius 
+      <lb ed="#L" n="49"/>prouidentiae legibus ordinati. Quid enim est prouidentia, nisi procul videntia, seu 
+      praeuiden<lb ed="#L" n="50" break="no"/>tia intellectus, cum procul violentia, seu praeuolentia voluntatis: Deus autem habet scientiam  
+      <lb ed="#L" n="51"/>omnium, sicut capitulum sextum docet, &amp; illa est quaedam causa cuiuslibet rei factae, 17o 
+      arte<lb ed="#L" n="52" break="no"/>stante: habet quoque Deus volutionem ad omnia, sicut 8. 9. &amp; 22. ostendunt, &amp; neutra 
+      ha<lb ed="#L" n="53" break="no"/>rum est noua per vicesimum tertium, &amp; volutio Dei est efficax, nec potest frustrari per 10. 
+      Pa<lb ed="#L" n="54" break="no"/>ter ergo omnia quae eueniunt a diuina prouidentia euenire. Item per cap. proximum, omnia 
+      <lb ed="#L" n="55"/>sunt bona, quare &amp; secundum priora a primo bono descendunt, &amp; non perperam &amp; improuide, 
+      <!--295.xml-->
+      <pb ed="#A" n="262"/>
+               <lb ed="#L" n="1"/>sed prouide &amp; discrete. Item, bonus paterfamilias omnia eum concernetia curat, &amp; prouidet 
+      qua<lb ed="#L" n="2" break="no"/>tum scit &amp; potest, nec quicqua relinquit inordinatum in domo, sed omnia suis locis &amp; 
+      tempori<lb ed="#L" n="3" break="no"/>bus ordinat curiose; Vnde &amp; Aristoteles I. Oeconomicae suae 3. ita dicit, Quotquot 
+      conue<lb ed="#L" n="4" break="no"/>nit per se fieri, oportet &amp; curam scilicet per se fieri, &amp; sequitur, Oportet prius seruis 
+      Do<lb ed="#L" n="5" break="no"/>minos surgere, &amp; dormire vltimos, &amp; nunquam sine custodia domum esse, sicut &amp; 
+      ciuita<lb ed="#L" n="6" break="no"/>tem; &amp; quaecunque oportet facere, nec nocte, nec die omittere. Et infra, eodem, Domum 
+      <lb ed="#L" n="7"/>etiam ad rerum custodiam construendum, pro nutrimentis, indumentis, alijsque rebus 
+      anima<lb ed="#L" n="8" break="no"/>tis, seruis, liberis; foeminis, masculis; extraneis, &amp; ciuibus; ad salutem &amp; ad 
+      sanita<lb ed="#L" n="9" break="no"/>tem, pro aestate, frigida; pro hyeme, calida; &amp; oportet vnumquodque in loco suo poni, 
+      <lb ed="#L" n="10"/>Quanto magis ille magnus Paterfamilias, cuius magnitudinis non est finis, &amp; sapientiae eius 
+      <lb ed="#L" n="11"/>non est numerus, cuius &amp; bonitas est immensa, totam magnam domum suam, cum 
+      om<lb ed="#L" n="12" break="no"/>nibus eius contentis, omni tempore prouide gubernabit? Vnde Matth. 20. Simile est 
+      reg<lb ed="#L" n="13" break="no"/>num Coelorum homini Patrifamilias, Vbi Chrysostomus, Homo Paterfamilias 
+      Chri<lb ed="#L" n="14" break="no"/>stus est, cui coelum &amp; terra quasi vna domus est; familia autem coelestium, terrestrium, &amp; 
+      in<lb ed="#L" n="15" break="no"/>feratum creaturarum. Item si Deus non omnia prouideret, hoc videretur imperitiae, 
+      impo<lb ed="#L" n="16" break="no"/>tentiae, malitiae, vel negligentiae, quae omnia longissime sunt a Deo: imo tam Deum quam 
+      <lb ed="#L" n="17"/>alia magis decet, vt per ipsum omnia prouide gubernentur. Vnde Boetius 4. de Consolat.  
+      <lb ed="#L" n="18"/>Philosophiae prosa sexta, Ita res optime geruntur, si manens in diuina mente simplicitas 
+      in<lb ed="#L" n="19" break="no"/>declinabilem causarum ordinem promat; hic veto ordo res mutabiles, &amp; alioquin temere 
+      <lb ed="#L" n="20"/>fluituras coercet, quo sit, vt tametsi nobis hunc ordinem minime considerate valentibus, 
+      <lb ed="#L" n="21"/>confusa omnia perturbata quaeque videantur, nihilominus tamen suus modus ad bonum di 
+      <lb ed="#L" n="22"/>rigens cuncta disponit. Cui concordat Augustinus I. de libero arbitrio 13. ita dicens, 
+      Ae<lb ed="#L" n="23" break="no"/>terna lex est qua iustum est, vt omnia sint ordinatissima; &amp; 3i. 7o. Quicquid tibi vera 
+      ra<lb ed="#L" n="24" break="no"/>tione melius occurrerit, scias fecisse Deum, tanquam bonorum omnium conditorem; &amp; 4. 
+      <lb ed="#L" n="25"/>super Gen. ad literam 14. Si Deus posset bona facere, nec faceret, magna esset inuidentia; 
+      <lb ed="#L" n="26"/>Et de quantitate Animae 18. Iustitia Dei haec // vniuersitas sustentatur &amp; regitur, qua factum 
+      <lb ed="#L" n="27"/>est vt non modo sint omnia, sed ita sint, vt omnino melius esse non possint. Algazel 
+      quo<lb ed="#L" n="28" break="no"/>que 3. Metaph. sententia septima ita dicit, Omne quod est, scilicet numerus stellarum, &amp;  
+      <lb ed="#L" n="29"/>mensura earum, dispositio terrae &amp; Animalium, &amp; quicquid est quod habet esse: secundum 
+      <lb ed="#L" n="30"/>modum, quo est, fuit, quia ex omnibus modis essendi hic fuit conuenientior illi, &amp; quicquid 
+      <lb ed="#L" n="31"/>aliud possibile est praeter hoc, imperfectum est respectu huius quod nunc est: Completa 
+      igi<lb ed="#L" n="32" break="no"/>tur est cura cum completudine bonitatis. Item similiter videtur esse in omnibus entibus i/ 
+      vni<lb ed="#L" n="33" break="no"/>us speciei, &amp; generaliter in omnibus entibus omnium specierum, quia secundum 
+      Philoso<lb ed="#L" n="34" break="no"/>phum I. Oeconomicae suae primo capite; In minimis natura singulorum reperitur; sed ita est 
+      <lb ed="#L" n="35"/>de hominibus, quod nisi haberent rectorem communem ipsos ad bonum publicum 
+      dirigen<lb ed="#L" n="36" break="no"/>tem, sed quilibet intenderet bono suo priuato, eorum respublica disponeretur pessime, vel 
+      <lb ed="#L" n="37"/>periret; &amp; licet in diuersis prouinciis haberent diuersos Principes &amp; rectores, nisi adhuc ipsi 
+      <lb ed="#L" n="38"/>haberent vnum superiorem communem Principem, &amp; rectorem, contingeret error, qualis 
+      <lb ed="#L" n="39"/>prior. Quomodo prouidentia indigens ab abundante congrue iuuaretur, nisi autoritate 
+      <lb ed="#L" n="40"/>Principis communis ambarum? Omnium igitur Prouinciarum &amp; hominum est naturaliter vnus 
+      <lb ed="#L" n="41"/>Princeps, hoc enim est melius vniuersis. Omnia namque naturaliter bonum desiderant, sicut ex 
+      <lb ed="#L" n="42"/>proximo huius patet, &amp; maius bonum magis. Quare &amp; Philosophus I. Polit. 1. dicit, quod in 
+      ho<lb ed="#L" n="43" break="no"/>minibus est principans &amp; secundum naturam propter salutem. Et infra, eodem; probat quod 
+      <lb ed="#L" n="44"/>Ciuitas est comunitas naturalis, quia est finis duarum comunitatum naturalium, scilicet dom 
+      <lb ed="#L" n="45"/>&amp; viciniae, &amp; finis cuiuslibet rei est sibi naturalis. Secundo probat idem per hoc, quod ontimum 
+      <lb ed="#L" n="46"/>&amp; sufficientissimum cuiuslibet est sibi naturale, quia est finis eius; optimum autem &amp; 
+      sufficien<lb ed="#L" n="47" break="no"/>tissimum dicit esse in communitate ciuili: Quare concludit sic dicens, ex his igitur manifestum, 
+      <lb ed="#L" n="48"/>quod eorum quae natura ciuitas est, &amp; quod homo natura ciuile Animal est, &amp; per easdem 
+      ra<lb ed="#L" n="49" break="no"/>tiones potest ostendi, quod omnium hominum deberet esse naturaliter vna comunitas ab vno 
+      <lb ed="#L" n="50"/>Principe gubernata; quare &amp; vniuersaliter omnium entium per similem rationem, &amp; haec 
+      vi<lb ed="#L" n="51" break="no"/>detur determinatio Aristotelis, 12. Metaph. vlt. vbi arguit contra Pictagoricos ponentes 
+      nu<lb ed="#L" n="52" break="no"/>merum Mathematicum esse primum rerum principium, per hoc quia tunc substantia vniuersi 
+      <lb ed="#L" n="53"/>esset inconnexa, nec entia mutuo sibi conferrent, &amp; essent multa principia non 
+      subinui<lb ed="#L" n="54" break="no"/>cem nec sub aliquo alio ordinata; sed hoc est contra naturalem dispositionem entium, 
+      <lb ed="#L" n="55"/>&amp; vniuersi. Non est ergo ita; &amp; hoc est quod dicit his verbis, Entia non volunt disponi 
+      ma<lb ed="#L" n="56" break="no"/>le, nec bonum pluralitas principatuum; vnus ergo Princeps; hic autem Princeps secundum 
+      <lb ed="#L" n="57"/>totum suum processum ibi est Deus; &amp; haec videtur ratio Damaceni I. sentent. 3. &amp; Lumbardi 
+      <lb ed="#L" n="58"/>I. sentent. dist. 3. multorumque Philosophorum &amp; Doctorum alijs locis multis, Item partes A¬ 
+      <!--296.xml-->
+      <pb ed="#A" n="263"/>
+               <lb ed="#L" n="1"/>nimalium &amp; plantarum, &amp; totius vniuersi sunt optime &amp; vtilissime ordinate; huius autem 
+      cau<lb ed="#L" n="2" break="no"/>sa non potest esse aliquod elementum, nec aliqua causa particularis, quare secundum 
+      Philoso<lb ed="#L" n="3" break="no"/>phum natura vniuersalis, quae est Deus. Et haec fuit ratio Antiquorum Philosophorum, a 9o &amp;  
+      <lb ed="#L" n="4"/>I0 capitulis Ii Metaph. capitulo proximo allegata. Vnde Auicenna 10. Metaph. 1. Cum 
+      vo<lb ed="#L" n="5" break="no"/>lueris scire quod res vtiles quas intelligis, inducunt ad commoditates in natura, considera 
+      dis<lb ed="#L" n="6" break="no"/>positionem vtilitatis membrorum in auimalibus &amp; plantis, &amp; quomodo vnum quodque eorum 
+      <lb ed="#L" n="7"/>est causatum, &amp; non est ibi causa naturalis vllo modo, sed principium eius est ex cura diuina, 
+      <lb ed="#L" n="8"/>sicut etiam illa pendet ex cura. Scias etiam quod plus appropinquat vulgus, &amp; tenet, &amp; dicit,  
+      <lb ed="#L" n="9"/>verum est; nec refugiunt hoc nisi illi qui volunt videri Philosophi, eo quod ignorant causas 
+      <lb ed="#L" n="10"/>seu alias istorum. Aristoteles quoque in de Animalibus assignans causam dispositionis 
+      mem<lb ed="#L" n="11" break="no"/>brorum Animalium, dicit quod natura sic ordinauit propter melius &amp; salutem Animalis, 
+      <lb ed="#L" n="12"/>quod plane testatur eius Autoritas II. de Animalibus superius recensita, &amp; in hoc omnes 
+      Phi<lb ed="#L" n="13" break="no"/>a losophi &amp; Medici sunt concordes. Frequenter quoque supponit Aristoteles, quod natura 
+      sem<lb ed="#L" n="14" break="no"/>per facit id quod est melius. Vnde 2. de generat. penult. In omnibus inquimus, quod melius 
+      <lb ed="#L" n="15"/>desiderate naturam semper; &amp; 2. de Coelo 34. Natura semper facit contingentium quod 
+      op<lb ed="#L" n="16" break="no"/>timum; &amp; 50. Nihil, vt contingit, facit natura, &amp; irrationabile est ipsam de animalibus 
+      cu<lb ed="#L" n="17" break="no"/>rasse, &amp; despexisse praetiosa, scilicet coelestia, sed videtur studiose factum quod facit: Et 59. 
+      <lb ed="#L" n="18"/>Natura nihil irrationabiliter, neque frustra facit: Et supra 56. Neque animata, neque violenta 
+      <lb ed="#L" n="19"/>feretur latione nullum ipsorum, coelestium scilicet corporum, velut futurum prouidente 
+      natu<lb ed="#L" n="20" break="no"/>ra, quoniam non hoc modo se habente motu, nihil vtique erit: Circa hunc locum, &amp; alijs 
+      lo<lb ed="#L" n="21" break="no"/>cis multis, talia multa dicit. Et quod haec natura apud Aristotelem sit Deus, patet per eius 
+      ver<lb ed="#L" n="22" break="no"/>ba, quae conuenire non possunt irrationali naturae, nec rationali alicui, nisi primae; quod &amp; 
+      <lb ed="#L" n="23"/>dictum suum ex libello de morte Aristotelis recitatum superius plane docet. Vnde I. 
+      Oecono<lb ed="#L" n="24" break="no"/>micae 1. dicit, Natura replet periodo procreationis prolis semper esse: cum per vnum nequeat,  
+      <lb ed="#L" n="25"/>per speciem tamen, sicut praeordinata fuit a diuino vtriusque natura masculi &amp; faeminae ad  
+      <lb ed="#L" n="26"/>communitatem. Auerroes quoque super 2. de Anima comment. 34. dicit quod sollicitudo 
+      di<lb ed="#L" n="27" break="no"/>uina cum non potuit facere generabile &amp; corruptibile permanere secundum indiuiduum, 
+      <lb ed="#L" n="28"/>miserta est in dando ei virtutem quae potest permanere in specie. Adhuc autem quid rectius 
+      <lb ed="#L" n="29"/>aestimandum naturam vniuersalem, quam animam mundi communem? Haec autem est Deus, 
+      <lb ed="#L" n="30"/>sicut praemissa 2o huius ostendunt, quod &amp; multa similiter ibi tacta probare videntur. 
+      Am<lb ed="#L" n="31" break="no"/>plius autem &amp; principalis sententia per multa Philosophorum testimonia comprobatur. Arist. 
+      <lb ed="#L" n="32"/>enim praeter superius allegata in De secreto secretor. 1. part. 23. dicit, quod Deus omnes 
+      im<lb ed="#L" n="33" break="no"/>pressiones, frigora, &amp; calores in hyeme &amp; aestate summa prouidentia ineuitabiliter stabiliuit.  
+      <lb ed="#L" n="34"/>Idem in De mundo 13. Deo gubernante, semper immobiliter &amp; diligenter regitur totus decor 
+      <lb ed="#L" n="35"/>coeli &amp; terrae diuisus secundum omnes naturas. Hoc etiam plane tenent Auicen. 8. Met. 9. &amp; 
+      <lb ed="#L" n="36"/>10. &amp; Algazel. 5. Phys. &amp; 5. Met. Auerroes quoque super 12. Meta. commerit. 37. dicit, quod 
+      <lb ed="#L" n="37"/>Deus habet curam &amp; sollicitudine circa omnia entia, tam circa indiuidua, quam circa species, 
+      <lb ed="#L" n="38"/>&amp; comment. 52. dicit, quod principium voluntarij &amp; naturalis oportet vt habeat intentionem 
+      <lb ed="#L" n="39"/>actionis ordinatam ad ram causam; &amp; sciendum quod haec est sententia Aristotelis in 
+      sollici<lb ed="#L" n="40" break="no"/>tudine, &amp; recitatis duabus opinionibus contrarijs, quarum vna posuit Deum habere 
+      sollicitu<lb ed="#L" n="41" break="no"/>dinem circa quodcunque; &amp; alia, quod nulla est sollicitudo omnino, dicit; Et veritas est in 
+      <lb ed="#L" n="42"/>hoc, quod sollicitudo est, &amp; quod si aliqua sint sine sollicitudine, proueniunt ex necessitate 
+      <lb ed="#L" n="43"/>materiae, non ex diminutione agentis; sed nulla proueniunt ex necessitate materiae nisi forsan 
+      <lb ed="#L" n="44"/>sicut ipsemet loquitur, super 2. Phys. comm. 88. cum dicit, Illa quae inueniuntur in rebus 
+      natu<lb ed="#L" n="45" break="no"/>ralibus de necessitate non propter aliquid, vt mors Animalis, sunt propter materia, &amp; illa que 
+      <lb ed="#L" n="46"/>inueniuntur in eis propter aliquid, sunt propter formam; &amp; tales priuationes licet aliquo 
+      mo<lb ed="#L" n="47" break="no"/>do intendantur a Deo, non tamen ita principaliter sicut habitus &amp; forma: Hae namque propter 
+      <lb ed="#L" n="48"/>illos intenduntur finaliter, non e contra. Vnde Sap. 1. Deus mortem non fecit: Et Eccles. 39. 
+      <lb ed="#L" n="49"/>Fames &amp; mors ad vindictam creata sunt. Adhuc autem Calcidius super 2am partem Timaei 
+      <lb ed="#L" n="50"/>Platonis, sic ait, Priscorum hominum genus omnia que ad vsum hominum vitaeque facultatem 
+      <lb ed="#L" n="51"/>agendam, diuino consilio &amp; prouidentia demanant, auxiliantibus atque operantibus tam 
+      po<lb ed="#L" n="52" break="no"/>tentijs quam rationibus, haec ipsa quae auxiliantur deos putabat, propterea quod rudibus ani 
+      <lb ed="#L" n="53"/>mis nondum insederat vera Dei sciscitatio. Erantenim Pastores, &amp; Syluacedi, caeterique 
+      huius<lb ed="#L" n="54" break="no"/>modi sine studio humanitatis; vbi &amp; ad prouidentia affirmandam adducit Platonem, Pictagora, 
+      <lb ed="#L" n="55"/>Orpheum, Lipponem, &amp; Musaeum; totaque secta Stoicorum diuinam prouidentiam 
+      concor<lb ed="#L" n="56" break="no"/>diter profitetur, teste Lactantio vbi prius. Ad hoc etiam faciunt multae Autoritates 
+      Philosophi<lb ed="#L" n="57" break="no"/>cae, &amp; Theologice, 1o huius 2. 3. 4. 6. S, &amp; proximo allegatae, quae de sollicitudine, prouidentia, 
+      <lb ed="#L" n="58"/>gubernatione, &amp; similibus faciunt mentione. Praeterea Aug. 8. super Gen. ad lit. a cap. 11. vsque 
+      <!--297.xml-->
+      <pb ed="#A" n="264"/>
+               <lb ed="#L" n="1"/>ad fine ostendit, multumque diffuse opus diuinae prouidentiae bipartitum, creationis scilicet &amp; 
+      ad<lb ed="#L" n="2" break="no"/>ministrationis, cui tota subiacet creatura; &amp; 9. 24. idem &amp; I. de lib. arbitr. II. Nihil rerum est 
+      <lb ed="#L" n="3"/>quod non administret diuina prouidentia; et idem 2. 28. 34. &amp; 3. 2. ac alijs libris, &amp; locis non 
+      <lb ed="#L" n="4"/>paucis, quorum vnum nunc tanga alijs praetermissis 5. de ciuit. Dei II. dicit ita, Deus qui fecit 
+      <lb ed="#L" n="5"/>hominem rationale animal ex anima &amp; corpore, qui eum peccantem nec impunitum esse 
+      permi<lb ed="#L" n="6" break="no"/>sit, nec sine misericordia dereliquit, qui bonis &amp; malis essentiam cum Iapidibus, vitam 
+      semi<lb ed="#L" n="7" break="no"/>nalem cum arboribus, sensualem cum pecoribus, &amp; intellectualem cum solis Angelis dedit,  
+      <lb ed="#L" n="8"/>a quo est omnis modus, omnis species, omnis ordo, mensura, numerus, &amp; pondus; &amp; 
+      quic<lb ed="#L" n="9" break="no"/>quid naturaliter est, cuiuscunque generis est, a quo sunt semina formarum, formae seminum,  
+      <lb ed="#L" n="10"/>motus seminum atque formarum, qui dedit carni originem, pulchritudinem, valetudinem, 
+      <lb ed="#L" n="11"/>propaginis foecunditatem, membrorum dispositionem, salutem, concordiam, qui &amp; animae 
+      <lb ed="#L" n="12"/>irrationali dedit memoriam sensum &amp; appetitum, rationali autem mentem, intelligentiam, &amp;  
+      <lb ed="#L" n="13"/>voluntatem, qui non solum coelum &amp; tertam, nec solum Angelum &amp; hominem, sed nec 
+      exi<lb ed="#L" n="14" break="no"/>gui &amp; contemptibilis animantis viscera, nec auis penulam, nec herbae flosculum, nec arboris 
+      <lb ed="#L" n="15"/>folium, sine suarum partium conuenientia &amp; quadam veluti pace dereliquit, nullo modo est 
+      <lb ed="#L" n="16"/>credendus regna hominum, eorumque dominationes, &amp; seruitutes a suae prouidentiae 
+      legi<lb ed="#L" n="17" break="no"/>bus alienas esse voluisse. Lactantius insuper, vbi prius, ostendit multipliciter &amp; diffuse 
+      diui<lb ed="#L" n="18" break="no"/>nam prouidentiam generalem. Huius autem Lactantij, &amp; libri eius praedicti, qui continet 7. 
+      <lb ed="#L" n="19"/>libros, beatus Ieronymus de viris illusti ibus 80o. &amp; beatus Augustinus I8. de Ciuit. Dei 24. 
+      <lb ed="#L" n="20"/>laudabilem faciunt mentionem Nulli igitur videatur eius Autoritas contemnenda. Isidorus 
+      <lb ed="#L" n="21"/>etiam, vbi prius, recitat ab Epicuro nulla diuina prouidentia instructum esse mundum aut 
+      re<lb ed="#L" n="22" break="no"/>gi, tanquam haeresin seu errorem, sicut eius processus euidenter ostendit. Iosephus quoque 
+      <lb ed="#L" n="23"/>2. Antiquit. Iudaicae vlt. recitat Mosen sic dixisse, De Dei prouidentia desperare immensae 
+      ve<lb ed="#L" n="24" break="no"/>saniae est. Item Psalmo I18. Ordinatione tua perseuerat dies, quoniam omnia seruiunt tibi. 
+      <lb ed="#L" n="25"/>Et 146. Qui dat iumentis escam ipsorum, &amp; pullis coruorum inuocantibus eum. Et 148. 
+      sta<lb ed="#L" n="26" break="no"/>tuit ea in aeternum, &amp; in saeculum saeculi, praeceptum posuit &amp; non praeteribit. Et Sapient. 12. 
+      <lb ed="#L" n="27"/>Non est alius Deus quam tu, cui cura est de omnibus: Totaque Scriptura Canonica veteris 
+      <lb ed="#L" n="28"/>Testamenti &amp; noui dicit creberrime Deum prouidere de rebus, curare, ordinare, statuere, 
+      dis<lb ed="#L" n="29" break="no"/>ponere, praeparare, facere, gubernare, &amp; multa similia, quae tam secundum facie literae, quam  
+      <lb ed="#L" n="30"/>secundum expositionem sanctorum ad diuinam prouidentiam referuntur. Pro quibus 
+      om<lb ed="#L" n="31" break="no"/>nibus sufficiat adducere vnum irrefragabile testimonium veritatis dicentis, Respicite 
+      volati<lb ed="#L" n="32" break="no"/>lia coeli, quoniam non serunt, neque metunt, neque congregant in horrea, &amp; pater vester 
+      coe<lb ed="#L" n="33" break="no"/>lestis pascit illa: Considerate lilia agri, quomodo crescunt; Non laborant, neque nent, neque 
+      Sa<lb ed="#L" n="34" break="no"/>lomon in omni gloria sua coopertus est, sicut vnum ex istis; &amp; faenum agri quod hodie est, &amp; 
+      <lb ed="#L" n="35"/>cras in clibanum mittitur, Deus sic vestit, Mat. 6. Et infra 10. Nonne duo passeres asse 
+      vaene<lb ed="#L" n="36" break="no"/>unt, &amp; vnus ex illis non cadet super terram sine Patre vestro: Quod omnes expositores 
+      Ca<lb ed="#L" n="37" break="no"/>tholici ad diuinam prouidentiam referunt, quorum vnius nunc pro omnibus memorabor. 
+      <lb ed="#L" n="38"/>Dicit siquidem Augustinus in sententijs Prosperi propositione 286. Cum Saluator dicit 
+      v<lb ed="#L" n="39" break="no"/>num passerem non cadere in tertam sine voluntate Dei, &amp; quod foenum agri quod post 
+      paulu<lb ed="#L" n="40" break="no"/>lum mittendum in clibanum est, ipse tamen formet ac vestiat, nonne confirmat, non solum 
+      to<lb ed="#L" n="41" break="no"/>tam istam mundi partem mortalibus rebus &amp; corruptibilibus deputatam, verum etiam 
+      vilis<lb ed="#L" n="42" break="no"/>simas eius abiectissimasque particulas diuina prouidentia regi, ne fortuitis perturbari 
+      moti<lb ed="#L" n="43" break="no"/>bus, ea quorum causas comprehendere non possumus, aestimemus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

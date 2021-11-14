@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="686"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e90689"><!-- l3c11 -->
+            <head xml:id="dcn2br-e90689-Hd1e106">Caput 11</head>
+            <p xml:id="dcn2br-e90689-d1e109">
+               <lb ed="#L" n="26"/>CAP. XI 
+      <lb ed="#L" n="27"/>Obiicit &amp; respondet.
+    </p>
+            <p xml:id="dcn2br-e90689-d1e116">
+               <lb ed="#L" n="28"/>SEd obijcietur forsitan contra dicta: Dictum est enim nono huius, quod 
+      <lb ed="#L" n="29"/>licet omnes actus humani proueniant a necessitate naturaliter 
+      praece<lb ed="#L" n="30" break="no"/>dente; ideo tamen dicitur homo liber, &amp; liberae voluntatis, quia non 
+      <lb ed="#L" n="31"/>inuite nec coacte, sed spontanee, &amp; cum vult facit, &amp; cum non vult, 
+      <lb ed="#L" n="32"/>non facit aliquos actus suos; eodem modo bestiae, licet faciant facta 
+      <lb ed="#L" n="33"/>sua ex necessitate naturaliter praecedente, non tamen inuite nec 
+      coa<lb ed="#L" n="34" break="no"/>cte sed // pure spontanee, &amp; cum volunt seu appetunt, faciunt, &amp; cum 
+      <lb ed="#L" n="35"/>ggll nolunt, seu non apperunt, non faciunt aliqua facta sua ex necessitate 
+      <lb ed="#L" n="36"/>naturaliter praecedentem; ergo ita libere, &amp; ita meritorie sicut homo. Item nulla videtur 
+      ra<lb ed="#L" n="37" break="no"/>tio possibilis assignari, quare in actibus humanis necessitas respectu Dei siue voluntatis 
+      diui<lb ed="#L" n="38" break="no"/>nae praecedens naturaliter tales actus potius compatitur meritum, sicut dicunt corollaria 
+      prox<lb ed="#L" n="39" break="no"/>imi d&amp; secundi, quam quaecunque necessitas alia, vel saltem quam necessitas respectu naturae 
+      <lb ed="#L" n="40"/>vel fati, quod eis corollarium proximum denegauit, vel quam necessitas penitus 
+      absoluta<lb ed="#L" n="41" break="no"/>Haec autem soluuntur faciliter, si praeostensa memoriter teneantur. Nam sicut capitulum 
+      pro<lb ed="#L" n="42" break="no"/>ximum docuit, creatura rationalis est libera triplici libertate, scilicet a necessitate naturali. P 
+      <lb ed="#L" n="43"/>fatali, &amp; violenta, imo &amp; a necessitate respectu causarum omnium secundarum per tertium 
+      <lb ed="#L" n="44"/>secundi: Irrationale autem non sic, sed subduntur in omnibus necessitati naturae, &amp;, vt placet 
+      <lb ed="#L" n="45"/>quibusdam, necessitati fati stellarum. Pro mente vero Augustini, cum dicit ideo hominem 
+      li<lb ed="#L" n="46" break="no"/>bere facere aliquid, quia cum vult, facit, &amp; cum non vult, non facit, potest dici, quod loquitur 
+      <lb ed="#L" n="47"/>ibi contra Pelagianos, &amp; contra necessitatem violentam &amp; inuitam, quam dixerunt sequi ex 
+      <lb ed="#L" n="48"/>praescientia vel praedestinatione diuina, sicut capitulum proximum recitauit, illam ab 
+      ho<lb ed="#L" n="49" break="no"/>mine remouendo; non tamen affirmat in homine illam tantummodo libertatem. Aliter &amp; 
+      me<lb ed="#L" n="50" break="no"/>lius potest dici, quod ideo dicitur homo liber libertate contradictionis, quia positis 
+      <lb ed="#L" n="51"/>nibus causis secundis naturaliter praeuijs suae liberae volutioni cum omnibus dispositionibu 
+      <lb ed="#L" n="52"/>necessario requisitis, non necessario sequitur ipsum velle, sed potest equaliter velle &amp; non ve¬ 
+      <!--720.xml-->
+      <pb ed="#A" n="687"/>
+               <lb ed="#L" n="1"/>sicut ex 4. &amp; sequentibus huius patet: ideoque his omnibus stantibus isto modo, cum vult, 
+      <lb ed="#L" n="2"/>vult &amp; efficit suum velle, &amp; cum non vult, non vult, nec efficit suum velle; quare posito 
+      se<lb ed="#L" n="3" break="no"/>cundum opinionem insipientis Deum non esse &amp; hominem esse, posseque agere; vel 
+      secun<lb ed="#L" n="4" break="no"/>dum opinionem quorundam, puta Pelagianorum, qui dicunt se esse sapientes, hominem  
+      <lb ed="#L" n="5"/>posse agere sine Deo aliqualiter coagente, homo in actibus suis liberis esset liber simpliciter 
+      <lb ed="#L" n="6"/>libertate contradictionis, bestiae autem non sic. Imo &amp; si ponatur ipsas posse agere Deo 
+      nulla<lb ed="#L" n="7" break="no"/>tenus coagente, adhuc posito appetibili &amp; caeteris causis secundis cum dispositionibus 
+      requi<lb ed="#L" n="8" break="no"/>sitis &amp; naturaliter praeuijs appetitui, actui scilicet appetendi, necessario sequitur ipsas 
+      appe<lb ed="#L" n="9" break="no"/>tere, necessitate scilicet naturali. Vnde Philosophus 9. Metaphys. 10. Irrationales, inquit, 
+      <lb ed="#L" n="10"/>potentias necessario, quando vt possunt, passiuum &amp; actiuum appropinquant, hoc quidem  
+      <lb ed="#L" n="11"/>facere, illud vero pati: quod &amp; testatur autoritas Damasceni dicentis, Irrationalia non sunt 
+      li<lb ed="#L" n="12" break="no"/>bera arbitrio; aguntur enim magis a natura quam agant, ideoque non contradicunt naturali 
+      <lb ed="#L" n="13"/>appetitui, sed simul appetunt quid, &amp; impetum faciunt ad actum, sicut superius plenius 
+      reci<lb ed="#L" n="14" break="no"/>tatur. Hanc etiam obiectionem Anselmus de libero arbitrio 5. simili modo soluit, vbi primo 
+      <lb ed="#L" n="15"/>a discipulo ita quaerit: Quomodo non est libera voluntas, quam aliena potestas sine suo 
+      assen<lb ed="#L" n="16" break="no"/>su subijcere non potest? Et discipulo requirente, Nonne simili ratione possumus dicere 
+      vo<lb ed="#L" n="17" break="no"/>luntatem equi esse liberam, quae non appetitui carnis seruit nisi volens? Respondet, Non 
+      <lb ed="#L" n="18"/>hoc est similiter: in equo namque non ipsa voluntas se subijcit, sed naturaliter subiecta 
+      sem<lb ed="#L" n="19" break="no"/>per necessitate appetitui carnis seruit: in homine vero quamdiu ipsa voluntas recta est, nec 
+      <lb ed="#L" n="20"/>seruit nec subiecta est cui non debet, nec ab ipsa rectitudine vlla vi aliena auertitur, nisi ipsa, 
+      <lb ed="#L" n="21"/>cui non debet, volens consentiat, quem consensum non naturaliter nec ex necessitate, sicut  
+      <lb ed="#L" n="22"/>equus, sed ex se aperte videtur habere. Beatus etiam Augustinus 3. de libero arbitrio 1. ad 
+      si<lb ed="#L" n="23" break="no"/>milem obiectionem de motu lapidis naturali simili modo respondet. Cum autem obijciens 
+      <lb ed="#L" n="24"/>vlterius arguebat; bestiae agunt libere, ergo meritorie; consecutio illa non tenet. Nam sicut 
+      <lb ed="#L" n="25"/>in morali Philosophia, &amp; in sacra Theologia docetur creberrime, ad meritum non sufficit 
+      fa<lb ed="#L" n="26" break="no"/>cere tantum naturaliter vnum bonum, sed requiritur facere ipsum bene, quod non facit nisi 
+      <lb ed="#L" n="27"/>intentio recta finis, vt patet ex 34. primi; hanc autem dirigit ratio recte praeiudicans; quare 
+      <lb ed="#L" n="28"/>bestiae ratione carentes, &amp; merito de necessitate carebunt. Imo &amp; sicut forsitan est absolute 
+      <lb ed="#L" n="29"/>possibile, quod Deus faceret aliquam naturam immaterialem omnino liberam ad volendum 
+      <lb ed="#L" n="30"/>sine iudicio rationis: ex quo enim nunc facit vnam naturam habentem potentias illas ambas, 
+      <lb ed="#L" n="31"/>posset, vt videtur, facere aliam, quae vtramlibet tantum haberet: si igitur talem faceret 
+      crea<lb ed="#L" n="32" break="no"/>turam, ipsa esset aeque libera, sicut homo vel Angelus, quae tamen omnino mereri vel 
+      pec<lb ed="#L" n="33" break="no"/>care non posset, eo quod careret iudicio rationis, cui se libere conformaret, vel etiam 
+      diffor<lb ed="#L" n="34" break="no"/>maret. Est etiam inexpugnabilis ratio possibilis assignari, quare necessitas in voluntate 
+      re<lb ed="#L" n="35" break="no"/>spectu voluntatis diuinae compatitur meritum, &amp; alia nulla omnino. Ipsa enim compatitur 
+      <lb ed="#L" n="36"/>meritum propter rationem quam ostensio corollarij primi huius assignat; &amp; vt breuiter 
+      rati<lb ed="#L" n="37" break="no"/>onem huius assignem, dico quod natura voluntatis creatae est talis, vt in suis actibus liberis 
+      <lb ed="#L" n="38"/>nulli causae secundae de necessitate subdatur, vt tertium secundi ostendit, sed tantum Deo, 
+      si<lb ed="#L" n="39" break="no"/>cut 30. secundi, &amp; 2. tertij docuerunt. Quod &amp; bene in prima institutione hominis 
+      monstra<lb ed="#L" n="40" break="no"/>batur, quando fuerat institutus, vt soli Deo subesset, caeterisque praeesset, sicut historia Gen. 1. 
+      <lb ed="#L" n="41"/>docet; quare &amp; in merito simili modo erit: nulli etiam menti rationali dubium debet esse, quin 
+      <lb ed="#L" n="42"/>Creator omnipotens super creaturam rationalem, sicut &amp; super vniuersam creaturam, 
+      prae<lb ed="#L" n="43" break="no"/>rogatiua aliqua speciali caeteris actiuis agentibusve creatis aut creabilibus vniuersis sit 
+      rationa<lb ed="#L" n="44" break="no"/>biliter praeferendus. Nec vlla necessitas alia compatitur meritum. Nam de necessitate 
+      vio<lb ed="#L" n="45" break="no"/>lenta &amp; omnino inuita nullus dubitat aut ignorat, omnisque necessitas naturalis est forme 
+      ma<lb ed="#L" n="46" break="no"/>terialis &amp; irrationalis, sicut ex tertio secundi potest haberi: quare secundum praeostensa isto 
+      <lb ed="#L" n="47"/>capitulo meritum habere non potest. Vnde Augustinus in quaestionibus veteris &amp; noui testa 
+      <lb ed="#L" n="48"/>menti quaestione secunda; Diabolus si natura malus esset, voluntatem non haberet: nec enim 
+      <lb ed="#L" n="49"/>posset discernere, sed vno atque eodem loco omnibus se quasi coecus immergeret. Porro 
+      au<lb ed="#L" n="50" break="no"/>tem iudicio quodam hoc facit; vnde manifestum est voluntatem eius esse in crimine. Et infra, 
+      <lb ed="#L" n="51"/>Si haec naturaliter putatur facere, reus constitui non // potest: quomodo enim reus constituitur 
+      <lb ed="#L" n="52"/>qui nescit quid facit? Ita &amp; diabolus si bonum nescit, quare damnandus censetur, qui non 
+      fa<lb ed="#L" n="53" break="no"/>cit quod nescit? Nos autem iure rei constituimur, quia aliud facimus quam scimus debere 
+      <lb ed="#L" n="54"/>nos facere. Omnis quoque forma, si quae sit subiecta necessitati fatali stellarum, necessario 
+      <lb ed="#L" n="55"/>est materialis &amp; per consequens irrationalis; quare secundum praemissa non est meriti 
+      suscep<lb ed="#L" n="56" break="no"/>tiua: nam nulla forma immaterialis &amp; rationalis subijcitur necessitati cuiuscunque formae 
+      <lb ed="#L" n="57"/>materialis &amp; irrationalis per tertium secundi: non enim deceret rerum ordinem naturalem, vt 
+      <lb ed="#L" n="58"/>perfectius imperfectiori, rationale irrationali, &amp; sapiens nihil scienti omnino necessario sub¬ 
+      <!--721.xml-->
+      <pb ed="#A" n="688"/>
+               <lb ed="#L" n="1"/>deretur. Neque necessitas penitus absoluta compatitur meritum, quia si in actibus hominis 
+      <lb ed="#L" n="2"/>esset talis necessitas, nec in ipso, nec in Deo esset vlla possibilitas aliter faciendi; quare Deus 
+      <lb ed="#L" n="3"/>sic necessario ageret actus humanos, &amp; eadem ratione quicquid agit ad extra; quare non esset 
+      <lb ed="#L" n="4"/>agens rationale &amp; liberum, vt patet per ostensa 4. huius &amp; 5. sed agens irrationale &amp; de 
+      neces<lb ed="#L" n="5" break="no"/>sitate naturae; &amp; cum per 30. secundi ipse sit omnium primus motor, omnis motor inferior 
+      <lb ed="#L" n="6"/>similiter tantum ageret &amp; moueret. Non enim deceret nec esset possibile vt motor secundus 
+      <lb ed="#L" n="7"/>rationabilior aut liberior esset primo, sicut iam poximo est ostensum, argutum &amp; 6. primi &amp; 
+      <lb ed="#L" n="8"/>9. quare nec vllus motor inferior posset mereri, sicut superius est ostensum. 
+      </p>
+            <div xml:id="dcn2br-e90689-Dd1e324">
+               <head xml:id="dcn2br-e90689-Hd1e326">Corollarium</head>
+               <p xml:id="dcn2br-e90689-d1e329">
+                  <lb ed="#L" n="9"/>COROLLARIVM. 
+      <lb ed="#L" n="10"/>Corollarium, qualis sit libertas in irrationabilibus creaturis, &amp; quomodo differt &amp; 
+      <lb ed="#L" n="11"/>conuenit cum rationalium libertate.
+      </p>
+               <p xml:id="dcn2br-e90689-d1e338">
+                  <lb ed="#L" n="12"/>EX his autem cognoscitur luculenter qualis libertas est vel non est in irrationalibus 
+      creatu<lb ed="#L" n="13" break="no"/>Aris, &amp; quomodo differt rationalis libertas ab irrationabilium libertate, &amp; quomodo 
+      con<lb ed="#L" n="14" break="no"/>uenit cum eadem. Est enim in eis respectu suarum naturalium actionum libertas a violentia 
+      <lb ed="#L" n="15"/>&amp; coactione inuita. Nam cum appetunt, faciunt, &amp; cum non apperunt, minime; quod 
+      pri<lb ed="#L" n="16" break="no"/>mo &amp; maxime verificatur in eis de appetitu eorum, sicut est in hominibus de voluntate 
+      eo<lb ed="#L" n="17" break="no"/>rum, sicut 9. huius plenius ostendebat: quare &amp; Philosophus 3. Ethicorum 5. attribuit &amp; 
+      <lb ed="#L" n="18"/>pueris &amp; animalibus voluntatem, voluntario quidem, inquiens, &amp; pueri &amp; animalia 
+      commu<lb ed="#L" n="19" break="no"/>nicant. Anselmus etiam de libero arbitrio 5. innuit equum habere voluntatem, vt praesens 
+      <lb ed="#L" n="20"/>capitulum superius recitauit, qui &amp; infra 13. ita dicit, Seruat naturaliter canis rectitudinem 
+      <lb ed="#L" n="21"/>voluntatis, cum amat catulos suos, aut Dominum suum sibi benefacientem. Est insuper in 
+      <lb ed="#L" n="22"/>bestijs forsitan libertas a necessitate fati stellarum: Videtur enim quod si bestiae fuissent creatae 
+      <lb ed="#L" n="23"/>perfectae primo die mundi ante creationem stellarum, quod tunc potuissent exercuisse suas 
+      <lb ed="#L" n="24"/>actiones proprias naturales; cuius tamen certificationem quia non multum videtur ad 
+      pieta<lb ed="#L" n="25" break="no"/>tis scientiam pertinere, relinquo Philosophis naturalibus &amp; Astrologis, quos magis exagitat 
+      <lb ed="#L" n="26"/>studium curiosum. Non est autem in eis libertas simpliciter, quia non respectu causarum 
+      su<lb ed="#L" n="27" break="no"/>periorum, scilicet causae primae, id est, voluntatis diuinae, sicut nec in rationalibus, sicut 
+      quin<lb ed="#L" n="28" break="no"/>tum &amp; nonum huius ostendunt, nec est in eis libertas a necessitate naturae, sicut praesens 
+      capi<lb ed="#L" n="29" break="no"/>tulum superius demonstrauit; quare nec potest esse in eis libertas contradictionis simpliciter. 
+      <lb ed="#L" n="30"/>nec respectu omnium causarum inferiorum, omnium scilicet secundarum, sicut corollarium 
+      <lb ed="#L" n="31"/>quarti huius ostendit. Differentiam autem &amp; conuenientiam istarum libertatum adinuicem 
+      <lb ed="#L" n="32"/>ex praecedentibus reputo manifestum. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

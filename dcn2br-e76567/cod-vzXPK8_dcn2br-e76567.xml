@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 29</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 29</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e76567"><!-- l2c29 -->
+            <head xml:id="dcn2br-e76567-Hd1e106">Caput 29</head>
+            <p xml:id="dcn2br-e76567-d1e109">
+               <lb ed="#L" n="17"/>CAP. XXIX. 
+      <lb ed="#L" n="18"/>Quod voluntas increata &amp; creata in coefficiendo actum voluntatis 
+      <lb ed="#L" n="19"/>creatae, non sunt coaequales, nec coaequaeuae in ordine naturali. 
+      </p>
+            <p xml:id="dcn2br-e76567-d1e118">
+               <lb ed="#L" n="20"/>NVnc igitur stabilito quod omnem actum voluntatis creatae proprie agit 
+      <lb ed="#L" n="21"/>Deus &amp; creatura similiter, voluntas increata etiam &amp; creata, restat 
+      <lb ed="#L" n="22"/>consequenter inquirere, an istae duae causae agentes sint in ista sua 
+      actio<lb ed="#L" n="23" break="no"/>ne communi aequales in ordine naturaliter &amp; coaequaeuae, aut vna 
+      illa<lb ed="#L" n="24" break="no"/>rum alteram naturaliter antecedat, &amp; si sic fuerit, quae sit illa. Si 
+      au<lb ed="#L" n="25" break="no"/>tem ponantur aequales in ordine actionis &amp; naturaliter coaequaeuae, 
+      <lb ed="#L" n="26"/>ambae reducuntur ad aliam tertiam naturaliter his priorem, per cuius 
+      a<lb ed="#L" n="27" break="no"/>gentiam istae agunt; quoniam sic est in omnibus taliter ordinatis, sicut 
+      <lb ed="#L" n="28"/>omne; Philosophi vnanimiter contestantur, quorum testimonia aliqua, primum, secundum, 
+      <lb ed="#L" n="29"/>tertium, &amp; quartum primi, &amp; specialiter probatio (tertij / corollarij, secundi capituli primi 
+      <lb ed="#L" n="30"/>libri plenius recitarunt: Ergo Deus agens habet causam agentem priorem, cuius virtute &amp; 
+      a<lb ed="#L" n="31" break="no"/>gentia ipse agit. Illa causa necessario non est Deus, sed creatura; ergo in actione communi 
+      <lb ed="#L" n="32"/>creaturae &amp; Dei, creatura est prior in ordine agendi quam Deus. Et si hoc sit verum de aliqua 
+      <lb ed="#L" n="33"/>creatura in aliqua actione, hoc maxime videtur de creatura rationali in sua libera actione: 
+      <lb ed="#L" n="34"/>sed hypothesis posuit ipsos pares. Docent quoque multi Philosophi multis locis, quod 
+      om<lb ed="#L" n="35" break="no"/>nis motor, vel est primus simpliciter, vel ad illum reducitur in mouendo, vt patet quarto &amp; 
+      <lb ed="#L" n="36"/>tertio primi libri, &amp; vicesimo huius secundi. Si ergo Deus &amp; creatura rationalis in sua 
+      moti<lb ed="#L" n="37" break="no"/>one communi sint pares in ordine, neuter illorum est simpliciter primus motor, vt patet peri 
+      <lb ed="#L" n="38"/>proximam rationem: &amp; quia ille est vnicus, nec est possibile plures esse, sicut docet 
+      Philoso<lb ed="#L" n="39" break="no"/>phus 8. Physicorum, &amp; 12. Metaphys. &amp; alij Philosophi alibi multis locis; quod &amp; testatur, 
+      <lb ed="#L" n="40"/>illud vulgatum 5. Topic. scilicet, quod per superabundantiam dicitur, Vni solo inerit, vt 
+      ig<lb ed="#L" n="41" break="no"/>nis esse leuissimum. Vnde &amp; Propheta, Tu solus altissimus in omni terra, Psalmo 72. Ergo 
+      <lb ed="#L" n="42"/>Deus in huiusmodi motione habet motorem priorem &amp;c. sicut prius.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 32</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 32</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="610"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e80829"><!-- l2c32 -->
+            <head xml:id="dcn2br-e80829-Hd1e106">Caput 32</head>
+            <p xml:id="dcn2br-e80829-d1e109">
+               <lb ed="#L" n="15"/>CAP. XXXII. 
+      <lb ed="#L" n="16"/>Quod in omni non actione Deo &amp; creaturae communi, prius 
+      <lb ed="#L" n="17"/>naturaliter est Deum ibi non agere quam ipsam, &amp; 
+      <lb ed="#L" n="18"/>est, quia Deus certam actionem per creatu 
+      <lb ed="#L" n="19" break="no"/>ram non agit, ideo creatura illam non 
+      <lb ed="#L" n="20"/>agit, &amp; non e contra. 
+    </p>
+            <p xml:id="dcn2br-e80829-d1e125">
+               <lb ed="#L" n="21"/>OStenso siquidem, quod in omni actione Deo &amp; creaturae communi, 
+      <lb ed="#L" n="22"/>Deus prius naturaliter agit quam ipsa; restat consequenter ostendere, 
+      <lb ed="#L" n="23"/>quod in omni non actione Deo, &amp; creaturae communi, prius 
+      naturali<lb ed="#L" n="24" break="no"/>ter est Deum ibi non agere, quam creaturam: Videlicet quia Deus 
+      <lb ed="#L" n="25"/>certam actionem per creaturam non agit, ideo creatura illam non agit, 
+      <lb ed="#L" n="26"/>&amp; non e contra. Hoc namque consequitur ex trigesimo huius planes 
+      <lb ed="#L" n="27"/>Sicut enim duorum mouentium secundum prius &amp; posterius 
+      ordina<lb ed="#L" n="28" break="no"/>torum, ita quod primum potest ex se solo non impedibiliter mouere 
+      <lb ed="#L" n="29"/>secundum, &amp; secundum mouere non potest, nisi sicut instrumentum motum antecedenter ; 
+      <lb ed="#L" n="30"/>per primum, prius natura est primum mouere quam secundum; &amp; quia primum mouet, ideo 
+      <lb ed="#L" n="31"/>mouet secundum, &amp; non e contra: sic &amp; in non mouere similiter, sicut euidenter apparet in 
+      <lb ed="#L" n="32"/>brachio, baculo, &amp; pila, &amp; motore coelesti Coelo, &amp; aere: quod &amp; ratio manifestat. 
+      Pri<lb ed="#L" n="33" break="no"/>uatio namque non proprie est effectus, sed defectus; quare non proprie habet causam 
+      effi<lb ed="#L" n="34" break="no"/>cientem, sed deficientem. Haec autem esse non potest, nisi causa superior deficiens ab 
+      agen<lb ed="#L" n="35" break="no"/>do, quae si ageret, causaret habitum quo priuatio tolleretur. Sicut igitur positio causae 
+      prio<lb ed="#L" n="36" break="no"/>ris est causa positionis sui effectus posterioris: sic &amp; remotio causae est causa remotionis 
+      effe<lb ed="#L" n="37" break="no"/>ctus: Sicut enim presentia solis est causa diei, sic &amp; eius absentia est causa noctis: sicuti &amp; 
+      <lb ed="#L" n="38"/>praesentia gubernatoris est causa salutis in naui, &amp; eius absentia perditionis, sicut 
+      Philoso<lb ed="#L" n="39" break="no"/>phus 2. Phys. 30. 5. Metaphys. 2. &amp; Anselmus de conceptu virginali 5. testantur. Quare 
+      <lb ed="#L" n="40"/>Philosophus 5. Metaphys. 16. distinguens priora &amp; posteriora; Alia, inquit, secundum 
+      po<lb ed="#L" n="41" break="no"/>testatem: Excedens enim potestate prius &amp; quod potentius: tale vero est cuius secundum 
+      <lb ed="#L" n="42"/>praeuoluntatem sequi est necesse, alterum est posterius; vt non mouente illo non moueatur, p 
+      <lb ed="#L" n="43"/>&amp; mouente moueatur; &amp; est praeuoluntas principium; vbi &amp; textus quem Auerroes habet,  
+      <lb ed="#L" n="44"/>Et dicitur ante secundum potentiam vel virtutem, sicut dicimus ante dominatum: 
+      Do<lb ed="#L" n="45" break="no"/>minus enim quia est superior in potentia dicitur; dicitur ante etiam illud quod est fortius, 
+      <lb ed="#L" n="46"/>dicitur ante &amp; tale est illud quod cogit alterum sequi suam voluntatem: ita quod si illud quod 
+      <lb ed="#L" n="47"/>est ante non mouetur, non mouebitur aliud quod est post; &amp; si mouetur, mouebitur, &amp; 
+      vo<lb ed="#L" n="48" break="no"/>luntas est principium hic. Super quod Auerroes, Dignius, inquit, est illud quod cogit illud 
+      <lb ed="#L" n="49"/>quod est post, vt voluntas eius cosequatur voluntatem suam; adeo quod si illud quod est prius, 
+      <lb ed="#L" n="50"/>non mouerit, non mouebitur illud quod est posterius; &amp; initium secundum quodhic dicitur ante, 
+      <lb ed="#L" n="51"/>&amp; post est volutas scilicet quonia volutas debilioris sequitur voluntatem fortioris. Et hoc inten¬ 
+      <!--644.xml-->
+      <pb ed="#A" n="611"/>
+               <lb ed="#L" n="1"/> debat, cum dixit, Et voluntas est initium; vbi &amp; in eadem sententia Albertus, Thomas, 
+      Fo<lb ed="#L" n="2" break="no"/>randus, &amp; omnes expositores concordant. Vnde &amp; Augustinus super illud Psalmi. 148. 
+      <lb ed="#L" n="3"/>Confessio eius super coelum &amp; terram; Attende, inquit, Coelum &amp; terram ipse fecit, ipse 
+      <lb ed="#L" n="4"/>regit, ipsius nutu gubernantur, ipse traijcit tempora, momenta, ipse instaurat, per 
+      ip<lb ed="#L" n="5" break="no"/>sum omnia; ergo ista Iaudant illum siue in statu, siue in motu, siue de terra deorsum, 
+      <lb ed="#L" n="6"/>siue de Coelo sursum, siue vetustate, siue renouatione: Cum vides haec &amp; gaudes, &amp; 
+      at<lb ed="#L" n="7" break="no"/>tollis in artificem, &amp; inuisibilia eius per ea, quae facta sunt, intellecta contueris, confessio eius 
+      <lb ed="#L" n="8"/>in Coelo &amp; in terra. Hoc idem similiter confirmatur per Philosophum 1. Prosper 12. vbi 
+      <lb ed="#L" n="9"/>inquirit medium negatiuum, propinquum demonstratiuum conclusionis negatiuae; vt 
+      qua<lb ed="#L" n="10" break="no"/>re paries non respirat, ostendens non posse dici quia non est animal, quia tunc esse Animal, 
+      <lb ed="#L" n="11"/>esset causa propinqua respirandi, &amp; sic omne animal respiraret: Si enim negatio est causa 
+      <lb ed="#L" n="12"/>ipsius non esse, affirmatio est causa ipsius esse: Sicut esse sine mensura calidi &amp; frigidi non 
+      sa<lb ed="#L" n="13" break="no"/>nandi causa est; sic esse cum mensura eorundem est causa sanandi: &amp; similiter, si affirmatio 
+      <lb ed="#L" n="14"/>est causa esse, &amp; negatio est causa non esse. Quod &amp; <name xml:id="dcn2br-e80829-Nd1e229">Robertus Lincolniensis</name> illum locum 
+      <lb ed="#L" n="15"/>exponens similiter plane tenet; Thomas quoque ac alij exponentes. Item si creaturam non  
+      <lb ed="#L" n="16"/>agere esset causa quare Deus non agit, &amp; creaturam agere esset causa quare Deus agit; quare 
+      <lb ed="#L" n="17"/>&amp; prius natura esset creaturam agere quam pmagens, &amp; prius natura esset causam 
+      se<lb ed="#L" n="18" break="no"/>cundam mouere quam pamcontra tricesimum huius plane. Item proportionalia 
+      indi<lb ed="#L" n="19" break="no"/>cantur actiuum prius non agere in passiuum posterius, &amp; passiuum posterius non pati ab 
+      acti<lb ed="#L" n="20" break="no"/>uo priori, atque actiuum prius non agere per actiuum posterius: &amp; actiuum posterius, 
+      <lb ed="#L" n="21"/>non agere per actiuum prius; Sed duorum primorum primum est causa secundi &amp; 
+      <lb ed="#L" n="22"/>naturaliter prius illo, quare &amp; reliquorum duorum similiter. Quis enim vel leuiter 
+      <lb ed="#L" n="23"/>dubitet, quod quia actiuum non agit in passiuum, ideo passiuum non patitur, non e 
+      con<lb ed="#L" n="24" break="no"/>tra; sicut quia actiuum agit, ideo passiuum patitur, non e contra; sicut &amp; agere est causa 
+      <lb ed="#L" n="25"/>pati, &amp; ipsum naturaliter antecedens? Quis enim nesciat, quod quia Deus non fecit vnum 
+      <lb ed="#L" n="26"/>Angelum possibilem fieri quem non fecit, ideo ille Angelus non est factus, &amp; non e contra? 
+      <lb ed="#L" n="27"/>Et quia non fecit aliam stellam in coelo, ideo non est facta, non e contra? Et quia non fecit 
+      An<lb ed="#L" n="28" break="no"/>gelum perfectiorem in naturalibus, ideo non est perfectior, non e contra? Et quia non fecit 
+      <lb ed="#L" n="29"/>Coelum maius, ideo non est maius, &amp; non e contra? Item cuiuslibet negationis vere prima causa 
+      <lb ed="#L" n="30"/>est in Deo, sicut decima pars, &amp; vndecima decimi tertij primi monstrant; Negationis autem, 
+      <lb ed="#L" n="31"/>quae non est necessaria, sed contingens causa, in Deo videtur esse, non velle sic esse, vel non 
+      <lb ed="#L" n="32"/>facere ita esse, sicut similium affirmationum causa in Deo est Deum velle &amp; facere ita esse, 
+      si<lb ed="#L" n="33" break="no"/>cut nonum primi demonstrat. Ita quicquid non sit a causa secunda Deus vult non fieri, &amp;  
+      <lb ed="#L" n="34"/>non vult positiue, scilicet habet nolle illud fieri ab ea; sicut vigesimum secundum primi &amp; 
+      <lb ed="#L" n="35"/>corollaria eius docent; &amp; hoc non causaliter, nec antecedenter a causa secunda, sicut 
+      vigesi<lb ed="#L" n="36" break="no"/>mum primi monstrat: Prius ergo naturaliter &amp; causaliter est Deum nolle positiue, quare &amp;  
+      <lb ed="#L" n="37"/>non velle atque non facere causam secundum agere, quam ipsam non agere. Item per indem  
+      <lb ed="#L" n="38"/>vigesimum; Nulla res positiua posterior voluntate diuina est causa voluntatis ipsius; &amp; 
+      mul<lb ed="#L" n="39" break="no"/>tum videretur indignius, quod aliqua priuatio esset causa voluntatis diuinae; Causam ergo 
+      <lb ed="#L" n="40"/>secundam non agere, non est causa quare Deus vult illam non agere, &amp; non vult positiue 
+      a<lb ed="#L" n="41" break="no"/>gere, nec quare non agit, sed e contra. Item per secundum primi, si Deus subtraheret 
+      ma<lb ed="#L" n="42" break="no"/>num suam qua cuucta sustentat, ipsa in nihilum verterentur; &amp; hoc causaliter propter 
+      subtra<lb ed="#L" n="43" break="no"/>ctionem conseruationis diuinae; quia namque Deus non seruaret entia, ideo non essent; non  
+      <lb ed="#L" n="44"/>autem quia non essent, ideo Deus non ea seruaret; sicut ante productionem rerum, quia Deus 
+      <lb ed="#L" n="45"/>non produxit res, ideo non fuerunt, &amp; no e contra; sicut &amp; adhuc fuisset, si adhuc nihil 
+      pro<lb ed="#L" n="46" break="no"/>duxisset; &amp; sicut nunc est de multis no entibus non producties, quae potuit produxisse. Vnde &amp; 
+      <lb ed="#L" n="47"/>Auicenna i Metap. 9. Intentio essendi est ex causa, quae est causa essendi, &amp; intentio non 
+      essen<lb ed="#L" n="48" break="no"/>di est ex causa, quae est priuatio intentionis causae essendi. Cui &amp; concorditer August. 12. de 
+      <lb ed="#L" n="49"/>Ciuitate Dei 17. Deus, inquit, vna eademque sempiterna, &amp; incommutabili voluntate res 
+      <lb ed="#L" n="50"/>quas condidit, &amp; vt prius non essent, egit, quamdiu non fuerunt, &amp; vt posterius essent, 
+      quan<lb ed="#L" n="51" break="no"/>do esse cepere. Dicitque Apostolus, qui vocat ea quae non sunt, tanquam ea quae sunt, ad 
+      <lb ed="#L" n="52"/>Rom. 40. quanquam &amp; hoc aliter exponatur: Dicit quoque Propheta, vocauit famem 
+      <lb ed="#L" n="53"/>super terram, Psalmo 104. Super quod Augustinus vna expositione praemissa subiungit, An 
+      <lb ed="#L" n="54"/>quod est credibilius, vocauit famem, id intelligendum est, dixit vt fames esset? vt hoc sit 
+      vo<lb ed="#L" n="55" break="no"/>care quod appellare, hoc appellare quod dicere, hoc dicere quod iubere: Nam ille vocauit  
+      <lb ed="#L" n="56"/>famem, qui vocat ea quae non sunt, tanquam ea quae sunt. Vnde &amp; Anselmus de Casu Di 
+      <lb ed="#L" n="57"/>aboli I. Deus dicitur facere non esse, quod non est, quoniam cum possit, non facit esse; ac si 
+      <lb ed="#L" n="58"/>consideras ea quae sunt cum transcunt ad non esse, non ipse facit ea non esse? quoniam nam¬ 
+      <!--645.xml-->
+      <pb ed="#A" n="612"/>
+               <lb ed="#L" n="1"/>que non solum non est alia aliqua essentia nisi illo faciente. sed nec aliquatenus manere 
+      po<lb ed="#L" n="2" break="no"/>test, quod factum est, nisi eodem ipso seruante. Cum ipse desinit seruare quod fecit, ideo 
+      <lb ed="#L" n="3"/>quod erat, redit in non esse, quod non ab illo habet scilicet non esse, sed quia cessat facere 
+      <lb ed="#L" n="4"/>esse. Ecce quam plane testatur, non esse, non habere causam efficientem proprie, sed potius 
+      <lb ed="#L" n="5"/>deficientem; causam scilicet factiuam, &amp; seruatiuam deficientem facere &amp; seruare, id est non  
+      <lb ed="#L" n="6"/>facientem rem possibilem fieri, aut factam non seruantem, sicut superius tangebatur. 
+      </p>
+            <div xml:id="dcn2br-e80829-Dd1e345">
+               <head xml:id="dcn2br-e80829-Hd1e347">Corollarium</head>
+               <p xml:id="dcn2br-e80829-d1e350">
+                  <lb ed="#L" n="7"/>COROLLARIVM. 
+      <lb ed="#L" n="8"/>Huius Capituli Coroll. in Catalogo non reperitur. 
+      </p>
+               <p xml:id="dcn2br-e80829-d1e357">
+                  <lb ed="#L" n="9"/>EX his autem non improbabiliter videtur inferri, quod Deum non dare scientiam, gratiam,  
+      <lb ed="#L" n="10"/>Laut perseuerantiam, seu quodlibet munus suum creaturae capaci, est causa quare ipsa non 
+      <lb ed="#L" n="11"/>accipit, &amp; non habet, &amp; quia Deus non dat, ideo ereatura non accipit, &amp; none contra. Hoc  
+      <lb ed="#L" n="12"/>autem corollarium non negat Deum quandoque non dare gratiam aut alia munera propter 
+      <lb ed="#L" n="13"/>culpam non recipientium, sed affirmat quod propria &amp; per se causa non acceptionis, est non  
+      <lb ed="#L" n="14"/>datio, non e contra. Videtur autem hoc corollarium ad praehabita consequi manifeste: 
+      <lb ed="#L" n="15"/>Apparet quoque posse ostendi, sicut &amp; conclusio principalis. Quis etiam nesciat omnem 
+      sci<lb ed="#L" n="16" break="no"/>entiam dari a Deo, sicut ex sexto primi, tertio &amp; vigesimo huius secundi patet, &amp; specialiter  
+      <lb ed="#L" n="17"/>scientiam Prophetalem, &amp; reuelationes multiplices arcanorum, ad quae nullus potest 
+      attinge<lb ed="#L" n="18" break="no"/>re per viam ingenij naturalis, sed tantum per reuelationem diuinam? Cur ergo non omnes 
+      <lb ed="#L" n="19"/>habent omnes istas scientias, nisi quia ille non dat, per quem datur sermo sapientiae &amp; 
+      scien<lb ed="#L" n="20" break="no"/>tiae, diuidens fingulis prout vult? Quare &amp; Elizaeus, Dominus, inquit, caelauit a me, &amp; non 
+      in<lb ed="#L" n="21" break="no"/>dicauit mihi 4. Regum 4. per hoc reddens ignorantiae suae causam? quis etiam legens, &amp; non  
+      <lb ed="#L" n="22"/>negligens libros Propheticos, non facile videat Prophetas non semper habuisse reuelationes 
+      <lb ed="#L" n="23"/>diuinas, nec spiritum Prophetiae; quare nec semper habuisse Propheticas visiones, sed 
+      quan<lb ed="#L" n="24" break="no"/>do placuit reuelanti? quae ergo causa huius non acceptionis, nisi non datio, sicut &amp; videtur 
+      <lb ed="#L" n="25"/>Gregorius super Ezech. homilia prima testari? Et si dixeris quod desidia, aut peccatum 
+      ali<lb ed="#L" n="26" break="no"/>cuius sit causa quare Deus non dat ei huiusmodi scientiam Prophetalem, certe peccato &amp; 
+      desi<lb ed="#L" n="27" break="no"/>dia non obstante posset Deus, si vellet, huiusmodi scientiam ei dare. Malis etiam quandoque 
+      <lb ed="#L" n="28"/>ostendit Deus reuelationes Propheticas, &amp; viris sanctissimis non ostendit; Eisdem quoque 
+      <lb ed="#L" n="29"/>Prophetis sanctissimis quandoque ostendit huiusmodi visiones, &amp; quandoque abscondit; 
+      <lb ed="#L" n="30"/>Angelis quoque malis &amp; primis parentibus ante Peccatum, &amp; sanctis Angelis confirmatis, 
+      <lb ed="#L" n="31"/>quia nunquam peccauerunt, nec vnquam peccabunt, non dedit Deus omnimodam 
+      Prophe<lb ed="#L" n="32" break="no"/>tiam, sicut ex 16. huius patet; quae ergo causa huius non acceptionis, nisi non datio 
+      reputan<lb ed="#L" n="33" break="no"/>da? Praeterea si Angeli, &amp; primi parentes secundum opinionem quorundam erant creati I 
+      <lb ed="#L" n="34"/>extra gratiam, &amp; tales sine culpa per aliquam morulam permanserunt, causa quare tunc non 
+      <lb ed="#L" n="35"/>acceperunt nec habuerunt gratiam fuit, quia Deus non dedit, non e contra, sicut nullus 
+      ig<lb ed="#L" n="36" break="no"/>norat; quare &amp; nunc similiter. Item proportionalia iudicantur non dare gratiam, &amp; non 
+      <lb ed="#L" n="37"/>accipere gratiam, atque non dare tantam gratiam, &amp; non accipere tantam; sed certum est quod 
+      <lb ed="#L" n="38"/>Deum non dare Angelo in principio, vel paruulo baptizato tantam gratiam, vnam scilicet  
+      <lb ed="#L" n="39"/>maximam, cuius fuit capax, quam ei non dedit, causa fuit quare non recepit, &amp; non e 
+      con<lb ed="#L" n="40" break="no"/>tra. Item de paruulis hoc videtur perspicuum: Qua namque rationis imagine dici potest, 
+      <lb ed="#L" n="41"/>quod paruulus non accipit gratiam, ideo Deus non dat eam, &amp; non potius e contra? Item de 
+      <lb ed="#L" n="42"/>adultis ponatur iuxta praemissa de gratia &amp; poenitentia primo huius, quod duorum peccatorum 
+      <lb ed="#L" n="43"/>omnino aequalium ante hoc instans, qui &amp; quantum in eis fuisset, fuissent aequales in hoc 
+      in<lb ed="#L" n="44" break="no"/>stanti, Deus vni conferat gratiam suam gratis, alteri vero nequaquam; tunc causa quare iste 
+      <lb ed="#L" n="45"/>non recipit est, quia Deus non dat: Si enim daret aut dare vellet isti, ita reciperet iste sicut &amp; 
+      <lb ed="#L" n="46"/>ille. Et si dixeris quod vnus prius meruit, vel saltem disposuit se, vel nunc facit, &amp; alter 
+      ne<lb ed="#L" n="47" break="no"/>quaquam, &amp; ideo iste accipit gratiam, ille nequaquam, non seruas positionem praemissam, 
+      <lb ed="#L" n="48"/>quae posuit in omnibus paritatem. Secundum etiam praeostensa de gratia primo libro, 
+      nul<lb ed="#L" n="49" break="no"/>lus gratiam primam meretur per dispositionem praeuiam, nec per aliam quamlibet actionem, 
+      <lb ed="#L" n="50"/>Cum etiam isti sint pares in omnibus, excepta illa dispositione seu merito, &amp; per trigesimum 
+      <lb ed="#L" n="51"/>huius nullus potest elicere meritum, dispositionem, vel actionem quamcunque, nisi Deo 
+      prae<lb ed="#L" n="52" break="no"/>uolente &amp; preagente; &amp; per decimum primi, si Deus praeuelit quemcunque quidlibet facere, 
+      <lb ed="#L" n="53"/>hoc necessario faciet; Causa ergo quare iste ita meretur, &amp; se disposuit ad gratiam, est quia 
+      <lb ed="#L" n="54"/>Deus antecedenter hoc vult &amp; facit; etsi Deus ita vellet de altero, ille similiter faceret, 
+      aliter<lb ed="#L" n="55" break="no"/>que non potest: Causa ergo quare iste non ita meretur, &amp; se disponit, est quia Deus non vult 
+      <!--646.xml-->
+      <pb ed="#A" n="613"/>
+                  <lb ed="#L" n="1"/>hoc, nec efficit hoc in eo, quare &amp; ista similiter erit causa quare iste non recipit gratiam, 
+      prae<lb ed="#L" n="2" break="no"/>sertim cum secundum te Deus non conferat gratiam sine merito aut dispositione huiusmodi 
+      <lb ed="#L" n="3"/>praecedente. Et si iterum dixeris, quod Deus offert cuilibet gratiam, &amp; vult quod eam 
+      recipi<lb ed="#L" n="4" break="no"/>at, non tamen absolute, sed sub ista conditione, si sponte consentiat, per corollarium 3ei huius 
+      <lb ed="#L" n="5"/>iterum corrigeris. Praeterea videris supponere hominem posse ex se solo vel saltem ex se 
+      an<lb ed="#L" n="6" break="no"/>tecedenter cum Deo oblationi gratiae consentire contra 3gum primi, 2oum &amp; 3oum huius 
+      se<lb ed="#L" n="7" break="no"/>cundi. Item iuxta praemissa contra responsionem priorem ponantur duo peccatores pares in 
+      <lb ed="#L" n="8"/>omnibus, quibus Deus offerat aequaliter gratiam, &amp; cum secundum te non sit necesse 
+      quemli<lb ed="#L" n="9" break="no"/>bet recipere gratiam sibi oblatam, ponatur vnum illam recipere, alterum vero nequaquam: 
+      <lb ed="#L" n="10"/>qui ergo recipit gratiam consentit, &amp; causa huius est, quia Deus volendo &amp; praeuolendo 
+      ope<lb ed="#L" n="11" break="no"/>ratur &amp; praeoperatur in eo consensum, nec potest aliter consentire, sicut 3oun huius monstrat: 
+      <lb ed="#L" n="12"/>&amp; qui non recipit gratiam non consentit, nec hoc potest, nisi Deus praeuolendo hoc praeope 
+      <lb ed="#L" n="13"/>retur in eo, nec ipse potest facere Deum praeuelle &amp; praeoperati hoc in ipso, nec Deo 
+      praeuolen<lb ed="#L" n="14" break="no"/>ti &amp; praeoperari volenti resistere per toun primi libri: causa ergo quare non consentit, est quia 
+      <lb ed="#L" n="15"/>Deus ipsum non vult praeuenire, nec praeuenit operando; Si enim Deus hoc vellet, ita 
+      consen<lb ed="#L" n="16" break="no"/>tiret iste sicut ille. Aliter forte dices, quod Deus offert gratis cuilibet gratia, dum tamen aperiat 
+      <lb ed="#L" n="17"/>manum sua, dum aperiat sinum suum, dum aperiat cordis arca, gratiae receptrice, quare qui accipit, idec 
+      <lb ed="#L" n="18"/>accipit, quia Deus dat; qui vero non accipit, ideo non accipit, quia non aperit, sicque Deus 
+      <lb ed="#L" n="19"/>non dat, quia iste non accipit gratia quae offertur: sicut si porriga tibi munus &amp; tu accipis, non 
+      <lb ed="#L" n="20"/>ideo do quia accipis, sed e contra; &amp; si alteri porriga quippia &amp; ille no accipit, no ideo non 
+      ac<lb ed="#L" n="21" break="no"/>cipit, quia non do, sed ideo non do, quia non accipit. Hec autem responsio castigabitur vt 
+      prae<lb ed="#L" n="22" break="no"/>cedens, &amp; per 3gun cap. primi libri. Praeterea quando Deus offert cuipiam gratiam, quid in 
+      <lb ed="#L" n="23"/>tendit de receptione gratiae finaliter circa ipsum? Vel enim intendit &amp; vult quod eam recipiar, 
+      <lb ed="#L" n="24"/>vel nequaquam: si intendit &amp; vult quod ea recipiat, per ioum primi semper sit ita, nec potest 
+      <lb ed="#L" n="25"/>dicere, quod Deus conditionaliter hoc intendit, sicut praemissa contra responsionem 
+      proxi<lb ed="#L" n="26" break="no"/>mam manifestant. Si Deus hoc non intendat, nec velit cum bene sciat, quod nisi hoc 
+      inten<lb ed="#L" n="27" break="no"/>dat &amp; velit, &amp; hoc antecedenter &amp; independenter respectu actionis seu passionis humanae, 
+      in<lb ed="#L" n="28" break="no"/>aniter &amp; delusorie eam offert; quis enim rationabiliter offert quicquam alicui indigenti, non 
+      <lb ed="#L" n="29"/>concessis alijs necessarijs, sine quibus bene scit offerens indigentem non posse illud recipere, 
+      <lb ed="#L" n="30"/>nec illa alia posse habere a se solo aut antecedenter a se, nec ab aliquo alio, praeterquam ab ip 
+      <lb ed="#L" n="31"/>somet offerente omnia gratis dante, &amp; gratuite inchoante? Mirabilis misericordia esset illa que 
+      <lb ed="#L" n="32"/>in nullo releuaret miseriam miseri, sed potius aggrauaret, dum ei delusorie porrigeret talia 
+      <lb ed="#L" n="33"/>&amp; non daret. Imo per 22um primi &amp; eius corollarium, Si Deus non intendit, nec vult hoc, 
+      in<lb ed="#L" n="34" break="no"/>tendit &amp; vult eius oppositum, vbi maior &amp; delusio &amp; duplicitas videretur. Vel arguatur hoc 
+      <lb ed="#L" n="35"/>modo, Deus cum offert alicui gratiam, vel vult eam dare ei, vel non vult eam dare ei &amp;c. sicut 
+      <lb ed="#L" n="36"/>supra. Item in exemplo proposito, si tu offerres mihi quicquam, &amp; bene scires quod non 
+      pos<lb ed="#L" n="37" break="no"/>sem per me solum, nec per adiutorium cuiusquam alterius aperire manum meam contractam 
+      <lb ed="#L" n="38"/>ad recipiendum, nec incipere aperire, aut aliquid facere, nisi per te omnia inchoantem &amp; 
+      con<lb ed="#L" n="39" break="no"/>tinue prosequentem, sciresque non esse in potestate mea quid tu circa me velles, &amp; quod 
+      quic<lb ed="#L" n="40" break="no"/>quid velles statim fieret, &amp; non velles, imo nolles quicquam agere vel iuuare ad aperiendum 
+      <lb ed="#L" n="41"/>manum meam, nonne tu esses in causa quare non aperirem manum &amp; reciperem munus tuum? 
+      <lb ed="#L" n="42"/>Quare &amp; te non dare, esset causa quare ego non reciperem. Hoc etiam confirmatur. Dare, vt 
+      <lb ed="#L" n="43"/>dicut Iuristae, est // accipere facere; dare ergo non solum importat offerre, sed &amp; accipere: 
+      quo<lb ed="#L" n="44" break="no"/>modo ergo dicis acceptionem non esse causam dationis? Imo non est causa oblationis, sed 
+      <lb ed="#L" n="45"/>dationis est causa, sicut &amp; oblatio. Sicut enim oblatio, sic &amp; acceptio precedit naturaliter &amp; 
+      <lb ed="#L" n="46"/>causaliter dationem, &amp; ipsam efficit &amp; consummat: nisi enim accipero, non sit meum. 
+      Praete<lb ed="#L" n="47" break="no"/>rea si dare importat haec duo, offerre &amp; accipere, defectus dationis seu non dare potest 
+      contin<lb ed="#L" n="48" break="no"/>gere vel ex defectu oblationis, vel ex defectu receptionis: qui ergo cum potest, non facit 
+      v<lb ed="#L" n="49" break="no"/>trumque necessario requisitum ad dare, &amp; sine quo neutrum potest fieri, est causa quare non 
+      datur<lb ed="#L" n="50" break="no"/>Si ergo offeras mihi quicqua, &amp; potes facere me recipere, nec ego aliter possum recipere, causa 
+      <lb ed="#L" n="51"/>quare non accipio, est quia non facis me accipere. Quod vt adhuc elarius elucescat, ponatur te 
+      <lb ed="#L" n="52"/>esse sapientem Doctorem, me autem insipientem discipulum, qui &amp; ex praecepto Patris mei Domini 
+      no<lb ed="#L" n="53" break="no"/>stri comunis tenearis praebere mihi doctrina, simque talis sub potestate tua; quod si efficaciter 
+      <lb ed="#L" n="54"/>offeras mihi doctrina, ego illa accipia, sin autem minus, nequaquam. Si igitur tu non offers nec 
+      <lb ed="#L" n="55"/>das mihi doctrina, nec ego eam accipio, none Dominus reputabit te in causa quare ego no acci 
+      <lb ed="#L" n="56"/>pio disciplina? aestimo quod iusto iudicio reputabit. Adhuc forsitan non desines respondere 
+      di<lb ed="#L" n="57" break="no"/>cedo, quod Deus offert cuilibet gratia, &amp; quidam non ponunt obicem gratiae, sed potius eum tollut,  
+      <lb ed="#L" n="58"/>&amp; ideo ipsi recipiunt gratiam eis oblata; alij autem ponunt obicem gratiae, posituue non tollunt; 
+      <lb ed="#L" n="59"/>quare ipsi nequaqua eum accipiunt: sicut est de illuminatione &amp; non illuminatione domus a 
+      <!--647.xml-->
+      <pb ed="#A" n="614"/>
+                  <lb ed="#L" n="1"/>sole per fenestra aperta &amp; clausa. Pro ista autem responsione videtur quaerendum rationabiliter I 
+      <lb ed="#L" n="2"/>quid sit obex: &amp; videtur quod sit aliquod obiectum, seu obsistens gratiae, scilicet peccatum 
+      <lb ed="#L" n="3"/>mortale repugnans gratiae salutari, siue non consensus, seu dissensus, non apertio seu clausio 
+      <lb ed="#L" n="4"/>cordis humani cum gratia Dei offertur. Et quicquid obex dicatur, potest ista responsio 
+      cor<lb ed="#L" n="5" break="no"/>ripi, sicut aliae praecedentes, cum nullus possit hunc obicem tollere nisi Deus, vel per Deum 
+      <lb ed="#L" n="6"/>ipsum praetollentem, &amp; si ipse eum voluerit tollere, irresistibiliter tollitur, sicut decimum 
+      <lb ed="#L" n="7"/>primi docet. Hoc idem &amp; praeostensa de gratia &amp; poenitentia cum eodem decimo primi 
+      <lb ed="#L" n="8"/>monstrant; vnde &amp; ipsemet Dominus, Miserebor cui voluero, &amp; clemens ero in quem mihi 
+      <lb ed="#L" n="9"/>placuerit, Exod. 33. Et iterum, Auferam cor lapideum, &amp;c. Ezech. 36. glossa; id est, 
+      om<lb ed="#L" n="10" break="no"/>nem duritiem, &amp; cor incredulum. Et Apostolus, Cuius vult miseretur, &amp; quem vult 
+      indu<lb ed="#L" n="11" break="no"/>rat, ad Rom. 9. Et Augustinus de praedestinatione sanctorum 9. tractans illud Iohan. 6. 
+      Om<lb ed="#L" n="12" break="no"/>nis qui audiuit a Patre, &amp; didicit, venit ad me; Valde, inquit, remota est a sensibus carnis haec 
+      <lb ed="#L" n="13"/>schola, in qua Deus auditur, &amp; docet. Multos venire ad filium videmus, quia multos 
+      cre<lb ed="#L" n="14" break="no"/>dere videmus in Christum; sed vbi &amp; quomodo haec a Patre audierint &amp; didicerint, non 
+      vi<lb ed="#L" n="15" break="no"/>demus. Nimirum gratia ista secreta est: gratiam vero esse quis ambigat? Haec itaque gratia 
+      <lb ed="#L" n="16"/>quae occulte humanis cordibus digna largitate tribuitur, a nullo duro corde respuitur: Ideo 
+      <lb ed="#L" n="17"/>quippe tribuitur, vt cordis duritia primitus auferatur. Quoniam ergo Pater intus auditur, &amp; 
+      <lb ed="#L" n="18"/>docet vt veniatur ad Filium, aufert cor lapideum, &amp; dat cor carneum, sicut Propheta 
+      praedi<lb ed="#L" n="19" break="no"/>cente promisit; sic quippe facit filios promissionis, &amp; vasa misericordiae quae praeparauit in 
+      <lb ed="#L" n="20"/>gloriam. Et sequitur decimo; Cur autem non omnes docer vt veniant ad Christum, nisi 
+      <lb ed="#L" n="21"/>quia omnes quos docet, misericordia docet; quos autem non docet, ideo non docet, quoniam 
+      <lb ed="#L" n="22"/>cuius vult miseretur, &amp; quem vult obdurat. Et si dixeris obicem esse actum aliquem 
+      positi<lb ed="#L" n="23" break="no"/>uum gratiae repugnantem, puta actualem contradictionem, rebellionem siue contemptum, 
+      <lb ed="#L" n="24"/>&amp; ipsum tolli non posse, nisi per non actionem seu priuationem actus huiusmodi, quae non 
+      <lb ed="#L" n="25"/>est a Deo, seu non antecedenter a Deo, sed ab homine, adhuc poteris corripi sicut prius. 
+      Prae<lb ed="#L" n="26" break="no"/>terea tunc omnis non habens huiusmodi actum contrarium reciperet gratiam, quod falsum 
+      <lb ed="#L" n="27"/>est de paruulis, de morionibus, de adultis, sanis, dormientibus, seu vigilantibus, habentibus 
+      <lb ed="#L" n="28"/>actus bonos morales, vel indifferentes, vel venialiter tantum malos, quales potest habere in 
+      <lb ed="#L" n="29"/>gratia constitutus. Item quomodo dicis actum talem tolli non posse, nisi per non actionem, 
+      <lb ed="#L" n="30"/>aut solam priuationem agendi? Potest enim per actum contrarium positiuum, sicut 
+      contemp<lb ed="#L" n="31" break="no"/>tus per obedientiam, odium per dilectionem, &amp; ita de alijs: Quam facile ergo posset Deus, si 
+      <lb ed="#L" n="32"/>vellet, tollere huiusmodi obicem, siue actum? Huiusmodi quoque obex per 30. huius fit, &amp;  
+      <lb ed="#L" n="33"/>ponitur antecedenter a Deo: quomodo ergo vult Deus conferre huic gratiam, in quo parat 
+      <lb ed="#L" n="34"/>obicem gratiam repellentem? vel si Deus non dat gratiam propter obicem resistentem, &amp; ipse 
+      <lb ed="#L" n="35"/>Deus scienter &amp; praecedenter causat hunc obicem, quomodo non ipse Deus est causa non 
+      ac<lb ed="#L" n="36" break="no"/>ceptionis gratiae salutaris? Huic etiam Corollario attestari videtur vtriusque series testamenti, L 
+      <lb ed="#L" n="37"/>&amp; Doctorum autoritas copiosa: Quis enim, qui vel corticem sacrae scripturae aut Doctorum 
+      <lb ed="#L" n="38"/>respexit, nesciat Deum omnia suis mensuris, numeris &amp; ponderibus originaliter statuisse, 
+      si<lb ed="#L" n="39" break="no"/>cut &amp; breuiter tangitur 46. primi? Cur ergo non sicut antecedenter &amp; originaliter statuit &amp; 
+      <lb ed="#L" n="40"/>prouidit numerum electorum, sicut 46. primi &amp; 5. huius testantur, sic &amp; numerum 
+      credituro<lb ed="#L" n="41" break="no"/>rum &amp; perseueraturorum finaliter similiter statuebat, ita quod sit tantus, &amp; non maior, neque 
+      <lb ed="#L" n="42"/>minor? Quis ergo causa primaria negationis istius? Nonne ille, qui numerat multitudinem 
+      <lb ed="#L" n="43"/>stellarum, multitudinem scilicet saluandorum, sicut est causa quare non sunt plures stellae 
+      ma<lb ed="#L" n="44" break="no"/>teriales in coelo, sicuti etiam est causa quare coelum non est maius? quae etiam causa quare istae 
+      <lb ed="#L" n="45"/>sunt vnitates numeri electorum, &amp; non pro istis aliae totidem, nisi ille qui omnibus eis 
+      nomi<lb ed="#L" n="46" break="no"/>na vocat, sicut est causa quare hae stellae materiales non sunt aliae creatae, &amp; iste mundus non  
+      <lb ed="#L" n="47"/>alius cum istis non alijs creaturis? Quis etiam dubitet, sicut Deus prouidit &amp; statuit numerum 
+      <lb ed="#L" n="48"/>certum stellarum, sic &amp; arenae maris qua reprobi figurantur, sicut 27. primi &amp; sequentia 
+      ma<lb ed="#L" n="49" break="no"/>nifestant, cum &amp; post finale iudicium volet numerum damnatorum esse tantum praecise, &amp; E 
+      <lb ed="#L" n="50"/>non volutione nouella, nec a posterioribus rebus causata, sicut 23. &amp; 20. primi docent? Quis 
+      <lb ed="#L" n="51"/>etiam Theologus, si non Pelagij socius, nesciat primam causam reprobationis, &amp; volutionis 
+      <lb ed="#L" n="52"/>diuinae qua quosdam aeternaliter reprobat, esse ex parte Dei reprobantis, non ex parte Angeli 
+      <lb ed="#L" n="53"/>vel hominis reprobati, sicut patet ex45. primi? Si tamen non accipere gratiam &amp; 
+      perseue<lb ed="#L" n="54" break="no"/>rantiam esset causa non dandi, esset e contra. Quare &amp; Augustinus, Gregorius, alijque 
+      Docto<lb ed="#L" n="55" break="no"/>res innuunt frequenter, &amp; dicunt non esse quaerendam, neque assignandam causam non 
+      tractio<lb ed="#L" n="56" break="no"/>nis a Deo, non auditionis, non obedientiae, non perseuerantiae, &amp; similium, ex parte non 
+      tra<lb ed="#L" n="57" break="no"/>cti &amp; similium; sicut multa praemissa de gratia, de poenitentia, &amp; de perseuerantia manifestant.  
+      <lb ed="#L" n="58"/>Augustinus siquidem 1. part. super Iohan. homil. 26. Quem, inquit, trahat, &amp; que mnon 
+      tra<lb ed="#L" n="59" break="no"/>hat, quare illum trahat, &amp; illum non trahat, noli velle iudicare, si non vis errare. Si tamen ideo 
+      <!--648.xml-->
+      <pb ed="#A" n="615"/>
+                  <lb ed="#L" n="1"/>Pater quenqua non traheret, quia ipse non trahitur, posset rationabiliter quaeri quare, quia &amp;  
+      <lb ed="#L" n="2"/>veraciter reddi quare. Item Exod. 4. legitur Dominum dixisse ad Mosen. Quis fecit os 
+      homi<lb ed="#L" n="3" break="no"/>nis, aut quis fabricauit mutum &amp; surdum, videntem &amp; coecum? Nonne ego? Glossa super verbum, 
+      <lb ed="#L" n="4"/>mutum, In ore, inquit, vel in spiritu; quare &amp; reliqua sunt similiter exponenda. Vbi &amp; alia 
+      <lb ed="#L" n="5"/>glossa, scilicet Augustini, Sunt, inquit, qui de Deo calumnientur, vel potius scripturae veteris 
+      <lb ed="#L" n="6"/>testamenti, quia dixit Deus quod fecit mutum. Quid ergo dicunt de Christo aperte dicente, 
+      <lb ed="#L" n="7"/>Ego veni, vt qui non vident, videant; &amp; qui vident, coecifiant? Quis autem nisi insciens 
+      cre<lb ed="#L" n="8" break="no"/>diderit, aliquid homini secundum vitia corporalia posse accidere quod Deus nolit? Sed eum 
+      <lb ed="#L" n="9"/>iuste totum velle nemo ambigit. Cui &amp; concorditer Moses Deut. 29. Vos, inquit, vidistis vni. A 
+      <lb ed="#L" n="10"/>uersa quae fecit Dominus coram vobis in terra Aegypti, Pharaoni &amp; omnibus seruis eius 
+      vni<lb ed="#L" n="11" break="no"/>uersaeque terrae illius temptationes magnas quas viderunt oculi tui, signa illa portentaque 
+      ingen<lb ed="#L" n="12" break="no"/>tia, &amp; non dedit vobis cor intelligens, &amp; oculos videntes, &amp; aures quae possint audire vsque in 
+      <lb ed="#L" n="13"/>praesentem diem. Glossa, cor intelligens, i. voluntatem operandi quae intelligitis, &amp; cculos 
+      scili<lb ed="#L" n="14" break="no"/>cet cordis videntes, audire, i. obedire. Quibus &amp; non discorditer Esaias, Excoeca cor populi 
+      <lb ed="#L" n="15"/>huius, &amp; aures eius aggraua, &amp; oculos eius claude, ne forte videat oculis, &amp; autibus suis 
+      audi<lb ed="#L" n="16" break="no"/>at, &amp; corde suo intelligat, &amp; conuertatur, &amp; sanem eum, Esa. 6. Similem quoque sententiam 
+      do<lb ed="#L" n="17" break="no"/>cet Christus, sicut Matt. 13. Marc. 4. &amp; Luc. 8. euidenter apparet. Vnde &amp; Ioh. 12 Cum 
+      au<lb ed="#L" n="18" break="no"/>tem tanta signa fecisset coram eis, non credebant in eum, vt sermo Esaiae Prophetae impleretur, 
+      <lb ed="#L" n="19"/>quem dixit Dominus, Quis credidit auditui nostro, &amp; brachium Domini cui reuelatum est? 
+      <lb ed="#L" n="20"/>Propterea non poterant credere, quia iterum dixit Esaias, Excoecauit oculos eorum, &amp; 
+      indu<lb ed="#L" n="21" break="no"/>rauit cor eorum, vt non videant oculis &amp; intelligant corde, &amp; conuertantur, &amp; sanem eos. Quod 
+      <lb ed="#L" n="22"/>tractans Augustinus I. part super lohan, homil. 53. ita seribit, Quod vero addidit, &amp; 
+      conuer<lb ed="#L" n="23" break="no"/>tantur, &amp; sanem eos; vtrum subaudiendum sit, non, iinon conuertantur, connexa desuper 
+      sen<lb ed="#L" n="24" break="no"/>tentia, vbi dictum est, vt non videant oculis, &amp; intelligant corde, quia &amp; hic vtique dictum est, vt 
+      <lb ed="#L" n="25"/>non intelligant; &amp; ipsa enim conuersio de illius gratia est, cui dicitur, Deus virtutum conuerte 
+      <lb ed="#L" n="26"/>nos; An forte &amp; hoc de supernae medicinae misericordia factum intelligendum est, vt quoniam 
+      <lb ed="#L" n="27"/>peruersae &amp; superbae voluntatis erant, &amp; suam iustitiam constituere volebant, ad hoc 
+      desere<lb ed="#L" n="28" break="no"/>rentur vt excoecarentur; ad hoc excoecarentur vt offenderent in lapidem offensionis, &amp; 
+      im<lb ed="#L" n="29" break="no"/>pleretur facies eorum ignominia, atque ita humiliati quaererent nomen Domini, &amp; non suam qua 
+      <lb ed="#L" n="30"/>inflatur superbus, sed iustitiam Dei qua iustificatur impius? hoc enim multis eorum profuit in 
+      <lb ed="#L" n="31"/>bonum, qui de suo scelere compuncti in Christum postea credideruntipro quibus &amp; ipse 
+      ora<lb ed="#L" n="32" break="no"/>uerat dicens, Pater ignosce illis, quia nesciunt quid faciunt. Qui &amp; in quaestionibus Euangelij, 
+      <lb ed="#L" n="33"/>sicut recitat glossa Thomae super Matt. 13. vbi allegatur eadem autoritas Esaiae, sic ait; 
+      Ocu<lb ed="#L" n="34" break="no"/>los suos clauserunt, ne quando oculis videant; i. ipsi causa fuerunt, vt Deus eis oculos 
+      clau<lb ed="#L" n="35" break="no"/>deret. Alius enim Euangelista dicit, Excoecauit oculos eorum, sed vtrum nunquam videant 
+      <lb ed="#L" n="36"/>an vero ne vel sic aliquando videant coecitate sua sibi displicentes &amp; se dolentes, &amp; ex hoc 
+      hu<lb ed="#L" n="37" break="no"/>miliati atque commoti ad confitendum peccata sua, &amp; pie quaerendum Deum, Sic enim 
+      Mar<lb ed="#L" n="38" break="no"/>cus hoc dicit, Ne quando conuertantur &amp; dimittantur eis peccata: vbi intelliguntur peccatis 
+      <lb ed="#L" n="39"/>suis meruisse vt non intelligerent; &amp; tamen hoc ipsum misericorditer eis factum, vt peccata 
+      <lb ed="#L" n="40"/>sua cognoscerent, &amp; conuersi veniam mererentur. Quod autem Iohannes hunc locum dicit, 
+      <lb ed="#L" n="41"/>Propterea non poterant credere, quia iterum dixit Esaias, Excoecauit oculos eorum, &amp; 
+      indu<lb ed="#L" n="42" break="no"/>rauit cor eorum, vt non videant oculis &amp; intelligant corde, &amp; conuertantur, &amp; sanem eos, 
+      <lb ed="#L" n="43"/>aduersari videtur huic sententiae, &amp; omnino cogere, vt quod hic dictum est, ne quando oculis 
+      <lb ed="#L" n="44"/>videant, non accipiatur, ne vel sic aliquando oculis videant, sed prorsus vt non videant; 
+      quan<lb ed="#L" n="45" break="no"/>doquidem aperte dicit, Ita vt oculis non videant. Et quod ait, Propterea non poterant crede 
+      <lb ed="#L" n="46"/>re, satis ostendit non ideo factam excoecationem, vt ea commoti &amp; dolentes se non 
+      intellige<lb ed="#L" n="47" break="no"/>re conuerterentur aliquando per poenitentiam. Non enim possent hoc facere nisi prius 
+      crede<lb ed="#L" n="48" break="no"/>rent, vt credendo conuerterentur, conuersione // sanarentur, sanitate intelligerent, sed ideo 
+      po<lb ed="#L" n="49" break="no"/>tius excoecatos vt non crederent: Dicit enim apertissime, Propterea non poterant credere 
+      <lb ed="#L" n="50"/>Quod si ita est, quis non exurgat in defensionem Iudaeorum, vt eos extra cuspam fuisse 
+      pro<lb ed="#L" n="51" break="no"/>clamet, quod non crediderunt? Propterea enim non poterant credere, quia excoecauit oculos 
+      <lb ed="#L" n="52"/>eorum. Sed quoniam potius Deus extra culpam debet intelligi, cogimur fateri alijs 
+      quibus<lb ed="#L" n="53" break="no"/>dam peccatis ita eos excoecari meruisse, qua tum excoecatione non poterant credere: 
+      <lb ed="#L" n="54"/>Verba enim Iohannis ista sunt, Non poterant credere, quia iterum dixit Esaias, 
+      Excoeca<lb ed="#L" n="55" break="no"/>uit oculos eorum. Frustra itaque conamur intelligere ideo fuisse coecatos, vt conuerterentur 
+      <lb ed="#L" n="56"/>cum conuerti non poterant, quia non credebant; &amp; ideo credere non poterant, quia 
+      <lb ed="#L" n="57"/>excoecati, erant. An forte non absurde dicimus quosdam Iudaeorum fuisse sanabiles, sed 
+      <lb ed="#L" n="58"/>tanto cum tumore superbiae periclitatos, vt eis expediret primo non eredere, &amp; ad hoc  
+      <!--649.xml-->
+      <pb ed="#A" n="616"/>
+                  <lb ed="#L" n="1"/>fuisse cecatos vt non intelligerent Dominum loquentem parabolas, quibus non intellectis non 
+      <lb ed="#L" n="2"/>in eum crederent, non credentes autem cum caeteris desperatis crucifigerent eum, atque ita 
+      <lb ed="#L" n="3"/>post eius resurrectionem conuerterentur, quando iam de reatu mortis Domini humiliati 
+      am<lb ed="#L" n="4" break="no"/>plius diligerent, a quo sibi tantum scelus dimissum esse gauderent, quoniam tanta eorum 
+      su<lb ed="#L" n="5" break="no"/>perbia tali humiliatione esset deijcienda? Quod incongrue dictum esse quilibet arbitretur. 
+      <lb ed="#L" n="6"/>si non ita contigisse in actubus Apostolorum manifeste legerit. Non ergo abhorret quod ait 
+      <lb ed="#L" n="7"/>Iohannes, Propterea non poterant credere, quia excoecauit oculos eorum vt non videant, ab 
+      <lb ed="#L" n="8"/>ea sententia, qua intelligimus ideo excoecatos vt // conuerterentur, hoc est, ideo eis per 
+      obscu<lb ed="#L" n="9" break="no"/>ritates parabolarum occultatas sententias Domini, vt post eius resurrectionem salubriore 
+      <lb ed="#L" n="10"/>poenitentia resipiscerent; quia per obscuritatem sermonis excoecati, dicta Domini non 
+      intel<lb ed="#L" n="11" break="no"/>lexerunt, &amp; ea non intelligendo, non in eum crediderunt, non in eum credendo 
+      crucisixe<lb ed="#L" n="12" break="no"/>runt, atque ita post resurrectionem miraculis quae in eius nomine fiebant exterriti, maioris 
+      <lb ed="#L" n="13"/>criminis reatu compuncti sunt, &amp; prostrati ad poenitentiam; deinde accepta indulgentia ad 
+      <lb ed="#L" n="14"/>poenitentiam flagrantissima dilectione conuersi: quibusdam autem non profuit illa coecitas 
+      <lb ed="#L" n="15"/>ad conuersionem. Qui &amp; de bono perseuerantiae 4I. dicit, In perditionis massa relicti sunt 
+      <lb ed="#L" n="16"/>Tyrij &amp; Sidonij, qui credere potuerunt, si mira Christi signa vidissent; sed quoniam vt cre 
+      <lb ed="#L" n="17"/>derent non eis erat datum, etiam vnde crederent est negatum: Ex quo apparet habere 
+      quos<lb ed="#L" n="18" break="no"/>dam in ipso ingenio diuinum naturaliter munus intelligentiae quo moueantur ad fidem, si 
+      <lb ed="#L" n="19"/>congrua suis mentibus vel audiant verba, vel signa conspiciant, &amp; tamen si Dei altiore 
+      iudi<lb ed="#L" n="20" break="no"/>cio a perditionis massa non sunt gratiae praedestinatione discreti, nec ipsa eis adhibentur vel 
+      <lb ed="#L" n="21"/>dicta diuina vel facta, per quae possent credere si audirent vtique talia, vel viderent. In eadem 
+      <lb ed="#L" n="22"/>perditionis massa relicti sunt etiam Iudaei, qui non potuerunt credere factis in conspectu suo 
+      <lb ed="#L" n="23"/>tam magnis clarisque virtutibus: Cur enim non poterant credere? Non tacuit Euangelium 
+      <lb ed="#L" n="24"/>dicens; Cum autem tanta signa fecisset coram eis, non crediderunt in eum, vt sermo Esaiae 
+      <lb ed="#L" n="25"/>Prophetae impleretur, quem dixit; Domine, quis credidit auditui nostro? Et brachium 
+      Do<lb ed="#L" n="26" break="no"/>mini cui reuelatum est? Et ideo non poterant credere, quia iterum dixit Esaias; Excoecauit  
+      <lb ed="#L" n="27"/>oculos eorum, &amp; indurauit cor illorum, vt non videant oculis, nec intelligant corde, &amp; 
+      con<lb ed="#L" n="28" break="no"/>uertantur &amp; sanem illos. Non erant sic ergo excaecati oculi, nec sic induratum cor 
+      T7<lb ed="#L" n="29" break="no"/>riorum &amp; Sidoniorum, quoniam credidissent, si qualia viderunt isti signa vidissent: sed nec 
+      <lb ed="#L" n="30"/>illis profuit quod poterant credere, quia praedestinati non erant ab eo, cuius inscrutabilia sunt 
+      <lb ed="#L" n="31"/>iudicia, &amp; inuestigabiles viae, nec istis obfuisset, quod non poterant credere, si ita 
+      praedesti<lb ed="#L" n="32" break="no"/>nati essent vt eos caecos Deus illuminaret, &amp; induratis cor lapideum vellet auferre. Scio 
+      <lb ed="#L" n="33"/>quod multi praemissa verba Domini, Mosis &amp; Esaiae, atque similia multum aliter intelligunt 
+      <lb ed="#L" n="34"/>&amp; exponunt; nec obstat. Sacra namque Scriptura ex sua faecunditate multiplici 
+      multipli<lb ed="#L" n="35" break="no"/>cem parturit intellectum: nullus tamen Catholicus, sicut puto, ita alias aut alienas 
+      expositi<lb ed="#L" n="36" break="no"/>ones admirtet, quod expositionem Euangelistae precipui de ipso praedicatore veritatis 
+      in<lb ed="#L" n="37" break="no"/>structi, imo ipsius sanctissimi Euangelij, &amp; doctissimi Augustini repudiet. Propterea 
+      Do<lb ed="#L" n="38" break="no"/>minus ipse dixit, Ego indurabo cor Pharaonis, &amp; non dimittet populum; Exod. 4. Et infra 
+      <lb ed="#L" n="39"/>9. Indurauitque Dominus cor Pharaonis, &amp; non audiuit eos, sicut locutus est Dominus. 
+      <lb ed="#L" n="40"/>Quid autem significat quod dicitur, Dominum cor hominis indurare, nisi autoritatem, 
+      su<lb ed="#L" n="41" break="no"/>perioritatem, &amp; causalitatem indurationis cordis humani esse apud eum, non apud 
+      homi<lb ed="#L" n="42" break="no"/>nem, licet fiat propter peccatum hominis antecedens? Et quid est Dominum cor hominis 
+      <lb ed="#L" n="43"/>indurare, nisi non emollire cum possit, non dare oleum pietatis, non misereri misero 
+      <lb ed="#L" n="44"/>peccatori, seu nolle aut non velle haec facere, sicut expositiones Doctorum quamplurimae 
+      <lb ed="#L" n="45"/>contestantur? Vnde Gregorius II. Moral. 5. super illud Iob. 6. Si incluserit hominem, 
+      nul<lb ed="#L" n="46" break="no"/>lus est qui aperiat. Obdurare Deus per iustitiam dicitur, quando cor reprobum per 
+      gra<lb ed="#L" n="47" break="no"/>tiam non mollitur. Cui &amp; concorditer Augustinus de praedestinatione &amp; gratia Dei, qui 
+      <lb ed="#L" n="48"/>est quintus inter eius sermones 7. Quid est, inquit, indurabo, nisi non emolliam? Dicitque 
+      <lb ed="#L" n="49"/>Petrus 1. sentent. dist. 4I. 1. quod reprobatio Dei est nolle misereri, &amp; obduratio Dei non T 
+      <lb ed="#L" n="50"/>misereri; vt non ab illo irrogetur aliquid quo sit homo deterior, sed tantum quo sit melior non  
+      <lb ed="#L" n="51"/>erogetur: Quia igitur Deus non emollit cor hominis, ipsum non emollitur, &amp; non e 
+      con<lb ed="#L" n="52" break="no"/>tra.. Quare &amp; Apostolus ad Roman. 9. tractans hunc locum Scripturae, &amp; ostendens 
+      praede<lb ed="#L" n="53" break="no"/>stinationem seu electionem &amp; reprobationem non esse ex operibus hominum, sed ex 
+      volun<lb ed="#L" n="54" break="no"/>tate diuina, disputatione praemissa concludit; ergo cuius vult miseretur, &amp; quem vult indurat; 
+      <lb ed="#L" n="55"/>&amp; consequenter valida disputatione compescit homines, ne de huiusmodi quaerere vel 
+      dispu<lb ed="#L" n="56" break="no"/>tare praesumant. Si // tamen Deus ideo quempiam induraret quia ipse induraretur, id 
+      <lb ed="#L" n="57"/>est, non emolliret hominem quia ipse non emolliretur, esset causa quaerenda 
+      rationabi<lb ed="#L" n="58" break="no"/>liter &amp; reddenda: Cur etiam diceret Apostolus, quem vult indurat? Alias enim po¬ 
+      <!--650.xml-->
+      <pb ed="#A" n="617"/>
+                  <lb ed="#L" n="1"/>tius diceret, qui vult obdurari, vel qui non vult molliri, vel qui non mollitur obdurat. 
+      Qua<lb ed="#L" n="2" break="no"/>propter beatus Augustinus de praedestinatione &amp; gratia Dei 17. Nonne, inquit; 
+      Nabucho<lb ed="#L" n="3" break="no"/>donusor post innumeras impietates flagellatus paeuituit, &amp; regnum quod perdideuat rursus 
+      <lb ed="#L" n="4"/>accepit? Pharao autem ipsius flagellis est durior effectus, &amp; periit. Hic mihi rationem reddat, 
+      <lb ed="#L" n="5"/>qui diuinum consilium nimium alta sapienti corde dijudicat, cur medicametitum vnius 
+      Me<lb ed="#L" n="6" break="no"/>dici confectum alij ad interitum, alij valuerit ad salutem, nisi quia Christi bonus odor, alijs est, 
+      <lb ed="#L" n="7"/>odor vitae in vitam, alijs odor mortis in mortem? Quantum ad naturam ambo homines erant,  
+      <lb ed="#L" n="8"/>quantum ad dignitatem ambo Reges, quantum ad causam ambo captiuum populum Dei 
+      <lb ed="#L" n="9"/>possidentes, quantum ad poenam amba flagellis clementer admoniti? Quid ergo fines 
+      eo<lb ed="#L" n="10" break="no"/>rum fecit esse diuersos, nisi quod vnus manum Dei sentiens in recordatione propriae 
+      iniquita<lb ed="#L" n="11" break="no"/>tis ingemuit, alter libero contra Dei misericordissimam vtritatem pugnauit arbitrio? Hic 
+      qui<lb ed="#L" n="12" break="no"/>cunque respondet, illi vt mutaretur affuisse diuinum, huic vt induraretur defuisse presidium, 
+      <lb ed="#L" n="13"/>&amp; hoc contendit iniustum; propter quod rerum ipsarum fines in Dei voluntbte constituens 
+      <lb ed="#L" n="14"/>dixit Apostolus, Qui vult miseretur, &amp; quem vult indurat, dicente etiam Domino, Sine me 
+      <lb ed="#L" n="15"/>nihil potestis facere: Intelligat ita omnia vel adiuuante Domino perfici, vel deserente 
+      per<lb ed="#L" n="16" break="no"/>mitti, vt nouerit tamen nolente eo nihil prorsus aduuitti. Et sequitur 18. Sed reditur ad 
+      par<lb ed="#L" n="17" break="no"/>uulos, reditur ad geminos. Parum est, quod dixi, reditur ad nec dum natos, qui &amp; in 
+      eo<lb ed="#L" n="18" break="no"/>dem concubitu seminati, &amp; in eodem momento fuerant in lucem proferendivieis discrepans 
+      <lb ed="#L" n="19"/>diuersumque iudicium diuinae voluntatis apparens, seusus hominumde voluntate De? 
+      su<lb ed="#L" n="20" break="no"/>perbe nimium disputantes magnitudo quaestionis obturbat. Exalta iam vitibus vocem 
+      tu<lb ed="#L" n="21" break="no"/>am, O iniuste accusator iusti, &amp; dic mihi quid boni ille meruit? Quid mali ilse commisit? Pt 
+      <lb ed="#L" n="22"/>respondeo tibi; non ego, sed Paulus Apostolus; Nihil quidem ambo meruerunt, &amp; habet 
+      <lb ed="#L" n="23"/>potestatem figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud vero in 
+      <lb ed="#L" n="24"/>contumeliam. Dicturus es, quare? Quae est iudicij huius tam confusa diuersitas? Rursus ad 
+      <lb ed="#L" n="25"/>hanc praesumptionem ille te confutet, &amp; dicat, O homo, tu quis es, qui respondeas Deo? 
+      <lb ed="#L" n="26"/>Maxime quia ad illam humanorum actuum comparationem rursus intentio conuersa 
+      re<lb ed="#L" n="27" break="no"/>sponder, iniustitiae non posse argui creditorem, qui duobus debitoribus tale voluerit habere 
+      <lb ed="#L" n="28"/>iudicium, vt vni donet, ab alio exigat quod ab vtrisque debetur. Quod si ita est, qua tandem  
+      <lb ed="#L" n="29"/>impudentia homo de Deo, lutum de figulo iudicabit, non solum dicens, quid me fecisti sic? 
+      <lb ed="#L" n="30"/>Sed etiam de alijs damnabili curiositate perscrutans, &amp; dicens, quare de eadem massa fecisti 
+      <lb ed="#L" n="31"/>alium quidem sic, alium vero sic? Si humanum genus, quod creatum primitus constat ex 
+      ni<lb ed="#L" n="32" break="no"/>hilo non cum debito mortis &amp; peccati origine nasceretur, &amp; tamen ex eis Creator 
+      omnipo<lb ed="#L" n="33" break="no"/>tens in aeternum nonnullos damnare vellet interitum, quis omnipotenti Creatori diceret, 
+      <lb ed="#L" n="34"/>Quare fecisti sic? Qui enim cum non essent esse donauerat, quo fine essent habuit 
+      potesta<lb ed="#L" n="35" break="no"/>tem, nec dicerent caeteri, Cur paribus omnium meritis diuinum discreparet arbitrium? Quia 
+      <lb ed="#L" n="36"/>potestatem habet figulus luti ex eadem massa facere aliud quidem vas in honorem, aliud 
+      ve<lb ed="#L" n="37" break="no"/>ro in contumeliam. Nunc autem cum damnatis poena iusta reddatur, saluatis autem gratia 
+      <lb ed="#L" n="38"/>donetur indebita, quis vsque adeo humanae conditionis oblitus diuini sensus arcana discutiat,  
+      <lb ed="#L" n="39"/>vt cum ipse poenam merito fuerit consecutus, quaeratur cur alius gratiam, quae ei non 
+      debe<lb ed="#L" n="40" break="no"/>batur acceperit? Pro his tamen sciendum quod obduratio dupliciter potest sumi: vno modo 
+      <lb ed="#L" n="41"/>pro reprobatione, scilicet pro obduratione actiua, id est, pro voluntate diuina nolente seu non  
+      <lb ed="#L" n="42"/>volente mollire, aut volente non mollire; &amp; sic non habet causam superiorem &amp; priorem ex 
+      <lb ed="#L" n="43"/>parte hominum assignandam, sicut apparet ex vicesimo, &amp; quadragesimo quinto primi, &amp; 
+      <lb ed="#L" n="44"/>sic puto loqui Apostolum ad Romanos, vbi fuerat allegatus, sicut prouessus eius 
+      indi<lb ed="#L" n="45" break="no"/>cat euidenter: alio modo accipitur obduratio pro reprobatione passiue, id est, pro 
+      es<lb ed="#L" n="46" break="no"/>fectu reprobationis, effectu scilicet voluntatis diuinae praedictae, hoc est, pro defectu 
+      colla<lb ed="#L" n="47" break="no"/>tionis, siue pro ipsa non collatione gratiae mollientis: &amp; sic dicitur, licet improprie, habere 
+      <lb ed="#L" n="48"/>causam ex parte hominis obdurati, culpam videlicet praecedentem, quae tamen culpa non est 
+      <lb ed="#L" n="49"/>ipsa non receptio gratiae, sed alia prior ea, vt patet de Pharaone &amp; alijs, quando 
+      actua<lb ed="#L" n="50" break="no"/>liter obdurantur: prius namque est quis peccator, quam Deus sit vltor. Et sic loquuntur 
+      <lb ed="#L" n="51"/>plerunque Doctores, dicentes Deum ex misericordia liberare, sed secundum iudicium 
+      obdu<lb ed="#L" n="52" break="no"/>rare; Iudicium autem videtur esse secundum opera iudicati. Vnde &amp; Petrus 1. sent. dist. 42. 
+      <lb ed="#L" n="53"/>Sicut, inquit, praedistinationis effectus est gratiae appositio; ita reprobationis effectus 
+      obdura<lb ed="#L" n="54" break="no"/>tio. Qui &amp; supra dist 41. 1. dicit, aliquod esse meritum obdurationis, misericordiae vero 
+      nul<lb ed="#L" n="55" break="no"/>lum: &amp; subdit, Miseretur itaque secundum gratiam quae gratis datur, obdurat autem 
+      secun<lb ed="#L" n="56" break="no"/>dum iudicium quod meritis redditur. Vnde datur intelligi, quod sicut reprobatio Dei est nolle 
+      <lb ed="#L" n="57"/>misereri, ita obduratio Dei sit non misereri, vt non ab illo irrogetur aliquid, quo sit homo de¬ 
+      <!--651.xml-->
+      <pb ed="#A" n="618"/>
+                  <lb ed="#L" n="1"/>terior, sed tantum quo sit melior, non erogetur. Vlterius aduertendum quod quandoque 
+      <lb ed="#L" n="2"/>legitur // Dominum cor hominis indurare, quod debet intelligi modo praedicto, seu modis 
+      pre<lb ed="#L" n="3" break="no"/>dictis: quandoque vero ipsum hominem cor suum, ceruicem suam &amp; huiusmodi indurare; 
+      <lb ed="#L" n="4"/>quod dupliciter potest intelligi; vel quia hoc sit propter culpam eius priorem, sicut praemissa 
+      <lb ed="#L" n="5"/>testantur; vel quia sponte ilnon inuite, nec coacte est durus: quandoque autem simpliciter 
+      le<lb ed="#L" n="6" break="no"/>gitur cor eius esse induratum, quod vtroque modo potest exponi. Amplius autem de 
+      Robo<lb ed="#L" n="7" break="no"/>am legitur, Non acquieuit Rex populo, quoniam aduersatus fuerat eum Dominus, vt 
+      susci<lb ed="#L" n="8" break="no"/>taret verbum suum quod loquutus fuerat in manu Ahiae Silonitae ad Ieroboam 3. Reg. 12. &amp; 
+      <lb ed="#L" n="9"/>de Amasiah, Noluit audire Amasias, eo quod esset voluntas Domini vt traderetur in 
+      mani<lb ed="#L" n="10" break="no"/>bus hostium propter Deos Edom. Quare &amp; Augustinus de gratia &amp; libero arbitrio 46. Quis 
+      <lb ed="#L" n="11"/>non diuina iudicia contremiscat, quibus agit Deus in cordibus etiam malorum hominum 
+      <lb ed="#L" n="12"/>quicquid vult, reddens tamen eis secundum merita eorum? Roboam filius Solomonis 
+      repu<lb ed="#L" n="13" break="no"/>lit consilium salubre seniorum quod ei dederant, ne cum populo dure ageret, &amp; verbis 
+      seruo<lb ed="#L" n="14" break="no"/>rum suorum potius acquieuit, respondendo minaciter quibus leniter debuit. Vnde hoc; nisi 
+      <lb ed="#L" n="15"/>propria voluntate? Sed hinc ab eo recesserunt decem tribus Israel, &amp; alium Regem sibi 
+      con<lb ed="#L" n="16" break="no"/>stituerunt Ieroboam, vt irati Dei voluntas fieret, quod etiam futurum esse praedixerat: quid 
+      <lb ed="#L" n="17"/>Scriptuna dicit? Et non audiuit Rex plebem, quoniam erat conuersio a Domino, vt 
+      statue<lb ed="#L" n="18" break="no"/>ret verbum suum quod loquutus est in manu Ahiae Silonitae de Ieroboam filio Naboth; 
+      <lb ed="#L" n="19"/>Nempe sic factum est, &amp; id per hominis voluntatem, vt tamen conuersio esset a Domino. Qui 
+      <lb ed="#L" n="20"/>&amp; infra 47. Quid est quod homo Dei dixit ad Amasiam Regem, Non veniet tecum 
+      exer<lb ed="#L" n="21" break="no"/>citus Israel; Non enim est Dominus cum Israel, omnibus filijs Ephraim; quoniam si 
+      puta<lb ed="#L" n="22" break="no"/>ueris obtinere te in illis, in fugam conuertet te Deus ante inimicos? deinde Scriptura 
+      subiun<lb ed="#L" n="23" break="no"/>git, Et non audiuit Amasias, quoniam a Deo erat vt traderetur in malum, quoniam 
+      quae<lb ed="#L" n="24" break="no"/>sierunt Deos Edom. Ecce Deus idololatriae peccatum volens vindicare, hoc operabatur in 
+      <lb ed="#L" n="25"/>eius corde, cui vtique iuste irascebatur, vt admonitionem salubrem non audiret, sed ea 
+      con<lb ed="#L" n="26" break="no"/>tempta iret in bellum, vbi cum suo exercitu caderet. Item quid aliud significat, Non omnes 
+      <lb ed="#L" n="27"/>capiunt verbum istud, sed quibus datum est, qui potest capere, capiat? Matth. 19. &amp; illud, 
+      <lb ed="#L" n="28"/>Oculi autem illorum tenebantur, ne eum agnoscerent? Luc. vlt. &amp; illud, Vos non creditis, 
+      <lb ed="#L" n="29"/>quia non estis ex ouibus meis Ioh. 10. Imo &amp; hanc regulam Philosophicam praelibatam, Si 
+      <lb ed="#L" n="30"/>affirmatio est causa affirmationis, &amp; negatio est causa negationis, videtur ipsa veritas 
+      cano<lb ed="#L" n="31" break="no"/>nizare, cum dicit, qui est ex Deo, verba Dei audit; propterea vos non auditis, quia ex Deo no 
+      <lb ed="#L" n="32"/>estis? Ioh. 8. Quare &amp; Chrysostomus, sicut allegatur in glossa Thomae, super illud 10. 10. 
+      prae<lb ed="#L" n="33" break="no"/>missum, sic ait, Quare non credant, ostendit subdens, Sed vos non creditis, quia non estis ex 
+      <lb ed="#L" n="34"/>ouibus meis. Super quod verbum Augustinus I. part. super Ioan. homilia 48. Ques, inquit, 
+      <lb ed="#L" n="35"/>sunt credendo, pastorem sequendo, per ostium intrando. Quomodo ergo istis dixit, Non 
+      <lb ed="#L" n="36"/>estis ex ouibus meis? quia videbat eos ad sempiternum interitum praedestinatos, non ad vi 
+      <lb ed="#L" n="37"/>tam aeternam sui sanguinis pretio comparatos. Qui &amp; supra homilia 42. exponens illud 
+      <lb ed="#L" n="38"/>Ioan. 8. praemissum. Quoniam, inquit, praesciuerat qui fuerant credituri, ipsos dixit ex Deo, 
+      <lb ed="#L" n="39"/>quoniam regenerationis adoptione renascerentur ex Deo: ad hos pertinet, Qui est ex Deo 
+      <lb ed="#L" n="40"/>verba Dei audit: Quod vero sequitur, Propterea vos non auditis, quia ex Deo non estis, eis 
+      <lb ed="#L" n="41"/>dictum est, qui non solum peccato vitiosi erant, (Nam hoc malum commune erat omnibus, 
+      <lb ed="#L" n="42"/>sed etiam praecogniti quod non fuerant credituri ea fide, qua sola possent a peccatorum 
+      obli<lb ed="#L" n="43" break="no"/>gatione liberari. Quapropter praesciebat illos quibus talia dicebat, in eo permansuros, quod 
+      <lb ed="#L" n="44"/>ex diabolo erant, id est, in suis peccatis atque impietate morituros, in qua ei similes erant, nec 
+      <lb ed="#L" n="45"/>venturos ad generationem, in qua essent filij Dei, hoc est ex Deo nati, a quo erant homines 
+      <lb ed="#L" n="46"/>creati. Secundum hanc praedestinationem loquutus est Dominus: Istud tamen potest &amp; 
+      ali<lb ed="#L" n="47" break="no"/>ter intelligi &amp; exponi, de quolibet existente in gratia, vel sic existente ex Deo, quamdiu est 
+      <lb ed="#L" n="48"/>talis, &amp; de quolibet carente gratia, &amp; sic non existente ex Deo, quamdiu est talis iuxta 
+      praemis<lb ed="#L" n="49" break="no"/>sa 38. &amp; sequentibus primi libri. Vnde Saluator, Quare loquelam meam non cognoscitis? 
+      <lb ed="#L" n="50"/>quia non potestis audire sermonem meum, Ioan. 8. quamdiu scilicet mali estis. Quare &amp;  
+      <lb ed="#L" n="51"/>Chrysostomus sicut ibi recitat glossa Thomae, sic ait; Primo igitur captanda est virtus quae 
+      <lb ed="#L" n="52"/>verbum diuinum exaudiat, vt deinceps validi sistamus ad percipiendam totam loquutionem 
+      <lb ed="#L" n="53"/>Iesu; quoniam quamdiu quis curatus non est in auditu proprio a Verbo, quod dicit surdo, 
+      A<lb ed="#L" n="54" break="no"/>periatis; auditu percipere nequit. Veruntamen vnum verbum Dei est, quod &amp; omnes, &amp; 
+      <lb ed="#L" n="55"/>singuli praedestinati audiunt, vel audient aliquando, &amp; nullus reprobatus vnquam audiet 
+      il<lb ed="#L" n="56" break="no"/>lud verbum. Hoc autem verbum, sicut Augustinus, homilia 45. super Ioannem per 
+      lon<lb ed="#L" n="57" break="no"/>gam disputationem ostendit, est; Qui perseuerauerit vsque in finem hic saluus erit. Patet 
+      <lb ed="#L" n="58"/>ergo secundum sententiam veritatis, Augustino testante, quod sicut esse ex ouibus Christi, &amp;  
+      <!--652.xml-->
+      <pb ed="#A" n="619"/>
+                  <lb ed="#L" n="1"/>ex Deo secundum praedestinationem, scilicet esse praedestinatum, est causa credendi, &amp; 
+      au<lb ed="#L" n="2" break="no"/>diendi salubriter vocem Christi: ita &amp; non sic esse: non sic faciendi: Non autem esse 
+      praede<lb ed="#L" n="3" break="no"/>stinatum originaliter est ex Deo, quia non ex operibus reprobati; teste 450. primi. Eandem 
+      <lb ed="#L" n="4"/>quoque sententiam contestantur autoritates eiusdem de praedestinatione sanctorum 10. de 
+      <lb ed="#L" n="5"/>bono perseuerantiae 4I. superius allegatae; qui &amp; de correptione &amp; gratia quasi per totum 
+      o<lb ed="#L" n="6" break="no"/>stendit, quod omnes homines debent charitatiue corripi &amp; moueri, quod tamen correptio 
+      <lb ed="#L" n="7"/>praedestinatis tantum prodest, non praedestinatis non prodest: vbi &amp; 68. longa disputatione 
+      <lb ed="#L" n="8"/>praemissa ita concludit; Patiantur ergo se homines corripi quando peccant, nec de ipsa 
+      <lb ed="#L" n="9"/>correptione argumententur contra gratiam, nec de gratia contra correptionem, quia &amp; 
+      pec<lb ed="#L" n="10" break="no"/>catis iusta paena debetur; ad ipsam pertinet iusta correptio, quae medicinaliter exhibetur, 
+      <lb ed="#L" n="11"/>etiamsi salus aegrotantis incerta est; vt si is, qui corripitur, ad praedestinatorum numerum 
+      per<lb ed="#L" n="12" break="no"/>tinet, sit ei correptio salubre medicamentum; si autem non pertinet, sit ei correptio paenale 
+      <lb ed="#L" n="13"/>tormentum: sub isto ergo incerto ex charitate adhibenda est, cuius exitus ignoratur. Iitam 
+      <lb ed="#L" n="14"/>quoque sententiam videtur Saluator docuisse capaces, quando murmurantibus Iudaeis contra 
+      <lb ed="#L" n="15"/>sermonem suum de pane vitae, respondit, Nolite murmurare inuicem; Nemo potest 
+      ve<lb ed="#L" n="16" break="no"/>nite ad me, nisi Pater, qui misit me, traxerit illum. Scriptum est in Prophetis, Et erunt 
+      om<lb ed="#L" n="17" break="no"/>nes docibiles Dei: Omnis qui audiuit a Patre &amp; didicit, venit ad me, Ioh. 6. vbi videtur 
+      mi<lb ed="#L" n="18" break="no"/>nuere, quod quia illi non fuerunt tracti nec docti, quia non audierunt, nec didicerunt, ideo 
+      <lb ed="#L" n="19"/>non venerunt ad eum credendo. Quare &amp; infra, Sunt, inquit, quidam ex vobis, qui non 
+      cre<lb ed="#L" n="20" break="no"/>dunt; sciebat enim ab init. o Iesus, qui essent credentes, &amp; quis traditurus eum esset: &amp; 
+      dice<lb ed="#L" n="21" break="no"/>bat, Propterea dixi vobis, quod nemo potest venire ad me, nisi fuerit ei datum a Patre meo 
+      <lb ed="#L" n="22"/>Si mihi exponenti non credis, crede Augustino homilia 26. super Ioannem dicenti, Murmu 
+      <lb ed="#L" n="23"/>rantibus respondit Iesus, Nolite murmurare ad inuicem, tanquam dicens; Scio quare non  
+      <lb ed="#L" n="24"/>esuriatis, &amp; istum panem non intelligatis, nec quaeratis. Nolite murmurare ad inuicem, 
+      <lb ed="#L" n="25"/>Nemo potest venire ad me, nisi Pater, qui misit me, traxerit eum. Nota quare &amp; 
+      cau<lb ed="#L" n="26" break="no"/>sam. Et sequitur magna gratiae commendatio, Nemo venit nisi tractus: quem trahat, &amp;  
+      <lb ed="#L" n="27"/>quem non trahat, quare illum trahat, &amp; illum non trahat, noli velle iudicare, si non vis 
+      erra<lb ed="#L" n="28" break="no"/>re. Noli, inquam, velle iudicare per causam sumptam ex parte tracti, vel non tracti, 
+      antece<lb ed="#L" n="29" break="no"/>denter trahentem seu mouentem voluntatem diuinam, iuxta praemissa 20. &amp; 35. &amp; 
+      sequenti<lb ed="#L" n="30" break="no"/>bus primi libri. Si tamen quenquam non trahi a Deo, esset causa quare Deus illum non 
+      <lb ed="#L" n="31"/>traheret, rationabiliter posset quaeri, quare Deus illum trahat, &amp; rationabiliter, quia 
+      cau<lb ed="#L" n="32" break="no"/>saliter responderi, quia ipse non trahitur. Similiter quoque de similibus posset quaeri, &amp;  
+      <lb ed="#L" n="33"/>similiter responderi. Et infra, Scriptum est enim in Prophetis, &amp; erunt omnes docibiles 
+      <lb ed="#L" n="34"/>Dei: Quare hoc dixi, o Iudaei; Pater vos non docuit; quomodo me potestis agnoscere? Et  
+      <lb ed="#L" n="35"/>infra homilia 27. exponens illud, Sciebat enim ab initio Iesus, &amp;c. sic ait, Posteaquam 
+      dis<lb ed="#L" n="36" break="no"/>tinxit credentes a non credentibus, expressit causam quare non credant: Propterea dixi 
+      <lb ed="#L" n="37"/>vobis, quod nemo potest venire ad me, nisi fuerit ei datum a Patre meo. Qui &amp; de praede 
+      <lb ed="#L" n="38"/>stinatione Sanctorum 9. &amp; 1c. istam expositionem confirmat, sicut superius recitatur; vbi &amp; 
+      <lb ed="#L" n="39"/>10. loquens de doctrina Patris, sic quaerit &amp; soluit; Cur ergo non omnes docet vt veniant 
+      <lb ed="#L" n="40"/>ad Christum, nisi quia omnes quos docet, misericordia docet; quos autem non docet, in 
+      <lb ed="#L" n="41"/>Deo non docet; quoniam cuius vult miseretur, &amp; quem vult indurat? Et infra, Quare, 
+      in<lb ed="#L" n="42" break="no"/>quiunt, non omnes docet? si dixerimus, quia nolunt discere quos non docet; 
+      respondebi<lb ed="#L" n="43" break="no"/>tur nobis, &amp; vbi est quod ei dicitur, Deus conuertens tu viuificabis nos? aut si non facit 
+      <lb ed="#L" n="44"/>volentes ex nolentibus Deus, vt quid orat Ecclesia secundum praeceptum Domini pro 
+      <lb ed="#L" n="45"/>persecutoribus suis? Ecce quod Augustinus reprobat positionem dicentem, Patrem ideo 
+      <lb ed="#L" n="46"/>quempiam non docere, quia non vult discere: &amp; nonne posset similiter, imo &amp; 
+      euiden<lb ed="#L" n="47" break="no"/>tius reprobare opinionem dicentem, Patrem ideo quempiam non docere, quia non 
+      do<lb ed="#L" n="48" break="no"/>cetur? Et sequitur, cum ergo Euangelium praedicatur, quidam credunt, quidam non cre 
+      <lb ed="#L" n="49"/>dunt: sed qui credunt praedicatori forinsecus insonanti, intus a Patre audiunt atque discunt; 
+      <lb ed="#L" n="50"/>qui autem non credunt, foris audiunt, intus non audiunt neque discunt: hoc est, illis datur 
+      <lb ed="#L" n="51"/>vt credant, illis non datur; quia Nemo, inquit, venit ad me, nisi Pater, qui misit me, 
+      traxe<lb ed="#L" n="52" break="no"/>rit eum; quod apertius postea dicitur. Nam post aliquantum cum de carne sua 
+      manducan<lb ed="#L" n="53" break="no"/>da, &amp; bibendo sanguine suo loqueretur, &amp; dicerent quidam etiam discipulorum eius, 
+      Du<lb ed="#L" n="54" break="no"/>rus est hic sermo, quis potest eum audire? Sciens lesus apud semetipsum, quod murmurarent 
+      <lb ed="#L" n="55"/>de hoc discipuli eius, dixit eis; Hoc vos scandalizat? &amp; paulo post, Verba, inquit, quae 
+      lo<lb ed="#L" n="56" break="no"/>cutus sum vobis, spiritus &amp; vita sunt: Sed sunt quidam ex vobis qui non credunt; Et mox 
+      <lb ed="#L" n="57"/>Euangelista; Sciebat enim, inquit, ab initio Iesus qui essent credentes; &amp; quis esset traditurus 
+      <lb ed="#L" n="58"/>eum, &amp; dicebat; Propterea dixi vobis, quia nemo potest venire ad me, nisi ei datum fuerit a 
+      <!--653.xml-->
+      <pb ed="#A" n="620"/>
+                  <lb ed="#L" n="1"/>Patre meo; ergo trahi ad Christum a Patre, &amp; audire, &amp; discere a Patre vt veniat ad 
+      Chri<lb ed="#L" n="2" break="no"/>stum, nihil est aliud quam donum accipere a Patre, quo credat in Christum. Neque enim 
+      <lb ed="#L" n="3"/>audientes Euangelium a non audientibus, sed credentes a non credentibus discernebat, qui 
+      <lb ed="#L" n="4"/>dicebat; Nemo veniat ad me, nisi fuerit ei datum a Patre meo. Fides igitur inchoata &amp; 
+      per<lb ed="#L" n="5" break="no"/>fecta donum Dei est, &amp; hoc donum quibusdam dari, quibusdam non dari omnino non 
+      dubi<lb ed="#L" n="6" break="no"/>tat, qui non vult manifestissimis sacris literis repugnare. Cur autem non omnibus detur, 
+      <lb ed="#L" n="7"/>fidelem mouere non debet, qui credit ex vno omnes isse in condemnationem sine 
+      dubitatio<lb ed="#L" n="8" break="no"/>ne iustissimam, ita vt nulla Dei esset iusta reprehensio, etiamsi nullus inde liberaretur: vnde 
+      <lb ed="#L" n="9"/>constat magnam esse gratiam, quod quamplurimi liberantur; &amp; quid sibi deberetur, in eis qui 
+      <lb ed="#L" n="10"/>non liberantur agnoscant, vt qui glorietur, non in suis meritis, quae paria videt esse damnatis, 
+      <lb ed="#L" n="11"/>sed in Domino glorietur. Cur autem istum potius quam illum liberet? Inscrutabilia sunt 
+      iu<lb ed="#L" n="12" break="no"/>dicia eius, &amp; inuestigabiles viae eius. Melius enim &amp; hic audimus &amp; dicimus, O homo tu 
+      <lb ed="#L" n="13"/>quis es, qui respondeas Deo? Quam dicere audeamus, quasi nouerimus, quod occultum esse 
+      <lb ed="#L" n="14"/>voluit, qui tamen aliquid iniustum velle non potuit. Non ergo quia quisquam non trahitur, 
+      <lb ed="#L" n="15"/>non docetur, non liberatur, non recipit istud donum, ideo Deus ipsum non trahit, non docet,  
+      <lb ed="#L" n="16"/>non liberat &amp; non donat, sed potius e contra. Vnde &amp; Augustinus de bono perseuerantiae, 
+      <lb ed="#L" n="17"/>64. dicit, Qui in peccatorum damnabilium delectatione remorantur, si praedestinati sunt,  
+      <lb ed="#L" n="18"/>ideo nondum surrexerunt, quia nondum eos adiutorium miserantis etexit: quanquam coram 
+      <lb ed="#L" n="19"/>infirmis nolit istam sententiam isto modo, sed alio praedicari. Hoc idem plane testari videtur 
+      <lb ed="#L" n="20"/>beatus Ambrosius, libro 9. super Lucam, sic dicens; Quos lesus respicit, plorant: negauit  
+      <lb ed="#L" n="21"/>primo Petrus, &amp; non fleuit, quia non respexerat Dominus: negauit secundo, non sleuit, quia 
+      <lb ed="#L" n="22"/>adhuc non respexerat Dominus; negauit &amp; tertio, respexit Iesus, &amp; ille amarissime fleuit. Nec 
+      <lb ed="#L" n="23"/>potest dici, quod corporalibus oculis Dominus eum visibiliter admonendo respexerit; &amp; ideo  
+      <lb ed="#L" n="24"/>quod scriptum est, Respexit eum Dominus, intus actum est, in mente, in voluntate, sicut 
+      <lb ed="#L" n="25"/>quadragesimo tertio primi plenius recitatur. Adhuc autem &amp; Augustinus 4. contra Iulianum 
+      <lb ed="#L" n="26"/>16. sic alloquitur Iulianum, Ab eo dicis pulsantibus aperiri, qui omnes homines vult saluos 
+      <lb ed="#L" n="27"/>fieri, &amp; in agnitionem veritatis venire, vt videlicet intelligamus, docentibus nobis, ideo non 
+      <lb ed="#L" n="28"/>omnes saluos fieri, &amp; non in agnitionem veritatis venire, quia ipsi nolunt petere, cum Deus 
+      <lb ed="#L" n="29"/>velit dare; nolunt quaerere, cum Deus velit ostendere; nolunt pulsare, cum Deus velit 
+      ape<lb ed="#L" n="30" break="no"/>rire. Iste ergo secundum sententiam Augustini fuit error Iuliani Pelagiani, quem &amp; ibi 
+      redar<lb ed="#L" n="31" break="no"/>guit consequenter. Et infra tractans illud Iohannis praemissum, Nemo potest venire ad me, 
+      <lb ed="#L" n="32"/>nisi Pater &amp;c. sic ait, Qui iam vtuntur voluntatis arbitrio, nisi eo volente atque subveniente a 
+      <lb ed="#L" n="33"/>quo praeparatur voluntas, velle non possunt. Et sequitur 17. vbi si dixeris mihi, Cur ergo 
+      <lb ed="#L" n="34"/>non conuertit omnium nolentium voluntates? respondebo, Cur non omnes morituros 
+      ad<lb ed="#L" n="35" break="no"/>optat lauacro regenerationis infantes, quorum adhuc nullas, &amp; ideo nec contratias inuenit 
+      <lb ed="#L" n="36"/>voluntates? Si hoc profundius esse perspicis, quam vt abs te valeat inueniri, vtrumque 
+      vtri<lb ed="#L" n="37" break="no"/>que nostrum profundum sit; Cur &amp; in maioribus, &amp; in minoribus Deus velit alteri, &amp; nolit 
+      <lb ed="#L" n="38"/>alteri subuenire. Ecce secundum sententiam Augustini, quod sicut Deum velle subuenire, 
+      <lb ed="#L" n="39"/>est causa subuentionis, sic &amp; ipsum nolle seu non velle subuenire, est causa non subuentionis: 
+      <lb ed="#L" n="40"/>non quia cuiquam non subuenitur a Deo, ideo Deus non vult ei subuenire, aut ei non subuenit, 
+      <lb ed="#L" n="41"/>sed e contra: alias enim esset planissimum, non profundum. Et infra eodem loquens de 
+      duo<lb ed="#L" n="42" break="no"/>bus similibus, quorum vnus secundum iudicium damnatur, alter secundum misericordiam 
+      <lb ed="#L" n="43"/>liberatur; Cur, inquit, istum potius quam illum damnet aut liberet? Nos quid sumus qui 
+      re<lb ed="#L" n="44" break="no"/>spondeamus Deo? Nunquid dicit figmentum ei qui se finxit, Quare me sic fecisti? An non  
+      <lb ed="#L" n="45"/>habet potestatem figulus luti ex eadem massa originis vitiatae atque damnatae facere aliud vas 
+      <lb ed="#L" n="46"/>in honorem secundum misericordiam, &amp; aliud in contumeliam secundum iudicium? Idem  
+      <lb ed="#L" n="47"/>II. super Gen. ad literam 14. opponendo &amp; respondendo, sic ait, Posset, inquiunt, etiam 
+      ip<lb ed="#L" n="48" break="no"/>sorum voluntatem in bonum conuertere, quoniam omnipotens est, posset plane. Cur ergo s 
+      <lb ed="#L" n="49"/>non fecit? quia noluit: cur noluerit penes ipsum est; debemus non plus sapere, quam 
+      opor<lb ed="#L" n="50" break="no"/>tet sapere. Qui &amp; in pluribus libris suis locis quamplurimis eandem sententiam profitetur. 
+      <lb ed="#L" n="51"/>Hoc idem videtur similiter de perseuerantia sentiendum, quod videlicet ideo quisquam non 
+      <lb ed="#L" n="52"/>accipiat, siue non habeat perseuerantiam, quia Deus illam non dat ei, licet fortassis in poenam 
+      <lb ed="#L" n="53"/>peccati sui prioris, &amp; non e contra: Hoc enim sequitur ex praemissis, &amp; potest ostendi 
+      simi<lb ed="#L" n="54" break="no"/>liter per praemissa. Hanc quoque sententiam clare testari videtur Propheta, Non veniat, 
+      in<lb ed="#L" n="55" break="no"/>quiens, mihi pes superbiae, &amp;c. Ibi ceciderunt qui operantur iniquitatem; expulsi sunt, nec 
+      <lb ed="#L" n="56"/>potuerunt stare; Psalmo 35. Quod Augustinus exponens, Prior, inquit, ille qui in veritate 
+      <lb ed="#L" n="57"/>non stetit, deinde parentes illi quos dimisit Deus de paradiso: vnde ille humilis qui dicit se 
+      <lb ed="#L" n="58"/>non dignum soluere corrigiam casceamenti non est expulsus, sed stat &amp; audit eum, &amp; gaudio 
+      <!--654.xml-->
+      <pb ed="#A" n="621"/>
+                  <lb ed="#L" n="1"/>gaudet propter vocem sponsi, non propter suam, ne veniat ei pes superbiae &amp; expellatur, nec 
+      <lb ed="#L" n="2"/>possit stare. Hinc &amp; quidam praedestinatus &amp; perseuerans discipulus atque Doctor, Ex nobis, 
+      <lb ed="#L" n="3"/>inquit, prodierunt, sed non erant ex nobis; nam si fuissent ex nobis, permansissent vtique 
+      <lb ed="#L" n="4"/>nobiscum; sed vt manifesti sint, quoniam non sunt omnes ex nobis, I Ioh. 2. volens 
+      osten<lb ed="#L" n="5" break="no"/>dere quod sicut esse ex numero electorum secundum praedestinationem diuinam est causa 
+      <lb ed="#L" n="6"/>permanendi &amp; perseuerandi finaliter, &amp; non sic esse, est causa non sic manendi, i. sicut 
+      volu<lb ed="#L" n="7" break="no"/>tio &amp; electio Dei aeternaliter praeparans &amp; temporaliter conferens gratiam &amp; perseuerantiam 
+      <lb ed="#L" n="8"/>cuiquam est causa perseuerandi finaliter: Ita &amp; non volutio, &amp; non electio, seu reprobatio 
+      <lb ed="#L" n="9"/>Dei opposita est causa non perseuerandi finaliter: alias etenim non electio seu reprobatio Dei 
+      <lb ed="#L" n="10"/>non esset originaliter &amp; causaliter ex vocante, sed ex operibus &amp; meritis reprobati, quod 
+      fue<lb ed="#L" n="11" break="no"/>rat reprobatum quadragesimo quinto primi. Vnde &amp; Augustinus de bono perseuerantiae 
+      <lb ed="#L" n="12"/>17. disputando, sic ait, Cur quibusdam, qui eum bona fide coluerunt, perseuerare vsque in 
+      fi<lb ed="#L" n="13" break="no"/>nem non dedit? Cur putas, nisi quia non mentitur qui dicit, Ex nobis exierunt, sed non erant 
+      <lb ed="#L" n="14"/>ex nobis? Nam si fuissent ex nobis, mansissent vtique nobiscum. Hominibus autem videtur, 
+      <lb ed="#L" n="15"/>omnes qui boni apparent, fideles, perseuerantiam vsque in finem accipere debuisse; Deus 
+      <lb ed="#L" n="16"/>autem melius esse iudicauit, miscere quosdam non perseueraturos certo numero sanctorum 
+      <lb ed="#L" n="17"/>suorum, vt quibus non expedit in huius vitae temptatione securitas, non possint esse securi: 
+      <lb ed="#L" n="18"/>Multos enim a perniciosa elatione reprimit, quod ait Apostolus, Quapropter qui videtur 
+      sta<lb ed="#L" n="19" break="no"/>re, videat ne cadat. Et infra 19. Ex duobus autem pijs, cur huic donetur perseuerantia vsque 
+      <lb ed="#L" n="20"/>in finem, illi non donetur? Inscrutabilia sunt iudicia Dei: illud tamen fidelibus debet esse 
+      cer<lb ed="#L" n="21" break="no"/>tissimum, hunc esse ex praedestinatis, illum non esse: nam si fuissent ex nobis, ait vnus 
+      prae<lb ed="#L" n="22" break="no"/>destinatorum, qui de pectore biberat Domini hoc secretum, mansissent vtique nobiscum. 
+      <lb ed="#L" n="23"/>Quid est quaeso, non erant ex nobis; nam etiam sifuissent, mansissent vtique nobiscum? 
+      <lb ed="#L" n="24"/>Nonne vtique a Deo creati, vtique ex Adam nati, vtique de terra facti erant, &amp; ab eo qui 
+      <lb ed="#L" n="25"/>dixit, Omnem flatum ego feci, vnius eiusdemque naturae animas acceperant? Nonne 
+      po<lb ed="#L" n="26" break="no"/>stremo vtique vocati fuerant, &amp; vocantem secuti? vtrique ex impijs iustificati, &amp; per 
+      saua<lb ed="#L" n="27" break="no"/>crum regenerationis vtrique renouati? Sed si hoc audiret ille qui sciebat, proculdubio quod 
+      <lb ed="#L" n="28"/>dicebat, respondere posset &amp; dicere, vera sunt haec; secundum haec omnia ex nobis erant, 
+      <lb ed="#L" n="29"/>veruntamen secundum aliam quandam discretionem ex nobis non erant: nam si fuissent ex 
+      <lb ed="#L" n="30"/>nobis, mansissent vtique nobiscum. Quae est tamen ista discretio? Patent libri Dei, non 
+      auer<lb ed="#L" n="31" break="no"/>tamus aspectum; clamat scriptura diuina, adhibeamus auditum. Non erant ex nobis, quia 
+      <lb ed="#L" n="32"/>non erant secundum propositum vocati; non erant in Christo electi ante mundi 
+      constitutio<lb ed="#L" n="33" break="no"/>nem, non erant in eorum fortem sequuti, non erant praedestinati secundum propositum eius 
+      <lb ed="#L" n="34"/>qui vniuersa operatur. Et infra, 45. recitat quosdam obijcientes hoc modo, Sed aiunt, vt 
+      <lb ed="#L" n="35"/>scribitis, neminem posse correptionis stimulis excitari, si dicatur in conuentur Ecclesiae 
+      audi<lb ed="#L" n="36" break="no"/>entibus multis; Ita se habet in praedestinatione definita sententia voluntatis Dei, vt alij ex 
+      <lb ed="#L" n="37"/>vobis de infidelitate, accepta obediendi voluntate veneritis ad fidem, vel accepta perseue 
+      <lb ed="#L" n="38"/>rantia maneatis in fide: caeteri vero, qui in peccatorum delectatione remoramini, ideo 
+      non<lb ed="#L" n="39" break="no"/>dum surrexistis, quia nec dum vos adiutorium gratiae miserantis erexit: Veruntamen si qui 
+      <lb ed="#L" n="40"/>estis nondum vocati, quos gratia sua praedestinauerit eligendos, accipietis gratiam qua velitis 
+      <lb ed="#L" n="41"/>&amp; sitis electi, &amp; si qui obeditis, si praedestinati estis, reijciendi, subtrahentur obediendi vires, 
+      <lb ed="#L" n="42"/>vt obedire cessetis; vel secundum aliam literam, si qui obeditis, si impraedestinati estis reci 
+      <lb ed="#L" n="43"/>piendi, &amp;c. sicut supra, quod oportet intelligi in poenam culpae prioris. Qui capitulis fequest 
+      <lb ed="#L" n="44"/>tibus respondendo, nihil horum de praedestinatione interimit, sed asserit omnia esse verat 
+      <lb ed="#L" n="45"/>Vnde capit. 46. sic ait; Ista, cum dicuntur, ita nos ad confitendam veram Der gratiam, id est 
+      <lb ed="#L" n="46"/>quae non secundum merita nostra datur, &amp; ad confitendam secundum eam praedestinationem 
+      <lb ed="#L" n="47"/>sanctorum deterrere non debent, sicut non deterremur a confitenda praescientia Dei, si quis 
+      <lb ed="#L" n="48"/>de illa populo sic loquatur, vt dicat; siue nunc recte viuitis, siue non recte, tales eritis postet 
+      <lb ed="#L" n="49"/>quales vos Deus futuros esse praesciuit, vel boni si bonos, vel mali si malos. Nunquid eniti 
+      <lb ed="#L" n="50"/>si hoc audito, nonnulli in torporem segnitiemque vertantur, &amp; a labore // prorliuinsm; &amp; ad sibi 
+      <lb ed="#L" n="51"/>dinem post concupiscentias suas eant, propterea de praescientia Dei falsum putandum est 
+      <lb ed="#L" n="52"/>esse quod dictum est? Et 47. Dicatur ergo verum, maxime vbi alia quaestio, vt dicatur, 
+      impel<lb ed="#L" n="53" break="no"/>lit. Et 64. Docet praemissa de praedestinatione, &amp; specialiter illud verbum, si qurobeditis, si 
+      <lb ed="#L" n="54"/>impraedestinati recipiendi estis, vel si praedestinati estis reijciendi, subtrabentur obediendi 
+      vi<lb ed="#L" n="55" break="no"/>res vt obedire cessetis, quamuis sit verum, neminem praedicare debere multitudini infir 
+      <lb ed="#L" n="56"/>morum sub ista forma verborum loquendo in secunda persona &amp; dirigendo eis 
+      sermo<lb ed="#L" n="57" break="no"/>nem; sed sub alia in tertia persona loquendo, vt tamen nihil sententiae detrahatur: Idem  
+      <lb ed="#L" n="58"/>de correptione &amp; gratia, 24. Qui inquit perseueraturi non sunt, ac sic a fide Christiana 
+      <!--655.xml-->
+      <pb ed="#A" n="622"/>
+                  <lb ed="#L" n="1"/>&amp; conuersione sapsuri sunt, &amp; tales eos vitae huius finis inueniat, procuidubio nec 
+      <lb ed="#L" n="2"/>illo tempore quo bene pieque viuunt, in istorum numero computandi sunt: Non 
+      e<lb ed="#L" n="3" break="no"/>nim sunt a massa illa perditionis praescientia Dei, &amp; praedestinatione discreti, &amp; ideo nec 
+      se<lb ed="#L" n="4" break="no"/>cundum propositum vocati sunt, ac per hoc nec electi. Vbi &amp; 25. subiungit, Hic si a me 
+      <lb ed="#L" n="5"/>quaeratur, cur eis Deus perseuerantiam non dederit, quibus eam qua Christiane viuerent, 
+      <lb ed="#L" n="6"/>dilectionem dedit? Me ignorare respondeo; Non enim arroganter, sed agnoscens 
+      modu<lb ed="#L" n="7" break="no"/>lum meum, audio Apostolum dicentem, O homo quis tu es, qui respondeas Deo, &amp;c. &amp; o 
+      <lb ed="#L" n="8"/>altitudo diuitiarum sapientiae &amp; scientiae Dei, quam inscrutabilia sunt iudicia eius, &amp; 
+      inuesti<lb ed="#L" n="9" break="no"/>gabiles viae eius? Qui &amp; in De confutatione 16. capitulorum falso ei imputatorum, 
+      respon<lb ed="#L" n="10" break="no"/>sione I4. Cur, inquit, illum retineat ne recedat, illum non retineat, nec possibile est 
+      com<lb ed="#L" n="11" break="no"/>prehendere, nec licitum vestigare. Hanc quoque sententiam vltimam quamplures 
+      autorita<lb ed="#L" n="12" break="no"/>tes Augustini, &amp; Gregorij 14. huius praemissae lucide contestantur, quae omnes possunt 
+      in<lb ed="#L" n="13" break="no"/>telligi secundum expositiones praemissas; quod videlicet ex parte non perseuerantis, non est 
+      <lb ed="#L" n="14"/>causa sufficiens suae non perseuerantiae assignanda, quia non culpa sua: Duorum namque 
+      <lb ed="#L" n="15"/>charorum Deo, &amp; piorum aequalium, &amp; aequaliter tentatorum, Deus stantem preseruat per 
+      <lb ed="#L" n="16"/>quintum huius; cadentem non preseruat a lapsu. Sed cur hunc magis quam illum? Quid 
+      <lb ed="#L" n="17"/>hic nunc primo peccans, illi prius peccauit, vt in hoc primum suum peccatum cadere 
+      merere<lb ed="#L" n="18" break="no"/>tur? Duorum quoque charorum aequalium aequaliter tentatorum, &amp; aeque peccantium Deus 
+      <lb ed="#L" n="19"/>vnum resuscitat &amp; assumit, &amp; facit perseuerate finaliter, alterumque relinquit; imo &amp; sine 
+      <lb ed="#L" n="20"/>iniuria cuiuscunque eum qui plus peccauit, potest suscitare &amp; facere perseuerate finaliter, &amp; 
+      <lb ed="#L" n="21"/>eum, qui minus peccauit, relinquere incorrectum; quomodo ergo est culpa causa sufficiens 
+      <lb ed="#L" n="22"/>non perseuerantiae? patet etiam ex trigesimo nono primi, quod meritum bonum vel 
+      ma<lb ed="#L" n="23" break="no"/>lum non est proprie causa praemij, nec poenae actualis, licet propter merita haec 
+      reddan<lb ed="#L" n="24" break="no"/>tur, sicut ibi fuit ostensum. Non ergo non accipere perseuerantiam est causa, vel causa 
+      sus<lb ed="#L" n="25" break="no"/>ficiens &amp; praecedens non dationis eius a Deo: Si namque esset causa, esset sufficiens &amp; 
+      praece<lb ed="#L" n="26" break="no"/>dens; videtur igitur, quod sit e contra. Vlterius autem pro intellectu pleniori Doctorum 
+      di<lb ed="#L" n="27" break="no"/>centium, Nullam esse causam, quare duorum piorum aequalium Deus vni dat 
+      perseue<lb ed="#L" n="28" break="no"/>rantiam, &amp; alteri minime; aduertendum, quod hoc habet duplicem intellectum: vnum, quod 
+      <lb ed="#L" n="29"/>nulla est causa sufficiens ex parte ipsorum hominum, quod verum est, sicut nulla causa 
+      praede<lb ed="#L" n="30" break="no"/>stinationis &amp; reprobationis ex parte hominum est ponenda, sicut praecedentia docuerunt: 
+      al<lb ed="#L" n="31" break="no"/>terum quod nulla est causa sufficiens ex parte Dei, quod &amp; dupliciter potest intelligi, vno 
+      mo<lb ed="#L" n="32" break="no"/>do omnino generaliter, &amp; sic est falsum: Voluntas enim diuina est causa sufficiens vtriusque, 
+      <lb ed="#L" n="33"/>alio modo specialiter, quod videlicet in Deo non est causa nec ratio antecedens voluntatem 
+      <lb ed="#L" n="34"/>suam, quae ipsam potius &amp; praeponderanter determinet ad dandum huic perseuerantiam, &amp; 
+      <lb ed="#L" n="35"/>illi non dandum; &amp; hunc intellectum arbitror esse verum, sicut vigesimum, &amp; vigesimum 
+      <lb ed="#L" n="36"/>primum primi lucide manifestant.  
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

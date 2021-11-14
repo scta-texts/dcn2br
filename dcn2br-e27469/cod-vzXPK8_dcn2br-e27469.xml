@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="200"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e27469"><!-- l1c12 -->
+            <head xml:id="dcn2br-e27469-Hd1e106">Caput 12</head>
+            <p xml:id="dcn2br-e27469-d1e109">
+      <!--233.xml-->
+               <pb ed="#A" n="200"/>
+               <lb ed="#L" n="1"/>CAP. XII. 
+      <lb ed="#L" n="2"/>Ostendit quale sit illud primum principium, quia affirmatiuum, 
+      <lb ed="#L" n="3"/>&amp; quod sit illud quod Deus est, seu Deus est Deus. 
+      </p>
+            <p xml:id="dcn2br-e27469-d1e122">
+               <lb ed="#L" n="4"/>INuento igitur quod primum principium complexum est in Deo; vel 
+      <lb ed="#L" n="5"/>de eo, restat vlterius quaerere, quale &amp; quod est illud. Primo ergo 
+      quae<lb ed="#L" n="6" break="no"/>rendum est, quale sit illud, vtrum Affirmatiuum, vel potius negatiuum. 
+      <lb ed="#L" n="7"/>Quod autem non sit pure negatiuum, apparet, quia pura negatio 
+      ni<lb ed="#L" n="8" break="no"/>hil ponit; Primum principium complexorum ponit, &amp; causat omnia 
+      <lb ed="#L" n="9"/>vera complexa sequentia, sicut capitulum proximum demonstrauit;  
+      <lb ed="#L" n="10"/>non est ergo pure &amp; totaliter negatiuum. Nec est negatiuum 
+      praeg<lb ed="#L" n="11" break="no"/>nans, seu implicans, quia talis negatiua virtute solius negationis 
+      peni<lb ed="#L" n="12" break="no"/>tus nihil ponit, sed si forsitan quicquam ponat, hoc est virtute alicujus affirmatiuae prioris 
+      <lb ed="#L" n="13"/>quam importat: ergo illa affirmatiua per se potius est primum principium complexorum. 
+      <lb ed="#L" n="14"/>Ipsa enim per se est causa veritatis in alijs; sed illa negatiua non nisi per illam, ergo illa prior, 
+      <lb ed="#L" n="15"/>Sed nihil tale est primum verum complexum, &amp; causa veritatis in alijs, quo est aliud verum 
+      <lb ed="#L" n="16"/>prius, &amp; alia causa prior. Item sicut 2. capitulum ostendebat, omne quod est per accidens 
+      ali<lb ed="#L" n="17" break="no"/>quale, reducitur ad aliquod prius, quod per se est tale: talis autem negatiua implicatiua seu 
+      <lb ed="#L" n="18"/>praegnans tantum per accidens ponit &amp; causat in alijs veritatem; ergo reducitur ad aliquod 
+      <lb ed="#L" n="19"/>per se prius, cuius virtute hoc facit; illud ergo aliud prius &amp; magis causat veritatem in alijs; 
+      <lb ed="#L" n="20"/>Igitur illud est potius principium complexorum. Hoc etiam aliud est prius verum, &amp; causa 
+      <lb ed="#L" n="21"/>veritatis hujus negatiuae, ergo illa non est primum verum, nec primum principium 
+      complex<lb ed="#L" n="22" break="no"/>orum. Item secundum Philosophum I. Post. 17. Demonstratio affirmatiua est dignior, 
+      <lb ed="#L" n="23"/>melior, &amp; nobilior, prior &amp; potior negatiua, &amp; propositio affirmatiua propositione negatiua 
+      <lb ed="#L" n="24"/>similiter, vt ibi dicit &amp; probat. Omnis enim negatiua per affirmatiuam probatur, &amp; 
+      cognos<lb ed="#L" n="25" break="no"/>citur, non e contra. Item sicut demonstratio affirmatiua ad negatiuam, sic propositio 
+      affir<lb ed="#L" n="26" break="no"/>matiua ad negatiuam; sed demonstratio affirmatiua praecellit negatiuae in conditionibus 
+      su<lb ed="#L" n="27" break="no"/>pradictis; quare &amp; propositio affirmatiua praecellit similiter negatiuae. Quod autem 
+      affirma<lb ed="#L" n="28" break="no"/>tiua probet negatiuam &amp; non e contra; patet ex libro Priorum de omnibus syllogismis. Et  
+      <lb ed="#L" n="29"/>quod negatiua cognoscitur per affirmatiuam, &amp; non e contra, sequitur ex ipso, &amp; patet 
+      simili<lb ed="#L" n="30" break="no"/>ter; quia priuatio cognnoscitur per habitum, &amp; non e contra, vt probat Philosophus 3. de 
+      <lb ed="#L" n="31"/>Anima 25. &amp; patet similiter in Comment. Vnde &amp; Auicenna 1. Metaph. 5. Esse notius est 
+      <lb ed="#L" n="32"/>quam non esse; Esse enim cognoscitur per se, non esse vero per esse. Quibus &amp; consentit 
+      Au<lb ed="#L" n="33" break="no"/>gustinus, 12. de Ciuit. Dei 7. dicens tenebras &amp; silentium esse nota, non sane in specie, sed in 
+      <lb ed="#L" n="34"/>speciei priuatione: Affirmatio autem est esse quodammodo &amp; habitus, vel haec importat; 
+      <lb ed="#L" n="35"/>Negatio vero non esse atque priuationem. Item omnis negatiua vera habet affirmatiuam 
+      ve<lb ed="#L" n="36" break="no"/>riorem priorem, quae sit causa illius, vt patet per Philosophum 2. peri hermenias vlt. sic 
+      di<lb ed="#L" n="37" break="no"/>centem, Si quod bonum est, &amp; bonum est, &amp; malum non est; hoc quidem secundum se, 
+      scili<lb ed="#L" n="38" break="no"/>cet est bonum, illud vero secundum accidens, scilicet non est malum: Accidit enim ei malum 
+      <lb ed="#L" n="39"/>non esse; magis haec in vnoquoque vera, quae secundum se est, &amp; etiam falsa; ergo haec 
+      bo<lb ed="#L" n="40" break="no"/>num est bonum, verior est &amp; prior, quam ista, bonum non est malum. Est etiam causa illius, 
+      <lb ed="#L" n="41"/>quia enim bonum est bonum, ideo non est malum, &amp; non e contra; quia non esse malum, 
+      pe<lb ed="#L" n="42" break="no"/>nitus nihil ponit, &amp; per consequens nihil causat. Primum ergo principium complexorum 
+      <lb ed="#L" n="43"/>nullatenus negatiuum, sed affirmatiuum firmiter arbitrandum. Ostenso igitur quale sit istud 
+      <lb ed="#L" n="44"/>principium, iam superest inuestigare vlterius quod sit illud, Vtrum videlicet sit Deum esse, an 
+      <lb ed="#L" n="45"/>Deum scire omnia vera, vel Deum velle omnia vera; quodlibet enim horum posset tale 
+      prin<lb ed="#L" n="46" break="no"/>cipium estimari: Nam sicut ex 9o huius apparet, voluntas Dei est prima &amp; summa causa 
+      om<lb ed="#L" n="47" break="no"/>nium, quare &amp; omnium veritatum; ergo Deum velle est primum principium complexorum. 
+      <lb ed="#L" n="48"/>Sed haec aestimo non est vera; Illud enim non est primum verum quo est aliud verum prius; sed 
+      <lb ed="#L" n="49"/>Deum velle habet aliud verum naturaliter prius eo, scilicet Deum cognoscere, quoniam Deus 
+      <lb ed="#L" n="50"/>naturaliter prius cognoscit quodlibet volutum quam velit illud. Omnis enim volutio est 
+      ne<lb ed="#L" n="51" break="no"/>cessario praecogniti, sicut tam Philosophis quam Theologis satis constat. Ideoque poterit 
+      ap<lb ed="#L" n="52" break="no"/>parere Deum cognoscere siue scire, esse principium iam quaesitum. Sed apparentia ista fallit; 
+      <lb ed="#L" n="53"/>Est enim aliud verum naturaliter prius isto, scilicet Deum esse, Deum esse cognitiuum, Deum  
+      <lb ed="#L" n="54"/>esse omnipotentem cum similibus suis, distinguendo &amp; multiplicando ista in Deo, &amp; secun¬ 
+      <!--234.xml-->
+      <pb ed="#A" n="201"/>
+               <lb ed="#L" n="1"/>dum prius &amp; posterius ordinando, non essentialiter omnino siue realiter, sed intellectualiter 
+      <lb ed="#L" n="2"/>aut imaginarie, sicut tam Philosophi quam Theologi solent loqui, sicut ab Aristotele in De 
+      <lb ed="#L" n="3"/>Mundo fuit superius allegatum. Et patet idem per eundem 12. Metaph. multis locis, &amp; per 
+      <lb ed="#L" n="4"/>Auerroem Commentar. 39. hoc idem plenius declarantem; quod etiam doctus Plato, 
+      A<lb ed="#L" n="5" break="no"/>uicenna, Algazel, &amp; Auicebrol testantur concorditer, sicut probant superius allegata. Sic 
+      e<lb ed="#L" n="6" break="no"/>tiam loquitur Apostolus ad Romanos I. cum dicit; Inuisibilia Dei a creatura mundi per ea, 
+      <lb ed="#L" n="7"/>quae facta sunt, intellecta conspiciuntur; sed sempiterna quoque eius virtus ac deitas; &amp; alibi 
+      <lb ed="#L" n="8"/>in sacra Scriptura creberrime. In libris quoque Augustini de Trinitate, &amp; alijs ac caeterorum 
+      <lb ed="#L" n="9"/>Sanctorum, omniumque Doctorum distinguuntur quodammodo, potentia, scientia, &amp; 
+      vo<lb ed="#L" n="10" break="no"/>luntas: Multa enim potest, &amp; scit, quae non vult. Idem patet de iustitia, gratia, &amp; 
+      miseri<lb ed="#L" n="11" break="no"/>cordia, &amp; multis similibus, omnibus satis notis. Vt autem istud principium possit facilius 
+      <lb ed="#L" n="12"/>inueniri, sciendum secundum Philosophum 2. Metaphysic. Quod licet Deus de se, &amp; apud 
+      <lb ed="#L" n="13"/>naturam existat notissimus, intellectus tamen animae nostrae sic se habet ad eum, sicut oculi 
+      <lb ed="#L" n="14"/>Nycticoracum ad lucem diei, scilicet ipsum Solem; &amp; hoc est aequaliter ex limositate 
+      corpo<lb ed="#L" n="15" break="no"/>ralis materiae oculos animae obumbrantis. Quamdiu igitur corpus quod corrumpitur, 
+      ag<lb ed="#L" n="16" break="no"/>grauat animam, &amp; terrena habitatio deprimit fensum plurima cogitantem, non potest homo 
+      <lb ed="#L" n="17"/>intelligere Deum perfecte sicuti est, ipsomet dicente Mosi deprecanti. Non poteris videre 
+      <lb ed="#L" n="18"/>faciem meam, non enim videbit homo, &amp; viuet, Exod. 33. Quare secundum Philosophum, 
+      <lb ed="#L" n="19"/>I. Physie, &amp; alibi; Innata est nobis via a notioribus nobis ad notiora naturae, quae sunt 
+      sim<lb ed="#L" n="20" break="no"/>pliciter notiora, a posterioribus scilicet ad priora, &amp; a causatis ad causas. Nomina igitur 
+      qui<lb ed="#L" n="21" break="no"/>bus Deum cognoscimus: non significant ipsum per se essentialiter, &amp; penitus absolute, 
+      quo<lb ed="#L" n="22" break="no"/>niam a creaturis, &amp; effectibus notioribus nobis transferuntur ad ipsum ignotiorem nobis, 
+      li<lb ed="#L" n="23" break="no"/>cet simpliciter notiorem. Ideoque dicit Philosophus in De Mundo vlt. Cumque sit vnus, 
+      <lb ed="#L" n="24"/>multinomius est nominatus ab omnibus passionibus quas innouat; Vocatur enim Iupiter. 
+      <lb ed="#L" n="25"/>Zima, filius Saturni, Enicus, fulmineus, pluuialis, tonitrualis, tempestuosus, serenus, &amp; in 
+      <lb ed="#L" n="26"/>summa loquendo, coelestis &amp; terrestris appellandus a qualibet natura, &amp; fortuna, velut ens 
+      <lb ed="#L" n="27"/>ipse omnium causa; cui &amp; concordant Hermes atque Dionysiis superius recitati. Vnde &amp; 
+      <lb ed="#L" n="28"/>Rabbi Mose de duce dubiorum, 58. Omnia nomina Creatoris quae inueniuntur in libris 
+      <lb ed="#L" n="29"/>sunt sumpta aboperibus, praeter vnum nomen quod est appropriarum ei, scilicet 
+      tetragram<lb ed="#L" n="30" break="no"/>maton, &amp; idcirco vocatur nomen separatum, quia significat sapientiam Creatoris 
+      significa<lb ed="#L" n="31" break="no"/>tione pura in quo non est participatio. Si igitur vt hic dicit, nomen Domini 
+      tetragramma<lb ed="#L" n="32" break="no"/>ton, vel quodlibet aliud significet Deum pure, subijciaturque verbo seu praedicato 
+      simpli<lb ed="#L" n="33" break="no"/>cissimo, siue purissimo dicto de Deo, propositio sic affirmans erit primum simpliciter ve 
+      <lb ed="#L" n="34"/>rorum omnium complexorum, &amp; principium primum intrinsecum totius generis 
+      com<lb ed="#L" n="35" break="no"/>plexorum. Si autem nullum nomen creatum, nec aliquid aliud ab vnico Dei Verbo, quod 
+      <lb ed="#L" n="36"/>est eius imago perfecta, significet eum pure, quod reputo magis probabile; ponatur quod 
+      <lb ed="#L" n="37"/>hoc nomen, Deus, quod est tetragrammaton, quatuor scilicet literarum, imponatur Deo 
+      <lb ed="#L" n="38"/>ab essentia eius pura, &amp; significet eum purissime, quo poterit comprehendi ab aliqua 
+      crea<lb ed="#L" n="39" break="no"/>tura, &amp; propositio coniungens simplicissime &amp; purissime verbum vel praedicatum 
+      purissi<lb ed="#L" n="40" break="no"/>mum cum isto subiecto, est principium iam quaesitum, scilicet Deus est, vel Deus est 
+      <lb ed="#L" n="41"/>Deus. Quod autem proprijssimum &amp; purissimum nomen Dei, ab eius pura essentia 
+      impo<lb ed="#L" n="42" break="no"/>natur, patet, ipsomet docente Moysem nomen eius scire volentem, dicendo; Ego sum qui  
+      <lb ed="#L" n="43"/>sum, Exod. tertio: quam autoritatem tractans Rabbi Mose, vbi prius 6I. vult quod hoc 
+      no<lb ed="#L" n="44" break="no"/>men maxime competat ipsi Deo, &amp; significat Necesse esse; &amp; supra 58. dicit: Quod nomen 
+      <lb ed="#L" n="45"/>Dei tetragrammaton, quod est Deo maxime proprium, fortassis significat super ratione 
+      <lb ed="#L" n="46"/>Necesse esse, quare nomen sumptum a pura eius essentia videtur sibi proprijssime conuenire. 
+      <lb ed="#L" n="47"/>Apparet ergo quod Deus est, vel Deus est Deus, sit primum principium complexorum, si 
+      <lb ed="#L" n="48"/>praedicatum &amp; verbum essentialissime, &amp; propriissime correspondenter significet vt 
+      subie<lb ed="#L" n="49" break="no"/>ctum. Sunt autem vera duplicia, superiora scilicet, &amp; inferiora; inferiora vera, sunt omnia 
+      <lb ed="#L" n="50"/>dicta de creabilibus, vel creaturis; &amp; vniuersaliter de quocunque quod non est Deus, vel 
+      <lb ed="#L" n="51"/>etiam de Deo per respectum ad aliud, vt Deus est Dominus omnium, vel Creator: Vera 
+      su<lb ed="#L" n="52" break="no"/>periora sunt, quae in solo Deo consistunt; vt, Deus est potens, sapiens, atque bonus. Horum 
+      <lb ed="#L" n="53"/>autem haec quidem sunt, quodammodo posteriora naturaliter, haec priora. Posterius enim 
+      <lb ed="#L" n="54"/>est Deum velle, quam cognoscere; &amp; cognoscere, quam esse: Esse enim naturaliter haec 
+      prae<lb ed="#L" n="55" break="no"/>cedit &amp; vniuersaliter omnia talia attributa. Quod licet de se satis appareat, potest tamen per 
+      <lb ed="#L" n="56"/>simile suaderi. Esse enim simpliciter in rebus creatis praecedit naturaliter omne esse earum  
+      <lb ed="#L" n="57"/>determinatum ad esse tale vel tale, dicente quarta propositione de causis, Prima rerum 
+      cre<lb ed="#L" n="58" break="no"/>atarum est esse, &amp; non est ante ipsum creatum aliquid; quare &amp; simili sic videtur // de om¬ 
+      <!--235.xml-->
+      <pb ed="#A" n="202"/>
+               <lb ed="#L" n="1"/>nium Creatore. Item per superius habita, Primum principium complexorum est 
+      affirma<lb ed="#L" n="2" break="no"/>tiuum, quid ergo possit aliud affirmare quam esse primum de ente primo, purissimum de 
+      <lb ed="#L" n="3"/>purissimo, &amp; simplicissimum de simplicissimo; quaelibet enim affirmatio alia posterior erit 
+      <lb ed="#L" n="4"/>tali. Videtur igitur Deum esse, vel Deum esse Deum, esse simpliciter primum principium 
+      <lb ed="#L" n="5"/>complexorum. Illud enim verum est principium ceterorum, quod naturaliter ipsa 
+      praece<lb ed="#L" n="6" break="no"/>dit. Unde &amp; Anselmus de veritate 10. Omnia summae veritati debent; ipsa vero nulli 
+      quic<lb ed="#L" n="7" break="no"/>quam debet, nec vlla ratione est quod est, nisi quia est. Hic forsan aliquis sic opponet, 
+      Il<lb ed="#L" n="8" break="no"/>lud non est primum verum quo est aliud verum prius; sed Deum esse, habet aliud verum 
+      pri<lb ed="#L" n="9" break="no"/>us, scilicet Deum posse esse; sequitur enim de quocunque, hoc est, ergo hoc potest esse, &amp; 
+      <lb ed="#L" n="10"/>non conuertitur; ergo per illam definitionem prioris notissimam, Deum posse esse, est prius 
+      <lb ed="#L" n="11"/>naturaliter quam / hunc esse. Haec autem argutia peccat in materia: Prius enim est Deum  
+      <lb ed="#L" n="12"/>esse, quam posse esse, quod videtur mirabile, sed est verum: Omne enim possibile seu 
+      po<lb ed="#L" n="13" break="no"/>tens esse aliqua potentia existente priore est tale; Deus autem non est potens esse per aliquam  
+      <lb ed="#L" n="14"/>potentiam alienam, Non enim indiget vllo tali, nec per potentiam aliam praecedentem, 
+      <lb ed="#L" n="15"/>cum nulla sit talis: est ergo Deus potens seu possibile esse per potentiam propriam sibi 
+      actua<lb ed="#L" n="16" break="no"/>liter inhaerentem; Potentia autem possibilitas seu potestas est vnum attributum diuinum, 
+      pri<lb ed="#L" n="17" break="no"/>us ergo naturaliter est illud cui attribuitur &amp; inhaeret, scilicet essentia pura Dei; quare &amp; Deum 
+      <lb ed="#L" n="18"/>esse videtur prius naturaliter, quam Deum posse esse, sicut ibi potest prioritas assignati. Hoc 
+      <lb ed="#L" n="19"/>autem totum ex primo huius apparet. Causa autem quare magis apparet contrarium, est 
+      <lb ed="#L" n="20"/>quia ita est in omnibus alijs citra Deum, a quibus sicut superius dicebatur, assurgimus ad 
+      cog<lb ed="#L" n="21" break="no"/>nitionem Dei, iudicantes sic esse in omnium Creatore, sicut est in omnibus creaturis. In his 
+      <lb ed="#L" n="22"/>enim omnibus posse esse praecedit actualiter esse; Totus enim mundus prius potuit esse quam  
+      <lb ed="#L" n="23"/>esset, &amp; cum non ens nullam potentiam habeat, mundus quando non fuit, non fuit possibile 
+      <lb ed="#L" n="24"/>esse per potentiam propriam, sed diuinam; Vnde Anselmus de Casu diaboli 12. quod nihil est 
+      <lb ed="#L" n="25"/>omnino nihil habet, &amp; ideo nullam habet potestatem, &amp; sine potestate omnino nihil potest, &amp;  
+      <lb ed="#L" n="26"/>mundus antequam fieret nihil erat; ergo omnino nihil antequam esset, potuit; non potuit 
+      er<lb ed="#L" n="27" break="no"/>go esse, antequam esset; quare antequam esset possibile, &amp; impossibile fuit eum esse; ei quidem  
+      <lb ed="#L" n="28"/>in cuius potestate non erat, vt esset, erat impossibile; sed Deo in cuius potestate erat, vt fieret, 
+      <lb ed="#L" n="29"/>erat possibile: quia ergo Deus prius potuit facere mundum, quam fieret, ideo est mundus, non 
+      <lb ed="#L" n="30"/>quia mundus potuit prius esse. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

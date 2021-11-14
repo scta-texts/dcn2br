@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 29</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 29</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="267"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e36437"><!-- l1c29 -->
+            <head xml:id="dcn2br-e36437-Hd1e106">Caput 29</head>
+            <p xml:id="dcn2br-e36437-d1e109">
+               <lb ed="#L" n="34"/>CAP. XXIX. 
+      <lb ed="#L" n="35"/>De Casu &amp; Fortuna. 
+      </p>
+            <p xml:id="dcn2br-e36437-d1e116">
+               <lb ed="#L" n="36"/>PErtinens autem dictis videtur simili modo inquirere de Casu &amp; 
+      Fortu<lb ed="#L" n="37" break="no"/>na. Multi enim haec concedunt, &amp; multi similiter ipsa negant. 
+      Demo<lb ed="#L" n="38" break="no"/>critus namque &amp; Epicurus &amp; eorum sequaces, nedum ista concedunt, 
+      <lb ed="#L" n="39"/>verum etiam nimiam eis tribuunt dignitatem, dicentes casualiter seu 
+      <lb ed="#L" n="40"/>fortuito fieri vniuersa, sicut ex 27o huius patet. Vnde &amp; antiquus ille 
+      <lb ed="#L" n="41"/>Salustius; Profecto, inquit, fortuna in omni re dominatur. Ista quoque 
+      <lb ed="#L" n="42"/>concedunt quasi omnes Philosophi, Poetae, &amp; vulgus. Aristoteles haec 
+      <lb ed="#L" n="43"/>concedit 2. Phys. diffuse, &amp; in libro suo de bona fortuna, &amp; alibi 
+      mul<lb ed="#L" n="44" break="no"/>tis locis, Auicenna quoque, Algazel, Auerroes, &amp; Boetius haec concedunt. Ouidius etiam de 
+      <lb ed="#L" n="45"/>Arte amandi; Casus vbique valet, semper tibi pendeat hamus, Quo minime credis gurgite piscis erit. 
+      <lb ed="#L" n="46"/>Idem de Ponto, Omnia sunt hominum tenui pendentia filo; Et subito casu, quae valuere, ruunt. 
+      <lb ed="#L" n="47"/>Alia quoque multa satis sunt talia de Poetis. Vulgus similiter ista ponit, quod monstrant 
+      ad<lb ed="#L" n="48" break="no"/>uerbia dubitandi, quae quasi in omni sermocinatione creberrime sunt adiecta. Literae 
+      quo<lb ed="#L" n="49" break="no"/>que sacrae de casu non tacent. Unde 2. Reg. 1. Casu veni in montem Gilboae; &amp; 3. Reg. 
+      <lb ed="#L" n="50"/>vlt. Vir quidam in incertum sagittam dirigens casu percussit Regem Israel: Et Ecclesiae 
+      <lb ed="#L" n="51"/>stis 9. Vidi nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec 
+      Do<lb ed="#L" n="52" break="no"/>ctorum diuitias, nec artificum gratiam, sed tempus casumque in omnibus. Veteres quoque 
+      <lb ed="#L" n="53"/>Gentiles, specialiter autem Aegyptij &amp; Romani Fortunam pro Dea colebant, sicut historiae 
+      <lb ed="#L" n="54"/>multae tradunt, quam &amp; aliqui Iudaeorum auersi a Domino aliquoties coluerunt: De 
+      qui<lb ed="#L" n="55" break="no"/>bus Esaiae 65. Vos qui reliquistis Dominum, qui ponitis Fortunae mensam &amp;c. numerabo 
+      <lb ed="#L" n="56"/>vos in gladio. Quoties etiam in Sacra Scriptura ponuntur aduerbia dubitandi, quae omnia 
+      <!--301.xml-->
+      <pb ed="#A" n="268"/>
+               <lb ed="#L" n="1"/>fortunae conuenire videntur. His autem e contrario Stoici Casum &amp; Fortunam penitus 
+      ab<lb ed="#L" n="2" break="no"/>negant, affirmantes omnia fato geri prouidentiaque, diuina; quibus et consentiunt quidam 
+      <lb ed="#L" n="3"/>Antiqui Fortunam &amp; Casum similiter destruentes, quoniam est inferre vnumquodque eorum 
+      <lb ed="#L" n="4"/>quae fiunt in aliquam causam determinatam &amp; certam, sicut Philosophus 2. Phys. 42. 
+      bre<lb ed="#L" n="5" break="no"/>uiter memoratur: His &amp; videntur quidam Doctores Catholici consentire. Vt igitur isti 
+      <lb ed="#L" n="6"/>quasi in extremis contrarij ad medium concordiae reducantur, sciendum, quod omnes qui 
+      lo<lb ed="#L" n="7" break="no"/>quuntur de Casu, &amp; Fortuna, dicunt haec esse, quando aliquid accidit praeter intentionem 
+      a<lb ed="#L" n="8" break="no"/>gentis, vt patet per praedictos Autores, &amp; per communem conceptum omnium de ipsis 
+      lo<lb ed="#L" n="9" break="no"/>quentium. Aliquid ergo contingere praeter intentionem agentis potest dupliciter cogitari; 
+      <lb ed="#L" n="10"/>vel preter intentionem cuiuslibet agentis omnino, ita quod a nullo simpliciter intendatur, vel 
+      <lb ed="#L" n="11"/>praeter intentionem alicuius causae particularis, vel cuiuslibet causae inferioris: Primum potest. 
+      <lb ed="#L" n="12"/>gocari simpliciter casuale aut fortuitum; Secundum vero secundum quid; Nihil igitur est 
+      <lb ed="#L" n="13"/>simpliciter casuale, neque fortuitum, sed secundum quid tantum, sicque tollitur repugnantia 
+      <lb ed="#L" n="14"/>supra dicta. Quod autem nihil sit casuale simpliciter neque fortuitum, ostenditur isto 
+      modo<lb ed="#L" n="15" break="no"/>Nihil quod sit a proposito, &amp; ex intentione agentis, est simpliciter casuale aut fortuitum: sed 
+      <lb ed="#L" n="16"/>omne quod fit, sit a proposito, &amp; ex intentione agentis: Istud autem agens putatur ab 
+      Astro<lb ed="#L" n="17" break="no"/>logis esse coelum, seu virtus coelestis, quae omnia etiam quae videntur esse fortuita, certa 
+      rati<lb ed="#L" n="18" break="no"/>one, &amp; determinata causatione producit. Quare &amp; quosdam planetas fortunatos, imo &amp; 
+      for<lb ed="#L" n="19" break="no"/>tunas appellant, puta Solem &amp; Lunam: pars quoque fortunae in Natiuitatibus, in 
+      inceptioni<lb ed="#L" n="20" break="no"/>bus operum, &amp; in omnibus rebus humanis valere quam maxime aestimatur: quare &amp; 
+      excel<lb ed="#L" n="21" break="no"/>lentissima omnium partium reputatur. Hinc &amp; decimam domum essentialem assignant. Haec 
+      <lb ed="#L" n="22"/>autem a die accipitur a Sole in Lunam, in nocte vero e contra, &amp; proijcitur abascendente. 
+      <lb ed="#L" n="23"/>De qua &amp; Albumazar 8. maioris Introductorij, differentia 3a. scribit ita; Proprietas 
+      significa<lb ed="#L" n="24" break="no"/>tionis eius est significare animam &amp; fortunam, illius atque eius virtutes, &amp; significat vitam 
+      <lb ed="#L" n="25"/>&amp; corpora, &amp; substantiam ac profectum, &amp; fortunam, ditationem quoque ac paupertatem, 
+      au<lb ed="#L" n="26" break="no"/>rum &amp; argentum, vtilitatemque &amp; grauitatem, fori laudem, &amp; bonam famam, &amp; sublimitatem 
+      <lb ed="#L" n="27"/>nati, &amp; regni, atque principatus; &amp; significat diuites, &amp; honorem, sublimitatem quoque, &amp; 
+      bo<lb ed="#L" n="28" break="no"/>num ac malum, praesentem quoque &amp; absentem, apparentem, atque occultum, significat quoque 
+      <lb ed="#L" n="29"/>intentionem &amp; initium operum &amp; rerum, &amp; haec pars praeponitur omnibus partibus, 
+      quemad<lb ed="#L" n="30" break="no"/>modum praeponitur Sol per splendorem omnibus planetis, &amp; ipsa est sublimior &amp; pretiosior 
+      <lb ed="#L" n="31"/>omnibus partibus. Et hinc est fortassis quod bona huiusmodi apud multos, etiam apud 
+      Phi<lb ed="#L" n="32" break="no"/>losophos, bona fortunae creberrime nuncupantur. Alij autem videlicet Antiqui Gentiles 
+      pu<lb ed="#L" n="33" break="no"/>tabant esse vnam Deam distribuentem, aut subtrahentem omnia bona huiusmodi pro libito 
+      <lb ed="#L" n="34"/>voluntatis absque aliqua ratione; quare &amp; depinxerant ipsam caecam, ipsamque fortunam 
+      dice<lb ed="#L" n="35" break="no"/>bant. Sed hi ambo per proximo huius praemissa &amp; superiora capitula refelluntur, praesertim 
+      <lb ed="#L" n="36"/>si Astrologi ponant actus humanos de necessitate subesse virtuti caelesti, aut ipsam quicquam  
+      <lb ed="#L" n="37"/>penitus agere sine Deo idem specialiter intendente, &amp; similiter faciente. Quod est igitur 
+      il<lb ed="#L" n="38" break="no"/>lud agens, quod ex certa intentione, &amp; determinato proposito cuncta facit, &amp; efficit omnia, 
+      <lb ed="#L" n="39"/>nisi Deus, qui est omnium agentium primum agens, &amp; omnia facit secundum propositum &amp; 
+      <lb ed="#L" n="40"/>intentionem propriae voluntatis, sicut 28. &amp; 27. huius monstrant? Item Casus, &amp; Fortuna 
+      <lb ed="#L" n="41"/>sunt causae per accidens, vt patet 2. Phys. &amp; omnis causa per accidens reducitur ad aliquam  
+      <lb ed="#L" n="42"/>causam per se, sicut secundum huius ostendit, &amp; omnis causa per se ad Deum; Deus ergo est 
+      <lb ed="#L" n="43"/>prima causa istorum, &amp; non temere &amp; necessario, sed secundum suae propositum voluntatis 
+      <lb ed="#L" n="44"/>Sed ne in ista sententia videat singularis, ecce multi Philosophi, &amp; Theologi sententiam hanc 
+      <lb ed="#L" n="45"/>tenentes. Aristoteles enim 2. Phys. inter opiniones recitatas de Casu &amp; Fortuna, ostendit 
+      quo<lb ed="#L" n="46" break="no"/>modo illa opinio habeat veritatem, quae ponit nihil fieri a Fortuna, dicens quod Fortuna est, 
+      <lb ed="#L" n="47"/>causa nullius simpliciter, sed tantum per accidens sub his verbis; Et vt nihil a Fortuna 
+      vide<lb ed="#L" n="48" break="no"/>bitur vtique fieri. Omnia quidem enim haec recte dicunt, quoniam rationabiliter est quidem  
+      <lb ed="#L" n="49"/>enim vt sit a Fortuna; secundum accidens enim fit, &amp; est causa, vt accidens Fortuna, vt autem 
+      <lb ed="#L" n="50"/>simpliciter nullius; vt domus aedificator quidem causa est, secundum accidens autem 
+      tibicen<lb ed="#L" n="51" break="no"/>Quod autem omnis Fortuna reducatur ad Deum, patet per eundem in De mundo; vlt. 
+      osten<lb ed="#L" n="52" break="no"/>dentem, quomodo, cum sit vnus, est tamen multinomius, ab omnibus passionibus quas 
+      inuo<lb ed="#L" n="53" break="no"/>uat, sicut inductiue declarat, &amp; in fine sic ait, &amp; in summa loquendo, coelestis &amp; terrestris 
+      ap<lb ed="#L" n="54" break="no"/>pellandus, &amp; a qualibet Natura &amp; Fortuna, velut ens ipse omnium causa. Et infra dicit, Deum  
+      <lb ed="#L" n="55"/>vocari heimarmenen eo quod copulat &amp; disiungit, &amp; Nemesin a distributione vnicuique facta. 
+      <lb ed="#L" n="56"/>quae videntur conuenire Fortunae. Vnde &amp; Damascenus 39. Sentent. exponit heimarmenen 
+      <lb ed="#L" n="57"/>per Fortunam. Hoc autem probat expressius in libro suo de bona Fortuna, vbi recitat 5. 
+      opi<lb ed="#L" n="58" break="no"/>niones de ipsa, scilicet quod sit a Deo, a Natura, a rerum euentu, a ratiore, &amp; ab appetitu, 
+      <!--302.xml-->
+      <pb ed="#A" n="269"/>
+               <lb ed="#L" n="1"/>circa quas disputatiue procedit. Et cap. 2. reprobat duas vltimas opiniones; Primo, illam de 
+      <lb ed="#L" n="2"/>appetitu, quoniam illius est appetitis aliqua causa, illa vel est natura vel fortuna: si natura, 
+      er<lb ed="#L" n="3" break="no"/>go magis dicitur natura causa illius quam fortuna, &amp; talis magis dicereturbene naturatus, 
+      <lb ed="#L" n="4"/>quam bene fortunatus: si fortuna sit causa illius, tum fortuna erit causa omnium actuum 
+      <lb ed="#L" n="5"/>humanorum, cum sit causa eius quod sit intelligere &amp; consiliari; &amp; addit arguendo; Non 
+      <lb ed="#L" n="6"/>enim consiliabatur consilians antequam consiliaretur, sed est principium quoddam, neque 
+      <lb ed="#L" n="7"/>intellexit intelligens priusquam intelligeret, &amp; hoc in infinitum. Non igitur eius, quod est 
+      <lb ed="#L" n="8"/>intelligere, intellectus est principium, neque consiliandi consilium. Quid igitur aliud quam 
+      <lb ed="#L" n="9"/>fortuna? Itaque a fortuna omnia sunt; &amp; respondet, dicens; Aut est aliquod principium 
+      <lb ed="#L" n="10"/>cuius non est aliud extra ipsum, aut quia tale secundum esse, tale potest facere; quod autem 
+      <lb ed="#L" n="11"/>quaeritur, hoc est: Quid motus principium in anima? Palam, quemadmodum in toto, Deus; 
+      <lb ed="#L" n="12"/>Mouet enim aliquo modo omnia quae in nobis diuinum; Rationis autem principium, non 
+      <lb ed="#L" n="13"/>ratio, sed aliquid melius: quid igitur erit melius &amp; scientia &amp; intellectu, nisi Deus? 
+      Vir<lb ed="#L" n="14" break="no"/>tus enim intellectus organum. Et propter hoc quod olim dicebantur, bene fortunati 
+      vo<lb ed="#L" n="15" break="no"/>cantur, qui si imperum faciunt, dirigunt sine ratione existentes, &amp; consiliari non expedit 
+      <lb ed="#L" n="16"/>ipsis; habent enim principium tale quod melius intellectu &amp; consilio; qui autem rationem,  
+      <lb ed="#L" n="17"/>hoc non habent, neque diuinos instinctus. Et capite primo dicit, In Anima inest natura tale, 
+      <lb ed="#L" n="18"/>quo impetu ferimur sine ratione: ad quae vtique bene habebimus. Et si quis interroget sic 
+      <lb ed="#L" n="19"/>habentem, propter quid hoc placet sibi operari? Nescio, inquit, sed placet mihi, simile 
+      <lb ed="#L" n="20"/>patiens his quae a Deo aguntur. Etenim a Deo vecti, sine ratione impetum habent ad 
+      ope<lb ed="#L" n="21" break="no"/>rari aliquid: qui &amp; secundo Rhetoricorum, vicesimo tertio, agens de bonis Fortunae, &amp;  
+      <lb ed="#L" n="22"/>bene fortunatis, sic ait; Magis impraemeditatiui propter bonam fortunam sunt: Vnus 
+      au<lb ed="#L" n="23" break="no"/>tem asseritur mos optimus bonae fortunae, qui amatores Dei sunt, &amp; habent se ad 
+      diui<lb ed="#L" n="24" break="no"/>num aliqualiter credentes propter facta bona a Fortuna, sed quare hoc, nisi Deus esset 
+      <lb ed="#L" n="25"/>Autor Fortunae? Qui &amp; decimo Ethicorum, decimoquarto, recitat triplicem opinionem, 
+      <lb ed="#L" n="26"/>quomodo homines fiunt boni, sic dicens; Fieri autem bonos existimant hi quidem natura, 
+      <lb ed="#L" n="27"/>hi autem consuetudine, hi autem doctrina; &amp; determinans veritatem primae opinionis, sic 
+      <lb ed="#L" n="28"/>dicit; Quod quidem igitur naturae, manifestum, quod non in nobis existit, sed per aliquam 
+      <lb ed="#L" n="29"/>diuinam causam, vt vere bene fortunatis existit: super quod dicit Auerroes; Quidam 
+      ho<lb ed="#L" n="30" break="no"/>minum putantur esse boni per naturam: &amp; quod de hoc est per naturam, non est a nobis, 
+      <lb ed="#L" n="31"/>sed per gratiam quandam diuinam illis, quorum fortuna bona est veraciter. Item Auicenna 
+      <lb ed="#L" n="32"/>decimo Metaphysicorum, primo, dicit; Principium omnium vtilitatum est ex cura diuina, 
+      <lb ed="#L" n="33"/>&amp; scias quod plus appropinquat vulgus &amp; tenet, &amp; dicit; Verum est, nec refugiunt hoc, nisi 
+      <lb ed="#L" n="34"/>qui volunt videri Philosophi, eo quod ignorant causas &amp; occasiones istorum. Et loquens 
+      <lb ed="#L" n="35"/>de aduersitatibus, &amp; prosperitatibus, eleemosynis, &amp; peccatis, &amp; similibus, ita dicit; 
+      Cau<lb ed="#L" n="36" break="no"/>sa istorum omnium non est hic, sed illinc: Ptincipia autem horum omnium proueniunt ad 
+      <lb ed="#L" n="37"/>naturam, voluntatem, vel casum: Naturae vero principium est illic; sed voluntates nostrae 
+      <lb ed="#L" n="38"/>sunt postquam non fuerunt; quicquid autem est, postquam non fuit, causam habet; ergo 
+      <lb ed="#L" n="39"/>omnis nostra voluntas causam habet; causa autem huius voluntatis non intendit ad infinitum, 
+      <lb ed="#L" n="40"/>sed ad aliqua quae accidunt extrinsecus, terrena scilicet vel coelestia; sed terrena perueniunt 
+      <lb ed="#L" n="41"/>ad coelestia. Collectio igitur horum omnium prouenit necessario ex necessitate diuinae 
+      <lb ed="#L" n="42"/>voluntatis; casus autem sit ex concursu horum omnium. Cum enim resolueris omnia, 
+      re<lb ed="#L" n="43" break="no"/>ducentur ad ea, quorum necessitas solummodo a Deo omnipotente dependet, iudicium 
+      <lb ed="#L" n="44"/>autem Dei est prima positio simplex. Hoc etiam innuit Boetius in Expositione primi 
+      <lb ed="#L" n="45"/>peri hermenias, vbi prius; vbi distincto triplici animali, scilicet, subiecto naturae, 
+      Coe<lb ed="#L" n="46" break="no"/>lo, ac rationi cum libero voluntatis arbitrio, declaratisque duabus prioribus speciebus: 
+      <lb ed="#L" n="47"/>de tertia, ita dicit: Quae nos sumus cuncti diuinae prouidentiae subiecti; ex ipsa quoque 
+      <lb ed="#L" n="48"/>Diuorum voluntate pendemus. Itaque nec coelestium necessitas tota subruitur, nec 
+      ca<lb ed="#L" n="49" break="no"/>sum disputatio haec de rebus eliminat; per quod innuit, vt videtur, quod in rebus sit 
+      <lb ed="#L" n="50"/>casus respectu causarum particularium &amp; inferiorum, non autem respectu diuinae 
+      pro<lb ed="#L" n="51" break="no"/>uidentiae, &amp; voluntatis, quibus in cunctis subijcimur, &amp; a quibus in omnibus 
+      depende<lb ed="#L" n="52" break="no"/>mus. Quod &amp; quinto de Consolatione Philosophiae, prosa prima, diffusius &amp; expressius 
+      <lb ed="#L" n="53"/>manifestat: siquidem, inquit, aliquis euentum temerario motu, nullaque causarum 
+      connexi<lb ed="#L" n="54" break="no"/>one productum esse casum definiat, nihil omnino casum esse confirmo. Ecce quod nihil est 
+      <lb ed="#L" n="55"/>simpliciter casuale, quia non praeter intentionem Dei, quod litera sequens ostendit: Quis 
+      <lb ed="#L" n="56"/>enim coercente in ordinem cuncta Deo, locus esse vllus temeritati reliquus potest? Et recitata 
+      <lb ed="#L" n="57"/>definitione Aristotelis de Casu, &amp; posito exemplo de fodiente humum causa colendi agrum, 
+      <lb ed="#L" n="58"/>inueniente thesaurum absconditum, dicit, Fossio humi &amp; absconsio thesauri sunt fortuito 
+      <!--303.xml-->
+      <pb ed="#A" n="270"/>
+               <lb ed="#L" n="1"/>causae compendij, id est, Casus, quod ex obuijs sibi, &amp; confluentibus causis, non ex 
+      ge<lb ed="#L" n="2" break="no"/>rentis intentione prouenit, neque vel qui aurum obruit, vel qui agrum exercuit, vt 
+      capecu<lb ed="#L" n="3" break="no"/>nia reperiretur intendit. Pater igitur secundum eum, quod nihil dicatur simpliciter casuale. 
+      <lb ed="#L" n="4"/>sed tantum respectu alicuius causae particularis, seu respectu inferiorum causarum, quod &amp; 
+      <lb ed="#L" n="5"/>verba eius sequentia plenius manifestant, cum dicit; Liquet igitur definire Casum esse 
+      ino<lb ed="#L" n="6" break="no"/>pinatum ex confluentibus causis, in his quae ob aliud geruntur, euentum; Concurrere autem 
+      <lb ed="#L" n="7"/>atque confluere causas facit ordo ille ineuitabili connexione procedens, qui de prouidentiae 
+      <lb ed="#L" n="8"/>fonte descendens cuncta suis temporibus locisque disponit, quod &amp; metrum sequens 
+      exem<lb ed="#L" n="9" break="no"/>plariter manifestat. Haec etiam plane videtur sententia Augustini I. Retract. 1. dicentis, 
+      <lb ed="#L" n="10"/>Non mihi placet toties me appellare fortunam, quamuis non aliquam Deam voluerim hoc 
+      <lb ed="#L" n="11"/>nomine intelligi, sed fortuitum rerum euentum vel in corporis nostri, vel in externis bonis 
+      <lb ed="#L" n="12"/>aut malis; vnde &amp; illa verba sunt, quae nulla religio dicere prohibet, forte, forsan, forsitan, 
+      <lb ed="#L" n="13"/>fortassis, fortasse, fortuitu, quod tamen totum reuocandum est ad diuinam prouidentiam, 
+      <lb ed="#L" n="14"/>Hoc etiam ibi non tacui, dicens; Etenim fortasse quae vulgo Fortuna nominatur, occulto 
+      <lb ed="#L" n="15"/>quodam ordine regitur; Nihilque aliud in rebus casum vocamus, nisi cuius ratio &amp; causa 
+      <lb ed="#L" n="16"/>secreta, seu in occulto est. Dixi quidem hoc, veruntamen poenitet me sic illic nominasse 
+      <lb ed="#L" n="17"/>Fortunam, cum videam homines habere in pessima consuetudine, vt vbi dici debet, hoc 
+      <lb ed="#L" n="18"/>Deus voluit dicere, hoc voluit Fortuna. Idem g3. quaest. 24. Quicquid casu sit, temere fit; 
+      <lb ed="#L" n="19"/>quod temere fit, prouidentia non sit: si ergo casu aliqua fiunt in mundo, non prouidentia 
+      v<lb ed="#L" n="20" break="no"/>niuersus mundus administratur: Nihil ergo casu sit in mundo. Idem 5. de Ciuit. Dei 9. 
+      <lb ed="#L" n="21"/>Nos. eas causas quae dicuntur fortuitae Cvnde &amp; Fortuna nomen accepit) non esse dicimus 
+      <lb ed="#L" n="22"/>nullas, sed latentes, easque tribuimus, vel Dei veri, vel quorumlibet spirituum voluntati. Idem  
+      <lb ed="#L" n="23"/>super illud Psalmi 9. Confitebor tibi Domine in toto corde meo, Non in toto corde 
+      confite<lb ed="#L" n="24" break="no"/>tur Deo, qui de prouidentia eius in aliquo dubitat. Omnes cruciatus qui corporaliter 
+      infe<lb ed="#L" n="25" break="no"/>runtur, aut exercent conuersos ad Deum, aut vt conuertantur admonent, aut iustae 
+      damna<lb ed="#L" n="26" break="no"/>tioni vltimae praeparant obduratos, &amp; sic omnia ad diuinae prouidentiae regimen referuntur. 
+      <lb ed="#L" n="27"/>quae stulti casu, &amp; temere, &amp; nulla diuina administratione fieri putant. Idem quoque super 
+      il<lb ed="#L" n="28" break="no"/>lud Psalmi 148. Ignis, grando, nix, &amp;c. quae faciunt verbum eius; Quare addidit, quae faciunt 
+      <lb ed="#L" n="29"/>verbum eius? Multi non volentes contemplari &amp; discernere creaturam locis suis, &amp; ordine 
+      <lb ed="#L" n="30"/>suo sub nutu &amp; iussu Dei agentem motus suos, visum est illis, quia superiora omnia Deus 
+      gu<lb ed="#L" n="31" break="no"/>bernat, sed inferiora non curat, non gubernat, non regit, sed casui dimittuntur. Sed non  
+      <lb ed="#L" n="32"/>cosentias istis; blasphema enim sunt &amp; execrabilia Deo, quia totum prouidentia Dei sit in 
+      <lb ed="#L" n="33"/>terra. Omnibus itaque locis, regionibus, temporalibus, sua quaeque distribuit &amp; ordinat. 
+      <lb ed="#L" n="34"/>Longum est commemorare diligentiorem considerationem omnium rerum; quis illam 
+      ex<lb ed="#L" n="35" break="no"/>plicat? tamen qui oculos habent, vident visa quae placent &amp; laudantur, non tamen ipsa, sed 
+      <lb ed="#L" n="36"/>ipse qui fecit: ita omnia laudabunt; haec ergo quae videntur casibus agitari, faciunt verbum 
+      e<lb ed="#L" n="37" break="no"/>ius, &amp; in omni motu suo seruiunt verbo Dei. Hoc idem apparet per Apostolum ad Eph. 1. di 
+      <lb ed="#L" n="38"/>centem; Nos forte vocati sumus; Quid enim est sors nisi fors, fortuna, vel casus? Haec 
+      au<lb ed="#L" n="39" break="no"/>tem fors est diuina electio &amp; voluntas, vt patet ibi per glossam, &amp; per Augustinum super illud 
+      <lb ed="#L" n="40"/>Psalmi 30i. In manibus tuis fortes meae, tractatu tertio sic dicentem: Sors dicitur Dei 
+      gra<lb ed="#L" n="41" break="no"/>tia, qua salui facti sumus, quae bene dicitur sors, quia hominis non est electio, sed 
+      volun<lb ed="#L" n="42" break="no"/>tatis Dei, quia nulla nostra merita inuenit, sed forte voluntatis suae nos ad salutem vocauit,  
+      <lb ed="#L" n="43"/>quia voluit, non quia digni fuimus, non ex operibus ne forte quis extollatur: Ipsius enim 
+      <lb ed="#L" n="44"/>sumus figmentum creati in Christo Iesu in operibus bonis. Haec quodammodo fors occulta 
+      <lb ed="#L" n="45"/>est; voluntas Dei in humano genere fors est; fors veniens de Dei occulta voluntate, apud quem  
+      <lb ed="#L" n="46"/>non est iniquitas; Non enim ille personas accipit, sed occulta illius iustitia tibi sors est. Quid 
+      e<lb ed="#L" n="47" break="no"/>tiam magis casuale aut fortuitum quam fors, fortiumque euentus, qui tamem voluntate diuina 
+      cog<lb ed="#L" n="48" break="no"/>noscitur moderari, sicut euidenter ostendi? vtriusque series testamenti. Quare &amp; Apostoli in 
+      lo<lb ed="#L" n="49" break="no"/>cum Iudae Apostatae alterum electuri dantes fortes dixerunt, Tu Domine ostende quem 
+      ele<lb ed="#L" n="50" break="no"/>geris. Vnde &amp; Parab. 16. Sortes in sinum mittuntur, sed a Domino temperantur. 
+      Quaprop<lb ed="#L" n="51" break="no"/>ter &amp; Augustinus super illud Psalmi 30i. vbi prius, sic ait, Non in manibus hominum, sed in 
+      <lb ed="#L" n="52"/>manibus tuis, quae sunt istae fortes? quare fortes? Audito nomine fortium non debemus 
+      Sorti<lb ed="#L" n="53" break="no"/>legos quaerere: Sors enim non aliquid mali est, sed res est in dubitatione humana diuinam 
+      in<lb ed="#L" n="54" break="no"/>dicans voluntatem: Nam &amp; fortes miserunt Apostoli. Istud etiam recitatur in Canone 26. 
+      <lb ed="#L" n="55"/>quaestione 2. Sors non est. Amplius autem pro casu &amp; fortuna plenius indagandis, videtur 
+      <lb ed="#L" n="56"/>quod vtrumque sumatur actiue &amp; passiue, secundum efficientiam, d secundum effectum; 
+      <lb ed="#L" n="57"/>secundum causam, d&amp; secundum causatum, sicut &amp; de Fato superius dicebatur. Actiue 
+      se<lb ed="#L" n="58" break="no"/>cundum efficientiam &amp; causam loquitur de eis Philosophus 2. Phys. definiens vtrumque, 
+      <!--304.xml-->
+      <pb ed="#A" n="271"/>
+               <lb ed="#L" n="1"/>quod est Causa secundum accidens, &amp;c. ibi scripta; quod &amp; patet specialiter de Fortuna per 
+      <lb ed="#L" n="2"/>hic praemissa. Quod vero casus accipiatur passiue, secundum effectum &amp; causatum, etiam 
+      no<lb ed="#L" n="3" break="no"/>men suum indicare videtur: Casus enim apparet significare passiue: Quid enim est casus nisi 
+      <lb ed="#L" n="4"/>quod cadit ab alio, sicut effectus a causa? quare &amp; comuniter dicimus, Mirabilis casus accidit,  
+      <lb ed="#L" n="5"/>neu contigit tali viro. Quapropter &amp; definitio casus a Boetio recensita, dicit Casum esse 
+      inopi<lb ed="#L" n="6" break="no"/>natum ex confluentibus causis, in his quae ob aliud geruntur, euentum; Cui &amp; concorditer 
+      <lb ed="#L" n="7"/>Augustinus superius recitatus; Nihil, inquit, aliud in rebus casum vocamus, nisi cuius ratio, 
+      <lb ed="#L" n="8"/>&amp; causa secreta seu in occulto est. Casus autem actiue secundum efficientiam &amp; causam 
+      acce<lb ed="#L" n="9" break="no"/>ptus potius, vt videtur, casuatio seu casuantia diceretur. Quod etiam fortuna sumatur passiue, 
+      <lb ed="#L" n="10"/>&amp; secundum effectum &amp; causatum, videtur similiter ex consueto modo loquendi; Dicimus 
+      e<lb ed="#L" n="11" break="no"/>nim communiter mirabilis fortuna prospera vel aduersa accidit tali viro, volentes dicere quod 
+      <lb ed="#L" n="12"/>aliquod enfortunium vel infortunium ipsi acciderit. Vnde &amp; Philos. 1. Ethic. ostendens quod 
+      <lb ed="#L" n="13"/>foelicitas non consistit in bonis fortunae, quia ipsa permanens, &amp; nequaquam facile 
+      transmuta<lb ed="#L" n="14" break="no"/>bilis, fortuna autem contrarie; 15o dicit fortunam multoties recirculari circa eosdem, 
+      recir<lb ed="#L" n="15" break="no"/>culari, inquit, passiue: Et infra 160. loquens de Foelice, cui contingunt prospera vel aduersa; 
+      <lb ed="#L" n="16"/>Vt, inquit, vere bonum &amp; sapientem omnes existimamus, fortunas decenter ferre. Quare &amp; 
+      <lb ed="#L" n="17"/>Augustinus superius recitatus, dicit quod nomine fortunae noluit intelligere aliquam deam, 
+      <lb ed="#L" n="18"/>sed fortuitum rerum euentum. Adhuc autem consideratis superioribus diligenter videtur; 
+      <lb ed="#L" n="19"/>quod fortuna actiue secundum efficientiam &amp; causam accepta, posset vlterius subdistingui. 
+      Po<lb ed="#L" n="20" break="no"/>test enim sumi pro causa quae agit ex proposito ad aliquem certum finem, &amp; causat finem 
+      ali<lb ed="#L" n="21" break="no"/>um non intentum, sicque loquitur Philosophus 2. Phys. de ipsa, &amp; sic tantummodo 
+      compe<lb ed="#L" n="22" break="no"/>tit causis inferioribus, Deo autem nequaquam, sicut praehabita monstrauerunt: Potestque 
+      ac<lb ed="#L" n="23" break="no"/>cipi pro causa secreta nobisque occulta praeter cognitionem, intentionem, &amp; opinationem 
+      no<lb ed="#L" n="24" break="no"/>stram, licet non suam, quippiam producente; &amp; sic potest competere causis inferioribus, &amp; 
+      si<lb ed="#L" n="25" break="no"/>militer superioribus, Angelis atque Deo. Vnde Philos. 2. Phys. 47. Sunt, inquit, quidam 
+      qui<lb ed="#L" n="26" break="no"/>bus videtur esse quaedam causa fortuna, immanifesta autem humano intellectui, tanquam 
+      di<lb ed="#L" n="27" break="no"/>uinum quoddam ens &amp; felicius. Istam quoque sententiam roborat August. 5. de Ciuit. Dei 9. 
+      <lb ed="#L" n="28"/>superius recitatus; quam &amp; specialiter de Deo, &amp; de voluntate diuina testari videntur multa 
+      <lb ed="#L" n="29"/>Philosophica, &amp; Theologica praelibata. Verum hic fortassis quisnam mihi obijciet illum 
+      A<lb ed="#L" n="30" break="no"/>uerrois, qui super 2. Phys. 48. reprobat Auicennam, eo quod 1. Phys. suae 13. posuit aliquid 
+      <lb ed="#L" n="31"/>esse &amp; dici casuale quia est casuale respectu vnius causae, licet respectu alterius sit necessarium. 
+      <lb ed="#L" n="32"/>Sed istud non obstat, quoniam Auicenna loquitur de casuali secundum quid, non autem 
+      sim<lb ed="#L" n="33" break="no"/>pliciter, quia sic secundum eum nihil est casuale, vt patet per Autoritatem eius: 10. Metaph. 
+      <lb ed="#L" n="34"/>suae I1. superius allegatam. Auerroes vero, qui ex more, libenter capit hominem in sermone, 
+      <lb ed="#L" n="35"/>arguit contra verba Auicennae, non contra intellectum, probando quod ex illa causa nihil 
+      de<lb ed="#L" n="36" break="no"/>beat dici simpliciter casuale, sicque concludit tantum verbaliter, nihil vero realiter contra 
+      <lb ed="#L" n="37"/>eum. Vnde Parab. 19. Qui tantum verba sectatur, nihil habebit. Quare &amp; Auicenna potest 
+      <lb ed="#L" n="38"/>dicere Auerroi, sicut Affratagoras Socrati quondam dixit, vt idem Auerroes recitat a 
+      The<lb ed="#L" n="39" break="no"/>mistio super 3. de Coelo comment. 17. Si, inquit, tua contradictio contra me esset secundum 
+      <lb ed="#L" n="40"/>intellectum mec intentionis, certe concluderetur mihi; cum autem tu non intelligis intentionem 
+      <lb ed="#L" n="41"/>mei sermonis, non reputo mihi concludi. Neutri tamen horum fauendo, sed praehonorando 
+      <lb ed="#L" n="42"/>veritatem, videtur mihi quod nihil dicitur absolute nomine casuale secundum commune vsum 
+      <lb ed="#L" n="43"/>loquendi Philosophorum, aut vulgi, nisi quod est casuale respectu cuiuscunque causae suae 
+      infe<lb ed="#L" n="44" break="no"/>rioris nobis notae, vel saltem respectu causae principalis nobis notae, non autem quod est 
+      ca<lb ed="#L" n="45" break="no"/>suale, seu praeter intentionem causae instrumentalis &amp; accessoriae qualiscunque. Non enim si 
+      <lb ed="#L" n="46"/>quis ex industria occidat hominem gladio, illa occisio dicitur casualis, quae tamen est praeter 
+      <lb ed="#L" n="47"/>intentionem gladij, qui tantum intendit descendere &amp; secare, &amp; praeter intentionem aeris, qui 
+      <lb ed="#L" n="48"/>intendens principaliter aliud, accessorie forsitan ad hoc agit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

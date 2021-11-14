@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91813"><!-- l3c19 -->
+            <head xml:id="dcn2br-e91813-Hd1e106">Caput 19</head>
+            <p xml:id="dcn2br-e91813-d1e109">
+               <lb ed="#L" n="7"/>CAP. XIX. 
+      <lb ed="#L" n="8"/>Castigat octauam &amp; nonam opiniones, credentes nulla inferioris mun¬ 
+      <lb ed="#L" n="9"/>di sub diuina prouidentia contineri, &amp; quod nulla voluntaria sen 
+      <lb ed="#L" n="10"/>libera per Dei prouidentiam disponantur. 
+      </p>
+            <p xml:id="dcn2br-e91813-d1e120">
+               <lb ed="#L" n="11"/>SVnt &amp; aliae multae opiniunculae praeter istas, quas, quia omnes &amp; 
+      sin<lb ed="#L" n="12" break="no"/>gulae per prius ostensa refelluntur plenarie, proposui sub silentio 
+      prae<lb ed="#L" n="13" break="no"/>terijsse; sed ne omnino intactas se iactent, &amp; vt appareat qualia 
+      erro<lb ed="#L" n="14" break="no"/>rum phantasmata multorum phantasiae parturiunt, breuiter illas 
+      tan<lb ed="#L" n="15" break="no"/>gam; vt etiam sic tandem apud peritos, qui me in plurimis 
+      praeosten<lb ed="#L" n="16" break="no"/>sis quia quasi notorijs possent velut superfluum condemnare, excusari 
+      <lb ed="#L" n="17"/>mereat nota causa. Prima igitur istarum opinionum &amp; octaua cum 
+      <lb ed="#L" n="18"/>caeteris recitatis, affirmat quod nulla inferioris mundi sub diuina 
+      proui<lb ed="#L" n="19" break="no"/>uidentia continentur. Opinio vero nona dicit, quod nulla voluntaria seu libera diuina 
+      proui<lb ed="#L" n="20" break="no"/>dentia disponuntur; &amp; haec est ratio communis ambarum quia diuina prouidentia imponit 
+      <lb ed="#L" n="21"/>necessitatem prouisis, &amp; illa remota, omnis necessitas remouetur, quia nulla, vt dicunt, est 
+      <lb ed="#L" n="22"/>causa // necessitatis si non illa. Has autem ambas coniunctim redarguunt vicesimum 
+      septi<lb ed="#L" n="23" break="no"/>mum, vicesimum octauum, &amp; vicesimum nonum primi, secundam vero diuisim, tricesimum, 
+      <lb ed="#L" n="24"/>tricesimum primum, &amp; tricesimum secundum eiusdem. Item specialiter contra istam, Tunc 
+      <lb ed="#L" n="25"/>saltem haec habet concedere, quod omnia naturalia euenient de necessitate penitus absoluta, 
+      <lb ed="#L" n="26"/>quia de hac sola loquitur, vt videtur: Concedit enim omnia naturalia sub diuina prouidentia 
+      <lb ed="#L" n="27"/>contineri; ergo Deus quicquid prouidet aut agit in hoc mundo inferiori, hoc facit de 
+      necessi<lb ed="#L" n="28" break="no"/>tate penitus absoluta; ergo quilibet homo, etiam seruus &amp; ancilla in omnibus prouidentijs 
+      <lb ed="#L" n="29"/>suis &amp; factis est liberior Domino Deo suo in suis, quod prima suppositio primi vetat. Item 
+      <lb ed="#L" n="30"/>tunc Deus necessario &amp; non libere prouidet atque facit quicquid prouidetur &amp; immediate fit 
+      <lb ed="#L" n="31"/>ab eo; est ergo illeberior &amp; seruilior omni seruos per quod &amp; prior opinio confutatur. Quare 
+        <lb ed="#L" n="32"/>&amp; <name xml:id="dcn2br-e91813-Nd1e169">Stephanus Parisiensis Episcopus</name> damnauit quendam articulum asserentem, <quote xml:id="dcn2br-e91813-Qd1e173" source="http://scta.info/resource/z88d99-avn8u2-d1e525@1-28">quod Deum  
+      <lb ed="#L" n="33"/>necesse est facere quicquid immediate sit ab ipso; Error, // inquit, siue intelligatur de 
+      necessi<lb ed="#L" n="34" break="no"/>tate coactionis, quia tollit libertatem, siue de necessitate immutabilitatis, quia ponit 
+      impossi<lb ed="#L" n="35" break="no"/>bilitatem aliter faciendi</quote>. Idemque damnauit alium articulum sub hac forma, quod aliqua 
+      <lb ed="#L" n="36"/>possunt casualiter euenire respectu primae causae, &amp; quod falsum est, omnia esse praeordinata 
+      <lb ed="#L" n="37"/>a prima causa, quia tunc euenirent ex necessitate: &amp; iterum alium sub his verbis, quod 
+      huma<lb ed="#L" n="38" break="no"/>ni actus non reguntur prouidentia diuina. Haec etiam eadem insensata sententia diuante 
+      qua<lb ed="#L" n="39" break="no"/>si haeretica fuerat iudicata Iob. 22. An cogitas, inquit, quod Deus excelsior coelo sit, &amp; super 
+      <lb ed="#L" n="40"/>stellarum verticem sublenetur, &amp; dicis quod non nouit Deus, &amp; quasi per caliginem iudicat? 
+      <lb ed="#L" n="41"/>Nubes latibulum eius, nec nostra considerat, &amp; per cardines coeliperambulat. Et Exech. 9. 
+      <lb ed="#L" n="42"/>Dixerunt, dereliquit Dominus terram.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="669"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e88464"><!-- l3c8 -->
+            <head xml:id="dcn2br-e88464-Hd1e106">Caput 8</head>
+            <p xml:id="dcn2br-e88464-d1e109">
+               <lb ed="#L" n="13"/>CAP. VIII. 
+      <lb ed="#L" n="14"/>Recitat alias sex responsiunculas, &amp; emendat. 
+      </p>
+            <p xml:id="dcn2br-e88464-d1e116">
+               <lb ed="#L" n="15"/>SVnt &amp; aliae sex responsiunculae similes ad hoc idem, quae omnes 
+      faten<lb ed="#L" n="16" break="no"/>tur concorditer voluntatem increatam praeuenire in omnibus 
+      volunta<lb ed="#L" n="17" break="no"/>tem creatam, sed vlterius variantur. Nam primadicit ideo aliquid esse 
+      <lb ed="#L" n="18"/>in potestate voluntatis creatae, quia in potestate sua est quod Deus velit,  
+      <lb ed="#L" n="19"/>&amp; praeuelit liberum actum suum. Secunda vero ponit ideo actum 
+      libe<lb ed="#L" n="20" break="no"/>rum futurum esse in potestate voluntatis creatae, quia in potestate sua 
+      <lb ed="#L" n="21"/>est facere aliquid, vnde sequitur Deum hunc velle, vel non velle. 
+      Ter<lb ed="#L" n="22" break="no"/>tia aestimat ideo aliquid esse in potestate voluntatis creatae, quia aeque 
+      <lb ed="#L" n="23"/>primo sicut increata praecedit creatam ad aliquem liberum actum suum, potest creata in 
+      op<lb ed="#L" n="24" break="no"/>positum, scilicet ab actu illo vacare, &amp; actum oppositum exercere. Quarta vero affirmat ideo 
+      <lb ed="#L" n="25"/>aliquid esse in potestate voluntatis creatae, quia licet voluntas increata praeuelit creatam 
+      ali<lb ed="#L" n="26" break="no"/>quem certum actum habere pro certa mensura temporali futura, in potestate tamen creata 
+      <lb ed="#L" n="27"/>est ita se prius disponere, ne Deus hoc tunc velit, &amp; ne tunc habeat illum actum. Quinta 
+      opi<lb ed="#L" n="28" break="no"/>natur, quod Deus non agit proprie actum voluntatis creatae, sed tantum improprie, quia 
+      vide<lb ed="#L" n="29" break="no"/>licet ordinauit &amp; vult, quod ipsa sola proprie &amp; libere faciat actum suum. Sexta debilior 
+      cae<lb ed="#L" n="30" break="no"/>teris, debiliter arbitratur, quod Deus coagit &amp; praeagit proprie omnem actum voluntatis 
+      cre<lb ed="#L" n="31" break="no"/>atae. sed tam debiliter influendo, quod nequaquam ipsam necessitat ad agendum. Prima 
+      si<lb ed="#L" n="32" break="no"/>quidem inter istas videtur mirabilis dictu, &amp; mirabilior intellectu, cum ad communem 
+      mo<lb ed="#L" n="33" break="no"/>dum loquendi vulgarium &amp; Doctorum nihil dicatur in potestate cuiusque, nisi quod eius 
+      sub<lb ed="#L" n="34" break="no"/>iacet voluntati, &amp; eius sequitur voluntatem sicut eius effectus, priuatiove effectus vt motus &amp; 
+      <lb ed="#L" n="35"/>quies: vnde Augustinus I. Retract. 22. In potestate nostra non est, nisi quod nostram 
+      sequi<lb ed="#L" n="36" break="no"/>ter voluntatem; &amp; loquitur ibi de se, qui sicut effectus, vt puta meritum sequitur effectorem; 
+      <lb ed="#L" n="37"/>sed velle diuinum praeuenire velle humanum nequaquam humanae subiacet voluntati, nec 
+      <lb ed="#L" n="38"/>eam sequitur vt effectus, sed e contra, sicut 30. secundi demonstrat. Item nihil est in potestate 
+      <lb ed="#L" n="39"/>cuiusque, nisi quod potest facere cum voluerit, dicente Augustino 3. de libero arbitrio 3. 
+      <lb ed="#L" n="40"/>Non possum aliud sentire esse in potestate nostra, nisi quod cum volumus, facimus. Et 
+      Phi<lb ed="#L" n="41" break="no"/>losophus 9. Metaphys. 10. Potens secundum rationem omne, necesse quando desiderat, 
+      cu<lb ed="#L" n="42" break="no"/>ius habet potentiam, &amp; vt habet, hoc facere; Nullus autem potest facere Deum ipsum 
+      prae<lb ed="#L" n="43" break="no"/>uenire volendo, quia quidlibet faciens aliquid, naturaliter praeuenit suum factum; quare 
+      vo<lb ed="#L" n="44" break="no"/>luntas humana volendo praeueniret diuinam contra hypothesin, &amp; contra 30. secundi; &amp; 
+      <lb ed="#L" n="45"/>quia per 23. primi, quodlibet velle Dei est aeternum, non temporaliter factum a quoquam, &amp;  
+      <lb ed="#L" n="46"/>quia tunc voluntas diuina esset passibilis ab humana, contra 20. primi libri. Item si Deum  
+      <lb ed="#L" n="47"/>praeuelle sit in potestate voluntatis creatae, vel hoc est aliquid faciendo vel nihil: non aliquid 
+      <lb ed="#L" n="48"/>faciendo, vt proximo est argutum. Praeterea quilibet volens &amp; faciens, eo ipso necessario 
+      <lb ed="#L" n="49"/>preuenitur volutione diuina; sed illud quod prius est actum, puta diuina volutio, quod tunc 
+      <lb ed="#L" n="50"/>sit actum vel non, non est in potestate posterioris agentis, cum nihil a posteriori actione 
+      de<lb ed="#L" n="51" break="no"/>pendeat, sed e contra: nec tamen nihil faciendo, vt nullus ignorat; omne quoque suum non 
+      <lb ed="#L" n="52"/>facere sit a diuino non facere praecedenti, per 32. secundi, &amp; hoc per volutionem diuinam, 
+      <!--703.xml-->
+      <pb ed="#A" n="670"/>
+               <lb ed="#L" n="1"/>sicut 22. primi cum corollario suo probat; per volutionem inquam diuinam illud non facere 
+      <lb ed="#L" n="2"/>naturaliter praecedentem, per vicesimum quoque secundi; sicque redit argumentum contra 
+      <lb ed="#L" n="3"/>aliam partem factum. Item si Deum praeuelle sit in potestate voluntatis creatae, vel ergo dum 
+      <lb ed="#L" n="4"/>ipsa actualiter vult, vel prius: non dum ipsa actualiter vult, vt ipsimet fatentur, quia tunc est 
+      <lb ed="#L" n="5"/>necessarium necessitate naturaliter praecedente illud velle creatum; dicitque Lumbardus 1.
+      sen<lb ed="#L" n="6" break="no"/>tent. dist. 25. quod in praesenti est, determinatum est, nec in potestate nostra est, vt tunc sit vel 
+      <lb ed="#L" n="7"/>non sit. Illud etiam quod iam prus est actum, puta velle diuinum, quod tunc sit actum vel 
+      <lb ed="#L" n="8"/>non actum, non est in potestate posterioris agentis, cum prius factum a posteriori nullo 
+      mo<lb ed="#L" n="9" break="no"/>do dependeat, sed e contra, sicut superius est argutum. Nec prius, quia tunc si homo faciat 
+      <lb ed="#L" n="10"/>quantum potest vsque ad A. instans futurum, vt Deus praeueniat ipsum volendo in A. instanti, 
+      <lb ed="#L" n="11"/>&amp; si Deus hoc noluerit, imo &amp; resistat, ac totis viribus agat ad contrarium, ita fiet contra 10. 
+      <lb ed="#L" n="12"/>primi libri. Nam secundum Philosophum 9. Metaphys. 10. Potens secundum rationem 
+      <lb ed="#L" n="13"/>omne, necesse quando desiderat cuius habet potentiam &amp; vt habet, hoc facere: dicitque 
+      Au<lb ed="#L" n="14" break="no"/>gustinus 3. de libero arbitrio 3. Non possum aliud sentire esse in potestate nostra, nisi quod 
+      <lb ed="#L" n="15"/>cum volumus facimus. Nec potest quis dicere, hoc esse in potestate hominis, nisi fuerit 
+      im<lb ed="#L" n="16" break="no"/>peditus. Subiungit enim Philosophus vbi prius; Nullo namque exteriorum prohibente, 
+      <lb ed="#L" n="17"/>adiungere nihil adhuc oportet: potentiam enim habet vt potentia faciendi; est autem non  
+      <lb ed="#L" n="18"/>omnino, sed habentium aliquo modo, in quibus excludentur quae exterius prohibent; remouet 
+      <lb ed="#L" n="19"/>autem haec eorum, quae in determinatione apponuntur, quaeda. Vbi &amp; Auerroes sic ait, Non 
+      indi<lb ed="#L" n="20" break="no"/>gemus cum hoc, quod potentia possit agere, hoc addere, nisi aliquid extrinsecum impediat, 
+      quo<lb ed="#L" n="21" break="no"/>niam sufficit in hoc quod dicimus, quod potentia potest agere; quoniam cum illic fuerit 
+      impe<lb ed="#L" n="22" break="no"/>diens, tunc potentia non poterit. Praeterea vel est in potestate hominis tollere impedimentum 
+      <lb ed="#L" n="23"/>volutionis &amp; resistentiae diuinae, vel non. Si sit, potest tollere illud cum voluerit; quare non  
+      <lb ed="#L" n="24"/>oportet addere nisi fuerit impeditus: &amp; si faciat quantum potest vsque A. instans in casu 
+      prae<lb ed="#L" n="25" break="no"/>misso necessario tollet illud: si non, &amp; nisi illud impedimentum tollatur, non consequetur 
+      in<lb ed="#L" n="26" break="no"/>tentum, non est ergo in potestate sua vt propositum consequatur: quomodo namque est in 
+      po<lb ed="#L" n="27" break="no"/>testate debilioris domum fortioris intrare, ipsum ligare, &amp; vniuersa eius diripere? Item secundum 
+      <lb ed="#L" n="28"/>istud voluntas in primo instanti sue creationis no posset libere velle quicqua, nec voluntas 
+      an<lb ed="#L" n="29" break="no"/>tiqua in primo instanti adultionis seu euigilationis a somno, aut curationis a furia, quia tunc 
+      <lb ed="#L" n="30"/>non esset in potestate sua quod praeueniretur a Deo, nec etiam prius fuit, cuius oppositum docuit 
+      <lb ed="#L" n="31"/>octaua veritas 5. huius. Item si Linus debilior haberet Petrum Dominum fortiore, cuius (vt vtar 
+      <lb ed="#L" n="32"/>verbis Philosophi recitatis 1. huius) praeuoluntatem necessario sequeretur, vt non mouente 
+      <lb ed="#L" n="33"/>illo non moueretur, &amp; mouente necessario moueretur, quomodo Letiam lesset in potestate sua 
+      <lb ed="#L" n="34"/>facere aliquam motionem, puta trahere hoc vel illud? quomodo namque esset in potestate sua 
+      <lb ed="#L" n="35"/>sui Domini praeuoluntas? Sic autem se habet omne agens rationale ad Deum, sicut praehabita 
+      <lb ed="#L" n="36"/>perhibent, &amp; ipsa opinio confitetur: sicut si esset securis vel setra rationalis, quae tamen non 
+      <lb ed="#L" n="37"/>posset secare vel serrare nisi tracta per voluntatem artificis praecedentem, quam etiam 
+      neces<lb ed="#L" n="38" break="no"/>sario sequeretur, quomodo esset in potestate sua scindere vel serrare? hoc autem modo se 
+      ha<lb ed="#L" n="39" break="no"/>bet omnis homo ad Deum, teste Esaia 10. cum glossa comuni &amp; expositione Hieron. sicut 32. 
+      <lb ed="#L" n="40"/>primi plenius recitauit. Item si sit in potestate mea quod Deus praeuelit, &amp; velit hoc aliquid,  
+      <lb ed="#L" n="41"/>cur non aliud, aliudque quodcunque? Si etiam sit in potestate mea vt Deus faciat antecedenter 
+      <lb ed="#L" n="42"/>me velle hoc aliquid sub hoc gradum &amp; modo, cur non est in mea similiter potestate, vt Deus 
+      <lb ed="#L" n="43"/>Estatim] faciat antecedenter me velle &amp; nolle, amare &amp; odire quodcunque sub quocunque gradu 
+      <lb ed="#L" n="44"/>&amp; modo per Deum mihi possibili, vt summe Deum diligere, beatificeque amare, cum summo odio 
+      <lb ed="#L" n="45"/>vitiorum, cum multis similibus, quae non possum pro quolibet tempore, vt quilibet experitur? 
+      <lb ed="#L" n="46"/>quod &amp; testantur multa allegata 46. primi; vnde &amp; Propheta, Concupiuit anima mea 
+      deside<lb ed="#L" n="47" break="no"/>rare iustificationes tuas. Ps. 118. Item si aliqua actio sit in alicuius libera potestate, ipse est 
+      Do<lb ed="#L" n="48" break="no"/>minus illius, sicut per Philosoph. 3. Ethic. 13. &amp; alijs locis multis: &amp; per Ioh. Damascen. 39. I 
+      <lb ed="#L" n="49"/>sent. sicut 28. 2. comemorat: sed nullus est Dominus volutionis liberae Domini Dei sui, sicut 
+      <lb ed="#L" n="50"/>nullus Christianus ambigit aut prophanus; hoc n suae summae libertati nimium derogaret, quod 
+      <lb ed="#L" n="51"/>supposito 1. vetat. Item tunc voluntas diuina magis esset in potestate hominis, quam voluntas 
+      <lb ed="#L" n="52"/>alicuius infimi serui sui: nemo n. habet seruu tam infimum, qui semper voluntatem suam volendo 
+      <lb ed="#L" n="53"/>sequatur; imo nec actio alicuius alterius cause creatae tantum est in potestate voluntatis creatae, 
+      <lb ed="#L" n="54"/>sicut actio voluntatis diuinae: no n, est in potestate cuiusque volutatis creatae, vt aliqua alia causa 
+      <lb ed="#L" n="55"/>creata agat ad quodlibet suum velle, nec de aliqua causa creata est in potestate voluntatis creatae, 
+      <lb ed="#L" n="56"/>vt ipsa voluntatem creata praeueniat in agedo, sicut inductio per singulas manifestat: quare actio 
+      <lb ed="#L" n="57"/>libera voluntatis diuine magis est in potestate volutatis creatae, quam quaecunque actio libera, vel 
+      <lb ed="#L" n="58"/>ancilla euiuscuque alterius causae creatae, quod eius summa destruit libertate, seu potius ab eius 
+      <!--704.xml-->
+      <pb ed="#A" n="671"/>
+               <lb ed="#L" n="1"/>summa destruitur libertate. Item quomodo potest esse causa actiua superior atque prior in 
+      <lb ed="#L" n="2"/>potestate causae inferioris &amp; posterioris, mouens in potestate moti, trahens in potestate tracti, 
+      <lb ed="#L" n="3"/>&amp; actio eius iam naturaliter prius acta, imo iam aeternaliter prius acta in potestate causae post 
+      <lb ed="#L" n="4"/>naturaliter temporaliterque agentis? Item quomodo potest esse in hominis potestate quid 
+      <lb ed="#L" n="5"/>Deus velit, &amp; quando; imo &amp; per 23. primi, quod voluerit ab aeterno, cum tamen non sit in 
+      <lb ed="#L" n="6"/>hominis potestate quid ipsemet voluerit pridie? Sic namque voluntas diuina magis esset in 
+      <lb ed="#L" n="7"/>hominis potestate, quam popria sua voluntas, quod ratio renuit, // &amp; reprimit Augustino; 
+      <lb ed="#L" n="8"/>de libero arbitrio 3. de nostra voluntate sic // dicente, Nihil tam in nostra potestate quam ipsa 
+      <lb ed="#L" n="9"/>voluntas est. Si quoque sit in hominis potestate quid Deus iam in praeterito voluit, cum per 
+      <lb ed="#L" n="10"/>10. primi, Dei velle necessario sequatur facere cum voluerit, quia ipse dixit &amp; facta sunt, est 
+      <lb ed="#L" n="11"/>similiter in hominis potestate quid Deus iam in praeterito fecerit, puta si Deus fecerit tibi 
+      coe<lb ed="#L" n="12" break="no"/>lum vel infernum, vel sedem aliquam hic aut ibi, vel etiam tunicam sicut fecit Adae, qua 
+      nun<lb ed="#L" n="13" break="no"/>quam fuisti indutus, ad hunc effectum, vt tu solus te illa indueres, in potestate tua est, vt Deus 
+      <lb ed="#L" n="14"/>nunc vel in futuro velit te illam induere: ergo per 23. primi in potestate tua est vt Deus 
+      vn<lb ed="#L" n="15" break="no"/>quam hoc voluit; ergo &amp;st in potestate tua est, vt Deus illam sic fecerit, quia per 10. primi Dei 
+      <lb ed="#L" n="16"/>propositum frustrari non potest; ergo in potestate tua est facere sic factum in praeterito, non 
+      <lb ed="#L" n="17"/>lic factum, contra multos Autores in obiectionibus sexti huius contra octauam partem 
+      quin<lb ed="#L" n="18" break="no"/>ti huius plenius allegatos. Hic forte dicetur non sequi, quod sit in hominis potestate quod 
+      <lb ed="#L" n="19"/>Deus in praeterito fecerit, sed propter quam causam finalem hoc fecerit. Non enim est in 
+      <lb ed="#L" n="20"/>potestate huius viatoris Deum fecisse sedem coelestem, vel tunicam, sed Deum fecisse illas 
+      fi<lb ed="#L" n="21" break="no"/>naliter propter eum, siue ad vsum illius; potest enim sic facere quod nunquam habebit 
+      fina<lb ed="#L" n="22" break="no"/>liter hanc vel illam, &amp; si hoc faciat, Deus non fecit illas finaliter propter ipsum, sed propter 
+      <lb ed="#L" n="23"/>aliquam aliam causam finalem. Sed istud videtur mirabile, quomodo sit in nouella hominis 
+      <lb ed="#L" n="24"/>potestate, quod Deus intenderat antiquitus ab aeterno. Sequitur etiam quod sit vel erit in 
+      po<lb ed="#L" n="25" break="no"/>testate Antichristi, &amp; cuiuslibet viatoris facere Christum fuisse incarnatum, &amp; passum ex alia 
+      <lb ed="#L" n="26"/>causa finali quam fuit, pro illo scilicet redimendo quem non intendebat redimere, &amp; non pro 
+      <lb ed="#L" n="27"/>illo redimendo, quem redimere intendebat, quod non videtur conueniens fidei Christianae. 
+      <lb ed="#L" n="28"/>Imo sequitur fuisse &amp; esse in hominum potestate euacuare totum effectum atque totam 
+      vir<lb ed="#L" n="29" break="no"/>tutem finalem dominicae passionis, resurrectionem scilicet mortuorum, finale iudicium, 
+      re<lb ed="#L" n="30" break="no"/>parationem ciuitatis coelestis, &amp; coelestium ciuium numeri complementum. Potuerunt enim, 
+      <lb ed="#L" n="31"/>&amp; poterunt homines maxime, si omnes fuissent &amp; forent adulti, perseueranter peccare; 
+      po<lb ed="#L" n="32" break="no"/>tueruntque &amp; poterunt adulti non succutrere paruulis non adultis, vt sic omnes homines 
+      pa<lb ed="#L" n="33" break="no"/>riter damnatentur: sicque esset in hominum potestate verificare illud impossibile ad quod 
+      de<lb ed="#L" n="34" break="no"/>ducit Apostolus; ergo Christus gratis mortuus est, ad Galat. 2. glossa; id est, frustra sine 
+      cau<lb ed="#L" n="35" break="no"/>sa. Porro &amp; de voluntate Christi humana potest similiter argui: Ipsa namque eius voluntati 
+      <lb ed="#L" n="36"/>diuinae necessario conformatur, sicut 30. secundi &amp; primum huius ostendunt. Item per 
+      de<lb ed="#L" n="37" break="no"/>cimam partem quinti huius, nullus actus creaturae est liber simpliciter libertate 
+      contradictio<lb ed="#L" n="38" break="no"/>nis; ergo nec simpliciter in eius libera potestate: nullus enim actus dicitur esse in potestate 
+      <lb ed="#L" n="39"/>nostra, nisi ille, cuius habemus potestatem seu potentiam contradictionis. Item 
+      quomodo<lb ed="#L" n="40" break="no"/>potest esse quippiam in hominis libera potestate, cum per secundum huius quaelibet eius actio 
+      <lb ed="#L" n="41"/>siue non actio proueniat ex necessitate naturaliter praecedente? Item secundum 
+      Philoso<lb ed="#L" n="42" break="no"/>phum 5. Metaphys. 17. potestas est duplex, actiua scilicet &amp; passiua; &amp; secundum eundem 
+      <lb ed="#L" n="43"/>Philosophum 9. Metaphys. 2. potentia est duplex similiter, actiua scilicet &amp; passiua: cum 
+      <lb ed="#L" n="44"/>ergo dicunt Deum praeuelle esse in potestate voluntatis creatae, vel intelligunt de potestate 
+      <lb ed="#L" n="45"/>eius actiua vel passiua: si passiua, quid mirum si voluntas creata possit pati quod Deus 
+      prae<lb ed="#L" n="46" break="no"/>velit, cum nedum possit hoc pati, sed &amp; si Deus voluerit, necessario patietur? Sicque Deum  
+      <lb ed="#L" n="47"/>praeuelle melius diceretur in eius necessitate, quam in eius libera potestate. Non enim 
+      dici<lb ed="#L" n="48" break="no"/>mus quicquam esse in potestate nostra, quod possumus tantum pati; ideo si voluntas esset 
+      <lb ed="#L" n="49"/>tantum passiua, non esset liberae potestatis, sicut corollarium tertij secundi monstrauit. Si 
+      in<lb ed="#L" n="50" break="no"/>potestate eius actiua, &amp; non aequaliter coactiua, nec preactiua, sicut 29. &amp; 30. secundi huius 
+      <lb ed="#L" n="51"/>ostendunt, &amp; opinio confitetur; ergo tantum in potestate subactiua, subexecutiua, 
+      subser<lb ed="#L" n="52" break="no"/>uiente vereque passiua. Sed voluntatem creatam subagere, subexequi, subseruire &amp; pati Deo 
+      <lb ed="#L" n="53"/>preuolente est necessarium necessitate naturaliter praecedente per secundum huius; quomorm 
+      <lb ed="#L" n="54"/>do ergo est in sua potestate, nisi praecedens necessitas dicatur potestas? Et quomodo ad 
+      coma<lb ed="#L" n="55" break="no"/>munem modum loquendi, hoc est in libera eius potestate, libertate scilicet contra dictionis ?¬ 
+      <lb ed="#L" n="56"/>Sed loquatur quilibet sicut placet, dum veritas rei constet. Veruntamen si quis loqui voluerit,  
+      <lb ed="#L" n="57"/>sicut Patres, quibus credita sunt eloquia Domini, prophanas vocum nouitates deuitans, 
+      non<lb ed="#L" n="58" break="no"/>poterit dicere, Deum praeuelle, nec aliud quippiam esse simpliciter in hominis libera potestate¬ 
+      <!--705.xml-->
+      <pb ed="#A" n="672"/>
+               <lb ed="#L" n="1"/>Nam Tobiae 3. scribitur, Non est in hominis potestate consilium tuum. Et Eccles. 6. Vir A 
+      <lb ed="#L" n="2"/>cui dedit Deus diuitias &amp; substantiam, &amp; honorem, &amp; nihil deest animae ex omnibus quae 
+      <lb ed="#L" n="3"/>desiderat, nec tribuit ei potestatem Deus vt comedat exeo: si tamen homo ex se haberet 
+      li<lb ed="#L" n="4" break="no"/>beram potestatem, vt Deus praeuellet eum comedere, haberet ex se similiter liberam 
+      pote<lb ed="#L" n="5" break="no"/>statem vt ipsemet comederet, nec indigeret vt Deus sibi tribueret ai huius potestatem. Item 
+      <lb ed="#L" n="6"/>Num. 22. dixit Baalam, Si dederit mihi Balal plenam domum suam auri &amp; argenti, non 
+      <lb ed="#L" n="7"/>possum immutare verbum Domini Dei mei, vt plus vel minus loquar: plus scilicet 
+      maledi<lb ed="#L" n="8" break="no"/>cendo populo Domini, vel minus, scilicet benedicendo, qui tamen voluit maledixisse &amp; non 
+      <lb ed="#L" n="9"/>benedixisse, vt sequens historia manifestat; &amp; infra 23. dixit Balaam ad Balal, Ad 
+      bene<lb ed="#L" n="10" break="no"/>dicendum adductus sum: Glossa; A Deo, qui verum posuit in ore meo, benedictionem 
+      pro<lb ed="#L" n="11" break="no"/>hibere non valeo: Glossa; Non enim potest etiamsi velit verbum Dei humana lingua 
+      con<lb ed="#L" n="12" break="no"/>uertere. Item 1. Esdrae 5. Oculus Dei eorum factus est super senes Iudaeorum, &amp; non 
+      potu<lb ed="#L" n="13" break="no"/>erunt inhibere eos. Item Iob 5. Qui dissipat cogitationes malignorum, neque possunt 
+      im<lb ed="#L" n="14" break="no"/>plere manus eorum quod caeperant, qui sapientes in astutia eorum, &amp; consilia prauorum 
+      dis<lb ed="#L" n="15" break="no"/>sipat; super quod beatus Gregorius 6. Moral. 12. ita dicit, Supernae voluntati cognitae debet 
+      <lb ed="#L" n="16"/>actio nostra deuote famulari, &amp; quasi ducem sui itineris persequi, ne ei etiam nolens seruiat, 
+      <lb ed="#L" n="17"/>si hanc superbiens declinat. IIVitari enim vis superni consilij nequaquam potest, quod &amp; plane 
+      <lb ed="#L" n="18"/>testatur Autoritas eiusdem vigesimi septimi Moralium vigesimo secundo trigesimo secundi 
+      <lb ed="#L" n="19"/>praemissa. Item Esaiae 14. Deus exercituum decreuit, &amp; quis poterit infirmare? Item 
+      Ie<lb ed="#L" n="20" break="no"/>rem. 10. Scio, Domine, quod non est hominis via eius, nec viri vt ambulet &amp; dirigat 
+      gres<lb ed="#L" n="21" break="no"/>sus suos: super quod Glossa Erubescant, inquit, qui aiunt vnumquemque suo regi arbitrio: 
+      <lb ed="#L" n="22"/>Non est enim hominis via eius: Et Parab. 20. A Domino diriguntur gressus viri: Glossa, 
+      <lb ed="#L" n="23"/>Non libertate arbitrij: Glossam autem falsigraphi trigesimum secundum primi redarguit &amp; 
+      <lb ed="#L" n="24"/>conuincit. Item Apostolus ad Rom. 9. sicait; Non volentis nec currentis, sed miserentis 
+      <lb ed="#L" n="25"/>est Dei. Non volentis (inquit Anselmus de Concord. 9.) est quod vult, nec currentis quod 
+      <lb ed="#L" n="26"/>currit: Si ergo proprium velle non sit in potestate volentis, &amp; secundum August. 3. de 
+      libe<lb ed="#L" n="27" break="no"/>ro arbitrio 3. Nihil tam in nostra potestate quam ipsa voluntas est, quomodo erit velle Dei 
+      <lb ed="#L" n="28"/>in nostrum cuiuslibet potestate? Item nullus Christianus praesumet se dicere maioris 
+      potesta<lb ed="#L" n="29" break="no"/>tis quam Dominum suum Christum; sed nullus actus Christi, nec voluntas Patris fuit 
+      sim<lb ed="#L" n="30" break="no"/>pliciter in potestate ipsius, ipsomet testante; non possum, inquit, ego a meipso quicquam  
+      <lb ed="#L" n="31"/>facere, sed sicut audio iudico, &amp; iudicium meum verum est, quia non quaero voluntatem 
+      <lb ed="#L" n="32"/>meam, sed voluntatem eius, qui misit me, Patris. Ioan. 5. quod secundum Augustinum 
+      ac<lb ed="#L" n="33" break="no"/>cipiendum est secundum naturam Christi humanam, sicut trigesimum secundi plenius 
+      alle<lb ed="#L" n="34" break="no"/>gauit: Quis igitur hominum potest aliquid ex seipso? quod &amp; omnibus planissime 
+      conte<lb ed="#L" n="35" break="no"/>statur, Nec, inquiens, quod minimum est potestatis: Luc. 12. Item si quippiam esset 
+      sim<lb ed="#L" n="36" break="no"/>pliciter in hominis potestate, hoc maxime videretur, vitare peccatum; quod si esset, frustra D 
+      <lb ed="#L" n="37"/>peteretur a Patre caelesti dicendo, Ne nos inducas in tentationem, sicut erat ostensum 
+      dif<lb ed="#L" n="38" break="no"/>fuse quadragesimo sexto primi, quod tamen ab omnibus catholicis deuotius est petendum, vt 
+      <lb ed="#L" n="39"/>quartum &amp; quintum secundi huius ostendunt. Vnde &amp; Augustinus de gratia &amp; libero 
+      arbi<lb ed="#L" n="40" break="no"/>trio 29. dicit, Dicimus ne nos inferas in tentationem, vt peccata caueantur, quod a Patre, 
+      <lb ed="#L" n="41"/>qui in coelis est, nulla ratione peteremus, si virtute voluntatis humanae hoc possemus 
+      effice<lb ed="#L" n="42" break="no"/>re: quod &amp; dicunt concorditer Autoritates quamplurimae dictis capitulis allegatae. Nec 
+      po<lb ed="#L" n="43" break="no"/>test quis respondere dicendo Augustinum intelligere isto modo; si virtute solius voluntatis 
+      <lb ed="#L" n="44"/>humanae hoc possemus efficere, nulla ratione hoc peteremus. Sed non est ita; Ideo ratio 
+      <lb ed="#L" n="45"/>non procedit; quia ratio // nihilominus procedit. Licet enim hoc non sit in potestate 
+      volun<lb ed="#L" n="46" break="no"/>tatis humanae solius per se, sed cum alio, ex quo illud aliud cooperari cum voluntate 
+      huma<lb ed="#L" n="47" break="no"/>na est in eius libera potestate, totum est in eius libera potestate. Non est igitur hoc petendum, 
+      <lb ed="#L" n="48"/>sicut si habito equo, sit in potestate hominis equitare, &amp; in potestate sua sit habere equum, 
+      <lb ed="#L" n="49"/>est in potestate sua equitare, quare non oportet eum rogare quenquam vt equitet. Item E 
+      <lb ed="#L" n="50"/>nullum donum Dei est simpliciter in hominis potestate, sicut vigesimo tertio secundi 
+      doce<lb ed="#L" n="51" break="no"/>tur, sed quilibet actus noster est donum Dei, sicut vigesimum, vigesimum tertium, &amp; 
+      trige<lb ed="#L" n="52" break="no"/>simum secundi ostendunt. Item si Deum praeuelle &amp; liberi actus nostri essent simpliciter in 
+      <lb ed="#L" n="53"/>nostra libera potestate; quomodo Apostolus per huiusmodi suam doctrinam (Non 
+      glorie<lb ed="#L" n="54" break="no"/>tur omnis caro in conspectu eius, Ex ipso enim estis vos in Christo Iesu, vt qui gloriatur, 
+      <lb ed="#L" n="55"/>in Domino glorietur; &amp; quid habes quod non accepisti? si autem accepisti quid gloriaris 
+      qua<lb ed="#L" n="56" break="no"/>si noniacceperis? &amp;, Non quod sufficientes simus cogitare aliquid a nobis quasi ex nobis, sed 
+      <lb ed="#L" n="57"/>sufficientia nostra ex Deo est; &amp;, Cum metu &amp; tremore vestram salutem operamini; Deus 
+      <lb ed="#L" n="58"/>est enim qui operatur in vobis &amp; velle &amp; perficere, &amp; multa similia vigesimo tertio secundi 
+      <!--706.xml-->
+      <pb ed="#A" n="673"/>
+               <lb ed="#L" n="1"/>plenius memorata) homines a superbia reuocaret &amp; in humilitate fundaret, sicut 
+      principa<lb ed="#L" n="2" break="no"/>liter intendebat, vt idem vicesimum tertium manifestat? Imo si sic esset, non hoc sed 
+      contra<lb ed="#L" n="3" break="no"/>rium faceret. Magnam enim occasione superbiendi daret hominibus, si eos tantum 
+      extolle<lb ed="#L" n="4" break="no"/>ret super Deum, vt voluntas eius &amp; actio essent in eorum libera potestate; Ideoque non sic 
+      <lb ed="#L" n="5"/>sanctus Dei Apostolus, non sic Augustinus, non sic caeteri Catholici tractatores: Quinimo 
+      <lb ed="#L" n="6"/>&amp; actus liberos hominum negant ab eis, &amp; tribuunt ipsos Deo, dicendo, Non volentis 
+      ne<lb ed="#L" n="7" break="no"/>que currentis, sed miserentis est Dei; Gratia saluati estis per fidem, &amp; hoc non ex vobis; Dei 
+      <lb ed="#L" n="8"/>enim donum est: Neque qui plantat, neque qui rigat, aliquid est, sed qui incrementum dat 
+      <lb ed="#L" n="9"/>Deus. Et secundum Augustinum; hoc ipsum quod ille plantat, hic rigat, non ipsis sed 
+      Do<lb ed="#L" n="10" break="no"/>mino tribuit, sicut vicesimum tertium secundi cum multis similibus recitauit, quibus &amp; 
+      tri<lb ed="#L" n="11" break="no"/>cesimum secundi similia recitat a Glossa; Non vos operamini, sed Deus operatur in vobis: 
+      <lb ed="#L" n="12"/>A Cypriano, In nullo nobis gloriandum est, quoniam nostrum nihil est; ab Anselmo Non 
+      <lb ed="#L" n="13"/>est volentis quod vult, nec currentis quod currit: a lohanne de Caipha; Hoc autem a 
+      semer<lb ed="#L" n="14" break="no"/>ipso non dixit, sed prophetauit: &amp; a Domino Iesu Christo; Non vos me elegistis, sed ego 
+      e<lb ed="#L" n="15" break="no"/>legi vos; non vos estis qui loquimini, sed spiritus Patiis. Quomodo ergo haec omnia funt ir 
+      <lb ed="#L" n="16"/>hominum potestate, quae simpliciter negantur ab eis, &amp; Domino conceduntur? Vnde &amp; Act 
+      <lb ed="#L" n="17"/>4. Non possumus nos quae vidimus &amp; audiuimus non loqui. Item Augustinus de naturae &amp; 
+      <lb ed="#L" n="18"/>gratia 27. Caetera, inquit, vitia tantum in malefactis valent; sola autem superbia etiam in recte 
+      <lb ed="#L" n="19"/>factis cauenda est, vnde admonentur illi ne dona Dei suae potestati tribuendo, sese extollendo 
+      <lb ed="#L" n="20"/>grauius pereant, quam si nil operarentur boni; quibus dicitur cum timore &amp; tremore vestram 
+      <lb ed="#L" n="21"/>ipsorum salutem operamini; Deus enim est qui operatur in vobis &amp; velle &amp; operari. Idem de 
+      <lb ed="#L" n="22"/>bono perseuerantiae 18. Voluntate Dei stat qui stat; potens est enim Deus illum statuere; non 
+      <lb ed="#L" n="23"/>ergo se ipse, sed Deus; veruntamen bonum est non altum sapere, sed timere, sicut Apostolas 
+      <lb ed="#L" n="24"/>ait, Non sumus idonei cogitare aliquid ex nobismetipsis, sed sufficientia nostra ex Deo est,  
+      <lb ed="#L" n="25"/>Quem secutus &amp; beatus Ambrosius // audet &amp; dicit; Non enim in potestate nostra cor 
+      no<lb ed="#L" n="26" break="no"/>strum, vel cogitationes nostrae, quod omnis qui humiliter &amp; veraciter pius est, esse 
+      veracissi<lb ed="#L" n="27" break="no"/>mum sentit. Hoc autem Ambrosius vt diceret, in eo libro loquebatur quem de fuga saeculi 
+      <lb ed="#L" n="28"/>scripsit, docens hoc saeculum non corpore sed corde fugiendum, quod nisi auxilio Dei fieri 
+      <lb ed="#L" n="29"/>non posse discernit; &amp; allegato Propheta dicente, Inelina cor meum in testimonia tua, &amp; non  
+      <lb ed="#L" n="30"/>in auaritiam, subiungit Ambrosius; Non enim in potestate nostra cor nostrum &amp; 
+      cogitatio<lb ed="#L" n="31" break="no"/>nes nostrae; non itaque in hominum, sed in Dei est potestate, vt habeant homines 
+      potesta<lb ed="#L" n="32" break="no"/>tem filij Dei fieri. Quod videtur fundari super illud, Iohan. 1. Dedit eis potestatem filli 
+      <lb ed="#L" n="33"/>os Dei fieri, his qui credunt in nomine eius, quam tamen eis non daret si eam ex se ipsis 
+      ha<lb ed="#L" n="34" break="no"/>berent. Unde &amp; Augustinus 2. Retract. 1. Non dicimus, inquit, esse in potestate nostra, nisi 
+      <lb ed="#L" n="35"/>quod cum volumus fit, vbi prius: &amp; maxime est ipsum velle, sed hanc quoque ad bene 
+      viuen<lb ed="#L" n="36" break="no"/>dum desuper accipimus potestatem; quare &amp; idem 3. de libero arbitrio. 29. Nom habet, 
+      in<lb ed="#L" n="37" break="no"/>quit, homo in potestate vt sit bonus, siue non videndo qualis esse debeat, siue videndo &amp; non  
+      <lb ed="#L" n="38"/>valendo esse talem, qualem debere esse se videt; quod &amp; 1. Retract. 9. non retractat, sed 
+      con<lb ed="#L" n="39" break="no"/>tra Pelagianos recirat approbando. Idem de corrept. &amp; gratia 70. ita scribit; Non est 
+      dubi<lb ed="#L" n="40" break="no"/>tandum voluntati Dei, qui in coelo &amp; in terra omnia quaecunque voluit fecit, humanas 
+      volun<lb ed="#L" n="41" break="no"/>tates non posse resistere, quo minus faciat ipse quod vult, quandoquidem etiam de ipsis 
+      ho<lb ed="#L" n="42" break="no"/>minum voluntatibus quod vult, cum vult; facit; nifi forte vt ex multis aliqua commemorem, 
+      <lb ed="#L" n="43"/>quando Deus voluit Sauli Regnum dare, sic erat in potestate Israelitarum subdere se 
+      memora<lb ed="#L" n="44" break="no"/>to viro siue non subdere, quod vtique in eorum Lnon Ferat positum voluntate, vt etiam Deo 
+      <lb ed="#L" n="45"/>valerent resistere; qui tamen hoc non fecit, nisi per ipsorum hominum voluntates, sine dubio 
+      <lb ed="#L" n="46"/>habens humanorum cordium quo placet inellhandorum omnipotentissimam potestatem. 
+      <lb ed="#L" n="47"/>Dicit igitur Augustinus, quod Deus habet potestatem super voluntates humanas, sed quod 
+      <lb ed="#L" n="48"/>homo habeat potestatem super voluntatem diuinam nusquam affirmat, sed innuit 
+      contrari<lb ed="#L" n="49" break="no"/>um eius crebro: Imo &amp; hic docet expresse, quod quando Deus voluit dare regnum Sauli, non 
+      <lb ed="#L" n="50"/>fuit in potestate Israelitarum subdere se ei siue non subdere; quare multo magis non fuit in 
+      <lb ed="#L" n="51"/>potestate eorum quod Deus hoc vellet siue non vellet; ergo eadem ratione nec aliquod velle 
+      <lb ed="#L" n="52"/>Dei est simpliciter in hominis potestate, imo nec aliquis actus hominis aut non actus, cum 
+      <lb ed="#L" n="53"/>haec ambo proueniant a voluntate diuina naturaliter praecedente, sicut tricesimum &amp; 
+      tricesi<lb ed="#L" n="54" break="no"/>mum secundum secundi cum corollario vicesimi secundi primi lucide manifestant. Haec 
+      igi<lb ed="#L" n="55" break="no"/>tur contra resposiunculam primam harum. Secunda vero potest per eadem similiter 
+      emenda<lb ed="#L" n="56" break="no"/>ri. Deum namque velle &amp; praeuelle actum voluntatis creatae, vel est in potestate ipsius 
+      vo<lb ed="#L" n="57" break="no"/>luntatis creatae, vel non: si // sit, ista responsio incidit in priorem: si non, &amp; ad Deum velle &amp; 
+      <lb ed="#L" n="58"/>praeuelle quicquam fieri quouismodo per decimum primi necessario sequitur illud fieri illo 
+      <!--707.xml-->
+      <pb ed="#A" n="674"/>
+               <lb ed="#L" n="1"/>modo; non est ergo in potestate voluntatis creatae velle vel nolle. In consequentia namque 
+      <lb ed="#L" n="2"/>necessaria, si antecedens non est in cuiusquam libera potestate secundum contradictionem, 
+      <lb ed="#L" n="3"/>nec consequens: &amp; si consequens est in cuiusquam libera potestate, est &amp; similiter 
+      antece<lb ed="#L" n="4" break="no"/>dens. Si autem potes facere aliquid, vnde sequitur Deum non velle liberum actum tuum? vel 
+      <lb ed="#L" n="5"/>potes facere illud solus sine coactione diuina, aut sine praeactione diuina, vel non, nisi Deo 
+      <lb ed="#L" n="6"/>tecum agente, &amp; etiam praeagente: si sine coactione &amp; praeactione diuina, cur non similiter 
+      <lb ed="#L" n="7"/>caeteros actus tuos, quod etiam vicesimum &amp; tricesimum secundi non sinunt? Si autem non 
+      <lb ed="#L" n="8"/>potes facere illum actum, nisi Deo tecum agente, &amp; etiam praeagente, quomodo est ille actus 
+      <lb ed="#L" n="9"/>in tua libera potestate? Si per alium talem actum priorem, similiter quaerendum de illo, &amp; si 
+      <lb ed="#L" n="10"/>nolis, sicut nec potes in infinitum procedere, sed stare in aliquo actum finaliter, de illo 
+      quaera<lb ed="#L" n="11" break="no"/>tur, &amp; arguatur vt supra. Adhuc autem quomodo est in potestate tua, quid voles &amp; facies 
+      im<lb ed="#L" n="12" break="no"/>mediate post hoc praesens instans? Non enim potes facere in praesenti aliud quam nunc facis, 
+      <lb ed="#L" n="13"/>Amplius autem creatus, adultus, euigilans, seu curatus a furia in praesenti instanti, secundum prius 
+      <lb ed="#L" n="14"/>ostensa in eodem instanti libere potest velle, &amp; nunquam prius potuit libere facere quippiam, 
+      <lb ed="#L" n="15"/>unde Deum non velle nunc aut prius ipsum sic agere sequeretur. Secundum istam quoque 
+      <lb ed="#L" n="16"/>sententiam, mouere vel non mouere, percutere vel non percutere esset in potestate manus &amp; 
+      <lb ed="#L" n="17"/>baculi, &amp; serrate vel non serrare in potestate serrae, in potestate videlicet contradictionis: 
+      <lb ed="#L" n="18"/>Potest enim facere aliquid vel non facere, talem videlicet actionem: vnde consequitur 
+      euiden<lb ed="#L" n="19" break="no"/>ter quod moueat, percutiat, siue serret, vel non; maxime si manus, baculus, siue serra ponatur 
+      <lb ed="#L" n="20"/>imaginatie rationalis, &amp; libere voluntatis hoc modo, quod non possint mouere originaliter ex 
+      <lb ed="#L" n="21"/>seipsis, sed homine seu artifice praemouente, quorum &amp; praemotionem necessario 
+      consequan<lb ed="#L" n="22" break="no"/>tur, sicut superius tangebatur. De Lino quoque &amp; Petro simili modo dispositis potest fieri 
+      si<lb ed="#L" n="23" break="no"/>mile argumentum, sicut &amp; contra responsionem proximam erat factum. Adhuc autem &amp; 
+      <lb ed="#L" n="24"/>potest similiter argui de Sole &amp; Luna, praesertim supposito secundum opinionem 
+      quorun<lb ed="#L" n="25" break="no"/>dam, quod sint animati anima rationali, &amp; quod voluntarie moueantur; non tamen 
+      solum<lb ed="#L" n="26" break="no"/>modo nec primo ex seipsis, sed a superiore motore, puta ab intelligentia vel a Deo ipsos 
+      vo<lb ed="#L" n="27" break="no"/>luntarie praemouente, cuius &amp; praeuolutionem &amp; praemotionem necessario subsequantur; 
+      <lb ed="#L" n="28"/>quod sit in potestate ipsorum moueri ab Oriente in Occidentem, vel e contra procedere vel 
+      <lb ed="#L" n="29"/>retrogradi, facere eclipsim, vel non facere, mouere vel stare, iuxta praetacta, 32. parte 
+      corol<lb ed="#L" n="30" break="no"/>larij primi primi: Possunt enim virtute superioris motoris facere aliquid, vnde sequitur hoc 
+      <lb ed="#L" n="31"/>vel illud. Responsio tertia potest corrigi vt secunda. Praeterea si aeque primo, sicut voluntas, 
+      <lb ed="#L" n="32"/>increata praecedit creatam ad productionem liberi actus sui, potest creata non producere illum 
+      <lb ed="#L" n="33"/>actum, vel hoc potest aliquid faciendo, vel nihil. Si aliquid, vel potest hoc aliquid facere ex 
+      <lb ed="#L" n="34"/>se sola sine Deo etiam coagente, contra vicesimum secundi, vel non potest hoc aliquid facere 
+      <lb ed="#L" n="35"/>nisi Deo idem specialiter coagente, &amp; etiam praeagente, &amp; tunc tota reuertitur difficultas, quo 
+      <lb ed="#L" n="36"/>modo scilicet illud facere, illa actio siue actus sit in potestate illius voluntatis creatae. Si 
+      au<lb ed="#L" n="37" break="no"/>tem dicatur, quod hoc potest nihil penitus faciendo, illum videlicet actum nullatenus 
+      produ<lb ed="#L" n="38" break="no"/>cendo, vel illa non productio potest esse sibi ex se sola sine Deo illam causante &amp; naturaliter 
+      <lb ed="#L" n="39"/>praecausante contra decimum tertium primi, &amp; tricesimum secundum secundi, vel non, nisi 
+      <lb ed="#L" n="40"/>Deo illam similiter concausante &amp; naturaliter praecausante, &amp; tunc reuertitur pristina 
+      difficul<lb ed="#L" n="41" break="no"/>tas. Adhuc autem, si agere sit in potestate contradictoria voluntatis creatae, est &amp; non agere; 
+      <lb ed="#L" n="42"/>&amp; si agere sit in potestate voluntatis creatae propter causam praedictam, est &amp; non agere 
+      prop<lb ed="#L" n="43" break="no"/>ter causam consimilem; quia videlicet aeque primo sicut voluntas increata praecedit creatam ad  
+      <lb ed="#L" n="44"/>libere non agendum, potest creata in oppositum, scilicet libere agere; vel hoc potest ex se 
+      so<lb ed="#L" n="45" break="no"/>la, vel non, nisi Deo proprie coagente, &amp; etiam praeagente, &amp;c. sicut supra. Quarta responsio 
+      <lb ed="#L" n="46"/>potest similiter corrigi vt secunda. Quinta responsio per vicesimum secundi &amp; sequentia 
+      re<lb ed="#L" n="47" break="no"/>probatur, nec etiam difficultatem euitat. Si enim Deus ordinauit &amp; velit, quod voluntas 
+      cre<lb ed="#L" n="48" break="no"/>ata sola faciat actum, cum per decimum primi ex hoc necessario consequatur ipsam sic facere, I 
+      <lb ed="#L" n="49"/>&amp; antecedens non est in eius libera potestate; quare nec consequens, sicut superius est 
+      argu<lb ed="#L" n="50" break="no"/>tum. Responsio vero sexta corripitur per decimum primi libri.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

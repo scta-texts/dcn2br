@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 37</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 37</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="316"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e42741"><!-- l1c37 -->
+            <head xml:id="dcn2br-e42741-Hd1e106">Caput 37</head>
+            <p xml:id="dcn2br-e42741-d1e109">
+      <!--349.xml-->
+               <pb ed="#A" n="316"/>
+               <lb ed="#L" n="1"/>CAP. XXXVII. 
+      <lb ed="#L" n="2"/>Contra quosdam Pelagianos dicentes hominem posse ex se tan¬ 
+      <lb ed="#L" n="3"/>tum debite praeparare, quod si faciat, Deus dabit sibi 
+      <lb ed="#L" n="4"/>gratiam Iuam gratis. 
+    </p>
+            <p xml:id="dcn2br-e42741-d1e125">
+               <lb ed="#L" n="5"/>SVNT adhuc alij opinantes quod homo non potest ex se 
+      me<lb ed="#L" n="6" break="no"/>reri proprie gratiam; potest tamen se debite praeparare, &amp; tunc 
+      <lb ed="#L" n="7"/>Deus sibi dabit gratiam suam gratis: sicut in naturalibus, cum 
+      <lb ed="#L" n="8"/>materia fuerit debite praeparata, inducitur statim forma. Haec 
+      <lb ed="#L" n="9"/>autem praeparatio vel iuuat in aliquo, vel non iuuat: Si non 
+      iu<lb ed="#L" n="10" break="no"/>uat, non praeparat, nec disponit; si iuuat, est aliquo modo 
+      lau<lb ed="#L" n="11" break="no"/>dabilis &amp; meritoria, &amp; aliqua causa gratificationis contra duo 
+      <lb ed="#L" n="12"/>capitula proxima; &amp; sic redeunt contra hunc errorem omnia 
+      <lb ed="#L" n="13"/>argumentaffcta hic &amp; ibi. Item secundum hoc, principium 
+      fi<lb ed="#L" n="14" break="no"/>dei est a nobis, supplementum vero a Deo, quod recitat 
+      Augu<lb ed="#L" n="15" break="no"/>stinus &amp; reprobat, de Praedestinatione Sanctorum 2. dicens: 
+      <lb ed="#L" n="16"/>Si non pertinet ad Dei gratiam, quod credere caepimus, sed 
+      il<lb ed="#L" n="17" break="no"/>ud potius quod propter hoc nobis additur, ac per hoc principium fidei nostrae priores damus 
+      <lb ed="#L" n="18"/>Deo, vt retribuatur nobis supplementum eius; sed quis dicat eum qui iam caepit credere, ab 
+      <lb ed="#L" n="19"/>illo, in quem credidit, nihil mereri? Vnde sit, vt iam merenti, caetera dicantur addi 
+      retribu<lb ed="#L" n="20" break="no"/>tione diuina, ac per hoc gratiam Dei secundum merita nostra dari, quod obiectum sibi 
+      Pela<lb ed="#L" n="21" break="no"/>gaius, ne damnaretur ipse, damnauit. Et de praeparatione potest argui similiter omni 
+      modo<lb ed="#L" n="22" break="no"/>Simili modo arguit de gratia &amp; libero arbitrio capitulo 12. 17. 18. Item ipsa praeparatio est 
+      <lb ed="#L" n="23"/>gratuitum donum Dei, vt oun &amp; 2oum capitula manifestant, quod &amp; 27um cum I0o &amp; eodem 
+      <lb ed="#L" n="24"/>Xoo domprobabit, &amp; satis patet per summum Autorem nostrum Iohan. 15. sic dicentem, Sine 
+      <lb ed="#L" n="25"/>me nihil potestis facere, &amp; per Discipulum suum Paulum 2. ad Corinth. 3. confitentem; 
+      Fi<lb ed="#L" n="26" break="no"/>duciam talem habemus per Christum ad Deum, quod non sufficientes simus cogitare aliquid  
+      <lb ed="#L" n="27"/>a nobis, quasi exnobis, sed sufficientia nostra ex Deo est. Et I. ad Corinth. 4. Quid habes, 
+      <lb ed="#L" n="28"/>quod non accepisti? si autem accepisti, quid gloriaris quasi non acceperis? Et ad Rom. II. 
+      <lb ed="#L" n="29"/>Quoniam ex ipso, &amp; per ipsum, &amp; in ipso sunt omnia; Vnde &amp; Augustinus virtute istarum  
+      <lb ed="#L" n="30"/>autoritatum suffultus procedit peri totum librum de Praedestinatione Sanctorum, ostendens 
+      <lb ed="#L" n="31"/>quod principium fidei, complementum, &amp; finis, &amp; totum penitus est a Deo. Vnde capit. 7. 
+      <lb ed="#L" n="32"/>dicit de Electis gratis consecuta est electio, quod consecuta est, non praecessit eorum aliquid 
+      <lb ed="#L" n="33"/>quod priores darent, &amp; retribueretur illis, quod probat per illud Psalmi superius allegatum, 
+      <lb ed="#L" n="34"/>Pro nihilo saluos fecit illos; Et infra 14. Omnis haec ratio, qua defendemus gratiam vere 
+      <lb ed="#L" n="35"/>esse, id est, non secundum merita nostra dari, quamuis euidentissime diuinorum // tesrimonigis 
+      <lb ed="#L" n="36"/>eloquiorum asseratur, tamen apud eos, qui nisi sibi aliquid assignent quod priores dent &amp; 
+      retri<lb ed="#L" n="37" break="no"/>buatur eis, ab omnis studio pietatis reprimi se putant, laborat aliquanto in aetate maiorum 
+      v<lb ed="#L" n="38" break="no"/>tentium voluntatis arbitrio, sed vbi venitur ad paruulos, &amp; ad ipsum mediatorem Dei &amp; 
+      ho<lb ed="#L" n="39" break="no"/>minum, hominem Iesum Christum, omnis deficit praecedentium gratiam humanorum 
+      asser<lb ed="#L" n="40" break="no"/>tio meritorum. Idem de bono perseuerantiae 67. Attendant, quomodo falluntur qui putant 
+      <lb ed="#L" n="41"/>esse a nobis, vt peramus, quaeramus, &amp; pulsemus; Et hoc esse dicunt, quod gratia 
+      praecedi<lb ed="#L" n="42" break="no"/>tur merito, vt sequatur illa, cum accipimus petentes, &amp; inuenimus quaerentes, aperiturque 
+      pul<lb ed="#L" n="43" break="no"/>santibus, nec volunt intelligere, etiam hoc diuini esse muneris vt petamus, quaeramus atque 
+      p<lb ed="#L" n="44" break="no"/>pulsemus. Accepimus enim Spiritum adoptionis filiorum, in quo clamamus Abba pater:ad  
+      <lb ed="#L" n="45"/>quod etiam allegar beatum Ambrosium, sic dicentem, Et orare Deum, gratiae spiritualis est,  
+      <lb ed="#L" n="46"/>sicut scriptum est, Nemo dicit, Dominus Iesus, nisi in Spiritu Sancto. Item tunc recipere 
+      gra<lb ed="#L" n="47" break="no"/>tiam esset volentis &amp; currentis, contra Apostolum ad Romanos 8. quoniam eius est se 
+      <lb ed="#L" n="48"/>debite praeparare. Et confirmatur per Augustinum Enchirid. 23 super hac autoritate 
+      Apo<lb ed="#L" n="49" break="no"/>stoli disputantem, &amp; ipsam praeparationem voluntatis nostrae Deo totaliter tribuentem, vt 
+      <lb ed="#L" n="50"/>erat contra eraorem proximo allegatum. Idem patet per eum de duabus animabus 15. &amp;  
+      <lb ed="#L" n="51"/>recitatur 2. Sentent. Petri dist. 26. dicentem, quod voluntas vt non admittat malum &amp; 
+      adi<lb ed="#L" n="52" break="no"/>piscatur bonum, praeuenitur &amp; praeparatur Der gratia, quod &amp; cgnfirmat per illud Apostoli. 
+      <!--350.xml-->
+      <pb ed="#A" n="317"/>
+               <lb ed="#L" n="1"/>Non volentis, neque currentis, &amp;c. Idem patet per eundem 1. Retractat. 25. &amp; de praedesti¬ 
+      <lb ed="#L" n="2"/>natione Sanctorum quarto, dicentem, quod Deus praeparat voluntatem; &amp; infra sexto. Licet 
+      <lb ed="#L" n="3"/>credere vel non credere sit in arbitrio voluntatis humanae, tamen in electis praeparatur 
+      <lb ed="#L" n="4"/>voluntas a Domino: Et inferius septimo; Cum multi audiunt verbum veritatis, alij 
+      cre<lb ed="#L" n="5" break="no"/>dunt, alij contradicunt, cum in alijs praeparatur, in alijs non praeparatur voluntas a 
+      Do<lb ed="#L" n="6" break="no"/>mino. Et De gratia &amp; libero arbitrio, vicesimo primo; Formamur &amp; creamur in 
+      operi<lb ed="#L" n="7" break="no"/>bus bonis, quae non praeparauimus nos, sed praeparauit Deus omnipotens, vt in illis 
+      <lb ed="#L" n="8"/>ambulemus. Nonne &amp; regalis Propheta dicit Deo; Praeparans montes in virtute tua, 
+      <lb ed="#L" n="9"/>Psalm, sexages: quarto. montes, scilicet in statu vitae excelsos, sed ipse praeparans montes, non  
+      <lb ed="#L" n="10"/>montes seipsos, &amp; hoc virtute tua, non sua. Quare &amp; infra; Flumen, inquit, Dei repletum est 
+      <lb ed="#L" n="11"/>aquis; hoc est secundum Augustinum, populus Dei repletus est Spiritu Sancto, id est, 
+      spiri<lb ed="#L" n="12" break="no"/>tualibus donis eius. Parasti cibum illorum, scilicet spiritalem, quoniam ita est praeparatio 
+      e<lb ed="#L" n="13" break="no"/>ius. Vbi Psalterium Romanum, quod Augustinus exponit, sic habet: Quoniam ita est 
+      prae<lb ed="#L" n="14" break="no"/>paratio tua: super quod Augustinus; Non quia te promeruerunt, quibus peccata donasti, 
+      me<lb ed="#L" n="15" break="no"/>rita enim illorum mala erant) sed tu propter misericordiam tuam, quia ita est praeparatio tua; 
+      <lb ed="#L" n="16"/>ita parasti cibum illorum. Quomodo etiam praeparauit se Paulus crudelissime saeuiens 
+      con<lb ed="#L" n="17" break="no"/>tra Christum ad Christ gratiam promerendam? quomodo Matthaeus? &amp; quomodo alij sic 
+      <lb ed="#L" n="18"/>miles? Nonne quosdam infirmos legimus Dominum curauisse, a quibus, aut pro quibus non  
+      <lb ed="#L" n="19"/>fuerat deprecatus, neque qui se in aliquo praeparabant, ex misericordia sua sola? Nonne &amp; 
+      <lb ed="#L" n="20"/>homo misericors, pius, &amp; bonus, sciens &amp; potens sic faceret? Cur ergo non Deus in 
+      omni<lb ed="#L" n="21" break="no"/>bus melior infinite? &amp; si infirmitates corporales sic sanet, cur non similiter, imo potius 
+      spiri<lb ed="#L" n="22" break="no"/>tales? Nonne anima plus est quam corpus? similior Creatori &amp; charior Redemptori? Sed 
+      <lb ed="#L" n="23"/>obijcient forsan isti, quod illud Psalmi 9. Praeparationem cordis audiuit auris tua: &amp; Parabol. 
+      <lb ed="#L" n="24"/>16. Hominis animum est praeparare, &amp; Domini gubernare linguam; &amp; I. Reg. 2. Ipsi praepa 
+      <lb ed="#L" n="25"/>rantur cogitationes. Item orationes &amp; eleemosynae Cornelij non dum baptizati, nec fidelis, 
+      <lb ed="#L" n="26"/>ascenderunt in memoriam in conspectu Dei; quare praecepit sibi per Angelum, vt Simonem 
+      <lb ed="#L" n="27"/>accerseret, qui accersitus &amp; veniens ipsum Cornelium baptizaut, vt patet Act. 10. Ergo 
+      prop<lb ed="#L" n="28" break="no"/>ter illam praeparationem per orationes &amp; eleemosynas meruit baptizari. Item in tali adulto 
+      <lb ed="#L" n="29"/>baptiuando ante baptismum sunt multae cogitationes, &amp; deliberationes de baptizari, &amp; 
+      tan<lb ed="#L" n="30" break="no"/>dem consensus, &amp; hac tota praeparatione completa, datur gratia baptismalis. Primum autem 
+      <lb ed="#L" n="31"/>istorum nihil concludit, quoniam ita Deus exaudit orationes nostras, quae tamen non sunt 
+      <lb ed="#L" n="32"/>tantum nec primo a nobis, sed a Deo in nobis. Accepimus enim spiritum adoptionis 
+      filio<lb ed="#L" n="33" break="no"/>rum, in quo clamamus Abba pater, ad Rom. 8. quod exponens Apostolus ad Gal. 4. dicit; 
+      <lb ed="#L" n="34"/>Misit Deus spiritum Filij in corda nostra clamantem Abba pater, id est, clamare nos 
+      facien<lb ed="#L" n="35" break="no"/>tem, sicut patet per expositiones Sanctorum, &amp; per Augustinum de bono perseuerantiae, 66. 
+      <lb ed="#L" n="36"/>per quem cum beato Ambrosio, cap. 67. responsio tota patet, sicut erat superius allegatum. 
+      <lb ed="#L" n="37"/>Ad aliud cum allegant, quod Hominis est animum praeparare, &amp; Domini gubernare 
+      lin<lb ed="#L" n="38" break="no"/>guam: verum est certe, sed non solius hominis est animum praeparare, sed etiam Domini, sicut 
+      <lb ed="#L" n="39"/>superius est ostensum: Ideo vtrumque istorum est Domini. Quis enim ignorat maius esse, &amp;  
+      <lb ed="#L" n="40"/>melius animum praeparare ad sapienter loquendum, quam eloqui praeparata? Quoniam 
+      se<lb ed="#L" n="41" break="no"/>cundum Catonem; Sermo datur cunctis, animi sapientia paucis. Et quis, non dico 
+      Christi<lb ed="#L" n="42" break="no"/>anus, sed vel Pelagianus audeat sibi ipsi tribuere quod melius est &amp; maius, Domino vero Deo 
+      <lb ed="#L" n="43"/>quod deterius est &amp; minus? Vnde Iacob. 1. Omne datum optimum, &amp; omne donum 
+      perfe<lb ed="#L" n="44" break="no"/>ctum de sursum est, descendens a Patreluminum. Et Augustinus de verbis Apostoli serm. 15. 
+      <lb ed="#L" n="45"/>Eris opus Dei, non solum quia homo es, sed etiam quia iustus es: melius est enim hominem 
+      <lb ed="#L" n="46"/>iustum esse, quam hominem esse. Si hominem te fecit Deus, &amp; iustum tu tefacis, melius 
+      ali<lb ed="#L" n="47" break="no"/>quid facis, quam Deus fecit. Idem super illud Psalmi, 144. In iustitia tua exultabunt. Nemo 
+      <lb ed="#L" n="48"/>Deo tribuat quod est, &amp; sibi quod iustus est; Melius enim tribuis tibi quam Deo; melius enim 
+      <lb ed="#L" n="49"/>est iustum esse, quam hominem esse. Et Bernardus de gratia, &amp; libero arbitrio, 10. Absit vt 
+      <lb ed="#L" n="50"/>naturae voluntatis ipsi perfectionem, Deo autem tantum creationem tribuamus, cum longe 
+      <lb ed="#L" n="51"/>nimirum melius sit esse perfectam, quam factam; &amp; cum dictum ipsum nefas videatur Deo 
+      <lb ed="#L" n="52"/>quod minus, nobis quod excelsius sit attribuere. Augustinus quoque 12. de Ciuit. Dei 
+      ocar<lb ed="#L" n="53" break="no"/>guit isto modo; Si boni Angeli fuerint prius sine bona voluntate, eamque in se ipsi Deo non 
+      co<lb ed="#L" n="54" break="no"/>operante fecerunt, ergo meliores a seipsis quam ab si ipso facti sunt. Absit autem, si non 
+      pote<lb ed="#L" n="55" break="no"/>runt seipsos facere meliores, quam eos ille fecerat, quo nemo melius quicquam facit, 
+      pro<lb ed="#L" n="56" break="no"/>fecto &amp; bonam voluntatem, qua meliores essent, nisi operante adiutorio creatoris habere 
+      <lb ed="#L" n="57"/>non possent. Qui &amp; I. contra Pelagium &amp; Coelestium de gratia Christi, &amp; de peccato 
+      origi<lb ed="#L" n="58" break="no"/>nali 22. redarguens Pelagium aestimantem cogitationem immitti a Deo, sed dilectionem esse 
+      <!--351.xml-->
+      <pb ed="#A" n="318"/>
+               <lb ed="#L" n="1"/>a nobis, sic ait;; Cogitationem &amp; dilectionem, sicut sunt discernenda discernat, &amp; cum sit 
+      v<lb ed="#L" n="2" break="no"/>trumque donum Dei, sed vnum minus, alterum maius, non hic iustitiam nostram per laudem 
+      iu<lb ed="#L" n="3" break="no"/>stificatoris nostri extollat, vt horum duorum quod minus est diuino tribuat adiutorio, quod 
+      <lb ed="#L" n="4"/>autem maius est humano vsurpet arbitrio; &amp; si consenserit, nos gratia Dei accipere charitate, 
+      <lb ed="#L" n="5"/>non sic sentiat, tanquam vlla meritoria bona nostra praecesse rint. Nam vnde merita bona tunc 
+      <lb ed="#L" n="6"/>habere poteramus, quando Deum non diligebamus? Vt enim acciperemus dilectionem, qua 
+      <lb ed="#L" n="7"/>diligeremus, dilecti sumus, cum eam nondum haberemus. Hoc Ioan. Apost. apertissime dicit, 
+      <lb ed="#L" n="8"/>non quod dilexerimus Deum, sed quia ipse dilexit nos; optime omnino atque verissime. 
+      None<lb ed="#L" n="9" break="no"/>enim haberemus, vnde eum diligeremus, nisi hoc ab illo, cum prior nos diligeret, sumeremus, 
+      <lb ed="#L" n="10"/>Quid autem boni faceremus, nisi diligeremus? aut quomodo bonum non facimus, si diligam?? 
+      <lb ed="#L" n="11"/>Etti enim Dei mandatum videtur aliquando a non diligentibus, sed a timentibus fieri, tamen  
+      <lb ed="#L" n="12"/>vbi non est dilectio, nullum opus bonum imputatur, non recte bonum opus vocatur, quia 
+      om<lb ed="#L" n="13" break="no"/>ne quod non est ex fide, peccatum est, &amp; Fides per dilectionem operatur. Quia tame Salomon B 
+      <lb ed="#L" n="14"/>videtur ponere differentiam aliquam inter animum praeparare, &amp; linguam gubernare; 
+      scien<lb ed="#L" n="15" break="no"/>dum quod gubernare est alicuius rectoris superioris, respectu alicuius inferioris per illum 
+      dire<lb ed="#L" n="16" break="no"/>cti; Agere autem est cuiuscunque causae actiuae siue superioris siue inferioris, &amp; ideo potest dici, 
+      <lb ed="#L" n="17"/>quod ignis calefacit ferrum; sed fabri est gubernare, &amp; moderati calorem &amp; calefactionem: sic 
+      <lb ed="#L" n="18"/>&amp; hominis est animum praeparare, non tamem solius, sed sicut causae inferioris actiuae cum 
+      cau<lb ed="#L" n="19" break="no"/>sa superiori actiua, &amp; in virtute illius qui est Dominus; sed Domini solius tanquam supremi 
+      re<lb ed="#L" n="20" break="no"/>ctoris est gubernare linguam, tamen homine subagente, sicut fabri est gubernare malieum 
+      so<lb ed="#L" n="21" break="no"/>nos varios concitantem. In manu enim Dei &amp; nos &amp; sermones nostri. Multum etiam 
+      con<lb ed="#L" n="22" break="no"/>grue diceretur, Domini // est animum // gubernare, &amp; hominis praeparare linguam. Illud autem 
+      <lb ed="#L" n="23"/>I. Reg. 2 Ipsi praeparantur cogitationes, intelligit Glossa sic, id est, cogitationi eius, quasi 
+      dice<lb ed="#L" n="24" break="no"/>ret, Nullae cogitationes latent eum, &amp; hoc videtur praetendere totus versus: Recedant, inquit,  
+      <lb ed="#L" n="25"/>vetera de ore vestro, quia Deus scientiarum Dominus est, &amp; ipsi praeparantur cogitationes. De 
+      <lb ed="#L" n="26"/>Cornelio vero dico, quod quantamcunque bonam praeparationem habuit, accepit iam gratis 
+      <lb ed="#L" n="27"/>a Deo, sicut praecedentia docuerunt. Nec etiam erat penitus infidelis. Quomodo enim Deum  
+      <lb ed="#L" n="28"/>orasset, &amp; pro eius amore eleemosinas erogasset, nisi aliquo modo credidisset in eum? non 
+      ta<lb ed="#L" n="29" break="no"/>men habuit plenam fidem, vel non reuelatam in omnibus, sed velatam, &amp; his modis respondit 
+      <lb ed="#L" n="30"/>Aug. obijcientibus eandem instatiam, de praedestinatione Sanctorum 8. Solet, inquit, dici, Ideo 
+      <lb ed="#L" n="31"/>credere meruit, quia vir bonus erat, &amp; antequam crederet, quod de Cornelio dici potest, cuius 
+      <lb ed="#L" n="32"/>acceptae sunt eleemosynae, &amp; exauditae orationes antequam credidisset in Christum, nec tamen  
+      <lb ed="#L" n="33"/>sine aliqua fide donabat &amp; orabat. Nam quomodo inuocabat, in quem non crediderat? sed si 
+      <lb ed="#L" n="34"/>posset sine fide Christi esse saluus, non ad eum aedificandum mirteretur architectus Apost. 
+      Pe<lb ed="#L" n="35" break="no"/>trus, quamuis nisi Dominus aedificet domum, in vanum // laborauerunt aedificantes eam. 
+      Quic<lb ed="#L" n="36" break="no"/>quid igitur &amp; antequam in Christum crederet, &amp; cum credidisset, bene operatus est Cornelius, 
+      <lb ed="#L" n="37"/>totum dandum est Deo, ne forte quis extollatur. Ad ultimum patet per indem; omnes enim tales 
+      <lb ed="#L" n="38"/>cogitationes fiunt gratis a Deo, sine quo nihil possumus facere, cum non sufficientes simus 
+      co<lb ed="#L" n="39" break="no"/>gitare aliquid a nobis, quasi ex nobis. Pro quo dicit Aug. de praedestinatione Sanctorum 2. 
+      <lb ed="#L" n="40"/>Quis non videat prius esse cogitare, quam credere? Nullus quippe credit, nisi prius 
+      cogitaue<lb ed="#L" n="41" break="no"/>rit esse credendum. Quamuis enim raptim, quamuis celerrime credendi voluntatem, quaedam  
+      <lb ed="#L" n="42"/>sanctae cogitationes ante volent, moxque illa ita sequatur, vt quasi coninctissima comitetur, 
+      ne<lb ed="#L" n="43" break="no"/>cesse est tamen, vt omnia quae creduntur, praeueniente // cogitatione credantur. Quod ergo ad 
+      re<lb ed="#L" n="44" break="no"/>ligionem pertinet atque pietatem, no sumus idonei cogitare aliquid quasi ex nobismetipsis, sed 
+      <lb ed="#L" n="45"/>sufficientia nostra ex Deo est. Verum licet ista ita se habeant, non est tamen intentionis meae 
+      <lb ed="#L" n="46"/>negare omnem praeparationem &amp; dispositionem praeuiam charitati, &amp; gratiae in adultis: Scio 
+      <lb ed="#L" n="47"/>enim quod timor seruilis, timor poenae, timor incommodi, amor commodi, &amp; virtutes 
+      mora<lb ed="#L" n="48" break="no"/>les, multum retrahunt a peccato, inclinant ad opera bona, &amp; sic ad charitatem &amp; gratiam, &amp;  
+      <lb ed="#L" n="49"/>ad opera vere grata praeparant &amp; disponunt, sicut satis ostendunt autoritates quamplurimae 3. 
+      <lb ed="#L" n="50"/>sentent. Petri dist. 34. scriptae. Nullus tamen aliquid horum potest, nec se quouismodo 
+      dispo<lb ed="#L" n="51" break="no"/>nere sine Deo specialiter id agente, sicut praecedentia manifestant. Veruntamen collatio gratiae 
+      <lb ed="#L" n="52"/>non semper sequitur praeparationem huiusmodi, sicut nec ipsam gratiam collatam 
+      perseue<lb ed="#L" n="53" break="no"/>rantia, praedestinatiue ad vitam, sicut praehabita clare docent.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

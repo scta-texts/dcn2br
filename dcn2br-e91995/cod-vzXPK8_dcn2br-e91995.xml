@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="696"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91995"><!-- l3c22 -->
+            <head xml:id="dcn2br-e91995-Hd1e106">Caput 22</head>
+            <p xml:id="dcn2br-e91995-d1e109">
+               <lb ed="#L" n="29"/>CAP. XXII. 
+      <lb ed="#L" n="30"/>Castioat decimamquartam opinionem, quod Deus non vult aliquid 
+      <lb ed="#L" n="31"/>libere futurum absolute, sed tantum conditionaliter, &amp; 
+      decimam<lb ed="#L" n="32" break="no"/>quintam, quod nulla mala, sed tantum bona sunt 
+      absolutepro<lb ed="#L" n="33" break="no"/>uisa, voluta, aut facta a Deo, 
+      </p>
+            <p xml:id="dcn2br-e91995-d1e122">
+               <lb ed="#L" n="34"/>DEcimaquarta vero ponit, quod Deus non vult libera futura absolute, sed 
+      <lb ed="#L" n="35"/>&amp; tantum conditionaliter, scilicet, si actiua libera ipsa velint. 
+      Decimaquin<lb ed="#L" n="36" break="no"/>go ta asserit quod nulla mala, sed tantum bona sunt absolute, immediate, &amp;  
+      <lb ed="#L" n="37"/>les proprie prouisa a Deo, voluta, atque facta. Sed hae ambae peccant 
+      du<lb ed="#L" n="38" break="no"/>A pliciter: primo, quia falsum supponunt; secundo, quia difficultatem pro¬ 
+      <lb ed="#L" n="39"/>blematis non euadunt. Prima falsum supponit, sicut monstrat 
+      corollari<lb ed="#L" n="40" break="no"/>um tricesimi in secundo, Nec difficultatem euadit, quia postquam Deus 
+      <lb ed="#L" n="41"/>absolute volendo fecerit aliquid liberum praesens vel praeteritum, neces¬ 
+      <!--730.xml-->
+      <pb ed="#A" n="697"/>
+               <lb ed="#L" n="1"/>se est Deum in praesenti &amp; semper in futuro hoc velle, vt per 23. primi claret, &amp; non magis 
+      <lb ed="#L" n="2"/>necesse tunc quam ante, sicut per idem 23. potest ostendi, &amp; quia aliter res voluta, praesens, 
+      <lb ed="#L" n="3"/>vel praeterita necessitaret voluntatem diuinam, &amp; ei adimeret pristinam libertatem; ergo de 
+      <lb ed="#L" n="4"/>quocunque futuro Deus nunc vult, &amp; semper voluit necessario ipsum fore; ergo &amp; per deci 
+      <lb ed="#L" n="5"/>mum (primiIomnia futura de necessitate euenient. Secunda similiter falsum supponit, sicut 
+      <lb ed="#L" n="6"/>probant adducta contra 6. opiniones capitulis proximis recitatas. Hanc etiam reprimit 26. 
+      <lb ed="#L" n="7"/>primi, ostendens quod nihil est per se malum, sed quod omnis actus malus, secundum id 
+      <lb ed="#L" n="8"/>quod est, bonus est &amp; a Deo; quod &amp; 20. secundi demonstrat: hanc quoque eandem 
+      conuin<lb ed="#L" n="9" break="no"/>cit 33. 34. primi. Quare &amp; <name xml:id="dcn2br-e91995-Nd1e165">Stephanus Parisiensis Episcopus</name> damnauit articulum 
+        affirman<lb ed="#L" n="10" break="no"/>tem, <quote xml:id="dcn2br-e91995-Qd1e170" source="http://scta.info/resource/z88d99-avn8u2-d1e1818@1-26">quod omnes motus voluntarij reducuntur in motorem primum; Error, inquiens, nisi 
+      <lb ed="#L" n="11"/>intelligatur in primum motorem simpliciter non causatum, &amp; intelligendo de 
+      motusecun<lb ed="#L" n="12" break="no"/>dum substantiam, non secundum deformitatem</quote>. Haec etiam opinio ita dicit, tantum vt hanc 
+      <lb ed="#L" n="13"/>vniuersalem euitet, Omnia quae euenient, de necessitate euenient, per hoc, quod non omnia, 
+      <lb ed="#L" n="14"/>quia non mala sunt a Deo prouisa, voluta, // neque facta: omnia tamen bona concedit esse a 
+      <lb ed="#L" n="15"/>Deo prouisa, voluta, atque facta. Quare &amp; consequenter habet concedere, quod omnia bona 
+      <lb ed="#L" n="16"/>quae euenient, de necessitate euenient, quod etiam satis magnum videtur absurdum, &amp; non  
+      <lb ed="#L" n="17"/>multo minus impugnabile, quam illa vniuersalior supradicta. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

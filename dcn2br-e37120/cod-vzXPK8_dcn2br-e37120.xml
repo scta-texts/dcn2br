@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 31</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 31</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="272"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e37120"><!-- l1c31 -->
+            <head xml:id="dcn2br-e37120-Hd1e106">Caput 31</head>
+            <p xml:id="dcn2br-e37120-d1e109">
+               <lb ed="#L" n="43"/>CAP. XXXI. 
+      <lb ed="#L" n="44"/>Quod actiones voluntariae diuinae prouidentiae supponuntur. 
+      </p>
+            <p xml:id="dcn2br-e37120-d1e116">
+               <lb ed="#L" n="45"/>ADhuc autem posset aliquis proteruire dicendo, ipsas res voluntarias E 
+      <lb ed="#L" n="46"/>sub prouidentia contineri, sed non ipsas voluntarias actiones. Quare 
+      <lb ed="#L" n="47"/>videtur expediens istam proteruiam refraenare, quod per Capitula 
+      <lb ed="#L" n="48"/>proxima &amp; probationes eorum fieri plane potest. Item per rationes 
+      <lb ed="#L" n="49"/>&amp; Autoritates capituli proximi, Voluntaria prouidentiae diuinae 
+      sub<lb ed="#L" n="50" break="no"/>duntur, &amp; hoc specialibus caeteris, ergo secundum // mentem Autorum, 
+      <lb ed="#L" n="51"/>hoc est secundum quod, vel quae sunt voluntaria, scilicet secundum suas 
+      <lb ed="#L" n="52"/>voluntarias actiones; Nam ipsa potentia volutiua, &amp; quaecunque alia 
+      <lb ed="#L" n="53"/>praeter voluntarias actiones, sunt pure naturalia, &amp; necessaria. In prouidentia ergo talium 
+      <lb ed="#L" n="54"/>non est per viros discretos tanta discretio facienda, a prouidentia naturalium caeterorum, imo 
+      <!--306.xml-->
+      <pb ed="#A" n="273"/>
+               <lb ed="#L" n="1"/>verius posset dici; Facies hominis quasi pisces maris, &amp; quasi reptile non habens principem, 
+      <lb ed="#L" n="2"/>Abacue i. nisi Deus etiam prouideret voluntarias actiones. Item per capit. nonum, 
+      Volun<lb ed="#L" n="3" break="no"/>tas Dei est causa motiua cuiuslibet motionis, &amp; non perperam sed cum sapientia disponente, 
+      <lb ed="#L" n="4"/>&amp; neutra earum noua, sed aeterna, sicut praecedentia docuerunt: patet ergo propositum per 
+      <lb ed="#L" n="5"/>definitionem prouidentiae supradictam. Item omnes actiones naturales tam animatorum, 
+      <lb ed="#L" n="6"/>quam inanimatorum a prouidentia, quia ab eius voluntate &amp; scientia producuntur, sicut 
+      <lb ed="#L" n="7"/>ex prioribus satis patet, &amp; quia naturaliter &amp; necessario fiunt; ergo reducuntur ad primum 
+      <lb ed="#L" n="8"/>necesse esse, a quo effluunt &amp; dependent; quod &amp; de actionibus irrationalium, de quibus 
+      <lb ed="#L" n="9"/>minus videtur, patet per Augustinum De fide, ad beatum Petrum, tricesimo primo 
+      dicen<lb ed="#L" n="10" break="no"/>tem; Illa animalia irrationalia praesentis saeculi cursum atque ornatum secundum Creatoris 
+      <lb ed="#L" n="11"/>incomprehensibilem peragunt voluntatem, que de suis factis nullam rationem redditura sunt,  
+      <lb ed="#L" n="12"/>quia rationalia non sunt; actiones autem voluntariae sunt meliores &amp; acceptiores Deo. Istis 
+      e<lb ed="#L" n="13" break="no"/>nim retributionem congruam praeparauit, non illis, sicut tam Philosophi, quam Theologi 
+      di<lb ed="#L" n="14" break="no"/>cunt concorditer vno ore. Quare &amp; sollicitiori prouidentia disponuntur, sicut capit. 
+      proxi<lb ed="#L" n="15" break="no"/>mum arguebat; quod &amp; satis patet per Apostolum ad Eph. 1. &amp; 2. vbi ponit duplicem prae 
+      <lb ed="#L" n="16"/>ordinationem, seu praedestinationem; primam iustitiae, &amp; iustorum operum in praesenti; 
+      se<lb ed="#L" n="17" break="no"/>cundam gloriae, &amp; praemiorum in futuro. Vnde pro praeordinatione iustitiae cap. 1. dicit; 
+      Ele<lb ed="#L" n="18" break="no"/>git nos ante mundi constitutionem, vt essemus sancti &amp; immaculati, &amp; pro praeordinatione 
+      <lb ed="#L" n="19"/>iustorum operum, cap. 2. sic dicit; Ipsius sumus factura, creati in operibus bonis, vt in illis 
+      am<lb ed="#L" n="20" break="no"/>bulemus. Hoc autem totum patet ibi per glossam, hanc duplicem praeordinationem seu 
+      prae<lb ed="#L" n="21" break="no"/>destinationem latius prosequentem, &amp; sub his verbis Ieronymi allegantem; Distinguit duas 
+      <lb ed="#L" n="22"/>Dei praeordinationes &amp; earum effectus, quarum altera est de praesenti ad iustitiam, altera est, 
+      <lb ed="#L" n="23"/>de futuro ad coronam. Augustinus etiam De gratia &amp; libero arbitrio, vicesimo primo, 
+      expo<lb ed="#L" n="24" break="no"/>nens autoritatem ex secundo capite allegatam, sic dicit; Quid est hoc quod dixit; Non ex 
+      o<lb ed="#L" n="25" break="no"/>peribus ne quis extollatur? Audi, &amp; intellige; non ex operibus tuis exte tibi existentibus, sed 
+      <lb ed="#L" n="26"/>tanquam his in quibus Deus te finxit, id est, formauit, &amp; creauit; hoc enim ait; Ipsius 
+      su<lb ed="#L" n="27" break="no"/>mus figmentum creati in operibus bonis, non illa creatione qua homines facti sumus, sed illa 
+      <lb ed="#L" n="28"/>de qua ille dicebat, qui vtique homo erat; Cor mundum crea in me Deus. Idem De fide ad  
+      <lb ed="#L" n="29"/>Petrum, tricesimo secundo sic dicit; Illi cum Christo regnabunt, quos Deus gratuita bonitate 
+      <lb ed="#L" n="30"/>sua praedestinauit ad regnum. Qui enim eos tales praedestinando praeparauit, praeparauit 
+      vti<lb ed="#L" n="31" break="no"/>que secundum propositum vocandos, vt obediant, iustificandos, vt accepta gratia recte 
+      cre<lb ed="#L" n="32" break="no"/>dant, &amp; bene viuant. Vnde patet clarissime, quod Deus praeparauit praedestinatis ad 
+      reg<lb ed="#L" n="33" break="no"/>num obedire, recte credere, &amp; bene viuere, quae sunt voluntaris agere, seu voluntariae 
+      acti<lb ed="#L" n="34" break="no"/>ones. Hae igitur ad diuinam prouidentiam reducuntur. Item Augustinus octauo super 
+      Ge<lb ed="#L" n="35" break="no"/>nesin ad literam II. &amp; post diffuse, ostendit Deum praeesse vniuersae creaturae, rationali &amp; 
+      <lb ed="#L" n="36"/>irrationali, etiam voluntatibus quibuscunque, opere prouidentiae bipartito, scilicet 
+      creatio<lb ed="#L" n="37" break="no"/>nis, &amp; administrationis; Creationis quantum ad productionem cuiuslibet creaturae; 
+      admi<lb ed="#L" n="38" break="no"/>nistrationis, quantum ad actiones &amp; passiones, &amp; caeteros eius motus, quod capite decimo 
+      <lb ed="#L" n="39"/>tertio per locum a simili sic ostendit; Sicut motus cuiuslibet membti animalis est ab anima, 
+      <lb ed="#L" n="40"/>&amp; etiam innititur aliquo fixo in mouendo: sic motus creaturae cuiuslibet est a Deo, &amp; ipso 
+      <lb ed="#L" n="41"/>velut fixo innititur, dum mouetur. Idem primo Confessionum, sext. Exceperunt 
+      consola<lb ed="#L" n="42" break="no"/>tiones lactis humani, nec mater mea, vel nutrices meae sibi vbera implebant: sed tu mihi, 
+      Do<lb ed="#L" n="43" break="no"/>mine, dabas alimentum infantiae, secundum iustificationem tuam, &amp; diuitias ad fundum 
+      vs<lb ed="#L" n="44" break="no"/>que rerum dispositas. Et infra eiusdem 12. Vrgebar ad addiscendum literas, &amp; bene mihi 
+      fi<lb ed="#L" n="45" break="no"/>ebat, nec qui vrgebant me, bene faciebant, sed bene mihi fiebat abs te, Deus meus. Illi 
+      e<lb ed="#L" n="46" break="no"/>nim non intuebantur quatenus referrem, quod me addiscere cogebant, praeterquam ad 
+      sa<lb ed="#L" n="47" break="no"/>tiandas insatiabiles cupiditates copiosae, inopiae, &amp; ignominiosae gloriae: Tu vero cui 
+      nume<lb ed="#L" n="48" break="no"/>rati sunt capilli capitis nostri, errore omnium, qui mihi instabant vt discerem, vtebaris ad 
+      vti<lb ed="#L" n="49" break="no"/>litatem meam; &amp; septimi 6o. De consulentibus Mathematicos, ipsisque Consultis, sic dicit; 
+      <lb ed="#L" n="50"/>Tu iustissime Moderator vniuersitatis consulentibus, consultisque nescientibus, occulto 
+      in<lb ed="#L" n="51" break="no"/>stinctu agis, vt dum quisque consulat, hoc audiat, quod eum oportet audire occultis meritis 
+      a<lb ed="#L" n="52" break="no"/>nimarum ex abysso iusti iudicij tui. Item omnes voluntariase actiones sunt a fato diuino, &amp; nihil 
+      <lb ed="#L" n="53"/>penitus in actibus voluntarijs casuale aut fortuitum absolute, sicut 28. &amp; 29. docentiquare 
+      om<lb ed="#L" n="54" break="no"/>nes voluntariae actiones a diuina prouidentia deriuantur. Item omnia prospera vel aduersa 
+      <lb ed="#L" n="55"/>quae contingunt hominibus per voluntarias actiones, prouidentur a Deo, quare &amp; omnes 
+      <lb ed="#L" n="56"/>tales voluntariae actiones: Si enim essent casuales respectu Dei, quicquid proueniret ab eis, 
+      <lb ed="#L" n="57"/>esset similiter casuale. Arist. namque in De bona fortuna, 2. probat, quod fortuna non est 
+      <lb ed="#L" n="58"/>causa intellectionis &amp; consilij, quia tunc omnia essent a fortuna. Omnia enim opera nostra ab 
+      <!--307.xml-->
+      <pb ed="#A" n="274"/>
+               <lb ed="#L" n="1"/>intentione &amp; consilio sunt causata, vel saltem de talibus intelligitur argumentum. Quare &amp;  
+      <lb ed="#L" n="2"/>Auerroes super 2. Phys. 44. redarguit opinantes motum Coeli esse a casu, quia cum ipse 
+      lar<lb ed="#L" n="3" break="no"/>gitur alijs entibus ordinem, omnes aliae causae, inuenirentur ex Casu. Quod enim inuenitur 
+      <lb ed="#L" n="4"/>ex illo, quod est ex casu, inuenitur ex Casu. Hoc idem ratio persuadet: Si enim Deus 
+      inten<lb ed="#L" n="5" break="no"/>dit rationabiliter aliquem finem prouenientemi per voluntarias actiones, vel intendit ipsum 
+      <lb ed="#L" n="6"/>immediate facere per se solum, vel per alia media, vel neutro modo intendit; Non primo 
+      <lb ed="#L" n="7"/>modo, quia non sic facit: si secundo modo; vel per eadem media per quae producitur, 
+      <lb ed="#L" n="8"/>&amp; sic habetur propositum, vel per alia, &amp; sic voluntas eius frustratur in, aliquo, vel 
+      muta<lb ed="#L" n="9" break="no"/>tur, contra priora: si neutro modo, non intendit rationabiliter illum finem. 
+      Quicun<lb ed="#L" n="10" break="no"/>que enim intendit rationabiliter vllum finem, intendit similiter media per quae proueniat 
+      ta<lb ed="#L" n="11" break="no"/>lis finis; nisi velit illum immediate facere per seipsum; vt patet 3. Ethic. 8. vbi sic dicitur, 
+      <lb ed="#L" n="12"/>Ponentes aliquem finem, qualiter &amp; per quae erit, intendit, &amp; ad hoc totum capitulum illud 
+      <lb ed="#L" n="13"/>facit. Quod autem omnia prospera a diuina prouidentia deriuentur, ex prioribus satis 
+      con<lb ed="#L" n="14" break="no"/>stat; Potestque ex abundanti aliter sic ostendi. Alias recipiens talia, non teneretur reddere 
+      <lb ed="#L" n="15"/>gratias Deo pro illis, quod nullus affirmare praesumet nisi inimicus gratiae, vtriusque 
+      testamen<lb ed="#L" n="16" break="no"/>ti subuersor, sanctorum Patrum irrisor, &amp; omnium Catholicorum Doctorum indoctissimus 
+      <lb ed="#L" n="17"/>reprehensor; qui docent non fictas aut fatuas gratias, sed veras &amp; discretas semper pro 
+      omni<lb ed="#L" n="18" break="no"/>bus agere Domino Deo nostro. Nam gratiae fatuorum effunduntur Eccles. 20. &amp; secundum 
+      <lb ed="#L" n="19"/>Aug. de praedestinatione Sanctorum 26. Si quis homini gratias ageret, pro eo quod illum vel 
+      <lb ed="#L" n="20"/>putaret non praesciuisse, vel nosset, adulatio vel irrisio verius quam gratiarum actio diceretur; 
+      <lb ed="#L" n="21"/>sed nolite errare, inquit Apostolus, Deus non irridetur. Et secundum eundem de bono 
+      perse<lb ed="#L" n="22" break="no"/>uerantiae 2. Irrisoria est illa gratiarum actio, si ex hoc gratiae aguntur Deo, quod non 
+      dona<lb ed="#L" n="23" break="no"/>uit ipse, nec fecit. Item alias talia prospera non essent dona Dei, quod quia destruit 
+      vtrius<lb ed="#L" n="24" break="no"/>que seriem testamenti, &amp; fidem quasi communem animi conceptionem cunctis innatam, seu 
+      <lb ed="#L" n="25"/>potius ab eis destruitur, nullus fidelis concedet, &amp; vix aliquis infidelis. Item hoc patet de 
+      Po<lb ed="#L" n="26" break="no"/>testatibus, Dignitatibus, &amp; omnibus Praelatijs. Vt autem a sublimioribus &amp; dignioribus 
+      in<lb ed="#L" n="27" break="no"/>choetur; Si aliquis posset esse Papa sine Domino prouidente, non esset nobis certum quod 
+      <lb ed="#L" n="28"/>Papam Dominus prouideret; quare nec scribere deberemus tali diuina prouidentia summo 
+      <lb ed="#L" n="29"/>Pontifici, qui tamen stilus est omnibus consuetus, &amp; admissus a curia, &amp; hactenus 
+      compro<lb ed="#L" n="30" break="no"/>batus: Nec alij Praelati aut Reges deberent. sic scribere. Talis Dei gratia Episcopus vel Rex. 
+      <lb ed="#L" n="31"/>nec nos eis, ne forte inueniamur falsi testes Dei, dicendo testimonium aduersus Deum, quod 
+      <lb ed="#L" n="32"/>prouidit quem non prouidit, quod non est paruum periculum, sicut patet 1. ad Cor. 15. quia 
+      <lb ed="#L" n="33"/>secundum Augustinum (&amp; Silossa allegat) non minori sed maiori fortassis scelere in Deo 
+      lau<lb ed="#L" n="34" break="no"/>datur falsitas, quam vituperatur veritas. Item hoc est verum de saecularibus Regibus, quare &amp;  
+      <lb ed="#L" n="35"/>de Ecclesiasticis quibuscunque; quod primo de Regibus Angliae, declarandum. Refert 
+      siqui<lb ed="#L" n="36" break="no"/>dem Vilhelmus Malmesburiensis, de gestis Regum Anglorum &amp; Pontificum /. 2. c. 106. de 
+      Ed<lb ed="#L" n="37" break="no"/>vardo Confessore sanctissimo in haec verba; Viderat quondam somni reuelatione seculi illius 
+      <lb ed="#L" n="38"/>felicitatem Brithivoldus Vintoniensis Episcopus; viderat, &amp; annuntiauerat. Nam dum 
+      tempo<lb ed="#L" n="39" break="no"/>re Regis cunctationis, caelestibus apud Glastoniam lucubraret excubijs, subijssetque eum 
+      cogi<lb ed="#L" n="40" break="no"/>tatio, quae frequenter eum angebat, de regia stirpe Anglorum pene deleta; haec meditanti sopor 
+      <lb ed="#L" n="41"/>irrepsit, &amp; ecce in superna raptus, videt Apostolorum Principem Petrum, ipsum Edivardum qui 
+      <lb ed="#L" n="42"/>tunc in Normannia exulabat in Regem consecrare, caelibe designata vita, &amp; certo 24. annorum 
+      <lb ed="#L" n="43"/>regni numero computato, eidemque conquerenti de posteritate, respondere, Regnum 
+      Anglo<lb ed="#L" n="44" break="no"/>rum est Dei, post te prouidit sibi Regem ad placitum suum. Omnes ergo Reges Anglorum 
+      <lb ed="#L" n="45"/>diuina prouidentia sublimantur; quare &amp; alij vniuersi. Domini enim est terra &amp; plenitudo 
+      <lb ed="#L" n="46"/>eius. Hoc idem paret de institutione &amp; destitutione Regum, &amp; diuisione ac transtatione 
+      reg<lb ed="#L" n="47" break="no"/>norum, in libris Regum &amp; Paralip. multis locis; Primo de institutione SaulI. Reg. 9. &amp; de 
+      <lb ed="#L" n="48"/>eius destitutione 1. Reg. 15. De institutione Dauidis I. Reg. 16. de diuisione regni 
+      tempo<lb ed="#L" n="49" break="no"/>re Salomonis praedicta, sed propter merita Dauidis dilata ad tempus Roboam, tuncque 
+      com<lb ed="#L" n="50" break="no"/>pleta: De institutione Ieroboam in 10. tribubus, Roboam vero &amp; filiorum eius in residuo, vt 
+      <lb ed="#L" n="51"/>remaneret Lucerna Dauidi 3. Reg. 11. &amp; 12. Ideoque Roboam cum tribu Iuda &amp; domo 
+      Benia<lb ed="#L" n="52" break="no"/>min volente pugnare contra Ieroboam, &amp; domum Israel, vt reintegraret regnum, dixit eis 
+      <lb ed="#L" n="53"/>Dominus per Prophetam, Non ascendatis, nec pugnetis; A me enim factum est verbum hoc 3. 
+      <lb ed="#L" n="54"/>Reg. 12. &amp; 2. Paral. 1I. Reuertatur vnusquisque in domum suam, quia hoc mea gestum est 
+      volun<lb ed="#L" n="55" break="no"/>tate. Vnde Paral. 28. Propter peccata terrae multi Principes eius. Et Eccles. 10. In manu Dei 
+      <lb ed="#L" n="56"/>potestas terrae, vtilem rectorem in tempore suscitabit super eam, Regnum a gente in gentem 
+      <lb ed="#L" n="57"/>transferetur propter iniustitiam, &amp; iniurias, &amp; contumelias, &amp; diuersos dolos. Hec autem ideo 
+      <lb ed="#L" n="58"/>voluit Deus in regno suo peculiari, scilicet Hebreorum facere manifesta, vt per pauciore vel vnum 
+      <!--308.xml-->
+      <pb ed="#A" n="275"/>
+               <lb ed="#L" n="1"/>doceret in pluribus, &amp; vniuersaliter in omnibus ita esse. Vnde Apostolus ad Rom. 13. Omnis 
+      <lb ed="#L" n="2"/>anima potestatibus sublimioribus subdita sit; non est autem potestas nisi a Deo, quae autem 
+      <lb ed="#L" n="3"/>sunt, a Deo ordinata sunt. Itaque qui resistit potestati, Dei ordini resistit. Item 1. Pet. 2. 
+      Sub<lb ed="#L" n="4" break="no"/>iecti estote omni humanae creaturae propter Deum, siue Regi quasi praecellenti, siue ducibus 
+      <lb ed="#L" n="5"/>tanquam ab eo missis ad vindicta malefactorum, laudem vero bonorum. Serui subditi estote 
+      <lb ed="#L" n="6"/>in omni timore dominis, non tantum bonis &amp; modestis, sed etiam dyscolis. Adhuc autem hoc 
+      <lb ed="#L" n="7"/>est verum de regnis de quibus minus videtur, scilicet infidelium &amp; malorum, quare &amp; 
+      vniuer<lb ed="#L" n="8" break="no"/>saliter quorumcunque. Vnde Amos 9. Nunquid non vt filij Aethiopum vos estis mihi filij 
+      Is<lb ed="#L" n="9" break="no"/>rael, dicit Deus? Nunquid non Israel ascendere feci de terra Aegypti, &amp; Palaestinos de 
+      Cap<lb ed="#L" n="10" break="no"/>padocia, &amp; Sirios de Syrene? Ecce oculi Domini super regnum peccans, &amp; conteram illud a 
+      <lb ed="#L" n="11"/>facie terrae. Cui concordat Apostolus ad Rom. 3. An Iudaeorum Deus tantum, nonne &amp; 
+      gen<lb ed="#L" n="12" break="no"/>tium? imo &amp; gentium. Et infra 10. Non est distinctio Iudaei &amp; Graeci; Nam idem Dominus 
+      <lb ed="#L" n="13"/>B omnium. Pro quo ostendit Aug. 5. de Ciuit. Dei, &amp; alibi multum diffuse, quod Regnum Ro¬ 
+      <lb ed="#L" n="14"/>manorum fuit a Deo. Vnde &amp; Si II. ita dicit; Deus summus, qui singulas partes mundi 
+      mag<lb ed="#L" n="15" break="no"/>nas &amp; paruas disponit, nullo modo est credendus, regna hominum eorumque dominationes, 
+      <lb ed="#L" n="16"/>&amp; seruitures a suae prouidentiae legibus alienas esse voluisse; &amp; loquitur ibi principaliter de 
+      <lb ed="#L" n="17"/>Regno &amp; Imperio Romanorum, pro tempore infidelitatis eorum. Idem supra eiusdem I. 
+      Cau<lb ed="#L" n="18" break="no"/>sa magnitudinis &amp; diuturnitatis Romani Imperii, nec fortunata est, nec fatalis, secundum 
+      opi<lb ed="#L" n="19" break="no"/>nionem dicentium esse fortunata, quae nullas causas habent, vel non ex aliquo rationali ordine 
+      <lb ed="#L" n="20"/>venientes, &amp; fatalia, quae praeter Dei &amp; hominum voluntatem, quada necessitate contingunt,  
+      <lb ed="#L" n="21"/>prorsus diuina prouidentia regna constitueret humana. Et idem patet 4a 33o manifeste. Item 
+      <lb ed="#L" n="22"/>Hieron. lib. 5osuper Esaiam, quem amabili proprie historica expositione conscripsit in 10. vi 
+      <lb ed="#L" n="23"/>siones Esaiae 8. Babylon, Philistijm, Moab, Damasci, Aegypti, deserti maris, Idumeae, Arabiae, 
+      <lb ed="#L" n="24"/>vallis visionis, &amp; Tyri, quae secundum eum ibi melius dicuntur 10. onera: Verbum enim 
+      He<lb ed="#L" n="25" break="no"/>braicum Messa? onus vel pondus intelligitur, pro quo septuaginta, visio, transferebant, tractat 
+      <lb ed="#L" n="26"/>materiam hanc diffuse; &amp; super illud Esaiae 22. Onus vallis visionis, sic dicit, Septuaginta 
+      ma<lb ed="#L" n="27" break="no"/>nifestius transtulerunt, vallis Sion: Haec enim ciuitas est seminarium Prophetarum, in qua 
+      ex<lb ed="#L" n="28" break="no"/>tructum est templum, &amp; visiones Domini multiplicatae sunt, quae licet fundetur in monte, 
+      ne<lb ed="#L" n="29" break="no"/>quaquam mons appellatur, sed vallis, eo quod humiliata sit; quod etiam loquitur Ieremias, 
+      <lb ed="#L" n="30"/>quando accipit calicem plenum vini, &amp; dat vniuersis gentibus, ac nouissime porrigit 
+      Ierusa<lb ed="#L" n="31" break="no"/>lem, vt bibat, ac vomat, &amp; ruat, &amp; insaniat, significans a Babylonijs hanc esse vastandam. Ex 
+      <lb ed="#L" n="32"/>quo intelligimus omnium, Creatorem, aequaliter esse Deum, &amp; eodem cuncta dispensare 
+      iu<lb ed="#L" n="33" break="no"/>dicio, iuxta hoc quod ipse loquitur per Amos, Nunquid non vt filij Aethiopum &amp;c. superius 
+      <lb ed="#L" n="34"/>recitata, ne putarent idcirco Iudaei se meritorum habere priuilegium, quia educti essent de 
+      <lb ed="#L" n="35"/>Aegypto; Dicit etiam caeteras gentes ad alias terras transtatas esse suo imperio. Item hoc 
+      pa<lb ed="#L" n="36" break="no"/>tet specialiter de quatuor magnis regnis, nullique ignotis, primo Chaldaeorum seu 
+      Babyloni<lb ed="#L" n="37" break="no"/>orum, secundo Medorum &amp; Persarum, tertio Graecorum, quarto Romanorum, de quibus 
+      <lb ed="#L" n="38"/>habetur sparsim in Scriptura frequenter &amp; coniunctim, Dan. 2. sub Metaphora quatuor 
+      par<lb ed="#L" n="39" break="no"/>tium statuae ipsi Nabuchodonosor per somnium reuelatae; &amp; infra 7. Sub specie quatuor 
+      <lb ed="#L" n="40"/>grandium bestiarum visarum per somnium Danieli. Vnde &amp; Daniel ipse sic dicit, Ipse Domi 
+      <lb ed="#L" n="41"/>nus mutat tempora, &amp; aetates, transfert regna atque constituit; vbi glossa, Non ergo miremur 
+      <lb ed="#L" n="42"/>si quandoque cernimus Regibus Reges, &amp; Regnis Regna succedere. Omnia fiunt de arbitrio 
+      <lb ed="#L" n="43"/>eius qui causas omnium nouit, qui omnia condidit &amp; malos Reges patitur suscitari, vt 
+      puni<lb ed="#L" n="44" break="no"/>ant malos, emundent bonos. Et infra, dixit Daniel Nabuchodonosori primo Monarchae 
+      <lb ed="#L" n="45"/>Chaldaeorum; specialiter isto modo, Tu Rex Regum es, &amp; Deus Coeli, regnum, &amp; 
+      fortitudi<lb ed="#L" n="46" break="no"/>nem, &amp; imperium, &amp; gloriam dedit tibi, &amp; omnia in quibus habitant filij hominum, &amp; 
+      be<lb ed="#L" n="47" break="no"/>stiae agri, volucresque coeli dedit in manum tua, &amp; sub ditione tua vniuersa constituit. Cui 
+      <lb ed="#L" n="48"/>concordat sanctissimus Ieremias 27o capit. in persona Domini ita dicens; Ego feci terram, 
+      <lb ed="#L" n="49"/> &amp; hominem, &amp; iumenta, quae sunt super faciem terrae vniuersae, in fortitudine mea 
+      mag<lb ed="#L" n="50" break="no"/>na, &amp; in brachio meo extento, &amp; dedi eam qui placuit in oculis meis; Et nunc itaque 
+      <lb ed="#L" n="51"/>ego dedi omnes terras istas in manu Nabuchodonosoris Regis Babylonis serui mei, 
+      insu<lb ed="#L" n="52" break="no"/>per &amp; bestias agri dedi ei, vt seruiant ei, &amp; seruient ei omnes gentes, &amp; filio cius, &amp; filio filij 
+      <lb ed="#L" n="53"/>eius, donec veniat tempus terrae eius &amp; ipsius: Et infra 43. Ecce ego mittam &amp; assumam 
+      <lb ed="#L" n="54"/>Nabuchodonosor Regem Babysonis seruum meum, &amp; ponam thronum eius super 
+      Iapi<lb ed="#L" n="55" break="no"/>des istos, &amp; statuet solium suum super eos, veniensque percutiet terram Aegypti. Hoc idem  
+      <lb ed="#L" n="56"/>testatur vox de coelo ruens, in haec verba; Tibi dicitur Nabuchodonosor Rex, Regnum tuum 
+      <lb ed="#L" n="57"/>transiit a te, donec scias quod dominetur excelsus in regno hominum, &amp; cuicunque voluerit,  
+      <lb ed="#L" n="58"/>det illud, Dan. 4. &amp; infra 5. habetur expresse de destructione huius primi regni, &amp; institutione 
+      <!--309.xml-->
+      <pb ed="#A" n="276"/>
+               <lb ed="#L" n="1"/>secundi per Scripturam, Mane, Thechei, Fares, &amp; interpretationem illius, Balthiasari 
+      vtumo<lb ed="#L" n="2" break="no"/>Regi dicentem, Numerauit Deus regnum tuum, &amp; compleuit illud; diuisum est regnum tuum, 
+      <lb ed="#L" n="3"/>&amp; datum Medis &amp; Persis, quod &amp; statim completum est, capta Babysone a Dario &amp; Cyro. 
+      <lb ed="#L" n="4"/>Regibus Medorum &amp; Persarum, &amp; Baltazar interfecto. De Cyro etiam Darij successore 
+      di<lb ed="#L" n="5" break="no"/>citur, Esaiae 45. Haec dicit Dominus Christo meo Cyro, cuius apprehendi dexteram vt 
+      sub<lb ed="#L" n="6" break="no"/>ijciam ante faciem eius Gentes, &amp; dorsa Regum vertam, &amp;c. Vnde &amp; idem Cyrus 2. Paralip. 
+      <lb ed="#L" n="7"/>vlt. &amp; I. Esd. 1. sic dicit, Omnia regna terrae dedit mihi Dominus Deus Coeli. Detertio 
+      quo<lb ed="#L" n="8" break="no"/>que regno, seu tertia Monarchia, puta Graecorum, cui praefuit Alexander, apparet idem 
+      spe<lb ed="#L" n="9" break="no"/>cialiter per praemissa in ostensione 32. partis Corollarij, primi huius. De quarto regno 
+      Mo<lb ed="#L" n="10" break="no"/>narchico, videlicet Romanorum, Augustinus 5. de Ciuit. Dei diffuse, specialiter docet idem. 
+      <lb ed="#L" n="11"/>De regnis istis magnis &amp; Infidelium, haec sufficiant ista vice. Per quae, licet de regnis 
+      malo<lb ed="#L" n="12" break="no"/>rum, propositum satis appareat, potest tamen ex abundanti breuiter sic ostendi. Iob. 34. 
+      Reg<lb ed="#L" n="13" break="no"/>nare facit hominem hypocritam propter peccata populi. Super quod dicit Gregorius 25. I 
+      <lb ed="#L" n="14"/>Moral. 15. Nullus qui talem rectorem patitur, eum, quem patitur, accuset, quia nimirum sui 
+      <lb ed="#L" n="15"/>fuit meriti peruersi rectoris subiacere ditioni; Et infra 10. Secundum merita subditorum 
+      tri<lb ed="#L" n="16" break="no"/>buuntur personae regentium. Hoc etiam Augustinus 5. de Ciuit. Dei diffuse ostendit: Vnde 
+      <lb ed="#L" n="17"/>20. de Nerone sic ait, Cuius fuit tanta luxuries, vt nihil putaretur ab eo virile metuendum, 
+      <lb ed="#L" n="18"/>tanta crudelitas vt nihil molle habere crederetur si nesciretur; etiam talibus tamen dominandi 
+      <lb ed="#L" n="19"/>potestas non datur nisi summi Dei prouidentia, quando res humanas iudicat talibus Dominis 
+      <lb ed="#L" n="20"/>dignas. Aperta de hac re, vox diuina est, loquente Dei sapientia, Per me Reges regnant, &amp; 
+      ty<lb ed="#L" n="21" break="no"/>ranni per me tenent terram. Sed ne Tyranni non pessimi atque improbi Reges, sed vetere 
+      no<lb ed="#L" n="22" break="no"/>mine fortes dicti existimentur, vnde ait Virgilius, Pars mihi pacis erit dextram tetigisse 
+      T7<lb ed="#L" n="23" break="no"/>ranni: Apertissime alio loco de eo dictum est; Qui regnare facit hominem hypocritam 
+      prop<lb ed="#L" n="24" break="no"/>ter peruersitatem populi. Et infra 22. dicit, quod verus Deus quando voluit, &amp; quantum 
+      vo<lb ed="#L" n="25" break="no"/>luit, regnum dedit Romanis, Assyrijs, &amp; Persis, sic &amp; Neroni &amp; Domitiano erudelissimo, ac  
+      <lb ed="#L" n="26"/>Apostatae Iuliano. Haec plane Deus verus regit, &amp; gubernat vt placet; haec ergo de Regnis &amp; 
+      <lb ed="#L" n="27"/>Regibus sufficiat induxisse. 
+      </p>
+            <p xml:id="dcn2br-e37120-d1e593">
+               <lb ed="#L" n="28"/>Nec potest quis fingere, quod Deus ista magna prouideat, &amp; minora non curet: Hanc 
+      e<lb ed="#L" n="29" break="no"/>nim insipientiam redarguit Sapient. 6. dicens, Non subtrahet personam cuiusquam 
+      Domi<lb ed="#L" n="30" break="no"/>nus, nec verebitur personam cuiusquam, quoniam pusillum &amp; magnum ipse fecit, &amp; 
+      aequali<lb ed="#L" n="31" break="no"/>ter cura est ei de omnibus; Et Iob 34. Non accipit personas Principum; quod &amp; ratio 
+      per<lb ed="#L" n="32" break="no"/>suadet; Si enim Deus prouideat Papas, &amp; Imperatores seu Reges, cur non Cardinales &amp; 
+      Du<lb ed="#L" n="33" break="no"/>ces? Et si istos prouideat, cur non Archiepiscopos &amp; Comites; et si istos: cur non Episcopos 
+      <lb ed="#L" n="34"/>&amp; Barones, &amp; sic gradatim a maximis ad minimos descendendo. Vnde Parab. 29. A 
+      Do<lb ed="#L" n="35" break="no"/>mino egreditur iudicium singulorum; Et Iob 34. super gentem, &amp; super omnes homines &amp;c. 
+      <lb ed="#L" n="36"/>Super quod Gregorius 25. Moral. 15. ita dicit; Hoc quod in maximis fieri cernimus, etiam 
+      <lb ed="#L" n="37"/>in nobis singulis caute timeamus. Sic enim intenduntur diuina iudicia super vnam animam, I 
+      <lb ed="#L" n="38"/>sicut super vnam vrbem; sic super vnam vrbem, sicut super vnam gentem; sic super vnam 
+      <lb ed="#L" n="39"/>gentem, sicut super vniuersam generis humani multitudinem, quia &amp; sic intendit Dominus 
+      <lb ed="#L" n="40"/>singulis, ac si vacet a cunctis, &amp; sic simul intendit omnibus, ac si vacet a singulis: Qui enim 
+      <lb ed="#L" n="41"/>omnia administrando implet, regit implendo, nec vniuersis deest cum disponit vnum, nec 
+      <lb ed="#L" n="42"/>vni deest cum disponit vniuersum, cuncta scilicet naturae suae potentia quietus operatur. 
+      Hu<lb ed="#L" n="43" break="no"/>ius etiam prouidentiae legibus bellorum victoriae disponuntur. Hoc sequitur ex prioribus, &amp; 
+      <lb ed="#L" n="44"/>potest probari vt priora. Per victorias etenim, regna &amp; dominationes plurimae acquiruntur, 
+      <lb ed="#L" n="45"/>quae per prouidentiam Dei dantur. Item hoc patet in pugna Israel contra Amalech; In qua 
+      <lb ed="#L" n="46"/>cum eleuaret Moses manus, vincebat; sin autem paululum remisisset, Amalech superabat 
+      <lb ed="#L" n="47"/>Exod. 17. Item patet Iosue 7. de illis 300o. pugnaturis ascendentium contra Hay; qui statim 
+      <lb ed="#L" n="48"/>terga vertentes ceciderunt, per prona fugientes, dixitque Dominus ad Iosue, non poterit Israel 
+      <lb ed="#L" n="49"/>stare ante hostes suos, eosque fugiet, quia pollutus est anathemate, non ero vltra vobiscum.I 
+      <lb ed="#L" n="50"/>Ecce causa fugae illorum &amp; victoriae inimicorum, Non ero vltra vobiscum, donec conteratis 
+      <lb ed="#L" n="51"/>eum, qui huius sceleris reus est. Nonne &amp; sequens historia, specialiter autem II. perspicue 
+      <lb ed="#L" n="52"/>docet idem? Nonne II. scribitur, Domini enim sententia fuerat, vt indurarentur corda 
+      eo<lb ed="#L" n="53" break="no"/>rum, &amp; pugnarent contra filios Israel &amp; caderent, &amp; non mererentur vllam clementiam ac 
+      <lb ed="#L" n="54"/>periret. Nonne &amp; strenuissimus ille Dauid sic ait; Nouerit vniuersa Ecclhec, quia no in 
+      gla<lb ed="#L" n="55" break="no"/>dio, nec in hasta saluat Dominus. Ipsius enim est bellum 1. Reg. 17. Nonne &amp; ad Amasiam 
+      re<lb ed="#L" n="56" break="no"/>gem Iuda habentem tantum 30. millia pugnatorum de proprijs, et ideo conducentem centum millia 
+      <lb ed="#L" n="57"/>robustorum de Israel, vt pugnaret, contra Edom, Homo Dei sic ait, ORex, ne egrediatur recum 
+      <lb ed="#L" n="58"/>exercitus Israel, non est enim Deus cum Israel; quod si putas robore exercitus bella consistere, 
+      <!--310.xml-->
+      <pb ed="#A" n="277"/>
+               <lb ed="#L" n="1"/>superati te faciet Dominius ab hostibus tuis. Dei quippe est adiuuare, &amp; in fugam vertere, 
+      se<lb ed="#L" n="2" break="no"/>cundo Paralip. 25. Nonne &amp; Ionathas cum Armigero suo tantum, stationem Philistijm 
+      au<lb ed="#L" n="3" break="no"/>dacissime &amp; foelicissime aggressurus, praemisit, quia non est Domino difficile saluare, vel in 
+      <lb ed="#L" n="4"/>multitudine, vel in paucis, I. Reg. 14? Hoc autem &amp; bene intellexit ille strenuissimus 
+      mili<lb ed="#L" n="5" break="no"/>tum Machabaeus, qui suos paucos &amp; ieiunio fatigatos contra multitudinem maximam sic 
+      ar<lb ed="#L" n="6" break="no"/>mabat; Facile est concludi multos in manu paucorum, &amp; non est differentia in conspectu Dei 
+      <lb ed="#L" n="7"/>coeli liberare in multis, &amp; in paucis, quia non in multitudine exercitus victoria belli, sed de 
+      <lb ed="#L" n="8"/>coelo fortitudo est: ipse Dominus conteret eos ante faciem nostram, 1. Machab. 3. Et infra 
+      <lb ed="#L" n="9"/>eodem; Sicut fuerit voluntas in coelo, sic fiat. Et 2. vlt. Dominus non secundum armorum 
+      <lb ed="#L" n="10"/>potentiam, sed prout ipsi placet, dat dignis victoriam. Nonne huic veritati testimonium 
+      per<lb ed="#L" n="11" break="no"/>hibent, ille equus terribilem habens sessorem, duo iuuenies virtute decori, optimi gloria, 
+      spe<lb ed="#L" n="12" break="no"/>ciosi amictu, 1. Machab. 3. Illi etiam quinque viri de coelo, fraenis aureis decori, ducatum 
+      Iu<lb ed="#L" n="13" break="no"/>daeis praestantes, 2. Mac. 10. Sanctus etiam Ieremias defunctus mundo, viuens coelo, dans 
+      Iu<lb ed="#L" n="14" break="no"/>dae gladium aureum, munus a Deo? infra vlt. Ille quoque Angelus Domini, qui vna nocte per 
+      <lb ed="#L" n="15"/>cussit in castris Assyriorum 185000. 4. Reg. 19. accedat &amp; ille testis veridicus eximius 
+      Pro<lb ed="#L" n="16" break="no"/>phetarum, Regumque clarissimus sanctus Dauid totum Psalmum 43. in testimonium profe 
+      <lb ed="#L" n="17"/>rens veritatis; Deus autibus nostris audiuimus, &amp;c. opus quod operatus es, &amp;c. manus tua gen¬ 
+      <lb ed="#L" n="18"/>tes disperdidit, &amp;c. nec in gladio suo possederunt terram, &amp; brachisi eorum non saluauit cos, 
+      <lb ed="#L" n="19"/>sed dextera tua, &amp;c. singula que sequuntur: &amp; supra 32 Non saluatur rex per multam virtute, 
+      <lb ed="#L" n="20"/>&amp; gygas non saluabitur in multitudine virtutis suae. Fallax equus ad salutem; in abundantia 
+      <lb ed="#L" n="21"/>autem virtutis suae non saluabitur. Ecce oculi Domini super metuentes eum, &amp;c. vt eruat a 
+      <lb ed="#L" n="22"/>morte animas eorum. Et quia ipse fuit per inimicos maxime infestatus &amp; maximas victorias 
+      <lb ed="#L" n="23"/>habuit, eas quasi in Psalmis omnibus, non sibi, sed Domino tribuit, cum actione humillima 
+      <lb ed="#L" n="24"/>gratiarum. Quid etiam aliud est; Non in fortitudine sua roborabitur vir? &amp;, Ne dixeris 
+      forti<lb ed="#L" n="25" break="no"/>tudo mea, et robur manus meae, haec mihi omnia praestiterunt, sed recorderis Domini, quod 
+      <lb ed="#L" n="26"/>ipse tibi vires praebuit. Deuteronom. 8. Et infra tricesimo secundo; Propter iram 
+      inimico<lb ed="#L" n="27" break="no"/>rum meorum distuli, ne forte superbirent hostes eorum, &amp; dicerent; Manus nostra excelsa &amp; 
+      <lb ed="#L" n="28"/>non Dominus fecit haec omnia. Et Ierem. 46. Non fugiet velox, nec saluari se putet fortis 
+      <lb ed="#L" n="29"/>Quid etiam aliud sonat, quod occurrit toties in Scriptura, quod Dominus immittet timorem 
+      <lb ed="#L" n="30"/>suum super hostes, quod ipse erit Dux belli: quod erit cum suis in bello; pugnabit pro suis; 
+      <lb ed="#L" n="31"/>praecedet eos; concludet inimicos in manibus suorum; conuertet eos in sugam; 
+      sub<lb ed="#L" n="32" break="no"/>uertet hostes; deponet, humiliabit, interficiet, conteret, &amp; confringet cum suis similibus 
+      <lb ed="#L" n="33"/>infinitis? Et vt in paucis multa concludam; ad hoc facit totius vtriusque feries Testamenti, 
+      <lb ed="#L" n="34"/>vbi sit mentio de pugna corporali, vel etiam spirituali. Sed, vt opinor, hoc Dominus in 
+      po<lb ed="#L" n="35" break="no"/>pulo suo electo, &amp; in pugna corporali, manifesta virtute ostendere dignabatur, vt quia 
+      <lb ed="#L" n="36"/>in paucioribus via maior, &amp; per corporalia spiritualia cognoseuntur, ostenderet saltem 
+      <lb ed="#L" n="37"/>oceulta sua virtute generaliter in omnibus ita esse, &amp; in pugna praecipue Ipirituali, vt 
+      <lb ed="#L" n="38"/>sic doceret impotentes &amp; miseros, vbi sperate, &amp; quaerere fortitudinem, victoriam, &amp;  
+      <lb ed="#L" n="39"/>salutem. Haec enim omnia in figura contingebant illis; scripta sunt autem ad 
+      correptio<lb ed="#L" n="40" break="no"/>nem nostram, primo ad Coriathios 10. Cui autem ista non placent, speret in principibus, 
+      con<lb ed="#L" n="41" break="no"/>fidat in homine, ponat carnem brachium suum, &amp; a Domino recedat coreius, speret in 
+      arcu<lb ed="#L" n="42" break="no"/>suo, eius gladius saluet eum, &amp; si quandoque contingat sibi victoria, non referat gratias, 
+      <lb ed="#L" n="43"/>nec in hymnis &amp; confessionibus Dominum benedicat; quia non fecit sibi magna, nec 
+      <lb ed="#L" n="44"/>victoriam dedit illi: nec dubito si fuerit saltem nomine Christianus, quin erit ingratior Deo 
+      <lb ed="#L" n="45"/>vero, quam aliquis infidelis Deo falso seu dijs salsis, cuius vel quorum gratiae &amp; virtuti 
+      su<lb ed="#L" n="46" break="no"/>am ascribit victoriam &amp; honorem; eique vel eis, secundum ritum suum, gratias referens, 
+      cae<lb ed="#L" n="47" break="no"/>dit victimas, &amp; pingues hostias immolat ac solennes. Sperent tales, vt volunt, mihi autem in 
+      <lb ed="#L" n="48"/>qualibet pugna mea adherere Deo, bonum est, ponere in Domino Deo meospem meam. 
+      Tur<lb ed="#L" n="49" break="no"/>ris enim fortissima nomen Domini, ad ipsam currit iustus &amp; exaltabitur. Ponat me iuxta se, &amp;¬ 
+      <lb ed="#L" n="50"/>cuiusuis mauus pugner contra me: Omnia namque possum in eo qui me confortat, in me 
+      au<lb ed="#L" n="51" break="no"/>tem nihil, quia nec minimum aliquid cogitare. Hoc autem totum Iustinianus Imperator 
+      <lb ed="#L" n="52"/>Romanorum excelsus humiliter profitetur, Codice, de veteri iure enucleando, cum dicit; 
+      <lb ed="#L" n="53"/>Deo nostrum gubernante imperium, quod nobis a coelesti Maiestate traditum est, &amp; bella 
+      <lb ed="#L" n="54"/>foeliciter peragimus, &amp; pacem decoramus, &amp; statum Reip. sustentamus, &amp; ita nostros animos 
+      <lb ed="#L" n="55"/>ad Dei omnipotentis erigimus adiutorium, vt neque armis confidamus, neque nostris militibus, 
+      <lb ed="#L" n="56"/>neque bellorum Ducibus, neque nostro ingenio, sed omnem spem referamus ad solam summae 
+      <lb ed="#L" n="57"/>prouidentia Trinitatis. Hoc etiam vniuersalis confitetur Ecclesia, quae cum Dominum orat 
+      pro<lb ed="#L" n="58" break="no"/>pace, pretendit veraciter no fallaciter ista causam, quia non est alius qui pugnat pro nobis, nisi 
+      <!--311.xml-->
+      <pb ed="#A" n="278"/>
+               <lb ed="#L" n="1"/>tu Deus noster. Probatur quoque propositum per Augustinum 15. de Ciuit. Dei 15. sic 
+      dicen<lb ed="#L" n="2" break="no"/>tem; Omnis victoria cum etiam malis prouenit, diuino iudicio victos humiliat, vel emendans 
+      <lb ed="#L" n="3"/>peccata, vel puniens. Testis est &amp; homo Dei Daniel, cum in captiuitate positus, peccata sua, 
+      <lb ed="#L" n="4"/>vel peccata populi Domino confitetur, &amp; hanc esse causam illius captiuitatis pio dolore 
+      testa<lb ed="#L" n="5" break="no"/>tur. Et licet constet ex prioribus, sapientiam, diuitias, &amp; prosperitates caeteras per diuinam 
+      <lb ed="#L" n="6"/>prouidentiam tribui, potest tamenper pauca testimonia confirmari. Tertio namque Reg. 3. 
+      <lb ed="#L" n="7"/>dicit Dominus Salomoni, Dedi tibi cor sapiens &amp; intelligens, diuitias &amp; gloriam; Et 
+      Ec<lb ed="#L" n="8" break="no"/>clesiastici primo; Omnis sapientia a Domino Deo est; quod &amp; Rex Dauid spiritu Dei plenus 
+      <lb ed="#L" n="9"/>lenissime contestatur 1. Paralip. vlt. sub his verbis, Tua est, Domine, magnificentia, &amp; 
+      <lb ed="#L" n="10"/>potestas, &amp; gloria, atque victoria: Cuncta enim quae in coelo, &amp; quae in terra, tua sunt, 
+      tuae<lb ed="#L" n="11" break="no"/>diuitiae, &amp; tua est gloria: Tudominaris omnium, In manu tua virtus &amp; potentia, 
+      mag<lb ed="#L" n="12" break="no"/>nitudo, &amp; imperium: Quis ego, &amp; quis popolus meus, vt possimus tibi haec vniuersa 
+      pro<lb ed="#L" n="13" break="no"/>mittere? Tua sunt omnia, &amp; quae de manu tua accepimus, dedimus tibi. Et quia tota 
+      scriptu<lb ed="#L" n="14" break="no"/>ra talibus testimonijs conuenientibus est repleta, sufficiat haec breuiter tetigisse. Hoc 
+      <lb ed="#L" n="15"/>etiam patet per Augustinum tractatu 2. super illud Psalmi trigesimi secundi; Confitemini.  
+      <lb ed="#L" n="16"/>Domino in cithara, in psalterio 10. chordarum psallite illi, dicentem, Cithara ex inferiori, 
+      <lb ed="#L" n="17"/>parte habet quod sonat, Psalterium vero ex superiori, vt Cithara significet vitam terrenam, 
+      <lb ed="#L" n="18"/>Psalterium coelestem, quae est in 10. mandatis, &amp; in vtraque laudandus est Deus. In vita 
+      ter<lb ed="#L" n="19" break="no"/>rena est prosperitas &amp; aduersitas, in omnibus prosperis laudandus est Deus, &amp; quisquis ex, 
+      <lb ed="#L" n="20"/>istis non laudat, ingratus est, quia Dei sunt, nec ab altero dantur. Aduersitates sunt in 
+      do<lb ed="#L" n="21" break="no"/>loribus, languoribus, pressuris, tentationibus, tribulationibus; vbique laudet Deum qui 
+      citha<lb ed="#L" n="22" break="no"/>rixat; non attendat quia inferiora sunt, sed quia regi &amp; gubernari non possunt nisi ab illa 
+      Sapi<lb ed="#L" n="23" break="no"/>entia, qui attingit a fine vsque ad finem fortiter, &amp; disponit omnia suauiter. Non enim 
+      coele<lb ed="#L" n="24" break="no"/>stia regit &amp; terrena deserit, aut non illi dicitur, Quo abibo a spiritu tuo? &amp; quo a facie tua fugia? 
+      <lb ed="#L" n="25"/>Si ascendero in coelum tu illic es, si descendero ad infernum, ades; vbi ergo deest, qui nusquam.  
+      <lb ed="#L" n="26"/>non est? In omnibus ergo prosperis vel aduersis, confitere Domino in cithara; si tibi abundet, 
+      <lb ed="#L" n="27"/>gratias age danti; si tibi desit, aut damno auferatur, cithariga securus, &amp; dic, Dominus dedit,  
+      <lb ed="#L" n="28"/>Dominus abstulit, sicut Domino placuit, ita factum est, Sit nomen Domini benedictum. Item 
+      <lb ed="#L" n="29"/>hoc est verum de prosperitate illa de qua minus videtur, scilicet malorum, quod tamen multi 
+      <lb ed="#L" n="30"/>moleste ferunt; imo &amp; Sanctialiqui, vt videtur. Vnde serem. 12. Iustus quidem es Domine 
+      <lb ed="#L" n="31"/>si disputem tecum; veruntamen: iusta loquar ad te; Quare via impiorum prosperatur; bene 
+      <lb ed="#L" n="32"/>est omnibus qui praeuaricantur &amp; inique agunt; Plantasti eos, &amp; radicem miserunt: Ecce 
+      ta<lb ed="#L" n="33" break="no"/>men quod tribuit ista Deo. Quod &amp; Sanctus Iob vehementer admirans, non contra 
+      homi<lb ed="#L" n="34" break="no"/>nem, sed contra Deum disputare, Auditores sic reddit attentos; Artendite me &amp; 
+      obstupe<lb ed="#L" n="35" break="no"/>scite, &amp; supponite digitum ori vestro; &amp; ego quando recordatus fuero, pertimosco, &amp; 
+      <lb ed="#L" n="36"/>concutiet carnem meam tremor. Deinde quaestionem talem proponit, Quare impij 
+      suble<lb ed="#L" n="37" break="no"/>uari sunt confortatique diuitijs, Semen eorum permanet coram eis, propinquorum turba &amp; D 
+      <lb ed="#L" n="38"/>nepotum, domus, eorum securae sunt, &amp; non est virga Dei super illos; bos eorum concepit, &amp; 
+      <lb ed="#L" n="39"/>non abortiuit, vaccapeperit, &amp; non est priuata foetu suo; egrediuntur quasi Reges paruuli 
+      <lb ed="#L" n="40"/>eorum, &amp; infantes eorum exultant Iusibus, tenent tympanum &amp; citharam, qui dixerunt Deo, 
+      <lb ed="#L" n="41"/>recede a nobis, viam scientiarum tuarum nolumus. Quis est omnipotens vt seruiamus ei? &amp; 
+      <lb ed="#L" n="42"/>respondet; veruntamen quia non sunt in manu eorum bona sua, sed, supple, in manu 
+      Do<lb ed="#L" n="43" break="no"/>mini, sicut dixit superius, Dominus dedit, Dominus abstulit, concilium impiorum longe 
+      <lb ed="#L" n="44"/>sita me hoba na. Hanc, similiter quaestionem tractat Psalmista diffuse Psalmo septuagesimo 
+      <lb ed="#L" n="45"/>secundo praemittens periculum videndo prosperitatem, malorum; Etat enim pene 
+      prostra<lb ed="#L" n="46" break="no"/>tus; sicut plurimit prosternuntur; Mei, inquit pene moti sunt pedes, &amp;c. quia zelaui super 
+      <lb ed="#L" n="47"/>iniquos, &amp;ciquia non est respectus morti eorum, &amp;c. In labore hominum non sunt, &amp;c. Id eo 
+      <lb ed="#L" n="48"/>tenuit eos, superbia, prodijt quasi ex adipe iniquitas eorum; posuerunt in Coelum os sut 
+      <lb ed="#L" n="49"/>um, &amp;c, &amp; dixerunt:. Quomodo scit Deus, &amp; si est scientia in excelso; Ecce ipsi peccatores, 
+      <lb ed="#L" n="50"/>&amp; abundantes insaeculo obtinuerunt diuitias: quasi argueret, ergo non scit Deus nec curat, 
+      <lb ed="#L" n="51"/>nec, distribuit, prouide res. humanas: quod argumentum aliquando, coneludebat 
+      Psal<lb ed="#L" n="52" break="no"/>mistae, vel forte, alicui alijui in cuius persona ex iam: praemissis; concludit icum dicit; 
+      <lb ed="#L" n="53"/>Et dixi, Ergo sine causa iustificaui cor meum, &amp;c. &amp; fui flagellatus, &amp;c. sed statim hanc 
+      <lb ed="#L" n="54"/>cgnelusionem, reprobat ex ipsa ad manifestum impossibile deducendo subiungens; Si 
+      dice<lb ed="#L" n="55" break="no"/>nam; Narrabo sic, scilicet vt dicit illa conclusio, Ecce nationem filiorum tuorum reprobani, scit 
+      <lb ed="#L" n="56"/>licet reprobandam ostendi, quod est impossibile manifestum: vbi dicit Angustinus, sSi 
+      dice<lb ed="#L" n="57" break="no"/>bam; Narrabosic, scilicet quod Deus non curat res humanas, ecce generationem filiorum 
+      <lb ed="#L" n="58"/>tunrum reptobaui; scilicet Abraham, Isaacatl acob, &amp; Propherarum, qui omnes dixerunt 
+      <!--312.xml-->
+      <pb ed="#A" n="279"/>
+               <lb ed="#L" n="1"/>Deum eurare res humanas. Hoc idem licet ex praedictis sit patulum, potest tamen ostendi 
+      <lb ed="#L" n="2"/>specialiter de aduersitatibus omnibus &amp; flagellis, malis &amp; bonis contingentibus indistincte. 
+      <lb ed="#L" n="3"/>Omnia enim haec sunt poenae patientium; omnis autem poena est aliquo modo poena peccati, 
+      <lb ed="#L" n="4"/>&amp; iusta, &amp; a Deo, vt patet per Augustinum 1. Retract. 9. de concupiscentia carnis aduersus 
+      <lb ed="#L" n="5"/>spiritum sic dicentem, Omnis autem poena si iusta est, peccati poena est; si autem iniusta 
+      poe<lb ed="#L" n="6" break="no"/>na est, quam poenam esse nemo ambigit, iniusto aliquo dominante, homini imposita est.  
+      <lb ed="#L" n="7"/>Porro quia de omnipotentia Dei &amp; iustitia dubitare dementis est, iusta haec poena est, &amp; pro 
+      <lb ed="#L" n="8"/>peccato aliquo impenditur; Omne autem iustum, a prima iustitia, quae est Deus, est iustum, vt 
+      <lb ed="#L" n="9"/>ex secundo capitulo satis constat. Idem 5o contra Iulianum, dicit Iuliano, Si non est haec poena 
+      <lb ed="#L" n="10"/>peccati, profecto iniqua poena est, &amp; iniustum facis Deum, quo iubente vel sinente; aut 
+      infir<lb ed="#L" n="11" break="no"/>mum, quo non auertente infligitur innocenti; &amp; 83. quaest. 24. Deus iustus gubernans 
+      vni<lb ed="#L" n="12" break="no"/>uersa nullam poenam sinit immerito infligi. Item aliter tolleretur afflictis magna causa 
+      pati<lb ed="#L" n="13" break="no"/>entiae, spei, consolationis &amp; gaudij, cum in tribulationes varias incidunt. Quis enim ita 
+      pati<lb ed="#L" n="14" break="no"/>enter, speranter, consolatorie &amp; gaudenter talia sustinebit, si credat ea accidere ab inimico 
+      <lb ed="#L" n="15"/>tantum, vel a casu, nec per ea purgari peccata, &amp; exerceri virtutes, aut praemia cumulari, sicut 
+      <lb ed="#L" n="16"/>si craedat haec immitti sibi a Deo, ad aliquod tale bonum? Vnde Seneca in libello quem 
+      spe<lb ed="#L" n="17" break="no"/>cialiter de materia ista scripsit intitulato Seneca ad Lucilium, Cum mundus prouidentia 
+      re<lb ed="#L" n="18" break="no"/>gatur, quare multa mala bonis viris accidunt? Bonus vir discipulus est Dei, aemulatorque &amp; 
+      <lb ed="#L" n="19"/>vera progenies, quem parens ille magnificus, virtutum non leuis exactor, sicut seueri 
+      Pa<lb ed="#L" n="20" break="no"/>tres, durius educat. Itaque cum videris bonos viros acceptosque Dijs laborare, sudare, per 
+      <lb ed="#L" n="21"/>arduum extendere, malos autem lasciuire, &amp; voluptatibus fluere, Cogita filiorum non esse 
+      <lb ed="#L" n="22"/>delectari vernularum licentia, illos disciplina tristiori contineri, horum ali audaciam. 
+      I<lb ed="#L" n="23" break="no"/>dem tibi de Deo liqueat, bonum virum in delicijs non habet, experitur, indurat, sibi illum 
+      <lb ed="#L" n="24"/>praeparat. Miraris tu, si Deus ille bonorum amantissimus, qui illos quam optimos esse 
+      at<lb ed="#L" n="25" break="no"/>que excellentissimos esse vult, fortunam illis cum qua exerceantur, assignat; Ego vero non  
+      <lb ed="#L" n="26"/>miror si aliquando // impetum capiant Dij dum spectant magnos viros colluctantes cum 
+      a<lb ed="#L" n="27" break="no"/>liqua calamitate: Nobis interdum voluptati est, si adolescens constantis animi, irruentem 
+      <lb ed="#L" n="28"/>feram venabulo excepit, si Leonis incursum interritus pertulit, tantoque spectaculum est 
+      <lb ed="#L" n="29"/>gratius, quanto illud honestior fecit. Non sunt ista, quae possint deorum in se vultum 
+      con<lb ed="#L" n="30" break="no"/>uertere; haec puerilia &amp; humanae oblectamenta seuitatis; Ecce spectaculum dignum, ad  
+      <lb ed="#L" n="31"/>quod respiciat intentus operi suo Deus; Ecce par Deo dignum, vir fortis cum fortuna 
+      ma<lb ed="#L" n="32" break="no"/>la compositus, vtique si &amp; // prouocauit. Non video, inquam, quid habeat in terris Iupiter 
+      <lb ed="#L" n="33"/>Pulchrius, si conuertere animum velit, quam vt spectet Catonem iam partibus non 
+      se<lb ed="#L" n="34" break="no"/>mel fractis, stantem nihilominus inter ruinas publicas, rectum gubernatorem in 
+      tempesta<lb ed="#L" n="35" break="no"/>te, in acie militem intelligas. Ignis aurum probat, miseria fortes viros. Nihil enim 
+      vide<lb ed="#L" n="36" break="no"/>tur infelicius eo, cui nihil vnquam aduenit aduersi; Non enim licuit illi se experiri, vt ex 
+      vo<lb ed="#L" n="37" break="no"/>to illi fluxerint omnia, vt ante votum. Male tamen de illo Dij iudicauerunt. Indignus 
+      vi<lb ed="#L" n="38" break="no"/>sus est a quo vinceretur aliquando fortuna, quae ignauissimum quemque refugit; quasi dicat,  
+      <lb ed="#L" n="39"/>Quid ergo? istum mihi aduersarium assumam, statim arma submittet; Non opus est in illum 
+      <lb ed="#L" n="40"/>tota potentia mea, leui comminatione pelletur, non potest sustinere vultum meum; alius 
+      <lb ed="#L" n="41"/>circumspiciatur, cum quo possumus conferre manum; pudet congredi cum homine vinci 
+      <lb ed="#L" n="42"/>parato; Ignominiam iudicat gladiator cum inferiore componi. Et infra, Veniamus ad 
+      Re<lb ed="#L" n="43" break="no"/>gulum. Quid illi fortuna nocuit? Quod illum documentum fidei, documentum patientiae 
+      <lb ed="#L" n="44"/>fecit? Figunt cutem claui, &amp; quocunque corpus fatigatum inelinauerit, vulneri incumbit; 
+      <lb ed="#L" n="45"/>In perpetuam vigiliam suspensa sunt lumina, quanto plus tormenti, tanto plus erit gloriae. 
+      <lb ed="#L" n="46"/>Male tractatum Socratem iudicas, quod illam potionem publice mixtam non aliter quam  
+      <lb ed="#L" n="47"/>medicamentum immortalitatis obduxit? quasi diceret, Non est ita. Vbi &amp; ostendir 
+      gene<lb ed="#L" n="48" break="no"/>raliter quod mala, quae videntur accidere bonis viris, non sunt mala ipsis, sed bona, vtilia, 
+      <lb ed="#L" n="49"/>&amp; pro ipsis, &amp; alijs vniuersis, quorum dijs maior est cura. Nonne &amp; hoc est quod Dominus 
+      <lb ed="#L" n="50"/>ipse dicit, Non delebo Gentes, quas dimisit Iosue, vt in ipsis experiar Israelem, vtrum 
+      cu<lb ed="#L" n="51" break="no"/>stodiant viam Domini, &amp; ambulent in ea, annon? Iudic. 2. &amp; sequitur, Hae sunt Gentes, 
+      <lb ed="#L" n="52"/>quas Dominus dereliquit, vt erudiret in eis Israelem, &amp; omnes qui non nouerant bella 
+      Cana<lb ed="#L" n="53" break="no"/>naeorum, &amp; postea discerent filij eorum certare cum hostibus, &amp; haberent consuetudine 
+      prae<lb ed="#L" n="54" break="no"/>liandi quinque Satrapas Philistinorum &amp;c. Iudic. 3. Quare &amp; beatus Iacobus monet, dicens; Om 
+      <lb ed="#L" n="55"/>ne gaudium existimate, fratres mei, cum in tentationes varias incideritis, scientes quod pro 
+      <lb ed="#L" n="56"/>batio fidei vestrae patientiam operatur; patientia autem opus perfectum habet. Iac. 1. Quare &amp;  
+      <lb ed="#L" n="57"/>Apostoli ibant gaudentes a conspectu Cnocilij, quoniam digni habiti sunt, pro nomine Iesu, 
+      <!--313.xml-->
+      <pb ed="#A" n="280"/>
+               <lb ed="#L" n="1"/>contumeliam pati Act. 5. &amp; ad Rom. 5. Gloriamur in tribulationibus, scientes quod 
+      tribula<lb ed="#L" n="2" break="no"/>tio patientiam operatur, patientia autem probationem, probatio vero spem, spes autem non  
+      <lb ed="#L" n="3"/>confundit. Et I. Pet. 1. In quo exultabitis modicum nunc, si oportet, contristati in varijs 
+      tem<lb ed="#L" n="4" break="no"/>tationibus, vt probatio fidei vestrae multo pretiosior sit auto, quod per ignem probatur. Hoc 
+      <lb ed="#L" n="5"/>idem, quantum ad bonos, tribulationes variae Iob ostendunt, ipsomet capitulo primo 
+      dicen<lb ed="#L" n="6" break="no"/>te, Dominus dedit, Dominus abstulit, sicut Domino placuit ita factum est: Vnde 
+      Augusti<lb ed="#L" n="7" break="no"/>nus, super illud Psalmi 32. quoniam ipse dixit, &amp; facta sunt, ipse mandauit &amp; creata sunt; 
+      Di<lb ed="#L" n="8" break="no"/>abolus non potuit nocere Iob, nisi accepta potestate a Deo, quando ille permisit, ille potuit, 
+      <lb ed="#L" n="9"/>non ergo ille potuit, sed qui permisit; Ideoque Iob bene eruditus non ait, Dominus dedit,  
+      <lb ed="#L" n="10"/>Diabolus abstulit, sed Dominus dedit, Dominus abstulit, sicut Domino placuit, ita factum 
+      <lb ed="#L" n="11"/>est, non sicut Diabolo placuit, &amp; hoc totum ad meritum &amp; gloriam sancti sui. Pro quo dicit 
+      <lb ed="#L" n="12"/>idem super illud Psalmi 34. Confundantur &amp; reuertantur; Diabolus non habuit 
+      potesta<lb ed="#L" n="13" break="no"/>tem auferendi bona sancti Iob, nisi cum eam accepit a summa potestate: quare &amp; dixit, Mitte I 
+      <lb ed="#L" n="14"/>manum tuam, id est da potestatem. Deus autem qui Diabolo permiserat vt illa tolleret, seruum 
+      <lb ed="#L" n="15"/>suum interius non deserebat, sed ad Diabolum superandum animam serui sui frameam sibi 
+      fe<lb ed="#L" n="16" break="no"/>cit. Idem probat tribulatio sancti Tobiae, teste Raphaele, quia, inquit, acceptus eras Deo, 
+      ne<lb ed="#L" n="17" break="no"/>cesse erat vt tentatio probaret te. Pro quo dicit Augustinus in sententijs Prosperi, 
+      propositi<lb ed="#L" n="18" break="no"/>one 22I. Profectus fidelium sine tentatione non prouenit, nec sibi quisquam innotescit, nisi 
+      <lb ed="#L" n="19"/>probationis examine, nec coronabitur, nisi qui vicerit, neque vincet, nisi certauerit: quis 
+      <lb ed="#L" n="20"/>autem certat nisi inimicum habens &amp; tentationi resistens? Idem quoque super illud Psalmi 
+      <lb ed="#L" n="21"/>148. Ignis, grando, nix &amp;c. quae faciunt verbum eius, de occisione Innocentis per fulmina, 
+      <lb ed="#L" n="22"/>seu quodcunque aliud genus mortis sic dicit; Quicquid hic accidit contra voluntatem 
+      no<lb ed="#L" n="23" break="no"/>stram, noueritis non accidere nisi de voluntate Dei, de ipsius prouidentia, ordine, nutu, &amp; 
+      le<lb ed="#L" n="24" break="no"/>gibus. Et si nos non intellexerimus quid, quare fiat, demus hoc prouidentiae ipsius, quia non 
+      <lb ed="#L" n="25"/>sit sine causa, &amp; non blasphememus: Omnia enim, quae vanis videntur in rerum natura 
+      te<lb ed="#L" n="26" break="no"/>mere fieri, non fiunt nisi iussu eius. Idem super illud Psalmi 57. Sicut cera liquefacta 
+      aufe<lb ed="#L" n="27" break="no"/>rentur, Sunt hic poenae, carceres, exilia, tormenta, mortes, diuersa genera dolorum &amp; 
+      tribu<lb ed="#L" n="28" break="no"/>lationum, &amp; ista Dei iudicio dispensantur; sed multis sunt ad probationem, multis ad 
+      dam<lb ed="#L" n="29" break="no"/>nationem. Idem super illud Psalmi 3I. Gloriamini omnes recti corde. Quid est recti corde? 
+      <lb ed="#L" n="30"/>non resistentes Deo; Quisquis homo quicquam patitur praeter voluntatem, afflictiones 
+      moe<lb ed="#L" n="31" break="no"/>rores, labores, &amp; humiliationes non tribuit nisi voluntati Dei iustae; Ipse est rectus corde. 
+      Per<lb ed="#L" n="32" break="no"/>uersi autem corde praui &amp; distorti sunt, qui mala, quae patiuntur, inique se pati dicunt, 
+      dan<lb ed="#L" n="33" break="no"/>tes illi iniquitatem, per cuius voluntatem patiuntur; aut quia non audent ei dare iniquitatem, 
+      <lb ed="#L" n="34"/>auferunt ei gubernationem. Et hi distorti corde tres habet sententias; Aut quod non est Deus, 
+      <lb ed="#L" n="35"/>sicut dixit stultus in corde suo; Aut quod iniustus est Deus, qui non distribuit peiora 
+      peiori<lb ed="#L" n="36" break="no"/>bus; Aut quod Deus non gubernat res humanas. Item Ieronymus lib. 4. super Esaiam, 
+      tra<lb ed="#L" n="37" break="no"/>ctans illud 28. capituli, Nunquid tota dic arabit arans &amp;c. ita dicit; Deus varie genus 
+      dis<lb ed="#L" n="38" break="no"/>pensat humanum; nunc punit, nunc miseretur; nunc corripit, nunc defendit, nunc arat, 
+      nun<lb ed="#L" n="39" break="no"/>serit nunc maturas fruges metit, &amp; demessas in areis terit, orbemque suum gubernat, vt 
+      volu<lb ed="#L" n="40" break="no"/>erit. Cui concordat Boetius de Consulatione Philosophiae prosa quarta, cum dicit; De hoc 
+      <lb ed="#L" n="41"/>quidem tu iustissimum putas, omnia scienti prouidentiae diuersum, id est, contrarium 
+      vide<lb ed="#L" n="42" break="no"/>tur; vnde &amp; quaedam causa victrix in bello placuit Dijs tanquam iusta, non Catoni; victa vero 
+      <lb ed="#L" n="43"/>Catoni, non Dijs, sicut testatur Lucanus. Sed opinionem Catonis reprobat statim dicens, 
+      Igi<lb ed="#L" n="44" break="no"/>tur quicquid videas contra spem geri, rebus quidem rectus ordo est, opinioni vero tuae 
+      per<lb ed="#L" n="45" break="no"/>uerse confusio. Et infra eadem prosa ostendit; Quare ex diuina prouidentia quibusdam bonis 
+      <lb ed="#L" n="46"/>non contingunt aduersa, quibusdam vero contingunt, &amp; de malis similiter; quibusdam 
+      <lb ed="#L" n="47"/>bonis non contingunt aduersa, quia sunt infirmi, nec sufficerent sustinere, sed forsan 
+      de<lb ed="#L" n="48" break="no"/>sinerent colere innocentiam per quam non possent retinere fortunam. Est alius ita 
+      per<lb ed="#L" n="49" break="no"/>fectus, quod prouidentia nefas iudicat quibuslibet aduersis ipsum contingi; Sunt qui¬ ¬ 
+      <lb ed="#L" n="50"/>dam boni quandoque summe praelati, vt per eos malorum improbitas retundatur; alijs 
+      <lb ed="#L" n="51"/>vero bonis mixta pro animorum distribuit qualitate. Quare quosdam bonos pronos 
+      ta<lb ed="#L" n="52" break="no"/>men ad Iuxuriam, alia aduersitate remordet, ne longa foelicitate Iuxurient; alios duris 
+      <lb ed="#L" n="53"/>exagitat, vt animi virtutes patientiae vsu, atque exercitatione confirment; Alij 
+      pusillani<lb ed="#L" n="54" break="no"/>mes plusquam oportet metuunt, asperaque tamen possunt sufferre; alij vpraesumptuosi plus 
+      <lb ed="#L" n="55"/>aequo aduersitates quasi facillimas sibi despiciunt, quas tamen sufferre non possunt: Hos in 
+      <lb ed="#L" n="56"/>cognitionem sui per experientiam tristium prouidentia Dei ducit. Quidam autem boni 
+      inex<lb ed="#L" n="57" break="no"/>pugnabiles omni supplicio exemplum caeteris praebuerunt, inuictam esse virtutem: Et 
+      sub<lb ed="#L" n="58" break="no"/>dit, quanquam recte atque disposite, &amp; ex eorum bono quibus accedere videntur, nulla du¬ 
+      <!--314.xml-->
+      <pb ed="#A" n="281"/>
+               <lb ed="#L" n="1"/>bitatio est; Diligentibus enim Deum omnia cooperantur in bonum, ad Rom. 8. Statimque 
+      <lb ed="#L" n="2"/>ostendit, quod ex causis similibus accidunt improbis prospera &amp; aduersa; aduersa quidem 
+      <lb ed="#L" n="3"/>tribus de causis; prima, quia talia meruerunt; secunda, vt eorum supplicia alios deterreant a 
+      <lb ed="#L" n="4"/>peceato; tertia vt ipsi improbi per talia emendentur: prospera vero eis contingunt multis de 
+      <lb ed="#L" n="5"/>causis: Prima, vt boni hoc videntes eliciant argumentum, quid de tali foelicitate, scilicet 
+      di<lb ed="#L" n="6" break="no"/>uitiarum &amp; huiusmodi debeant iudicare, quae etiam improbis famulatur: secunda, quia 
+      ali<lb ed="#L" n="7" break="no"/>qui mali efficerentur peiores, si rei familiaris inopiam paterentur, cui morbo prouidentia 
+      <lb ed="#L" n="8"/>diuina pecuniae collectione medetur: Tertia, vt habens conscientiam sordidam, dum in 
+      poe<lb ed="#L" n="9" break="no"/>nam dignam peccati pertimescit amittere bona fortunae quae habet, mutet mores &amp; dum 
+      <lb ed="#L" n="10"/>fortunam amittere metuit, nequitiam derelinquat: Quarta, vt quanto quorundam malorum  
+      <lb ed="#L" n="11"/>talis foelicitas amplius cumulatur, tanto eos in profundiorem infoelicitatem praecipitet, cum 
+      <lb ed="#L" n="12"/>fuerit eis ablata. Nam secundum eundem supra eodem, lib. 2. prosa 4. In omni aduersitate 
+      <lb ed="#L" n="13"/>fortunae infoelicissimum genus est infortunij fuisse foelicem. Deinde consequenter ostendit, 
+      <lb ed="#L" n="14"/>quare malis ius permittitur puniendi, &amp; dicit hoc ideo fieri, vt exercitij bonis, &amp; malis esset 
+      <lb ed="#L" n="15"/>causa supplicii; ex quo saepe illa summa prouidentii protulit insigne miraculum, vt malos 
+      <lb ed="#L" n="16"/>mali bonos efficerent. Ad hoc facit similiter, quod narrat Iacobus de Vitriaco, de quodam 
+      <lb ed="#L" n="17"/>Heremita spiritu aggresso blasphemiae, in tantum quod coeperat cogitare iudicia Dei 
+      iu<lb ed="#L" n="18" break="no"/>sta non esse, eo quod malos prosperari permittit, &amp; bonos affligi. Cui Angelus in specie 
+      <lb ed="#L" n="19"/>hominis missus a Domino; Sequere, inquit, me, &amp; videbis iudicia Dei occulta; quem cum 
+      <lb ed="#L" n="20"/>secutus fuisset ad domum cuiusdam boni viri, eis tota nocte laetae hospitalitatis officiis 
+      ex<lb ed="#L" n="21" break="no"/>hibitis, furatus est cyphum hospitis, quem maxime diligebat, eumque cuidam maligno, qui  
+      <lb ed="#L" n="22"/>eos secunda nocte exceperat, erogabat: Tertia vero nocte a benigno hospite sunt benignius 
+      <lb ed="#L" n="23"/>hospitati, cuius famulum mane de quodam ponte praecipitans submergebat; &amp; quarta 
+      no<lb ed="#L" n="24" break="no"/>cte a bono similiter bene recepti, filium eius paruulum vagitantem, nec eos dormire 
+      sinen<lb ed="#L" n="25" break="no"/>tem occidit. Quibus visis Heremitae volenti eum dimittere, ita dixit; Ego sum missus 
+      <lb ed="#L" n="26"/>tibi a Domino, vt occulta eius iudicia tibi prodam. Primus ergo hospes noster nimis 
+      di<lb ed="#L" n="27" break="no"/>lexerat illum cyphum, ideoque pro bono suo abstuli sibi cyphum, illumque donaui hospiti 
+      <lb ed="#L" n="28"/>nostro malo, vt mercedem suem recipiat in praesenti. Tertij vero famulum submergeba, quia 
+      <lb ed="#L" n="29"/>in corde suo firmauit dominum suum die crastina occidisse, sicque bonum dominum a morte, &amp; 
+      ma<lb ed="#L" n="30" break="no"/>lum famulum ab homicidio operis preseruaui, vt ille in inferno mitius puniretur. Quarto autem 
+      <lb ed="#L" n="31"/>hospes priusqua haberet filium &amp; herede, largus eleemosynas faciebat; sed nato sibi filio &amp; 
+      he<lb ed="#L" n="32" break="no"/>rede manum retraxit. Quare &amp; ab eo causam auaritiae abstuli, &amp; in paradisum attuli anima 
+      inno<lb ed="#L" n="33" break="no"/>centis, Cuius etiam facti vel similium assignat Sapiens aliam causam, dicens; Raptus est, ne 
+      <lb ed="#L" n="34"/>malitia mutaret intellectum eius, ant ne fictio deciperet animam eius, Sap. 4. Haec &amp; similia de 
+      <lb ed="#L" n="35"/>sanctis Iob, &amp; Tobia voluit Deus ostendere manifeste quod fiebant ab eo; vt illud ide in 
+      omni<lb ed="#L" n="36" break="no"/>bus similibus generaliter nos doceret, &amp; sic contra aduersa omnia per patientiam nos armaret. 
+      <lb ed="#L" n="37"/>Vnde Tobiae 2. Hanc temptationem ideo permisit Deus illi euenire, vt posteris daretur 
+      exem<lb ed="#L" n="38" break="no"/>plum patientiae eius, sicut &amp; sancti Iob. Quaecunque enim scripta sunt, ad nostram doctrinam 
+      <lb ed="#L" n="39"/>scripta sunt, vt per patientiam &amp; consolationem Scripturae spem habeamus, ad Romanos 15. 
+      <lb ed="#L" n="40"/>Quod etiam tribulationes per malos malis &amp; bonis illatae immittantur a Deo, probat 77. 
+      Psal<lb ed="#L" n="41" break="no"/>mus dicens; Misit in eos itam indignationis suae; indignationem, &amp; iram, &amp; tribulationem, 
+      <lb ed="#L" n="42"/>immissiones per Angelos malos. Vt autem tam longam seriem breui sermone concludam, 
+      si<lb ed="#L" n="43" break="no"/>cut sparsim in Scriptura Canonica, &amp; scriptis Patrum varijs continetur, quinque de causis 
+      fla<lb ed="#L" n="44" break="no"/>gella contingunt, sicut etiam 4. Senten. Lumbardi, dist. 15. recitatur: Primo, vt iustis merita 
+      <lb ed="#L" n="45"/>per patientiam augeantur, vt Iob: Secundo, ad virtutum custodiam contra superbiam, sicut 
+      <lb ed="#L" n="46"/>Paulo, vt patet, 2. ad Cor. 12. Tertio, ad corrigenda peccata, sicut lepra Mariae, vt patet Num. 
+      <lb ed="#L" n="47"/>12. Quarto, ad manifestandum opera Dei, vt patet de caeco nato, Ioh. 9. Quinto, ad 
+      inchoati<lb ed="#L" n="48" break="no"/>onem poenae in presenti, quatenus hic videatur, quid in inferno sequatur, sicut illud Deut. 32. 
+      <lb ed="#L" n="49"/>Ignis succensus est in furore meo, &amp; ardebit vsque ad inferni nouissima. Vnde &amp; ler. 17. Duplici 
+      <lb ed="#L" n="50"/>contritione contere eos; sicut fuit de Herode, vt patet Act. 2. &amp; multis similibus multis locis. 
+      I<lb ed="#L" n="51" break="no"/>tem hoc est verum, nedum in adultis, sed in paruulis, de quibus minus videtur. Vnde 
+      Augusti<lb ed="#L" n="52" break="no"/>nus de bono perseuerantiae, 35. sic dicit; Neque enim fato cogitur Deus illis infantibus subue 
+      <lb ed="#L" n="53"/>nire, illis autem non, cum sit vtrisque causa communis; aut res humanas in paruulis non 
+      di<lb ed="#L" n="54" break="no"/>uina prouidentia, sed fortuitis agi casibus opinabimur, cum rationales vel damnandae vel 
+      li<lb ed="#L" n="55" break="no"/>berandae sint anime, quandoquidem nec passer cadit in terram sine voluntate Patris nostri, qui  
+      <lb ed="#L" n="56"/>in coelis est; aut parentum negligentie tribuendum est, quod paruuli sine baptismate 
+      moriun<lb ed="#L" n="57" break="no"/>tur, vt nihil ibi agant diuina iudicia. Quid dicam quod paruulus aliquando ante baptisma 
+      <lb ed="#L" n="58"/>expirat, etiam festinantibus patentibus, &amp; paratis ministris, vt paruulus baptiretur, 
+      <!--315.xml-->
+      <pb ed="#A" n="282"/>
+               <lb ed="#L" n="1"/>Deo tamen nolente non datur, qui eum paululum in hac vita non tenuit vt daretur? Quid est 
+      <lb ed="#L" n="2"/>etiam quod aliquando paruulis infidelium filijs potuit, ne irent in perditionem, &amp; filijs 
+      fide<lb ed="#L" n="3" break="no"/>lium non potuit baptismate subueniri? vbi certe ostenditur, quod personarum apud Deum 
+      <lb ed="#L" n="4"/>non sit acceptio, alioquin cultorum suorum potius quam inimicorum filios liberaret. Qui 
+      <lb ed="#L" n="5"/>&amp; de Correptione &amp; gratia 27. Mirum est &amp; verum, quod filios quosdam amicorum 
+      suo<lb ed="#L" n="6" break="no"/>rum,  hoc est regeneratorum bonorum, quia fidelium, sine baptismo hic paruulos 
+      exe<lb ed="#L" n="7" break="no"/>untes, quibus vtique si vellet, huius lauacri gratiam procuraret, in cuius potestate sunt 
+      <lb ed="#L" n="8"/>omnia, alienat a regno suo, in quod parentes mittit illorum; &amp; quosdam filios inimicorum 
+      <lb ed="#L" n="9"/>suorum facit in manus Christianorum venire, &amp; per lauacrum introduci in regnum, a quo 
+      <lb ed="#L" n="10"/>eorum parentes alieni sunt, cum &amp; illis malum, &amp; istis bonum meritum nullum sit 
+      paruu<lb ed="#L" n="11" break="no"/>lis ex eorum propria voluntate. Certe haec iudicia Dei quoniam iusta &amp; alta sunt, nec 
+      vitu<lb ed="#L" n="12" break="no"/>perati possunt nec penetrari. Idem de gratia, &amp; libero arbitrio 50. Aliquando filijs 
+      infi<lb ed="#L" n="13" break="no"/>delium praesentatur haec gratia, cum occulta Dei prouidentia in manus piorum 
+      quomodo<lb ed="#L" n="14" break="no"/>cunque perueniunt; aliquando fidelium filij non eam consequuntur; aliquando 
+      impedi<lb ed="#L" n="15" break="no"/>mento existente ne possit periclitantibus subueniri. Fiunt vero ista per occultam Dei 
+      proui<lb ed="#L" n="16" break="no"/>dentiam, cuius inscrutabilia sunt iudicia, &amp; inuestigabiles viae. Hoc etiam totum 
+      vniuersa<lb ed="#L" n="17" break="no"/>lis Ecclesiae in suis rationibus profitetur, Dirige, inquiens, actus nostros in beneplacito tuo, 
+      <lb ed="#L" n="18"/>&amp;c. Et iterum, Assit nobis virtus Spititus Sancti, cuius &amp; sapientia conditi sumus, &amp; 
+      proui<lb ed="#L" n="19" break="no"/>dentia gubernamur; Et iterum, Deus, cuius prouidentia in sui dispositione non fallitur, 
+      <lb ed="#L" n="20"/>te supplices exoramus, vt noxia cuncta submoueas, &amp; omnia nobis profutura concedas, 
+      <lb ed="#L" n="21"/>manifeste supponens, quod omnia noxia &amp; similiter profutura diuina prouidentia 
+      di<lb ed="#L" n="22" break="no"/>sponantur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

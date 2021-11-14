@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="490"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e65279"><!-- l2c7 -->
+            <head xml:id="dcn2br-e65279-Hd1e106">Caput 7</head>
+            <p xml:id="dcn2br-e65279-d1e109">
+               <lb ed="#L" n="28"/>CAP. VII. 
+      <lb ed="#L" n="29"/>Quod nullus non tentatus, solius Liberi Arbitrij viri 
+      <lb ed="#L" n="30" break="no"/>bus, sine gratia vel cum gratia quantacunque 
+      <lb ed="#L" n="31"/>creata absque alio Dei auxilio potest pec 
+      <lb ed="#L" n="32" break="no"/>catum aliquod euitare. 
+    </p>
+            <p xml:id="dcn2br-e65279-d1e122">
+               <lb ed="#L" n="33"/>VT autem tractatum de vitatione peccati perficiam, tantum 
+      su<lb ed="#L" n="34" break="no"/>perest vt praehabitis consequenter ostendam, nullum etiam non  
+      <lb ed="#L" n="35"/>tentatum solius liberi arbitrij viribus sine gratia, vel in gratia 
+      <lb ed="#L" n="36"/>quantacunque absque alio Dei auxilio posse peccatum aliquod 
+      <lb ed="#L" n="37"/>euitare. Facilius namque est tentato vitare // peccatum, quam  
+      <lb ed="#L" n="38"/>non tentato vitare tentationem; Nam tota die tentamur inuiti, 
+      <lb ed="#L" n="39"/>sed nunquam proprie peccamus inuiti; sed nullus tentatus 
+      soli<lb ed="#L" n="40" break="no"/>us liberi arbitrij viribus sine gratia, vel cum gratia 
+      quantacun<lb ed="#L" n="41" break="no"/>que absque alio Dei auxilio potest vitare peccatum de quo 
+      ten<lb ed="#L" n="42" break="no"/>tatur, vt tria praemissa capitula docuerunt; ergo nullus non 
+      ten<lb ed="#L" n="43" break="no"/>tatus solius liberi arbitrij viribus sine gratia vel in gratia 
+      quanta<lb ed="#L" n="44" break="no"/>cunque absque alio Dei auxilio potest vitare, quin de peccato 
+      <lb ed="#L" n="45"/>tentetur, &amp; si tentatus fuerit de peccato, &amp; auxilium Dei non assit, necessario superatur 
+      se<lb ed="#L" n="46" break="no"/>cundum capitula memorata. Item quicunque non tentatur, hoc necessario est a Deo, quod 
+      <lb ed="#L" n="47"/>non tentatur, sicut IIa. pars 13i. primi probat; &amp; per 22um. primi Deus necessario habet 
+      a<lb ed="#L" n="48" break="no"/>liquem actum voluntatis circa talem non tentari, &amp; non nolutionem, quia tunc per 
+      deci<lb ed="#L" n="49" break="no"/>mum primi, non tentaretur, ergo volutionem, quae per indem decimum ipsum tentari non 
+      si<lb ed="#L" n="50" break="no"/>nit: Vnde Augustinus in sermone suo in natali sanctae Mariae Magdalenae cap. vlt. Hoc, 
+      in<lb ed="#L" n="51" break="no"/>quit, tibi dicit Deus tuus; regebam te mihi, seruabam te mihi vt adulterium non 
+      commirte<lb ed="#L" n="52" break="no"/>res, suasor defuit, &amp; vt suasor deesset, ego feci; locus &amp; tempus defuit, &amp; vt haec deessent. 
+      <!--524.xml-->
+      <pb ed="#A" n="491"/>
+               <lb ed="#L" n="1"/>ego feci. Item si quis non tentatus / hot &amp;, sic posset, ponatur in esse; tunc per vigesimum 
+      se<lb ed="#L" n="2" break="no"/>cundum primi Deus habet aliquem actum voluntatis circa istam euitationem, &amp; non 
+      nolu<lb ed="#L" n="3" break="no"/>tionem, quia tunc per decimum primi, ipsa non fieret; ergo volutionem; ergo per idem 
+      de<lb ed="#L" n="4" break="no"/>cimum ipsa insuperabile auxilium sibi praestat. Item illa vitatio vel sit agendo, vel non 
+      agen<lb ed="#L" n="5" break="no"/>do; si agendo, Deus est ibi prima causa agens, sicut tertium, &amp; quartum capitula primi 
+      pro<lb ed="#L" n="6" break="no"/>bant; si non agendo, adhuc Deus est prima causa illius non actionis, sicut vndecima pars 
+      <lb ed="#L" n="7"/>I3i. primi docet. Item secundum allegata capitulo tertio huius secundi; Gratia est 
+      necessa<lb ed="#L" n="8" break="no"/>ria ad cauendum peccata, &amp; hoc vt videtur etiam non tentatis: Quaedam enim allegatorum 
+      <lb ed="#L" n="9"/>ibi loquuntur generaliter de quibuscunque indistincte, non faciendo mentionem aliquam de 
+      <lb ed="#L" n="10"/>tentatis, &amp; illa gratia vel est Spiritus Sanctus, vel aliquod eius donum creatum, quod nihil 
+      <lb ed="#L" n="11"/>facit nisi ipso Sancto Spiritu dirigente, vt patet ex eodem tertio &amp; quarto sequenti. Item 
+      se<lb ed="#L" n="12" break="no"/>cundum ostensa eodem quarto, quilibet homo committeret quodcunque peccatum, si non  
+      <lb ed="#L" n="13"/>esset a Deo specialiter praeseruatus. 
+      </p>
+            <div xml:id="dcn2br-e65279-Dd1e200">
+               <head xml:id="dcn2br-e65279-Hd1e202">Corollarium</head>
+               <p xml:id="dcn2br-e65279-d1e205">
+                  <lb ed="#L" n="14"/>COROLLARIVM. 
+      <lb ed="#L" n="15"/>Corollarium, quod diuina voluntas sicut tentatos a ruma conseruat, sic &amp; non tenta¬ 
+      <lb ed="#L" n="16" break="no"/>tos tam a tentatione quam a peccato praeseruat.
+      </p>
+               <p xml:id="dcn2br-e65279-d1e214">
+                  <lb ed="#L" n="17"/>VNde manifestum est quod diuina voluntas sicut tentatos a ruina conseruat, sic &amp; non 
+      <lb ed="#L" n="18"/>tentatos tam a tentatione, quam a peccato preseruat: Istud corollarium per praehabita 
+      <lb ed="#L" n="19"/>potest similiter demonstrari, sicut quintum capitulum conclusionem similem demonstrauit.  
+      <lb ed="#L" n="20"/>Oergo mira circa nos miseros &amp; ingratos diuinae pietatis dignatio, quae non tentatos a tot &amp; 
+      <lb ed="#L" n="21"/>tantis tentationum turbinibus intactos praeseruat; tentatos in tot &amp; tantis tentationum 
+      incur<lb ed="#L" n="22" break="no"/>sibus inuictos conseruat, &amp; per ipsam non per ipsos vincentibus tot &amp; tanta praemia 
+      coacer<lb ed="#L" n="23" break="no"/>uat: vt igitur ipsa ducente ab ingratitudine redeamus, rogemus humiliter vt &amp; ipsa donante 
+      <lb ed="#L" n="24"/>accipere mereamur non spiritum huius mundi, sed spiritum qui ex Deo est, vt saltem sciamus 
+      <lb ed="#L" n="25"/>quae a Deo donata sunt nobis, in quo clamantes Abba Pater hemillimas gratias in omnibus 
+      <lb ed="#L" n="26"/>rependamus. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

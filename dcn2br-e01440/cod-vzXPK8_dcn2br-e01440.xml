@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 39</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 39</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e01440"><!-- l3c39 -->
+            <head xml:id="dcn2br-e01440-Hd1e106">Caput 39</head>
+            <p xml:id="dcn2br-e01440-d1e109">
+               <lb ed="#L" n="13"/>CAP. XXXIX 
+      <lb ed="#L" n="14"/>Arguit contra sextam.
+      </p>
+            <p xml:id="dcn2br-e01440-d1e116">
+               <lb ed="#L" n="15"/>SExta quoque responsio astruens Deum per se solum posse esse aut 
+      fuis<lb ed="#L" n="16" break="no"/>se causam totalem effectus saepius memorati, praesentis aut praeteriti, 
+      <lb ed="#L" n="17"/>non est vera; quia secundum ipsam esset possibile hominem, qui ex 
+      <lb ed="#L" n="18"/>visione &amp; mandato in verbo orauit, cucurrit, praedicauit, domos 
+      con<lb ed="#L" n="19" break="no"/>struxit, &amp; filios procreauit, nihil horum fecisse, sed Deum fecisse 
+      sin<lb ed="#L" n="20" break="no"/>gula per se solum. Quare &amp; erit consequenter possibile deuirginatos 
+      <lb ed="#L" n="21"/>reuirginari per suam actionem vel quietionem libere &amp; contingenter 
+      <lb ed="#L" n="22"/>futuram; eritque secundum istud tanta contingentia respectu 
+      praesen<lb ed="#L" n="23" break="no"/>tium &amp; praeteritorum, sicut respectu futurorum. Facta namque 
+      ho<lb ed="#L" n="24" break="no"/>mini viatori reuelatione in verbo de aliquo effectu, qui sit A. per eum libere &amp; contingenter 
+      <lb ed="#L" n="25"/>futuro, ipsoque ex illa reuelatione faciente alium effectum ante A. puta B. medio tempore 
+      <lb ed="#L" n="26"/>post B. &amp; ante A. vel dum B. sit, sicut contingit ipsum facere vel non facere A. futurum; sic 
+      <lb ed="#L" n="27"/>&amp; contingit ipsum fecisse vel non fecisse, B. praeteritum, vel facere &amp; non facere, B. nunc 
+      prae<lb ed="#L" n="28" break="no"/>sens, sicut ex tricesimo tertio huius patet. Item secundum istud possibile est hominem qui ex 
+      <lb ed="#L" n="29"/>tali reuelatione meruit, vel contra eam peccauit, &amp; fuit iustus vel iniustus, saluatus vel 
+      dam<lb ed="#L" n="30" break="no"/>natus, praemiatus vel punitus, beatus vel miser, in coelo sursum vel in inferno deorsum, 
+      nun<lb ed="#L" n="31" break="no"/>quam sic fecisse, nec talia recepisse. Item eadem ratione, qua est possibile Deum solum fecisse 
+      <lb ed="#L" n="32"/>quod fecit cum causa rationali secunda, erit &amp; similiter possibile ipsum solum fecisse quicquid 
+      <lb ed="#L" n="33"/>fecit cum causa irrationali secunda; ergo quicquid Deus fecit cum quacunque causa secunda, 
+      <lb ed="#L" n="34"/>possibile est ipsum solum fecisse, &amp; nullam causam secundam vnquam fecisse aliquid vel 
+      mo<lb ed="#L" n="35" break="no"/>uisse. Item si ea, quae Deus non fecit solus, potest fecisse solus, simili ratione ea, quae non 
+      fe<lb ed="#L" n="36" break="no"/>cit cum alio nec solus, potest fecisse, quoniam alterius iuuamento non eget, quare &amp; quae 
+      fe<lb ed="#L" n="37" break="no"/>cit potest similiter non fecisse; quae omnia repugnant planissime hypothesi principali.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

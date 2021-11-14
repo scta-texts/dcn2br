@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 51</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 51</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="826"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e08670"><!-- l3c51 -->
+            <head xml:id="dcn2br-e08670-Hd1e106">Caput 51</head>
+            <p xml:id="dcn2br-e08670-d1e109">
+      <!--859.xml-->
+               <pb ed="#A" n="826"/>
+               <lb ed="#L" n="1"/>CAP. LI 
+      <lb ed="#L" n="2"/>De AEternitate.
+    </p>
+            <p xml:id="dcn2br-e08670-d1e120">
+               <lb ed="#L" n="3"/>Dhuc autem spiritu intelligentiae parum altius subleuante, potest haec 
+      <lb ed="#L" n="4"/>eadem veritas per aliam viam ostendi, per viam videlicet aeternitatis 
+      <lb ed="#L" n="5"/>tricesimo huius tactam. Hac etenim cognita, potest Deus &amp; eius 
+      cog<lb ed="#L" n="6" break="no"/>nitio atque volutio quoquomodo cognosci; haec vero ignota, &amp; ista 
+      <lb ed="#L" n="7"/>necessario ignoratur: prius ergo de // ipsa aeternitate paululum 
+      disse<lb ed="#L" n="8" break="no"/>rendum. Constat siquidem secundum Philosophorum sententiam,  
+      <lb ed="#L" n="9"/>/ quod mensura debet esse vnigenita &amp; similis mensurato: homo autem 
+      <lb ed="#L" n="10"/>mutabilis est, &amp; actiones eius mutabiles, quare &amp; mensurantur 
+      men<lb ed="#L" n="11" break="no"/>temporali, ipso videlicet tempore vel instanti: Deus vero, &amp; 
+      quae<lb ed="#L" n="12" break="no"/>sura mutabili, scilicet 
+      <lb ed="#L" n="13"/>libet actio eius intrinseca, puta cognitio &amp; volutio, immutabilis est omnino, sicut quintum 
+      <lb ed="#L" n="14"/>&amp; vicesimum tertium primi docent; quare nec Deus, nec aliqua actio eius intrinseca per se 
+      <lb ed="#L" n="15"/>immediate &amp; proprie mensuratur mensura mutabili, scilicet tempore vel instanti, sed // 
+      men<lb ed="#L" n="16" break="no"/>sura immutabili, inuariabili, stabili, &amp; aeterna, seu potius ipsa aeternitate immutabiliter 
+      peni<lb ed="#L" n="17" break="no"/>tus, insuccessibiliter, vniformiter atque stabiliter permanente. In ipsa namque nulla 
+      diuisi<lb ed="#L" n="18" break="no"/>bilitas, nulla maioritas, nulla minoritas, nulla prioritas, nulla posterioritas, nulla mutabilitas, 
+      <lb ed="#L" n="19"/>nulla accessio, nulla recessio, nulla successio, nihil praeteritum, nihil futurum, nec vlla 
+      pe<lb ed="#L" n="20" break="no"/>nitus differentia successiua, sed indiuisibilis, simplex, vnica, eadem, insuccessibilis, ac 
+      in<lb ed="#L" n="21" break="no"/>stantanea praesentialitas &amp; simultas, sicut ostenditur primo primi, imo superindiuisibilis, 
+      su<lb ed="#L" n="22" break="no"/>persimplex, superunica, supereadem, superinsuccessibilis, ac superinstantanea praesentialitas 
+      <lb ed="#L" n="23"/>&amp; simultas temporalis instantis. Hoc enim est finis praeteriti, initiumque futuri; ibi autemC 
+      <lb ed="#L" n="24"/>nihil praeteritum aut futurum, hoc est mutabile &amp; successibile quodammodo, eo quod 
+      adue<lb ed="#L" n="25" break="no"/>nit, &amp; recedit, incipit &amp; desinit; non sic ibi, hoc instat nunc tantummodo, illud semper; hoc, 
+      <lb ed="#L" n="26"/>sicut &amp; tempus est posterius aeternitate &amp; instanti aeterno, &amp; ipsam &amp; ipsum imitatur, vt 
+      po<lb ed="#L" n="27" break="no"/>test: quare &amp; Deus cognoscit &amp; vult indiuisibiliter, simipliciter, vnice, praesentanee, atque 
+      si<lb ed="#L" n="28" break="no"/>mul, imo supersimpliciter, superunice, superinstantanee, superprae sentanee, supersimul 
+      tem<lb ed="#L" n="29" break="no"/>poralis instantis. Quis enim praesumpserit dicere Deum aliter &amp; aliter intrinsece cognoscere 
+      <lb ed="#L" n="30"/>aut velle secundum alias &amp; alias differentias temporis successiuas? Quis praesumpserit dicere 
+      <lb ed="#L" n="31"/>omnipotentem &amp; omniquaque sibi sufficientem temporis creatorem indigere tempore, &amp;  
+      <lb ed="#L" n="32"/>successibus fluxibilis temporis, sicut miserabilem hominem ad cognoscendum quippiam &amp; 
+      <lb ed="#L" n="33"/>volendum, aut ad cognoscendum quicquam quocunque modo intrinsece, contingenter, libere, 
+      <lb ed="#L" n="34"/>necessario, vel alio quouismodo: prima namque suppositio, quintum &amp; 23. primi, ac 30. 
+      hu<lb ed="#L" n="35" break="no"/>ius praemissa prohibent ita dici. Eandem quoque sententiam, licet obscure, antiqui Philosophi 
+      <lb ed="#L" n="36"/>contestantur; quorum Pater Hermes de mundo &amp; coelo I. sic scripsit; Quicquid extenditur 
+      <lb ed="#L" n="37"/>spaciis, vel annosum, vel saeculare, vel perpetuum, vel aeternum consistit; annosum 
+      dissolui<lb ed="#L" n="38" break="no"/>tur senio, saeculare aetate, perperuum durabilitate, aeternum infinitate; ab aeternitate tempus 
+      <lb ed="#L" n="39"/>initians, in aeternitatis resoluitur gremium longiori circuitu fatigatum, scilicet de vnitate ad 
+      nume<lb ed="#L" n="40" break="no"/>rum, de stabilitate digreditur ad motum; momentum suum temporis est quod mouetur, aeternitatis 
+      <lb ed="#L" n="41"/>quod ex qua tempus nascitur, in eam resolui habet quod in vniuersum porrigitur. Qui &amp; de 
+      <lb ed="#L" n="42"/>verbo aeterno 43. AEternitas, inquit, inaduersabilis, immobilis &amp; insolubilis; haec est ergo 
+      <lb ed="#L" n="43"/>aeternitas, quae nec coepit esse nec desinit, quae fixa immutabili lege currendi sempiterna 
+      com<lb ed="#L" n="44" break="no"/>motione versatur, oriturque &amp; occidit alterius saepe per membra, ita vt variatis temporibus, 
+      <lb ed="#L" n="45"/>his, de quibus occiderat, membris oriatur. Pro isto autem dicto plenius exponendo, &amp; melius 
+      <lb ed="#L" n="46"/>cognoscendo, aduertendum quod scribit super eiusdem 34. dicens, quod solus Deus est 
+      im<lb ed="#L" n="47" break="no"/>mobilis, nisi aliquis audeat dicere ipsius commotionem esse in aeternitate; sed magis &amp; ipsa : 
+      <lb ed="#L" n="48"/>immobilis aeternitas, in qua omnium temporum agitatio remaneat, &amp; ex qua omnium 
+      tem<lb ed="#L" n="49" break="no"/>porum agitatio sumit exordium; Deus ergo stabilis fuit, semperque similiter cum eo 
+      aeter<lb ed="#L" n="50" break="no"/>nitas; itaque quamuis sit aeternitas stabilis, immobilis, atque fixa, tamen quoniam temporis, 
+      <lb ed="#L" n="51"/>quod mobile est, in aeternitatem semper vocatur agitatio, itaque mobilitas ratione temporis 
+      <lb ed="#L" n="52"/>vertitur, efficitur vt ipsa aeternitas immobilis quidem sola, per tempus in quo ipsa est, &amp; est 
+      <lb ed="#L" n="53"/>in eo omnis agitatio, videatur agitari, sic efficitur vt aeternitatis stabilitas moueatur, &amp; 
+      tem<lb ed="#L" n="54" break="no"/>poris mobilitas stabilitas fixa fiat lege? currendi; sic &amp; Deum agitari credibile est in se 
+      ip<lb ed="#L" n="55" break="no"/>sum eadem immobilitate: stabilitas enim ipsius in magnitudine est immobilis agitatio: ipsius 
+      <lb ed="#L" n="56"/>enim magnitudinis immobilis lex est; hoc ergo quod est tale quod non subijcitur sensibus, in¬ 
+      <!--860.xml-->
+      <pb ed="#A" n="827"/>
+               <lb ed="#L" n="1"/>definitum, incomprehensibile, inestimabile est; nec sustineri etenim nec fieri, nec indagari 
+      <lb ed="#L" n="2"/>potest. Vbi enim &amp; quomodo, &amp; vnde aut quando, aut quale sit incertum est. Fertur enim 
+      <lb ed="#L" n="3"/>in summa stabilitate, &amp; in ipso stabilitas sua, siue Deus, siue aeternitas; siue vterque siue 
+      al<lb ed="#L" n="4" break="no"/>ter in altero, siue vterque in vtroque sunt: Propter quod aeternitas sine definitione est 
+      tem<lb ed="#L" n="5" break="no"/>poris. Stab litas enim vtpote defixa quod sustinere quae agitabilia sunt, possit beneficio 
+      fir<lb ed="#L" n="6" break="no"/>mitatis, merito obtinet principatum; Omnium ergo quae sunt primordia Deus est &amp; 
+      aeter<lb ed="#L" n="7" break="no"/>nitas: Mundus autem quod sit mobilis non habet principatum; Praeuenit enim mobilitas 
+      e<lb ed="#L" n="8" break="no"/>ius stabilitatem suam in lege agitationis sempiternae habendo immobilem firmitatem. Post 
+      <lb ed="#L" n="9"/>quem Plato, &amp; quidam Platonici de aeternitate, aeuo, &amp; tempore disserebant: Vnde Plato 
+      <lb ed="#L" n="10"/>I. Timei 9. vtens aeuo pro aeternitate sic ait, Dies &amp; noctes &amp; menses &amp; annos, qui ante 
+      coe<lb ed="#L" n="11" break="no"/>lestem exornationem non erant, tunc nascente mundo iussit existere, quae omnia partes sunt 
+      <lb ed="#L" n="12"/>temporis, nosque haec cum aeuo assignamus eidem solitariae naturae, non recte partes 
+      indiui<lb ed="#L" n="13" break="no"/>duae rei fingimus. Dicimus enim fuit, est, erit; At illi solum esse competit iuxta veram 
+      <lb ed="#L" n="14"/>sui certamque rationem, fuisse vero deinceps &amp; fore non comperit; haec quippe geniturae 
+      tem<lb ed="#L" n="15" break="no"/>poris propria. Motus enim sunt, vnus praecuntis, alter imminentis non aeui sed temporis; eui 
+      <lb ed="#L" n="16"/>quippe masio perpetua immutabilis; ergo neque iunior, nec senior, nec fuit, nec erit, nec patietur 
+      <lb ed="#L" n="17"/>aliquid horum quae sensilis natura patitur, sed haec omnia vices sunt temporis imaginantis 
+      ae<lb ed="#L" n="18" break="no"/>uum. Apud quem insuper eadem aeternitas aliquoties saeculum nuncupatur: Vnde Auerroes 
+      <lb ed="#L" n="19"/>super i de Coelo &amp; Mundo 100. vbi transtatio quam exponit habet saeculum, dicit ita, Plato 
+      <lb ed="#L" n="20"/>nominabat illud quod fuit antequam tempus fuisset, saeculum, quia tempus est nouum apud 
+      <lb ed="#L" n="21"/>ipsum, &amp; intendit per seculum, esse terminans omnia entia, quod fuit ante tempus. Quos &amp; 
+      <lb ed="#L" n="22"/>Aristot subsecutus I. de Coelo ioo aeternitatem bifariam diuidit &amp; distinguit, ponens vnam 
+      <lb ed="#L" n="23"/>vitae cuiuslibet periodum naturalem, alteram vero a semper esse, scilicet vniformiter &amp; 
+      immu<lb ed="#L" n="24" break="no"/>tabiliter, nominatam immortalis diuini, scilicet Dei secundum suam substantiam, &amp; omnem 
+      <lb ed="#L" n="25"/>dispositionem intrinsecam intransmutabilis &amp; penitus immortalis: nam quodlibet 
+      transmu<lb ed="#L" n="26" break="no"/>tatum saltem intrinsece secundum aliquam dispositione necessario moritur secundum illam, 
+      <lb ed="#L" n="27"/>scilicet quam amittit; Vnde sic ait, Hoc nomen diuine enuntiatum est antiquis. Finis enim 
+      <lb ed="#L" n="28"/>continens id, qd. vniuscuiusque vitae tempus, cuius nihil est extra secundum naturam, aeternum 
+      <lb ed="#L" n="29"/>vniuscuiusque vocatum est; secundum eandem autem rationem, &amp; totius coeli finis, &amp; omne 
+      <lb ed="#L" n="30"/>tempus: &amp; infinitatem continens perfectioni, aeternum est, a semper esse sumens 
+      denominatio<lb ed="#L" n="31" break="no"/>nem immortalis &amp; diuinus; vnde &amp; alijs communicatum est, his quidem clarius, his autem 
+      <lb ed="#L" n="32"/>obscurius esse &amp; viuere: Etenim quemadmodum in encidijs phismatibus circa diuina 
+      multo<lb ed="#L" n="33" break="no"/>ties declaratum est rationibus qd. diuinum intransmutabile necessarium esse primum &amp; 
+      sum<lb ed="#L" n="34" break="no"/>mum, qd. sic habens testificatur dictis. Neque n. aliud est quod mouebit; illud enim vtique erit 
+      <lb ed="#L" n="35"/>diuinius; neque habet prauum nihil neque indigens eorum quod ipsius bonorum nullo est; hae 
+      <lb ed="#L" n="36"/>autem tres causae Philosophi sunt notandae. Notandum similiter quod vbi transtatio noua 
+      <lb ed="#L" n="37"/>dicit, quod aeternum sumit denominationem a semper esse, transtatio, quam Auerroes 
+      expo<lb ed="#L" n="38" break="no"/>nit, sic dicit, hoc nomen deriuatur a suo actu, quoniam semper est. Vnde potest elici, quod 
+      <lb ed="#L" n="39"/>esse est quoddam agere, seu actio quaedam entis, sicut viuere, &amp; vita viuentis, sicut 18. secundi 
+      <lb ed="#L" n="40"/>fuerat declaratum: vnde &amp; vlterius aduertendum, quod sicut secundum Philosophum 4. phys. 
+      <lb ed="#L" n="41"/>Tempus fluxibile sequitur fluxibilem actionem, sciliet motum coeli; sic aeternitas stabilis 
+      sequi<lb ed="#L" n="42" break="no"/>tur stabilem actionem, scileesse Dei, &amp; ab ipsa quodammodo deriuatur, defluit &amp; emanat. 
+      Si<lb ed="#L" n="43" break="no"/>cut enim punctus fluens lineam, &amp; instans tempus; sic &amp; Deus instans stabilssimum per 
+      a<lb ed="#L" n="44" break="no"/>ctum suum veluti quendam fluxum videtur aeternitatem causare, &amp; hoc maxime apud 
+      cogni<lb ed="#L" n="45" break="no"/>tionem humanam, quae secundum Philosophum in de memoria &amp; reminiscentia, non sit sine 
+      <lb ed="#L" n="46"/>continuo, nec sine ratione temporis atque motus, licet in Deo nullus sit fluxus mutabiliter. 
+      <lb ed="#L" n="47"/>aut temporaliter successiuus. Ex his autem videtur aeternitatem posse sic breuiter definiri; 
+      <lb ed="#L" n="48"/>Aeternitas est mensura impartibiliter &amp; immutabiliter permanens actus similiter 
+      permanen<lb ed="#L" n="49" break="no"/>tis. Ratio generis &amp; differentiarum non latet. Vnde &amp; patet aeternitatem praecedere 
+      tem<lb ed="#L" n="50" break="no"/>pus secundum naturam; Est enim passio prioris secundum naturam; Esse namque Dei &amp; 
+      a<lb ed="#L" n="51" break="no"/>ctus ipsius prior est naturaliter motu Coeli, sicut &amp; Deus est naturaliter prior Coelo, &amp; 
+      <lb ed="#L" n="52"/>quia hoc &amp; ille causatur a Deo, sicut secundum &amp; quartum primi monstrant: Vnde 
+      <lb ed="#L" n="53"/>Philosophus 5. Metaphys. 16. Priora, inquit, dicuntur priorum passiones, vt 
+      rectitu<lb ed="#L" n="54" break="no"/>do leuitate; haec enim linea secundum se passio est, illud vero superficiei. Per eadem 
+      e<lb ed="#L" n="55" break="no"/>tiam videtur posse exponi illud Exod. 15. Dominus regnabit in aeternum, &amp; vltra. Si enim 
+      <lb ed="#L" n="56"/>aeternum primo modo sumatur, verum est plane; si secundo, sic adhuc est Dominus 
+      quo<lb ed="#L" n="57" break="no"/>quomodo aeternitate superior, &amp; ipsam transcendit, sicut causa, originans &amp; principans 
+      <lb ed="#L" n="58"/>suum causatum, originatum &amp; principiatum: ab ipso namque vtcunque causaliter, originaliter. 
+      <!--861.xml-->
+      <pb ed="#A" n="828"/>
+               <lb ed="#L" n="1"/>&amp; principialiter deriuatur; quare &amp; propositio secunda de Causis sic ait, Omne esse, 
+      supe<lb ed="#L" n="2" break="no"/>rius, aut est esse superius aeternitate &amp; ante ipsam, aut cum aeternitate, aut post aeternitatem 
+      <lb ed="#L" n="3"/>&amp; supra tempus. Nec reputo negligendum pro intellectu Scripturae frequenter, quod vbi 
+      <lb ed="#L" n="4"/>transtatio noua habet aeternum, transtatio, quam Commentator exponit, habet quandoque 
+      <lb ed="#L" n="5"/>saeculum saeculorum, quandoque saeculum, quandoque saeculum saeculi, quandoque saecula: 
+      <lb ed="#L" n="6"/>Plato vero quandoque aeternitatem aeuum appellat; vnde videtur, ista realiter esse idem. Quibus 
+      <lb ed="#L" n="7"/>&amp; concorditer Augustinus super illud Psalmi 105i. AI35i. Confitemini Domino quoniam 
+      <lb ed="#L" n="8"/>bonus, quoniam in saeculum misericordia eius, dicit quod hoc verbum Graecum, dt vr alsias 
+      <lb ed="#L" n="9"/>interpretari potest in saeculum, &amp; similiter in aeternum. Qui &amp; super illud Psalmi 10i. in 
+      ge<lb ed="#L" n="10" break="no"/>neratione &amp; generationem, vel sicut ipse habet, In generatione generationum anni tui, dicit 
+      <lb ed="#L" n="11"/>quod per hoc verbum, in saecula saeculorum, solet in Scripturis sanctis aeternitas designari. 
+      <lb ed="#L" n="12"/>Qui &amp; super illud Psalmi 130. Speret Israel in Domino ex hoc nunc &amp; vsque in saeculum, 
+      <lb ed="#L" n="13"/>vtramque trassationem &amp; distinctionem Philosophi sententialiter approbans, ita dicit; 
+      <lb ed="#L" n="14"/>Quod scribitur Graece, at &amp;o autas an auir, hoc expositum est, ex hoc nunc &amp; vsque in 
+      saecu<lb ed="#L" n="15" break="no"/>lum. Sed non semper saeculi nomen significat hoc saeculum, sed aliquando aeternitatem, quia 
+      <lb ed="#L" n="16"/>aeternum duobus modis intelligitur; vsque in aeternum, hoc est autem semper sine fine, 
+      <lb ed="#L" n="17"/>aut quousque veniamus ad aeternitatem; hoc ergo quomodo intelligendum est, 
+      quous<lb ed="#L" n="18" break="no"/>que perueniamus ad aeternitatem speremus in Dominum Deum, quia cum venerimus 
+      <lb ed="#L" n="19"/>ad aeternitatem iam spes non erit, sed res ipsa erit. Amplius autem 24. 
+      Philosopho<lb ed="#L" n="20" break="no"/>rum, 24. definitionum de Deo nona sic ait, Deus est, cui soli praesens est, quicquid eius 
+      <lb ed="#L" n="21"/>temporis est, tempus Dei aeternitatem eius appellans. Inter omnes autem Philosophos, quos 
+      <lb ed="#L" n="22"/>memini me vidisse, Boetius familiatis Philosophiae alumnus 5. de consolatione; prosa 
+      <lb ed="#L" n="23"/>ultima vtilitatem cognitionis aeternitatis, &amp; proprietatem eius praedictas clarius 
+      expri<lb ed="#L" n="24" break="no"/>mendo sic ait; Deum aeternum esse cuctorum ratione degentium commune iudicium est. 
+      <lb ed="#L" n="25"/>Quid igitur sit aeternitas consideremus; haec enim nobis naturam pariter diuinamque 
+      scien<lb ed="#L" n="26" break="no"/>tiam patefecit; aeternitas est igitur interminabilis vitae tota simul &amp; perfecta possessio, quod 
+      <lb ed="#L" n="27"/>ex // collatione temporalium clarius liquet. Nam quicquid viuit in tempore, id praesens a 
+      prae<lb ed="#L" n="28" break="no"/>teritis in futura procedit; nihilque est in tempore constitutum, quod totum vitae suae spacium 
+      <lb ed="#L" n="29"/>pariter possit amplecti, sed crastinum quidem nondum apprehendit, hesternum vero iam 
+      per<lb ed="#L" n="30" break="no"/>didit, in hodierna quoque vita non amplius viuitis, quam in illo mobili transitorioque 
+      mo<lb ed="#L" n="31" break="no"/>mento. Quod ergo temporis patitur conditionem, licet illud, sicuti de mundo censuit 
+      Ari<lb ed="#L" n="32" break="no"/>stoteles, nec coeperit vnquam esse nec desinat, vita eius cum temporis infinitate protendatur. 
+      <lb ed="#L" n="33"/>nondum tamen tale est, vt aeternum esse iure credatur. Non enim totum simul infinitae licet  
+      <lb ed="#L" n="34"/>vitae spacium comprehendit atque complectitur, sed futura nondum habet, transacta iam non  
+      <lb ed="#L" n="35"/>habet; quicquid igitur interminabilis vitae plenitudinem totam pariter comprehendit ac 
+      pos<lb ed="#L" n="36" break="no"/>sidet, cui neque futuri quicquam possidet absit, nec praeteriti fluxerit, id aeternum esse iure 
+      per<lb ed="#L" n="37" break="no"/>hibetur, idque necesse est &amp; sui compos praesens sibi semper assistere, &amp; infinitatem mobilis I 
+      <lb ed="#L" n="38"/>temporis habere praesentem. Hunc enim vitae immutabilis praesentarium statum infinitus ille 
+      <lb ed="#L" n="39"/>temporalium rerum motus imitatur, cumque eum effingere atque aequare non possit, ex 
+      im<lb ed="#L" n="40" break="no"/>mobilitate deficit in motum, ex simplicitate praesentiae decrescit in infinitam futuri &amp; 
+      praete<lb ed="#L" n="41" break="no"/>riti quantitatem; &amp; cum totam pariter vitae suae pl. . udinem nequeat possidere, hoc ipso 
+      <lb ed="#L" n="42"/>quod quoquomodo nunquam esse desinit, illud quod implere atque exprimere non potest, 
+      <lb ed="#L" n="43"/>aliquatenus videtur aemulari, alligans se ad qualemcunque praesentiam huius exigui 
+      volucris<lb ed="#L" n="44" break="no"/>que momenti, quae quoniam manentis illius praesentiae quandam gestat imaginem, 
+      quibus<lb ed="#L" n="45" break="no"/>cunque contigerit id praestat vt esse videatur; quoniam vero manere non potuit, infinitum 
+      <lb ed="#L" n="46"/>temporis iter arripuit, eoque modo factum est, vt continuaret eundo vitam, cuius 
+      plenitu<lb ed="#L" n="47" break="no"/>dinem complecti non valuit permanendo. Itaque si digna rebus nomina velimus imponere, 
+      <lb ed="#L" n="48"/>Platonem sequentes, Deum quidem aeternum, mundum vero dicamus esse perpetuum. Cui 
+        <lb ed="#L" n="49"/>&amp; concordanter <ref xml:id="dcn2br-e08670-Rd1e479">
+                  <name xml:id="dcn2br-e08670-Nd1e481">Anselmus</name> Monolog. 24.</ref> ait, <quote xml:id="dcn2br-e08670-Qd1e485" source="http://scta.info/resource/adcmon-c24-d1e117@3-116">Summam substantiam constat sine principio, E 
+      <lb ed="#L" n="50"/>&amp; sine fine esse, nec habere praeteritum aut futurum, nec temporale, hoc est, labile praesens, 
+      <lb ed="#L" n="51"/>quo // nunc vtimur, quoniam aetas siue aeternitas eius, quae nihil aliud est quam ipsa, 
+      immuta<lb ed="#L" n="52" break="no"/>bilis &amp; sine partibus est. Nonne ergo semper, quod videtur designare totum tempus, multo 
+      <lb ed="#L" n="53"/>verius, si de illa dicitur, intelligitur significare aeternitatem, quae sibi ipsi nunquam est 
+      dissi<lb ed="#L" n="54" break="no"/>milis, quam temporum varietatem, quae sibi semper in aliquo est non similis? Quare si 
+      dici<lb ed="#L" n="55" break="no"/>tur semper esse, quoniam idem est illi, esse &amp; viuere, nihil melius intelligitur quam aeterne 
+      <lb ed="#L" n="56"/>esse vel viuere, id est, interminabilem vitam perfecte simul totam obtinere, videtur enim 
+      <lb ed="#L" n="57"/>eius aeternitas esse interminabilis vita simul perfecte tota existens</quote>. Istam similiter 
+      praesenta<lb ed="#L" n="58" break="no"/>neam &amp; vniformem semper instantiam aeternitatis praedictam ostendit Propheta Psalmo 83¬ 
+      <!--862.xml-->
+      <pb ed="#A" n="829"/>
+               <lb ed="#L" n="1"/>Melior, inquiens, est dies vna in atrijs tuis super millia, quasi dicat, in atrijs tuis est 
+      tan<lb ed="#L" n="2" break="no"/>tummodo dies vna, non multae vnico tantum modo, &amp; ideo indiuisibiliter semper 
+      in<lb ed="#L" n="3" break="no"/>stans. Haec etiam vna dies potest dici similiter dies multi, &amp; etiam anni multi: Vnde 
+      <lb ed="#L" n="4"/>Iob. 10. Nunquid sicut dies hominis dies tui, &amp; anni tui sicut humana sunt tempora? 
+      <lb ed="#L" n="5"/>Et infra 36. Numerus annorum eius inaestimabilis: Et Psalmo 76. Cogitaui dies 
+      anti<lb ed="#L" n="6" break="no"/>quos, &amp; annos aeternos, in mente habui: Et Psalmo. 10I. Tu autem idem ipse es, &amp; 
+      <lb ed="#L" n="7"/>anni tui non deficient. Potest &amp; simili ratione dici singulariter &amp; pluraliter omne 
+      tem<lb ed="#L" n="8" break="no"/>pus, &amp; omnia tempora; singulariter omne tempus, quia singulariter &amp; indiuisibiliter 
+      <lb ed="#L" n="9"/>omni tempori coexistit, &amp; aequiualet existendo; &amp; pluraliter omnia tempora, quia 
+      om<lb ed="#L" n="10" break="no"/>nibus temporibus stabiliter coexistit &amp; aequiualet existendo: Potest etiam dici maior 
+      <lb ed="#L" n="11"/>quolibet tempore etiam infinito, si secundum Aristotelem supponatur quod quolibet 
+      <lb ed="#L" n="12"/>tempore superior est &amp; prior, sicut superius est ostensum, nec quicquam ibi sicut in 
+      flu<lb ed="#L" n="13" break="no"/>xibili tempore defluit, vel ausertur, sed stabiliter permanet totum simul. Verum licet  
+      <lb ed="#L" n="14"/>aeternitas possit metaphorice omne tempus &amp; omnia tempora nuncupari, potest tamen 
+      <lb ed="#L" n="15"/>&amp; instans figuraliter nominari, secundum illud Ecclesiastici quadragesimo secundo, Cog 
+      <lb ed="#L" n="16"/>nouit Dominus omnem scientiam, &amp; inspexit in signum aeui: Imo &amp; verius instans 
+      <lb ed="#L" n="17"/>quam tempus vel tempora, quia insuccessibiliter, impartibiliter, immutabiliter eadem  
+      <lb ed="#L" n="18"/>numero semper instat. Vt autem intellectum praedictum Sacrae Scripturae per sacros 
+      te<lb ed="#L" n="19" break="no"/>stes confirmem, Ecce Augustinus super illud Psalmi octogesimi tertij allegatum 
+      <lb ed="#L" n="20"/>Contemnant, inquit, homines millia dierum, desiderent vnum diem, qui non habet 
+      <lb ed="#L" n="21"/>ortum &amp; occasum, vnum diem, diem sempiternum, cui non cedit hesternus, quem  
+      <lb ed="#L" n="22"/>non vrget crastinus. Qui &amp; 3. De libero arbitrio. vlt. eandem autoritatem exponens, 
+      <lb ed="#L" n="23"/>Millia, inquit, dierum in temporis mutabilitate intelligantur, vnius autem diei nomine 
+      <lb ed="#L" n="24"/>incommutabilitas aeternitatis vocetur. Qui etiam I. Confess. 6. Non mutaris, neque 
+      <lb ed="#L" n="25"/>peragitur in te hodiernus dies, quoniam anni tui non deficient; Anni tui hodiernus 
+      di<lb ed="#L" n="26" break="no"/>es. Quam multi nostri iam dies &amp; patrum nostrorum per hodiernum tuum 
+      transie<lb ed="#L" n="27" break="no"/>runt? Et ex illo acceperunt modos vtcunque exstiterint, &amp; transibunt adhuc alij &amp; 
+      ac<lb ed="#L" n="28" break="no"/>cipient, &amp; vtcunque existent; tu autem idem ipse es, &amp; omnia crastina atque vltima, 
+      <lb ed="#L" n="29"/>omniaque hesterna &amp; retro hodie facies, hodie fecisti. Quid ad me, si quis non 
+      intelli<lb ed="#L" n="30" break="no"/>gat? Gaudeat &amp; ipse, dicens, quid hoc est gaudeat? Et sic &amp; amet non inueniendo 
+      in<lb ed="#L" n="31" break="no"/>uenire potius, quam inueniendo non inuenire te. Idem etiam super illud Psalmi. I0r. 
+      <lb ed="#L" n="32"/>In generatione &amp; generationem anni tui; Qui, inquit, anni tui? Qui, nisi qui non 
+      veni<lb ed="#L" n="33" break="no"/>unt &amp; transeunt? Qui, nisi qui non ideo veniunt vt non sint? Omnes enim dies in hoc  
+      <lb ed="#L" n="34"/>tempore ideo veniunt vt non sint, omnis hora, omnis mensis, omnis annus; Nihil horum 
+      <lb ed="#L" n="35"/>stat, Antequam veniat, erit, cum venerit, non erit; Illi ergo anni tui aeterni, Anni tui, 
+      <lb ed="#L" n="36"/>qui non imutantur, in generatione generationum erunt. Non enim aliud anni Dei, &amp; 
+      a<lb ed="#L" n="37" break="no"/>hud ipse, sed anni Dei aeternitas Dei est; aeternitas Dei ipsa eius substantia est, quae 
+      ni<lb ed="#L" n="38" break="no"/>hil habet mutabile vbi nihil est praeteritum, quasi iam non sit, nihil est futurum, quasi 
+      <lb ed="#L" n="39"/>nondum sit; Non est ibi nisi est, Non est fuit &amp; erit, quia &amp; quod fuit iam non est, &amp;  
+      <lb ed="#L" n="40"/>quod erit nondum est, sed quicquid ibi est: non nisi est. Et infra super illud, Anni tui 
+      <lb ed="#L" n="41"/>non deficient, Speremus, inquit, venturos nos ad hos annos stantes, in quibus non 
+      <lb ed="#L" n="42"/>circuitu Solis peraguntur dies, sed manet quod est sicuti est, quia hoc solum vere est. 
+      <lb ed="#L" n="43"/>Beatus quoque Gregorius 16. Moral. 16. super illud Iob. vicesimo quarto. Qui autem 
+      <lb ed="#L" n="44"/>nouerunt eum ignorant dies eius; Quid, inquit, dies Domini nisi ipsa aeternitas 
+      appel<lb ed="#L" n="45" break="no"/>latur? Quae nonnunquam vnius dici permutatione exprimitur, sicut scriptum est, 
+      Meli<lb ed="#L" n="46" break="no"/>or est dies vna in atrijs tuis super millia; Nonnunquam vero pro sua multitudine 
+      die<lb ed="#L" n="47" break="no"/>rum multorum appellatione significatur, de quibus scriptum est, In saeculum saeculi 
+      an<lb ed="#L" n="48" break="no"/>ni tui. Nos itaque intra tempora voluimur per hoc quod creaturae sumus; Deus autem, 
+      <lb ed="#L" n="49"/>quia Creator est, omnia aeternitate sua tempora nostra comprehendit. Qui &amp; supra 9. 
+      <lb ed="#L" n="50"/>Moral. 26. super illud Iob. decimo, Nunquid sicut dies hominis, dies tui &amp;c. Dies, 
+      in<lb ed="#L" n="51" break="no"/>quit, &amp; anni hominis a diebus &amp; annis discrepant aeternitatis, quia vitam nostram, quae 
+      <lb ed="#L" n="52"/>in tempore incipit, dum intra sinus sui latitudinem format, aeternitas deuorat, cuius 
+      ni<lb ed="#L" n="53" break="no"/>mirum immensitas, quia vltra citraque super nos tenditur, sine inchoatione &amp; termino eius 
+      <lb ed="#L" n="54"/>aeternum esse dilatatur, eique nec transacta praetereunt, nec adhuc ventura, quasi quae 
+      <lb ed="#L" n="55"/>non appareant, desunt, quia is, qui semper esse habet, cuncta sibi praesentia 
+      conspi<lb ed="#L" n="56" break="no"/>cit, cumque aspiciendo post &amp; ante non tenditur, nulla intuitus mutatione variatur. 
+      Ean<lb ed="#L" n="57" break="no"/>dem quoque proprietatem aeternitatis insinuat Anselmus de Concor. 3. &amp; 4. sicut 
+      vicesi<lb ed="#L" n="58" break="no"/>mum septimum huius allegat. De qua &amp; Robertus Lincolniensis de libero arbitrio 8. dicit,  
+      <!--863.xml-->
+      <pb ed="#A" n="830"/>
+               <lb ed="#L" n="1"/>quod aeternitas est in fine simplicitatis omni instanti simplicior: Haec etiam de aeternitate 
+      prae<lb ed="#L" n="2" break="no"/>missa omnes Doctores veteres &amp; moderni vnanimiter profitentur. 
+      </p>
+            <div xml:id="dcn2br-e08670-Dd1e647">
+               <head xml:id="dcn2br-e08670-Hd1e649">Corollarium</head>
+               <p xml:id="dcn2br-e08670-d1e652">
+                  <lb ed="#L" n="3"/>COROLLARIVM. 
+      <lb ed="#L" n="4"/>Corollarium, quod vnicum &amp; idem est instans &amp; immutabile penitus in tota aeternita¬ 
+      <lb ed="#L" n="5"/>te, &amp; quod tota aeternitas non est multiplicior neque maior suo instanti, nec instans 
+      ae<lb ed="#L" n="6" break="no"/>ternitatis ipsa simplicius, neque minus, quare &amp; quod idem est realiter aeternitas &amp; 
+      <lb ed="#L" n="7"/>suum instans. Amplius autem &amp; quod his nequaquam obstantibus dicitur aeternitas 
+      <lb ed="#L" n="8"/>tota, magna, longa, etiam infinita, fuisse quoque, esse, &amp; fore; aliquid insuper in ipsa 
+      <lb ed="#L" n="9"/>fuisse, esse, &amp; fore: quamobrem &amp; quod de Deo &amp; actu eius intrinfeco dicitur, 
+      tran<lb ed="#L" n="10" break="no"/>sumptiue fuit, est, &amp; erit; de actionibus tamen eius extrinsecis proprie temporaliter 
+      <lb ed="#L" n="11"/>dicitur fecit, &amp; facit, &amp; faciet.
+      </p>
+               <p xml:id="dcn2br-e08670-d1e674">
+                  <lb ed="#L" n="12"/>EX his autem euidenter infertur quod vnicum &amp; idem est instans immutabile penitus in 
+      <lb ed="#L" n="13"/>tota aeternitate, &amp; quod tota aeternitas non est multiplicior neque maior suo instanti, nec 
+      <lb ed="#L" n="14"/>instans aeternitatis ipsa simplicius neque minus, quare &amp; quod idem est realiter aeternitas &amp; 
+      <lb ed="#L" n="15"/>suum instans: amplius autem &amp; quod his nequaquam obstantibus dicitur aeternitas tota, 
+      <lb ed="#L" n="16"/>magna, longa, etiam infinita; fuisse quoque, esse, &amp; fore; Aliquid insuper in ipsa fuisse, esse, 
+      <lb ed="#L" n="17"/>&amp; fore: quamobrem &amp; quod de Deo &amp;e actu eius intrinseco dicitur transumptiue, fuit, est, &amp;  
+      <lb ed="#L" n="18"/>erit; de actionibus tamen eius extrinsecis proprie temporaliter dicitur, fecit, facit, &amp; faciet. 
+      <lb ed="#L" n="19"/>Prima pars huius corollarij sequitur euidenter, cum secundum prius ostensa in eternitate 
+      <lb ed="#L" n="20"/>semper instante stabiliter nulla sit mutabilitas, nec diuersitas aliqualis; Secunda sequitur ex 
+      <lb ed="#L" n="21"/>eisdem, &amp; ex prima; Tertia sequitur ex secunda; Quarta infertur ex secunda &amp; tertia. Si 
+      <lb ed="#L" n="22"/>enim aeternitas &amp; suum instans non essent idem realiter, differrent sicut tempus &amp; suum 
+      in<lb ed="#L" n="23" break="no"/>stans; quare &amp; haec esset multiplicior atque maior, illud vero simplicius atque minus. 
+      Quin<lb ed="#L" n="24" break="no"/>ta similiter sequitur ex praemissis; aeternitas namque coexistit toti tempori, magno, longo, 
+      e<lb ed="#L" n="25" break="no"/>tiam secundum Aristotelem, infinito; quare &amp; ab ipso huiusmodi denominationes 
+      transump<lb ed="#L" n="26" break="no"/>tiuas admittit. Sexta quoque sequitur ex hac quinta, &amp; probatur similiter sicut illa. Septima 
+      <lb ed="#L" n="27"/>// etiam infertur ex sexta &amp; per ostensionem illius. Octaua vero pars eius potest inferri 
+      exsex<lb ed="#L" n="28" break="no"/>ta. Huius autem transumptionis causa est, quia non habemus verbum significans proprie 
+      <lb ed="#L" n="29"/>aeternitatis stabilem mansionem, quare necessario cogimur transferre secundum 
+      similitudi<lb ed="#L" n="30" break="no"/>nem qualemcunque verba nostra temporalia secundum differentias quaslibet temporales ad I 
+      <lb ed="#L" n="31"/>aeternitatem &amp; Deum aeternum, actusque suos intrinsecos coaeternos, quia omni tempori 
+      co<lb ed="#L" n="32" break="no"/>existunt, nec vlli tempori defuerunt aut desunt, vel deerunt in futuro. Huic autem 
+      testimo<lb ed="#L" n="33" break="no"/>nium perhibet Anselmus de Concord. 3. Propositum, inquiens, secundum quod vocati sunt 
+      <lb ed="#L" n="34"/>Sancti in aeternitate, in qua non est praeteritum vel futurum, sed tantum praesens, immutabile 
+      <lb ed="#L" n="35"/>est in aeternitate: non enim fuit aliquid, aut erit aliquid, sed tantum est. Quamuis autem ibi 
+      <lb ed="#L" n="36"/>nihil sit nisi praesens, non est tamen illud praesens temporale, sicut nostrum, sed aeternum, in 
+      <lb ed="#L" n="37"/>quo tempore cuncta continentur. Siquidem quemadmodum praesens tempus continet 
+      <lb ed="#L" n="38"/>omnem locum, &amp; quae in quolibet loco sunt; ita aeterno praesenti simul clauditur omne 
+      <lb ed="#L" n="39"/>tempus, &amp; quae sunt in quolibet tempore. Cum ergo ait Apostolus, quia Deus Sanctos 
+      <lb ed="#L" n="40"/>suos praesciuit, praedestinauit, vocauit, iustificauit, magnificauit; nihil horum prius aut  
+      <lb ed="#L" n="41"/>posterius apud Deum est, sed omnia simul aeterno praesenti sunt intelligenda: Habet 
+      e<lb ed="#L" n="42" break="no"/>nim aeternitas suum simul in quo sunt omnia, quae simul sunt loco &amp; tempore, &amp; quae 
+      <lb ed="#L" n="43"/>sunt in locis diuersis vel temporibus. Vt autem ostenderet indem Apostolus non illa 
+      ver<lb ed="#L" n="44" break="no"/>ba se pro temporali significatione posuisse, illa etiam, quae futura sunt, praeteriti verbo 
+      <lb ed="#L" n="45"/>temporis pronuntiauit: Nondum enim quos praesciuit adhuc nascituros, sic iam temporaliter  
+      <lb ed="#L" n="46"/>vocauit, iustificauit, magnificauit; Vnde cognosci potest eum propter indigentiam verbi 
+      <lb ed="#L" n="47"/>significantis aeternam praesentiam vsum esse verbis praeteritae significationis, quoniam quae 
+      <lb ed="#L" n="48"/>tempore praeterita sunt, ad similitudinem aeterni praesentis omnino immutabilia sunt.  
+      <lb ed="#L" n="49"/>Nonne &amp; de spiritu sancto voce veritatis veraciter dicitur, Quaecunque audiet, loquetur, 
+      <lb ed="#L" n="50"/>Ioh. 16? Super quod Augustinus part. 2. super Iohan. homilia 45. seu nonogesima nona 
+      <lb ed="#L" n="51"/>totius sic ait; Nec moueat, quod verbum futuri temporis positum est; Non enim 
+      di<lb ed="#L" n="52" break="no"/>ctum est quaecunque audiuit, sed quaecunque audiet loquetur; Illa quippe audientia sem¬ 
+      <!--864.xml-->
+      <pb ed="#A" n="831"/>
+                  <lb ed="#L" n="1"/>piterna est, quia sempiterna scientia; in eo autem quod sempiternum est, sine initio &amp; 
+      <lb ed="#L" n="2"/>sine fine, cuiuslibet temporis verbum ponatur siue praeteriti, siue praesentis, siue futuri, 
+      <lb ed="#L" n="3"/>non mendaciter ponitur. Quamuis enim natura illa immutabilis &amp; ineffabilis non recipiat 
+      <lb ed="#L" n="4"/>fuit &amp; erit, sed tantum est; ipsa enim veraciter est, quia mutari non potest, &amp; ideo illi 
+      <lb ed="#L" n="5"/>tantum conueniat dicere, Ego sum qui sum, &amp; dices filijs Israel, qui est misit me ad vos; 
+      <lb ed="#L" n="6"/>tamen propter mutabilitatem temporum in quibus versatur nostra mortalitas, &amp; nostra 
+      mu<lb ed="#L" n="7" break="no"/>tabilitas, non mendaciter dicimus, &amp; fuit, &amp; erit, &amp; est; Fuit in praeteritis saeculis, Est in 
+      <lb ed="#L" n="8"/>praesentibus, Erit in futuris: Fuit, quia nunquam defuit; Erit, quia nunquam deerit, &amp;  
+      <lb ed="#L" n="9"/>quia semper est; neque enim velut qui iam non sit cum praeteritis, occidit, aut cum 
+      prae<lb ed="#L" n="10" break="no"/>sentibus, velut qui non maneat labitur, aut cum futuris velut qui non fuerat orietur; 
+      pro<lb ed="#L" n="11" break="no"/>inde cum secundum volumina temporum locutio humana variatur, qui per nulla deesse 
+      <lb ed="#L" n="12"/>potuit, aut potest, aut poterit tempora, vera de illo dicuntur cuiuslibet temporis verba: 
+      <lb ed="#L" n="13"/>semper itaque audit Spiritus Sanctus quia semper scit, ergo &amp;es sciuit, &amp; scit, &amp; sciet, ac 
+      <lb ed="#L" n="14"/>per hoc &amp; audiuit, &amp; audit, &amp; audiet. Cui &amp; concordanter Gregorius 23. Moral. 
+      su<lb ed="#L" n="15" break="no"/>per illud Iob 33. Semel loquetur Deus, sic dicit: Quod autem non ait, locutus est, sed 
+      <lb ed="#L" n="16"/>loquetur, non videlicet tempus praeteritum, sed futurum ponens, liquet omnibus, quia 
+      <lb ed="#L" n="17"/>Deo tempus nec praeteritum congruit, nec futurum: tanto ergo in eo quo dlibet tempus 
+      <lb ed="#L" n="18"/>ponitur libere, quanto nullum vere; neque enim quodlibet libere dici poterit, si saltem 
+      <lb ed="#L" n="19"/>vnum proprie diceretur; inde itaque dici in Deo tempus audacter quodlibet licet, vnde 
+      <lb ed="#L" n="20"/>in eo dici proprie nullum licet. Vltima autem pars huius sequitur manifeste: Nam sicut 
+      <lb ed="#L" n="21"/>actus Dei intrinsecus aeternus mensuratur aeternitate seu eius instanti, sic actio eius 
+      ex<lb ed="#L" n="22" break="no"/>trinseca temporalis rebus temporalibus, tempore, temporisue instanti, sicut &amp; actio 
+      <lb ed="#L" n="23"/>creaturae. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

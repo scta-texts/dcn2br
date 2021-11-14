@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="649"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e85920"><!-- l3c3 -->
+            <head xml:id="dcn2br-e85920-Hd1e106">Caput 3</head>
+            <p xml:id="dcn2br-e85920-d1e109">
+               <lb ed="#L" n="31"/>CAP. III. 
+      <lb ed="#L" n="32"/>De contingente ad vtrumlibet secundum opiniones diuersas, &amp; 
+      <lb ed="#L" n="33"/>quod ipsum est.,  
+      </p>
+            <p xml:id="dcn2br-e85920-d1e118">
+               <lb ed="#L" n="34"/>NVnc vero iuxta regulam generalem de necessitate naturaliter 
+      praece<lb ed="#L" n="35" break="no"/>dente capitulo proximo praelibatam, videtur de contingenti ad 
+      vtrum<lb ed="#L" n="36" break="no"/>libet disserendum: Porro circa hoc contingens sunt opinionesi idiuersae. 
+      <lb ed="#L" n="37"/>Aliqui namque dicunt, quod nihil est sic contingens, sed erit; dicuntque 
+      <lb ed="#L" n="38"/>tale contingens non esse in rebus presentibus, sed in futuris. Alij vero 
+      <lb ed="#L" n="39"/>dicunt contingens esse in rebus; &amp; hi multipliciter sunt diuisi. Aliqui 
+      <lb ed="#L" n="40"/>namque dicunt ipsum esse in propositionibus aliquibus de futuro, &amp; in 
+      <lb ed="#L" n="41"/>alijs rebus nusquam: alij vero in rebus alijs ponunt ipsum; &amp; horum hi 
+      <lb ed="#L" n="42"/>quidem in potentijs tantum passiuis, illiautem tantumodo in actiuis; &amp; isti causis efficientibus 
+      a<lb ed="#L" n="43" break="no"/>ctu tantum: Illi vero in earum effectibus, dum actualiter tantum fiunt: Alij autem dicunt, 
+      <lb ed="#L" n="44"/>quod illud tantum, &amp; ideo est contingens ad vtrumlibet, quod &amp; quia Deus vult posse esse, &amp; 
+      <lb ed="#L" n="45"/>non esse. Motiuum primae opinionis est istud; Nullum ens essentialiter se habet ad vtramque 
+      <lb ed="#L" n="46"/>partem contradictionis, ad esse scilicet &amp; non esse, quia omne ens determinatur ad esse; sed 
+      <lb ed="#L" n="47"/>omne contingens ad vtrumlibet, siue contingens aequaliter, aequaliter se habet ad ista: Aliter 
+      <lb ed="#L" n="48"/>enim non esset contingens ad vtrumlibet &amp; aequaliter. Vnde &amp; Philosophus I. Prior: capit. 
+      <lb ed="#L" n="49"/>de Contingenti, vocans illud contingens infinitum, sic ait; Infinitum autem, eo quod non  
+      <lb ed="#L" n="50"/>magis sic vel illo modo. Haec etiam videtur sententia eiusdem Philosophi 1. peri hermenias 
+      <lb ed="#L" n="51"/>ult. vbi in his quae sunt, &amp; quae facta sunt, ponit necessitatem, quia determinatam veritatemI 
+      <!--683.xml-->
+      <pb ed="#A" n="650"/>
+               <lb ed="#L" n="1"/>in his vero quae erunt, contingentiam ad vtrumlibet, quia indeterminatam veritatem in 
+      singu<lb ed="#L" n="2" break="no"/>laribus, scilicet de futuro, quae nostrae subiacent potestati, nec magis nata sunt fieri isto modo 
+      <lb ed="#L" n="3"/>quam illo: Vnde &amp; ante illud cap. vltimum ita // dicit; In his ergo quae sunt, &amp; quae facta 
+      <lb ed="#L" n="4"/>sunt, necesse affirmationem vel negationem veram vel falsam esse. Et infra cap. vltimo sic 
+      <lb ed="#L" n="5"/>subiungit. Quare in alijs futuris, quaecunque secundum potentiam dicuntur huiusmodi, 
+      ma<lb ed="#L" n="6" break="no"/>nifestum est, quoniam non omnia ex necessitate fiunt, sed alia quidem vtrumlibet, nihil 
+      ma<lb ed="#L" n="7" break="no"/>gis est affirmatio vel negatio vera; alio vero magis quide in pluribus alterum; sed contingit fieri 
+      <lb ed="#L" n="8"/>alterum, alterum vero minime: Igitur esse, qued est, quado est, &amp; non esse, quod non est, quado 
+      <lb ed="#L" n="9"/>no est, necesse est, Et infra, dico autem, necesse est quidem futurum esse bellum nauale cras, vel 
+      <lb ed="#L" n="10"/>non esse futurum: sed non futurum esse cras nauale bellum necesse est, vel non futurum esse; 
+      <lb ed="#L" n="11"/>futurum autem esse, vel non esse, necesse est. Quare, quoniam similiter orationes verae sunt,  
+      <lb ed="#L" n="12"/>quemadmodum; &amp; res, manifestum est, quoniam quaecunque sic se habent, vt vtrumlibet sint, 
+      <lb ed="#L" n="13"/>&amp; contraria ipsorum contingere queant, necesse est similiter se habere ad contradictionem, 
+      <lb ed="#L" n="14"/>Vbi &amp; Boetius ita dicit, Contingentia sunt, quaecunque &amp; ad esse &amp; ad non esse aequaliter sese 
+      <lb ed="#L" n="15"/>habent: &amp; infra; Haec quae vtrumlibet vocamus, talia sunt, quae cum nondum sint facta, &amp;  
+      <lb ed="#L" n="16"/>fieri possunt &amp; non fieri. Istud autem motiuum mouere non debet. Si enim contingens 
+      hu<lb ed="#L" n="17" break="no"/>iusmodi, quia est contingens aequaliter, ideo non est existens; eadem ratione non erit non 
+      exi<lb ed="#L" n="18" break="no"/>stens, nec magis futurum quam paesens, nec etiam magis futurum quam non futurum: aliter 
+      <lb ed="#L" n="19"/>enim non aequaliter se haberet ad vtramlibet partium, sed esset tantum sub vna: quare oporte 
+      <lb ed="#L" n="20"/>ret ipsum nec esse, nec non esse; nec esse futurum, nec non esse futurum: &amp; ita de contradictorijs 
+      <lb ed="#L" n="21"/>singulis; sed inter omnia contradictoria aequaliter mediaret, quod contradictoria implicat 
+      e<lb ed="#L" n="22" break="no"/>uidenter: Hoc ergo motiuum a veritate longius est remotum. Et ipsamet opinio non est 
+      <lb ed="#L" n="23"/>vera: contingens enim necessarium; &amp; contingens in pluribus, &amp; contingens in paucioribus 
+      <lb ed="#L" n="24"/>opponuntur contingenti aequaliter; &amp; si vnum oppositorum est pessibile aut naturale, &amp; 
+      reli<lb ed="#L" n="25" break="no"/>quum, vt Io secundi fuit ostensum. Sed illa sunt possibilia &amp; naturalia actualiter quae existunt; 
+      <lb ed="#L" n="26"/>quare &amp; contingens aequaliter est possibile esse actu, imo &amp; naturaliter est in actu. Secunda 
+      <lb ed="#L" n="27"/>vero positio concedit esse tale contingens, propter autoritates plurimas hoc testantes, &amp; non  
+      <lb ed="#L" n="28"/>in rebus contra propositiones distinctis, propter motiuum praemissum, ideoque tantum in 
+      pro<lb ed="#L" n="29" break="no"/>positionibus aliquibus, vt est dictum. Istud autem suum motiuum fuerat iam amotum, ipsa 
+      <lb ed="#L" n="30"/>quoque positio est errori admota: Si enim contingentia sit in propositionibus talibus; vel hoc 
+      <lb ed="#L" n="31"/>est propter ipsasmet propositiones, quatenus essentialiter existunt res tales, &amp; tunc est in rebus 
+      <lb ed="#L" n="32"/>existentibus iam in actu, &amp; etiam eadem ratione, qua contingentia ponitur in his rebus, posset 
+      <lb ed="#L" n="33"/>poni in alijs rebus praesentibus, quod hi negant: vel contingentia ponitur in propositionibus 
+      <lb ed="#L" n="34"/>talibus propter res significatas per eas, &amp; tunc potius est ponenda in rebus illis, quam in 
+      pro<lb ed="#L" n="35" break="no"/>positonibus, dicente Philosopho I. Post 2. Semper propter quod vnumquodque, illud 
+      ma<lb ed="#L" n="36" break="no"/>gis est: &amp; in Praedicamentis cap. de substantia; In eo quod res est, vel non est, in hoc oratio T 
+      <lb ed="#L" n="37"/>vera vel falsa dicitur: &amp; I. peri hermenias vlt. Similiter orationes verae sunt, quemadmodum 
+      <lb ed="#L" n="38"/>&amp; res &amp; ratio docet idem. Nam contingentia non ponitur in propositionibus talibus, nisi 
+      <lb ed="#L" n="39"/>tanquam in signo, non essentialiter propter ipsas, sed propter res // signatas; ergo in ipsis rebus 
+      <lb ed="#L" n="40"/>// signatis primo &amp; essentialiter est ponenda; &amp; cum illae res sint tantum futurae, ista opinio 
+      po<lb ed="#L" n="41" break="no"/>nit realiter vt praecedens. Tertia opinio praemissarum est ipsius Auerrois, super 2. phys. Arist. 
+      <lb ed="#L" n="42"/>comment. 48. &amp; est ratio sua talis; Contingentia // aequaliter est in aliquibus potentijs, &amp; non in 
+      <lb ed="#L" n="43"/>actiuis; ergo tantummodo in passiuis. Et quod non sit in actiuis potentiis sic ostendit; 
+      quo<lb ed="#L" n="44" break="no"/>niam natura contingentis aequaliter est natura materiae &amp; non formae, &amp; quoniam aliter 
+      natu<lb ed="#L" n="45" break="no"/>ra ageret otiose: potentia enim ad esse, &amp; ad non esse essent aequales in eodem per se: sed 
+      ra<lb ed="#L" n="46" break="no"/>tio sua fortissima, quae potest elici ex dictis suis ibi &amp; super 8. Physe comment. 8. est ista, 
+      quo<lb ed="#L" n="47" break="no"/>niam si contingentia aequalis ponatur in aliqua potentia actiua, illa aequaliter se habet ad 
+      agen<lb ed="#L" n="48" break="no"/>dum &amp; non agendum, &amp; ad agendum vnum oppositorum &amp; reliquum; ergo neutrum faciet 
+      <lb ed="#L" n="49"/>vel vtrumque: cur enim potius faceret hoc quam illud? Et haec eadem videtur sententia 
+      Philo<lb ed="#L" n="50" break="no"/>sophi, infra eodem 8 17. Sed haec eorum ratio irrationalis est omnino, omnem enim destruit 
+      <lb ed="#L" n="51"/>libertatem, seu potius a libertate destruitur, sicut 34. pars corollarii ri, primi clarissime 
+      demon<lb ed="#L" n="52" break="no"/>strauit, ostendens quod posito agente rationali &amp; libero cum omnibus dispositionibus 
+      naturali<lb ed="#L" n="53" break="no"/>ter praeuijs, quibus producit suam libera actionem, non necessario sequitur quod producat, nec 
+      ne<lb ed="#L" n="54" break="no"/>cessario sequitur, quod si aliqua actionem producat, ista producet, sed stat oppositum vtriusque: 
+      <lb ed="#L" n="55"/>sic igitur perit simul tam opinio quam ratio opinantis. Quarta autem opinio stare non  
+      <lb ed="#L" n="56"/>potest. Nam in lapide quiescente est contingentia aequalis, vt moueatur ad 
+      Orien<lb ed="#L" n="57" break="no"/>tem vel Oecidentem, ad Boream, vel ad Austrum. His autem duabus, scilicet tertia 
+      <lb ed="#L" n="58"/>&amp; quarta destructis, quinta &amp; sexta similiter destruantur. Opinio insuper septima mira¬ 
+      <!--684.xml-->
+      <pb ed="#A" n="651"/>
+               <lb ed="#L" n="1"/>mirabiliter opinatur: vt enim a facilioribus inchoem; Omne existens, determinate &amp; neces¬ 
+      <lb ed="#L" n="2"/>sario nunc existit; &amp; omne non ens, determinate &amp; necessario nunc non existit: neutrum 
+      er<lb ed="#L" n="3" break="no"/>go istorum indifferenter aequaliter ad vtrumlibet se habet ad esse, vel ad non esse; quod tamen 
+      <lb ed="#L" n="4"/>secundum praemissa videtur de ratione huius contingentis, quod &amp; nomen suum videtur 
+      o<lb ed="#L" n="5" break="no"/>stendere: nam ideo, vt videtur, contingens aequaliter &amp; ad vtrumlibet appellatur; alias etiam 
+      <lb ed="#L" n="6"/>tam contingens in pluribus quam in paucioribus, contingens aequaliter &amp; ad vtrumlibet 
+      ra<lb ed="#L" n="7" break="no"/>tionabiliter dici posset, contra Philosophum &amp; omnes Philosophice sapientes. Et si opinans 
+      <lb ed="#L" n="8"/>se corrigat, aequaliter seu ad vtrumlibet apponendo, dicendo videlicet illud &amp; ideo esse 
+      con<lb ed="#L" n="9" break="no"/>tingens aequaliter seu ad vtrumlibet, quod &amp; quia Deus vult posse sic esse &amp; non esse, videtur 
+      <lb ed="#L" n="10"/>definire idem per seipsum: tale insuper contingens non videtur posse poni aliqua res existens 
+      <lb ed="#L" n="11"/>propter praemissa, nec res praeterita, quare tantum futura; Haec ergo opinio redit in primam 
+      <lb ed="#L" n="12"/>superius reprobatam. Item si propterea aliquid sit contingens; quia Deus vult illud posse esse 
+      <lb ed="#L" n="13"/>&amp; non esse; simili ratione propterea aliquid est necessarium, quia Deus vult illud. sic esse, 
+      <lb ed="#L" n="14"/>&amp; non posse non esse: Contrariorum namque debent esse contrariae rationes; quod est 
+      con<lb ed="#L" n="15" break="no"/>tra prius ostensa, vicesimo primo primi. Non enim quia Deus vult se esse, ideo necesse est 
+      ip<lb ed="#L" n="16" break="no"/>sum esse, sed potiuse contrario; &amp; ita de alijs necessariis absolute. Adhuc autem secundum 
+      <lb ed="#L" n="17"/>praemissa vicesimo, &amp; vicesimo primo primi videtur, quod Deum esse omnipotentem, &amp; 
+      pos<lb ed="#L" n="18" break="no"/>se facere aliquid esse &amp; non esse, est necessarium absolute, &amp; prius naturaliter quoquomodo 
+      <lb ed="#L" n="19"/>voluntate diuina: non ergo, quia Deus vult aliquid posse esse &amp; non esse, ideo causaliter ita 
+      <lb ed="#L" n="20"/>potest, sed potius e contrario, iuxta praemissa eodem vicesimo primo primi. Amplius autem 
+      <lb ed="#L" n="21"/>illa Dei volutio seu voluntas, quae ponitur causa contingentiae talis in rebus, vel est 
+      simplici<lb ed="#L" n="22" break="no"/>ter &amp; absolute necessaria, vel contingens: non necessaria absolute, quoniam cum per 
+      deci<lb ed="#L" n="23" break="no"/>mum primi ipsa sit causa simpliciter efficax, &amp; infrustrabilis omni modo, omnes eius 
+      effe<lb ed="#L" n="24" break="no"/>ctus prouenirent necessario absolute. Quis enim nescit ex antecedente necessario absolute in 
+      <lb ed="#L" n="25"/>consequentia necessaria absolute nihil consequi, nisi necessarium absolute, sicut &amp; ex vero 
+      ni<lb ed="#L" n="26" break="no"/>hil consequitur nisi verum? Sicque omnis effectus positus contingens ad vtrumlibet praesens 
+      <lb ed="#L" n="27"/>vel futurum, esset &amp; foret necessario &amp; necessarius absolute. Si autem voluntas illa sit 
+      con<lb ed="#L" n="28" break="no"/>tingens, quae causa illius contingentiae? Si alia talis voluntas, illa vel est necessaria vel 
+      contin<lb ed="#L" n="29" break="no"/>gens: non necessaria, propter praemissa: Si contingens, reuertitur quaestio, quae 
+      contingen<lb ed="#L" n="30" break="no"/>tiae suae causa? Sicque vel procedet in voluntatibus talibus sine fine, vel stabit in aliqua 
+      volun<lb ed="#L" n="31" break="no"/>tate seu volutione diuina, quae sit contingens ad vtrumlibet, non ea solummodo ratione, quia 
+      <lb ed="#L" n="32"/>Deus vult illam esse taliter contingentem, sed aliqua alia propria ratione; sicut nec sola 
+      vo<lb ed="#L" n="33" break="no"/>luntas diuina est quare homo est animalrationale seu homo, sed sunt causae aliae, materialis 
+      sci<lb ed="#L" n="34" break="no"/>licet &amp; formalis necessario concurrentes. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

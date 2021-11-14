@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 24</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 24</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e74714"><!-- l2c24 -->
+            <head xml:id="dcn2br-e74714-Hd1e106">Caput 24</head>
+            <p xml:id="dcn2br-e74714-d1e109">
+               <lb ed="#L" n="9"/>CAP. XXIV. 
+      <lb ed="#L" n="10"/>Corrigit tertiam. 
+    </p>
+            <p xml:id="dcn2br-e74714-d1e116">
+               <lb ed="#L" n="11"/>TErtia vero fatuitas praemissarum potest refelli similiter vt praemissae. I 
+      <lb ed="#L" n="12"/>tem si voluntas creata non potest per se subsistere, sed necessario 
+      indi<lb ed="#L" n="13" break="no"/>get, vt Deus eam in esse conseruet, multo minus potest actus eius per se 
+      <lb ed="#L" n="14"/>aut per solam voluntatem creatam subsistere, sed necessario indiget 
+      con<lb ed="#L" n="15" break="no"/>seruatione diuina, quare &amp; multo magis comproductione seu coactione 
+      <lb ed="#L" n="16"/>diuina: Si enim voluntas creata non potest sine Deo seruare in esse 
+      a<lb ed="#L" n="17" break="no"/>ctum suum iam in esse productum, quod est minus, nec potest sine eo 
+      <lb ed="#L" n="18"/>actum quenquam in esse producere, quod est maius, vt saepius est 
+      argu<lb ed="#L" n="19" break="no"/>tum. Ratio vero pro hac opinione adducta superius tantum probat, quod Deus ideo dicitur 
+      <lb ed="#L" n="20"/>quodammodo transumptiue efficere actum voluntatis creatae, quia conseruat voluntatem 
+      <lb ed="#L" n="21"/>creatam; sed non probat, quin efficiat etiam proprie quemlibet talem actum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

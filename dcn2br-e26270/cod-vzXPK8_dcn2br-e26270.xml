@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="190"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e26270"><!-- l1c9 -->
+            <head xml:id="dcn2br-e26270-Hd1e106">Caput 9</head>
+            <p xml:id="dcn2br-e26270-d1e109">
+               <lb ed="#L" n="32"/>CAP. IX. 
+      <lb ed="#L" n="33"/>Quod voluntas diuina est causa efficiens cuiuslibet rei factae, 
+      <lb ed="#L" n="34"/>mouens seu motrix cuiuslibet motionis, ac vniuersa 
+      <lb ed="#L" n="35" break="no"/>liter omnium amantissima genetrix, nu 
+      <lb ed="#L" n="36" break="no"/>trix &amp; viuifica conseruatrix. 
+    </p>
+            <p xml:id="dcn2br-e26270-d1e122">
+               <lb ed="#L" n="37"/>HVic autem coniugendum existimo quod Diuina voluntas est causa 
+      es<lb ed="#L" n="38" break="no"/>ficiens cuiuslibet rei factae, mouens seu motrix cuiuslibet motionis; ac 
+      <lb ed="#L" n="39"/>vniuersaliter omnium amantissima genetrix, &amp; viuifica conseruatrix, 
+      <lb ed="#L" n="40"/>Hoc totum ex 3. 4. &amp; 2. cum proximo sequitur manifeste. Quod &amp; 
+      <lb ed="#L" n="41"/>quibusdam rationibus &amp; Autoritatibus Philosophicis &amp; 
+      Theologi<lb ed="#L" n="42" break="no"/>cis poterit confirmari. In huiusmodi namque causis non est infinitus 
+      <lb ed="#L" n="43"/>processus per suppositionem secundam; est ergo aliqua omnium vna 
+      <lb ed="#L" n="44"/>prima, quae est Deus sicut superius est ostensum; sed illa non potest 
+      po<lb ed="#L" n="45" break="no"/>ni Deus secundum suam essetiam absolutam, quoniam illa quantum est de se aequaliter &amp; 
+      <lb ed="#L" n="46"/>indifferenter se habet ad possibilia, quae nunquam fient, sicut ad facienda; &amp; ad futura 
+      re<lb ed="#L" n="47" break="no"/>mota, sicut propinqua, &amp; ad mouentia sicut ad quiescentia; ergo &amp;st haec omnia similiter &amp; 
+      <lb ed="#L" n="48"/>aequaliter semper essent maxime quia si quid fiat ab essentia eius sola sine aliqua voluntate, 
+      <lb ed="#L" n="49"/>illud sit per modum naturae &amp; necessitatis, sicut effectus causarum naturalium, cum libertas in 
+      <lb ed="#L" n="50"/>sola voluntate ponatur: Et tales causae naturales quando possunt, debita dispositione passi 
+      <lb ed="#L" n="51"/>supposita necessario semper agunt. In hoc enim differunt hae causae a causis voluntarijs 
+      par<lb ed="#L" n="52" break="no"/>tic ipantibus rationem, vt patet 9. Metaph. 10. &amp; similiter in comment. quare, eum 
+      om<lb ed="#L" n="53" break="no"/>nes causae inferiores siue secundae in causatione sua quacunque subdantur necessario primae 
+      <!--224.xml-->
+      <pb ed="#A" n="191"/>
+               <lb ed="#L" n="1"/>causae, omnes causationes earum, sicut &amp; quaelibet causatio primae causae proueniunt de 
+      neces<lb ed="#L" n="2" break="no"/>sitate naturae, &amp; penitus absoluta; quare vniuersaliter omnis libertas &amp; contingentia, ac 
+      me<lb ed="#L" n="3" break="no"/>ritum destruetur. Non enim decet causarum ordinem naturalem, vt causa inferior secunda 
+      <lb ed="#L" n="4"/>sit liberior, quam suprema, &amp; prima, nec est aliquo modo possibile. Haec enim est in omnibus 
+      <lb ed="#L" n="5"/>regulans, illa in omnibus necessario regulata, haec subijciens, illa subiecta, haec praecedens &amp; 
+      <lb ed="#L" n="6"/>dominans, illa sequens in omnibus, &amp; ancillans. Si etiam Deus ageret ad extra pure 
+      natu<lb ed="#L" n="7" break="no"/>raliter, ageret secundum vltimum suae potentiae, quare &amp; necessario infinitae, essetque omnis 
+      <lb ed="#L" n="8"/>eius effectus simpliciter infinitus, &amp; sibi aequalis, cum omni minori plus possit, sicut 
+      Suppo<lb ed="#L" n="9" break="no"/>sitio prima monstrat: Nec causa huiusmodi omnium potest poni sola diuina cognitio, sicut 
+      <lb ed="#L" n="10"/>capitulum proximum ostendebat. Nulla ergo restat talis causa sufficiens, nisi ponatur diuina 
+      <lb ed="#L" n="11"/>voluntas. Item quicunque agit aliquid libere, agit illud voluntarie, Deus autem agit libere 
+      <lb ed="#L" n="12"/>quicquid agit ad extra; perfectius est enim sic agere; alias etiam irrationabiles essent 
+      gratia<lb ed="#L" n="13" break="no"/>rum actiones, &amp; inanes preces omnium erga Deum. Item alias Deus nullam voluntatem 
+      <lb ed="#L" n="14"/>haberet, vel non vteretur propria voluntate in omnibus effectibus supradictis qui sunt ab eo, 
+      <lb ed="#L" n="15"/>sicut superius est ostensum, quod tamen sine dubio magis decet. Hoc idem multi Philosophi 
+      <lb ed="#L" n="16"/>contestantur: Nam doctus Plato 1. Timae. 1. vbi de genitura Mundi agit, loquens de Deo, sic 
+      <lb ed="#L" n="17"/>dicit; Optimus eratab optimo; porro inuidia longe relegata est. Itaque consequenter cuncta 
+      <lb ed="#L" n="18"/>sui similia, prout cuiusque natura capax beatitudinis esse poterat, effici voluit; quam quidem  
+      <lb ed="#L" n="19"/>voluntatem Dei, originem rerum certissima si quis ponat, recte eum putare consentiam. Ecce 
+      <lb ed="#L" n="20"/>quantum ad productionem rerum a Deo, qui &amp; de conseruatione rerum a Deo, secundi tertio sentit 
+      <lb ed="#L" n="21"/>idem, sicut secundo huius plenius recitatur. Cui &amp; eius discipulus Arist. in de Mundo 13. con 
+      <lb ed="#L" n="22"/>cordat, cum dicit vniuersaliter, quod in naui Nauta seu gubernator, secundum aliam 
+      transtati<lb ed="#L" n="23" break="no"/>onem, in curru Auriga, in choreis Choraula, in ciuitate Lex, in agmine, seu exercitu secundum 
+      <lb ed="#L" n="24"/>aliam transtationem, Dux; hoc Deus in Mundo: Ipse enim immobilis cuncta mouet, &amp; 
+      cir<lb ed="#L" n="25" break="no"/>cumfert, quo vult, diuersis ideis, &amp; naturis. Et infra eodem, Vineae, &amp; palmae, &amp; Persici 
+      fi<lb ed="#L" n="26" break="no"/>cus, dulces &amp; oliuae, vt ait Poeta, &amp; infructiferae, quarum tamen est opus ob aliud, vt 
+      Pla<lb ed="#L" n="27" break="no"/>tanus, Pinus, Buxus, Tilia, Populi, Cupressus, &amp; similia; Animantium quoque tam 
+      dome<lb ed="#L" n="28" break="no"/>stica, quam filuestria, quae in aere, terra, vel aqua degunt, generantur, crescunt, &amp; 
+      corrum<lb ed="#L" n="29" break="no"/>puntur, diuinis parentia decretis tsecundum aliam transtationem, mandatis.) Decreta autem 
+      <lb ed="#L" n="30"/>&amp; mandata sunt opera voluntatis. Idem supra, eiusdem 90. Sicut, inquit, inchoante 
+      Cho<lb ed="#L" n="31" break="no"/>raula, concinit tota Chorea varijs vocibus acutis &amp; grauibus, vnam harmoniam continuam  
+      <lb ed="#L" n="32"/>continuantibus, sic se habet res in Deo, qui cuncta disponit: Nam secundum supernam 
+      in<lb ed="#L" n="33" break="no"/>fusionem ab agnominato Choraula mouentur semper Stellae, totumque Coelum incedit; 
+      <lb ed="#L" n="34"/>&amp; fulgidus Sol diuidens diem &amp; noctem, &amp; quatuor anni tempora; Fiunt autem pluuiae, &amp;  
+      <lb ed="#L" n="35"/>venti, &amp; rores, &amp; passiones propter primam &amp; originalem causam. Sequuntur autem haec 
+      es<lb ed="#L" n="36" break="no"/>fluxus fluminum, matis inundationes, ortus arborum, fructuum maturationes, Animalium 
+      <lb ed="#L" n="37"/>generationes, nutritiones omnium, &amp; crementa, &amp; corruptiones, cooperante ad haec &amp; 
+      vnius<lb ed="#L" n="38" break="no"/>cuiusque conditione. Quando ergo omnium Duxssecundum aliam transtationem Princeps) 
+      <lb ed="#L" n="39"/>&amp; genitor innuit (secundum aliam transtationem, praecipit) omni naturae latae inter coelum 
+      <lb ed="#L" n="40"/>&amp; terram, mouetur continuo in circulis &amp; metis (secundum aliam transtationem, terminis 
+      <lb ed="#L" n="41"/>propriis, quandoque disparens, quandoque apparens, ostendens mille ideas ssecundum aliam 
+      <lb ed="#L" n="42"/>transtationem, formas) &amp; iterum abscondens ex vno principio. Innuere autem &amp; praecipere 
+      <lb ed="#L" n="43"/>est operatio voluntatis. Idemque in de Secreto secretorum 1. part. 23. Rex est in regno, sicut 
+      <lb ed="#L" n="44"/>pluuia in terra, quae est Dei gratia coeli benedictio, terre vita, viuentium iuuamentum; quare 
+      <lb ed="#L" n="45"/>&amp; homines laudant Deum considerantes signa suae gratiae, dona misericordiae, scilicet pluuias 
+      <lb ed="#L" n="46"/>&amp; ventos, &amp; caeteras impressiones quas emittit de thesauro misericordiae suae, qui hyemis &amp;  
+      <lb ed="#L" n="47"/>aestatis frigora &amp; calores summa prouidentia incuitabiliter stabiliuit; qui &amp; supra 1. dicit, 
+      <lb ed="#L" n="48"/>quod Deus studentibus tribuit gratiam cognoscendi; gratiam autem &amp; misericordiam 
+      face<lb ed="#L" n="49" break="no"/>re, prouidere, &amp; stabilire, quis nescit competere voluntati? Nec debet iste liber inter 
+      Apocry<lb ed="#L" n="50" break="no"/>pha numerari, eo quod loquitur de gratia &amp; misericordia Dei, qui magis videntur termini 
+      <lb ed="#L" n="51"/>Theologici, quam Philosophici. Libri enim Philosophici omnibus satis noti loquuntur de 
+      <lb ed="#L" n="52"/>eisdem. Philosophus enim 10. Eth. 14. ponit triplicem opinionem qualiter homines fiunt 
+      <lb ed="#L" n="53"/>boni, dicens; Fieri autem bonos existimant hi quidem natura, hi autem consuetudine, hi 
+      au<lb ed="#L" n="54" break="no"/>tem doctrina. Et vult quod quaelibet istarum opinionum habeat aliquid veritatis, &amp; pro prima 
+      <lb ed="#L" n="55"/>opinione subdit; quod quidem igitur naturae manifestum, quod non in nobis existit, sed per 
+      <lb ed="#L" n="56"/>aliquam diuinam causam, &amp; vere bene fortunatis existit: Vbi Auerroes: Quidam hominum 
+      <lb ed="#L" n="57"/>putantur esse boni per naturam, &amp; quidam per doctrinam, &amp; patet quoniam quod de hoc est 
+      <lb ed="#L" n="58"/>per naturam non est a nobis, sed per gratiam quandam diuinam; illis quoque fortuna bona est 
+      <!--225.xml-->
+      <pb ed="#A" n="192"/>
+               <lb ed="#L" n="1"/>veraciter. Nec potest aliquis fingere quod per istam causam diuinam, &amp; gratiam, ac fortunam, 
+      <lb ed="#L" n="2"/>intelligatur tantum quaedam influentia coelestis, seustellica, qualem Astronomi solent in 
+      nati<lb ed="#L" n="3" break="no"/>uitatibus seu conceptionibus somniare; quonia secundum eunde Philosin de bona fortuna 2. 
+      <lb ed="#L" n="4"/>Bona fortuna est a Deo, qui immediate mouet intellectum bene fortunati ad enfortunia 
+      con<lb ed="#L" n="5" break="no"/>sequenda, dicit enim sic: Quod autem quaeritur hoc est, quid motus principium in anima? palam 
+      <lb ed="#L" n="6"/>quemadmodum in toto, scilicet in vniuerso. Deus enim mouet aliquo modo omnia quae in 
+      no<lb ed="#L" n="7" break="no"/>bis, diuinum autem rationis principium, non ratio, sed aliquid melius, quid ergo erit melius &amp;  
+      <lb ed="#L" n="8"/>scientia &amp; intellectu, nisi Deus? Virtus enim intellectus organum &amp; propter hoc, quod olim 
+      <lb ed="#L" n="9"/>dicebantur bene fortunati vocantur, qui si impetum faciunt, dirigunt sine ratione existentes, &amp; 
+      <lb ed="#L" n="10"/>consiliari non expedit ipsis: Habent enim principium tale quod melius intellectu &amp; consilio; 
+      <lb ed="#L" n="11"/>qui autem rationem, hoc non habent, neque diuinos instinctus. Auerr, quoque in Prol. 1. Phys. 
+      <lb ed="#L" n="12"/>dicit quod gratia hominis perfecta, est, ipsum esse perfectum per scientias speculatiuas. Et  
+      <lb ed="#L" n="13"/>quod intelligat de gratia quae gratis datur a Deo, patet per eundem super I. de Coelo 
+      Com<lb ed="#L" n="14" break="no"/>ment. 32. dicentem, quod ipse longo tempore fecit moram, eo quod non intellexit 
+      explana<lb ed="#L" n="15" break="no"/>tionem illius loci; vbi probat Aristoteles, quod nullus est motus contrarius motui circularis et 
+      <lb ed="#L" n="16"/>subdit, Sed Deus induxit me ad veritatem. Idemque super 2. de Anima Comment. 34. de 
+      <lb ed="#L" n="17"/>misericordia Dei dicit, Sollicitudo diuina cum non potuit facere viuum permanere 
+      secun<lb ed="#L" n="18" break="no"/>dum indiuiduum, /Imiserta est in dando ei virtutem qua potest permanere secundum speciem. 
+      <lb ed="#L" n="19"/>Istam quoque sententiam de gratia Dei praemissam, Hermes de verbo aeterno vlt. attestatur, 
+      <lb ed="#L" n="20"/>sicut sexto huius fuerat recitatum; de qua &amp; Sixtus Pictagoricus in sententiols suis ait: Cratia 
+      <lb ed="#L" n="21"/>Dei fato non subiacet. Amplius autem plurimi antiquorum Philosophorum, posuerunt 
+      a<lb ed="#L" n="22" break="no"/>morem Dei originale principium quorumcunque; Amor autem a voluntate minime 
+      separa<lb ed="#L" n="23" break="no"/>tur. Recitat siquidem Philosophus IMetaph. Hesiodum &amp; Parmenidem dicentes amorem  
+      <lb ed="#L" n="24"/>Deorum prouidentem omnibus esse principium generationis vniuersi, qui amor omnia 
+      con<lb ed="#L" n="25" break="no"/>didit, quem necesse est esse in entibus &amp; esse causam, quae res ipsas moueat, &amp; congreget. 
+      <lb ed="#L" n="26"/>Et idem sensit Empedocles sicut 3. Metaph. 15. ab eodem Philosopho recitatur, &amp; in multis 
+      <lb ed="#L" n="27"/>locis Philosopiae tangit opiniones ponentium amorem &amp; odium, siue amicitiam &amp; litem esse 
+      <lb ed="#L" n="28"/>principia generationis &amp; corruptionis in entibus quibuscunque, quod non improbe dicitur, si 
+      <lb ed="#L" n="29"/>intelligatur, quod amor seu velle Dei sit causa, quare aliquid generatur, et permanet; et nolle 
+      <lb ed="#L" n="30"/>eius sit causa quare aliquid non generatur vel non permanet, sed corrumpitur generatum. 
+      <lb ed="#L" n="31"/>Auicebrol quoque in libro quem nominat fontem vitae hoc ipsum probat diffuse: &amp; maxime 
+      <lb ed="#L" n="32"/>libro 5o a cap. 35. quasi per totum vsque ad finem, sicut secundum huius plenius recitauit; qui  
+      <lb ed="#L" n="33"/>&amp; 37. ita dicit, Omnes isti motus in substantijs spiritualibus, &amp; corporalibus deriuati sunt a 
+      <lb ed="#L" n="34"/>voluntatem; ergo oportet ex hoc vt omnes substantiae spirituales &amp; corporales sint mobiles a 
+      <lb ed="#L" n="35"/>voluntate, cuius exemplum est, quod voluntas animae mouet corpus, aut quiescere facit 
+      ali<lb ed="#L" n="36" break="no"/>quod membrum eius, sicut est quies cum retinetur anhelitus; &amp; hic motus qui diffusus est in 
+      <lb ed="#L" n="37"/>omnibus substantijs a voluntate, est diuersus in fortitudine &amp; debilitate propter diuersitatem I 
+      <lb ed="#L" n="38"/>recipientium, non propter diuersitatem voluntatis in se. Et cap. vlt. Creatio assimilatur 
+      ver<lb ed="#L" n="39" break="no"/>bo quod loquitur homo, quia homo cum loquitur verbis forma eius &amp; intellectus 
+      imprimi<lb ed="#L" n="40" break="no"/>tur in auditu Auditoris, &amp; in intellectu eius; &amp; sic dicitur quod sublimis &amp; sanctus locutus est 
+      <lb ed="#L" n="41"/>verbum, &amp; intellectus eius impressus est materiae, &amp; ipsa retinuit eum, scilicet quia forma 
+      cre<lb ed="#L" n="42" break="no"/>ata est impressa materiae &amp; depicta in ea. Item Auicenna 9. Metaph. 7. ostendens quod 
+      ni<lb ed="#L" n="43" break="no"/>hil fiat a casu, sed quod omnia proueniant a cura diuina, sic ait; Non est tibi via dicere, quid 
+      <lb ed="#L" n="44"/>fiat per casum, quia ratio inducit te ad iudicandum, quod omnia fiunt ex gubernatione &amp; 
+      dis<lb ed="#L" n="45" break="no"/>positione. Oportet enim vt scias, quod cura eorum est ex hoc; quod primus scit seiplum, &amp; 
+      <lb ed="#L" n="46"/>quod ab ipso est necessitas ordinationis bonitatis, &amp; quod sua essentia est causa bonitatis &amp; 
+      <lb ed="#L" n="47"/>perfectionis, secundum quod possibile est rebus &amp; placet ei, sicut praedictum est. Idem 10. 
+      <lb ed="#L" n="48"/>Metaph. 1. dicit, hoc totum fluit desuper, nec sequitur ex imaginatione coelestium tantum, 
+      <lb ed="#L" n="49"/>sed quia primus verus nouit hoc totum, ideo ab eo incipit esse onus eius quod fit; Et infra eo. E 
+      <lb ed="#L" n="50"/>dem, de naturalibus &amp; voluntarijs, coelestibus &amp; terrestribus dicit ita; Collectio igitur horum 
+      <lb ed="#L" n="51"/>omnium prouenit necessario ex necessitate diuinae voluntatis. Idem ostendit Algagel. 3. 
+      Me<lb ed="#L" n="52" break="no"/>taph. // sententia 7a manifeste, quia non agit tantum ex natura, sed ex scientia, &amp; omnis actio 
+      <lb ed="#L" n="53"/>quae subiacet scientiae, subiacet voluntati; omne igitur quod fluit ab ea, placet sibi, nec 
+      ali<lb ed="#L" n="54" break="no"/>quid horum odit. Istam quoque sententiam contestantur Autoritates quamplures secundo 
+      <lb ed="#L" n="55"/>huius praemissae. Hoc idem per Scripturam Canonicam ostenditur euidenter; Apoc. enim 
+      a<lb ed="#L" n="56" break="no"/>vigenti quatuor testes omni exceptione maiores concorditer hoc testantur, ante sedentem in 
+      <lb ed="#L" n="57"/>throno dicentes; dignus es Domine Deus noster accipere gloriam, &amp; honorem, &amp; virtutem, 
+      <lb ed="#L" n="58"/>quia tu creasti omnia, &amp; propter voluntatem tuam erant, &amp; creata sunt. Psalmista quoque 
+      <!--226.xml-->
+      <pb ed="#A" n="193"/>
+               <lb ed="#L" n="1"/>Psalmo 146. omnibus coelestibus ad Iaudandum Dominum per ordinem excitatis, hanc cau¬ 
+      <lb ed="#L" n="2"/>sam subiungit, quia ipse dixit &amp; facta sunt, ipse mandauit &amp; creata sunt; sicut etiam legitur 
+      <lb ed="#L" n="3"/>Genes. 1. de operibus sex dierum, dixit Deus, fiat hoc, &amp; fiat illud, &amp; factum est ita: 
+      Man<lb ed="#L" n="4" break="no"/>dare autem est proprium voluntatis, &amp; dicere similiter in hoc loco. Dicit enim Rabbi Mose 
+      <lb ed="#L" n="5"/>de duce dubiorum 63. Quod verbum est triplex; scilicet prolatum lingua, conceptus 
+      men<lb ed="#L" n="6" break="no"/>tis, &amp; voluntas; vltima duo tantum competunt creatori; &amp; exponendo illud Psalmi; Vel bo 
+      <lb ed="#L" n="7"/>Domini coeli firmati sunt, dicit, quod hoc significat, quod haec fueriut inuenta cum 
+      intentio<lb ed="#L" n="8" break="no"/>ne &amp; voluntate eius. Et postquam Psalmista excitauit coelestia ad Dominum colliudandum, 
+      <lb ed="#L" n="9"/>similiter hortatur terrestria consequenter; Laudate, inquit, Dominum de terra, dracones, &amp;  
+      <lb ed="#L" n="10"/>omnes abyssi, ignis, grando, nix, glacies, spiritus procellarum, quae faciunt Verbum eius, id 
+      <lb ed="#L" n="11"/>est praeceptum voluntatis illius. Non solum autem ista, sed eadem ratione &amp; alia vniuersa. 
+      <lb ed="#L" n="12"/>Vnde Augustinus 3. De Trinit. 8. docet, quod eorum quae vsitato cursunaturae fiunt 
+      frequen<lb ed="#L" n="13" break="no"/>ter, sicuti sunt ortus siderum, &amp; occasus, generationes, &amp; mortes animalium, seminum &amp;  
+      <lb ed="#L" n="14"/>germinum innumerabiles diuersitates, nebulae &amp; nubes, niues &amp; pluniae, fulgura &amp; tonitrua, 
+      <lb ed="#L" n="15"/>fulmina &amp; grandines, venti &amp; ignes; frigus &amp; aestus, &amp; omnia talia eorum, etiam quae 
+      <lb ed="#L" n="16"/>eodem ordine fiunt, sed raro sicut sunt defectus luminum, species inusitatae, siderum 
+      mon<lb ed="#L" n="17" break="no"/>stra, terrae motus, &amp; omnium similium prima &amp; summa causa non est nisi voluntas Dei. 
+      Vn<lb ed="#L" n="18" break="no"/>de &amp; in Psalmo; Cum quaedam, inquit, Augustinus huius generis commemorata essent, vt 
+      iu<lb ed="#L" n="19" break="no"/>nis, grando, nix, glacies, spiritus tempestatis, ne quis ista fortuito, vel causis tantum 
+      corno<lb ed="#L" n="20" break="no"/>ralibus, vel etiam spiritualibus, tamen praeter voluntatem Dei existentibus, agi crederet. 
+      <lb ed="#L" n="21"/>continuo subiecit, quae faciunt Verbum eius. Item Psaimo 134. Omnia quaecunque 
+      vo<lb ed="#L" n="22" break="no"/>luit Dominus, fecit in coelo, &amp; in terra, in mari, &amp; in omnibus abyssis. Et Iudim 9. Hoc 
+      <lb ed="#L" n="23"/>factum est, quod ipse voluisti; satisque sunt multa similia in Scriptura. Item Augustinus 3. 
+      <lb ed="#L" n="24"/>de Trinitate 4. Voluntas Dei in coelesti patria, in beatis spiritibus, tanquam in excelsa sede 
+      <lb ed="#L" n="25"/>residens, velut in domo sua &amp; templo; inde se// quidem ordinatissimis creaturae motibus, 
+      pri<lb ed="#L" n="26" break="no"/>mo spiritualibus, deinde corporalibus, per cuncta diffundit, &amp; vtitur omnibus, ad 
+      incom<lb ed="#L" n="27" break="no"/>mutabile arbitrium sententiae suae, siue incorporeis, siue corporeis rebus, siue 
+      irrationabi<lb ed="#L" n="28" break="no"/>libus, siue rationabilibus, spiritualibus siue bonis per eius gratiam, siue malis per propriam 
+      <lb ed="#L" n="29"/>voluntatem; &amp; quasi per totum illum librum multis capitulis ostendit, quod diuina 
+      volun<lb ed="#L" n="30" break="no"/>tas est prima, &amp; summa omnium rerum causa. Idem Enchirid. 6. dicit; Satis est Christiano 
+      <lb ed="#L" n="31"/>creatarum rerum causam fiue coelestium, siue terrestrium, siue visibilium siue inuisibilium, 
+      <lb ed="#L" n="32"/>non nisi bonitatem credere Creatoris. Idemque primo de Gene. contra Manich. 
+      Volun<lb ed="#L" n="33" break="no"/>tas Dei omnium quae sunt ipsa est causa. Qui ergo dicit; Quare Deus fecit coelum &amp; 
+      ter<lb ed="#L" n="34" break="no"/>ram? respondendum est, quia voluit. Voluntas enim Dei causa est coeli &amp; terrae. Idem 
+      quo<lb ed="#L" n="35" break="no"/>que de Quaestionibus Orosij, 39. Omnis causa creaturae, voluntas est Creatoris. 
+      Praete<lb ed="#L" n="36" break="no"/>rea, omne quod est, aut fit, Deo Autore est, &amp; sit, ipso volente, vt patet per Augustinum, 
+      <lb ed="#L" n="37"/>83. Quaestionum 3. quid nominis taliter exponentem, Deo Autore cum dicitur, illo volente 
+      <lb ed="#L" n="38"/>dicitur; Deus autem est cuiuslibet rei Autor. In autoribus enim non est infinitus processus, sed 
+      <lb ed="#L" n="39"/>aliquis omnium primus Autor; hic necessario erit Deus. Dicit quoque Augustinus 12. de 
+      Ci<lb ed="#L" n="40" break="no"/>uit. Dei 5. Naturarum nulla omnino est, cuius non sit Autor, &amp; Conditor Deus. Hoc etiam  
+      <lb ed="#L" n="41"/>alibi saepissime reperitur; &amp; hoc est quod tota testatur Ecclesiae in Paschali gaudio sic 
+      hymni<lb ed="#L" n="42" break="no"/>zans; Quis Autor omnium, &amp;c. Hugo quoque de Sacramentis lib. 1. part. 4. cap. 10. &amp; vlt. 
+      0<lb ed="#L" n="43" break="no"/>stendit, quod diuina voluntas est rerum omnium prima causa. Ex his omnibus patet principale 
+      <lb ed="#L" n="44"/>propositum pro qualibet sui parte. Vt tamen ex abundanti iam rationibus praeostensa, per 
+      gros<lb ed="#L" n="45" break="no"/>sum exemplum sensibilius manifestem, imaginor, quod sicut pondus se habet in horologio 
+      no<lb ed="#L" n="46" break="no"/>stro parun, sic Deus in horologio mundi magno. Sicut enim hic pondus, dum sua vnica 
+      mo<lb ed="#L" n="47" break="no"/>tione rotam principalem circumfert, omnibus motibus omnia mota mouet, &amp; singulis 
+      singu<lb ed="#L" n="48" break="no"/>la, quietata quoque quietat, &amp; quieta conseruat, temporibus definitis eo quod ad inuicem, 
+      <lb ed="#L" n="49"/>&amp; cum rota artificialiter conatur: Sic Deus in mundo, dum sua vnica volutione rotam 
+      coe<lb ed="#L" n="50" break="no"/>lestem primatiam circumuoluit, omnia eius mota tam varie, &amp; quieta similiter administrat; 
+      <lb ed="#L" n="51"/>&amp; hoc tanto regularius est in mundo, quam in horologio manufacto, quanto tam pondus 
+      <lb ed="#L" n="52"/>eius, quam rota ordinatius disponuntur, quantoque caetera entia ad inuicem, ad rotam, &amp; ad 
+      <lb ed="#L" n="53"/>pondus virtuosioribus, licet oecultioribus nexibus artificiosius colligantur. Vnde Sapient II. 
+      <lb ed="#L" n="54"/>Omne in mensura, &amp; numero, &amp; pondere disposuisti. Quare beatus Aug 4. super Genesin ad  
+      <lb ed="#L" n="55"/>literam 5. hanc autoritatem Sapientis exponens, inquirensque si esset, quomodo haec tria, 
+      men<lb ed="#L" n="56" break="no"/>sura, scilicet, numerus, &amp; pondus sint Deus, vel non Deus, sic ait; Secundum id quod 
+      noui<lb ed="#L" n="57" break="no"/>mus mensuram in his quae metimur, &amp; numerum in his quae numeramus, &amp; pondus in his 
+      <lb ed="#L" n="58"/>quae appendimus, non est Deus ista; isecundum id vero quod mensura omni rei modum prae¬ 
+      <!--227.xml-->
+      <pb ed="#A" n="194"/>
+               <lb ed="#L" n="1"/>figit, &amp; numerus omni rei speciem praebet, &amp; pondus omnem rem ad quietem &amp; stabilitatem  
+      <lb ed="#L" n="2"/>trahit ille primitus, &amp; veraciter, &amp; singulariter ista est qui terminat omnia, regulat omnia, 
+      <lb ed="#L" n="3"/>format omnia, &amp; ordinat omnia; nihilque aliud dictum intelligitur, quomodo per cor 
+      <lb ed="#L" n="4"/>&amp; linguam humanam dici potuit, Omnia in mensura, numero, &amp; pondere disposuisti, nisi 
+      <lb ed="#L" n="5"/>omnia in te disposuisti. Magnum est, paucisque concessum excedere omnia quae metiri possunt, 
+      <lb ed="#L" n="6"/>vt videatur mensura sine mensura; excedere omnia quae numerari possunt, vt videatur 
+      nume<lb ed="#L" n="7" break="no"/>rus siue numero; excedere omnia quae appendi possunt, vt videatur pondus sine pondere, 
+      <lb ed="#L" n="8"/>Huic autem imaginationi &amp; Hermes concordans, de verbo aeterno 18. Spiritu, inquit, 
+      mini<lb ed="#L" n="9" break="no"/>strantur omnia in Mundo, qui quasi organum vel machina summi Dei voluntati subiectus est,  
+      <lb ed="#L" n="10"/>Et infra 26. sic scribit, Totus hic mundus Dei opus immutabile, gloriosa constructio, bonum 
+      <lb ed="#L" n="11"/>multiformi imaginum varietate compositum, machina voluntatis Deiv suo operi absque 
+      in<lb ed="#L" n="12" break="no"/>uidia suffragantis. Hoc idem potest imaginari quis verius, si imaginetur horologium habens 
+      <lb ed="#L" n="13"/>rotam perpetuae motionis, virtute ponderis immanentis, non extrinsecus dependentis; Deus 
+      <lb ed="#L" n="14"/>enim secundum praehabita est // interimum omni rei. Sed adhuc potest quis hoc imaginari 
+      ve<lb ed="#L" n="15" break="no"/>rissime, imaginando rotam perpetuae motionis ex virtute aliqua attractiua vel etiam 
+      expulsi<lb ed="#L" n="16" break="no"/>ua aeternaliter quiescente, velut si rota haberet in extremitatibus radiorum, aut in periferia sua 
+      <lb ed="#L" n="17"/>serrum, vel sit ferrea ipsa tota, quod vel quam Magnes attractiuus vel aliter expulsiuus, aut 
+      in<lb ed="#L" n="18" break="no"/>diuersis extremis vtriusque virtutis propinquus ex vna sui parte semper patenter aspiceret; ex 
+      <lb ed="#L" n="19"/>alia vero parte per aliquod obstaculum occultaretur ab eo, vel ingeniosius aliter quouismodo. 
+      <lb ed="#L" n="20"/>Quod igitur Magnes quietus attrahens vel expellens in horologio tali paruo, hoc Deus 
+      immo<lb ed="#L" n="21" break="no"/>bilis volens vel nolens in horologio Mundi magno: Vnde Sapient. 7. Permanens in se omnia 
+      <lb ed="#L" n="22"/>innouat. Adhuc autem fortassis posset hoc totum similius &amp; propinquius exemplo proposito 
+      <lb ed="#L" n="23"/>cogitari, supponendo iuxta 20. &amp; 4a huius praemissa, Deum primo seipsum motu quodam 
+      im<lb ed="#L" n="24" break="no"/>mobili, inuariabilique mouere, &amp; omnia alia omnibus suis variabilibus motibus 
+      consequen<lb ed="#L" n="25" break="no"/>ter: Vnde &amp; Hermes de verbo aeterno 34. Deum, inquit, agitari credibile est in seipsum 
+      ea<lb ed="#L" n="26" break="no"/>dem immobilitate. Haec autem cogitatio Dei, seu motio eius, aeterna volutio reputanda. Haec 
+      <lb ed="#L" n="27"/>autem imaginatio, licet grossa a Physiologorum, Astrologorum, &amp; Theologorum 
+      subtilisci<lb ed="#L" n="28" break="no"/>entia non discordat. Sed ne cum quibusdam Astrologis liberas hominum voluntates 
+      sub<lb ed="#L" n="29" break="no"/>ijcere videat astrorum necessariae seruituti, imaginor adhuc vltra, quod sicut maior Mundus 
+      <lb ed="#L" n="30"/>est horologium quoddam magnum, sic homo qui secundum Philosophos dicitur minor 
+      Mun<lb ed="#L" n="31" break="no"/>dus, est horologium quoddam paruum, illud quodammodo naturale, hoc voluntarium, illud 
+      <lb ed="#L" n="32"/>stabile, hoc portatile; &amp; sicut ibi pondus, seu virtus voluntatis diuinae mouendo per se primum 
+      <lb ed="#L" n="33"/>eius motum, scilicet primam intelligentiam, cum maxima rota coeli, mouet caetera naturalibus 
+      <lb ed="#L" n="34"/>motibus quibuscunque, sicut 12. Metaphys. demonstratur: sic &amp; mouendo per se primum 
+      mo<lb ed="#L" n="35" break="no"/>tam in homine, scilicet Animam rationalem cum rota cordis vel capitis, mouet reliqua 
+      homi<lb ed="#L" n="36" break="no"/>nis Lorgana) &amp; hominem ipsum totum voluntarijs motibus quibuscunque; &amp; hoc est quod a 
+      <lb ed="#L" n="37"/>Philosopho in De bona fortuna erat superius allegatum, scilicet quod principium motus in 
+      A<lb ed="#L" n="38" break="no"/>nima nostra, quemadmodum in toto vniuerso est Deus. Mouet enim, vt dicit, Omnia quae in 
+      <lb ed="#L" n="39"/>nobis, diuinum rationis principium non ratio, ipse virtus existens intellectus organum; Vnde 
+      <lb ed="#L" n="40"/>&amp; Parab. 2I. Sicut diuisiones aquarum, ita cor Regis in manu Domini, quocunque voluerit  
+      <lb ed="#L" n="41"/>inclinabit illud. Quare nec dubium, quin ita sit de cordibus quorumlibet aliorum, 
+      quoniam<lb ed="#L" n="42" break="no"/>pusillum &amp; magnum ipse fecit; &amp; aequaliter est illi cura de omnibus, sicut Sapient. 6. dicitur 
+      <lb ed="#L" n="43"/>sapienter. Quare &amp; Esaiae 40. dicitur; Ecce gentes quasi momentum staterae reputatae sunt 
+      co<lb ed="#L" n="44" break="no"/>ram eo; vbi glossa, quod scilicet momentum ex nihilo in vtramlibet partem inclinatur. Quare 
+      <lb ed="#L" n="45"/>&amp; singuli petimus cum Psalmista dicentes: lnclina cor meum in testimonia tua &amp; non in 
+      auari<lb ed="#L" n="46" break="no"/>tiam Psal. 118. Super quod dicit Aug. Quid est inclinatum ad aliquid cor habere, nisi hoc 
+      vel<lb ed="#L" n="47" break="no"/>le? orat igitur vt velit, cum dicit: lnclina cor meum, &amp;c. Vnde B. Aug. 4. super Gen ad lit. 5. 
+      <lb ed="#L" n="48"/>super Autoritatem Sapientis praedictam, immediate post expositionem eius superius 
+      recita<lb ed="#L" n="49" break="no"/>tam, subiungit; Neque enim mensura, &amp; numerus, &amp; pondus in lapidibus tantummodo &amp; in 
+      <lb ed="#L" n="50"/>lignis, atque huiusmodi molibus, &amp; quantis corporalibus animaduerti &amp; cogitari potest. Est 
+      <lb ed="#L" n="51"/>enim mensura aliquid agendi ne sit irreuocabilis &amp; immoderata progressio, &amp; numerus 
+      affe<lb ed="#L" n="52" break="no"/>ctionum animi, &amp; virtutum, &amp; est pondus voluntatis &amp; amoris; sed haec animorum atque 
+      men<lb ed="#L" n="53" break="no"/>tium mensura alia mensura cohibetur, &amp; numerus alio numero formatur, &amp; pondus alio 
+      pon<lb ed="#L" n="54" break="no"/>dere rapitur. Mensura autem sine mensura est cui aequatur quod de illa est; Numerus sine 
+      <lb ed="#L" n="55"/>numero est quo formantur omnia, nec formatur ipse; Pondus sine pondere est quo referuntur 
+      <lb ed="#L" n="56"/>omnia vt quiescant, &amp; haec tria sunt Deus, sicut ex eodem loco erat superius allegatum.
+    </p>
+            <div xml:id="dcn2br-e26270-Dd1e677">
+               <head xml:id="dcn2br-e26270-Hd1e679">Corollarium</head>
+               <p xml:id="dcn2br-e26270-d1e682">
+      <!--228.xml-->
+                  <pb ed="#A" n="195"/>
+                  <lb ed="#L" n="1"/>COROLLARIVM. 
+      <lb ed="#L" n="2"/>Habet Corollarium per omnia quae facta fuerunt, facta fuerunt a voluntate diuina, &amp; 
+      <lb ed="#L" n="3"/>quae facta erunt, facta erunt ab ea
+      </p>
+               <p xml:id="dcn2br-e26270-d1e695">
+                  <lb ed="#L" n="4"/>VNde cognoscitur euidenter quod omnia quae facta, seruata, seu mota sunt, fuerunt, aut  
+      <lb ed="#L" n="5"/>Verunt, haec sunt, fuerunt, &amp; erunt a voluntate diuina, &amp; hoc modis in Corollarijs tertij 
+      hu<lb ed="#L" n="6" break="no"/>ius, secundi, &amp; quarti praemissis. Hoc autem Corollarium tam patenter ex praemissis 
+      conse<lb ed="#L" n="7" break="no"/>quitur, quod probatione non eget: Si enim necesse est omnia praesentialiter modo facta, 
+      prae<lb ed="#L" n="8" break="no"/>sentialiter fieri a voluntate diuina, est &amp; correspondenter necesse de praeteritis &amp; futuris, de 
+      <lb ed="#L" n="9"/>seruatis quoque similiter atque motis; quibus perspectis, &amp; praetactis Corollarijs intellectis, 
+      <lb ed="#L" n="10"/>modos praedictos moderatos arbitror non latere. Possunt autem &amp; hic responsiunculae 
+      fa<lb ed="#L" n="11" break="no"/>bricari, quales in capitulis supradictis, &amp; similiter confutari. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="521"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e69273"><!-- l2c16 -->
+            <head xml:id="dcn2br-e69273-Hd1e106">Caput 16</head>
+            <p xml:id="dcn2br-e69273-d1e109">
+               <lb ed="#L" n="10"/>CAP. XVI. 
+      <lb ed="#L" n="11"/>De perseuerantia sempiterna, seu obstinatione ma¬ 
+      <lb ed="#L" n="12" break="no"/>lorum in malo, &amp; causa ipsius. 
+      </p>
+            <p xml:id="dcn2br-e69273-d1e118">
+               <lb ed="#L" n="13"/>POstquam nunc tractatum est de perseuerantia sempiterna, seu 
+      <lb ed="#L" n="14"/>confirmatione bonorum in bono; quod conuenientius quam  
+      <lb ed="#L" n="15"/>tractare de perseuerantia sempiterna, seu obstinatione 
+      malo<lb ed="#L" n="16" break="no"/>rum in malo? Porro sicut confirmatio facit confirmatos non  
+      <lb ed="#L" n="17"/>posse peccare, sic &amp; obstinatio obstinatos non posse bene velle, 
+      <lb ed="#L" n="18"/>aut facere: &amp; sicut illa facit illos ab actu beatifico cessare non  
+      <lb ed="#L" n="19"/>posse. sic &amp; haec facit istos ab actu misero vacare non posse; 
+      <lb ed="#L" n="20"/> quod bene figurate exprimitur Iob4 1. cum dicitur, Cor eius 
+      in<lb ed="#L" n="21" break="no"/>durabitur quasi lapis &amp; stringetur quasi malleatoris incus. 
+      Di<lb ed="#L" n="22" break="no"/>citque Aug. de fide ad Pet. 2I. Nec diabolus nec aliquis 
+      Angelo<lb ed="#L" n="23" break="no"/>rum eius, ex quo ruinae illius merito in hanc scilicet inferiorem 
+      <lb ed="#L" n="24"/>detrusi caliginem, bonam potuit aut poterit resumere 
+      volunta<lb ed="#L" n="25" break="no"/>tem; quod si possibile esset vt humana natura, postquam a Deo auersa perdidit bonitatem 
+      <lb ed="#L" n="26"/>voluntatis, ex seipsa rursus eam habere potuisset, multo possibilius haec natura haberet 
+      an<lb ed="#L" n="27" break="no"/>gelica, quae quanto minus grauatur terreni corporis pondere, tanto magis hac esset praedita 
+      <lb ed="#L" n="28"/>facultate: Sed ostendit Deus vnde bona voluntas hominibus detur, quam sic amiserunt 
+      An<lb ed="#L" n="29" break="no"/>gelicum haberent, vt amissam deinceps habere non possint. Et infra 26. dicit, quod in hac 
+      <lb ed="#L" n="30"/>vita tantum est tempus poenitentiae fructuosae, quam qui in hac vita non fecerit, habebit qui  
+      <lb ed="#L" n="31"/>dem poenitentiam in futuro saeculo de malis suis, sed indulgentiam in conspectu Dei non 
+      in<lb ed="#L" n="32" break="no"/>uenier; quia etsi erit ibi stimulus poenitudinis, nulla ibi erit correctio volutatis: Atalibus enim 
+      <lb ed="#L" n="33"/>ita cuspabitur iniquitas sua, vt nullatenus ab eis possit vel diligi, vel desiderari iustitia: 
+      volun<lb ed="#L" n="34" break="no"/>tas enim eorum talis est, vt habeat in fe semper malignitatis suae supplicium, nunquam tamen  
+      <lb ed="#L" n="35"/>recipere possit bonitatis affectum; quia sicut illi, qui cum Christo regnabunt, nullas in se malae 
+      <lb ed="#L" n="36"/>voluntatis reliquias habebunt; ita illi qui erunt supplicio ignis aeterni cum diabolo &amp; eius 
+      An<lb ed="#L" n="37" break="no"/>gelis deputati, sicut nullam vlterius habebunt requiem, sic bonam nullatenus habere 
+      pote<lb ed="#L" n="38" break="no"/>rant voluntatem. Et supra 19. partem Angelorum, quae a Deo discessit, in aeterno sic totam 
+      <lb ed="#L" n="39"/>praecepit remanere supplicio, vt etiam ignem ei aeternum pararet, in quo illi omnes praeuari 
+      <lb ed="#L" n="40"/>catores Angeli nec mala possunt voluntate vnquam carere nec poena, sed manente in eis 
+      iniu<lb ed="#L" n="41" break="no"/>stae auersionis malo, permaneat etiam iustae retributionis aeterna damnatio. Anselmus 
+      quo<lb ed="#L" n="42" break="no"/>que de casu diaboli 6. ait; Sic disiuncti sunt Angeli, vt adhaerentes iustitiae nullum bonum 
+      <lb ed="#L" n="43"/>velle possint quo non gaudeant, &amp; deserentes illam nullum velle queant quo non careant, 
+      <lb ed="#L" n="44"/>quod &amp; multi Doctores multis locis testantur, sicut etiam Petrus 2. sent. dist. 5a. &amp; 7a. &amp; 4. 
+      <lb ed="#L" n="45"/>sent. dist. vlt. ostendit &amp; tenet. Circa causam vero obstinationis variae sententiae proferuntur; 
+      <lb ed="#L" n="46"/>Aliqui namque ponunt causam tantummodo priuatiuam, alij positiuam, alij vero nullam 
+      <lb ed="#L" n="47"/>Ponentium causam priuatiuam quidam dicunt eam esse defectum, seu desertionem charitatis 
+      <lb ed="#L" n="48"/>seu gratiae, sicut videtur Petrum velle sentire 2. sentent. dist. 5a. &amp; 7a. Sed si sic esset, cum se 
+      <lb ed="#L" n="49"/>cundum eundem Petrum 2. sentent. dist 5a. &amp; 24. Angeli &amp; primi parentes fuerunt creati 
+      si<lb ed="#L" n="50" break="no"/>ne gratia, tunc fuerunt finaliter obstinati, omnisque viator carens gratia esset immutabiliter  
+      <lb ed="#L" n="51"/>obstinatus. Item si defectus gratiae sit causa sufficiens obstinationis; &amp; habitus gratiae est 
+      cau<lb ed="#L" n="52" break="no"/>sa sufficiens confirmationis, contra proximo praeostensa. Item obstinatio &amp; continuatio 
+      <lb ed="#L" n="53"/>malae voluntatis est effectus realiter positiuus: Habet ergo causam realiter positiuam, &amp; non  
+      <!--555.xml-->
+      <pb ed="#A" n="522"/>
+               <lb ed="#L" n="1"/>solummodo priuatiuam. Alij vero dicunt hanc causam esse defectum beneuolentiae miseri. A 
+      <lb ed="#L" n="2"/>cordiaeue diuinae, Deum scilicet non velle misero misereri. Sed istud destruitur per 
+      proxi<lb ed="#L" n="3" break="no"/>mam rationem. Item per 23. primi voluntas Dei est immutabilis, quare si Deus aliquando 
+      <lb ed="#L" n="4"/>non velit huic misero misereri, nec vnquam voluit: Quilibet ergo obstinatus, 
+      quandocun<lb ed="#L" n="5" break="no"/>que fuit, fuit immutabiliter obstinatus. Alij vero dicunt hanc causam esse defectum 
+      confir<lb ed="#L" n="6" break="no"/>mationis in bono: Sed hi refellentur, vt alij praecedentes; praeterea si sic esset, quilibet 
+      via<lb ed="#L" n="7" break="no"/>tor qui non est confirmatus, esset aeternaliter obstinatus. Alij aestimant, quod sit in potentia 
+      <lb ed="#L" n="8"/>vtendi libero arbitrio: Dicunt enim quod vehementia poenae quam sustinent obstinati ipsos 
+      <lb ed="#L" n="9"/>infatuat, &amp; iuxta tertio huius praemissa omnem vsum liberi arbitrij eis aufert, &amp; in exteriores 
+      <lb ed="#L" n="10"/>tenebras eos mittit, sicque ipsos efficit obstinatos. Vnde Propheta, Turbatus a furore 
+      ocu<lb ed="#L" n="11" break="no"/>lus meus, vel sicut habeat Psalterium Romanum, Turbatus est ab ira oculus meus, Psalmo 6. 
+      <lb ed="#L" n="12"/>quod Augustinus exponens dicit, quod ira Dei erit in futuro judicio, &amp; hic est quaedam eius 
+      <lb ed="#L" n="13"/>inchoatio, dum homines dolores &amp; tormenta patiuntur, &amp; maxime damnum intelligentiae 
+      <lb ed="#L" n="14"/>veritatis, sicut iam commemoraui, quod dictum est; Dedit illos Deus in reprobum sensum. 
+      <lb ed="#L" n="15"/>Nam ea est caecitas mentis; In eam quisquis datus fuerit, ab interiore Dei luce secluditur, 
+      <lb ed="#L" n="16"/>sed nondum penitus cum in hac vita est: Sunt enim tenebre exteriores, quae magis ad diem 
+      <lb ed="#L" n="17"/>iudicij pertinere intelliguntur; vt penitus extra Deum sit, quisquis dum tempus esset, 
+      corri<lb ed="#L" n="18" break="no"/>gi noluit; penitus autem esse extra Deum, quid est, nisi esse in summa coecitate? De his 
+      eti<lb ed="#L" n="19" break="no"/>am exterioribus tenebris Petrus 4. Sentent. dist. vlt. ita scribit; Sane exteriores tenebrae 
+      intel<lb ed="#L" n="20" break="no"/>ligi possunt quedam malignitas odij &amp; voluntatis, quae tunc excrescet in mentibus 
+      reprobo<lb ed="#L" n="21" break="no"/>rum, &amp; quaedam obliuio Dei, quia tormentorum interiorum &amp; exteriorum doloribus a Deo 
+      <lb ed="#L" n="22"/>afficientur, &amp; turbabuntur, vt ab illis ad cogitandum aliquid de Deo vix, &amp; raro vel 
+      nun<lb ed="#L" n="23" break="no"/>quam in mentem reuocent; vt qui nimio pondere premuntur adeo stupescunt &amp; turbantur, 
+      <lb ed="#L" n="24"/>vt interim in aliam cogitationem non se extendant, sed illuc tendit impetus cogitationis, vbi 
+      <lb ed="#L" n="25"/>sentitur vis doloris. Sed qualitercunque erit post diem iudicij, ante non videtur sic esse: Nunc 
+      <lb ed="#L" n="26"/>enim daemones obstinati scientiam magnam habent, multa vera praedicunt ingeniose, 
+      cir<lb ed="#L" n="27" break="no"/>cumueniunt homines, &amp; multa artificiosa &amp; mirabilia subtiliter operantur, sicut &amp; 
+      experi<lb ed="#L" n="28" break="no"/>entia, &amp; libri multiplices historici &amp; alij prophani &amp; catholici contestantur. Vnde &amp; 
+      Gen<lb ed="#L" n="29" break="no"/>3. dicitur, quod Serpens erat callidior cunctis animantibus; Et in Euangelijs scribitur, quod 
+      <lb ed="#L" n="30"/>daemonia sciuerunt Dominum esse Christum: Quorum etiam magnam scientiam 
+      Augusti<lb ed="#L" n="31" break="no"/>nus, Gregorius, Isidorus, &amp; quamplures Doctores Catholici contestantur concorditer 
+      mul<lb ed="#L" n="32" break="no"/>tis locis, sicut &amp; Petrus 2. Sentent. dist. 7. aliqualiter recitat &amp; ostendit. Videtur etiam quod 
+      <lb ed="#L" n="33"/>Deus omnipotens potuit percussisse apostatas Angelos poena obstinationis sine tanta 
+      vehe<lb ed="#L" n="34" break="no"/>mentia poene sensus, &amp; forte sine aliqua poena sensus, imo &amp; cum delectatione, sicut &amp; de 
+      ip<lb ed="#L" n="35" break="no"/>sis aliquoties legitur, quod in rebus aliquibus delectantur. Alij vero putant, quod causa 
+      op<lb ed="#L" n="36" break="no"/>stinationis in daemonibus est naturalis immutabilitas voluntatis: Dicunt enim quod potentia 
+      <lb ed="#L" n="37"/>volutiua, seu appetitiua proportionatur potentiae cognitiuae, seu apprehensiuae, a qua moue 
+      <lb ed="#L" n="38"/>tur; Angelus autem quia non est depressus mole corporis, cognoscit &amp; apprehendit 
+      immu<lb ed="#L" n="39" break="no"/>tabiliter sine discursu, quare &amp; immutabiliter vult &amp; appetit. Sed ista positio videtur 
+      pecca<lb ed="#L" n="40" break="no"/>re &amp; in materia &amp; in forma; In materia supponendo falsum; Sicut enim Angelus est 
+      mutabi<lb ed="#L" n="41" break="no"/>lis in se, &amp; in sua natura, quia de non esse in esse, &amp; e contra; Sic &amp; in sua actione, praesertim 
+      <lb ed="#L" n="42"/>cum habeat liberum arbitrium naturaliter habile ad meritum &amp; peccatum: Angelorum 
+      <lb ed="#L" n="43"/>namque similium, quidam peccauerunt, quidam peccato restiterunt, &amp; laudabiliter 
+      meru<lb ed="#L" n="44" break="no"/>runt. Item mali Angeli priusquam peccarent, habuerunt bonam voluntatem, sicut &amp; alij 
+      <lb ed="#L" n="45"/>Angeli, &amp; primus homo: Non enim videtur, quod toto tempore, quo steterunt, fuerunt 
+      <lb ed="#L" n="46"/>penitus otiosi. Nam si primo erant otiosi in voluntate, &amp; postea actuosi, mutabantur in 
+      vo<lb ed="#L" n="47" break="no"/>luntate; si etiam erant tunc otiosi in voluntate, &amp; non in intellectu, quia tunc cognouerunt 
+      <lb ed="#L" n="48"/>Deum, &amp; seipsos, sicut nullus dubitat, &amp; Autoritates multae testantur, sicut etiam Petrus 2. 
+      <lb ed="#L" n="49"/>Sentent. dist. 3. manifestat, voluntas eorum non necessario conformatur cognitioni eorum, 
+      <lb ed="#L" n="50"/>quod tamen hypothesis supponebat. Quod etiam mali Angeli ante Iapsum habuerunt 
+      <lb ed="#L" n="51"/>actum voluntatis, imo &amp; actum bonum, testantur expresse multae Autoritates nono huius 
+      <lb ed="#L" n="52"/>&amp; decimo allegatae: Quod &amp; de Lucifero videtur Prophetam innuere figurate cum dicit, 
+      <lb ed="#L" n="53"/>Tu signaculum similitudinis, plenus sapientia &amp; perfectus decore in delicijs Paradisi Dei 
+      <lb ed="#L" n="54"/>fuisti; Omnis lapis pretiosus operimentum tuum &amp;c. tu Cherub extentus &amp; protegens, &amp; 
+      <lb ed="#L" n="55"/>posui te in monte Sancto Dei, in medio lapidum ignitorum ambulasti, perfectus in vijs tuis 
+      <lb ed="#L" n="56"/>a die conditionis tuae; Donec inuenta est iniquitas in te Exech. 28. Quod &amp; Gregorius 32. 
+      <lb ed="#L" n="57"/>Moral. &amp; Homilea 34. super Euangelia de ipso Lucifero euidenter exponit: Habuit ergo 
+      <lb ed="#L" n="58"/>Diabolus ante lapsum aliquam cognitionem, volutionem, &amp; dilectionem, quam peccando 
+      <!--556.xml-->
+      <pb ed="#A" n="523"/>
+               <lb ed="#L" n="1"/>amisit; quare &amp; habuit mutabilem voluntatem. Item ponatur Angelium aliquid voluisse 
+      <lb ed="#L" n="2"/>quod apparuit ei bonum, &amp; quod postea illud idem ipsi eidem apparuit purum malum; 
+      <lb ed="#L" n="3"/>tunc sicut secundo huius ostensa testantur, primam volutionem dimisit. Item Angelus 
+      ap<lb ed="#L" n="4" break="no"/>parente ei obiecto sub ratione boni, non necessario statim vult illud, sicut ex praeostensis 
+      cir<lb ed="#L" n="5" break="no"/>ca sextam quaestionem secundi huius apparet: Quare potest circa bonum sufficienter 
+      osten<lb ed="#L" n="6" break="no"/>sum per aliquod tempus otiari in voluntate, &amp; per aliud, illud velle; est ergo mutabilis 
+      vo<lb ed="#L" n="7" break="no"/>luntatis. Quare etiam non potest ab actu illo libere cessare, sicut &amp; potuit libere vacare? 
+      <lb ed="#L" n="8"/>Quid magis necessitat Angelicam volutatem ad perpetualiter continuandum liberum actum 
+      <lb ed="#L" n="9"/>suum, quam ad ipsum, post liberam vacationem ductiuam temporaliter producendum? 
+      <lb ed="#L" n="10"/>Non potest dici quod actus, ex quo est productus, necessitat Angelicam voluntatem ad 
+      ip<lb ed="#L" n="11" break="no"/>sum incessabiliter continuandum; quia simili ratione proportionalis actus voluntatis 
+      huma<lb ed="#L" n="12" break="no"/>nae ipsam necessitaret similiter. Et si quis dicat, quod actus liber voluntatis Angelicae non  
+      <lb ed="#L" n="13"/>producitur, nisi sufficienti deliberatione praehabita, &amp; tunc necessario producitur, ipsaque 
+      <lb ed="#L" n="14"/>deliberatio habita necessario semper manet, quare &amp; actus voluntatis similiter dicit falsum, 
+      <lb ed="#L" n="15"/>destruit hypothesin, nec difficultatem euitat. Dicit falsum: capiatur enim primus actus liber 
+      <lb ed="#L" n="16"/>in Angelo, illum non praecedit deliberatio, cum ipsa liberum actum importet. Potest 
+      quo<lb ed="#L" n="17" break="no"/>que liberum arbitrium in liberum actum suum ex sola simplici apprehensione sine 
+      delibera<lb ed="#L" n="18" break="no"/>tione syllogistica praecedente, &amp; sic debere agere concludente; imo &amp; contra 
+      deliberatio<lb ed="#L" n="19" break="no"/>nem huiusmodi, sicut corollarium tertij huius monstrat: Alias enim in Lucifero qui male 
+      <lb ed="#L" n="20"/>voluit, erronea deliberatio, &amp; error praecessisset peccatum, contra Autoritatem Ezechielis 
+      <lb ed="#L" n="21"/>praemissam cum expositionibus Gregorij memoratis; &amp; contra Augustinum, vt videtur II. 
+      <lb ed="#L" n="22"/>super Gen. ad literam 24. &amp; post, diffuse; &amp; contra multos Doctores materiam hanc 
+      tra<lb ed="#L" n="23" break="no"/>ctantes. Nulla etiam ratio, aut deliberatio antecedens necessitat voluntatem, sicut tertium 
+      <lb ed="#L" n="24"/>huius cum suo Corollario manifestat. Destruit hypothesin affirmantem in Angelis non 
+      <lb ed="#L" n="25"/>esse discursum: Nec difficultatem euitat; Ipsum enim deliberare vel est necessarium, vel 
+      vo<lb ed="#L" n="26" break="no"/>luntarium; si necessarium, &amp; ex illo necessario sequitur velle; est ergo &amp; ipsum velle 
+      neces<lb ed="#L" n="27" break="no"/>sarium, non liberum; si liberum, vel ergo quodlibet deliberare Angeli producitur per aliud 
+      <lb ed="#L" n="28"/>deliberare praecedens, &amp; sic in deliberare huiusmodi erit infinitus processus, quod nullus 
+      de<lb ed="#L" n="29" break="no"/>liberate concedet, vel est aliquod primum eius deliberare, &amp; euacuatur responsio, ac 
+      reuerti<lb ed="#L" n="30" break="no"/>tur difficultas. Item eadem ratione, causa confirmationis Angelorum bonorum esset 
+      simili<lb ed="#L" n="31" break="no"/>ter priuatiua, immutabilitas scilicet voluntatis contra proximo huius ostensa. Item ex 
+      eo<lb ed="#L" n="32" break="no"/>dem principio quiescit res naturaliter in termino, ex quo mouetur ad eum, sicut patet de 
+      ele<lb ed="#L" n="33" break="no"/>mentis &amp; alijs, &amp; autoritas Philosophica contestatur; sed ex sola immutabilitate nunquam  
+      <lb ed="#L" n="34"/>mouetur voluntas ad actum, sed ex aliquo principio positiuo. Item cum Angeli ante 
+      confir<lb ed="#L" n="35" break="no"/>mationem non omnia sciuerunt, quia non praesciuerunt suum casum, nec suam 
+      confirmati<lb ed="#L" n="36" break="no"/>onem, sicut docet Augustinus II. super Gen. vbi prius; &amp; Anselmus de Casu diaboli 2I. 
+      <lb ed="#L" n="37"/>&amp; post; Imo nec post confirmationem omnes Sancti Angeli omnia sciuerunt, sed quidam  
+      <lb ed="#L" n="38"/>eorum quaedam nouiter didicerunt, sicut euidenter potest haberi ex Zacharia, Daniele, 
+      alijs<lb ed="#L" n="39" break="no"/>que Prophetis, ex linguis &amp; locutionibus Angelorum, ex Angelica hicrarchia Dionysij, &amp; 
+      <lb ed="#L" n="40"/>scriptis authenticis Catholicorum Doctorum, ex quibus apparet quod non solum a Deo, sed 
+      <lb ed="#L" n="41"/>quidam eorum ex alijs illuminantur, &amp; per reuelationes nouiter instruuntur, imo nedum 
+      <lb ed="#L" n="42"/>per Deum, &amp; alios Angelos, verum &amp; per homines quaedam quibusdam Angelis nouiter 
+      <lb ed="#L" n="43"/>innotescunt, dicente Apostolo ad Eph. 3. Mihi omnium sanctorum minimo data est gratia 
+      <lb ed="#L" n="44"/>haec, in gentibus Euangelixare inuestigabiles diuitias Christi, &amp; illuminare omnes, quae sit 
+      <lb ed="#L" n="45"/>dispensatio sacramenti absconditi a saeculis in Deo qui omnia creauit, vt innotescat 
+      princi<lb ed="#L" n="46" break="no"/>pibus, &amp; potestatibus in coelestibus per Ecclesiam multiformis sapientia Dei, secundum 
+      prae<lb ed="#L" n="47" break="no"/>finitionem saeculorum quam fecit in Christo Iesu. Domino nostro. Vbi Glossa, Sacramenti 
+      <lb ed="#L" n="48"/>absconditi a saeculis, id est, celati ab omni saeculorum creatura: &amp; existentis in Deo, id est,  
+      <lb ed="#L" n="49"/>E sola notitia Dei; vt innotescat, id est, datum est mihi Euangelizare, &amp; illuminare, &amp; videre 
+      <lb ed="#L" n="50"/>quantum hoc est, quia per hoc aliquid accreuit Angelis, qui multa secreta in his didicerunt, 
+      <lb ed="#L" n="51"/>&amp; hoc est quod ait, Euangelizare. Dico, ita vt multiformis sapientia Dei de reparatione 
+      ho<lb ed="#L" n="52" break="no"/>minum innotescat per Ecclesiam, quae dona Dei recipit, id est, per Apostolos in Ecclesiae 
+      <lb ed="#L" n="53"/>praedicantes; Principibus &amp; potestatibus, id est, diuersis ordinibus Angelorum, qui sunt in 
+      <lb ed="#L" n="54"/>coelestibus, id est, in coelo; vbi &amp; nos erimus, &amp; subdit, Dicit namque beatus Hyeronimus, 
+      <lb ed="#L" n="55"/>Angelicas dignitates supra memoratum mysterium ad primum non intellexisse, donec 
+      com<lb ed="#L" n="56" break="no"/>pleta est passio Christi, &amp; Apostolorum praedicatio per gentes dilatata. Vnde in Esaia Angeli 
+      <lb ed="#L" n="57"/>admirantes dixerunt. Quis est iste qui venit de Edom? &amp; in Psalmo, quis est istae Rex gloriae? 
+      <lb ed="#L" n="58"/>Non solum ergo Patriarchis &amp; Prophetis, sed principibus, &amp; potestatibus in coelestibus multi 
+      <!--557.xml-->
+      <pb ed="#A" n="524"/>
+               <lb ed="#L" n="1"/>formis sapientia Dei per Ecclesiam, id est, per ea quae dicta &amp; facta sunt in Ecclesiae 
+      <lb ed="#L" n="2"/>est reuelata. Chrysostomus quoque super Iohannem Homilia prima; Nihil, inquit, 
+      <lb ed="#L" n="3"/>nobis Ioannes humanum dicit, sed omnia spiritualia abyssis Spiritus Sancti, ab 
+      occul<lb ed="#L" n="4" break="no"/>tis illis thesauris, &amp; quae nec Angeli antequam hic dixisset, nouerant: Nobiscum enim 
+      <lb ed="#L" n="5"/>&amp; hi per Ioannis vocem, &amp; per nos didicerunt, &amp; quoniam nobiscum; &amp; hoc ostendit 
+      bea<lb ed="#L" n="6" break="no"/>tus Paulus dicens, Vt nota sit nunc Principibus &amp; Potestatibus per Ecclesiam multipliciter 
+      <lb ed="#L" n="7"/>varia sapientia Dei. Si igitur &amp; Principatus, &amp; Potestates, &amp; Cherubin, &amp; Seraphin per 
+      Ec<lb ed="#L" n="8" break="no"/>clesiam didicerunt haec, manifestum est quoniam &amp; ipsi cum multa alacritate circa hanc 
+      oc<lb ed="#L" n="9" break="no"/>currerunt auditionem: Etenim in hoc honorati sumus non modicum, quod nobiscum Angeli 
+      <lb ed="#L" n="10"/>didicerunt, quae ignorabant. Petrus etiam 2. sent. dist II. per easdem Autoritates idem 
+      o<lb ed="#L" n="11" break="no"/>stendit &amp; tenet: Si ergo Angeli sint mutabilis intellectus, cur non &amp; mutabilis voluntatis? 
+      <lb ed="#L" n="12"/>Si etiam Angeli non omnia semper sciant, sed aliqua de nouo addiscunt, non est 
+      omniqua<lb ed="#L" n="13" break="no"/>que perspicuum ipsos non posse discurrere, sed magis videtur quod possint. Item 
+      Augusti<lb ed="#L" n="14" break="no"/>nus de Fide ad Petrum 2I. Si possibile esset vt humana natura, postquam a Deo auersa 
+      bo<lb ed="#L" n="15" break="no"/>nitatem perdidit voluntatis, ex seipsa rursus eam habere potuisset: multo possibilius hoc 
+      na<lb ed="#L" n="16" break="no"/>tura Angelica haberet, quae quanto minus grauatur terreni corporis pondere, tanto magis 
+      <lb ed="#L" n="17"/>hac esset praedita facultate, sicut superius plenius allegatur. Secundum ergo sententiam 
+      Au<lb ed="#L" n="18" break="no"/>gustini voluntas Angelica a Deo auersa, de sui natura est magis redibilis, conuertibilis, 
+      qua<lb ed="#L" n="19" break="no"/>re &amp; mutabilis, quam humana. Ista quoque positio peccat in forma; Non enim 
+      difficulta<lb ed="#L" n="20" break="no"/>tem euitat: Anima namque humana a corpore separata, damnata; &amp; totus homo in 
+      corpo<lb ed="#L" n="21" break="no"/>re &amp; anima simul damnatus post finale iudicium; quae &amp; qui de sui natura est mutabilis 
+      appre<lb ed="#L" n="22" break="no"/>hensionis &amp; similiter voluntatis, redduntur sicut &amp; daemones obstinati. Ponentium autem 
+      <lb ed="#L" n="23"/>causam positiuam, quidam dicunt eam esse obstinationem voluntariam, seu voluntatem 
+      ob<lb ed="#L" n="24" break="no"/>stinatam in malo; Vnde Bernardus de Gratia, &amp; Libero arbitrio 18. Nec Deus inquit, 
+      ca<lb ed="#L" n="25" break="no"/>ret libero arbitrio, nec diabolus; quoniam quod ille non potest esse malus, non infirma 
+      ne<lb ed="#L" n="26" break="no"/>cessitas, sed firma in bono voluntas &amp; voluntatia firmitas; quodque is non valet in bonum 
+      <lb ed="#L" n="27"/>respirare,: non aliena facit violenta oppressio, sed sua ipsius in malo obstinata voluntas, ac 
+      vo<lb ed="#L" n="28" break="no"/>luntaria obstinatio. Sed istud stare non potest: Nihil enim potest esse causa sui ipsius. Item 
+      <lb ed="#L" n="29"/>cum dicitur, quod causa quare diabolus non potest respirare in bonum est sua ipsius in malo 
+      <lb ed="#L" n="30"/>obstinata voluntas ac voluntaria obstinatio, quaero quae sit causa illius obstinationis. Hic 
+      for<lb ed="#L" n="31" break="no"/>sitan dicetur, &amp; potest esse secunda opinio ponentium causam positiuam obstinationis in 
+      ma<lb ed="#L" n="32" break="no"/>lo, quod est liberum arbitrium ipsius obstinati, refugiens libere omne bonum, &amp; continuans 
+      <lb ed="#L" n="33"/>libere actum malum. Et hoc videtur sentire Bernardus vbi fuerat allegatus: Quare &amp; 
+      imme<lb ed="#L" n="34" break="no"/>diate subiungit; Nunc igitur ex eo potius dicitur liberum esse arbitrium, quod siue in bono, 
+      <lb ed="#L" n="35"/>siue in malo aeque liberam facit voluntatem, cum nec bonus quispiam nec item malus dici 
+      <lb ed="#L" n="36"/>debeat, aut esse valeat, nisi volens. Tali iam ratione non incongrue dicetur ad bonum se &amp; 
+      <lb ed="#L" n="37"/>ad malum habere aequaliter quidem vtrobique, videlicet par sit ei, non quidem in electione 
+      <lb ed="#L" n="38"/>facilitas, sed in voluntate libertas: Hac sane dignitatis diuinae, vt dictum est, praerogatiua 
+      ra<lb ed="#L" n="39" break="no"/>tionalem singulariter creaturam conditor insigniuit, quod quemadmodum ipse sui iuris erat, 
+      <lb ed="#L" n="40"/>suaeque ipsius voluntatis non necessitatis erat quod bonus erat; Ita &amp; illa quoque sui 
+      quodam<lb ed="#L" n="41" break="no"/>modo iuris in hac parte existeret, quatenus non nisi sua voluntate aut mala fieret, &amp; iuste 
+      <lb ed="#L" n="42"/>damnaretur, aut bona maneret, &amp; merito saluaretur. Et supra 5a. Libertas, inquit, a 
+      ne<lb ed="#L" n="43" break="no"/>cessitate aeque &amp; indifferenter Deo vniuersaeque creaturae rationali conuenit tam bonae quam  
+      <lb ed="#L" n="44"/>malae, nec peccato nec miseria dimittitur, vel minuitur, nec maior in iusto est, quam in 
+      pec<lb ed="#L" n="45" break="no"/>catore, nec plenior in Angelo, quam in homine. Quomodo namque ad bonum conuersus 
+      <lb ed="#L" n="46"/>per gratiam humanae voluntatis consensus eo libere bonum, &amp; in bono liberum hominem 
+      fe<lb ed="#L" n="47" break="no"/>cit, quo voluntarius efficitur, non inuitus pertrahitur: sic sponte deuolutus in malum, in 
+      ma<lb ed="#L" n="48" break="no"/>lo nihilominus tam liberum quam spontaneum constituit, sua vtique voluntate ductum, non 
+      <lb ed="#L" n="49"/>aliunde coactum vt malus sit. Et sicut coelestis Angelus, aut etiam ipse Deus permanet libere 
+      <lb ed="#L" n="50"/>bonus, quia sua voluntate, non aliqua extrinseca necessitate: sic profecto diabolus aeque 
+      li<lb ed="#L" n="51" break="no"/>bere in malum &amp; corruit, &amp; persistit, suo vtique voluntario nutu, non alieno impulsu. 
+      Ma<lb ed="#L" n="52" break="no"/>net ergo voluntas libertatis, vbi etiam fit // capacitas mentis tam plena quidem in malis, quam  
+      <lb ed="#L" n="53"/>in bonis, sed in bonis ordinatior; tam integre quoque pro suo modo in creatura quam in 
+      Cre<lb ed="#L" n="54" break="no"/>atore, sed in illo potentior. Sed nec istud causam obstinationis sufficientem assignat: Si 
+      nam<lb ed="#L" n="55" break="no"/>que solum liberum arbitrium faciat quempiam obstinatum in malo, vel hoc est mutabiliter  
+      <lb ed="#L" n="56"/>vel immutabiliter: non mutabiliter libere, sicut natura obstinationis importat, &amp; 
+      praeceden<lb ed="#L" n="57" break="no"/>tia manifestant; nec immutabiliter, quoniam liberum arbitrium per se, &amp; de sua natura est 
+      <lb ed="#L" n="58"/>mutabile secundum contradictionem; sicut primum huius &amp; sequentia docuerunt, sicut &amp; 
+      <!--558.xml-->
+      <pb ed="#A" n="525"/>
+               <lb ed="#L" n="1"/> constat ipsum fuisse &amp; esse in viatoribus non obstinatis nec confirmatis: Si ergo liberum ar¬ 
+      <lb ed="#L" n="2"/>bitrium per se solum aliquando obduret immutabiliter quempiam in actu malo, &amp; semper; 
+      <lb ed="#L" n="3"/>vel si aliquando non, nec vnquam. Quare &amp; dicit Philosophus 2. de Generat. penult. quod 
+      <lb ed="#L" n="4"/>idem &amp; similiter habens semper indem innatum est facere: Si ergo habens liberum arbitrium 
+      <lb ed="#L" n="5"/>cum actu malo aliquando, puta pro tempore peregrinationis possit libere secundum 
+      contra<lb ed="#L" n="6" break="no"/>dictionem ipsum dimittere vel tenere, &amp; non sit immutabiliter obstinatus in illo; aliquando 
+      <lb ed="#L" n="7"/>vero, puta pro tempore obstinationis non sic, sed sit immutabiliter obstinatus in illo vsolum 
+      <lb ed="#L" n="8"/>liberum arbitrium nullatenus sufficit, sed aliqua alia causa requiritur, quae liberum arbitrium 
+      <lb ed="#L" n="9"/>in huiusmodi actu suo liget insolubiliter &amp; captiuet. Item si solum liberum arbitrium 
+      obdu<lb ed="#L" n="10" break="no"/>raret malos in malo; cur non similiter solum liberum arbitrium confirmaret bonos in bone 
+      <lb ed="#L" n="11"/>contra proximo declarata? Alij autem dicunt quod causa obstinationis quaesita est malitia &amp; 
+      <lb ed="#L" n="12"/>vitium obstinati. Vnde Petrus 2. sentent. dist. 7. Mali, inquit, a Deo per malitiam sunt ob 
+      <lb ed="#L" n="13"/>stinati, quod bonam voluntatem habere, siue bene velle non valent. Et infra, Mali, in 
+      <lb ed="#L" n="14"/>quit, in vitio obdurati sunt, vt bene viuere nequeant: Sed malitia illa &amp; vitium, vel est pura 
+      <lb ed="#L" n="15"/>priuatio, vel aliquid positiuum; Si pura priuatio, reprobatur per priora; Si sit aliquid positi 
+      <lb ed="#L" n="16"/>uum, vel actus, vel habitus; Si actus, aliquis actus creatus esset similiter causa 
+      confirmatio<lb ed="#L" n="17" break="no"/>nis beatifice beatorum, contra proximo huius ostensa. Ostensum est etiam tertio huius 
+      <lb ed="#L" n="18"/>quod nulla res creata potest necessitare liberum arbitrium ad volendum, quare nec ad 
+      conti<lb ed="#L" n="19" break="no"/>nuandum aeternaliter suum velle. Item ille actus vel est necessariae continuationis, vel non; 
+      <lb ed="#L" n="20"/>Si sic, quae causa necessitatis illius? Si non, quomodo necessitabit aliud in aeternum? Si 
+      au<lb ed="#L" n="21" break="no"/>tem dicatur, quod sit aliquis habitus, reprobabitur sicut actus. Alij adhuc credunt, quod 
+      <lb ed="#L" n="22"/>causa obstinationis sit vehementia volutionis; Dicunt enim quod quanto voluntas est 
+      perfe<lb ed="#L" n="23" break="no"/>ctior, tanto perfectius in suum volubile se immergit; Voluntas autem Angelica, quia a 
+      cor<lb ed="#L" n="24" break="no"/>pore separata, est maxime perfecta &amp; perfecte libera, quare &amp; tam vehementer in suum 
+      vo<lb ed="#L" n="25" break="no"/>lubile se immergit, quod retrahere se non valet. Sed ista positio sicut &amp; quinta, peccat in 
+      ma<lb ed="#L" n="26" break="no"/>teria, &amp; in forma, &amp; potest similiter reprobari: Ponit enim Angelos habere naturaliter 
+      im<lb ed="#L" n="27" break="no"/>mutabilem voluntatem, sicut &amp; illa, nec vitat difficultatem de causa obstinationis animae 
+      hu<lb ed="#L" n="28" break="no"/>manae, totiusue hominis obstinati. Praeterea specialiter contra istam; Sicut agens rationale 
+      <lb ed="#L" n="29"/>habet libertatem contradictionis respectu sui actus, sic &amp; respectu gradus illius, &amp; quanto 
+      <lb ed="#L" n="30"/>fuerit perfectius &amp; liberius, tanto magis. Item immergat se viator quantum potest in 
+      ali<lb ed="#L" n="31" break="no"/>quod volubile bonum vel malum; &amp; cum actus Angeli, &amp; iste actus hominis sint proportio 
+      <lb ed="#L" n="32"/>nales istis agentibus, quia secundum vltimum potentiae vtriusque, si vnus actus ita ligat suum 
+      <lb ed="#L" n="33"/>actorem, quod retrahere se non valet, &amp; alius ita suum; praesertim cum potentia libertatis 
+      hu<lb ed="#L" n="34" break="no"/>manae imperfectior sit &amp; minor potentia Angelicae libertatis, quod nullus dubitat esse falsum 
+      <lb ed="#L" n="35"/>cum homo maneat adhuc viator; vel si impotens homo se possit retrahere, &amp; Angelus 
+      po<lb ed="#L" n="36" break="no"/>tens potest, cum vterque mutabilis sit natura. Item eadem ratione sancti Angeli essent per se 
+      <lb ed="#L" n="37"/>ipsos sufficienter confirmati in bono contra proximo huius ostensa. Item quantum causa 
+      <lb ed="#L" n="38"/>agit ad continuationem actus voluntatis Angelicae, tantum potest &amp; aliqua causa secunda 
+      a<lb ed="#L" n="39" break="no"/>gere ad productionem actus Angelicae voluntatis; sed aliqua causa secunda, puta actus ipse seu 
+      <lb ed="#L" n="40"/>modus volendi voluntatis Angelicae tantum agit, quod ipsam necessitat ad continuationem 
+      <lb ed="#L" n="41"/>illius; quare &amp; aliqua causa secunda posset ipsam necessitare ad liberum actum suum, contra 
+      <lb ed="#L" n="42"/>tertio huius praemissa. Item ex eodem principio mouetur res ad terminum, &amp; quiescit in ter 
+      <lb ed="#L" n="43"/>mino, sicut patet de elementis &amp; compositis de irrationabilibus &amp; rationabilibus, sed 
+      Ange<lb ed="#L" n="44" break="no"/>lus ex libertate arbitrij secundum contradictionem &amp; contingenter monetur ad actum 
+      volen<lb ed="#L" n="45" break="no"/>di; quare &amp; quantum ex se est, ex eadem libertate secundum contradictionem &amp; 
+      con<lb ed="#L" n="46" break="no"/>tingenter, non ex necessitate contraria in eodem actu quasi in termino requiescit 
+      <lb ed="#L" n="47"/>Dicentes vero nullam esse causam, obstinationis ponendam, dicunt obstinationem nihil 
+      <lb ed="#L" n="48"/>esse, quare nullam causam habere: Dicunt enim, quod obstinatio est sola impotentia, seu 
+      <lb ed="#L" n="49"/>priuatio potentiae bene volendi, &amp; a male volendo cessandi, &amp; quod ipsa mala volutio 
+      obsti<lb ed="#L" n="50" break="no"/>nati est vnus effectus liberi arbitrij positiuus, sed non est ipsa obstinatio nec aliqua pars ipsius. 
+      <lb ed="#L" n="51"/>Sed isti peccant dupliciter; In materia, &amp; in forma; In materia, quia falsum supponunt, 
+      nul<lb ed="#L" n="52" break="no"/>lam scilicet priuationem habere causam; quis enim nesciat obliuionem, ignorantiam, 
+      caeci<lb ed="#L" n="53" break="no"/>tatem, eclipsin, &amp; caetera talia aliquas causas habere? Quis etiam nesciat Philosophiam 
+      mul<lb ed="#L" n="54" break="no"/>tis locis docere eandem causam nunc praesentem, nunc absentem, nunc agentem, nunc 
+      ces<lb ed="#L" n="55" break="no"/>santem, esse causam nunc // praesentis alicuius effectus, nunc priuationis, seu defectionis ipsius? 
+      <lb ed="#L" n="56"/>Quomodo etiam fiet mutatio de vno contra dictoriorum in reliquum, &amp; de vero in falsum, vel e 
+      <lb ed="#L" n="57"/>contrario, sine causa? Simili quoque modo potest quis fingere nullam esse causam 
+      confir<lb ed="#L" n="58" break="no"/>mationis in bono, &amp; ipsam non esse aliquid positiuum, sed solam impotentiam, seu priuatio¬ 
+      <!--559.xml-->
+      <pb ed="#A" n="526"/>
+               <lb ed="#L" n="1"/>nem potentiae male volendi, &amp; abene volendo cessanti, &amp; quod ipse atus peatisicus 
+      con<lb ed="#L" n="2" break="no"/>firmati est vnus effectus liberi arbitrij positiuus, sed non ipsa confirmatio aliquidue ipsius. 
+      <lb ed="#L" n="3"/>Peccant quoque in forma, quia difficultatem non vitant. Si namque liberum arbitrium, 
+      quan<lb ed="#L" n="4" break="no"/>tum est de se, posset, &amp; prius potuit libere secundum, contradictionem continuare actum 
+      <lb ed="#L" n="5"/>suum &amp; non, &amp; nunc necessario ipsum continuat, hoc est ex aliqua causa ipsum nouiter 
+      ne<lb ed="#L" n="6" break="no"/>cessitante, aut exaliquoampedimento ipsum nouiter prohibente, &amp; l/ impossibilitante cessare. 
+      <lb ed="#L" n="7"/>Liberum quoque arbitrium quantum est de se posset &amp; prius potuit in actum contrarium 
+      a<lb ed="#L" n="8" break="no"/>ctui misero obstinati, &amp; nunc non potest, hoc ergo est ex aliqua causa, aut ex aliquo 
+      impedi<lb ed="#L" n="9" break="no"/>mento ipsum nouiter prohibente &amp; impossibilitante elicere talem actum: Quae est igitur ista 
+      <lb ed="#L" n="10"/>causa, aut impedimentum huiusmodi? &amp; reuertitur difficultas, Sunt &amp; alij modi dicendi 
+      <lb ed="#L" n="11"/>minus probabiles, sed sufficiat istos paucos probabiliores hac vice breuiter tetigisse. Salua 
+      <lb ed="#L" n="12"/>gitur Maiorum sententia, videtur quod obstinationis sit aliqua causa ponenda, causa 
+      vide<lb ed="#L" n="13" break="no"/>licet priuatiua, &amp; similiter positiua; Priuatiua, quantum ad illud quod ibi ponitur 
+      priuati<lb ed="#L" n="14" break="no"/>uum, scilicet non posse bene velle, &amp; hanc puto priuationem gratiae seu defectum secundum 
+      <lb ed="#L" n="15"/>praehabita 39. &amp; 43. primi libri, nec hanc possunt mereri, per 35um, &amp; sequentia dicti primi, 
+      <lb ed="#L" n="16"/>nec Deus vult illam talibus gratis dare; Imo, vt iuxta praemissa 13. primi ista causa priuatiua 
+      <lb ed="#L" n="17"/>reducatur ad causam positiuam priorem, ideo carent gratia &amp; carebunt, quia in poenam 
+      iu<lb ed="#L" n="18" break="no"/>iustissimam peccati sui prioris Deus vult eos carere aeternaliter gratia, quam si non peccassent 
+      <lb ed="#L" n="19"/>aeternaliter habuissent. Est &amp; causa obstinationis similiter positiua, quantum ad illud quod 
+      <lb ed="#L" n="20"/>ibi ponitur positiuum, quod est continuatio actus aeterna, &amp; haec est liberum arbitrium 
+      ob<lb ed="#L" n="21" break="no"/>stinati, sicut Bernardus videtur sentire: Sed quia haec sola non sufficit, sicut superius est 
+      osten<lb ed="#L" n="22" break="no"/>sum, videtur iuxta proximo huius praemissa, quod Deum indignari &amp; nolle hunc actum 
+      vn<lb ed="#L" n="23" break="no"/>quam cessare, ac velle eum aeternaliter continuari in poenam aeternam, iustissimam 
+      praeceden<lb ed="#L" n="24" break="no"/>tis peccati, sit causa huius sufficiens &amp; suprema. Vnde Propheta. Ira, inquit, in 
+      indignatio<lb ed="#L" n="25" break="no"/>ne eius, &amp; vita in voluntate eius Psalmo 29. haec autem ira seu vita ex indignatione seu 
+      vo<lb ed="#L" n="26" break="no"/>luntate diuina non est transitoria, sed morosa, sicut statim subiungit; Ad vesperum 
+      demora<lb ed="#L" n="27" break="no"/>bitur fletus, &amp; ad maturinum laetitia, ad vesperum, inquam, &amp; matutinum speciale in 
+      praesen<lb ed="#L" n="28" break="no"/>ti, vel generale in futuro iudicio, quando nunc vel tunc peccatoribus occidit, vel occidet: 
+      Iu<lb ed="#L" n="29" break="no"/>stis autem oritur vel orietur Sol verus, &amp; sic morabitur in aeternum: Vn de haec ira seu poena, 
+      <lb ed="#L" n="30"/>vita seu laetitia tam morosa, nisi ex eadem indignatione seu voluntate diuina? vbi Olossa; Ad 
+      <lb ed="#L" n="31"/>vesperum, &amp;c. Duobus praedictis duo alia reddit hoc modo; quia ira est in indignatione eius, 
+      <lb ed="#L" n="32"/>ideo ad vesperum demorabitur fletus, &amp; quia vita est in voluntate eius, ideo ad maturinum 
+      <lb ed="#L" n="33"/>erit Iaetitia. Prosequere ordinem literae &amp; verborum expositionem sic; Ira processit ex eius 
+      <lb ed="#L" n="34"/>indignatione, &amp; illa ira non est breuis, imo longa, quia fletus, id est omnimoda hominis 
+      mi<lb ed="#L" n="35" break="no"/>seria, tam culpae, quam poenae, demorabitur; quanquam vesperum &amp; matutinum ibidem ab 
+      <lb ed="#L" n="36"/>alijs aliter exponatur: Quis enim, sciens foecunditatem multiplicem sacrae Scripturae, 
+      nesci<lb ed="#L" n="37" break="no"/>at quod multipliciter exponatur? Dicitque Augustinus I. Confess. 12. Iussisti, inquit, 
+      Do<lb ed="#L" n="38" break="no"/>mine, &amp; sic est, vt poena sibi sit omnis inordinatus animus; qui &amp; de fide ad Petrum 26. dicit, 
+      <lb ed="#L" n="39"/>quod voluntas eorum talis erat, vt habeat in se semper malignitatis suae supplicium, sicut 
+      supe<lb ed="#L" n="40" break="no"/>rius plenius allegatur. Quare &amp; sicut recitat Petrus 4. sent. dist. vlt. licet Doctores in hoc 
+      dis<lb ed="#L" n="41" break="no"/>cordent de ista voluntate obstinatorum, quod aliqui dicunt, quod non est peccatum, &amp; alij 
+      <lb ed="#L" n="42"/>dicunt quod est peccatum, in hoc tamen omnes concordant, quod ipsa est supplicium mali 
+      <lb ed="#L" n="43"/>meriti praecedentis. Quod &amp; satis potest haberi ex 39. primi, vbi monstratur quod nullum 
+      <lb ed="#L" n="44"/>malum est impunitum, &amp; ex 34. primi, vbi docetur quod vnum peccatum est poena alterius. Hec 
+      <lb ed="#L" n="45"/>ergo obstinatorum voluntas, etiam etsi sit peccatum, secundum substantiam tamen actus, 
+      bo<lb ed="#L" n="46" break="no"/>na est; teste 26. primi, &amp; in quantum est poena peccati prioris iusta est, sicut nullus ignorat, &amp;  
+      <lb ed="#L" n="47"/>patet ex 34. primi huius: Ergo causa suprema est diuina voluntas, sicut nonum, &amp; 2rum. 
+      pri<lb ed="#L" n="48" break="no"/>mi demonstrant. Haec autem vult Deus in reprobis obstinatis propter eruditionem 
+      electo<lb ed="#L" n="49" break="no"/>rum in via, &amp; gloriam beatorum in patria, sicut patet 39. primi: Et si quis obijciat tunc Deum p 
+      <lb ed="#L" n="50"/>esse Autorem peccati, &amp; velle peccatum, &amp; quemlibet obstinatum velle, sicut Deus vult eum 
+      <lb ed="#L" n="51"/>velle, quare &amp; iuste velle, &amp; caetera talia, acum, &amp; 3qum, primi cum suis similibus respondebunt.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

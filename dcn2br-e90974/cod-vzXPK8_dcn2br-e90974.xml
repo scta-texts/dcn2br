@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="688"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e90974"><!-- l3c12 -->
+            <head xml:id="dcn2br-e90974-Hd1e106">Caput 12</head>
+            <p xml:id="dcn2br-e90974-d1e109">
+               <lb ed="#L" n="33"/>CAP. XII. 
+      <lb ed="#L" n="34"/>Incipit disputare illam fFamosissimam quaestionem, nunquid omnia 
+      <lb ed="#L" n="35"/>quae euenient, de necessitate euenient; &amp; recitat opinionem 
+      Ma<lb ed="#L" n="36" break="no"/>thematicorum seu Stoicorum dicentem, quod omnia quae euenient, 
+      <lb ed="#L" n="37"/>euenient de necessitate simpliciter absoluta. 
+      </p>
+            <p xml:id="dcn2br-e90974-d1e122">
+               <lb ed="#L" n="38"/>HIc autem ex praemissis patenter suboritur illa famosissima quaestio. 
+      <lb ed="#L" n="39"/>acerrimum axioma, difficillimumque problema, Nunquid scilicet  
+      <lb ed="#L" n="40"/>omnia quae eueniunt, de necessitate euenient? Restat igitur iam 
+      ip<lb ed="#L" n="41" break="no"/>sum discutere consequenter. Sunt autem opiniones variae &amp; 
+      pluri<lb ed="#L" n="42" break="no"/>mae circa illud: quarum prima constanter affirmat, quod omnia 
+      <lb ed="#L" n="43"/>quae euenient, euenient de necessitate penitus absoluta. Et haec est 
+      <lb ed="#L" n="44"/>opinio Mathematicorum quorundam, &amp; ponentium fatum; quam  
+      <lb ed="#L" n="45"/>&amp; Boetius super 1. peri hermenias asserit Stoicorum. Pro hac autem 
+      <lb ed="#L" n="46"/>opinione communissimum motivum est istud? Quaecunque Deus praescit 
+      <lb ed="#L" n="47"/>certitudinaliter euentura, euenient de necessitate penitus absoluta; aliter enim nequaquam  
+      <lb ed="#L" n="48"/>certe praesciret, eiusque praescientia falli posset: sed omnia que euenient, Deus praescit 
+      certitudi<lb ed="#L" n="49" break="no"/>naliter euentura. Quod &amp; potest violentius confirmari, si addatur scientiam Dei nullomodo 
+      <!--722.xml-->
+      <pb ed="#A" n="689"/>
+               <lb ed="#L" n="1"/>depedere a rebo ipsaque inciudere voluntatem diuina necessariam &amp; immutabile respectu omnium 
+      <lb ed="#L" n="2"/>futurorum, sicut ex praehabitis potest probabiliter apparere. Pro ista quoque opinione, referente 
+      <lb ed="#L" n="3"/>Ioanne Sarisburiensi, deinde Episcopo // Carnutensi secundi Policratici 23. quem B. Thomae 
+      <lb ed="#L" n="4"/>Cantuariensi Archiepiscopo, dum Cancellariatus Angliae officio fungebatur, conscripsit, vbi 
+      <lb ed="#L" n="5"/>&amp; diffuse materiam istam tractat, quidam Stoicus &amp; motiuum aliud afferebat; quaerebat enim, 
+      <lb ed="#L" n="6"/>An posses aliquid facere eorum, quae minime facturus es. Quod cum admisisses, mille tibi 
+      au<lb ed="#L" n="7" break="no"/>reos afferebat dum illud efficeres; quos si forte respueres, eos tibi quantalibet summa 
+      mul<lb ed="#L" n="8" break="no"/>tiplicari iubebat, vt quod leniter fieri potest, efficias. Sed haec opinio tollit omnem 
+      liberta<lb ed="#L" n="9" break="no"/>tem arbitrij, libertatem scilicet contradictionis, &amp; omnem contingentiam ad vtrumlibet 
+      si<lb ed="#L" n="10" break="no"/>mulaufert; quod primum secundi &amp; quartum huius cum sequentibus non permittunt. 
+      Qua<lb ed="#L" n="11" break="no"/>re &amp; Robertus Cantuariensis Archiepiscopus damnauit Oxonie articulum asserentem, quod 
+      <lb ed="#L" n="12"/>omnis propositio vera de futuro est necessaria. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="505"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e67210"><!-- l2c11 -->
+            <head xml:id="dcn2br-e67210-Hd1e106">Caput 11</head>
+            <p xml:id="dcn2br-e67210-d1e109">
+               <lb ed="#L" n="18"/>CAP. XI. 
+      <lb ed="#L" n="19"/>Quod perseuerantia non est aliquod donum Dei cre¬ 
+      <lb ed="#L" n="20"/>atum a charitate &amp; gratia realiter diffe¬ 
+      <lb ed="#L" n="21"/>rens &amp; distinctum. 
+    </p>
+            <p xml:id="dcn2br-e67210-d1e120">
+               <lb ed="#L" n="22"/>Tautem istud diuinum adiutorium necessarium libero arbitrio 
+      <lb ed="#L" n="23"/>ad perseuerandum in bono, memoratum superius generaliter 
+      <lb ed="#L" n="24"/>confuse, cognoscatur distinctius; iam // restat ostendendum 
+      <lb ed="#L" n="25"/>quod perseuerantia non est aliquod donum Dei creatum a 
+      cha<lb ed="#L" n="26" break="no"/>ritate &amp; gratia realiter differens, aut distinctum: Si enim esset, 
+      <lb ed="#L" n="27"/>non repugnaret illa separari ab inuicem, &amp; aliquem habere 
+      cha<lb ed="#L" n="28" break="no"/>ritatem &amp; gratiam, qui perseuerantiam non haberet, &amp; si hoc 
+      <lb ed="#L" n="29"/>posset per vnum momentum, posset per aliud, &amp; deinceps vsque 
+      <lb ed="#L" n="30"/>ad finem, sicque aliquis sine perseuerantia finali perseueraret 
+      <lb ed="#L" n="31"/>finaliter, quod contradictionem includit. Item si sic, habens 
+      <lb ed="#L" n="32"/>charitatem sine perseuerantia per momentum, posset in fine il 
+      <lb ed="#L" n="33"/>lius momenti transire morte naturali, vel alia, sine 
+      perseueran<lb ed="#L" n="34" break="no"/>tia finali diuinitus sibi data, &amp; sic sine perseuerantia finali posset saluari; contra illud Matth. 
+      <lb ed="#L" n="35"/>10. Qui perseuerauerit vsque in finem, hic saluus erit, hic, scilicet discretiue, quia hic &amp; 
+      <lb ed="#L" n="36"/>non alius, dicente Domino Ezech. 18. Si impius egerit poenitentiam ab omnibus peccatis 
+      <lb ed="#L" n="37"/>suis quae operatus est, &amp; custodierit omnia praecepta mea, vita viuet, &amp; non morietur; 
+      om<lb ed="#L" n="38" break="no"/>nium iniquitatum, quas operatus est, non recordibor, in iustitia sua quam operatus est, viuet; 
+      <lb ed="#L" n="39"/>si autem auerterit se iustus a iustitia sua, &amp; fecerit iniquitatem, nunquid viuet? Omnes 
+      iu<lb ed="#L" n="40" break="no"/>stitiae eius non recordabuntur; in praeuaricatione sua qua praeuaricatus est, &amp; in peccato suo 
+      <lb ed="#L" n="41"/>quod peccauit, in ipsis morietur. Et Ecclesiastis II. Si ceciderit lignum ad Austrum, aut 
+      <lb ed="#L" n="42"/>ad Aquilonem, in quocunque loco ceciderit, ibi erit. Nulli etiam dubium, quin quicunque 
+      <lb ed="#L" n="43"/>habuit donum charitatis &amp; gratiae, &amp; non finaliter perseuerat in eo, cadit ab eo per 
+      pecca<lb ed="#L" n="44" break="no"/>tum mortale, in quo perdurat ad mortem, &amp; est filius mortis aeternae: Talis ergo in charitate 
+      <lb ed="#L" n="45"/>&amp; gratia motiens, tamen sine perseuerantia finali simul aeternaliter haereditabit vitam &amp; 
+      mor<lb ed="#L" n="46" break="no"/>tem; Vitam, quia moritur in charitate, quae secundum Augustinum 15. de Trinitate LDei 
+      <lb ed="#L" n="47"/>I8. sola est quae diuidit inter filios regni aeterni, &amp; filios perditionis aeternae; Mortem, quia 
+      <lb ed="#L" n="48"/>sine perseuerantia finali decedit. Item e contrario procedendo, si haec distinguerentur 
+      reali<lb ed="#L" n="49" break="no"/>ter, posset aliquis sine charitate &amp; gratia habere finalem perseuerantiam &amp; saluari, quia qui 
+      <lb ed="#L" n="50"/>perseuerauerit vsque in finem hic saluus erit, Matth. 10. quod est contra autoritatem 
+      Augu<lb ed="#L" n="51" break="no"/>stini praemissam. Imo nec posset quisquam esse beatus perfecte sine charitate &amp; dilectione 
+      <lb ed="#L" n="52"/>Dei actiua &amp; passiua: Maximum namque bonum maxime sibi deesset; videtur etiam quod 
+      <!--539.xml-->
+      <pb ed="#A" n="506"/>
+               <lb ed="#L" n="1"/>si perseuerantia posset esse sine charitate &amp; gratia, posset esse sine quocunque alio tali bono, 
+      <lb ed="#L" n="2"/>sed hoc videtur repugnantiam importare, quod scilicet aliquis perseueret, &amp; non in aliquo 
+      ta<lb ed="#L" n="3" break="no"/>li bono; Perseuerantia namque aliquod tale bonum in quo fundetur, &amp; maneat, necessario 
+      <lb ed="#L" n="4"/>praesupponit. Item si haec sic differrent, perseuerantia esset maius bonum, &amp; melius 
+      charita<lb ed="#L" n="5" break="no"/>te; Esset enim forma ipsam perficiens &amp; consummans, ac ad coronam perducens, sine qua 
+      <lb ed="#L" n="6"/>charitas nihil valeret ad vitam, &amp; in cuius virtute omnia bona merita faceret, non e contra, 
+      <lb ed="#L" n="7"/>quod non est dandum, quia nullius virtutis actus proprius siue finis est melior actu seu fine 
+      <lb ed="#L" n="8"/>proprio charitatis, qui est diligere Deum summe: Mandatum enim de dilectione Dei est. 
+      <lb ed="#L" n="9"/>maximum &amp; primum mandatum, teste veritate Matth. 22. Apostolus quoque praedicaturus 
+      <lb ed="#L" n="10"/>de charitate 1. ad Cor. capit. 13. immediatem ante, scilicet cap. 12. vt auditores beneuolos 
+      red<lb ed="#L" n="11" break="no"/>deret, &amp; attentos, talem propheticum ad commendationem charitatis praemisit, 
+      AEmula<lb ed="#L" n="12" break="no"/>mini charismata meliora, &amp; adhuc excellentiorem viam vobis demonstro; &amp; statim cap.3. 
+      <lb ed="#L" n="13"/>de ipsa charitate prosequitur in hunc modum; Si linguis hominum loquar, &amp; Angelorum, E 
+      <lb ed="#L" n="14"/>charitatem autem non habeam, factus sum velut aes sonans, &amp;c. qui &amp; in fine capit, sic 
+      con<lb ed="#L" n="15" break="no"/>cludit, Nunc autem manent fides, spes, charitas, tria haec, maior autem horum est charitas, 
+      <lb ed="#L" n="16"/>quem &amp; secutus beatus Augustinus 15. de Trin. 18. loquens de charitate, sic ait; Nullum 
+      <lb ed="#L" n="17"/>est isto dono Dei excellentius. Item si sic esset, perseuerantia haberet aliquem actum 
+      propri<lb ed="#L" n="18" break="no"/>um, distinctum ab actibus proprijs aliarum virtutum: Habitus enim per actus proprios, 
+      si<lb ed="#L" n="19" break="no"/>cut formae per operationes proprias discernuntur, sicut Naturalis &amp; Moralis Philosophi 
+      pa<lb ed="#L" n="20" break="no"/>riter &amp; Theologi contestantur; sed talis actus perseuerantiae proprius assignari non potest; 
+      <lb ed="#L" n="21"/>non enim potest poni actus memoriae, intelligentiae, nec etiam voluntatis, vt inductio per 
+      <lb ed="#L" n="22"/>singulos manifestat, nec omnino alius dici potest. Item si perseuerantia a charitate differret 
+      <lb ed="#L" n="23"/>realiter, cum ipsa sit necessaria ad salutem, Dominus dedisset aliquod speciale mandatum de 
+      <lb ed="#L" n="24"/>ipsa; quod tamen nusquam reperitur in testamento veteri, nec in nouo, aut obseruantia 
+      <lb ed="#L" n="25"/>mandatorum Domini non esset sufficiens ad salutem; cum tamen quaerenti quid faceret vt 
+      <lb ed="#L" n="26"/>vitam aeternam perciperet, Dominus sic respondit, Mandata nosti, neadulteres, ne 
+      occi<lb ed="#L" n="27" break="no"/>das, &amp;c. Marc. 10. ac si diceret manifeste; Haec si facias, vitam aeternam // percipies; &amp; Luc. 
+      <lb ed="#L" n="28"/>10. Legis perito, quaerenti a Domino quid faciendo vitam aeternam possideret, requisiuit ab 
+      <lb ed="#L" n="29"/>eo, In lege quid scriptum est? quo respondente, Diligis Dominum Deum tuum ex toto corde 
+      <lb ed="#L" n="30"/>tuo, &amp;c. &amp; proximum tuum, sicut teipsum, Dominus dixit illi, Hoc fac, &amp; viues: Nec mirum, 
+      <lb ed="#L" n="31"/>quoniam in his duobus mandatis tota lex pendet, &amp; prophetae, Matth. 22. Vel arguatur hoc 
+      <lb ed="#L" n="32"/>modo, Obseruantia mandatorum sufficit ad salutem, &amp; perseuerantia differt a charitate realiter. 
+      <lb ed="#L" n="33"/>ergo non continetur sub mandato de charitate, seu dilectione, nec sub aliquo alio, quia hoc 
+      <lb ed="#L" n="34"/>minus videtur, ergo sine perseuerantia potest quis saluari. Vel adhuc sic si libet, 
+      Obseruan<lb ed="#L" n="35" break="no"/>tia mandatorum sufficit ad salutem, &amp; non sine perseuerantia finali, ergo illa continetur sub 
+      <lb ed="#L" n="36"/>aliquo praeceptorum, &amp; hoc non erit nisi sub mandato de dilectione &amp; charitate; ergo illa 
+      <lb ed="#L" n="37"/>&amp; charitas nequaquam realiter distinguntur: Quare mihi videtur, quod perseuerantia 
+      habi<lb ed="#L" n="38" break="no"/>tualis sit charitas habitualis, seu perdurans; perseuerantia vero actualis sit peramatio, &amp; 
+      ip<lb ed="#L" n="39" break="no"/>sum perseuerare finaliter peramare. Vnde &amp; Anselmus de casu Diaboli 3. Perseuerate 
+      <lb ed="#L" n="40"/>in faciendo aliquid, vt vno verbo dicatur, est perficere: Nam perseuerate in scribendo 
+      ali<lb ed="#L" n="41" break="no"/>quid dicimus perscribere, in ducendo, perducere: Dicamus ergo si etiam non sit in vsu, quod 
+      <lb ed="#L" n="42"/>perseuerate in voluntate sit peruelle, quare &amp; perseuerare in charitatis amore, de quo 
+      dici<lb ed="#L" n="43" break="no"/>tur Matth. 10. Qui perseuerauerit vsque in finem, hic saluus erit, est finaliter peramare. Vel 
+      <lb ed="#L" n="44"/>aliter potest dici consonantius ipsi voci, &amp; forte propinquius ipsi rei, quod perseuerate est 
+      per<lb ed="#L" n="45" break="no"/>seruare mandata, &amp; perseuerantia perseruantia mandatorsi. Vel adhuc generalius isto modo; 
+      <lb ed="#L" n="46"/>Perseuerantia habitualis est iustitia habitualiter perseruata; perseuerantia actualis est iustitiae 
+      <lb ed="#L" n="47"/>perseruantia actualis, ipsum vero perseuerare est iustitiam perseruare. 
+      </p>
+            <div xml:id="dcn2br-e67210-Dd1e296">
+               <head xml:id="dcn2br-e67210-Hd1e298">Corollarium</head>
+               <p xml:id="dcn2br-e67210-d1e301">
+                  <lb ed="#L" n="48"/>COROLLARIVM. 
+      <lb ed="#L" n="49"/>Corollarium, Quod nomen perseuerantiae nullam rem absolutam essentialiter signifi¬ 
+      <lb ed="#L" n="50"/>cat, sed accidentaliter &amp; relatiue, charitatem videlicet siue iustitiam cum 
+      respe<lb ed="#L" n="51" break="no"/>ctu futurae permansionis continue vsque in finem, &amp; quod non improbabiliter 
+      <lb ed="#L" n="52"/>posset dici perseuerantiam esse ipsam relationem huius.
+      </p>
+               <p xml:id="dcn2br-e67210-d1e314">
+                  <lb ed="#L" n="53"/>VNde manifestum est, quod nomen perseuerantiae nullam rem significat essentialiter aut  
+      <lb ed="#L" n="54"/>etiam absolutem; sed accidentaliter &amp; relatiue tantummodo, ipsam scilicet charitatem siue 
+      <!--540.xml-->
+      <pb ed="#A" n="507"/>
+                  <lb ed="#L" n="1"/>iustitiam, cum respectuad finem, id est cum respectu futurae permansionis continuae vsque in 
+      <lb ed="#L" n="2"/>finem, quare &amp; non improbabiliter posset dici; perseuerantiam esse ipsam relationem 
+      huius<lb ed="#L" n="3" break="no"/>modi, quod videturinmuere definitio Aristotelis, &amp; maxime Tullij, cap. 7o. recitata; de quo 
+      <lb ed="#L" n="4"/>holo disserere plus hocioco: satis enim, vt arbitror, erat de relationibus, alibi disputatum 
+      <lb ed="#L" n="5"/>Istud corollarium ex praemissis in isto capitulo satis patet. Potest tamen ex abundanti aliter. 
+      <lb ed="#L" n="6"/>sic ostendis Si etenim perseuerantia significaret essentialiter &amp; absolute aliquam rem in 
+      via<lb ed="#L" n="7" break="no"/>tore, cum illa non sit de essentia viatoris, nec ipsam essentialiter consequens, vtpatet in multis. 
+      <lb ed="#L" n="8"/>ipsa carentibus, posset viator habens finalem perseuerantiam, ipsam amirtere, ita quodxerum,  
+      <lb ed="#L" n="9"/>esset, ipsum finalem perseuerantiam amisisse, sicut est de habitibus caeteris, &amp; alijs actionibus 
+      <lb ed="#L" n="10"/>absolutis, quod tamen contrdictionem includit: Si enimperseuerantiam finalem amisit, 
+      ali<lb ed="#L" n="11" break="no"/>quando eam habuit, ergo tunc fuit perseueraturus finaliter, quare &amp; non casurus, &amp; 
+      tuncsr<lb ed="#L" n="12" break="no"/>militer fuit casurus; sicut cuentus subsequens demonstrauit: vel aliter, si iste cecidit in pecca¬¬ 
+      <lb ed="#L" n="13"/>tum mortale, semper prius fuit casurus, ergo nunquam fuit non cafunis, ergu nunquam ha¬¬ 
+      <lb ed="#L" n="14"/>buit perseuerantiam, ergo nunquam eam amisit, contra hypothesin prius datam. Vnde 
+      Aun<lb ed="#L" n="15" break="no"/>gustinus de bono perseuerantiae 7. ita dicit, Dicimus quippe castum, quem nouimus castum, 
+      <lb ed="#L" n="16"/>siue sit, siue non sit in eadem castitate mansurus, &amp; siquid aliud diuini muneris habeat, quod 
+      <lb ed="#L" n="17"/>teneri &amp; amitti potest, dicimus eum habere quamdiu habet; &amp; si amisit, dicimus habuisse: 
+      <lb ed="#L" n="18"/>Perseuerantiam vero vsque in finem; non habet quisquam, nisi perseuerauerit vsque in finem, 
+      <lb ed="#L" n="19"/>multi eam possunt habere, nullus amittere, &amp; supra eiusdem primocapit, probat idem. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

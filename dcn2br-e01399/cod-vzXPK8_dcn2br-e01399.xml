@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 38</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 38</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="769"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e01399"><!-- l3c38 -->
+            <head xml:id="dcn2br-e01399-Hd1e106">Caput 38</head>
+            <p xml:id="dcn2br-e01399-d1e109">
+      <!--802.xml-->
+               <pb ed="#A" n="769"/>
+               <lb ed="#L" n="1"/>CAP. XXXVIII. 
+      <lb ed="#L" n="2"/>Arguit contra quintam.
+    </p>
+            <p xml:id="dcn2br-e01399-d1e120">
+               <lb ed="#L" n="3"/>REsponsio vero quinta, quae ponit libertatem voluntatis creatae posset 
+      <lb ed="#L" n="4"/>fuisse, vel esse causam effectus huiusmodi praeteriti vel praesentis, 
+      vide<lb ed="#L" n="5" break="no"/>tur multum libere dicere sine actione aliqua rationis; nec enim 
+      diffi<lb ed="#L" n="6" break="no"/>cultatem euacuat, nec est vera. Non euacuat difficultatem 
+      praemis<lb ed="#L" n="7" break="no"/>sam: ponatur namque quod praecipiatur videnti in verbo velle &amp; 
+      o<lb ed="#L" n="8" break="no"/>perati tantum conformiter visioni &amp;c. sicut tricesimum tertium, &amp; 
+      <lb ed="#L" n="9"/>tricesimum quintum huius plenius arguebant, &amp; reuertitur 
+      difficul<lb ed="#L" n="10" break="no"/>tas. Nec est responsio ista vera; quoniam aliqui sunt effectus causati 
+      <lb ed="#L" n="11"/>a sola visione aliquorum obiectorum in verbo sine quacunque operatione libera voluntatis, 
+      <lb ed="#L" n="12"/>sicut tricesimo tertio huius patet. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

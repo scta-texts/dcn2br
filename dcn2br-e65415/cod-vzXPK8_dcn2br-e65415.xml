@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="491"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e65415"><!-- l2c8 -->
+            <head xml:id="dcn2br-e65415-Hd1e106">Caput 8</head>
+            <p xml:id="dcn2br-e65415-d1e109">
+               <lb ed="#L" n="27"/>CAP. VIII. 
+      <lb ed="#L" n="28"/>De perseuerantia quid sit, &amp; quod nullus viator quanta¬ 
+      <lb ed="#L" n="29"/>cunque gratia creata subnixus, solius Liberi Ar¬ 
+      <lb ed="#L" n="30"/>bitrij viribus, vel etiam cum adiutorio gra¬ 
+      <lb ed="#L" n="31"/>tiae possit perseuerate finaliter sine alio 
+      <lb ed="#L" n="32"/>Dei auxilio speciali. 
+    </p>
+            <p xml:id="dcn2br-e65415-d1e125">
+               <lb ed="#L" n="33"/>POst haec de perseueratia est agendum: superbus namque Pelagius 
+      <lb ed="#L" n="34"/>astruere praesumebat, quod homo solius liberi arbitrij viribus 
+      <lb ed="#L" n="35"/>possit omnia Dei mandata perficere, &amp; omnia peccata vitare, 
+      si<lb ed="#L" n="36" break="no"/>cut ex quarto secundi huius apparet; quare &amp; perseuerare 
+      fina<lb ed="#L" n="37" break="no"/>liter ex seipso, quod &amp; diuersi libri beati Augustini contra 
+      Pe<lb ed="#L" n="38" break="no"/>lagianos editi contestantur: In primis igitur videndum de 
+      Per<lb ed="#L" n="39" break="no"/>seuerantia, quid sit ipsa: Hanc autem Tullius 2. veteris suae 
+      <lb ed="#L" n="40"/>Rhetoricae sic definit; Perseuerantia est in ratione bene 
+      consi<lb ed="#L" n="41" break="no"/>derata stabilis &amp; perpetua mansio: Aristotelis vero 7. Eth. 7. 
+      <lb ed="#L" n="42"/>ipsum perseuerare definit hoc modo; Perseuerare est in eo quod 
+      <lb ed="#L" n="43"/>est detinere, &amp; pro differentia illius ad continere, subiungit; 
+      <lb ed="#L" n="44"/>Continentia autem in eo quod est superare, quemadmodum &amp; 
+      <lb ed="#L" n="45"/>non vinci in vincere, propter quod &amp; eligibilius continentia perseuerantia. Cognito autem 
+      <lb ed="#L" n="46"/>quid sit perseuerantia restat consequenter ostendere, nullum viatorem corrupto corpore 
+      ag<lb ed="#L" n="47" break="no"/>grauatum in quantacunque creata gratia constitutum, solius liberi arbitrij viribus, vel etiam 
+      <lb ed="#L" n="48"/>cum adiutorio gratiae posse perseuerate finaliter sine alio Dei auxilio speciali: Nam per 
+      cap<lb ed="#L" n="49" break="no"/>proximum, Nullus viator quantumlibet gratiosus potest sic vitare peccatum mortale. Item 
+      <!--525.xml-->
+      <pb ed="#A" n="492"/>
+               <lb ed="#L" n="1"/>Nullus viator quantumlibet gratiosus potest sic vitare tentationem de peccato mortali, sicut  
+      <lb ed="#L" n="2"/>Corollarium proximum inferebat; &amp; satis constat ex capitulo proximo, quod &amp; de se 
+      mul<lb ed="#L" n="3" break="no"/>tum euidenter apparet, &amp; si sit tentatus de quocunque peccato mortali, non // potest illud 
+      vita<lb ed="#L" n="4" break="no"/>re, sicut quartum &amp; quintum huius ostendunt. Item istam conclusionem omnia pene 
+      ar<lb ed="#L" n="5" break="no"/>gumenta probabunt, quae similes conclusiones de tentationibus superandis &amp; peccatis 
+      vitan<lb ed="#L" n="6" break="no"/>dis in quatuor cap. proximis probauerunt; &amp; pro ista conclusione similiter facit totum 
+      fe<lb ed="#L" n="7" break="no"/>cundum capitulum primi libri. Ad hoc idem sunt satis multae autoritates Scripturae 
+      canoni<lb ed="#L" n="8" break="no"/>cae &amp; Doctorum, quarum aliquae fuerant superius allegatae, quibus satis plures, si quic 
+      volue<lb ed="#L" n="9" break="no"/>rit, remanent allegandae, ex quibus paucas &amp; breuiter allegabo. Psalmus II8. Domino Deo 
+      <lb ed="#L" n="10"/>dicit; Ordinatione tua perseuerat dics, id est, angelus siue homo lucidus luce iustitiae; Iosue 
+      <lb ed="#L" n="11"/>quoque 14. scribitur Caleb sic dixisse; concessit Dominus vitam mihi, sicut pollicitus est 
+      vs<lb ed="#L" n="12" break="no"/>que in praesentem diem; quadraginta &amp; quinque anni sunt ex quo Dominus loquutijs est 
+      ver<lb ed="#L" n="13" break="no"/>bum istud; Hodiec octaginta quinque annorum sum sic valens, vt eo valebam tempore, illius; 
+      <lb ed="#L" n="14"/>in me temporis fortitudo vsque hodie perseuerat tam ad bellandum quam ad gradiendum, sed 
+      <lb ed="#L" n="15"/>per quem tanta fortitudo sibi perseuerauit, nisi per illum qui Num. 14. sic promisit? Seruum 
+      <lb ed="#L" n="16"/>meum Caleb inducam in terram hanc. Et Deut. 29. Adduxit vos, ait Moses, quadraginta 
+      <lb ed="#L" n="17"/>annis per desertum; Non sunt attrita vestimenta vestra, nec calceamenta pedum vestrorum 
+      <lb ed="#L" n="18"/>vetustate consumpta sunt; panem non comedistis, vinum &amp; siceram non bibistis, vt sciretis, 
+      <lb ed="#L" n="19"/>quod ipse est Dominus Deus vester: sed quia secundum Apostolum 1. ad Cor. 10. Omnia 
+      <lb ed="#L" n="20"/>in figura contingebant illis, quid posset per ista melius figurari, quam quod Domino nos 
+      <lb ed="#L" n="21"/>ducente omnibus annis peregrinationis istius per desertum inuium huius mundi, ipso 
+      perse<lb ed="#L" n="22" break="no"/>uerantiam largiente, non sunt attrita vestimenta nostra spiritualia, scilicet virtutes, nec 
+      casce<lb ed="#L" n="23" break="no"/>amenta pedum nostrum, scilicet dona genuinae charitatis, duplicisue amoris, scilicet Dei &amp; 
+      <lb ed="#L" n="24"/>proximi, vetustate consumpta sunt per abusum; panem doctrinae non comedimus, qui sine 
+      <lb ed="#L" n="25"/>ipso confirmaret cor nostrum; vinum &amp; siceram deuotionis non bibimus, quae cor nostrum 
+      <lb ed="#L" n="26"/>perseueranter laetificent sine ipso; nec tamen defecimus vt sciamus, quia ipse Dominus Deus 
+      <lb ed="#L" n="27"/>noster, ex quo omnia, per quem omnia, in quo omnia sunt &amp; constant; qui &amp; omnia verbo 
+      <lb ed="#L" n="28"/>suae virtutis sustinet, &amp; supportat, teste eodem Apostolo ad Rom. II. &amp; ad Hebrae. 1. Simile 
+      <lb ed="#L" n="29"/>est illud Gen. 27. Frumento, vino, &amp; oleo stabiliui eum. Quid etiam aliud quam 
+      perseue<lb ed="#L" n="30" break="no"/>rantiam sonant ista, Conserua me Domine; Verbo Domini Coeli firmati sunt, id est, 
+      secun<lb ed="#L" n="31" break="no"/>dum Augustinum iusti siue Apostoli; Statuit supra petram pedes meos; Manda Deus virtuti 
+      <lb ed="#L" n="32"/>tuae; Confirma hoc Deus quod operatus es in nobis; Qui fundasti terram super 
+      stabilita<lb ed="#L" n="33" break="no"/>tem suam; Custodi nos Domine vt pupillam oculi; Nisi Dominus custodierit ciuitatem, 
+      <lb ed="#L" n="34"/>frustra vigilat qui custodit eam; &amp; multa similia multis Psalmis: Dicitque disertissimus 
+      E<lb ed="#L" n="35" break="no"/>saias 26. cap. Vrbs fortitudinis nostrae Svon Saluator, ponetur in ea murus, &amp; 
+      Antemura<lb ed="#L" n="36" break="no"/>le ad custodiendum, scilicet ciuitatem. Sanctus quoque Dauid I. Paralip. vlt. sic orans 
+      Do<lb ed="#L" n="37" break="no"/>minum pro populo sibi deuoto, Domine Deus, custodi in aeternum hanc voluntatem cordis 
+      <lb ed="#L" n="38"/>eorum, &amp; semper in venerationem tui mens ista permaneat; quid aliud petijt, quam 
+      perseue<lb ed="#L" n="39" break="no"/>rantiam consummatam? &amp; cur eam perebat a Deo, si non daretur ab eo, sed vnulquisque 
+      <lb ed="#L" n="40"/>viribus proprijs illam posset habere, sicut quadragesimum sextum primi plenius arguebati 
+      <lb ed="#L" n="41"/>Vnde beatus Augustinus de bono perseuerantiae 2. per indem argumentum eandem 
+      conclusi<lb ed="#L" n="42" break="no"/>onem ostendit: Cur, inquit, Perseuerantia ista // peritur a Deo, si non datur a Deo? An &amp; 
+      <lb ed="#L" n="43"/>ista irriforia petitio est, cum illud ab eo petitur, quod scitur non ipsum dare, sed ipso non  
+      <lb ed="#L" n="44"/>dante, esse in hominis potestate? sicut irrisoria etiam est illa gratiarum actio, si ex hoc gratiae 
+      <lb ed="#L" n="45"/>aguntur Deo, quod non donauit ipse, nec fecit: Sed nolite errare, inquit Apostolus, Deus 
+      <lb ed="#L" n="46"/>non irridetur; &amp; huic argumento multum inititur quasi per totum illum librum, vt patet 
+      <lb ed="#L" n="47"/>cap. 3. 6. &amp; 9. vbi &amp; allegat hoc a beato Martyre Cypriano, de Dominica oratione, &amp; est 
+      e<lb ed="#L" n="48" break="no"/>pistola sua quinta, &amp; alijs locis multis. Et sicut: isle Dauid pro perseuerantia populi sui Deum 
+      <lb ed="#L" n="49"/>orauit, sic &amp; Dauid noster Dominus Christus pro populo suo Deum Patrem orauit; Pater, s 
+      <lb ed="#L" n="50"/>inquiens, sancte serua eos in nomine tuo, quos dedisti mihi, vt sint vnum, sicut &amp; nos; cum 
+      <lb ed="#L" n="51"/>essem cum eis, ego seruabam eos in nomine tuo, quos dedisti mihi custodiui, &amp; nemo ex his 
+      <lb ed="#L" n="52"/>periit nisi filius perditionis, vt Scriptura impleatur: &amp; infra, Non rogo vt tollas eos de 
+      <lb ed="#L" n="53"/>mundo, sed vt serues eos a malo: cuius doctrinam Sacerdotes sui sequentes sic orant; 
+      Cu<lb ed="#L" n="54" break="no"/>stodi quaesumus Domine Ecclesiam tuam propitiatione perpetua, &amp; quia sine te labitur 
+      hu<lb ed="#L" n="55" break="no"/>mana mortalitas, tuis semper auxilijs &amp; abstrahatur a noxijs &amp; ad salitaria dirigatur. Item 3. 
+      <lb ed="#L" n="56"/>Reg. 13. ait Dominus ad Eliam, Dereliqui mihi in Israel septem millia virorum, quorum  
+      <lb ed="#L" n="57"/>genua non sunt incuruata ante Baal; &amp; omne os, quod non adorauerit eum osculans 
+      ma<lb ed="#L" n="58" break="no"/>num?. Quicunque ergo non incuruat genua sua ante Baal, vt a iustitia deflectatur in opere, 
+      <!--526.xml-->
+      <pb ed="#A" n="493"/>
+               <lb ed="#L" n="1"/>necore cordis aut corporis eum adorauerit, aut oscuiatus fuerit manum eius in cogitatione 
+      <lb ed="#L" n="2"/>vel loquutione, non viribus suis aut meritis, sed data gratis perseuerantia a Domino 
+      custodi<lb ed="#L" n="3" break="no"/>tur: Non enim diceret Dominus, Dereliqui mihi septem millia virorum, &amp;c. si non ipse, sed ipsi 
+      <lb ed="#L" n="4"/>se potius Domino reliquissent, dum per se, non per eum, idola reliquerunt; sic etenim arguit 
+      <lb ed="#L" n="5"/>Apostolus ad Rom. 1I. ostendens quod reliquiae Israel per gratiam saluae si siant; Nunquid,  
+      <lb ed="#L" n="6"/>dicit Apostolus, Repulit Deus populum suum? Absit; An nescitis in Elia, quid dicit 
+      Scrip<lb ed="#L" n="7" break="no"/>tura? quid dicit illi diuinum responsum? reliqui mihi septem millia virorum qui non 
+      curua<lb ed="#L" n="8" break="no"/>verunt genua sua ante Baal; sic ergo &amp;t in hoc tempore reliquiae secundum electionem 
+      gra<lb ed="#L" n="9" break="no"/>tiae Dei saluae factae sunt; si autem gratia, iam non ex operibus; ex hoc ergo quod Deus dicit, 
+      <lb ed="#L" n="10"/>Reliqui mihi, &amp;c. innuit Apostolus quod Deus hoc fecit, non ipsi, &amp; quod Deus hoc gratis 
+      fe<lb ed="#L" n="11" break="no"/>cit, scilicet secundum electionem gratiae, non pro meritis; si enim pro eorum meritis hoc 
+      fe<lb ed="#L" n="12" break="no"/>cisset, ipsi per sua merita prius &amp; principalius quodammodo hoc fecissent; sic ergo, inquit, 
+      <lb ed="#L" n="13"/>&amp; in hoc tempore reliquiae secundum electionem gratiae Dei saluae factae sunt, sicut, supple in 
+      <lb ed="#L" n="14"/>illo tempore illae reliquiae, seu illi rehcti salui facti sunt, non a se, scilicet, sed a Deo, &amp; hoc 
+      <lb ed="#L" n="15"/>gratis, non ex operibus. Beatus etiam Augustinus de bono perseuerantiae 54. tractans istud 
+      <lb ed="#L" n="16"/>Apostolicum argumentum, sic ait; Apostolus, vt ostenderet Dei gratia fuisse relictas 
+      reliqui<lb ed="#L" n="17" break="no"/>as, non meritis operum eorum, secutus adiunxit, An nescitis in Elia quid dicit Scriptura? 
+      <lb ed="#L" n="18"/>Quemadmodum interpellat Deum aduersus Ifrael, &amp;c. sed quid dicit illi, inquit, responsum 
+      <lb ed="#L" n="19"/>diuinum? Reliqui mihi septem millia virorum qui non curuauerunt genu ante Baal; Non 
+      <lb ed="#L" n="20"/>enim ait relicta sunt mihi, aut reliquerunt se mihi, sed reliqui mihi; Sic ergo, inquit, &amp; in 
+      <lb ed="#L" n="21"/>hoc tempore reliquiae per electionem gratiae saluae factae sunt; si autem gratia, iam non ex 
+      o<lb ed="#L" n="22" break="no"/>peribus. Item Esai 40. Deus sempiternus Dominus, qui creauit terminos terrae, non 
+      defi<lb ed="#L" n="23" break="no"/>ciet, nec laborabit, qui dat Iasso virtutem, &amp; his qui non sunt, fortitudinem &amp; robur 
+      multi<lb ed="#L" n="24" break="no"/>plicat; deficient pueri &amp; laborabunt. Clossa, id est pueriliter viuentes, &amp; iuuenes in 
+      infirmi<lb ed="#L" n="25" break="no"/>tate cadent, scilicet de virtutibus proprijs praesumentes; &amp; addit, Qui autem sperant in 
+      Do<lb ed="#L" n="26" break="no"/>mino, mutabunt fortitudinem; assument pennas sicut Aquilae, current &amp; non laborabunt,  
+      <lb ed="#L" n="27"/>ambulabunt &amp; non deficient. Et infra 48. Super Deum Israel constabiliti sunt; Et infra, Haec 
+      <lb ed="#L" n="28"/>dicit Dominus gubernans te in via qua ambulas. Item Ierem. 32. Ecce ego congregabo eos 
+      <lb ed="#L" n="29"/>de vniuersis terris, &amp; reducam eos ad locum istum, &amp; habitare eos faciam confidenter, &amp; 
+      da<lb ed="#L" n="30" break="no"/>bo eis cor vnum &amp; animam, seu alias viam vnam, vt timeant me vniuersis diebus, &amp; feriam  
+      <lb ed="#L" n="31"/>eis pactum sempiternum, &amp; non desinam eis benefacere, &amp; timorem meum dabo in corde 
+      e<lb ed="#L" n="32" break="no"/>orum vt non recedant a me: Vnde claret, quod tam reditio a malo, quam permansio in 
+      bo<lb ed="#L" n="33" break="no"/>no finaliter, scilicet vniuersis diebus, pacto sempiterno vt nunquam recedatur a Domino, 
+      <lb ed="#L" n="34"/>quae est perseuerantia vsque in finem, non est sufficienter nec antecedenter ab homine, sed a 
+      <lb ed="#L" n="35"/>Deo: Vnde &amp; Augustinus de bono perseuerantiae 2. eandem conclusionem per eandem 
+      au<lb ed="#L" n="36" break="no"/>toritatem ostendit; Hanc enim, inquiens, scilicet perseuerantiam promisit Deus, dicens, 
+      <lb ed="#L" n="37"/>Timorem meum dabo in cor eorum, vt a me non recedant; quod quid est aliud, quam quod 
+      <lb ed="#L" n="38"/>talis ac tantus erit timor meus quem dabo in cor eorum, vt mihi perseueranter adhaereant? 
+      <lb ed="#L" n="39"/>Cui &amp; Sanctus Dauid, Sancti Spiritus cithara aptissime concinit Psalmo 79. dicens, Deus 
+      <lb ed="#L" n="40"/>virtutum, conuerte nos, respice de coelo, &amp; vide, &amp; visita vineam istam, quantum ad 
+      con<lb ed="#L" n="41" break="no"/>uersionem a malo; &amp; perfice eam, quam plantauit dextera, quantum ad perfectionem in 
+      bo<lb ed="#L" n="42" break="no"/>no; &amp; super filium hominis quem confirmasti tibi, fiat manus tua, scilicet perseueranter 
+      susti<lb ed="#L" n="43" break="no"/>nens &amp; confirmans super virum dexterae tuae, quem scilicet Spiritus Sanctus dexterae tuae 
+      di<lb ed="#L" n="44" break="no"/>gitus, de sinistra ad dexteram conuertebat; &amp; super filium hominis, quem confirmasti tibi 
+      ip<lb ed="#L" n="45" break="no"/>sum nullatenus dimittendo; &amp; non discedimus a te: More prophetico praeteritum ponit pro 
+      <lb ed="#L" n="46"/>futuro; quasi diceret manifeste; Si haec cuilibet nostrum feceris, non discedemus a te, sed 
+      per<lb ed="#L" n="47" break="no"/>seuerabimus tecum vsque in finem; Et ideo fubiungit reliqua de futuro; Viuificabis nos, 
+      <lb ed="#L" n="48"/>scilicet vita aeterna, quia qui perseuerauerit vsque in finem, hic saluus erit, Matth. 10. 
+      Ideo<lb ed="#L" n="49" break="no"/>que subiunxit, Domine Deus virtutum conuerte nos, scilicet de malo ad bonum, &amp; 
+      Osten<lb ed="#L" n="50" break="no"/>de faciem tuam, scilicet voluntatem tuam, nos in bono perseuerantes finaliter faciendo, &amp;  
+      <lb ed="#L" n="51"/>salui erimus: Vnde &amp; Beatus Augustinus de bono perseuerantiae II. ita dicit; Post casum 
+      <lb ed="#L" n="52"/>hominis non nisi ad gratiam suam Deus voluit pertinere, vt homo accedat ad eum, neque 
+      ni<lb ed="#L" n="53" break="no"/>si ad gratiam suam voluit pertinere, vt homo non recedat ab eo, hanc posuit in illo in quo 
+      for<lb ed="#L" n="54" break="no"/>tem consecuti sumus, praedestinati secundum propositum eius, qui vniuersa operatur, &amp; per 
+      <lb ed="#L" n="55"/>hoc sicut operatur vt accedamus, ita operatur ne discedamus; propter quod ei per prophetam 
+      <lb ed="#L" n="56"/>dictum est; Fiat manus tua super virum dexterae, &amp; fuper filium hominis, quem confirmasti 
+      <lb ed="#L" n="57"/>tibi, &amp; non discedimus a te: Ille certe non est Adam primus, in quo discedimus ab eo, sed 
+      <lb ed="#L" n="58"/>Adam nouissimus, super quem sit manus eius, vt non discedamus ab eo; Christus enim to¬ 
+      <!--527.xml-->
+      <pb ed="#A" n="494"/>
+               <lb ed="#L" n="1"/>tus cum membris suis est propter Ecclesiam, quae est corpus eius, plenitudo eius: Cum ergo 
+      <lb ed="#L" n="2"/>sit super eum manus Dei vt non discedamus ab eo, ad nos vtique peruenit opus Dei, haec est 
+      <lb ed="#L" n="3"/>in manus Dei quo opere Dei sit, vt simus in Christo permanentes cum Deo; In Christo 
+      e<lb ed="#L" n="4" break="no"/>nim fortem consecuti sumus praedestinati secundum propositum eius qui vniuersa operatur: 
+      <lb ed="#L" n="5"/>Manus igitur Dei est ista non nostra vt non discedamus a Deo. Item 2. ad Cor. vlt. 
+      Ora<lb ed="#L" n="6" break="no"/>mus, inquit Apostolus, vestram consummationem, &amp; quid aliud est hoc quam orare eorum 
+      <lb ed="#L" n="7"/>perseuerantiam consummatam? sed a quo hoc orauit nisi a Deo? a quo ergo datur nisi ab eo?. 
+      <lb ed="#L" n="8"/>Idem ad Rom 14. Potens est Deus statuere illum de quo nullus ad literam dubitat; hoc er 
+      <lb ed="#L" n="9"/>go nequaquam tantus doceret Apostolus, nisi aliud vellet intelligi, scilicet quod omnem 
+      <lb ed="#L" n="10"/>stantem Deus per suam potentiam statuit, non illius, quia non dicit, potens est homo 
+      seip<lb ed="#L" n="11" break="no"/>sum statuere, sed potens Deus illum statuere. Vnde Augustinus de bono perseuerantiae 18. 
+      <lb ed="#L" n="12"/>sic ait; Voluntate Dei stat, qui stat; potens est enim Deus statuere illum; Non ergo se 
+      ip<lb ed="#L" n="13" break="no"/>se, sed Deus. Idem de correptione &amp; gratia 56. tractans eandem autoritatem sic: Apostolus 
+      <lb ed="#L" n="14"/>respiciens ad praedestinatos ait; Stabit autem; &amp; ne hoc sibi arrogarent; Potens est enim 
+      <lb ed="#L" n="15"/>Deus, inquit, statuere eum: Ipse itaque dat perseuerantiam qui statuere potens est eos qui 
+      <lb ed="#L" n="16"/>stant, vt perseuerantissime stent. Idemque Apostolus supra, eiusdem 4. similiter loquebatur, 
+      <lb ed="#L" n="17"/>cum dixit quod Abraham in repromissione Dei non haesitauit, plenissime sciens, quia 
+      quae<lb ed="#L" n="18" break="no"/>cunque promisit Deus, potens est &amp; facere, id est potenter faceret quae promisit; Alias enim 
+      <lb ed="#L" n="19"/>rationabiliter haesitasset; quod &amp; patet per Augustinum de Correptione &amp; gratia 52. de 
+      Prae<lb ed="#L" n="20" break="no"/>destinatione sanctorum 3. &amp; 12. sicut allegatum est plenius 460. primi. Eodem quoque 
+      mo<lb ed="#L" n="21" break="no"/>do loquitur beatus Iudas Apostolus in haec verba; Ei autem qui potens est vos conseruare 
+      si<lb ed="#L" n="22" break="no"/>ne peccato, &amp; constituere ante conspectum gloriae suae immaculatos in exultatione gloriosa, 
+      <lb ed="#L" n="23"/>&amp;c. Vnde Augustinus de Correptione &amp; gratia 17. Apostolus, inquit, Iudas, cum dicit, Ei 
+      <lb ed="#L" n="24"/>autem qui potens est, &amp;c. Nonne apertissime ostendit donum Dei esse in bono perseuerare 
+      <lb ed="#L" n="25"/>vsque ad finem? Quid enim aliud sonat, qui potest conseruare vos sine offensione, &amp; 
+      consti<lb ed="#L" n="26" break="no"/>tuere ante conspectum gloriae suae imaculatos in laetitia, nisi perseuerantiam bonam? Item 
+      <lb ed="#L" n="27"/>quis tam insulse desipiat, vt neget perseuerantiam esse donum Dei, cum dicat sanctissimus 
+      Ie<lb ed="#L" n="28" break="no"/>remias; Timorem meum dabo in corde eorum, vt non recedant a me: Multa quoque alia 
+      <lb ed="#L" n="29"/>testimonia adducta superius hoc testantur, cum etiam secundum beatum Apostolum 
+      Iaco<lb ed="#L" n="30" break="no"/>bum, Omne datum optimum, &amp; omne donum perfectum de sursum est, descendens a Patre 
+      <lb ed="#L" n="31"/>luminum Iac. 1. &amp; quod donum melius perseuerantia viatori? Quis etiam Christianus tam  
+      <lb ed="#L" n="32"/>tepidus vt Deum non oret, vt in bono finaliter perseueret? sed ad quid perseuerantiam poscit 
+      <lb ed="#L" n="33"/>a Deo, si non donetur ab eo? &amp; quicunque eam donum Dei esse concesserit, concedet 
+      neces<lb ed="#L" n="34" break="no"/>sario consequenter, eam non esse sufficienter aut antecedenter ab homine, sed a Deo: Si enim 
+      <lb ed="#L" n="35"/>sic esset homini ex seipso non ita congrue donum Dei, sicut donum hominis diceretur, nec 
+      <lb ed="#L" n="36"/>ab eo congrue peteretur, sicut 40. primi plenius ostendebat; cum tamen nihil magis 
+      congru<lb ed="#L" n="37" break="no"/>um videatur quam ab eo hanc petere, qui hanc donat: Dicit etiam Apostolus ad Eph. 2. 
+      gra<lb ed="#L" n="38" break="no"/>tia saluati estis per fidem, &amp; hoc non ex vobis, Dei enim donum est; haec igitur est causalis 
+      <lb ed="#L" n="39"/>Apostoli, quia est donum Dei, ideo non est ex vobis. Et per istam rationem probat 
+      Augusti<lb ed="#L" n="40" break="no"/>nus de bono perseuerantiae ipsam non esse homini a seipso sed a Deo; vnde capitulo secundo 
+      <lb ed="#L" n="41"/>sic dicit, Videamus vtrum haec perseuerantia de qua dictum est, Qui perseuerauerit vsque in 
+      <lb ed="#L" n="42"/>finem hic saluus erit, donum sit Dei; quod si non sit, quomodo verum est, quod ait 
+      Aposto<lb ed="#L" n="43" break="no"/>lus, Vobis datum est pro Christo non solum vt credatis in eum, verum etiam vt patiamini 
+      <lb ed="#L" n="44"/>pro eo? horum quippe vnum pertinet ad initium, alterum ad finem; vtrumque autem est 
+      <lb ed="#L" n="45"/>Dei donum, quia vtrumque dictum est esse donatum; quid autem dici potest, cur 
+      perseueran<lb ed="#L" n="46" break="no"/>tia vsque in finem non donetur in Christo, cui donatur pati pro Christo? aut vt expressius 
+      lo<lb ed="#L" n="47" break="no"/>quar cui donatur mori pro Christo: Nam &amp; Petrus Apostolus donum Dei hoc esse 
+      demon<lb ed="#L" n="48" break="no"/>strans, Melius est, inquit, benefacientes, si velit voluntas Dei, pati, quam malefacientes; cum 
+      <lb ed="#L" n="49"/>dicit, Si velit voluntas Dei, ostendit diuinitus dari, nec omnibus Sanctis vt pro Christo 
+      pa<lb ed="#L" n="50" break="no"/>tiantur; Neque enim quos non vult voluntas Dei peruenire ad experientiam gloriamque 
+      <lb ed="#L" n="51"/>passionis, non perueniunt ad regnum Dei si perseuerauerint in Christo vsque in finem. Si quis 
+      <lb ed="#L" n="52"/>dicat istis non dari istam perseuerantiam, qui aegritudine corporis vel quocunque casu mort 
+      <lb ed="#L" n="53"/>untur in Christo, cum longe difficilior donetur illis a quibus suscipitur &amp; mors ipsa pro 
+      Chri<lb ed="#L" n="54" break="no"/>sto; sed cui nihil difficile est, vtramque donat; hanc enim, scilicet faciliorem promisit Deus 
+      di<lb ed="#L" n="55" break="no"/>cens, Timorem meum dabo in cor eorum, vt a me non recedant. Et infra eodem, Per hoc 
+      <lb ed="#L" n="56"/>quod perseuerantia poscitur a Deo, ostendit eam esse donum Dei, &amp; propter hoc quod est 
+      <lb ed="#L" n="57"/>donum Dei, non esse homini a seipso, nec in hominis potestate si ipse non dederit: Vnde 
+      <lb ed="#L" n="58"/>sic dicit; Cur perseuerantia ista poscitur a Deo, si non donatur ab eo? An &amp; itrisoria petitio 
+      <!--528.xml-->
+      <pb ed="#A" n="495"/>
+               <lb ed="#L" n="1"/>est, cum id ab eo peritur, quod scitur non ipsum dare. sed ipso non dante esse in hominis po¬ 
+      <lb ed="#L" n="2"/>testate? sicut irrisoria est etiam illa gratiarum actio, si ex hoc gratiae aguntur Deo, quod non 
+      <lb ed="#L" n="3"/>donauit ipse nec fecit; sed nolite errare, inquit Apostolus, Deus non irridetur, o homo; 
+      <lb ed="#L" n="4"/>nec verborum tuorum tantum, verumetiam cogitationum testis est Deus; si aliquid a tanto 
+      <lb ed="#L" n="5"/>diuite veraciter &amp; fideliter poscis, ab illo a quo poscis te accipere crede quod poscis; Noli 
+      <lb ed="#L" n="6"/>eum labijs honorare, &amp; super eum corde te extollere, credens a teipso tibi esse, quod ab illo 
+      <lb ed="#L" n="7"/>te fingis orate. An ab illo perseuerantia ista forte non poscitur, cum ipsa oratione quae 
+      do<lb ed="#L" n="8" break="no"/>minica nuncupatur, quando oratur a Sanctis, nihil pene aliud quam perfeuerantia posci 
+      in<lb ed="#L" n="9" break="no"/>telligatur? quod &amp; per singulas petitiones illius orationis secundum expositionem beati 
+      Mar<lb ed="#L" n="10" break="no"/>tyris Cypriani in libro suo quem de hac re condidit, cuius titulus est de Dominica oratione, 
+      <lb ed="#L" n="11"/>&amp; est inter epistolas suas quinta, &amp; secundum expositionem similiter propriam satis diffuse 
+      <lb ed="#L" n="12"/>&amp; plane quatuor capitulis sequentibus manifestat. Vnde &amp; capitulo 30. allegat Cyprianum 
+      <lb ed="#L" n="13"/>dicentem; Dicimus, Sanctificetur nomen tuum, non quod optemus Deo, vt sanctificetur 
+      <lb ed="#L" n="14"/>orationibus nostris, sed quod petamus ab eo vt sanctificetur nomen eius in nobis. Caeterum 
+      <lb ed="#L" n="15"/>a quo Deus sanctificatur, qui ipse sanctificat? sed quia ipse dixit, Sancti estote, quoniam &amp;  
+      <lb ed="#L" n="16"/>ego sanctus sum; id potius &amp; rogamus, vt qui in baptismo sanctificati sumus, in eo quod esse 
+      <lb ed="#L" n="17"/>ceperimus, perseueremus: Et infra eodem; Haec inquit, sanctificatio vt in nobis permaneat, 
+      <lb ed="#L" n="18"/>oramus, hoc diebus ac noctibus postulamus, vt sanctificatio, &amp; viuificatio, quae Dei gratia 
+      su<lb ed="#L" n="19" break="no"/>mitur, ipsius protectione seruetur; &amp; addit Augustinus, In sanctificatione igitur 
+      perseue<lb ed="#L" n="20" break="no"/>rantiam, hoc est, vt in sanctitate perseueremus, nos ab eo petere: Iste Doctor intelligit, cum 
+      <lb ed="#L" n="21"/>sanctificati dicimus, Sanctificetur nomen tuum: Quid enim est aliud petere, quod 
+      accepi<lb ed="#L" n="22" break="no"/>mus, nisi vt id quoque nobis praestetur, ne habere desinamus; &amp; ita prosequitur infra eodem 
+      <lb ed="#L" n="23"/>capitulo, &amp; in caeteris consequenter: &amp; idem prorsus ad eandem conclusionem habetur de 
+      <lb ed="#L" n="24"/>Correptione &amp; gratia 16. &amp; 17. vbi cap. 160. ita dicit; Negare quidem non possumus 
+      perse<lb ed="#L" n="25" break="no"/>uerantiam in bono perficientem vsque in finem magnum esse Dei munus, nec esse nisi ab illo 
+      <lb ed="#L" n="26"/>de quo scriptum est, Omne datum optimum, &amp; omne donum perfectum de sursum est, 
+      de<lb ed="#L" n="27" break="no"/>scendens a Patre luminum; &amp; cap. 17. probat idem multis autoritatibus sacrae Scripturae; Si 
+      <lb ed="#L" n="28"/>dixerimus, inquit, perseuerantiam sic esse hominis, vt ei non sit ex Deo, illud primitus 
+      euacu<lb ed="#L" n="29" break="no"/>atur quod ait Dominus Petro, &amp; est Luc. 22. Rogaui pro te vt non deficiat fides tua: Quid 
+      <lb ed="#L" n="30"/>eninr ei rogauit nisi perseuerantiam vsque in finem, quae profecto si ab homine homini esset, 
+      <lb ed="#L" n="31"/>a Deo poscenda non esset? Deinde cum dicat Apostolus, scilicet 2. ad Cor. vlt. Oramus 
+      <lb ed="#L" n="32"/>autem Deum ne quid faciatis mali, proculdubio perseuerantiam eis orat ad Deum: Neque 
+      e<lb ed="#L" n="33" break="no"/>nim nihil malum facit, qui bonum deserit, &amp; a quo declinare non debet, inclinatur in malum, 
+      <lb ed="#L" n="34"/>non perseuerans inbono: Illo etiam loco, vbi dicit, Gratias ago Deo, &amp;c. quoniam qui 
+      ce<lb ed="#L" n="35" break="no"/>pit in vobis opus bonum, perficiet vsque in diem lesu Christi, quid aliud eis, quam 
+      pereue<lb ed="#L" n="36" break="no"/>rantiam in bono, vsque in finem vitae Dei miseratione promittit? Item vbi dicit, Salutat vos 
+      <lb ed="#L" n="37"/>Epaphras seper certans pro vobis in orationibus, vt stetis perfecti &amp; pleni in omni voluntate 
+      <lb ed="#L" n="38"/>Dei, quid est vt stetis; nisi vt perseueretis? Quid est etiam quod in Actibus Apostolorum 
+      le<lb ed="#L" n="39" break="no"/>gimus, Crediderunt autem quotquot erant ordinati in vitam aeternam? Quis in aeternam 
+      vi<lb ed="#L" n="40" break="no"/>tam potuit ordinari, nisi perseuerantiae dono, quandoquidem qui perseuerauerit vsque in 
+      <lb ed="#L" n="41"/>finem, hic saluus erit? qua falute nisi aeterna? vbi &amp; innuit notabile argumentum quod est 
+      <lb ed="#L" n="42"/>tale; Si Deus quenquam praeordinat ad aliquem certum finem, praeordinat sibi omnia 
+      necessa<lb ed="#L" n="43" break="no"/>ria media ad hunc fine, &amp; quaecunque cuicunque praeordinat haec &amp; donat. Et de bono 
+      perseue<lb ed="#L" n="44" break="no"/>rantiae. 3. facit simile argumentum, quod scilicet quicunque vult aut poscit aliquem certum 
+      <lb ed="#L" n="45"/>finem, vult &amp; poscit quodlibet medium, sine quo non potest consequi illum finem: Vnde sic 
+      <lb ed="#L" n="46"/>dicit; Cum dicimus, Adueniat regnum tuum, Num aliud poscimus nisi vt veniat, &amp; 
+      no<lb ed="#L" n="47" break="no"/>bis quod esse venturum non dubitamus omnibus Sanctis? ergo &amp;t hic qui iam Sancti, sunt,  
+      <lb ed="#L" n="48"/>quid orant, nisi vt in illa sanctitate, quae eis data est, perseuerent?. Nec onimaliter tibi veniat 
+      <lb ed="#L" n="49"/>Dei regnum, quod non alijs, sed his qui perseuerant vsque in finem certum est esse venturam, 
+      <lb ed="#L" n="50"/>Et adhuc consequenter eodem capitulo scilicet de Correptione &amp; gratia 17. probat idem 
+      <lb ed="#L" n="51"/>per istam petitionem orationis dominicae; Sanctificetur nomen tuum, secundum 
+      expositio<lb ed="#L" n="52" break="no"/>nem propriam &amp; beati Martyris Cypriani, sicut ex capitulo 36. de bono perseuerantiae 
+      supe<lb ed="#L" n="53" break="no"/>rius allegaui. Idem infra eodemas, Si confiteatis do num Dei esse perseuerare in bono vsque 
+      <lb ed="#L" n="54"/>in finem, cur hoc donum? illiaccipiant, illi non accipiant? puto quod mecum pariter nostis; 
+      <lb ed="#L" n="55"/>aut si ad liberum arbitrium hominis, quod non secundum Dei gratiam, sed contra eam 
+      de<lb ed="#L" n="56" break="no"/>fendis, pertinere dicis, vt perseueret in bono quisquis vel non perseueret, non Deo donante 
+      <lb ed="#L" n="57"/>sic perseuerat, sed humana voluntate faciente. Idemque de Natura &amp; gratia 27. 
+      Admonen<lb ed="#L" n="58" break="no"/>tur, inquit, illi, ne dona Dei suae potestati tribuendo, seseque extollendo grauius percant,quam  
+      <!--529.xml-->
+      <pb ed="#A" n="496"/>
+               <lb ed="#L" n="1"/>si nihil operatentur boni; quibus dicitur cum tremore &amp; timore vestram ipsorum 
+      salu<lb ed="#L" n="2" break="no"/>tem operamini; Deus enim est qui operatur in nobis &amp; velle &amp; operari. Et vt in 
+      breui<lb ed="#L" n="3" break="no"/>bus longa dicam, totus liber Augustini de bono perseuerantie, &amp; fere totus liber eius de 
+      Cor<lb ed="#L" n="4" break="no"/>reptione &amp; gratia a 160. capitulo consequenter istam conclusionem, quod perseuerantia 
+      <lb ed="#L" n="5"/>non est homini a seipso, per hoc medium quod est donum Dei, se reputat demonstrare. Item 
+      <lb ed="#L" n="6"/>Hieronymus super illud Dan. 1. Dedit Deus autem Danieli gratiam &amp; misericordiam in 
+      <lb ed="#L" n="7"/>conspectu principis Eunuchorum; Ex quo, inquit, intelligimus pro necessitate rerum, si 
+      <lb ed="#L" n="8"/>quandoque sancti diliguntur ab infidelibus, Dei esse misericordiae, non bonitatis hominum 
+      <lb ed="#L" n="9"/>peruersorum: // Cui &amp; concordat Psalmus 105. dicens, Dedit eos in misericordias, in 
+      con<lb ed="#L" n="10" break="no"/>spectu hominum qui caeperant eos. Audi adhuc quaeso Augustinum de Correptione &amp; 
+      gra<lb ed="#L" n="11" break="no"/>tia, 59. tuba Sancti Spiritus intonantem; In hoc, inquit, loco miseriarum vbi tentatio est 
+      vi<lb ed="#L" n="12" break="no"/>ta humana super terram, virtus in infirmitate perficitur: quae virtus? nisi vt qui glotiatur in 
+      <lb ed="#L" n="13"/>Domino glorietur, ac per hoc de ipsa perseuerantia boni noluit Deus sanctos suos in viribusI 
+      <lb ed="#L" n="14"/>suis, sed in ipso gloriari, qui eis non solum dat adiutorium, quale primo homini dedit, sine 
+      <lb ed="#L" n="15"/>quo non possunt perseuerare si velint, sed in eis etiam operatur &amp; velle, vt quoniam non 
+      per<lb ed="#L" n="16" break="no"/>seuerabunt, nisi &amp; possint &amp; velint, perseuerandi eis &amp; possibilitas &amp; voluntas diuinae gratiae 
+      <lb ed="#L" n="17"/>argitate donatur: Tantum quippe Spiritu Sancto // accenditur voluntas eorum, vt ideo 
+      pos<lb ed="#L" n="18" break="no"/>sint, quia sic volunt, ideo sic velint, quia Deus operatur vt velint. Nam si in tanta 
+      infirmita<lb ed="#L" n="19" break="no"/>te vitae huius ipsis relinqueretur voluntas sua, vt in adiutorio Dei sine quo perseuerare non 
+      <lb ed="#L" n="20"/>possent, manerent si vellent, nec Deus in eis operaretur vt vellent, inter tot &amp; tantas 
+      tentatio<lb ed="#L" n="21" break="no"/>nes infirmitate sua succumberet voluntas, &amp; ideo perseuerare non possent, quia deficientes 
+      <lb ed="#L" n="22"/>infirmitate voluntatis nec vellent, aut non ita vellent vt possent: Subuentum est igitur 
+      infir<lb ed="#L" n="23" break="no"/>mitati voluntatis humanae, vt diuina gratia indeclinabiliter &amp; insuperabiliter ageretur; &amp; ideo 
+      <lb ed="#L" n="24"/>quamuis infirma, non tamen deficeret, nec aduersitate aliqua vinceretur. Et cap. 49. Nunc 
+      <lb ed="#L" n="25"/>autem, id est, post lapsum, quibus deest tale adiutorium iam poena peccati est; quibus autem 
+      <lb ed="#L" n="26"/>datur, secundum gratiam datur, non secundum debitum, &amp; tanto amplius datur per Iesum 
+      <lb ed="#L" n="27"/>Christum Dominum nostrum, quibus id dare Deo placuit, vt non solum assit, sine quo 
+      per<lb ed="#L" n="28" break="no"/>manere non possumus, etiam si velimus, verumetiam tantum ac tale sit vt velimus; sit quippe 
+      <lb ed="#L" n="29"/>in nobis per hanc Dei gratiam in bono recipiendo &amp; perseueranter tenendo non solum posse 
+      <lb ed="#L" n="30"/>quod volumus, verumetiam velle quod possumus, quod non fuit in homine primo; &amp; 
+      Sa<lb ed="#L" n="31" break="no"/>Primo homine, qui in eo bono quo factus est, acceperat posse non peccare, posse non mori. 
+      <lb ed="#L" n="32"/>posse ipsum bonum non deserere, datum est adiutorium perseuerantiae, non quo fieret vt 
+      per<lb ed="#L" n="33" break="no"/>seueraret, sed sine quo per liberum arbitrium perseuerare non posset: Nunc vero sanctis in 
+      <lb ed="#L" n="34"/>regnum Dei per gratiam praedestinatis, non tale adiutorium perseuerantiae datur, sed tale vt 
+      <lb ed="#L" n="35"/>eis perseuerantia ipsa donetur, non solum vt sine isto dono perseuerantes esse non possint, 
+      ve<lb ed="#L" n="36" break="no"/>rumetiam vt per hoc donum non nisi perseuerantes sint: Non enim solum dixit, Sine me 
+      <lb ed="#L" n="37"/>nihil potestis facere; verumetiam dixit, Non vos me elegistis, sed ego elegi vos, &amp; posui vos, 
+      <lb ed="#L" n="38"/>vt eatis, &amp; fructum faciatis, &amp; fructus vester maneat; Quibus verbis non solum eis iustitiam, 
+      <lb ed="#L" n="39"/>verum etiam in illa perseuerantiam se dedisse monstrauit. Item ponere hominem gratum 
+      pos<lb ed="#L" n="40" break="no"/>se perseuerate in gratia per seipsum, fuit error Pelagij: quod patet per Aug. de bono 
+      perseue<lb ed="#L" n="41" break="no"/>rantiae 3. vbi volens ostendere per petitiones orationis Dominicae, secundum expositionem 
+      B<lb ed="#L" n="42" break="no"/>Martyris Cypriani perseuerantiam in bono esse gratuitum donum Dei, &amp; non esse homini 
+      <lb ed="#L" n="43"/>a seipso, sic ait; Legite aliquanto intentius eius expositionem, B. Cypriani martyris libro que 
+      <lb ed="#L" n="44"/>de hac re condidit, cuius titulus est de dominica oratione, &amp; videte ante quot annos, contra ea 
+      <lb ed="#L" n="45"/>quae erant futura Pelagianorum venena, quale hic antidotum praeparauit. Nam ibi sunt quae 
+      <lb ed="#L" n="46"/>maxime contra eos catholica defendit Ecclesia; quorum est vnum, gratia Dei non secundum 
+      me<lb ed="#L" n="47" break="no"/>rita nostra dari, quoniam dona Dei sunt, &amp; Dei gratia etiam conferuntur vniuersa merita 
+      iusto<lb ed="#L" n="48" break="no"/>rum; Et infra eodem; horum tertium hoc loco vlt. posui, solum non tractatur nisi in supradicto 
+      <lb ed="#L" n="49"/>oloriosi martyris libro: De duobus vero caeteris tanta illic prosperitate disseritur, vt 
+      supradi<lb ed="#L" n="50" break="no"/>cti haeretici noui inimici gratiae Christi longe ante reperiantur conuicti esse quam nati. In 
+      <lb ed="#L" n="51"/>his ergo meritis sanctorum, quae nulla nisi Dei dona sunt, etiam perseuerantiam donum Dei 
+      <lb ed="#L" n="52"/>esse sic loquitur; Dicimus ergo, inquit, Sanctificetur nomen tuum, &amp;c. sicut erant superius 
+      <lb ed="#L" n="53"/>recitata; hoc idem patet per autoritates Augustini &amp; Concilij Mileuitani, &amp; Synodi 
+      Palaesti<lb ed="#L" n="54" break="no"/>nae, vt capitulum tertium huius secundi superius allegauit; Quare &amp; in sententijs Prosperi 
+      <lb ed="#L" n="55"/>proposito 131. dicit, Sicut duo sunt officia medicinae, vnum quo sanatur infirmitas, aliud 
+      <lb ed="#L" n="56"/>quo custoditur sanitas: Ita sunt duo dona gratiae, vnum quod aufert carnis cupiditatem, aliud 
+      <lb ed="#L" n="57"/>quod facit animae perseuerare virtutem; cuius simile ex libro de natura &amp; gratia 26. quartum 
+      <lb ed="#L" n="58"/>capitulum huius secundi superius recit auit. Cui etiam simile 8. super Genes. ad literam 10. 
+      <!--530.xml-->
+      <pb ed="#A" n="497"/>
+               <lb ed="#L" n="1"/>scribitur in haec verba; Neque enim tale aliquid est homo, vt factus deserente eo qui fecit eum, 
+      <lb ed="#L" n="2"/>possit aliquid agere bene tanquam ex seipso; sed tota actio sua bona est ad cum conuerti a 
+      <lb ed="#L" n="3"/>quo factus est, &amp; abeo iustus, pius, sapiens, beatusque semper fieri, &amp; non recedere sicut a 
+      <lb ed="#L" n="4"/>corporis medico, sanari, &amp; abire; quia medicus operarius corporis fuit extrinsecus seruiens 
+      <lb ed="#L" n="5"/>naturae intrinsecus operanti sub Deo, qui operatur omnem salutem gemino illo opere 
+      proui<lb ed="#L" n="6" break="no"/>dentiae, de quo supra locuti sumus; Non ergo ita se debet homo ad Deum conuertere, vt cum 
+      <lb ed="#L" n="7"/>ab eo factus fuerit iustus, abscedat; sed ita vt ab illo semper fiat; eo quippe ipso cum ab illo non  
+      <lb ed="#L" n="8"/>discedit, eius sibi praesentia iustificatur, &amp; illuminatur, &amp; beatificatur operante &amp; custodiente 
+      <lb ed="#L" n="9"/>Deo, dum obedienti, subditoque dominatur: Nec enim vt dicebamus, (sicut operatur 
+      ho<lb ed="#L" n="10" break="no"/>mo terram, vt culta atque foecunda sit, qui cum fuerit operatus abscedit, relinquens eam vel 
+      <lb ed="#L" n="11"/>aratam vel satam, vel rigatam, vel si quid aliud, manente opere quod factum est cum 
+      opera<lb ed="#L" n="12" break="no"/>tor abscessit) Ita Deus operatur hominem iustum, id est, iustificando eum, vt si abscesserit, 
+      <lb ed="#L" n="13"/>maneat in abscedente quod fecit; sed potius sicut aer praesente lumine non factus est lucidus, 
+      <lb ed="#L" n="14"/>sed fit, quia si factus esset, non vtique fieret, sed etiam absente lumine lucidus maneret; sic 
+      <lb ed="#L" n="15"/>homo Deo sibi praesente illuminatur; absente autem continuo tenebratur; a quo non 
+      loco<lb ed="#L" n="16" break="no"/>rum interuallis, sed voluntatis auersione disceditur, &amp; ab hoc loco 28 5a. propositio 
+      senten<lb ed="#L" n="17" break="no"/>tiarum Prosperi est excerpta, &amp; sequitur cap. 20. Ille vtique operetur hominem bonum &amp; 
+      cu<lb ed="#L" n="18" break="no"/>stodiat, qui incommutabiliter bonus est; semper ab illo fieri, semperque perfici debemus 
+      in<lb ed="#L" n="19" break="no"/>haerentes ei, &amp; in ea conuersione, quae ad illum est, permanentes, de quo dicitur, Mihi 
+      adhae<lb ed="#L" n="20" break="no"/>rere Deo bonum est, &amp; cui dicitur, Fortitudinem meam ad te custodiam. Item Anselmus 
+      <lb ed="#L" n="21"/>de concord. 9. dicit, Quibus autem modis post rectitudinem eandem acceptam, gratia 
+      libe<lb ed="#L" n="22" break="no"/>rum arbitrium adiuuet, vt seruet quod accepit, quamuis non omnes valeam enumerare, 
+      cmul<lb ed="#L" n="23" break="no"/>tifariam enim hoc facit,) tamen non erit inutile aliquid inde dicere. Nemo certe seruat 
+      re<lb ed="#L" n="24" break="no"/>ctitudinem hanc acceptam nisi volendo, velle autem illam aliquis nequit non 
+      haben<lb ed="#L" n="25" break="no"/>do, habere autem illam nullatenus valet nisi per gratiam; sicut ergo nullus eam accepit 
+      <lb ed="#L" n="26"/>nisi gratia praeueniente, ita nullus eam seruat, nisi eadem gratia subsequente: Nempe 
+      quam<lb ed="#L" n="27" break="no"/>uis illa seruetur per liberum arbitrium, non tamen est tantum imputandum libero arbitrio 
+      <lb ed="#L" n="28"/>quantum gratiae, cum haec rectitudo seruatur, quoniam illam liberum arbitrium non nisi per 
+      <lb ed="#L" n="29"/>gratiam praeuenientem &amp; subsequentem habet &amp; seruat; sic autem gratia subsequitur donum 
+      <lb ed="#L" n="30"/>suum, vt nunquam, siue magnum, siue paruum sit, illud dare deficiat, nisi liberum arbitrium 
+      <lb ed="#L" n="31"/>volendo aliud, rectitudinem quam accepit, deserat. Idem in meditationibus suis in quadam 
+      <lb ed="#L" n="32"/>oratione quae intitulatur pro inimicis, sic ait; Omnipotens &amp; pie Domine Iesu Christe, sicut 
+      <lb ed="#L" n="33"/>nihil boni potui incipere sine te, ita nec possum consummare vel custodire absque te. 
+      </p>
+            <div xml:id="dcn2br-e65415-Dd1e890">
+               <head xml:id="dcn2br-e65415-Hd1e892">Corollarium</head>
+               <p xml:id="dcn2br-e65415-d1e895">
+                  <lb ed="#L" n="34"/>COROLLARIVM. 
+      <lb ed="#L" n="35"/>Corollarium, Quod nullus Viator solius Liberi Arbitrij vel gratiae viribus, aut ambo¬ 
+      <lb ed="#L" n="36"/>rum coniunctim sine alio Dei auxilio speciali potest perseuerare per aliquod tempus 
+      <lb ed="#L" n="37"/>omnino. 
+      </p>
+               <p xml:id="dcn2br-e65415-d1e906">
+                  <lb ed="#L" n="38"/>VNde manifestum est, nullum hominem pro hoc statu solius liberi arbitrij viribus, vel gra¬ 
+      <lb ed="#L" n="39" break="no"/>tiae create quantelibet, sine alio Dei auxilio posse nedum perseuerate finaliter, sed nec per 
+      <lb ed="#L" n="40"/>aliquod tempus omnino, quod per praecedentia satis patet. Item si quis posset sic perseuerate 
+      <lb ed="#L" n="41"/>per vnam horam, cum in fine illius horae esset ita fortis spiritualiter sicut prius, vel forsitan 
+      po<lb ed="#L" n="42" break="no"/>tius fortior, posset adhuc aeque faciliter vel facilius perseuerare, similiter per aliam horam  
+      <lb ed="#L" n="43"/>sequentem, &amp; sic per omnes, &amp; ita finaliter contra capitulum iam praemissum. Item si quis sic 
+      <lb ed="#L" n="44"/>posset perseuerate per vnam horam, posset &amp; finaliter: Nam finis illius horae erit sibi forsitan 
+      <lb ed="#L" n="45"/>finis vitae; si enim duorum aequalium vnus multis annis victurus potest sic perseuerare per 
+      ho<lb ed="#L" n="46" break="no"/>ram, potest &amp; alter victurus tantum per horam; quare potest sic perseuerate finaliter, quod 
+      <lb ed="#L" n="47"/>praemissum cap, non permittit. Item sicut secundum cap. primi docet, omne quod est 
+      natu<lb ed="#L" n="48" break="no"/>rale, &amp; non est per se tale, sed est mutabile in non tale, si manere debeat immutatum, oportet 
+      <lb ed="#L" n="49"/>quod innitatur continue alicui per se fixo; quare &amp; continue quilibet iustus Deo; Vnde 
+      Esa<lb ed="#L" n="50" break="no"/>50. Speret in nomine Domini, &amp; innitatur super Deum suum; Vbi Glossa, Vt humana 
+      fra<lb ed="#L" n="51" break="no"/>gilitas diuina maiestate sustentetur; &amp; Canticorum vltimo, Quae est ista quae ascendit de 
+      de<lb ed="#L" n="52" break="no"/>ferto deliciis affluens, innixa super dilectum meum, seu suum? Vnde Augustinus de gratia 
+      <lb ed="#L" n="53"/>&amp; libero arbitrio 15. dicit, Ita necessarium est homini, vt gratia Dei non solum iustificetur 
+      <lb ed="#L" n="54"/>impius, sed etiam cum fuerit iustificatus ambulet cum eo gratia, &amp; incumbat super ipsam ne 
+      <!--531.xml-->
+      <pb ed="#A" n="498"/>
+                  <lb ed="#L" n="1"/>cadat: Propter hoc scriptum est in Canticis Canticorum de ipsa Ecclesia, quae est ista quae 
+      <lb ed="#L" n="2"/>ascendit dealbata incumbens super fratruelem suum; dealbata est enim quae per seipsam 
+      al<lb ed="#L" n="3" break="no"/>ba esse non posset, iam vero alba facta bene ambulat, sed si super eum a quo dealbata est, 
+      per<lb ed="#L" n="4" break="no"/>seueranter incumbat. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

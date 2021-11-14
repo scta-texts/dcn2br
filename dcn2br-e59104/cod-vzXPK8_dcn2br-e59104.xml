@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="443"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e59104"><!-- l2c1 -->
+            <head xml:id="dcn2br-e59104-Hd1e106">Caput 1</head>
+            <p xml:id="dcn2br-e59104-d1e109">
+      <!--476.xml-->
+               <pb ed="#A" n="443"/>
+               <lb ed="#L" n="1"/>AMMHOTHMOMAE 
+      <lb ed="#L" n="2"/>BRADWARDINI 
+      <lb ed="#L" n="3"/>LIBER II 
+      </p>
+            <p xml:id="dcn2br-e59104-d1e122">
+               <lb ed="#L" n="4"/>CAP. I 
+      <lb ed="#L" n="5"/>Quod liberum arbitrium sit, &amp; quid sit. 
+      </p>
+            <p xml:id="dcn2br-e59104-d1e129">
+               <lb ed="#L" n="6"/>TRactatu siquidem praemissorum 
+      huc<lb ed="#L" n="7" break="no"/>vsque continuo, progressoque in longius quam puraui, 
+      <lb ed="#L" n="8"/>timeo ne forte si continuata serie prolongetur vlterius, 
+      <lb ed="#L" n="9"/>lassitudinem inferat fatigatis, &amp; fastidium ingerat 
+      delica<lb ed="#L" n="10" break="no"/>tis. Quare sicut congruitas postulat intercisionem 
+      quan<lb ed="#L" n="11" break="no"/>dam, hic facio; sequentia breuius tractaturus. Rursum 
+      <lb ed="#L" n="12"/>igitur aliud faciendo principium, ammodo de libero 
+      ar<lb ed="#L" n="13" break="no"/>bitrio disserendum. Quaedam enim praehabita, 
+      viden<lb ed="#L" n="14" break="no"/>tur liberum arbitrium penitus tollere: quaedam autem 
+      <lb ed="#L" n="15"/>eius potestatem adimere: quadam veroceius perimere 
+      <lb ed="#L" n="16"/>libertatem: quae tamenomnia, nigiorum meorum 
+      regu<lb ed="#L" n="17" break="no"/>Qull lis innitendo; &amp; sanctorum Patrum iphraetendo vestigiis, 
+      <lb ed="#L" n="18"/>iuuante me Domino, pro suae libertatis arbitrio, spero 
+      <lb ed="#L" n="19"/>ideliter concordare. Inprimis igitur videtur mihe ipsum diberum. arbitrium statuendum: 
+      <lb ed="#L" n="20"/>Et quod liberum arbitrium sit ponendum, omnes Theologi, omnes Logici, onnes Morales 
+      <lb ed="#L" n="21"/>Philosophi, &amp; fere omnes Philosophi Naturales vnanimiter cofitestantur. Veruntamen, 
+      <lb ed="#L" n="22"/>propter aliquos, qui forte rrepidarent timore vbinon est timendum, videtur hdc mihi breura 
+      <lb ed="#L" n="23"/>ter ostendendum: Constat siquidem ex secundo; tertio, &amp; quartu primi, Deum, omnia extra 
+      <lb ed="#L" n="24"/>se seruare, facere, &amp; mouere, &amp; hoc non ex necessitatenaturae, sicut potentiae, pure naturales 
+      <lb ed="#L" n="25"/>cognitione carentes: nec ex sola cognitione sensitiua &amp; appetitunaturali ifrationali, sicut 
+      <lb ed="#L" n="26"/>caeterae potentiae naturales itrationales, sed ex rationali iudicio, seu arbitrio intellectus, sicut 
+      <lb ed="#L" n="27"/>sextum Capitulum primi docet: nec ex illo solo, sed cum libera voluntate, sicut octauum, &amp; 
+      <lb ed="#L" n="28"/>nonum capita primi probant. Quare constat Deum habere arbitrium liberum voluntatis; 
+      <lb ed="#L" n="29"/>arbitrium inquam, propter iudicium rationis seu intellectus: &amp; libenum, propter potestatem 
+      <lb ed="#L" n="30"/>spontaneam voluntatis? Nam propter hias duas operationes harum duarumt potentiarum in 
+      <lb ed="#L" n="31"/> vna mente, liberum arbitrium // hac duo nomina pro vno nomine sibi sumpsit, sicut ipsa ratio 
+      <lb ed="#L" n="32"/>nominis manifestat: &amp; quia arbitrium rationis debet praecedene voluntatem, melius, 
+      ar<lb ed="#L" n="33" break="no"/>bitrium liberum, quam liberum arbitrium vocaretur. Vnde. Augustinus Hypognostic. 31. 
+      <lb ed="#L" n="34"/>dicit, cur liberum, arbitrium dicatur esse paululum disserendumit Arbitrium, inquit, ab 
+      <lb ed="#L" n="35"/>arbitrando rationali consideratione; vel discernendo quid eligat quidue recufer, puto quod 
+      <lb ed="#L" n="36"/>nomen accepit: Idem, liberum dictum, quod in suae sit positumi potestate, habens agendi 
+      <lb ed="#L" n="37"/>quod velit possibilitatem. Cui &amp; concordat Bernardus de gratiu &amp; libero arbitrio 4. 
+      pla<lb ed="#L" n="38" break="no"/>ne: Liberum quoque arbitrium, non tantum Deo, sed &amp; ratiunali competit creaturae, 
+      <lb ed="#L" n="39"/>Nam necessitas &amp; contingentia seu libertas, circa creaturam, fiaturaliter contrarie 
+      op<lb ed="#L" n="40" break="no"/>ponuntur; &amp; vnum illorum est naturale, scilicet necessitas; ergo &amp;t reliquum: Con¬ 
+      <!--477.xml-->
+      <pb ed="#A" n="444"/>
+               <lb ed="#L" n="1"/>traria namque in tantum sibi mutuo correspondent, quod nedum si vnum est naturale 
+      reli<lb ed="#L" n="2" break="no"/>quum est naturale, verum quod si vnum est terminatum, &amp; reliquum est terminatum, &amp; hoc 
+      <lb ed="#L" n="3"/>eodem gradu: Dicit enim Philosophus I. de Coelo 44. Contrariorum si alterum 
+      determina<lb ed="#L" n="4" break="no"/>tum est, &amp; reliquum determinatum erit: Super quod dicit Auerroes in commento, hoc est 
+      <lb ed="#L" n="5"/>manifestum ex descriptione contrariorum quae sunt in fine remotionis. Nam 10. Metaph. 
+      <lb ed="#L" n="6"/>14. describuntur contraria, quod sunt, Ea quae posita sunt in eodem genere &amp; maxime 
+      diffe<lb ed="#L" n="7" break="no"/>runt; &amp; addit Auerroes, vbi supra, Et cum vtrumque eorum maxime dister, necesse est vt sint 
+      equa<lb ed="#L" n="8" break="no"/>liter in contrarietate: scilicet, vt neutrum sit fortius reliquo: &amp; manifestum est per se vt sint in 
+      eo<lb ed="#L" n="9" break="no"/>dem gradum contrarietatis, quod statim probat dicens; Et si non, non in fine distabunt. Possibile 
+      <lb ed="#L" n="10"/>enim esset addere super minorem, vt esset magis contrarium, &amp; tunc idem haberet plura 
+      con<lb ed="#L" n="11" break="no"/>traria: Et illud quod erat positum in maxima distantia, non est ita quod est contratium 
+      positi<lb ed="#L" n="12" break="no"/>onis. Ex quo patet quod nedum est contingentia &amp; libertas in creatuma, sed &amp; tantal quanta 
+      ne<lb ed="#L" n="13" break="no"/>cessitas est in ipsa. Regula quoque Apostolica docet idem: scilicet quod si vnum 
+      contrario<lb ed="#L" n="14" break="no"/>rum est, &amp; reliquum debet esse: si est inquit, Corpus animale est, &amp; spirituals. 1. ad Cor. 15. Si 
+      <lb ed="#L" n="15"/>igitur est necessitas, est &amp; libertas; &amp; si in aliqua creatura sit contingentia &amp; libertas, inter 
+      om<lb ed="#L" n="16" break="no"/>nes creatura rationalis videtur isto priuilegio difformi honoranda. Item nulli dubium, quod 
+      <lb ed="#L" n="17"/>aliquam creaturam esse liberi arbitrij est absolute possibile, quum nullam contradictionem 
+      in<lb ed="#L" n="18" break="no"/>cludat: quare &amp; possibile est Deum omnipotentem talem creare: Nam alias non esset 
+      omni<lb ed="#L" n="19" break="no"/>potens; quae creata non videretur alterius rationis a creatura rationali praesenti, quare &amp; 
+      crea<lb ed="#L" n="20" break="no"/>tura rationalis nunc praesens, cum libero arbitrio est creata. Item omnis argutia, quae molitur 
+      <lb ed="#L" n="21"/>ostendere nullam creaturam liberum arbitrium actualiter nunc habere, procedit similiter de 
+      <lb ed="#L" n="22"/>creatura possibili habere liberum arbitrium si actualiter poneretur, &amp; contra ipsam 
+      nequa<lb ed="#L" n="23" break="no"/>quam concluderet: quare nec concludit contra creaturam rationalem actualiter existentem. 
+      <lb ed="#L" n="24"/>Ex his autem euidenter apparet, quod liberum arbitrium, seu potius arbitrium liberum 
+      po<lb ed="#L" n="25" break="no"/>test definiri seu describi hoc modo, Quod ipsum est potentia Rationalis rationaliter iudi 
+      <lb ed="#L" n="26"/>candi, &amp; voluntarie exequendi. Istis autem concordat, Hugo 2. Sent. 20 &amp; 1. de Sacrament,  
+      <lb ed="#L" n="27"/>part. 5. cap. 20. &amp; 2I. &amp; Pet. 2. Sent. dist. 24. &amp; 25. Alij qudque multi, aujs locis multis 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

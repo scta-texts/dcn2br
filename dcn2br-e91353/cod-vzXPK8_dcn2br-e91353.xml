@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91353"><!-- l3c16 -->
+            <head xml:id="dcn2br-e91353-Hd1e106">Caput 16</head>
+            <p xml:id="dcn2br-e91353-d1e109">
+               <lb ed="#L" n="33"/>CAP. XVI. 
+      <lb ed="#L" n="34"/>Refellit quintam opinionem Megaricorum negantium omnem 
+      <lb ed="#L" n="35"/>potentiam ad futura. 
+      </p>
+            <p xml:id="dcn2br-e91353-d1e118">
+               <lb ed="#L" n="36"/>St &amp; quinta opinio, quae non solum negat aliquid esse futurum, sed 
+      ne<lb ed="#L" n="37" break="no"/>gat omnem potentiam ad quodcunque futurum. Dicit enim nullum 
+      <lb ed="#L" n="38"/>actiuum posse aliquid operari, nisi dum actualiter operatur. Et est 
+      <lb ed="#L" n="39"/>haec quorundam, qui vt recitatur 9. Metaphys. 5. Megarici 
+      nominan<lb ed="#L" n="40" break="no"/>tur, &amp; sicut Auerroes dicit ibi, iste sermo, scilicet ista opinio, a 
+      quibus<lb ed="#L" n="41" break="no"/>dam loquentium aestimatur. Quorum tres rationes ponit ibi Albertus. 
+      <lb ed="#L" n="42"/>Prima est, Causa dicitur actiua respectu sui effectus, &amp; causa &amp; 
+      causa<lb ed="#L" n="43" break="no"/>dl tum sunt simul; ergo causa non est actiua antequam actu agat. 
+      Secun<lb ed="#L" n="44" break="no"/>da est, si aliquod motiuum possit mouere, &amp; sit in potentia ad mouendum antequam moueat,  
+      <lb ed="#L" n="45"/>&amp; nihil venit de potentia ad actum nisi per motum &amp; mouens diuersum ab eo, illud indiget 
+      <lb ed="#L" n="46"/>alio mouente priori ad hoc quod moueat, &amp; eadem ratione illud aliud adhuc indiget vno alio 
+      <lb ed="#L" n="47"/>mouente priore, &amp; sic in infinitum, quod est impossibile. Tertia est, Nulla natura destituitur 
+      <lb ed="#L" n="48"/>propria operatione, quare forma seu potentia actiua semper habet actualem operationem, 
+      <lb ed="#L" n="49"/>ergo nunquam eam praecedit, nec praecedere eam potest. Has autem rationes soluit 
+      Alber<lb ed="#L" n="50" break="no"/>tus, sicut &amp; sunt satis solubiles a quocunque. Hanc etiam opinionem Aristoteles &amp; Auerroes 
+      <lb ed="#L" n="51"/>satis ibi redarguunt &amp; refellunt.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

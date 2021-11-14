@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 37</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 37</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e01336"><!-- l3c37 -->
+            <head xml:id="dcn2br-e01336-Hd1e106">Caput 37</head>
+            <p xml:id="dcn2br-e01336-d1e109">
+               <lb ed="#L" n="25"/>CAP. XXXVII.
+      <lb ed="#L" n="26"/>Arguit contra quartam.
+    </p>
+            <p xml:id="dcn2br-e01336-d1e116">
+               <lb ed="#L" n="27"/>QVarta autem responsio dicens incomplexam &amp; simplicem visionem 
+      <lb ed="#L" n="28"/>simplicis obiecti in verbo posse fuisse causam talis effectus praeteriti, 
+      <lb ed="#L" n="29"/>simpliciter multum dicit. Sola namque cognitio incomplexa obiecti 
+      <lb ed="#L" n="30"/>non mouet sufficienter quempiam ad agendum, puta ad loquendum, T 
+      <lb ed="#L" n="31"/>currendum, aedificandum, &amp; similia faciendum, sed vltra illam 
+      requi<lb ed="#L" n="32" break="no"/>ritur de necessitate voluntas, sicut octauum primi docebat. Item 
+      qui<lb ed="#L" n="33" break="no"/>dam effectus non voluntarij, puta, delectatio, tristitia, confidentia, 
+      <lb ed="#L" n="34"/>timor, dilatatio, constrictio, &amp; caeterae passiones huiusmodi 
+      corpora<lb ed="#L" n="35" break="no"/>les non causantur, vel non in tanto gradu, &amp; tam vehementer causantur a sola incomplexa 
+      <lb ed="#L" n="36"/>cognitione obiecti, siue aestimatione aut opinione quod illud eueniet cognoscenti, &amp; hoc de 
+      <lb ed="#L" n="37"/>propinquo. Omnes enim scimus, quod moriemur, sed non multum dolemus aut timemus, 
+      <lb ed="#L" n="38"/>quia non opinamur quod statim: haec enim singuli possumus experiri. Quare &amp; Philosophus 
+      <lb ed="#L" n="39"/>2. de Anima 152. probat phantasiam, seu imaginationem non esse opinionem, per hoc, quia 
+      <lb ed="#L" n="40"/>cum opinamur terribile aliquid nobis accidere, statim compatimur; cum autem imaginamur 
+      <lb ed="#L" n="41"/>tantum, nequaquam; sicut si consideremus terribilia in pictura. De talibus ergo effectibus 
+      <lb ed="#L" n="42"/>ista responsio non respondet. Item ponatur obiectum visum in verbo, vnus effectus 
+      contin<lb ed="#L" n="43" break="no"/>genter futurus, puta saluatio vel damnatio sic videntis, vel alterius cari sui, tunc illud 
+      obie<lb ed="#L" n="44" break="no"/>ctum potest non esse &amp; nunquam fuisse visum, quia nec ostensum in verbo; ergo quilibet eius 
+      <lb ed="#L" n="45"/>effectus praesens vel praeteritus potest pro nunc non esse praesens nec fuisse praeteritus 
+      conse<lb ed="#L" n="46" break="no"/>quenter. Vel etiam ponatur illud obiectum visum in verbo, vna reuelatio in verbo de aliquo 
+      <lb ed="#L" n="47"/>contingenter futuro; reueletur siquidem Danieli in verbo, Ieremiam videre vel vidisse in 
+      ver<lb ed="#L" n="48" break="no"/>bo A. crastina die fore, &amp;c. sicut prius.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

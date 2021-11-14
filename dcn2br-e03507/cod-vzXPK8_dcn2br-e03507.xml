@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 42</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 42</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="785"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e03507"><!-- l3c42 -->
+            <head xml:id="dcn2br-e03507-Hd1e106">Caput 42</head>
+            <p xml:id="dcn2br-e03507-d1e109">
+               <lb ed="#L" n="20"/>CAP. XLII. 
+      <lb ed="#L" n="21"/>Reducit adhuc opinionem tricesimam tertiam &amp; eius hypothesin per 
+      <lb ed="#L" n="22"/>viam reuelationis in proprio genere. &amp; primo de Domino lesu 
+      <lb ed="#L" n="23"/>Christo, &amp; recitat vnam responsionem dicentem, quod Christus 
+      <lb ed="#L" n="24"/>potuit decipi, &amp; refellit. 
+      </p>
+            <p xml:id="dcn2br-e03507-d1e122">
+               <lb ed="#L" n="25"/>Etecta siquidem infirmitate principalis hypothesis per viam 
+      reuelati<lb ed="#L" n="26" break="no"/>onis in verbo, restat eam detegere per viam reuelationis in proprio 
+      <lb ed="#L" n="27"/>genere consequenter; &amp; primo in Domino Iesu Christo, deinde in 
+      pu<lb ed="#L" n="28" break="no"/>ris creaturis, Angelis &amp; hominibus seruis suis. Ponatur igitur fuisse 
+      di<lb ed="#L" n="29" break="no"/>stincte reuelatum Christo in proprio genere, A. futurum, puta saluatio 
+      <lb ed="#L" n="30"/>Pauli adhuc superstitis viatoris, &amp; quod ipse eam similiter credidit, &amp;  
+      <lb ed="#L" n="31"/>secundum hypothesin, possibile est Paulum non saluari; ergo &amp;st 
+      possi<lb ed="#L" n="32" break="no"/>di bile est hoc non fuisse reuelatum Christo, nec ipsum hoc credidisses 
+      <lb ed="#L" n="33"/>nam necessario sequitur, Paulus non saluabitur, ergo hoc nunquam fuit reuelatum nec 
+      ere<lb ed="#L" n="34" break="no"/>ditum a Christo; &amp; antecedens est possibile secundum hypothesin, ergo &amp; consequens, quod 
+      <lb ed="#L" n="35"/>hypothesis tamen negat. Vel arguature contra, Necesse est hoc fuisse reuelatum Christo, 
+      cre<lb ed="#L" n="36" break="no"/>ditumque ab eo; ergo necesse est Paulum saluari: nam necessario sequitur, hoc fuit reuelatum, 
+      <lb ed="#L" n="37"/>Christo &amp; creditum ab eo, ergo erit; si non sit, nec fuit; &amp; antecedens est necessarium, ergo &amp; 
+      <lb ed="#L" n="38"/>consequens. Hic autem mulipliciter respondetur. Nam quidam dicunt quodlluecesse est 
+      Chri<lb ed="#L" n="39" break="no"/>stum talem propositionem in proprio genere recepisse, Paulus saluabatur; sed non est necesse 
+      <lb ed="#L" n="40"/>ipsam fuisse reuelationem, seu reuelatam, quia non est necesse ipsam fuisse veram, imo possit 
+      <lb ed="#L" n="41"/>bile est ipsam // fuisse falsam. Et si arguatur vlterius, &amp; necesse est Christum hoc 
+      cre<lb ed="#L" n="42" break="no"/>didisse, ergo possibile est Christum credidisse falsum &amp; fuisse deceptum; Certe &amp; hoc 
+      con<lb ed="#L" n="43" break="no"/>sequenter respondendo concedere non verentur. Mirum est tamen qua fronte aliquis 
+      Chri<lb ed="#L" n="44" break="no"/>stianus hoc praesumet concedere de Deo, &amp; Domino suo Christo, cum nullus Iudaeus, 
+      Aga<lb ed="#L" n="45" break="no"/>renus, vel Gentilis quiscunque tantam irreuerentiam seu blasphemiam potius audeat facere Deo 
+      <lb ed="#L" n="46"/>suo. Quis enim vellet tale Deum habere, quem quilibet stultus &amp; miser facillime posset decipere 
+      <lb ed="#L" n="47"/>tota die? Sietiam Christus posset decipi &amp; errare, esset possibile quod summa veritas esset 
+      <!--819.xml-->
+      <pb ed="#A" n="786"/>
+               <lb ed="#L" n="1"/>falsa, &amp; summa sapientia falleretur. Et si quis adhuc responders praesumat, quod in 
+      Chri<lb ed="#L" n="2" break="no"/>sto sunt duae naturae, diuina scilicet &amp; humana, &amp; quod secundum diuinam non potest. 
+      <lb ed="#L" n="3"/>decipi vel errare, sed secundum humanam; ponatur ergo eum sic decipi, false credendo A. 
+      <lb ed="#L" n="4"/>esse B. tunc Christus credit in particulari &amp; in actu A. esse B. &amp; firmiter credit &amp; scit verum 
+      <lb ed="#L" n="5"/>A. esse B. quia Christus est Deus, quia omnia vera vere scit in particulari &amp; in actu, vt 
+      sex<lb ed="#L" n="6" break="no"/>tum &amp; septimum primi docent; ergo Christus in particulari &amp; in actu sub proprijssima 
+      for<lb ed="#L" n="7" break="no"/>ma sua ambo contradictoria simul credit, quod est impossibile manifestum: Quomodo 
+      nam<lb ed="#L" n="8" break="no"/>que potest quis certissime credere in particulari &amp; in actu sub proprijssima forma sua aliquid 
+      <lb ed="#L" n="9"/>esse verum, quod eisdem modis scit certissime esse falsum? Quare &amp; Philosophus 2. Prior. 
+      <lb ed="#L" n="10"/>cillo capitulo, Accidit autem quandoque) determinans de falso opinionis, de possibili &amp; 
+      im<lb ed="#L" n="11" break="no"/>possibili, ostendit quod aliquis potest opinari simul opposita, vnum scilicet in vniuersali, &amp; 
+      <lb ed="#L" n="12"/>aliud in particulari; vnum in actu, aliud non in actu; vnum in propria forma, aliud vero 
+      ex<lb ed="#L" n="13" break="no"/>tra; In particulari autem &amp; in actu, &amp; in forma propria nullo modo. Item si sic posset quis, B 
+      <lb ed="#L" n="14"/>vt Christus scire aliquam consequentiam esse bonam, &amp; credere antecedens in particulari, &amp;  
+      <lb ed="#L" n="15"/>in actu sub forma propria sua, &amp; non tamen credere consequens, imo scire certissime modis 
+      <lb ed="#L" n="16"/>dictis consequens esse falsum, quod logicam totam infatuat &amp; infirmat: &amp; est contra 
+      Philo<lb ed="#L" n="17" break="no"/>sophum vbi prius. Ponatur namque Christum secundum intellectum eius humanum falso 
+      <lb ed="#L" n="18"/>credere A. esse verum, &amp; per sextum primi ipse credit &amp; scit certissime A. esse non verum, &amp; 
+      <lb ed="#L" n="19"/>scit istam consequentiam esse bonam, A. est verum, &amp; A. est non verum; ergo non verum 
+      <lb ed="#L" n="20"/>est verum, vel ergo idem est verum &amp; non verum, &amp; credit totum antecedens quia vtramque 
+      <lb ed="#L" n="21"/>partem eius, &amp; non ctedit istud consequens vllo modo; imo secundum vtramque eius 
+      natu<lb ed="#L" n="22" break="no"/>ram scit certissime illud consequens esse falsum. Imo &amp; necessario sequitur Christum 
+      secun<lb ed="#L" n="23" break="no"/>dum eandem naturam, humanam videlicet, posse credere simul contra dictoria, &amp; 
+      conse<lb ed="#L" n="24" break="no"/>quentiam, ac antecedens cum opposito consequentis. Nam si secundum animam credit 
+      fal<lb ed="#L" n="25" break="no"/>sum in proprio genere, simul secundum eandem credit seu scit verum oppositum in vebo, 
+      ma<lb ed="#L" n="26" break="no"/>xime de re ipsum specialiter concernente; vel saltem de omnipotentia Dei hoc potest, sicut 
+      <lb ed="#L" n="27"/>praehabita quadragesimo huius docent. Hoc etiam nedum sequitur esse verum in Christo 
+      <lb ed="#L" n="28"/>Deo, &amp; homine, verum etiam in simplici homine, credendo videlicet in proprio genere 
+      v<lb ed="#L" n="29" break="no"/>num falsum, &amp; videndo in verbo verum oppositum sicut Christus. Secundum istud 
+      simili<lb ed="#L" n="30" break="no"/>ter posset homo per demonstrationem mathematicam scire vnum, &amp; per apparentiam 
+      sensi<lb ed="#L" n="31" break="no"/>tiuam, seu per aliquod argumentum probabile credere simul oppositum, puta solem vel 
+      stel<lb ed="#L" n="32" break="no"/>lam esse maiorem terra atque minorem. Item si Christus potuit decipi &amp; errare, potuit false 
+      <lb ed="#L" n="33"/>&amp; erronee praedicasse, &amp; similiter docuisse, fuisse pseudo. Propheta, &amp; pseudo. Christus, etiam  
+      <lb ed="#L" n="34"/>Antichristus, quod qui concesserit, totam fidem Catholicam haesitatione ac suspicione nimia 
+      <lb ed="#L" n="35"/>fermentabit, qui &amp; pro pseudo. Christiano merito conuincetur, &amp; pro discipulo Antichristi. 
+      <lb ed="#L" n="36"/>Item si hoc esset possibile, esset possibile consequenter Christum instituisse fallaciter omnia 
+      <lb ed="#L" n="37"/>Ecclesiastica Sacramenta, ipsaque semper fuisse delusoria, nec efficaciam habuisse; quare &amp; 
+      <lb ed="#L" n="38"/>homines per illa nunquam fuisse saluatos, sed semper damnatos, sicut tricesimum quintum 
+      <lb ed="#L" n="39"/>huius plenius arguebat. Item qui hoc praesumunt concedere, velant cum Iudaeis faciem  
+      <lb ed="#L" n="40"/>Christi, saltem interiorem scilicet intellectum, velo ignorantiae, &amp; percutiunt caput eius, 
+      cun<lb ed="#L" n="41" break="no"/>dem scilicet intellectum, seu etiam verbum Dei, naturam eius diuinam lingua blasphemiae 
+      <lb ed="#L" n="42"/>dicentes ipsum posse decipi &amp; errare, &amp; per consequens, approbantes illud experimentum 
+      <lb ed="#L" n="43"/>illusorium Iudaeorum, Christum iam velatum percutientium, atque dicentium, 
+      Propheti<lb ed="#L" n="44" break="no"/>za nobis Christe, quis est qui te percussit? Nam si potuit credere falsum aliquod esse verum, 
+      <lb ed="#L" n="45"/>cur non potuit credidisse ipsum qui percussit nullatenus percussisse, &amp; etiam e contra, oculis 
+      <lb ed="#L" n="46"/>eius iam perfecte velatis? Quod si falso, erronee diuinando, dixisset, Iste me percussit, &amp; iste 
+      <lb ed="#L" n="47"/>non percussit; quanto Iudaeorum ridiculo merito patuisset? Quam certam experientiam 
+      ha<lb ed="#L" n="48" break="no"/>buissent ipsum non fuisse Messiam? Item ponatur Christum iam velatum atque percussum 
+      <lb ed="#L" n="49"/>erronee credidisse, quod A. eum percussit; vel potuit Christus hoc assertiue dixisse, vel non: E 
+      <lb ed="#L" n="50"/>si potuit, ponatur, vel ergo mentiebatur proprie, eundo scilicet contra mentem sic 
+      dicen<lb ed="#L" n="51" break="no"/>do, vel non: Si mentiebatur proprie, hoc est contra prius ostensa, tricesimo secundi, &amp; 
+      <lb ed="#L" n="52"/>etiam tantum dixit conformiter menti suae; Si non; contra asseruit falsum scienter; vt 
+      <lb ed="#L" n="53"/>patet per sextum primi; Si non potuit hoc asserendo dixisse, tunc non potuit asserere 
+      <lb ed="#L" n="54"/>quod credidit esse verum, etiam si iuxta illam credulitatem illud asserere voluisset: etiam,  
+      <lb ed="#L" n="55"/>si non potuit illud asserere, potuit asserere eius oppositum, quod si fecisset, asseruisset 
+      con<lb ed="#L" n="56" break="no"/>tra mentem, &amp; mentitus fuisset. Item secundum Philosophum 1. &amp; 7. Met. actus &amp; 
+      operatio<lb ed="#L" n="57" break="no"/>nes sunt singularium, &amp; suppositorum: Christus autem fuit suppositatus tantum 
+      suppositati<lb ed="#L" n="58" break="no"/>one diuina, scilicet verbi Dei, sicut ostendit Petrus 3. sent. dist. 5. per testimonia satis firma. Si ergo 
+      <!--820.xml-->
+      <pb ed="#A" n="787"/>
+               <lb ed="#L" n="1"/>Christus secundum naturam suam humanam errafset, totum illud suppositum Filius Dei 
+      <lb ed="#L" n="2"/>Deus errasset, sicque summa lux obtenebraretur, summa sapientia infatuaretur, &amp; summa 
+      <lb ed="#L" n="3"/>veritas falsaretur; &amp; haec est virtualiter ratio Damasceni per quam ostendit in anima Christi 
+      <lb ed="#L" n="4"/>non fuisse consilium, electionem, neque ignorantiam alicuius, sicut tricesimum secundi 
+      ple<lb ed="#L" n="5" break="no"/>nius allegauit. Anselmus 2. Cur Deus homo 13. ostendit, Christum secundum naturam 
+      su<lb ed="#L" n="6" break="no"/>am humanam non habere ignorantiam alicuius multiplici ratione, tum quia ignorantia ad 
+      <lb ed="#L" n="7"/>nihil est vtilis, tum quia non posset tanta opera facere sine immensa sapientia, tum quia 
+      ho<lb ed="#L" n="8" break="no"/>mines non crederent sibi, si scirent eum nescium, tum quia omne bonum amat, quare &amp; 
+      cog<lb ed="#L" n="9" break="no"/>noscit, &amp; quia bonum nemo perfecte nouerit, nisi qui illud a malo scit discernere, &amp; hanc 
+      <lb ed="#L" n="10"/>discretionem nullus scit facere qui malum ignorat, sicut omne bonum perfecte sciet, ita 
+      nul<lb ed="#L" n="11" break="no"/>lum malum ignorabit. Si igitur secundum istos, ignorantia non fuit possibilis in Christo 
+      se<lb ed="#L" n="12" break="no"/>cundum naturam suam humanam, multo magis neque deceptio, neque fallacia, neque error 
+      <lb ed="#L" n="13"/>Petrus etiam 3. sentent. dist. 13. &amp; 14. ostendit Christum secundum animam cuncta scire, 
+      <lb ed="#L" n="14"/>ad quod similiter ostendendum dicit Fulgentium in quodam sermone plurima induxisse. Isti 
+      <lb ed="#L" n="15"/>ergo qui se velut aliquid contrarium fidei Christianae omnem ignorantiam circa animam 
+      <lb ed="#L" n="16"/>Christi vitant, nonne multo magis omnem fallaciam &amp; errorem tanquam venenum 
+      morti<lb ed="#L" n="17" break="no"/>ferum circa animam eius deuitarent? Inspiciatur siquidem ratio quam adducunt. Nihil scit 
+      <lb ed="#L" n="18"/>aliquis quod anima eius ignoret; sed Christus secundum omnem opinionem omnia scit; ergo 
+      <lb ed="#L" n="19"/>anima eius omnia scit. Si ergo Christus, quia Deus, de necessitate scit omnia, quomodo 
+      ani<lb ed="#L" n="20" break="no"/>ma eius nedum scitum aliquod ignorabit, verum etiam eius oppositum aestimabit? De 
+      Chri<lb ed="#L" n="21" break="no"/>sto etiam dicit Apostolus, In quo sunt omnes thesauri sapientiae &amp; scientiae absconditi, ad 
+      <lb ed="#L" n="22"/>Col. 2. sed stultus thesaurarius esset ille, qui thesaurum sapientiae &amp; scientiae in insipientiam 
+      <lb ed="#L" n="23"/>&amp; fallaciam permutaret. Item Augustinus super Psal. 2I. tractatu secundo tractans illud 
+      ver<lb ed="#L" n="24" break="no"/>bum Christi Matt. 26. Vbicunque praedicatum fuerit hoc Euangelium in toto mundo, dicetur 
+      <lb ed="#L" n="25"/>&amp;c. Quare autem calumniatoribus, scilicet Donatistis, accommodatis? Aut mentitus est 
+      <lb ed="#L" n="26"/>Dominus, aut fefellit illum; eligant, quid dicant; aut mentitam dicant veritatem, aut 
+      decep<lb ed="#L" n="27" break="no"/>tam dicant veritatem. Item si Christus possit nunc decipi, &amp; semper fuisse deceptus; potest 
+      <lb ed="#L" n="28"/>nunc esse miser &amp; semper fuisse miser; quare nec nunc, nec vnquam prius beatus, sicut erat 
+      <lb ed="#L" n="29"/>ostensum 34. huius, quod nullus praesumet concedere nisi miser. Item si Christus possit 
+      de<lb ed="#L" n="30" break="no"/>cipi, non esset de beatitudine sua certus, quare neque plene beatus, sicut idem 34. docet. Item 
+      <lb ed="#L" n="31"/>si Christus potest fuisse deceptus in proprio genere, credendo Paulum saluandum qui non  
+      <lb ed="#L" n="32"/>fuit saluandus, potuit similiter secundum animam in proprio genere illud velle &amp; orare 
+      Pa<lb ed="#L" n="33" break="no"/>trem pro eius salute; potuit ergo secundum voluntatem suam humanam velle interius, &amp; 
+      <lb ed="#L" n="34"/>operati exterius contrarie suae voluntati diuinae; &amp; hoc scienter, quia iste homo Christus 
+      <lb ed="#L" n="35"/>Deus noster sciuit voluntatem diuinam hoc nolle, &amp; oppositum eius velle: Potuit ergo 
+      Chri<lb ed="#L" n="36" break="no"/>stus peccasse, quia contra mandatum Patris scienter fecisse. Nam qui misit me Pater, inquit 
+      <lb ed="#L" n="37"/>Christus, ipse mihi mandatum dedit, quid dicam &amp; quid loquat, Ioh. 12. quod praeostensa 
+      <lb ed="#L" n="38"/>tricesimo secundi nullatenus patiuntur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 36</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 36</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="767"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e01190"><!-- l3c36 -->
+            <head xml:id="dcn2br-e01190-Hd1e106">Caput 36</head>
+            <p xml:id="dcn2br-e01190-d1e109">
+               <lb ed="#L" n="18"/>CAP. XXXVI. 
+      <lb ed="#L" n="19"/>Arguit contra tertiam.
+    </p>
+            <p xml:id="dcn2br-e01190-d1e116">
+               <lb ed="#L" n="20"/>TErtia vero responsio ponens causam effectus praeteriti visionis in verbo 
+      <lb ed="#L" n="21"/>praeteritae posse non fuisse visionem A. futuri ostensi, sed eius oppositi, 
+      <lb ed="#L" n="22"/>multipliciter deficit &amp; aberrat. Primo, quia cum Deus voluntarie 
+      tan<lb ed="#L" n="23" break="no"/>tum reuelet, licet possit esse quod non reuelauit, A. quod prius 
+      reuela<lb ed="#L" n="24" break="no"/>uit, &amp; si illud ponatur in esse, non oportet quod reuelauit eius 
+      opposi<lb ed="#L" n="25" break="no"/>tum; imo bene stat cum hoc quod nihil penitus reuelauit; ponatur er 
+      <lb ed="#L" n="26"/>go hoc cum alio, &amp; responsio non respondet. Secundo, quia habet 
+      <lb ed="#L" n="27"/>dicere consequenter, quod sicut viso aliquo in verbo, possibile est il 
+      <lb ed="#L" n="28"/>Iud nunquam fuisse visum, sed eius oppositum, ita voluto aliquo in verbo, possibile est illud 
+      <lb ed="#L" n="29"/>nunquam fuisse volutum, sed eius oppositum; quare &amp; per talem volutionem facto aliquo 
+      <lb ed="#L" n="30"/>intra videntem &amp; volentem vel extra, possibile est id nunquam fuisse factum, sed eius 
+      oppo<lb ed="#L" n="31" break="no"/>situm, sicut 33. huius probat. Si autem proteruiat non esse simile de visione &amp; volutione, 
+      <lb ed="#L" n="32"/>quia prius visum potest nunquam fuisse visum, &amp; eius oppositum, quod nunquam fuit visum 
+      <lb ed="#L" n="33"/>potest fuisse visum; de voluto autem non sic, quia quod semel fuit volutum, necesse est 
+      sem<lb ed="#L" n="34" break="no"/>per fuisse volutum, &amp; non volutum pari modo non volutum per 33. huius tertij conuincetur. 
+      <lb ed="#L" n="35"/>Dato etiam hoc quod dicit, fiat reuelatio talis Paulo cum mandato volendi &amp; agendi 
+      confor<lb ed="#L" n="36" break="no"/>miter, qui &amp; in omnibus pareat, tunc necesse est Paulum nunc sic velle, vel in praeterito 
+      volu<lb ed="#L" n="37" break="no"/>isse; ergo necesse est eum nunc sic videre, vel in praeterito sic vidisse: haec enim sua volutio ab 
+      <lb ed="#L" n="38"/>hac sua visione nunc causatur, vel in praeterito causabatur. Praeterea vel Paulus per eundem 
+      <lb ed="#L" n="39"/>actum, quo vidit distincte A. fore, potest vidisse distincte oppositum, vel per alium: si per 
+      <lb ed="#L" n="40"/>eundem, ergo simili ratione per eundem actum, per quem voluit distincte A. fore seu quodli 
+      <lb ed="#L" n="41"/>bet aliud, potest voluisse distincte oppositum, quare &amp; non fecisse quae fecit: si per alium, ergo 
+      <lb ed="#L" n="42"/>vnum alium actum, qui nunquam fuit, possibile est fuisse, &amp; qui fuit, non fuisse, contra 
+      hypo<lb ed="#L" n="43" break="no"/>thesin principalem. Item visio oppositi causasset effectum oppositum, &amp; non illum. Si enim 
+      <lb ed="#L" n="44"/>
+               <name xml:id="dcn2br-e01190-Nd1e172">Gabriel</name> vidisset in verbo Filium Dei non fuisse incarnandum de Virgine, nunquam illa visio 
+      <lb ed="#L" n="45"/>causasset in eo voluntatem adeundi Virginem benedictam, &amp; nuntiasse quae fecit, sed // potius 
+      <lb ed="#L" n="46"/>nullam, vel oppositam voluntatem. Christus etiam si non vidisset in verbo passionem suam  
+      <lb ed="#L" n="47"/>futuram, sed eius oppositum, non habuisset causam tantae tristitiae sanguineique sudoris. 
+      <lb ed="#L" n="48"/>Paulus similiter si vidisset in verbo se saluandum: magnam delectationem creatam in proprio 
+      <lb ed="#L" n="49"/>genere habuisset; si vero vidisset oppositum, magnam tristitiam habuisset. Item haec 
+      respon<lb ed="#L" n="50" break="no"/>sio difficultatem non vitat. Detur enim reuelatio talis Paulo cum mandato volendi 
+      concor<lb ed="#L" n="51" break="no"/>diter &amp; agendi, qui plene obediat, &amp; mortuus sic saluetur; &amp; secundum istam responsionem 
+      <lb ed="#L" n="52"/>nunc est possibile, quod nunquam vidit illam visionem seu iussionem in verbo, sed opposi¬ 
+      <!--801.xml-->
+      <pb ed="#A" n="768"/>
+               <lb ed="#L" n="1"/>tum vtriusque; &amp; nunc necesse est ipsum sic fuisse operatum exterius; quare nunc est 
+      possi<lb ed="#L" n="2" break="no"/>bile ipsum fecisse contra reuelationem &amp; visionem in verbo, peccasse mortaliter, fuisseque 
+      <lb ed="#L" n="3"/>miserum &amp; damnatum. De Gabriele similiter medio tempore inter annuntiationem &amp; 
+      incar<lb ed="#L" n="4" break="no"/>nationem fuit possibile quod mentiebatur: nam quando dixit Virgini gratiosae, Ecce 
+      conci<lb ed="#L" n="5" break="no"/>pies, possibile fuit quod pro tunc non vidisset illud in verbo, sed oppositum eius plane; quare 
+      <lb ed="#L" n="6"/>fuit similiter possibile, quod ille beatissimus Archangelus Domini fuit miserrimus Angelus 
+      <lb ed="#L" n="7"/>Satanae, quia mentiens contra tantam &amp; tam lucidam veritatem, mortaliterque peccauit. 
+      Ar<lb ed="#L" n="8" break="no"/>firmet hoc qui audet: ego autem propter reuerentiam veritatis haec omnia ostendentis, 
+      prop<lb ed="#L" n="9" break="no"/>ter reuerentiam mittentis &amp; illius ad quam fuit missus, ac propter reuerentiam missi &amp; ipsius 
+      <lb ed="#L" n="10"/>propter quem fuit missus, non audeo talia affirmare. Ex hoc autem sequitur, quod beati 
+      fina<lb ed="#L" n="11" break="no"/>liter confirmati possunt peccare, quare nec sunt finaliter confirmati, contra decimum 
+      quin<lb ed="#L" n="12" break="no"/>tum secundi. Et ex isto infertur vlterius, quod beati non sunt, nec esse possunt de beatitudine 
+      <lb ed="#L" n="13"/>sua certi. Quomodo namque creatura peccabilis in statu peccabili, quia non confirmata 
+      fina<lb ed="#L" n="14" break="no"/>liter, de nunquam peccando, &amp; de beatitudine perpetua erit certa? Nec alium statum 
+      firmi<lb ed="#L" n="15" break="no"/>orem aut certiorem potest Deus beatis conferre. Si etiam Deus posset certificare beatum de 
+      <lb ed="#L" n="16"/>beatitudine sua futura, hoc maxime esset per aliquam reuelationem in verbo; sed nulla talis 
+      <lb ed="#L" n="17"/>certificat, quia quaecunque talis, etsi nunc sit vnius oppositorum, potest nunc &amp; pro nunc 
+      <lb ed="#L" n="18"/>non esse illius, sed eius oppositi; imo quod magis videtur erroneum, nec Deus potest 
+      certifi<lb ed="#L" n="19" break="no"/>care beatum de beatitudine sua praeterita nec praesenti. In hoc enim instanti praesenti 
+      pona<lb ed="#L" n="20" break="no"/>tur, in quo beatus Cabriel nuntiat Virgini gratiosae quod est filium conceptura, possibile est 
+      <lb ed="#L" n="21"/>eum nunc mentiendo peccare, in praeteritoque peccasse a tempore quo voluit hoc scienter: 
+      <lb ed="#L" n="22"/>possibile enim est, quod nunc videat, &amp; continue prius vidit oppositum huius in verbo; 
+      nul<lb ed="#L" n="23" break="no"/>lus ergo // beatus est certus, nec esse potest de beatitudine sua futura, praeterita, vel praesenti, 
+      <lb ed="#L" n="24"/>contra prius ostensa tricesimo quarto huius. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

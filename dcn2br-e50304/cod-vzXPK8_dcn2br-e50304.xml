@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 42</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 42</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="374"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e50304"><!-- l1c42 -->
+            <head xml:id="dcn2br-e50304-Hd1e106">Caput 42</head>
+            <p xml:id="dcn2br-e50304-d1e109">
+               <lb ed="#L" n="14"/>CAP. XLII. 
+      <lb ed="#L" n="15"/>Quod Deus prius naturaliter efficit quemlibet actum bo¬ 
+      <lb ed="#L" n="16"/>num voluntatis creatae, quam gratia. 
+      </p>
+            <p xml:id="dcn2br-e50304-d1e118">
+               <lb ed="#L" n="17"/>POstquam autem Deo, &amp; Dei gratia deducente, ostensum est proximo, 
+      <lb ed="#L" n="18"/>Deum &amp; gratiam Dei creatam efficere proprie quemlibet actum 
+      bo<lb ed="#L" n="19" break="no"/>num voluntatis creatae, &amp; vtrumque prius natura voluntate creata; 
+      vl<lb ed="#L" n="20" break="no"/>terius ostendendum, quod Deus &amp; Spiritus Sanctus Dei prius 
+      natu<lb ed="#L" n="21" break="no"/>raliter efficit quemlibet talem actum, quam gratia eius dicta. Quis hoc 
+      <lb ed="#L" n="22"/>tanquam principium notorium non admittit? quis non annuit? quis 
+      <lb ed="#L" n="23"/>dissentit? Verum propter aliquos tardiores, ecce ostensio huius breuis: 
+      <lb ed="#L" n="24"/>Cum siquidem Deus &amp; gratia efficiunt actum bonum voluntatis 
+      crea<lb ed="#L" n="25" break="no"/>tae; aut ergo ambo aeque primo secundum naturam, vel Deus prius naturaliter gratia, vel e 
+      <lb ed="#L" n="26"/>contra; non ambo aeque primo, quia tunc illa duo agentia, &amp; mouentia reducerentur ad  
+      <lb ed="#L" n="27"/>aliquod tertium prius vtroque illorum virtute cuius ambo agerent, &amp; mouerent, sicut 
+      Philo<lb ed="#L" n="28" break="no"/>sophia plene testatur, sicut ex secunda Suppositione, ex duodecimo &amp; decimo tertio huius 
+      <lb ed="#L" n="29"/>potest ostendi. Nec Deus posterior naturaliter gratia, sicut in ostensione corollarij proximi 
+      <lb ed="#L" n="30"/>breuiter monstrabatur. Quis etiam nesciat quod sit dignius &amp; perfectius esse causam priorem 
+      <lb ed="#L" n="31"/>&amp; principalem naturaliter, quam posteriorem &amp; instrumentalem atque subseruientem? Deus 
+      <lb ed="#L" n="32"/>ergo est talis, sicut Suppositio prima monstrat. Quis insuper nesciat Deum esse 
+      vniuersali<lb ed="#L" n="33" break="no"/>ter omnium primam causam, &amp; primum motorem? Item verum est gratiam agere, &amp; non  
+      <lb ed="#L" n="34"/>est primum verum simpliciter, sicut ex vndecimo, duodecimo &amp; decimo tertio huius patet, 
+      <lb ed="#L" n="35"/>sed causatum ab eo; Deus ergo est causa veritatis istius, &amp; efficit istam veram; Deus ergo 
+      <lb ed="#L" n="36"/>prius naturaliter agit quod gratia agit, quam ipsa: Videtur ergo imaginandum hoc modo in 
+      <lb ed="#L" n="37"/>productione boni actus humani; quod sicut trigesimum nonum tangit Deus gratissime &amp; 
+      li<lb ed="#L" n="38" break="no"/>beralissime nullo modo praeuentus, nec ab alio excitatus, primo vult homini vitam aeternam, 
+      <lb ed="#L" n="39"/>&amp; quia non vult eam adulto sine proprijs meritis, gratissime &amp; liberalissime vult ea merita, &amp;  
+      <lb ed="#L" n="40"/>etiam gratiam per quam mereatur, quam &amp; gratissime &amp; liberalissime ei infundit, ipsam 
+      cre<lb ed="#L" n="41" break="no"/>ans, &amp; mouens, &amp; per ipsam hominem ad bene agendum, ita quod Deus in ista motione est 
+      <lb ed="#L" n="42"/>simpliciter primum mouens &amp; non motum; gratia secundum mouens &amp; motum voluntas 
+      <lb ed="#L" n="43"/>creata, seu creatura rationalis tertium mouens &amp; motum; actus vero bonus productus 
+      mo<lb ed="#L" n="44" break="no"/>tum &amp; non mouens. Sicut etiam peccatum separat nos a Deo, sic charitas &amp; gratia 
+      con<lb ed="#L" n="45" break="no"/>iungit nos cum eo, &amp; est quodammodo vnio Dei cum homine, hominisque cum Deo, per 
+      <lb ed="#L" n="46"/>quam &amp; sanat infirmum, erigit elisum, excitat otiosum, &amp; dirigit operantem. Ostensum est 
+      <lb ed="#L" n="47"/>autem capitulo proximo, quod gratia praeuenit hominem, &amp; prius naturaliter efficit actus 
+      <lb ed="#L" n="48"/>bonos; sed irrationabile videretur, quod res inanimata, &amp; irrationalis scilicet gratia, seu 
+      <lb ed="#L" n="49"/>charitas regularet rem animatam, &amp; rationalem maxime in actibus suis liberis, &amp; 
+      rationabi<lb ed="#L" n="50" break="no"/>libus, nisi ipsa ab aliqua re rationali principaliter regularetur, &amp; superius regeretur: 
+      Re<lb ed="#L" n="51" break="no"/>gulatur autem gratia seu charitas in agendo a Spiritu Sancto tanquam a principaliori &amp; 
+      supe<lb ed="#L" n="52" break="no"/>riori agente. Vnde Apostolus, Charitas, inquit, Dei diffusa est incordibus nostris per 
+      Spi<lb ed="#L" n="53" break="no"/>ritum Sanctum, ad Rom. 5. Et iterum, Dominus dirigat corda, vestra in charitate Dei 
+      <!--408.xml-->
+      <pb ed="#A" n="375"/>
+               <lb ed="#L" n="1"/>2. ad Thest 3. Et rursum, Nemo potest dicere Dominus Iesus, nisi in Spiritu sancto: Diuisio 
+      <lb ed="#L" n="2"/>nes gratiarum sunt, idem autem spititus; &amp; diuisiones ministrationum sunt, idem autem 
+      Do<lb ed="#L" n="3" break="no"/>minus; &amp; diuisiones operationut sunt, idem autem Deus qui operatur omnia in omnibus 
+      <lb ed="#L" n="4"/>I. ad Cor. 12. Et adhuc, Quicunqut inquit, spiritu Dei aguntur, hi sunt filij Dei ad Rom. 8. 
+      <lb ed="#L" n="5"/>Et infra, Accepistis spiritum adoptionis filiorum in quo clamamus, Abba Pater: Et inferius; 
+      <lb ed="#L" n="6"/>Spiritus adiuuat infirmitatem nostram, &amp; postulat pro nobis gemitibus inenarrabilibus, id est,  
+      <lb ed="#L" n="7"/>postulare nos facit secundum Glossam &amp; expositiones sanctorum. Vnde &amp; August. de 
+      perfe<lb ed="#L" n="8" break="no"/>ctione iustitiae 2I. Graue, inquit, non est, quod diligendo sit, non timendo: Laborant autem 
+      <lb ed="#L" n="9"/>Iudaei praeceptis, qui ea timendo conantur implere; sed perfecta charitas foras mittit 
+      timo<lb ed="#L" n="10" break="no"/>rem, &amp; facit / praecepti sarcinam leuem, non solum non prementem onere ponderum, verum 
+      <lb ed="#L" n="11"/>etiam subleuantem vice pennarum; quae tamen charitas vt habeatur etiam tanta, quanta in 
+      <lb ed="#L" n="12"/>corpore mortis huius haberi potest, parum est nostrae voluntatis arbitrium, nisi adiuuet gratia 
+      <lb ed="#L" n="13"/>Dei per Iesum Christum Dominum nostrum: diffunditur quippe in cordibus nostris, quod 
+      sae<lb ed="#L" n="14" break="no"/>pe dicendum est, non per nos ipsos, sed per S. Sanctum qui datus est nobis. Et infra 22. 
+      chari<lb ed="#L" n="15" break="no"/>tati Dei non est graue mandatum Dei, qui non nisi per S. Sanctum diffunditur in cordibus 
+      no<lb ed="#L" n="16" break="no"/>stris, non per arbitrium humanae voluntatis, cui plus dando quam oportet, ignorant iustitiam 
+      <lb ed="#L" n="17"/>Dei. Et inferius 33. dicit, quod Deus facit, &amp; adiuuat vt simus perfecti, &amp; sine infirmitate 
+      pec<lb ed="#L" n="18" break="no"/>cati: &amp; subdit, &amp; haec nobiscum agit gratia Dei per Iesum Christum Dominum nostrum non  
+      <lb ed="#L" n="19"/>solum praeceptis, sacris exemplis, sed etiam Sp. Sancto, per quem latenter diffunditur charitas 
+      <lb ed="#L" n="20"/>in cordibus nostris, quae interpellat gemitibus inenarrabilibus, donec in nobis sanitas 
+      perficia<lb ed="#L" n="21" break="no"/>tur, &amp; Deus, sicuti est videndus, in aeterna veritate monstretur. Idem de libertate arbitrij ad  
+      <lb ed="#L" n="22"/>Hilarium 2. Illud, inquit, quod dicunt sufficere homini liberum arbitrium ad dominica 
+      im<lb ed="#L" n="23" break="no"/>plenda mandata, quamuis Dei gratia, &amp; Spiritus Sancti dono ad opera bona non adiunetur, 
+      <lb ed="#L" n="24"/>omni modo anathematixandum est, &amp; omnibus execrationibus detestandum: qui enim hoc  
+      <lb ed="#L" n="25"/>asserunt, a gratia Dei penitus alieni sunt, quia ignorantes Dei iustitiam, sicut de Iudaeis dicis 
+      A<lb ed="#L" n="26" break="no"/>postolus, &amp; suam volentes constituere, etiam iustitiae Dei non sunt subiecti. Plenitudo quippe 
+      <lb ed="#L" n="27"/>legis non est nisi charitas, &amp; vtique charitas Dei diffusa est in cordibus nostris, non per nos 
+      ip<lb ed="#L" n="28" break="no"/>sos, seu per vires propriae voluntatis, sed per Sp. Sanctum qui datus est nobis. Idem de spiritu, 
+      <lb ed="#L" n="29"/>&amp; litera 13. Quid sunt, inquit, leges Dei ab ipso Deo scriptae in cordibus, nisi ipsa praesentia 
+      Sp<lb ed="#L" n="30" break="no"/>Sancti, qui est digitus Dei, quo praesenti diffunditur charitas in cordibus nostris, quae plenitudo 
+      <lb ed="#L" n="31"/>legis est, &amp; finis praecepti? Idem 6. contra Iulian. 26. sic alloquitur Iulianum; Tua vestro 
+      <lb ed="#L" n="32"/>dogmate non recedis, quo putatis gratiam Dei per Iesum Christum Dom. nostrum sic in sola 
+      <lb ed="#L" n="33"/>remissione peccatorum versari, vt non adiunet ad vitanda peccata, &amp; desideria vincenda 
+      carna<lb ed="#L" n="34" break="no"/>lia, diffundendo charitatem in cordibus nostris per S. Sanctum, qui ab illo datus est nobis. Idem  
+      <lb ed="#L" n="35"/>de gratia &amp; libero arbitr. 36. Charitas, inquit, quamuis parua &amp; imperfecta Petro non deerat. 
+      <lb ed="#L" n="36"/>quando dicebat Domino, Animam meam pro te ponam: Putabat enim se posse, quod se velle 
+      <lb ed="#L" n="37"/>lentiebat; &amp; quis istam etsi paruam dare ceperat charitatem, nisi ille qui praeparat voluntatem, 
+      <lb ed="#L" n="38"/>&amp; cooperando perficit, quod operando incipit, quoniam ipse vt velimus operatur incipiens, 
+      <lb ed="#L" n="39"/>qui volentibus cooperatur perficiens? Propter quod ait Apostolus, Certus sum quod qui 
+      ope<lb ed="#L" n="40" break="no"/>ratur in nobis opus bonum, perficiet vsque in diem Iesu Christi. Hoc idem ostendit Augustinus 
+      <lb ed="#L" n="41"/>diffuse de verbis Apostoli serm. 13. tractans autoritates Apostoli tactas, &amp; alijs locis multis, 
+      </p>
+            <div xml:id="dcn2br-e50304-Dd1e294">
+               <head xml:id="dcn2br-e50304-Hd1e296">Corollarium</head>
+               <p xml:id="dcn2br-e50304-d1e299">
+                  <lb ed="#L" n="42"/>COROLLARIVM. 
+      <lb ed="#L" n="43"/>Corollarium, quod Deus &amp; Spiritus Sanctus dicuntur quoquomodo charitas &amp; gratia, 
+      <lb ed="#L" n="44"/>qua chare &amp; gratis nedum Deus diligit se &amp; hominem, verum etiam qua homo 
+      simi<lb ed="#L" n="45" break="no"/>liter diligit Deum &amp; proximum.
+      </p>
+               <p xml:id="dcn2br-e50304-d1e310">
+                  <lb ed="#L" n="46"/>EX his autem potest colligi quoquomodo, quod Deus &amp; Spiritus Sanctus dicitur charitas 
+      <lb ed="#L" n="47"/>X&amp; gratia, qua chare &amp; gratis nedum Deus diligit se &amp; hominem, verum etiam qua homo 
+      <lb ed="#L" n="48"/>similiter diligit Deum &amp; proximum. Secundum distinctionem namque de charitate &amp; gratia 
+      <lb ed="#L" n="49"/>25o praemissam, charitas &amp; gratia pure &amp; summe dicitur chara &amp; grata Dei voluntas, siue 
+      di<lb ed="#L" n="50" break="no"/>lectio qua chare &amp; gratis diligit semetipsum. Secundo accipitur pro eadem voluntate seu 
+      di<lb ed="#L" n="51" break="no"/>lectione, quatenus per eam chare &amp; gratis, scilicet non propter aliqua praecedentia merita, 
+      <lb ed="#L" n="52"/>nec propter commodum suum diligit creaturam. Tertio secundum illum tropum 
+      creberri<lb ed="#L" n="53" break="no"/>mum in Poetria, in Philosophia, &amp; in Theologia, quo effectus nominatur nomine facientis, 
+      <lb ed="#L" n="54"/>qui &amp; est vnus color rhetoricus, quem Tullius vltimo nouae suae rhetoricae denominationem 
+      <lb ed="#L" n="55"/>appellat, dicitur charitas &amp; gratia habitus a secunda charitate, scilicet a voluntate diuina 
+      crea<lb ed="#L" n="56" break="no"/>turae chare &amp; gratis infusus, qui &amp; ex alia causa, ex similitudine scilicet ad charitatem primo 
+      <!--409.xml-->
+      <pb ed="#A" n="376"/>
+                  <lb ed="#L" n="1"/>modo, vel secundo acceptam potest similiter transumtiue quodammodo charitas &amp; gratia 
+      <lb ed="#L" n="2"/>nominari. Nam secundum Philosophum 6. Top. Translatio facit notum quodammodo 
+      <lb ed="#L" n="3"/>quod signatum est, per similitudinem: Omnes enim graufferentes secundum aliquam 
+      simi<lb ed="#L" n="4" break="no"/>litudinem transferunt: In hoc autem sunt similes, quiatmut Deus chare &amp; gratis diligit se &amp; 
+      <lb ed="#L" n="5"/>creaturam per charitatem &amp; gratiam primo vel secundo modo acceptam, sic &amp; creatura per 
+      <lb ed="#L" n="6"/>huiusmodi habitum sibi gratis infusum. Quarto propter easdem causas potest dici charitas 
+      <lb ed="#L" n="7"/>&amp; gratia actus quo chare &amp; gratis diligitur Deus &amp; proximus a tertia charitate, scilicet ab 
+      ha<lb ed="#L" n="8" break="no"/>bitu charitatis &amp; gratiae deriuatus. Quinto secundum similem transumptionem, dicitur 
+      gra<lb ed="#L" n="9" break="no"/>tia quod // gratis repeditur pro gratia gratis facta, sicut docent Poete Philosophi, Theologi, &amp; 
+      <lb ed="#L" n="10"/>modus loquendi creberrimus apud omnes. Haec autem patent quodamodo ex 25. huius. 
+      Pa<lb ed="#L" n="11" break="no"/>tent similiter per Robertum Lincolniensem Episcopum, qui in quodam tractatu de gratia &amp; 
+      <lb ed="#L" n="12"/>iustificatione peccatoris, sic ait; Gratia, est bona voluntas Dei, qua vult nobis dare quod non 
+      <lb ed="#L" n="13"/>meruimus, vt nobis ex dato bene sit, &amp; non vt ipsi donanti aliquid inde proueniat. Sic etiam P 
+      <lb ed="#L" n="14"/>consueuit dici gratia, talis voluntas vnius hominis erga alium. Consequeter a gratia sic dicta, 
+      <lb ed="#L" n="15"/>dicitur etiam gratia ipsum donum quod datur a tali voluntate. Tertio dicitur gratia, / affectus 
+      <lb ed="#L" n="16"/>&amp; Iaus debita repensa ab ipso recipiente. Patet itaque quod omne bonum quod in nobis est,  
+      <lb ed="#L" n="17"/>siue sit gratuitum, siue naturale, a gratia Dei est, quia nullum est bonum quod ipse non velit 
+      <lb ed="#L" n="18"/>esse, &amp; eius velle est facere. Non est ergo bonum, quod ipse non faciat bonum, &amp; 
+      perseue<lb ed="#L" n="19" break="no"/>rantiam in bono ipse facit: Nihilominus tamen haec eadem facit nostra voluntas libera, sicut 
+      <lb ed="#L" n="20"/>granum germinat, &amp; vi intrinseca quadam germinatiua, &amp; Solis calore cum terrae humore. 
+      <lb ed="#L" n="21"/>Et infra, Bona voluntas, qua homo conformis est voluntati diuinae, est gratia data a gratia, 
+      <lb ed="#L" n="22"/>quae est voluntas diuina, &amp; tunc dicitur gratia infundi, cum voluntas diuina in nostram 
+      volunta<lb ed="#L" n="23" break="no"/>tem incipit operati; Omne autem bonum quod in nobis operatur Dei bona voluntas, vt dictum 
+      <lb ed="#L" n="24"/>est, gratia data dicitur, sed sola conformitas voluntatis nostrae voluntati diuinae est gratia data, 
+      <lb ed="#L" n="25"/>quae nos reddit gratos Deo; &amp; bona voluntas Dei hanc conformitatem in nobis efficiens, &amp;C 
+      <lb ed="#L" n="26"/>conseruans, inter caeteras Dei voluntates sola dicitur gratia gratificans; &amp; haec voluntas Dei 
+      <lb ed="#L" n="27"/>quae est gratia gratificans prior est natura, quam sit voluntatis nostrae ad bonum conuersio. Alia 
+      <lb ed="#L" n="28"/>est gratia gratificans, voluntas scilicet diuina conseruandi in bono voluntatem conuersam ad  
+      <lb ed="#L" n="29"/>bonum: Charitas autem seu gratia quae est Deus, dupliciter sumitur, scilicet essentialiter, &amp; 
+      com<lb ed="#L" n="30" break="no"/>muniter toti Trinitati, &amp; cuilibet personarum; aliter autem personaliter &amp; proprie, &amp; sic 
+      appro<lb ed="#L" n="31" break="no"/>priatur Spiritui sancto tantum, sicut docet Aug. 15. De Trin. 17. 10. &amp; 20. manifeste. Vnde illo 
+      <lb ed="#L" n="32"/>vicessimo Voluntas, inquit, Dei, si proprie dicenda est aliqua in Trinitate persona, magis hoc 
+      <lb ed="#L" n="33"/>nomen Spiritui Sancto competit, sicut charitas; Nam quid est aliud charitas quam voluntas? 
+      <lb ed="#L" n="34"/>Est igitur Spiritus Sanctus charitas prima &amp; summa, qua Deus chare diligit se &amp; hominem, 
+      <lb ed="#L" n="35"/>qua &amp; homo chare diligit Deum &amp; proximum; per ipsum summam charitatem datur homini 
+      <lb ed="#L" n="36"/>habitus charitatis, diffunditurque in actum, quo chare Deum, proximumque amamus 
+      <lb ed="#L" n="37"/>Hunc autem arbitror intellectum Augustini octauo, &amp; decimo quinto de Trinitate, &amp; alibi 
+      <lb ed="#L" n="38"/>vbi intentissime conatur ostendere quod charitas est Deus, &amp; Spiritus Sanctus Dei, sicut  
+      <lb ed="#L" n="39"/>Lumbardus primo Sentent. distinct. decimo septimo recitat copiose: Qui &amp; ipse similiter 
+      <lb ed="#L" n="40"/>fortassis posset intelligi &amp; exponi, quanquam pertinacissime moliatur probare, non esse 
+      ali<lb ed="#L" n="41" break="no"/>am charitatem in homine, quam Spiritum Sanctum tantum, sicut processus suus, &amp; verba 
+      <lb ed="#L" n="42"/>inglossabiliter astruunt, vt videtur. Obiicietur fortassis quod simili modo posset Deus, &amp; 
+      <lb ed="#L" n="43"/>Spiritus Sanctus, dici fides, &amp; spes nostra, quia ab ipso est fides, spes, habitus, atque actus, 
+      <lb ed="#L" n="44"/>quibus credimus &amp; speramus. Petrus quoque primo Sentent. distinct. decima septima 
+      di<lb ed="#L" n="45" break="no"/>cit, Non esse dictum per expressionem causae, Deus charitas est, eo scilicet quod charitas sit 
+      <lb ed="#L" n="46"/>ex Deo, &amp; non sit ipse Deus, sicut dicitur Patientia &amp; Spes nostra, non quia ipse sit, sed 
+      <lb ed="#L" n="47"/>quia ista sunt nobis ab eo, ad quod probandum adducit autoritatem Augustini 15. de 
+      Trini<lb ed="#L" n="48" break="no"/>tate &amp; est decimo septimo capitulo eius scripta. Ad primum horum dicendum, quod si modus 
+      lo<lb ed="#L" n="49" break="no"/>quendi admitteret, posset Deus secundum tropum praedictum dici fides nostra, sicut dicitur E 
+      <lb ed="#L" n="50"/>spes nostra, patientia quoque nostra: Verum vlterius aduertendum, quod Deus &amp; Spiritus 
+      San<lb ed="#L" n="51" break="no"/>ctus potest dici charitas nostra multo conuenientius &amp; propinquius propriae veritati, &amp; minus 
+      <lb ed="#L" n="52"/>transumpte, minusque Metaphorice, quam fides, vel spes nostra; Nam sicut superius tetigi, vna 
+      <lb ed="#L" n="53"/>causa huius tropicae locutionis, &amp; denominationis vnius rei nomine alterius est, quia vna 
+      <lb ed="#L" n="54"/>carum est causa efficiens alterius earundem; Alia autem causa secundum Philosphum est 
+      <lb ed="#L" n="55"/>vnius rei ad aliam similitudo; vtroque autem istorum modorum, Deus et Spiritus 
+      San<lb ed="#L" n="56" break="no"/>ctus charitas hominis dici potest: Nam charitas hominis tam habitus quam actus sit ab 
+      <lb ed="#L" n="57"/>illo; Deus quoque seu Spiritus Sanctus, &amp; charitas hominis sunt plurimum similes in 
+      <lb ed="#L" n="58"/>re &amp; in nomine, in tantum quod vterque quodammodo vnivoce, quia concorditer 
+      <!--410.xml-->
+      <pb ed="#A" n="377"/>
+                  <lb ed="#L" n="1"/>in re &amp; in nomine charitas nuncupatur. Quis enim ignorat, quod Deus &amp; Spiritus 
+      <lb ed="#L" n="2"/>Sanctus charitas est, &amp; quod charitas hominis creata, charitas est? &amp; quis nescit, quod 
+      <lb ed="#L" n="3"/>Deus &amp; Spiritus Sanctus sua charitate chare diligit primo Deum, secundo hominem  
+      <lb ed="#L" n="4"/>propter Deum; quod etiam homo sua charitate chare diligit primo Deum, secundo 
+      homi<lb ed="#L" n="5" break="no"/>nem propter Deum? Non sic autem vniuoce potest Deus dici fides vel spes nostra: None 
+      <lb ed="#L" n="6"/>nim in aenigmate quicquam credit, sed omnia clare videt; nec etiam quicquam sperat, sed 
+      <lb ed="#L" n="7"/>plenissimam certitudinem de omnibus semper habet; nos tamen facit credere &amp; sperate; 
+      <lb ed="#L" n="8"/>quare &amp; primo modo praedicto, posset dici quodammodo fides &amp; spes nostra. Ad secundum 
+      <lb ed="#L" n="9"/>posset dici quod Petrus intelligit Deum dici charitatem, non per expressionem causae // 
+      tan<lb ed="#L" n="10" break="no"/>cummodo, sicut dicitur patientia, &amp; spes nostra, sed etiam propter similitudinem vniuocam 
+      <lb ed="#L" n="11"/>supradictam. Veruntamen aduertendum quod autoritas Augustini nihil facit ibi pro Petro, 
+      <lb ed="#L" n="12"/>nec capit eam ad debitum intellectum. Intendit enim per illam ostendere, quod Spiritus 
+      San<lb ed="#L" n="13" break="no"/>ctus est charitas qua nos diligimus Deum &amp; proximum, &amp; hoc non per expressionem causae, 
+      <lb ed="#L" n="14"/>sed proprie secundum seipsum. Vnde &amp; recitatis verbis Augustini subiungit; Ex praedictis 
+      <lb ed="#L" n="15"/>clarescit, quod Spititus Sanctus charitas est, qua diligimus Deum &amp; proximum. Sed sine 
+      du<lb ed="#L" n="16" break="no"/>bio respicienti diligenter illud capitulum decimum septimum, I5i. De Trinitate quod allegat, 
+      <lb ed="#L" n="17"/>euidenter apparet, quod Augustinus principaliter tractat illud, primo Iohan. 4. &amp; ostendit, 
+      <lb ed="#L" n="18"/>quod non dicit significatione causae, sicut Deo dictum est; Tu es patientia mea, &amp; Domine, 
+      <lb ed="#L" n="19"/>spes mea; &amp; ideo non est dictum; Domine, charitas mea, aut Tu es charitas mea; sed vere &amp; 
+      <lb ed="#L" n="20"/>proprie per substantiam, sicut dicitur; Deus, Spiritus est, ostenditque quod charitas sumitur 
+      <lb ed="#L" n="21"/>communiter, vt quaelibet persona in Trinitate, Charitas nuncupetur, &amp; proprie vt conueniat 
+      <lb ed="#L" n="22"/>Spiritui Sancto tantum. Intelligit quoque ibi, &amp; loquitur de charitate, qua Deus diligit se, 
+      <lb ed="#L" n="23"/>&amp; hominem, non e contra, sicut verba sua praemissa testantur; Non, inquit, dictum est, 
+      Do<lb ed="#L" n="24" break="no"/>mine, charitas mea, aut Tu es charitas mea; sed ita dictum est; Deus charitas est: Et infra 
+      eo<lb ed="#L" n="25" break="no"/>dem, dicit, Iohannem Apostolum commemorasse Dei dilectionem, non qua nos eum, sed 
+      <lb ed="#L" n="26"/>qua ipse dilexit nos, &amp; hanc dilectionem Spiritum Sanctum esse. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

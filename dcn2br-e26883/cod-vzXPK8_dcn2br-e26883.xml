@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="195"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e26883"><!-- l1c10 -->
+            <head xml:id="dcn2br-e26883-Hd1e106">Caput 10</head>
+            <p xml:id="dcn2br-e26883-d1e109">
+               <lb ed="#L" n="12"/>CAP. X 
+      <lb ed="#L" n="13"/>Quod voluntas diuina est vniuersaliter efficax, insuperabilis &amp; neces¬ 
+      <lb ed="#L" n="14"/>saria in causando, non impedibilis nec frustrabilis ullo modo. 
+      </p>
+            <p xml:id="dcn2br-e26883-d1e118">
+               <lb ed="#L" n="15"/>Vnc autem restat ostendere consequenter quod diuina 
+      volun<lb ed="#L" n="16" break="no"/>tas est vniuersaliter efficax, insuperabilis, &amp; necessaria in 
+      cau<lb ed="#L" n="17" break="no"/>sando, non impedibilis, nec frustrabilis vllo modo. Hoc autem 
+      <lb ed="#L" n="18"/>totum ex octaua parte Corollarij primi huius cognoscitur 
+      eui<lb ed="#L" n="19" break="no"/>denter; quod tamen hic ex causa, aliquibus rationibus &amp; 
+      Auto<lb ed="#L" n="20" break="no"/>ritatibus confirmandum. Quis ergo nesciat optime consequi, si 
+      <lb ed="#L" n="21"/>Deus potest aliquid facere, &amp; vult illud facere, facit illud, aut 
+      fa<lb ed="#L" n="22" break="no"/>ciet pro tempore destinato potentia &amp; voluntate manente: 
+      ni<lb ed="#L" n="23" break="no"/>hil enim ei deest ad facere requisitum. Dicitque Philosophus 9. 
+      <lb ed="#L" n="24"/>Metaph. 10. Potens secundum rationem omne, necesse quando 
+      <lb ed="#L" n="25"/>desiderat, cuius habet potentiam, &amp; vt habet, hoc facere; &amp; 2. 
+      <lb ed="#L" n="26"/>Rhetor. 24. Si potuit, &amp; voluit, egit. Omnes enim cum potentes 
+      <lb ed="#L" n="27"/>velint, agunt. Et 5. Polit 7. Quae autem volunt potentes, agunt omnes: Quare &amp; docente 
+      <lb ed="#L" n="28"/>PhilosophoI Prior. ex opposito conclusionis cum eadem minore, inferendo oppositum 
+      <lb ed="#L" n="29"/>maioris prioris, optime sequiture contrario, Deus non facit hoc, &amp; vult facere hoc, ergo non 
+      <lb ed="#L" n="30"/>potest hoc facere. Non est ergo omnipotens, sed impotens in hac parte, contra 7am partem 
+      <lb ed="#L" n="31"/>Corollarij primi huius, &amp; contra fidem Ecclesiae generalem. Vnde &amp; August. Enchirid. 76. 
+      <lb ed="#L" n="32"/>Omnipotenti, inquit, Deo semper quam facile est, quod vult, facere; tam facile est, quod non  
+      <lb ed="#L" n="33"/>vult esse: non sinere. Hoc nisi credamus, periclitatur ipsum nostrae confessionis initium, qua 
+      <lb ed="#L" n="34"/>nos in Deum omnipotentem credere confitemut. Neque enim ob aliud vocatur veraciter 
+      om<lb ed="#L" n="35" break="no"/>nipotens, nisi quoniam quicquid vult, potest, nec voluntate cuiuspiam naturae voluntatis 
+      om<lb ed="#L" n="36" break="no"/>nipotentis impeditur effectus. Item voluntas diuina est actus potentiae, vt est notum, &amp; non 
+      mi<lb ed="#L" n="37" break="no"/>noris quam infinitae. propter ram suppositionem &amp; 4am partem Corallarij primi huius. 
+      Supe<lb ed="#L" n="38" break="no"/>rat ergo omne finitum, nec ab aliquo superatur, nec ab aliquo infinito, quia solus Deus est talis 
+      <lb ed="#L" n="39"/>per 17am, partem Corollarij primi huius; nec ipse superat propriam voluntatem nec habet 
+      <lb ed="#L" n="40"/>in se contrarium illi quicquam. Quare dicit August. 5. de Ciuit. Dei 9. In eius voluntate 
+      sum<lb ed="#L" n="41" break="no"/>ma est potestas: &amp; Enchirid. 75. Ipsa est efficacissima. Item si voluntas diuina frustraretur ab 
+      <lb ed="#L" n="42"/>aliquo, vel etiam vificeretur, hoc maxime videretur a voluntate creata Angelica vel humana; 
+      <lb ed="#L" n="43"/>ergo haec illam excederet in virtute, quod ra suppositio non concedit. Dicitque Esaiae 47. Non 
+      <lb ed="#L" n="44"/>resistet mihi homo, &amp; supra eodem 14. Dominus exercituum decreuit, &amp; quis poterit 
+      infir<lb ed="#L" n="45" break="no"/>mare? &amp; Apostolus ad Rom. 9. voluntati eius quis resistet? Scribitur quoque Hesterae 13. &amp;  
+      <lb ed="#L" n="46"/>Ecclesiae sancta canit, Domine Deus omnipotens, inditione tua cuncta sunt posita, &amp; non est 
+      <lb ed="#L" n="47"/>qui possit tuae resistere voluntati; si decreueris saluare nos, continuo liberabimur: &amp; 
+      Psal<lb ed="#L" n="48" break="no"/>I13. Omnia quaecunque voluit, fecit; quod tractans Augustinus Enchirid. 75. dicit, quod 
+      <lb ed="#L" n="49"/>vtique non est verum, si aliqua voluit &amp; non fecit, &amp; quod est indignius, ideo non fecit, 
+      quo<lb ed="#L" n="50" break="no"/>niam ne fieret, quod volebat omnipotens, voluntas hominis impediuit. Item si Deus non 
+      <lb ed="#L" n="51"/>semper faceret quicquid vellet, indigeret auxilio ad aliqua facienda, contra quintam 
+      par<lb ed="#L" n="52" break="no"/>tem Corollarij prim? huius, &amp; contra quaedam quinto huius praemissa. Ad hoc etiam sunt 
+      <lb ed="#L" n="53"/>Autoritates Philosophicae &amp; Theologicae multae valde. Hermes siquidem de verbo aeter¬ 
+      <!--229.xml-->
+      <pb ed="#A" n="196"/>
+               <lb ed="#L" n="1"/>no 9. loquens de Deo, dicit, quod omnia ex eius voluntate dependent: Et addit; Etenim 
+      <lb ed="#L" n="2"/>de ipsa est summa perfectio, vtpote cum voluisse &amp; perfecisse vno eodemque temporis puncto 
+      <lb ed="#L" n="3"/>compleat; Placitum enim Dei necessitas sequitur, voluntatem comitatur effectus. Et infra 
+      <lb ed="#L" n="4"/>22. Hic, inquit, solus, vt omnia vtraque sexus foecunditate plenissimus, semper voluntatis 
+      <lb ed="#L" n="5"/>suae praegnans, parit semper quicquid voluerit procreare. Aristoteles etiam in de Mundo vlt. 
+      <lb ed="#L" n="6"/>ostendens quod Deus cum sit vnus, est tamen multinomius, &amp; quaedam illorum nominum 
+      <lb ed="#L" n="7"/>exponendo sic dicit, Reor autem &amp; necessitatem nihil aliud dici, nisi quod insupirabilem 
+      sub<lb ed="#L" n="8" break="no"/>stantiam, Adrastiam vero ineuitabilem causam entem. Dicitque Auicenna 10. Metaph. suae I. 
+      <lb ed="#L" n="9"/>Collectio horum omnium prouenit necessario ex necessitate diuinae voluntatis; Et 
+      Augusti<lb ed="#L" n="10" break="no"/>nus 6. super Genesin ad literam 20. Voluntas creatoris rerum necessitas est, et hoc ibi per 
+      <lb ed="#L" n="11"/>magnum processum diffuse ostendit. Et idem 3. de libero arbitrio 3. Voluntas illius mihi est 
+      <lb ed="#L" n="12"/>necessitas. Idemque Enchirid. 83. Rogandus est vt velit, quia necesse est fieri si voluerit. 
+      Di<lb ed="#L" n="13" break="no"/>citque Anselmus 2. Cur Deus homo 17. Si vis omnium, quae fecit, &amp; passus est, veram scire p 
+      <lb ed="#L" n="14"/>necessitatem, scito omnino ex necessitate fuisse, quia ipse voluit. Itemque Augustinus 
+      Euchi<lb ed="#L" n="15" break="no"/>rid. 77. tractans illud Apostoli 1. ad Tim. 2. Qui vult omnes homines saluos fieri; Et illud 
+      <lb ed="#L" n="16"/>Matth. 23. Quoties volui congregare filios tuos &amp; noluisti, ostendit quod voluntas diuina 
+      <lb ed="#L" n="17"/>non impeditur, nec aliquo modo frustratur in istis, &amp; multis capitulis sequentibus idem 
+      pro<lb ed="#L" n="18" break="no"/>bat. Vnde &amp; 83. dicit, quod quantaelibet sint voluntates Angelorum, &amp; hominum 
+      bono<lb ed="#L" n="19" break="no"/>rum &amp; malorum volentes illud quod Deus vult, vel aliud; Dei omnipotentis voluntas semper 
+      <lb ed="#L" n="20"/>inuicta est &amp; 84. Omnipotens velle non potest inaniter quodcunque voluerit; &amp; 85. Non est 
+      <lb ed="#L" n="21"/>credendum Deum omnipotentem voluisse aliquid fieri, factumque non esse. Qui enim sine 
+      <lb ed="#L" n="22"/>vllis ambiguitatibus siue in coelo, siue in terra, sicut veritas cantat, omnia, quaecunque voluit,  
+      <lb ed="#L" n="23"/>fecit, profecto facere non voluit, quodcunque non fecit. Quare &amp; per Esaiam 46. Deus sic 
+      <lb ed="#L" n="24"/>dicit, Omnis voluntas mea fiet: Et infra eodem 55. Verbum, quod egredietur de ore meo, 
+      <lb ed="#L" n="25"/>non reuertetur ad me vacuum, sed faciet quaecunque volui. Item alias Dei propositum in 
+      ali<lb ed="#L" n="26" break="no"/>quo frustraretur, frustrariue posset, quod est expresse contra Anselmum I. Cur Deus homo 
+      <lb ed="#L" n="27"/>4. 20. 26. &amp; secundi 4. &amp; 8. Item Cyprianus gloriosus Dei Martyr &amp; Doctor exponendo 
+      il<lb ed="#L" n="28" break="no"/>lud orationis Dominicae, Fiat voluntas tua sicut in Coelo, sic &amp; in terra, sic dicit; Oramus 
+      <lb ed="#L" n="29"/>non vt Deus faciat quod vult, sed vt nos facere possimus, quod Deus vult. Nam Deo quis 
+      <lb ed="#L" n="30"/>obsistit, quo minus, quod velit, faciat? Et hoc est quod ille seprosus protestabatur fideliter. 
+      <lb ed="#L" n="31"/>cum dicebat, Domine si vis, potes me mundare Marc. primo &amp; Luc. quinto, quod &amp; 
+      indubi<lb ed="#L" n="32" break="no"/>tanter ostendit responsio Saluatoris cum dixit Volo, mundare? Hanc etenim voluntatem 
+      <lb ed="#L" n="33"/>mundationis effectus continuo sequebatur, sicut Euangelista subiungit; Et cum hoc dixisset, 
+      <lb ed="#L" n="34"/>statim discessit ab eo lepra, &amp; mundatus est. Super quod Beda primi libri super Marcum 6. 
+      di<lb ed="#L" n="35" break="no"/>cit, Ipsa leprosi confessio Religionis &amp; fidei plena est; In voluntate enim Domini tribuit 
+      po<lb ed="#L" n="36" break="no"/>testatem; Et infra, nihil est medium inter opus Dei atque praeceptum quia in praecepto est 
+      o<lb ed="#L" n="37" break="no"/>pus; denique dixit, &amp; facta sunt. Vides igitur quod dubitari non potest, quia voluntas Dei 
+      potes<lb ed="#L" n="38" break="no"/>tas? est; Et infra, Simulque illud mirabile, quod eo sanauit genere, quo fuerat obsecratus: Si 
+      <lb ed="#L" n="39"/>vis, potes me mundare; Volo, inquit, Mundare, habes voluntatem, habes etiam pietatis 
+      <lb ed="#L" n="40"/>effectum. Non ergo vt plerique Latinorum putant, iungendum est, &amp; legendum Volo 
+      mun<lb ed="#L" n="41" break="no"/>dare, sed separatim, vt primo dicat, Volo; deinde imperet, mundare. Qui &amp; lib. 20 super Luc. 
+      <lb ed="#L" n="42"/>5. idem ad eundem sensum exponit. Thomas etiam in Glossa super Marcum recitat a 
+      Chry<lb ed="#L" n="43" break="no"/>sostomo ibi istud, Per hoc non solum opinionem leprosi non destruxit, sed magis 
+      confirma<lb ed="#L" n="44" break="no"/>uit; Verbo enim morbum fugat, &amp; quod leprosus verbo dixerat, hic opere adimpleuit. Et  
+      <lb ed="#L" n="45"/>super illud Luc. 5. recitat idem Glossator ab Ambrosio istud verbum: Eo sanat genere, quo 
+      <lb ed="#L" n="46"/>fuerat obsecratus. Nihil autem medium est inter opus Dei &amp; praeceptum, vt intelligas 
+      me<lb ed="#L" n="47" break="no"/>dentis effectum virtutem operis. Vbi &amp; hoc recitat a Cyrillo, a maiestate processit 
+      imperio<lb ed="#L" n="48" break="no"/>sum mandatum; qualiter ergo in seruis computatur vnigenitus filius, qui volendo tantum 
+      <lb ed="#L" n="49"/>modo cuncta potest? legitur de Deo Patre, quod omnia quaecunque voluit, fecit: Qui vero 
+      <lb ed="#L" n="50"/>sui Patris potestate fungitur, quomodo diuersificabitur in naturaab eo? Mirare tamen in his 
+      <lb ed="#L" n="51"/>Christum diuine &amp; corporaliter operantem: Diuinum est enim ita velle, vt praesto fiant 
+      om<lb ed="#L" n="52" break="no"/>nia, humanum autem extendere dexteram. Quod &amp; luce clarius testatur Ecclesiastes 8. sic 
+      di<lb ed="#L" n="53" break="no"/>cens, Omne quod voluerit, faciet, &amp; sermo illius potestate plenus est. Damascenus Sentent. 
+      <lb ed="#L" n="54"/>vlt. concorditer ita dicit, Qui puluerem in corpus voluntate solum transmutauit, qui 
+      vniuer<lb ed="#L" n="55" break="no"/>sorum est conditor, qui omnia haec construxit praecepto. Ita igitur crede &amp; mortuorum 
+      re<lb ed="#L" n="56" break="no"/>surrectionem futuram esse, diuina virtute, &amp; voluntate, &amp; nutu; Concurrentem enim habet 
+      <lb ed="#L" n="57"/>cum voluntate virtutem. Hoc etiam tenet Hugo de Sacramentis lib. 1. part. 4. cap. 15. &amp; 
+      Lum<lb ed="#L" n="58" break="no"/>bardus 1. Sentent. dist. 45. plane.
+      </p>
+            <div xml:id="dcn2br-e26883-Dd1e335">
+               <head xml:id="dcn2br-e26883-Hd1e337">Corollarium</head>
+               <p xml:id="dcn2br-e26883-d1e340">
+      <!--230.xml-->
+                  <pb ed="#A" n="197"/>
+                  <lb ed="#L" n="1"/>COROLLARIVM. 
+      <lb ed="#L" n="2"/>Habet Corollarium, quod ad Deum velle facere, seu fieri quippiam per se, vel per ali¬ 
+      <lb ed="#L" n="3"/>ud quodlibet quouismodo, necessario sequitur illud fieri illo modo, nec modo nostro 
+      <lb ed="#L" n="4"/>conando alias vires apponit, nec est in eo vltra intellectum dictantem, &amp; 
+      volunta<lb ed="#L" n="5" break="no"/>tem consentientem alia virtus executiua ponenda: nec aliter se habet operans, quam  
+      <lb ed="#L" n="6"/>quiescens, &amp; quod diuina voluntas est primum principium liberum.
+    </p>
+               <p xml:id="dcn2br-e26883-d1e360">
+                  <lb ed="#L" n="7"/>EX his autem consequitur manifeste quod, ad Deum velle facere, seu fieri per se, vel per 
+      <lb ed="#L" n="8"/>Taliud quodlibet quouismodo, necessario sequitur illud fieri illo modo; nec modo 
+      <lb ed="#L" n="9"/>nostro conando, alias vires apponit; nec est in eo vltra intellectum dictantem, &amp; 
+      volunta<lb ed="#L" n="10" break="no"/>tem consentientem, alia virtus executiua ponenda, vt ponitur a quibusdam; nec aliter se 
+      <lb ed="#L" n="11"/>habet operans quam quiescens; ex quo nec minus euidenter infertur, quod voluntas diuina 
+      <lb ed="#L" n="12"/>sit primum principium liberum. Si enim aliquid aliud, quam Deum velle, requireretur ad 
+      fa<lb ed="#L" n="13" break="no"/>cere, voluntas sua non esset per se sufficiens ad agendum contra priora. Item voluntas Dei est 
+      <lb ed="#L" n="14"/>aliquo modo operatiua extra se, sicut voluntas nostra mouet primum motum corporale in 
+      <lb ed="#L" n="15"/>nobis &amp; non tantum finite: hoc enim primae suppositioni, tertiae parti primi, &amp; quartae 
+      re<lb ed="#L" n="16" break="no"/>pugnat. Nec vlla est ratio quare potius sub vno gradu finito, quam sub alio, ergo infinite. 
+      <lb ed="#L" n="17"/>Non ergo exigit aliquam virtutem executiuam posteriorem in Deo, quasi defectus suae 
+      effi<lb ed="#L" n="18" break="no"/>caciae supplementum. Item, si talis virtus executiua ponatur, illa naturaliter mediat inter 
+      vo<lb ed="#L" n="19" break="no"/>luntatem diuinam &amp; opus, contra autoritates Bedae &amp; Ambrosij superius allegatas; &amp; est 
+      con<lb ed="#L" n="20" break="no"/>tra Damascenum dicentem, quod voluntate solum transmutauit, &amp;c. Alia vero pars huius 
+      <lb ed="#L" n="21"/>corollarij per hoc patet, quod aequaliter potest quis velle operans, &amp; quiescens, &amp; maxime 
+      <lb ed="#L" n="22"/>Deus ipse, cum per quintum huius omnino mutari non possit. Dicit &amp; Augustinus in sen¬ 
+      <lb ed="#L" n="23"/>tentijs Prosperi 157. Non est fas credere aliter affici Deum cum vacat, aliter cum operatur. 
+      <lb ed="#L" n="24"/>Patitur quippe qui afficitur, &amp; mutabile est omne quod patitur: Non ergo in Deo aut pigra 
+      <lb ed="#L" n="25"/>vacatio, aut laboriosa cogitetur industria, quia nouit &amp; quiescens agere, &amp; agens quiescere. 
+      <lb ed="#L" n="26"/>Quod etiam voluntas diuina sit primum principium liberum hinc apparet, quoniam per 
+      sup<lb ed="#L" n="27" break="no"/>positionem secundam, in principiis liberis non est infinitus processus, sed est aliquod vnum 
+      <lb ed="#L" n="28"/>primum, &amp; illud non potest poni in aliqua causa secunda; quia per capitula proxima omnis 
+      <lb ed="#L" n="29"/>causa secunda in omni sua causatione necessario subditur causae primae. Si etiam prima causa 
+      <lb ed="#L" n="30"/>non ageret libere sed pure necessario, cum omnes causae secundae in causatione sua 
+      quacun<lb ed="#L" n="31" break="no"/>que subdantur necessario primae causae, vt nonum &amp; decimum clare docent; omnes 
+      causa<lb ed="#L" n="32" break="no"/>tiones earum, sicut &amp; omnis causatio primae causae pure necessario prouenirent; quare 
+      liber<lb ed="#L" n="33" break="no"/>tas, contingentia, &amp; meritum totaliter deperiret. Nec decet causarum ordinem naturalem 
+      <lb ed="#L" n="34"/>vt causa inferior de secunda sit liberior, quam suprema, &amp; prima, nec est possibile vllo modo; 
+      <lb ed="#L" n="35"/>haec est in omnibus regulans, illa in omnibus necessario regulata; haec subijciens, illa 
+      sub<lb ed="#L" n="36" break="no"/>iecta; haec praecedens &amp; dominans, illa sequens in omnibus &amp; ancillans, sicut praemissa nona 
+      <lb ed="#L" n="37"/>&amp; decima manifestant. Primum ergo principium liberum necessario est in Deo, &amp; non in 
+      <lb ed="#L" n="38"/>essentia sua primo, quia per prima &amp; secunda capitula, ipsa est necesse esse omnino, nec in 
+      <lb ed="#L" n="39"/>intellectu diuino, quia necessario intelligit vniuersa; nec in aliqua potentia alia a voluntate, 
+      <lb ed="#L" n="40"/>omnes enim aliae potentiae sunt pure naturales, &amp; voluntate semota, si agerent, pure 
+      naturali<lb ed="#L" n="41" break="no"/>ter &amp; necessario agerent, sicut principium noni capituli ostendebat. Libertas ergo est in sola 
+      <lb ed="#L" n="42"/>voluntate ponenda, &amp; prima simpliciter in prima simpliciter, quae est Dei.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

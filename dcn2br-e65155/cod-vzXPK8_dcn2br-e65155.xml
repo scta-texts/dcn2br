@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="489"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e65155"><!-- l2c6 -->
+            <head xml:id="dcn2br-e65155-Hd1e106">Caput 6</head>
+            <p xml:id="dcn2br-e65155-d1e109">
+               <lb ed="#L" n="30"/>CAP. VI. 
+      <lb ed="#L" n="31"/>Quod illud Dei auxilium speciale est voluntas 
+      <lb ed="#L" n="32"/>etus inuicta. 
+    </p>
+            <p xml:id="dcn2br-e65155-d1e118">
+               <lb ed="#L" n="33"/>POstquam in praecedentibus est ostensum nullum tentatum 
+      soli<lb ed="#L" n="34" break="no"/>us liberi arbitrij viribus sine gratia, vel cum gratia 
+      quantacun<lb ed="#L" n="35" break="no"/>que absque alio Dei auxilio speciali posse tentationem aliquam  
+      <lb ed="#L" n="36"/>superare; Restat consequenter inquirere, quod sit illud 
+      auxili<lb ed="#L" n="37" break="no"/>um quo tentati omnia superant tentamenta, &amp; sine quo in 
+      omni<lb ed="#L" n="38" break="no"/>bus superantur. Illud autem auxilium cum non sit liberum 
+      ar<lb ed="#L" n="39" break="no"/>bitrium, nec gratia creata seu charitas, quae sunt maxima dona 
+      <lb ed="#L" n="40"/>Dei creata; &amp; maximi auxilij, quid potest esse nisi diuina 
+      volun<lb ed="#L" n="41" break="no"/>tas? Nam cuicunque Deus auxiliatur, voluntatis auxiliatur, 
+      si<lb ed="#L" n="42" break="no"/>cut quicquid agit ad extra non natura, nec exsola cognitione, 
+      <lb ed="#L" n="43"/>sed voluntate illud agit, sicut octauum &amp; nonum capitula primi 
+      <lb ed="#L" n="44"/>docent. Absit etiam quod quenquam fortuito aut casualiter 
+      <lb ed="#L" n="45"/>adiuuaret, quia tunc vigesimum secundum, vigesimum septimum, vigesimum octauum, &amp;  
+      <lb ed="#L" n="46"/>vigesimum nonum primi eum turpiter obiurgarent: Voluntas ergo diuina est illud auxilium 
+      <lb ed="#L" n="47"/>fine quo tentatus quilibet superatur, sicut ex 220. primi, &amp; alijs praehabitis sciri potest, &amp; per 
+      <lb ed="#L" n="48"/>quod tentatus quilibet superans efficaciter superat // tentatorem, sicut ioum. primi cum 
+      prae<lb ed="#L" n="49" break="no"/>missis ostendit: Vnde sanctus Dauid in pugna spirituali satis expertus, quia frequenter 
+      su<lb ed="#L" n="50" break="no"/>peratus &amp; superans, ita dicit; Ira in indignatione eius, &amp; vita in voluntate eius; Ira scilicet,  
+      <lb ed="#L" n="51"/>in culpam prosternens cui Dominus indignatur, &amp; vita in innocentia sustinens cui Dominus 
+      <lb ed="#L" n="52"/>voluntatis auxiliari dignatur; quanquam &amp; aliter exponatur, sed istam expositionem totus 
+      <!--523.xml-->
+      <pb ed="#A" n="490"/>
+               <lb ed="#L" n="1"/>processus illius Psalmi 29i. praetendit: Exaltabo, inquit, te Domine, quoniam suscepisti me, 
+      <lb ed="#L" n="2"/>nec delectasti inimicos meos super me, Domine Deus meus, clamaui ad te, &amp; sanasti me; 
+      <lb ed="#L" n="3"/>Domine eduxisti ab inferno animam meam, saluasti me a descendentibus in lacum: &amp; tunc 
+      <lb ed="#L" n="4"/>excitando ad gratiarum actionem pro tantis beneficijs Domino statim subdit; Psallite 
+      Do<lb ed="#L" n="5" break="no"/>mino sancti eius; &amp; confitemini memoriae sanctitatis eius, quoniam ita in indignatione eius, 
+      <lb ed="#L" n="6"/>&amp; vita in voluntate eius, &amp; secundum glossam super versum sequentem, Illa ira est fletus qui  
+      <lb ed="#L" n="7"/>est omnimoda hominis miseria tam culpae, quam poenae. Idem Psalmo 50. Domine, inquit, 
+      <lb ed="#L" n="8"/>vt scuto bonae volunt atis tuae coronasti nos; vbi glossa, Bona voluntas qua nos coronasti, 
+      <lb ed="#L" n="9"/>nobis est vt scutum contra inimicum quo protegimur, &amp; ipsa est vt corona, id est arma, 
+      qui<lb ed="#L" n="10" break="no"/>bus expugnatur inimicus; haec est scutum contra eum qui tentationibus &amp; tribulationibus 
+      <lb ed="#L" n="11"/>suggerit desperationem, &amp; est sensus, bona voluntas tua protegit nos &amp; vincere facit; vel ita, 
+      <lb ed="#L" n="12"/>scutum quod a rotunditate dicitur, duo facit, quia corpus munit, &amp; caput coronat; Ita 
+      gra<lb ed="#L" n="13" break="no"/>tuita Dei voluntas qua nos vocat, est defensio hic contra omnia; &amp; in futuro corona. Idem E 
+      <lb ed="#L" n="14"/>Psalmo 43. Nec enim in gladio suo possederunt terram, &amp; brachium eorum non saluauit 
+      <lb ed="#L" n="15"/>eos, sed dextera tua, &amp; brachium tuum, &amp; illuminatio vultus tui, quoniam placuisti in 
+      <lb ed="#L" n="16"/>iis; &amp; Psalmo 88. Gloria virtutis eorum tu es, &amp; in beneplacito tuo exaltabitur cornu 
+      no<lb ed="#L" n="17" break="no"/>strum, Clossa; Tu es gloria, id est, exaltatio virtutis eorum quos non solum illuminat, sed 
+      <lb ed="#L" n="18"/>etiam posse dat, &amp; in beneplacito tuo, id est, quia tibi beneplacuit, non quia digni sumus, 
+      ex<lb ed="#L" n="19" break="no"/>altabitur cornu nostrum. Item 2. Machab. vlt. Dominus non secundum armorum 
+      poten<lb ed="#L" n="20" break="no"/>tiam, sed prout ipsi placet, dat ignis victoriam. Et ne qua fallacia malitiae Pelagianae tibi 
+      sur<lb ed="#L" n="21" break="no"/>repat, audi vnde quisquis fit dignus hoc enim honore condignus est quemcunque rex 
+      volue<lb ed="#L" n="22" break="no"/>rit honorare; Hesterae 6 dicitque Augustinus de praedestinatione sanctorum 12. Item quod 
+      <lb ed="#L" n="23"/>dixi, salutem, religionis illius nulli vnquam defuisse qui dignus fuit, &amp; dignum non fuisse 
+      <lb ed="#L" n="24"/>cui defuit; Si discutiatur &amp; quaeratur vnde quisque sit dignus, non desunt qui dicant 
+      vo<lb ed="#L" n="25" break="no"/>luntate humana, nos autem dicimus gratia vel praedestinatione diuina: Quicunque ergo est 
+      <lb ed="#L" n="26"/>dignus victoria, non est ex se dignus, sed ex Dei gratuita voluntate, quae &amp; dignum victoria 
+      <lb ed="#L" n="27"/>efficit, &amp; victorem. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

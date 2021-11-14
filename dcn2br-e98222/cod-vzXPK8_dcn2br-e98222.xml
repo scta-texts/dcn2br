@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 30</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 30</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="744"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e98222"><!-- l3c30 -->
+            <head xml:id="dcn2br-e98222-Hd1e106">Caput 30</head>
+            <p xml:id="dcn2br-e98222-d1e109">
+               <lb ed="#L" n="29"/>CAP. XXX. 
+      <lb ed="#L" n="30"/>Arguit eam super falsitate bypothesis per viam sumptam a necessi¬ 
+      <lb ed="#L" n="31"/>tate &amp; libertate voluntatis diuinae, quae semper necessario 
+      vnifor<lb ed="#L" n="32" break="no"/>mis permanet &amp; aequalis. 
+      </p>
+            <p xml:id="dcn2br-e98222-d1e120">
+               <lb ed="#L" n="33"/>REctificato siquidem primo errore, scilicet de insufficientia 
+      responsio<lb ed="#L" n="34" break="no"/>nis 26. huius praemissae, nunc restat similiter facere de secundo, qui est 
+      <lb ed="#L" n="35"/>ex non subsistentia hypothesis quam supponit. Supponit enim 
+      hy<lb ed="#L" n="36" break="no"/>pothesis ista septem. Primum, quod illud quod nunc est futurum, 
+      po<lb ed="#L" n="37" break="no"/>test possibilitate necessitatem omnimodam excludente nunc &amp; pro 
+      <lb ed="#L" n="38"/>nunc non esse futurum. Secundum, quod illud quod semper fuit 
+      fu<lb ed="#L" n="39" break="no"/>turum, simili modo potest nunquam fuisse futurum. Tertium, quod 
+      <lb ed="#L" n="40"/>illud quod nunc non est futurum, potest similiter nunc &amp; pro nunc esse 
+      <lb ed="#L" n="41"/>futurum. Quartum, quod illud quod nunqua fuit futurum, potest similiter semper fuisse 
+      futu<lb ed="#L" n="42" break="no"/>rum. Quintum, quod his nequaquam obstantibus, Omne quod nunc est, necesse est nunc 
+      <lb ed="#L" n="43"/>esse. Sextum, quod omne quod fuit, necesse est fuisse. Septimum, quod omne quod est aut E 
+      <lb ed="#L" n="44"/>fuit, necesse est semper ante fuisse futurum. Et de praescitis &amp; scitis a Deo, eiusque praescientia 
+      <lb ed="#L" n="45"/>atque scientia correspondenter omnino, similia septem ponit. Huic autem errori est 
+      dupli<lb ed="#L" n="46" break="no"/>citer obuiandum. Primo, per viam sumtam ab actione Dei intrinseca; secundo, per viam 
+      <lb ed="#L" n="47"/>sumtam ab actione, eius extrinseca. Prima autem via methodum binam habet, vnam 
+      <lb ed="#L" n="48"/>ex voluntate seu volutione diuina, &amp; alteram ex intellectu seu cognitione ipsius: &amp; 
+      <lb ed="#L" n="49"/>harum vtraque habet adhuc duas semitas veritatis; vnam per necessitatem seu 
+      contingenti<lb ed="#L" n="50" break="no"/>am &amp; libertatem ducentem, alteram vero per immutabilitatem, seu mutabilitatem 
+      tenden<lb ed="#L" n="51" break="no"/>tem. Per hanc igitur semitam veritatis, quae ducit per necessitatem seu libertatem voluntatis 
+      <lb ed="#L" n="52"/>diuinae, proceditur isto modo; si septem praemissa de praesentibus, praeteritis, &amp; futuris, prae¬ 
+      <!--778.xml-->
+      <pb ed="#A" n="745"/>
+               <lb ed="#L" n="1"/> seitis &amp; scitis, praescientia &amp; scientia Dei sint vera, &amp; alia septem similia de praeuolutis &amp; volu¬ 
+      <lb ed="#L" n="2"/>tis a Deo ac voluntate seu volutione ipsius necessario erunt vera, sicut locus a simili satis 
+      pro<lb ed="#L" n="3" break="no"/>bat: Quod &amp; ISiprimi euidenter ostendit, cum Deus nihil horum sciat aut praesciat, nisi 
+      prae<lb ed="#L" n="4" break="no"/>uia voluntate. Quod &amp; potest per singula demonstrari. Primum namque scilicet qd. Deus nunc vult 
+      <lb ed="#L" n="5"/>aliquid, puta A. fore, &amp; potest potentia libera, i. contradictionis necessitatem omnifariam ex. 
+      <lb ed="#L" n="6"/>cludente, nunc &amp; pro nunc non velle A. fore, potest dupliciter demonstrari, per impossibile sc. 
+      <lb ed="#L" n="7"/>&amp; simpliciter ostensiue. Detur enim oppositum, scilet qd. Deus pro nunc non potest non 
+      velle<lb ed="#L" n="8" break="no"/>A. fore, ergo necesse est pro nunc Deum velle A. fore, &amp; per 10. secundi necessario sequitur, 
+      De<lb ed="#L" n="9" break="no"/>us vult A. fore, ergo A. erit; &amp; antecedens est necessarium pro nunc, ergo &amp; consequens, 
+      <lb ed="#L" n="10"/>sicut docet vulgata regula Logicorum, qd. &amp; potest similiter per impossibile demonstrari: 
+      <lb ed="#L" n="11"/>nam alias esset possibile, quod falsum sequeretur ex vero. Necessitatem autem consequentis 
+      il<lb ed="#L" n="12" break="no"/>lati hypothesis ista negat. Ad idem ostensiue hoc modo sequitur A. non erit, ergo per 10. 1. 
+      <lb ed="#L" n="13"/>Deus non vult A. fore, &amp; antecedens est pro nunc possibile, sicut dicit hypothesns, ergo &amp;s 
+      co<lb ed="#L" n="14" break="no"/>seques, sicut logicus nullus nescit: qd. &amp; potest per impossibile faciliter demonstrari: Alias ex 
+      <lb ed="#L" n="15"/>nim ex vero esset possibile sequi falsum. Secundum, scilicet qd. Deus semper // noluit aliquid 
+      futu<lb ed="#L" n="16" break="no"/>rum, puta A. fore, &amp; potest potentia supradicta nunquam voluisse A. fore, potest demonstrari 
+      <lb ed="#L" n="17"/>vt primum, potest etiam demonstrari per primum. Si enim per primum ponatur Deum nunc 
+      <lb ed="#L" n="18"/>non velle A. fore, sequitur per 10 primi ipsum nunquam voluisse A. fore: cum A. nunquam 
+      fu<lb ed="#L" n="19" break="no"/>it futurum, quia nunquam fuit, est, aut erit. Tertium, scilicet quod Deus nunc non vult A. fore. 
+      <lb ed="#L" n="20"/>&amp; potest possibilitate praedicta pro nunc velle A. fore, probatur vt primum. Ad idem, si Deus 
+      <lb ed="#L" n="21"/>potest pro nuncinon velle illud quod nunc vult, simili ratione potest pro nunc velle illud quod 
+      <lb ed="#L" n="22"/>nunc non vult. Quartum, scilicet, quod Deus nunquam voluit A. fore, &amp; potest potentia iam 
+      <lb ed="#L" n="23"/>praefata semper voluisse A. fore, probatur vt proximum, probatur quoque per ipsum, sicut 
+      se<lb ed="#L" n="24" break="no"/>cundum per primum. Quintum, scilicet, quod simul cum istis quodcunque existens, quod 
+      De<lb ed="#L" n="25" break="no"/>us vult nunc esse, necesse est eum velle nunc esse, &amp; quod omne quod nunc est, necesse est pro 
+      <lb ed="#L" n="26"/>nunc Deum velle nunc esse, quantum ad primam partem dupliciter demonstratur. Primo, 
+      <lb ed="#L" n="27"/>ostensiue hoc modo; Sit A. aliquid nunc existens, tunc per nonum primi necessario sequitur. 
+      <lb ed="#L" n="28"/>A. est, ergo A. est conseruatum in esse per voluntatem diuinam, &amp; Deus vult hoc esse, &amp; 
+      ante<lb ed="#L" n="29" break="no"/>cedens est necessarium pro nunc, vt ponit hypothesis, ergo &amp; consequens, sicut probatio 
+      pri<lb ed="#L" n="30" break="no"/>mi docet. Per impossibile isto modo detur. Oppositum, scilicet quod aliquid, puta A. quod 
+      <lb ed="#L" n="31"/>Deus nuc vult esse, potest no velle pro nunc esse; ergo per 9. primi A. potest pro nunc no esse, 
+      <lb ed="#L" n="32"/>quod hypothesis haec negauit. Secunda vero pars huius sequitur ex priori cum hoc adiuncto, 
+      <lb ed="#L" n="33"/>quod omne quod nunc est, Deus vult nunc esse, sicut docuit nonum primi. Sextum est, 
+      <lb ed="#L" n="34"/>quod omne // praeteritum quod Deus voluit fuisse, necesse est eum voluisse fuisse, &amp; quod omne 
+      <lb ed="#L" n="35"/>praeteritum necesse est Deum voluisse fuisse, hoc probatur vt quintum. Septimum est, quod 
+      <lb ed="#L" n="36"/>omne quod est aut fuit, necesse est Deum semper ante voluisse fuisse futurum. Nam per 18. 
+      <lb ed="#L" n="37"/>huius necessario sequitur, hoc est aut fuit, ergo semper fuit futurum, ergo omne quod est aut  
+      <lb ed="#L" n="38"/>fuit, semper ante fuit futurum; ergo per 14. primi Deus hoc semper volebat; &amp; per 
+      hypothe<lb ed="#L" n="39" break="no"/>sin antecedens est necessarium, scilicet de omni existente, atque praeterito, hoc est, hoc fuit, 
+      <lb ed="#L" n="40"/>ergo &amp; consequens, sicut probatio primi docet. Ex his autem tribus vltimis, id est, quinto, 
+      <lb ed="#L" n="41"/>sexto, &amp; septimo, de necessitate circa voluntatem diuinam elici potest octauum de impossibi¬. 
+      <lb ed="#L" n="42"/>litate circa eandem, scilicet, quod nullum existens potest Deus nunc nolle actiue, id est, per 
+      <lb ed="#L" n="43"/>actum nolutionis volutioni positiue contrarium nunc esse, nec aliquod existens potest. 
+      <lb ed="#L" n="44"/>nunc velle pro nunc non esse, &amp; quod de nullo praeterito potest nolle actiue ipsum 
+      fu<lb ed="#L" n="45" break="no"/>isse, nec velle ipsum non fuisse, &amp; quod de nullo praesenti vel praeterito potest nolle 
+      acti<lb ed="#L" n="46" break="no"/>ue ipsum fuisse futurum, nec velle ipsum non fuisse futurum. Istud clarissime sequitur 
+      <lb ed="#L" n="47"/>ex praedictis, &amp; confessione hypothesis, decimo primi iuncto. His autem quatuor de 
+      <lb ed="#L" n="48"/>necessitate &amp; impossibilitate voluntatis diuinae circa praesentia &amp; praeterita vltimo 
+      demon<lb ed="#L" n="49" break="no"/>stratis, possunt alia quatuor similia de impossibilitate &amp; necessitate voluntatis diuinae 
+      <lb ed="#L" n="50"/>circa non praesentia &amp; non praeterita similiter demonstrari. Primum est, quod 
+      quod<lb ed="#L" n="51" break="no"/>cunque non existens, quod Deus non vult nunc esse, impossibile est eum velle nunc 
+      es<lb ed="#L" n="52" break="no"/>se, &amp; quod de omni quod nunc non est, impossibile est Deum velle illud nunc esse. 
+      Se<lb ed="#L" n="53" break="no"/>cundum est, quodcunque non praeteritum, quod Deus non voluit fuisse, impossibile 
+      <lb ed="#L" n="54"/>est eum voluisse fuisse, &amp; quod de omni non praeterito, impossibile est eum voluisse 
+      <lb ed="#L" n="55"/>illud fuisse. Tertium est, de omni quod non est nec fuit, impossibile est Deum 
+      vn<lb ed="#L" n="56" break="no"/>quam voluisse illud fuisse futurum. Quartum est, de omni quod nunc non est, nec 
+      fu<lb ed="#L" n="57" break="no"/>it, necesse est Deum nolle actiue illud esse &amp; fuisse, &amp; fuisse futurum vt foret nunc 
+      <lb ed="#L" n="58"/>vel prius. Haec omnia per locum a simili monstrabuntur: Possunt etiam, vt prae¬ 
+      <!--779.xml-->
+      <pb ed="#A" n="746"/>
+               <lb ed="#L" n="1"/>precedentia, demonstrari supponendo cum Philosophoi peri hermenias vit, quod non esse.A 
+      <lb ed="#L" n="2"/>quod non est, quando non est, necesse est, qd. &amp; ista responsio non poterit diffiteri. Quartum  
+      <lb ed="#L" n="3"/>autem istorum probatur per eade 22. primi, &amp; eius corol, succurrente. His igitur quasi 
+      longin<lb ed="#L" n="4" break="no"/>que distantibus praelibatis propinquius? accedendum. Porro respectu cuiuscunque obiecti 
+      ex<lb ed="#L" n="5" break="no"/>trinseci diuina voluntas est aeque libera vel necessaria, &amp; respectu cuiuscunque obiecti futuri 
+      <lb ed="#L" n="6"/>est penitus libera, sicut dicit hypothesis; ergo respectu cuiuscunque obiecti praeteriti vel 
+      praesen<lb ed="#L" n="7" break="no"/>tis contra hypothesin. Vel sic cum eadem maiore sumatur &amp; respectu cuiuscunque obiecti 
+      <lb ed="#L" n="8"/>praeteriti vel praesentis est diuina voluntas necessaria secundum hypothesim, ergo &amp;s respectu 
+      <lb ed="#L" n="9"/>cuiuscunque obiecti futuri, contra hypothesin saepe dictam. Item qualiscunque intrinsece 
+      re<lb ed="#L" n="10" break="no"/>spectu alicuius obiecti est voluntas Dei aliquando, taliscunque fuit semper ante, &amp; semper post. 
+      <lb ed="#L" n="11"/>erit; sed respectu A. futuri nunc est voluntas Dei penitus libera secundum contradictionem, 
+      <lb ed="#L" n="12"/>secundum hypothesi; ergo semper sic erit, ergo cum A. fuerit praesens vel praeteritum contra 
+      <lb ed="#L" n="13"/>hyporhesin. Vel sic cum eadem maiore, &amp; respectu A. praesentis vel praeteriti est voluntas Dei E 
+      <lb ed="#L" n="14"/>necessaria secundum hypothesin, ergo semper ante sic fuit, ergo quando A. fuit futurum, qu.¬ 
+      <lb ed="#L" n="15"/>hypothesis ista negat. Item non sub alia sententia, sub alia tamen forma, qualitercunque 
+      intrin<lb ed="#L" n="16" break="no"/>sece Deus vult aut non vult actiue, amat aut odit aliquando aliquod obiectum, talitercunqu, si 
+      <lb ed="#L" n="17"/>liceat dicere, &amp; ita omnino intrinsece semper ante fecit, &amp; semper post faciet, sed secundum 
+      <lb ed="#L" n="18"/>hypothesin penitus libere &amp; contradictorie Deus vult &amp; amat nunc A. futurum, ergo penitus 
+      <lb ed="#L" n="19"/>similiter libere volet &amp; amabit illud cum fuerit praesens vel praeteritum, contra hypothesin, 
+      <lb ed="#L" n="20"/>quia tunc faciet hoc necessario, sicut hypothesis fatebatur. Vel cum eadem maiore, &amp; 
+      secun<lb ed="#L" n="21" break="no"/>dum hypothesin necessaria intrinsece Deus vult aut amat nunc A. praesens vel praeteritum, 
+      er<lb ed="#L" n="22" break="no"/>go semper ante sic fecit, ergo quando A. fuit futurum, contra hypothesin saepius 
+      memoratam<lb ed="#L" n="23" break="no"/>Hoc autem totum consistit virtualiter in hoc vno, quod voluntas diuina respectu cuiuscunque 
+      <lb ed="#L" n="24"/>obiecti extrinfeci semper est aequaliter, libera, vel necessaria intrinsece ad volendum &amp; 
+      respe<lb ed="#L" n="25" break="no"/>ctu cuiuscunque obiecti, quando est praesens vel praeteritum, est necessaria; ergo semper anteC 
+      <lb ed="#L" n="26"/>dum fuit futurum, sic fuit, ergo &amp;est eadem ratione nunc est necessaria respectu cuiuscunque futuri, 
+      <lb ed="#L" n="27"/>ergo de quocunque futuro necesse est ipsum fore. Nam per decimum primi necessario 
+      sequi<lb ed="#L" n="28" break="no"/>tur Deus vult hoc fore, ergo hoc erit, &amp; antecedens est necessarium, ergo consequens, sicut 
+      <lb ed="#L" n="29"/>superius monstrabatur; vel si respectuobiecti futuri quando est futurum sit 
+      contradictorieli<lb ed="#L" n="30" break="no"/>bera, erit &amp; aequaliter similiter libera respectu illius, quando erit praesens atque praeteritum. Hic 
+      <lb ed="#L" n="31"/>autem omnes huius viae virrrespondent concorditer negando maiorem. Dicunt enim quod 
+      <lb ed="#L" n="32"/>quando res est futura, voluntas diuina non est necessaria, sed libera secundum contradictione 
+      <lb ed="#L" n="33"/>ad illam volendum; cum autem fuerit praesens, vel praeterita, tunc e contra. Sed isti non 
+      ad<lb ed="#L" n="34" break="no"/>uertunt quod tunc Deus aliter intrinsece vult praesentia &amp; praeterita, quam voluit ea futura; 
+      qua<lb ed="#L" n="35" break="no"/>re Deus &amp; eius voluntas necessario intrinsece commutatur contra 5. &amp; 23. primi: mutatur 
+      e<lb ed="#L" n="36" break="no"/>nim intrinsece de vno oppositorum in reliquum, de libero arbitrio in non liberum, de non 
+      ne<lb ed="#L" n="37" break="no"/>cessario in necessarium, de libero secundum contradictionem, in necessarium secundum 
+      alte<lb ed="#L" n="38" break="no"/>ram partem tantum. Item tunc Deus est minus liber intrinsece nunc quam psergo non 
+      in<lb ed="#L" n="39" break="no"/>finitae libertatis, sed certis limitibus definitae, nouellae quoque subijcitur seruituti. Item tunc 
+      <lb ed="#L" n="40"/>Deus est minus potens quam fuit, quare nec omnipotens. Illud enim qd. heri potuit velle &amp; 
+      <lb ed="#L" n="41"/>nolle, hodie non potest, &amp; actum voluntatis intrinsecum, quem heri potuit producere, seu 
+      ha<lb ed="#L" n="42" break="no"/>bere, hodie non potest, &amp; quod heri potuit facere, nunc non potest. Heri enim potuit velle, 
+      <lb ed="#L" n="43"/>quod A. nunc non sit vel prius, hodie tamen factum nunquam esset aut fuisset, nec vnquam. 
+      <lb ed="#L" n="44"/>fuisset futurum, &amp; hodie non sic potest; heri potuit nolle positiue A. vnquam esse, fuisse, vel 
+      <lb ed="#L" n="45"/>fuisse futurum, hodie non sic potest; heri potuit producere seu habere talem actum, volo quod 
+      <lb ed="#L" n="46"/>A. nunquam fuit futurum, praesens, vel praeteritum, hodie non sic potest, nec tantum 
+      domina<lb ed="#L" n="47" break="no"/>tur propriae voluntati. Et idem est de actu nolendi A. vnquam fuisse futurum, praesens, vel 
+      pre<lb ed="#L" n="48" break="no"/>teritum. Heri potuit velle &amp; facere de A. qd. non fuit heri, &amp; qd. nunquam fuit futurum, aut  
+      <lb ed="#L" n="49"/>esset heri, qde ipsum esset aut fuisset heri, &amp; qu. semper ante fuisset futurum ad essendum heri; ho. E 
+      <lb ed="#L" n="50"/>die neutrum potest facere nec fecisse, qd. non est dubium Dei omnipotentiae derogare. Quare &amp;  
+      <lb ed="#L" n="51"/>Lumbar. 1 sent. dist. 44. reprobat opinione dicente Deum non semper posse qd potuit aliquado,  
+      <lb ed="#L" n="52"/>dicitque; Fateamur igitur Deum semper posse quicquid semel potuit, i. habere omnem illa potetia 
+      <lb ed="#L" n="53"/>qua // semel habuit, &amp; omnis illius rei potetiam cuis semel habuit, sed no seper posse facere omne 
+      <lb ed="#L" n="54"/>illud quod alquando potuit facere; potest quidem facere aut fecisse quod aliquando potuit. 
+      <lb ed="#L" n="55"/>Nec quenquam moueat quod dicit, Deum non semper posse facere omne illud qd, aliquando 
+      <lb ed="#L" n="56"/>potuit facere. Hoc enim dicit, vt docet eius processus, non propter aliqua diuersificationem 
+      <lb ed="#L" n="57"/>potentiae diuinae intrinseca, sed tantum propter diuersificationem significationis huius verbi infi¬ 
+      <!--780.xml-->
+      <pb ed="#A" n="747"/>
+               <lb ed="#L" n="1"/>niti, facere, cum hoc verbo praesentis temporis, posse, &amp; iterum cum hoc verbo praeteriti 
+      tem<lb ed="#L" n="2" break="no"/>poris, potuit. Nam secundum logicam suam ibi cum I. significat cum tempore praesenti 
+      facti<lb ed="#L" n="3" break="no"/>onem praesentem, &amp; cum 2. cum tempore praeterito, praeteritam: ideoque negat Desi posse 
+      mo<lb ed="#L" n="4" break="no"/>do resurgere, &amp; concedit qd. potuit olim resurgere, quia hoc non est idem posse cum illo sed 
+      di<lb ed="#L" n="5" break="no"/>uersum, sicut 24. 1. in suo simili plenius ostendebat. Et si obijcias, Deus potuit olim resurgere, 
+      <lb ed="#L" n="6"/>&amp; nunc non potest resurgere, ergo aliquid potuit olim quod nuc non potest; dicendum secundum 
+      <lb ed="#L" n="7"/>logicam Lumbardi praemissam, qd. in 1. cum verbo praeteriti temporis iste infinitus, resurgere, 
+      <lb ed="#L" n="8"/>supponit seu apponit pro resurrectione praeterita, &amp; in 2. cum verbo praesentis temporis pro 
+      <lb ed="#L" n="9"/>resurrectione praesenti, &amp; sic accipitur pro diuersis, quare nec recte concluditur pro eodem, se. 
+      <lb ed="#L" n="10"/>ad, aliquid idem ad olim potuit, nunc non potest; sed sicut in premissis accipit, resurgere, pro 
+      <lb ed="#L" n="11"/>diuersis, sic bene potest concludere pro diuersis hoc modo; ergo Deus aliquid olim potuit, &amp;  
+      <lb ed="#L" n="12"/>aliud nunc non potest, veruntamen idem, resurgere, praeteritum qd olim potuit adhuc potest; 
+      <lb ed="#L" n="13"/>potest enim modo olim resurrexisse, qd. posse est idem omnino cum posse olim resurgere. Vel 
+      <lb ed="#L" n="14"/>aliter forte potest distingui in prima, eo quod resurgere potest sumi pro resurgere nunc vel 
+      pri<lb ed="#L" n="15" break="no"/>us, in secunda vero non potest sumi nisi pro resurgere in praesenti; ergo sumendo resurgere 
+      vni<lb ed="#L" n="16" break="no"/>formiter in praemissis quantum ad formam concludit, sed in materia deficit, quia prima est 
+      fal<lb ed="#L" n="17" break="no"/>sa; sumendo vero difformiter non concludit. Haec autem distinctio plenius potest cognosci ex 
+      <lb ed="#L" n="18"/>24. 1. Negat igitur Lumbard. propter causam diuersae significationis verborum praemissam, Deum 
+      <lb ed="#L" n="19"/>semper posse facere, quicquid aliquando potuit facere, affirmat tamen Deum semper posse qd. 
+      <lb ed="#L" n="20"/>potuit aliquando, &amp; posse modo fecisse quicquid aliquando potuit facere aut fecisse. Item Deo 
+      <lb ed="#L" n="21"/>heri potuit deponere seu non habere illam volutionem aeternam, qua aeternaliter voluit A. nuc 
+      <lb ed="#L" n="22"/>esse, &amp; habuisse volutionem aeternam contrariam, &amp; hodie non sic potest. Nunc enim necesse 
+      <lb ed="#L" n="23"/>est ipsum aeternaliter habuisse illam volationem aeternam, quare &amp; aeternaliter habiturum, cui 
+      <lb ed="#L" n="24"/>sit immutabilis intrinsece omniquaque sicut 5. &amp; 23. 1. docent. Non ergo habet Deo tantam 
+      li<lb ed="#L" n="25" break="no"/>bertatem, tantum dominium propriae voluntatis, nec tantam potestatem ad intra nec ad extra 
+      <lb ed="#L" n="26"/>hodie sicut heri, sed sicut senescit, sic in istis minuitur &amp; decrescit, qd. omnipotentem Dei 
+      ma<lb ed="#L" n="27" break="no"/>num &amp; eius potentiam infinitam horribiliter mutilat &amp; decurtat; seu potius haec frustra inititur 
+      <lb ed="#L" n="28"/>facere &amp; non valet, dicente Dom. per Proph. Nunquid abbreuiata &amp; paruula facta est manus 
+      <lb ed="#L" n="29"/>mea Es. 5o? &amp; infra 40. Ecce non est abbreuiata mans Domini. Sed caueant sic dicentes, quia 
+      <lb ed="#L" n="30"/>adhuc manus eius extenta, supra 5. Item tunc Deo non est semper summe perfectus contra I. 
+      <lb ed="#L" n="31"/>suppositionem &amp; 3. part. coroll. 1. 1. Perfectius enim videtur habere voluntatem liberam ad  
+      <lb ed="#L" n="32"/>extra, sicut olim habuit, quam necessariam nouiter, sicut respectu praesentium &amp; praeteritorum 
+      <lb ed="#L" n="33"/>nunc habet; vel si hoc sit perfectius, prius non fuit summe perfectus; si autem fuit aeque 
+      per<lb ed="#L" n="34" break="no"/>fectus, frustra mutatur intrinsece de vno in aliud, cum secundum sententiam Philosophorum  
+      <lb ed="#L" n="35"/>uulgatam, frustra quidlibet sit per plura, si sufficiant pauciora, maxime ita bene; cum tamen 
+      <lb ed="#L" n="36"/>secundum Philos. 1. Eth. 1. Omnis actus &amp; electio bonum appetere videatur: &amp; sicut 
+      Philos<lb ed="#L" n="37" break="no"/>tam natural, quam metaphysical. ostendunt, Omnis actio est propter finem, omnis autem talis 
+      <lb ed="#L" n="38"/>finis est bonum, sicut 26. 1. allegat. Sed secundum Philosoph. 1. de coelo &amp; mundo 32. Deus &amp; 
+      <lb ed="#L" n="39"/>natura nihil frustra faciunt. Vnde &amp; Ezech. 6. Ego Dominus non frustra locutus sum. Et si quis 
+      <lb ed="#L" n="40"/>dixerit Deum sic mutari non propter bonum suum, sed propter bonum creaturae, quomodo 
+      <lb ed="#L" n="41"/>maneret bonum creaturae, si Deus vniuersam creaturam destrueret, nunquam aliquam 
+      crea<lb ed="#L" n="42" break="no"/>tur?: cum tamen tunc fieret &amp; maneret in ipso necessitas volendi creaturas praecessisse, &amp; 
+      anni<lb ed="#L" n="43" break="no"/>hilatas fuisse? nec etiam talis noua Dei necessitas /lest melior creature, quam eius antiqua 
+      liber<lb ed="#L" n="44" break="no"/>tas. Item in voluntate diuina est contingetia ad vtrumlibet simplicirer respectu omnium 
+      pre<lb ed="#L" n="45" break="no"/>sentium &amp; praeteritorum. Positis namque omnibus naturaliter praeuijs illi actui volutionis 
+      diui<lb ed="#L" n="46" break="no"/>nae, non sequitur necessario ipsum produci, sed stat aequaliter hoc &amp; illud. Nam ita fuit dum 
+      <lb ed="#L" n="47"/>res erant futurae, nec modo aliter intrinsece causatur ille actus volutionis diuinae quam priu 
+      <lb ed="#L" n="48"/>propter 5. &amp; 23. 1. nec aliter extrinsece ab aliquo, scilce extrinseco, concausante propter eadem, 
+      <lb ed="#L" n="49"/>&amp; propter 20 1. iunctum. Volutio ergo diuina respectu present. &amp; praeterit. est simpliciter 
+      con<lb ed="#L" n="50" break="no"/>tingens ad vtrulibet, vt patet per 4 huis, &amp; cofirmatur per II. veritatem 5. huis: quare &amp; 
+      simpli<lb ed="#L" n="51" break="no"/>citer libera secundum contradictionem, sicut patet per 5. veritate 5. huius. Item voluntas diuina 
+      <lb ed="#L" n="52"/>libere secundum contradictionem producit actum volendi praesentia &amp; praeterita, sicut &amp; fecit, 
+      <lb ed="#L" n="53"/>quoniam erant futura, vt patet per corol. 4. huius cum deductione praemissa; quare &amp; 
+      simili<lb ed="#L" n="54" break="no"/>ter contingenter, vt dicit quarta veritas quinti huius. Item contingentia &amp; libertas dicuntur 
+      <lb ed="#L" n="55"/>proprie respectu praesentis, sicut septima veritas &amp; octaua quinti huius ostendunt; ergo 
+      De<lb ed="#L" n="56" break="no"/>us contingenter &amp; libere praesentia vult &amp; facit; Item si Deus possit non velle &amp; nolle 
+      <lb ed="#L" n="57"/>positue fore, quod voluit fore, velitque aliter &amp; aliter intrinsece, quialibere &amp; necessario per 
+      <lb ed="#L" n="58"/>successus &amp; differentias temporum possibile esset quod heri voluit positiue Petrum esse sal¬ 
+      <!--781.xml-->
+      <pb ed="#A" n="748"/>
+               <lb ed="#L" n="1"/>uandum, &amp; voluit ipsum non esse saluandum, sed esse damnandum, &amp; hodie velit ipsum esse 
+      <lb ed="#L" n="2"/>saluandum non damnandum; &amp; idem est de Deum nolle heri A. fore, &amp; hodie velle fore: 
+      er<lb ed="#L" n="3" break="no"/>go per 10. primi, heri Petrus fuit non saluandus, &amp; A. non futurum, &amp; hodie Petrus est 
+      sal<lb ed="#L" n="4" break="no"/>uandus, &amp; A. futurum, contra 18. huius, &amp; contra cuiuslibet hominis rationem. Item tunc 
+      <lb ed="#L" n="5"/>Deus aliter vellet &amp; aliter secundum successus &amp; differentias temporales, &amp; vellet 
+      temporali<lb ed="#L" n="6" break="no"/>ter successiue, &amp; non in aeternitate, seu in instanti aeternitatis, immutabiliter, indiuisibiliter, &amp;  
+      <lb ed="#L" n="7"/>instantanee semper simul, vel in ipsa aeternitate esset successio, &amp; diuisibilitas aliqualis; quare 
+      <lb ed="#L" n="8"/>necessario esset mutabilis, nec sibi summe sufficiens: indigeret namque tempore ad volendum; 
+      <lb ed="#L" n="9"/>&amp; hoc similiter est contra omnes autores loquentes de aeternitate, &amp; actionibo Dei in illa, sicut 
+      <lb ed="#L" n="10"/>I. Imi aliqualiter allegauit. Item tunc a voluntate antiqua tantum non posset noua actio 
+      pro<lb ed="#L" n="11" break="no"/>uenire sine sui mutatione intrinseca praecedete. Oportet enim qd. aliter intrinsece velit, 
+      quan<lb ed="#L" n="12" break="no"/>do producit re quam ante, sicut homo vult aliter hoc fore, &amp; aliter vult hoc esse. Nam quan,  
+      <lb ed="#L" n="13"/>do producit rem, vult necessario &amp; prius voluit libere; si tamen omnino similiter intrinsece 
+      <lb ed="#L" n="14"/>vellet, tunc &amp; prius aeque libere, &amp; aeque necessario vellet tunc &amp; prius, cum res extrinseca no 
+      <lb ed="#L" n="15"/>necessitet Deum intrinsece ad volendum. Iste autem videtur error Aristot. &amp; Auer. 8. phys. 
+      si<lb ed="#L" n="16" break="no"/>cut 34. pars coroll. 1. ini plenius ostendebat. Quare &amp; Steph. Paris. Episc. iuste damnauit 
+      arti<lb ed="#L" n="17" break="no"/>culum iniuste dicentem, quod a voluntate antiqua non porest aliquid nouum procedere absque 
+      <lb ed="#L" n="18"/>transmutatione aliqua praecedente. Nec potest quis dicere quod illa mutatio &amp; illa necessitas 
+      <lb ed="#L" n="19"/>in voluntate diuina sequitur naturaliter productionem rei in esse, &amp; non praecedit, quia hoc 
+      <lb ed="#L" n="20"/>est magis // inconueniens. Si enim illa necessitas sequatur necessario &amp; naturaliter potentiam  
+      <lb ed="#L" n="21"/>rei in esse, potentia rei in esse est naturaliter prior illa, &amp; causa illius, sicut 13. ini est ostensum: 
+      <lb ed="#L" n="22"/>ergo obiectum extrinsecum necessitat voluntatem diuinam ad volendum, quod est horribile 
+      <lb ed="#L" n="23"/>&amp; absurdum. Obiectum quoque extrinsecum non est causa mouens voluntatem diuinam, sicut 
+      <lb ed="#L" n="24"/>20. imi docet, quare nec necessitas. Harum autem duarum necessitatum, quarum vna est in re 
+      pro<lb ed="#L" n="25" break="no"/>ducta, &amp; altera in voluntate diuina, illa in voluntate diuina est causa alterius; haec enim 
+      produ<lb ed="#L" n="26" break="no"/>citur nouiter &amp; causatur ab illa; ergo est prior illa in omnibus, etiam in quibus Deus &amp; creatura 
+      <lb ed="#L" n="27"/>conueniunt, dignior &amp; prior natura est Deus, sicut suppositio prima probat, qd. &amp; docet 
+      Phi<lb ed="#L" n="28" break="no"/>losoph. 2. Met. 4. &amp; 7. eiusdem. 3. &amp; Auer. eisdem comment, sicut 2. imi plenius allegauit. Haec 
+      <lb ed="#L" n="29"/>etiam necessitas in voluntate diuina, vel est necessitas prima simpliciter, vel illi propinquior, vt 
+      <lb ed="#L" n="30"/>nullus dubitat; ergo prior, dicente Philos. 5. Met. 10. Priora &amp; posteriora dicuntur, quaedam 
+      <lb ed="#L" n="31"/>quidem tanquam existente aliquo primo &amp; principio in vnoquoque genere, quod propinquius 
+      <lb ed="#L" n="32"/>principio. Vbi &amp; textus, quem Auer. exponit, sic habet, dicuntur quidem ante &amp; post tanquam  
+      <lb ed="#L" n="33"/>primum ens &amp; principium in vnoquoque genere, &amp; qd. est propinquius alicui principio 
+      ter<lb ed="#L" n="34" break="no"/>minato: super qd. dicit Auer. Vniuersaliter dicitur ante de omni principio terminato, &amp; de 
+      <lb ed="#L" n="35"/>omni qd. est propinquius alicui principio terminato. Prius quoque natura est Deum velle 
+      prae<lb ed="#L" n="36" break="no"/>sentialiter &amp; per modum praesentis rem esse, quam ipsam esse. Hoc enim est causa illius, ergo l 
+      <lb ed="#L" n="37"/>est prius natura, dicente Philosopho in praedicamentis cap. de priori, eorum quae 
+      conuertun<lb ed="#L" n="38" break="no"/>tur secundum essentiae consequentiam: qd. alterius quomodolibet causa est, digne prius 
+      natu<lb ed="#L" n="39" break="no"/>ra dicitur, &amp; hoc velle praesentialiter &amp; per modum praesentis in Deo, postquam voluit per 
+      <lb ed="#L" n="40"/>modum futuri, est mutatio quaedam in eo, sicut ex hypothesi sequitur, ergo mutatio in Deo 
+      <lb ed="#L" n="41"/>praecedit necessario rem productam. Item si Deus re futura vellet libere, &amp; ipsa praesente in 
+      <lb ed="#L" n="42"/>praeteritumue delapsa necessario, aliqua esset causa quare tunc necessario &amp; non prius, &amp; non  
+      <lb ed="#L" n="43"/>nisi praesentia vel praeteritio rei factae; ergo res facta necessitaret voluntatem Dei ad volendum, 
+      <lb ed="#L" n="44"/>qd. Deo videtur indecens, &amp; indignum. Ad hanc autem vltimam rationem multipliciter 
+      re<lb ed="#L" n="45" break="no"/>spondetur. Aliqui namque assignant causam ex parte rei, alij ex parte Dei, alij vero mixtim; &amp; 
+      <lb ed="#L" n="46"/>quidam alij dicunt naturam esse causam istius. Assignantium vero causam ex parte rei, 
+      qui<lb ed="#L" n="47" break="no"/>dam assignant eam ex parte rei absolute, quidam ex parte rei relatiuae, siue relationis. Primi 
+      <lb ed="#L" n="48"/>dicunt, quod res ipsa absoluta praesens vel praeterita est causa quesita. Sed istud non est verum, 
+      <lb ed="#L" n="49"/>quia per vicesimum primi res posterior non est causa voluntatis diuinae, nec aliquid ibi causat,  
+      <lb ed="#L" n="50"/>igitur non eam necessitat. Item res praeterita nihil est, ergo nihil causat, ergo nec diuinam 
+      <lb ed="#L" n="51"/>necessitat voluntatem. Item futurum tantum esse habet, sicut praeteritum, vel maius, quia 
+      <lb ed="#L" n="52"/>esse potentiale &amp; praeteritum non sic habet, ergo tantum vel magis necessitat. Item si sic 
+      <lb ed="#L" n="53"/>esset, hoc esset, quia, rem praesentem vel praeteritam necesse est esse vel fuisse; ideo 
+      ne<lb ed="#L" n="54" break="no"/>cesse est Deum ipsam velle esse vel fuisse; ergo harum duarum necessitatum, quarum  
+      <lb ed="#L" n="55"/>vna est in re, qua necesse est eam esse, vel fuisse, &amp; altera in Deo, qua necesse est eum 
+      <lb ed="#L" n="56"/>sic velle, prior naturaliter esset necessitas in re facta, quia causa alterius quod erat superius 
+      <lb ed="#L" n="57"/>reprobatum. Item Deus potest necessario velle &amp; non futura, quia illa semper possunt no 
+      <lb ed="#L" n="58"/>fore, sed praesentia &amp; praeterita, quia illa non possunt no esse nec fuisse; ergo Deus potest vel¬ 
+      <!--782.xml-->
+      <pb ed="#A" n="749"/>
+               <lb ed="#L" n="1"/>le aliquo modo intrinsece, puta necessarie, &amp; non nisi praesupposito auxilio rei extra, scilicetem¬ 
+      <lb ed="#L" n="2"/>poris temporalisue rei, quare videtur miserabiliter indigens, &amp; non summe sufficiens sibi ipsi 
+      <lb ed="#L" n="3"/>contra ostensa 15. primi. Vnde &amp; Augustinus 6. super Gen. ad literam 10. Nunquid adiutorio 
+      <lb ed="#L" n="4"/>temporis eguit conditor temporis? quasi diceret, nullo modo. Et idem vult expresse II. de 
+      ci<lb ed="#L" n="5" break="no"/>uit. Dei 30. quod maxime videtur verum de operationibus intrinsecis propriae voluntatis. Item 
+      <lb ed="#L" n="6"/>ordinatius decentiusque videtur, vt posterius &amp; effectus contrahat necessitatem a suo priori &amp;  
+      <lb ed="#L" n="7"/>causa quam e contra: &amp; per 30. 2di voluntas diuina est omnium posteriorum effectuum prima 
+      <lb ed="#L" n="8"/>causa. Item supposito secundum istam responsionem, quod obiectum volutum moueat 
+      volu<lb ed="#L" n="9" break="no"/>tatem diuinam, adhuc hoc non facit immediate per se secundum esse suum reale extrinsecum, 
+      <lb ed="#L" n="10"/>sed secundum suum esse cognoscibile intrinsecum, scilce per suam aeternam similitudinem seu idea, 
+      <lb ed="#L" n="11"/>sicut mouet voluntatem creatam tantum per similitudine sua, seu speciem in cognitione 
+      cau<lb ed="#L" n="12" break="no"/>satam. Sed illa similitudo seu idea in mente diuina semper est aeque clara, aeque actualis, &amp; in 
+      <lb ed="#L" n="13"/>g omnibus aequalis per omnia; ergo semper aequaliter mouet voluntatem diuina; ergo si semel 
+      <lb ed="#L" n="14"/>ipsam necessitet, ita semper; &amp; si semel ipsam nequaquam necessitet, neque vnquam. Item tunc 
+      <lb ed="#L" n="15"/>aranea cum debilissimo filo suo posset Deum insolubiliter vinculare, &amp; sic quasi in carcere &amp;  
+      <lb ed="#L" n="16"/>in compedibus per saecula detinere. Nam si filet &amp; vinculet quippiam, necesse est Deum tum 
+      <lb ed="#L" n="17"/>sic velle, &amp; post per saecula sempiterna. Item tunc quaelibet creatura videretur fortior 
+      Creato<lb ed="#L" n="18" break="no"/>re. Item per 3. 2d obiectum volubile non potest necessitare voluntatem creatam, quae est 
+      in<lb ed="#L" n="19" break="no"/>finite debilior quam diuina, ergo nec ipsam: vel si obiectum potest necessitare voluntatem 
+      di<lb ed="#L" n="20" break="no"/>uinam &amp; creatam non potest; ipsa est debilior quam creata. Item sit A. vnum non existens 
+      <lb ed="#L" n="21"/>nunc in B. instanti, nec prius, qd. tamen Deus potuit fecisse nunc &amp; prius; nunc ergo secundum 
+      <lb ed="#L" n="22"/>prius ostensa necesse est Deum nolle actiue A. esse in B. &amp; fuisse ante B. &amp; fuisse futurum ad 
+      es<lb ed="#L" n="23" break="no"/>sendum in B. vel ante, &amp; ita aeternaliter ante &amp; post noluisse, &amp; noliturum esse. Vel vt facilius 
+      <lb ed="#L" n="24"/>pro tardioribus procedatur: ponatur Deum nolle actiue A. esse in B. praesenti instanti, quod 
+      <lb ed="#L" n="25"/>tamen potuit fecisse in B. tunc necesse est eum sic nolle. Causa huius necessitatis non potest as¬ 
+      <lb ed="#L" n="26"/>signari ex parte rei nolutae, cum ipsa non sit, quare nec causat. Item eodem casu retento 
+      impos<lb ed="#L" n="27" break="no"/>sibile est Deum velle A. esse in B. aut fuisse ante B. aut futurum fuisse, vt esset in B. vel ante, &amp; 
+      <lb ed="#L" n="28"/>semper prius potuit ista velle. Quae ergo est causa ita impossibilitans nouiter voluntatem 
+      di<lb ed="#L" n="29" break="no"/>uinam? Non res illa, non ens, cum penitus nihil causat, nec potest impossibilitare voluntatem 
+      <lb ed="#L" n="30"/>creatam. Item absurdum videtur, &amp; cunctorum autibus execrandum, quod aliqua res debilis, 
+      <lb ed="#L" n="31"/>&amp;, quod videtur indignius, aliqua priuatio pura rei omnipotentem ad impotentiam tanta 
+      ne<lb ed="#L" n="32" break="no"/>cessitet, vt non possit nunc nec vnquam in futurum producere seu habere actum voluntatis 
+      in<lb ed="#L" n="33" break="no"/>trinsecum, quem potuit semper ante; nec nunc aut vnquam velle, quod prius potuit semper 
+      vel<lb ed="#L" n="34" break="no"/>le. Nunc enim nec in futuro potest producere, nec habere intrinsece talem actum. 
+      Vo<lb ed="#L" n="35" break="no"/>lo quod haec dies nunquam fuit futura, praesens, neque praeterita; nunc etiam nec 
+      vl<lb ed="#L" n="36" break="no"/>lis futuris temporibus potest producere nec habere talem actum intrinsecum voluntatis. 
+      <lb ed="#L" n="37"/>Volo quod A. fuit futurum ad essendum in B. vel ante; volo quod A. sit in B. volo quod 
+      <lb ed="#L" n="38"/>A. fuit ante B. &amp; semper ante potuit tales actus non temporaliter, sed aeternaliter producere 
+      <lb ed="#L" n="39"/>&amp; habere, &amp; aeternaliter non temporaliter ita velle: quid ergo ab omnipotente tantam 
+      poten<lb ed="#L" n="40" break="no"/>tiam irreparabiliter abstulit? Quid ita insuperabilem indissolubiliter alligauit? Quid tantum 
+      <lb ed="#L" n="41"/>dominium eius intrinsecum super suam propriam voluntatem insanibiliter mutilauit? Quid 
+      <lb ed="#L" n="42"/>summam // libertatem necessitatis &amp; impossibilitatis huiusmodi infimae seruituti inalleuiabiliter 
+      <lb ed="#L" n="43"/>subiugauit? Absit quod aliquis vel leuiter cogitet, quod aliqua creatura hoc faciat, vel aliqua 
+      <lb ed="#L" n="44"/>priuatio creaturae. Assignantium vero causam necessitatis praedictae, ex parte relationis, aliqui 
+      <lb ed="#L" n="45"/>ponunt eam positiuam, &amp; aliqui priuatiuam. Primi dicunt, quod ex praesentia seu 
+      praeteritio<lb ed="#L" n="46" break="no"/>one rei consurgit vna relatio realis vel rationis, quae est causa istius necessitatis in voluntate 
+      di<lb ed="#L" n="47" break="no"/>uina. Sed contra istam responsionem possunt reduci argumenta quae contra priorem. Illa 
+      <lb ed="#L" n="48"/>quoque relatio vel est aliquid, vel nihil. Si nihil, nihil causat, nihil necessitat; si aliquid, 
+      il<lb ed="#L" n="49" break="no"/>lud consurgit ex re absoluta praesenti vel praeterita; ergo ipsa originaliter necessitat ita Deum.  
+      <lb ed="#L" n="50"/>Quicquid enim est causa causae, est causa causati; sic igitur responsio prima redit. Item illam 
+      <lb ed="#L" n="51"/>relationem, si sit aliquid, potest Deus destruere: alias enim Deus &amp; creatura similiter 
+      es<lb ed="#L" n="52" break="no"/>set potentior ad aliquid faciendum, quam ipse Deus ad idem destruendum, quod non 
+      vi<lb ed="#L" n="53" break="no"/>detur, cum sit omnipotens ad quodcunque, qua destructa &amp; ista responsio destruetur. 
+      I<lb ed="#L" n="54" break="no"/>tem praeteriti ad voluntatem diuinam non est aliqua relatio realis, quia non est extremum 
+      <lb ed="#L" n="55"/>reale in quo possit fundari, quia praeteritum iam transsit in non esse, nec potest fundari 
+      <lb ed="#L" n="56"/>in voluntate diuina, quia tuuc potius diceretur relatio voluntatis diuinae ad praeteritum, 
+      <lb ed="#L" n="57"/>quame contra; &amp; quia tunc Deo adesset, accideret, &amp; inhaereret relatio noua realis, quare 
+      <lb ed="#L" n="58"/>&amp; esset mutabilis, contra quintum &amp; vicesimum tertium primi. Quare &amp; Augustinus 5. de 
+      <!--783.xml-->
+      <pb ed="#A" n="750"/>
+               <lb ed="#L" n="1"/>Trinit. 4. &amp; 5. ostendit, quod non omne, quod dicitur de Deo, dicitur de eo secundum 
+      sub<lb ed="#L" n="2" break="no"/>stantiam, quia quaedam dicuntur de eo secundum relationem, vt patet in personis 
+      diuinisini<lb ed="#L" n="3" break="no"/>hil tamen dicitur de eo secundum accidens, quia non mutabiliter. Vnde cap. 4. sic dicit, 
+      Ni<lb ed="#L" n="4" break="no"/>hil itaque accidens in Deo, quia nihil mutabile aut amissibile, nihil in eo secundum accidens 
+      <lb ed="#L" n="5"/>dicitur, quia nihil ei accidit; nec tamen omne quod dicitur; secundum substantiam dicitur; 
+      <lb ed="#L" n="6"/>in rebus autem creatis atque mutabilibus quod non secundum substantiam dicitur; restat vt 
+      <lb ed="#L" n="7"/>secundum accidens dicatur. Omnia enim accidunt eis quae vel amitti possunt vel minui. Et  
+      <lb ed="#L" n="8"/>sequitur capit. 5. In Deo autem nihil quidem secundum accidens dicitur, quia in eo nihil 
+      mu<lb ed="#L" n="9" break="no"/>tabile est aut amissibile; nec tamen omne quod Deus dicitur, secundum substantiam dicitur. 
+      <lb ed="#L" n="10"/>Dicitur enim ad aliquid, sicut pater ad filium, &amp; filius ad patrem, quod non est accidensi 
+      <lb ed="#L" n="11"/>quia &amp; ille semper pater, &amp; ille semper filius, &amp; ita semper, quia semper natus est filius, nec 
+      <lb ed="#L" n="12"/>caepit vnquam esse filius, quod si aliquando esse caepisset, aut aliquando esse desineret filius, 
+      <lb ed="#L" n="13"/>secundum accidens diceretur; &amp; quia pater non dicitur pater nisi ex eo quod est ei filius, &amp; 
+      fi<lb ed="#L" n="14" break="no"/>lius non dicitur filius nisi ex eo quod habet patrem, non secundum substantiam haec dicuntur, 
+      <lb ed="#L" n="15"/>sed adinuicem ista dicuntur, neque tantum secundum accidens, quia &amp; quod dicitur pater, &amp;  
+      <lb ed="#L" n="16"/>quod dicitur filius aeternum atque incommutabile est eis. Et infra eiusdem vlt. mouet 
+      quae<lb ed="#L" n="17" break="no"/>stionem de relationibus // temporalibus in Deum &amp; creaturam, secundum quas temporaliter 
+      <lb ed="#L" n="18"/>ad inuicem referuntur, quomodo illae non sunt accidentia, quoniam nihil accidit Deo 
+      tem<lb ed="#L" n="19" break="no"/>poraliter quia non est mutabilis. Et respondet quod hoc est, non quia ipsi substantiae Dei 
+      ali<lb ed="#L" n="20" break="no"/>quid temporaliter accidat, sed illi creaturae ad quam dicitur relatiue; quare finaliter sic 
+      con<lb ed="#L" n="21" break="no"/>cludit, quod ergo temporaliter dici incipit Deus, quod antea non dicebatur, manifestum est 
+      <lb ed="#L" n="22"/>relatiue dici non secundum accidens Dei, quod ei aliquid acciderit, sed plane secundum 
+      acci<lb ed="#L" n="23" break="no"/>dens eius, ad quod dici aliquid Deus incipit, ipse mutatur, Deus autem absit vt aliquem 
+      tem<lb ed="#L" n="24" break="no"/>poraliter diligat, quasi noua dilectione quae in ipso ante non erat, apud quem nec praeterita 
+      <lb ed="#L" n="25"/>transierunt, &amp; futura iam facta sunt. Et per hoc totum innuit tertium modum eorum quae 
+      di<lb ed="#L" n="26" break="no"/>cuntur ad aliquid, sicut mensurabile ad mensuram, scibile seu scitum ad scientiam, &amp; // sensibile 
+      <lb ed="#L" n="27"/>seu sensatum ad sensum, vt docet Philosophus 5. metaphys. 20. quae ideo relatiue dicuntur, vt 
+      <lb ed="#L" n="28"/>vtar verbis Auerrois, non quia relatio est in substantia vtriusque relatiui, sed in substantia 
+      alte<lb ed="#L" n="29" break="no"/>rius tantum, &amp; in altero propter aliud, id est alterum, puta scitum seu sensatum resertur ad 
+      sci<lb ed="#L" n="30" break="no"/>entiam seu sensationem tantum propter relationem alius relatiui ad ipsum. Nam quum 
+      quic<lb ed="#L" n="31" break="no"/>quid scitur nouiter aut sentitur, nihil nouum causatur in eo, sed in sentiente tantummodo vel 
+      <lb ed="#L" n="32"/>sciente, &amp; per illud solum refertur ad ipsos: non est ergo aliqua noua relatio realis inter 
+      De<lb ed="#L" n="33" break="no"/>um &amp; praeteritum, quae ipsum necessitet ad volendum, nec etiam aliqua noua relatio rationis, 
+      <lb ed="#L" n="34"/>quia non in Deo, cum omnino // similiter intrinsece semper se habeat, quia aliter esset 
+      mutabi<lb ed="#L" n="35" break="no"/>lis, vt praecedentia docuerunt, nec in rebus praesentibus: ponatur enim quod Deus totum 
+      <lb ed="#L" n="36"/>annihilet vniuersum: nec in rebus praeteritis, cum nihil sint omnino, nec quicquam omnino T 
+      <lb ed="#L" n="37"/>sit in eis aliquaue illarum. Item tanta est relatio futuri ad voluntatem diuinam sicut praeteriti, 
+      <lb ed="#L" n="38"/>ergo tantum necessitat. Item relatio, vt dicit Auerroes super 12. metaphys. comment. 20. est 
+      <lb ed="#L" n="39"/>debilioris esse alijs praedicamentis, sed alia praedicamenta absoluta non necessitant 
+      volunta<lb ed="#L" n="40" break="no"/>tem diuinam, vt patet contra responsionem priorem. Item tunc Deus necessitatur ad 
+      volen<lb ed="#L" n="41" break="no"/>dum illam relationem, aut ergo per seipsam, aut per aliam; si per seipsam, eadem ratione sic 
+      <lb ed="#L" n="42"/>posset necessitari per absolutum ad ipsum volendum, maxime cum absolutum sit melius &amp; 
+      <lb ed="#L" n="43"/>magis volubile, magisque motiuum voluntatis: si per aliam, erit processus necessario sine fine. 
+      <lb ed="#L" n="44"/>Ponentes vero causam priuatiuam ex parte relationis, dicunt Deum non posse velle de 
+      quo<lb ed="#L" n="45" break="no"/>quam praesenti ipsum non esse, nec de quoquam praeterito ipsum non fuisse, quia hoc non est 
+      <lb ed="#L" n="46"/>volubile. Sed isti non recte tangunt causam quaesitam; quaesita namque primo fuit causa, 
+      qua<lb ed="#L" n="47" break="no"/>re necesse est Deum velle hoc esse, vel hoc fuisse, non quare non potest velle contrarium. 
+      Li<lb ed="#L" n="48" break="no"/>cet enim Deus non posset velle contrarium, posset tamen, vt videtur, secundum istam 
+      respon<lb ed="#L" n="49" break="no"/>sionem non habere hoc velle, sicut homo potest non velle hoc esse, licet non velit hoc non I 
+      <lb ed="#L" n="50"/>esse. Item nulla relatio creata, seu extrinseca necessitat Deum ad volendum, sicut contra 
+      re<lb ed="#L" n="51" break="no"/>sponsionem proximam est ostensum; ergo nec alicuius talis relationis priuatio necessitat eum 
+      <lb ed="#L" n="52"/>ad non volendum, cum priuatio talis non sit potentior super voluntatem diuina, quam habitus. Item 
+      <lb ed="#L" n="53"/>causa quare hoc no esse non est pro nunc volubile, est quia hoc nunc est, quare &amp; pro nunc 
+      ne<lb ed="#L" n="54" break="no"/>cesse est hoc esse: haec enim affirmatiua est prior ista negatiua &amp; causa illius: aliqua enim 
+      ne<lb ed="#L" n="55" break="no"/>cessario debet esse, vt 13. primi docet: existentia ergo huius rei est causa originalis 
+      impossibili<lb ed="#L" n="56" break="no"/>tatis Deum voledi hoc nunc no esse, &amp; necessitatis non sic volendi. Quare res extra est causa 
+      im<lb ed="#L" n="57" break="no"/>possibilitatis &amp; necessitatis in volutate diuina, sicut responsio Ia dixit, Item eadem ratione 
+      necesse<lb ed="#L" n="58" break="no"/>est Deum nunc velle hoc esse, quia hoc no esse, no potest nunc non esse volubile, &amp; hoc est quia 
+      <!--784.xml-->
+      <pb ed="#A" n="751"/>
+               <lb ed="#L" n="1"/>necesse est nunc hoc esse volubile, &amp; hoc quia necesse est hoc esse, &amp; hoc quia hoc est. Hoc enim 
+      <lb ed="#L" n="2"/>esse, est originale &amp; primarium antecedens, ex quo a priori &amp; causaliter haec omnia cosequutur, 
+      <lb ed="#L" n="3"/>sicut in simili, proximo est deductum, quare &amp;c. sicut ibi. Item vt clarius arguatur, ista resposio 
+      ha<lb ed="#L" n="4" break="no"/>bet necessario dicere consequeter, quod ideo Deus necessario vult hoc esse, quia necessario est 
+      <lb ed="#L" n="5"/>volubile istud esse, &amp; causa originalis istius est hoc nuc esse, quare hoc nunc esse necessitat Deum 
+      <lb ed="#L" n="6"/>velle, quia quicquid est causa causae est causa causati; &amp; sic responsio prima redit. Itemtunc 
+      <lb ed="#L" n="7"/>quaelibet res existens necessitat Deum velle, &amp; quaelibet res actiua, quae aliam potest 
+      produ<lb ed="#L" n="8" break="no"/>cere, potest necessitare, &amp; impossibilitare voluntatem diuinam, sicut responsio prima dixit, 
+      <lb ed="#L" n="9"/>Item pura &amp; sola priuatio nunquam est causa alicuius positiui, quare nullius actus necessarij 
+      <lb ed="#L" n="10"/>in voluntate diuina. Ttemhoc nunc non esse est volubile ab homine, &amp; aliquando fuit 
+      volu<lb ed="#L" n="11" break="no"/>bile a Deo, quia non est simpliciter &amp; per se non volubile, seu inuolubile ab eo, &amp; nunc non 
+      <lb ed="#L" n="12"/>est volubile a Deo, sed non volubile seu inuolubile; ergo aliqua est causa istius mutationis, 
+      <lb ed="#L" n="13"/>&amp; huius negationis &amp; priuationis est aliqua affirmatio &amp; potentia prior &amp; causa, vt 13. primi 
+      <lb ed="#L" n="14"/>docet, &amp; illa non potest poni, nisi ista res absoluta nunc existens, vel aliquid respectiuum in 
+      <lb ed="#L" n="15"/>ea, &amp; sic redit prima responsio vel secunda. Assignantes vero causam necessitatis praemissae 
+      <lb ed="#L" n="16"/>ex parte Dei tantum, &amp; intrinsecam ipsi Deo quadrupliciter variantur. Nam pdicunt 
+      <lb ed="#L" n="17"/>hoc esse ex natura diuina: Deus enim, vt dicunt, est talis naturae, quod praesenti re vel 
+      praete<lb ed="#L" n="18" break="no"/>rita necessario vult ipsam esse vel fuisse. Sed si hoc sit pure naturaliter &amp; intrinsece tantum 
+      <lb ed="#L" n="19"/>Deo, cum agens pure naturaliter dispositum semper similiter, passo quoque disposito semper 
+      <lb ed="#L" n="20"/>similiter, semper sit similis actio, cum nulla causa dissimilitudinis possit dari, sicut &amp; docet  
+      <lb ed="#L" n="21"/>Philosophus 9. Metaphys. 10. sed omnia pure naturalia Deo intrinseca semper similiter 
+      dis<lb ed="#L" n="22" break="no"/>ponuntur, cum per quintum primi sit immutabilis in natura, semper necessitatur aequaliter 
+      <lb ed="#L" n="23"/>ad volendum. Haec autem ratio confirmatur, quod secundum Philosophum 2. de 
+      genera<lb ed="#L" n="24" break="no"/>tione &amp; corruptione cap. penult. Idem &amp; similiter habens, semper indem innatum est facere, 
+      <lb ed="#L" n="25"/>&amp; 5. Metaphys. 2. ostendit, quod idem est causa contrariorum, sed per dispositiones diuersas; 
+      <lb ed="#L" n="26"/>natura vero diuina disponitur semper similiter. Nec potest quis dicere quod natura Dei 
+      ali<lb ed="#L" n="27" break="no"/>ter intrinsece disponitur praesente re vel praeterita, quam ipsa futura, quia tunc esset 
+      mutabi<lb ed="#L" n="28" break="no"/>lis, &amp; quia tunc hoc esset ex praesentia vel praeteritione rei; ergo ipsa esset causa necessitatis 
+      <lb ed="#L" n="29"/>in voluntate diuina, quod prius est destructum. Secundi vero ponunt hoc esse ex parte 
+      veri<lb ed="#L" n="30" break="no"/>tatis diuinae, quae sicut res praesens &amp; praeterita, ita necessario se habet, ita necessario exigit vt 
+      <lb ed="#L" n="31"/>Deus conformiter semper velit. Haec autem responsio potest redargui sicut prior, quia 
+      veri<lb ed="#L" n="32" break="no"/>tas diuina naturaliter pure sumpta semper intrinsece similiter omnino se habet. Item 
+      secun<lb ed="#L" n="33" break="no"/>dum istam responsionem causa istius est veritas necessaria ex parte rei praesentis vel praeterite, 
+      <lb ed="#L" n="34"/>&amp; causa originalis istius est existentia talis rei; ergo &amp; ipsa est originalis causa necessitatis in 
+      <lb ed="#L" n="35"/>voluntate diuina, quod erat superius reprobatum. Item veritas Dei intrinseca respectu futuri 
+      <lb ed="#L" n="36"/>tanta est, &amp; intrinsece similiter omnino se habens sicut respectu praeteriti vel praesentis; quare 
+      <lb ed="#L" n="37"/>tam necessaria &amp; tam firma. Non enim posset intrinsece aliter se habere nisi propter 
+      existen<lb ed="#L" n="38" break="no"/>tiam vel praeteritionem rei extrinsecae, quod non potest, cum nullo modo ab illa dependeat 
+      <lb ed="#L" n="39"/>nec causetur, cum haec sit inferior veritas, illa superior; haec causata, illa incausata; haec 
+      po<lb ed="#L" n="40" break="no"/>sterior, illa prior, sicut vndecimum &amp; duodecimum primi docent. Tertij autem credunt, 
+      <lb ed="#L" n="41"/>quod hoc sit ex parte voluntatis diuinae, scilicet, quia vult se necessitari ad volendum 
+      prae<lb ed="#L" n="42" break="no"/>sens esse, praeteritumque fuisse. Sed si quando res venit &amp; praeterijt velit se necessitari ad sic 
+      <lb ed="#L" n="43"/>volendum, vel hoc vult necessario, vel libere secundum contradictionem, Si necessario, 
+      vn<lb ed="#L" n="44" break="no"/>de sibi illa necessitas? Et redit pristina difficultas, quia processus infinitus in talibus 
+      volun<lb ed="#L" n="45" break="no"/>tatibus non est dandus. Si libere secundum contradictionem, potest non sic velle; quod si 
+      <lb ed="#L" n="46"/>ponatur, non necessitatur, sicut hypothesis ista dicit. Item sit A. voluntas qua Deus vult nunc 
+      <lb ed="#L" n="47"/>hoc esse libere secundum contradictionem, &amp; B. voluntas qua vult se necessitari ad A. vel 
+      <lb ed="#L" n="48"/>ergo B. est voluntas nunc noua vel antiqua, &amp; aeterna; non est nunc noua, vt 23. primi 
+      mon<lb ed="#L" n="49" break="no"/>strat. Si est aeterna, vel ergo illa aeterna aeternaliter ante fuit libera secundum contradictionem, 
+      <lb ed="#L" n="50"/>vel necessaria; si libera, vnde ergo nunc est necessaria? Et reuertitur difficultas. Si fuit 
+      aeter<lb ed="#L" n="51" break="no"/>naliter necessaria, &amp; ex illa semper necessario sequebatur A. nunc fore, &amp; ex A. hoc fore; 
+      <lb ed="#L" n="52"/>quare sicut prius erat ostensum, aeternaliter fuit necessarium A. nunc fore, &amp; hanc rem nunc 
+      <lb ed="#L" n="53"/>fore, &amp; ita de quocunque futuro, cuius oppositum hypothesis supponebat. Item posito quod 
+      <lb ed="#L" n="54"/>harum duarum volutionum Dei, quarum vna vult rem esse vel fuisse, &amp; altera se necessitari 
+      <lb ed="#L" n="55"/>ad sic volendum, si haberet tantum primam, adhuc necessario vellet rem esse vel fuisse, sicut 
+      <lb ed="#L" n="56"/>res necessario esset aut fuisset. Posito namque, quod haberet volutionem hanc solam, volo 
+      <lb ed="#L" n="57"/>hoc esse aut fuisse, necessario ita vellet. Item sola Dei voluntas, qua vult rem fore in A. 
+      in<lb ed="#L" n="58" break="no"/>stanti futuro, sufficit ad producendum illam in esse in A. sicut decimum primi &amp; corollarium  
+      <!--785.xml-->
+      <pb ed="#A" n="752"/>
+               <lb ed="#L" n="1"/>eius docent, &amp; quia alias non esset omnipotens, quod si ponatur, responsio destruetur. Item 
+      <lb ed="#L" n="2"/>eadem ratione posset necessitare se similiter ad volendum omnia futura, &amp; ad omnia 
+      produ<lb ed="#L" n="3" break="no"/>cendum. Quis ergo nouit sensum Domini, vel quis consiliarius eius fuit in tantum vt audeat  
+      <lb ed="#L" n="4"/>dicere non sic fecit? Item eadem ratione posset se necessitare similiter ad non faciendum, &amp; 
+      <lb ed="#L" n="5"/>impossibilitare ad faciendum quodcunque quod non est facturus, &amp; ita posset reddere 
+      omni<lb ed="#L" n="6" break="no"/>potentem tam impotentem, vt non possit leuare festucam, volendo scilicet se necessitari ad  
+      <lb ed="#L" n="7"/>volendum nunquam leuare festucam, vel impossibilitari ad volendum se leuare festucam. 
+      <lb ed="#L" n="8"/>Item cum Deus non possit necessitari ad volendum futura, &amp; potest ad praesentia, &amp; nulla 
+      <lb ed="#L" n="9"/>causa ex parte Dei intrinseca potest dari, propter immutabilitatem eius omnimodam, aliqua 
+      <lb ed="#L" n="10"/>causa extrinseca erit danda, &amp; nulla nisi res extra, sicut responsio prima dixit. Item tes 
+      prae<lb ed="#L" n="11" break="no"/>sens vel praeterita necessario praesupponitur ad istam necessitatem in voluntate diuina; ergo 
+      <lb ed="#L" n="12"/>est aliqua causa illius, sicut ostensum fuerat quarto primi, &amp; sic responsio prima redit. Quarti 
+      <lb ed="#L" n="13"/>vero affirmant hoc esse ex parte modi volendi in Deo. Dicunt enim quod vult futurum quasi 
+      <lb ed="#L" n="14"/>future, scilicet per talem actum volo hoc fore; praesens vero &amp; praeteritum quasi 
+      praesentia<lb ed="#L" n="15" break="no"/>liter &amp; praeterite, id est, per tales actus volo hoc esse, volo hoc fuisse; quorum modorum 
+      pri<lb ed="#L" n="16" break="no"/>mus, vt dicunt, facit libertatem secundum contradictionem, alij vero necessitatem secundum 
+      <lb ed="#L" n="17"/>alteram partem tantum. Sed istud non est verum, quia omnino similiter, &amp; non aliter 
+      intrin<lb ed="#L" n="18" break="no"/>sece vult primo hoc fore, secundo hoc esse, &amp; tertio hoc fuisse: alias enim intrinsece 
+      mutare<lb ed="#L" n="19" break="no"/>tur, contra quintum, vicesimum tertium, &amp; vicesimum quintum primi. Item si Deus aliter 
+      in<lb ed="#L" n="20" break="no"/>trinsece vellet praeterita, praesentia, &amp; futura, aliter intrinsece ea // sciret, contra prius ostensa 
+      <lb ed="#L" n="21"/>vicesimo tertio &amp; vicesimo quarto primi. Item etsi illi modi volendi essent diuersi, nulla 
+      pos<lb ed="#L" n="22" break="no"/>set causa intrinseca assignari, quare vnus esset liber &amp; non alius, cognitio, potentia volutiua, 
+      <lb ed="#L" n="23"/>&amp; omnia intrinseca requisita sint aeque potentia, aeque efficacia, &amp; per omnia aeque firma 
+      re<lb ed="#L" n="24" break="no"/>spectu vnius, sicut &amp; respectu alterius, nec potest assignari causa extrinseca, quia tunc 
+      redi<lb ed="#L" n="25" break="no"/>ret prima responsio vel secunda. Item Deus vult praesentialiter hunc viatorem esse 
+      praedesti<lb ed="#L" n="26" break="no"/>natum, &amp; praeterite hunc fuisse praedestinatum, ergo vult necessario istis modis, ergo iste 
+      via<lb ed="#L" n="27" break="no"/>tor necessario est praedestinatus, quare &amp; necessario est saluandus, cum haec ambo ex 
+      antece<lb ed="#L" n="28" break="no"/>dente necessario necessario consequantur. Et similiter potest argui de quocunque futuro, 
+      <lb ed="#L" n="29"/>quod ipsum necessario veniet, qui de quocunque tali Deus &amp; vult praesentialiter &amp; praeterite 
+      <lb ed="#L" n="30"/>voluit tales propositiones esse veras fuisseque veras, hoc erit, est verum; hoc erit, fuit verum; 
+      <lb ed="#L" n="31"/>quare necessario vult &amp; voluit istis modis, vnde necessario sequitur quod hoc erit. Et idem est 
+      <lb ed="#L" n="32"/>si A. ponatur volutio, qua Deus vult hoc fore, &amp; B. volutio qua vult A. esse vel fuisse, quod 
+      <lb ed="#L" n="33"/>B. est necessaria &amp;c. sicut prius. Quare alij perpendentes causam necessitatis praemissae non  
+      <lb ed="#L" n="34"/>posse sufficienter assignari ex parte rei solius, nec Dei solius, assignant eam mixtim inde. Sed 
+      <lb ed="#L" n="35"/>praecedentibus stantibus istud stare non potest, quoniam omnis effectus causatus a duabus 
+      <lb ed="#L" n="36"/>causis, aut causatur partim ab vna &amp; partim ab alia, aut ab vtraque secundum se totum, sicut 
+      <lb ed="#L" n="37"/>actus voluntatis creatae totus efficitur a voluntate creata &amp; totus ab increata similiter, sicut 
+      co<lb ed="#L" n="38" break="no"/>rollarium 20. secundi monstrauit, sed necessitas supra dicta non causatur partibiliter ab his 
+      <lb ed="#L" n="39"/>causis, quia nulla potest ibi partibilitas assignari. Nec potest quis fingere, quod partibilitas 
+      <lb ed="#L" n="40"/>similitudinaria &amp; imaginaria secundum intensionem &amp; remissionem est ibi ponenda; quia 
+      <lb ed="#L" n="41"/>sit A. illa necessitas, &amp; B. pars eius primaria causata a Deo, &amp; C. reliqua pars eius causata a 
+      <lb ed="#L" n="42"/>causa secunda; aut ergo A. est infinitae intensionis, aut tantum finitae. Si infinitae. ergo &amp;t tam 
+      <lb ed="#L" n="43"/>B. quam C. quia si alterum non sit infinitum, sed tantum finitum, sit illud C. sicut magis 
+      vi<lb ed="#L" n="44" break="no"/>detur, tunc B. est simpliciter infinitum: alias enim ex ipso &amp; C. non componeretur 
+      simplici<lb ed="#L" n="45" break="no"/>ter infinitum, quia finitum adiunctum finito facit tantum finitum, sicut potest Mathematice 
+      <lb ed="#L" n="46"/>demonstrari. Ostensum est etiam primo primi, nullam formam posse esse infinitam 
+      simpli<lb ed="#L" n="47" break="no"/>citer intensiue, nec potest concedi, quod B. pars A. necessitatis praedictae est simpliciter 
+      infi<lb ed="#L" n="48" break="no"/>nitum, quia necessario finitur in copulatione C. cum ipso. Ibi enim de necessitate est aliquis 
+      <lb ed="#L" n="49"/>gradus, qui est finis communis &amp; terminus vtriusque, sicut &amp; aliquis punctus esset in 
+      continu<lb ed="#L" n="50" break="no"/>atione duarum linearum talium. Et quia B. est pars A. quare &amp; minus illo; sed nullum 
+      infini<lb ed="#L" n="51" break="no"/>tum simpliciter est minus aut maius alio simpliciter infinito, sicut testatur Philosophus multis 
+      <lb ed="#L" n="52"/>locis. Si vero dicatur in primis, quod A. non est simpliciter infinitum, sed secundum quid 
+      <lb ed="#L" n="53"/>tantum, potest refelli per indem, quoniam si tam B. quam C. sit omniquaque finitum, ergo &amp;st 
+      <lb ed="#L" n="54"/>A. constiturum ex illis, sicut superius est argutum. Quare forsitan dabitur, quod A. est 
+      simpli<lb ed="#L" n="55" break="no"/>citer &amp; omniquaque finitum; sed tunc A. posset augeri, &amp; esse maius &amp; melius, cum A. sit 
+      bo<lb ed="#L" n="56" break="no"/>num in Deo, quia per tertiam partem corollarij primi, primi nihil aliud est in eo; non ergo 
+      <lb ed="#L" n="57"/>omne bonum in Deo est in eo optimum possibile, nec summum, contra quartam partem 
+      co<lb ed="#L" n="58" break="no"/>rollarij supradicti; quare nec Deus semper necessario optimus permaneret, contra sextam 
+      <!--786.xml-->
+      <pb ed="#A" n="753"/>
+               <lb ed="#L" n="1"/>partem corollarij memorati. <ref xml:id="dcn2br-e98222-Rd1e1209">
+                  <name xml:id="dcn2br-e98222-Nd1e1211">Anselmus</name> quoque <title>Monolog</title>. 16.</ref> 
+               <quote xml:id="dcn2br-e98222-Qd1e1219" source="http://scta.info/resource/adcmon-c16-d1e189@39-83">Palam est, inquit, quod 
+      quod<lb ed="#L" n="2" break="no"/>libet bonum summa natura sit, summe illud est; illa est ergo summa essentia, summa vita, 
+      <lb ed="#L" n="3"/>summa ratio, summa salus, summa iustitia, summa sapientia, summa veritas, summa 
+      boni<lb ed="#L" n="4" break="no"/>tas, summa magnitudo, summa pulchritudo, summa aeternitas, summa immutabilitas</quote>, quare 
+      <lb ed="#L" n="5"/>&amp; summa necessitas supradicta. Item si Deus nouiter licet tantum partibiliter, causaret in 
+      <lb ed="#L" n="6"/>voluntate sua necessitatem huiusmodi, ipse esset mutabilis, sicut superius est ostensum. Item 
+      <lb ed="#L" n="7"/>voluta posteriora non sunt causa totalis, nec etiam partialis voluntatis diuinae, sicut 
+      vicesi<lb ed="#L" n="8" break="no"/>mum primi docet, nec quicquam agunt in illam, quare nec eam necessitant vllo 
+      modo<lb ed="#L" n="9" break="no"/>Ostensum est etiam contra responsiones priores, quod res extra non sunt causa necessitatis 
+      <lb ed="#L" n="10"/>istius, quare nec causa etiam partialiter effectiua. Nec potest quis dicere quod tam Deus quam 
+      <lb ed="#L" n="11"/>res extra causant istam necessitatem secundum se totam, quia vtrumque est reprobatum 
+      su<lb ed="#L" n="12" break="no"/>perius contra responsiones praemissas. Item Deus disponitur omnino similiter, &amp; penitus 
+      <lb ed="#L" n="13"/>non aliter, quantum est ex parte sui intrinsece, nunc existente hac re, quam psicut 
+      osten<lb ed="#L" n="14" break="no"/>sum est supra; ergo illa noua necessitas in voluntate diuina causatur totaliter a re extra. Item 
+      <lb ed="#L" n="15"/>remota omni noua causatione ex parte Dei intrinseca, &amp; tantum posita re praesenti, ponetur 
+      <lb ed="#L" n="16"/>illa necessitas, sicut praecedentia manifestant; ergo positio sola rei est causa sufficiens 
+      neces<lb ed="#L" n="17" break="no"/>sitatis istius. Item quod Deus mixtim cum re extra praesenti necessitatem hanc causet, vel 
+      <lb ed="#L" n="18"/>est libere secundum contradictionem, vel necessario. Si libere, potest non sic causare stante 
+      <lb ed="#L" n="19"/>re praesenti, &amp; tunc vel non erit talis noua necessitas, quod est contra primam hypothesin; 
+      <lb ed="#L" n="20"/>vel si erit, causabitur a re sola, quod responsio ista negat. Si necessario, vnde sibi illa 
+      neces<lb ed="#L" n="21" break="no"/>sitas? &amp;c. sicut contra responsionem sextam praemissam. Item quod Deus mixtim cum re 
+      <lb ed="#L" n="22"/>praesenti causet necessitatem huiusmodi, vel hoc est pure naturaliter vel voluntarie. Si 
+      natu<lb ed="#L" n="23" break="no"/>raliter, hoc roprobabitur, sicut responsio quarta prius. Si voluntarie, sit ergo quod per A. 
+      vo<lb ed="#L" n="24" break="no"/>lutionem seu actum intrinsecum voluntatis: Aut ergo A. est noua volutio vel aeterna, &amp;c. 
+      <lb ed="#L" n="25"/>sicut contra responsionem sextam in simili argumento. Item si sic esset, hoc maxime 
+      videre<lb ed="#L" n="26" break="no"/>tur contingere, quia Deus causat rem praesentem, &amp; illa vlterius causat istam necessitatem in 
+      <lb ed="#L" n="27"/>voluntate diuina; ergo res praesens, tanquam causa instrumentalis, media d secunda, totam 
+      <lb ed="#L" n="28"/>hanc necessitatem causaret, quod superius est destructum: Item res praeterita nihil est, quare 
+      <lb ed="#L" n="29"/>nihil causat, neque necessitat separatim nec mixtim. Res eriam, quae nunc non est nec 
+      vn<lb ed="#L" n="30" break="no"/>quam fuit, potuit tamen nunc esse &amp; prius fuisse, nihil est nec fuit, ergo nihil causat separatim 
+      <lb ed="#L" n="31"/>nec mixtim, quare nec sic diuinam necessitat aut impossibilitat voluntatem, &amp;c. quae contra 
+      <lb ed="#L" n="32"/>primam responsionem similiter sunt arguta. Alij vero videntes nullam causam necessitatis 
+      <lb ed="#L" n="33"/>huiusmodi rationabiliter posse dari, dicunt nullam esse causam illius, quare nec aliquam 
+      cau<lb ed="#L" n="34" break="no"/>fam illius conquaerendam, nec aliquam assignandam, quod &amp; per exempla confirmant: 
+      <lb ed="#L" n="35"/>Deus, inquiunt, aliquando creauit mundum, sed quare tunc? Deus etiam est nouiter creator 
+      <lb ed="#L" n="36"/>&amp; Dominus huius rei, sed quare? Quid efficit eum talem? Quasi diceret, nulla causa. Sed 
+      <lb ed="#L" n="37"/>istud neque Philosophice, neque Logice, neque Theologice potest dici: omnis enim 
+      muta<lb ed="#L" n="38" break="no"/>tio causam habet, sicut tota Philosophia testatur. Nam alias seuitate consimili posset dici, 
+      <lb ed="#L" n="39"/>quod nullus motus, nulla actio, vel passio, &amp; vniuersaliter quod nulla mutatio aliquam 
+      cau<lb ed="#L" n="40" break="no"/>sam habet: hic autem est mutatio; nam transitus de vno contradictoriorum in reliquum 
+      sine<lb ed="#L" n="41" break="no"/>mutatione esse non potest; sed Deus prius fuit libere &amp; non necessario volens istud, nunc 
+      an<lb ed="#L" n="42" break="no"/>tem est non libere, sed necessario volens istud. Quod autem transitus de vno contra 
+      dictori<lb ed="#L" n="43" break="no"/>orum in reliquum necessario mutationem requirat, Logica clare docet. Sit enim A. ista, 
+      <lb ed="#L" n="44"/>Deus non est necessario volens istud, &amp; B. ista, Deus est necessario volens istud, &amp; C. hoc 
+      in<lb ed="#L" n="45" break="no"/>stans, &amp; secundum illud vulgatissimum Logicum, Eo quod res est, vel non est, est oratio vera 
+      <lb ed="#L" n="46"/>vel falsa; quare si totaliter &amp; omni modo similiter ita sit ex parte rersignatae per A. &amp; B. in C. 
+      <lb ed="#L" n="47"/>sicut fuit &amp; e contra; &amp; A. fuit verum ante C, &amp; B. falsum, ergo &amp;est in C. vel si A. est falsum in 
+      <lb ed="#L" n="48"/>C. &amp; B. verum, ergo &amp;s simili modo ante, ergo haec responsio facit contradictoria simul 
+      ve<lb ed="#L" n="49" break="no"/>ra, &amp; etiam simul falsa, &amp; eandem propositionem simul veram &amp; falsam? Item B. prius fuit 
+      <lb ed="#L" n="50"/>falsum, &amp; nunc est verum, ergo aliqua est causa huius, &amp; haec necessario est, quia prius non  
+      <lb ed="#L" n="51"/>fuit ita realiter, &amp; modo est ita; ergo aliter est ex parte rei nunc quam pus, ergo per aliquam 
+      <lb ed="#L" n="52"/>mutationem, ergo per aliquid mutans, ergo &amp;st per causam. // Ad idem potest fimiliter argui 
+      <lb ed="#L" n="53"/>iuxta processum Philosophi 4. Metaphys. contra negantes prima principia disputantes 
+      sup<lb ed="#L" n="54" break="no"/>bonendo nomina habere significationes determinatas &amp; certas. Quamdiu ergo significatio, 
+      <lb ed="#L" n="55"/>seu res significata cuiuscunque nominis integre permanet, nomen similiter permanet, &amp; e 
+      con<lb ed="#L" n="56" break="no"/>tra; simul ergo accedunt, &amp; simul recedunt, quapropter nunquam sit acquisitio vel perditio 
+      <lb ed="#L" n="57"/>nominisalicuius sine acquisitione vel deperditione alicuius significationis seu significati 
+      illi<lb ed="#L" n="58" break="no"/>us, quare nec sine mutatione aliqua qualicunque. Item exempla eorum neque Philosophi¬ 
+      <!--787.xml-->
+      <pb ed="#A" n="754"/>
+               <lb ed="#L" n="1"/>cam, neque Theologicam sapiunt veritatem. Philosophice namque loquendo, Agens rati. A 
+      <lb ed="#L" n="2"/>onale certo tempore agit ad extra, quia tunc vult; vnde Philosophus 9. Metaphys. 10. dicit,  
+      <lb ed="#L" n="3"/>quod potentiae factiuae cum ratione sunt contrariorum, &amp; obijcit, quare simul facient 
+      contra<lb ed="#L" n="4" break="no"/>ria; hoc autem impossibile; &amp; respondet innuendo consequentiam non valere, quia aliquid 
+      <lb ed="#L" n="5"/>aliud requiritur quod determinet potentiam ad vnam partem, scilicet voluntas, &amp; quando 
+      <lb ed="#L" n="6"/>per illam determinatur, tunc facit alterum, non vtrumque; illa ergo voluntas determinans 
+      <lb ed="#L" n="7"/>est causa quare tunc hoc facit, vnde respondendo sic ait; Necesse ergo alterum aliquid esse 
+      <lb ed="#L" n="8"/>quod proprium est, dico hoc autem appetitum aut prohaeresin: quod enim desiderauerit 
+      <lb ed="#L" n="9"/>principaliter, hoc faciet, quando vt possit extiterit: quare potens secundum rationem omne 
+      <lb ed="#L" n="10"/>necesse quando desiderat, cuius habet potentiam, &amp; vt habet, hoc facere; Deus autem cum 
+      <lb ed="#L" n="11"/>ratione &amp; rationabiliter fecit mundum, quando aeternaliter voluit se facturum, igitur quia 
+      <lb ed="#L" n="12"/>tunc voluit, tunc &amp; fecit, quod &amp; patet completius nono primi. Vnde &amp; Apocalyps. 4. Tu 
+      <lb ed="#L" n="13"/>creasti omnia, &amp; propter voluntatem tuam erant, &amp; creata sunt. Et Augustinus I. de 
+      Gen<lb ed="#L" n="14" break="no"/>contra Manichaeos; Voluntas Dei omnium, quae sunt, ipsa est causa. Qui ergo dicit, quare 
+      <lb ed="#L" n="15"/>Deus fecit coelum &amp; terram? respondendum est, quia voluit: voluntas enim Dei causa est 
+      <lb ed="#L" n="16"/>coeli &amp; terrae. Item eadem ratione habent dicere consequenter de quocunque quandocunque 
+      <lb ed="#L" n="17"/>creato seu facto a Deo, quod nulla est causa quare tunc sit vel creatur, &amp; hoc videtur 
+      destru<lb ed="#L" n="18" break="no"/>ere causam efficientem &amp; finalem in Deo, vel ponere ipsum agere casualiter &amp; fortuito omni 
+      <lb ed="#L" n="19"/>tempore &amp; instanti: sed causam efficientem in Deo ostendunt praemissa, &amp; illud Ioh. 1. 
+      Om<lb ed="#L" n="20" break="no"/>nia per ipsum facta sunt, cum tertio, quarto, &amp; nono primi: Et causam fiualem in Deo 
+      pro<lb ed="#L" n="21" break="no"/>bant multae autoritates Phlosophicae &amp; Theologicae vicesimo quinto primi conscriptae. 
+      <lb ed="#L" n="22"/>Vnde Parab. 16. Omnia propter semetipsum operatus est Dominus. Et Apoc. 1. Ego sum 
+      <lb ed="#L" n="23"/>Alpha &amp; Omega, principium &amp; finis. Quod vero Deus non agat casualiter vel fortuito, 
+      <lb ed="#L" n="24"/>quouis tempore vel instanti, octauum &amp; nonum primi cum vicesimo septimo, vicesimo 
+      octa<lb ed="#L" n="25" break="no"/>uo, &amp; vicesimo nono docent. Unde &amp; Ecclesiast. 3. Omnia tempus habent: sed a quo, nisiC 
+      <lb ed="#L" n="26"/>ab illo qui in mensura, &amp; numero, &amp; pondere cuncta disponit? Quare &amp; Augustinus 22. de 
+      <lb ed="#L" n="27"/>Ciuit. Dei 2. sic dicit, Antequam veniat tempus quo voluit vt fieret, quod ante tempora 
+      vni<lb ed="#L" n="28" break="no"/>uersa praesciuit atque disposuit, dicimus fiet, quando Deus voluerit. Et si adhuc obijciant,  
+      <lb ed="#L" n="29"/>quod illius voluntatis nulla est causa, quare nec necessitatis praedictae, hoc nullum debet 
+      mo<lb ed="#L" n="30" break="no"/>uere, quia illa Dei volutio est aeterna, sed illa necessitas est nouella, quare &amp; aliquam causam  
+      <lb ed="#L" n="31"/>habet. Quod etiam Deus nouiter est Creator &amp; Dominus, causam habet, causam, inquam, 
+      <lb ed="#L" n="32"/>formalem &amp; efficientem similiter. Deus enim dicitur nouiter relatiue Dominus huius rei, &amp; 
+      <lb ed="#L" n="33"/>non per relationem nouam accidentem nouiter ipsi Deo, sed tantummodo creaturae, sicut  
+      <lb ed="#L" n="34"/>contra secundam responsionem superius est ostensum. Ipsa ergo relatio consurgens ex 
+      crea<lb ed="#L" n="35" break="no"/>tura, quae necessario subijcitur diuino dominio, est causa formalis extrinseca atque 
+      impro<lb ed="#L" n="36" break="no"/>pria, qua Deus formaliter dicitur Dominus huius rei. Haec quoque relatio habet causam 
+      ef<lb ed="#L" n="37" break="no"/>ficientem, effectricem scilicet huius rei, ex qua ista relatio necessario pullulat &amp; emanat. Cum 
+      <lb ed="#L" n="38"/>ergo quaerunt, quis fecit Deum Dominum huius rei: dico, quod ille, qui fecit hanc rem. 
+      Fe<lb ed="#L" n="39" break="no"/>cit enim quodammodo istam relationem qua Deus dicitur Dominus huius rei; sicut quidat  
+      <lb ed="#L" n="40"/>Iohanni hanc rem, facit eum Dominum huius rei; qui videt Iohannem vel intelligit, facit, 
+      <lb ed="#L" n="41"/>lohannem visum &amp; nouiter intellectum: Deus ergo facit ipse seipsum Dominum huius rei 
+      fa<lb ed="#L" n="42" break="no"/>ciendo hanc rem, ex qua necessario oritur relatio supradicta, sicut &amp; Iohannes ipse facit 
+      se<lb ed="#L" n="43" break="no"/>ipsum Dominum huius rei faciendo hanc rem suam. Cuius exempla satis authentica 
+      scrip<lb ed="#L" n="44" break="no"/>tura canonica saepe profert. Vnde Psalmo 9. Factus est Dominus refugium pauperi: 17. 
+      Fa<lb ed="#L" n="45" break="no"/>ctus est Dominus protector meus: 29. Dominus factus est adiutor meus: 89. Domine, 
+      refu<lb ed="#L" n="46" break="no"/>gium factus es nobis: Et 117. Factus est mihi in salutem, cum multis similibus multis locis, 
+      <lb ed="#L" n="47"/>Quod ergo Deus nouiter dicitur relatiue ad creaturam, est propter nouam causam &amp; 
+      no<lb ed="#L" n="48" break="no"/>uam mutationem ex parte creaturae, sicut &amp; in quocunque quod dicitur nouiter relatiue. 
+      <lb ed="#L" n="49"/>Hoc enim est vel propter nouam mutationem in eo quod sic nouiter dicitur, vel in illo ad I 
+      <lb ed="#L" n="50"/>quod nouiter sic dicitur, sicut apparet de relatiuis tertij modi, vt potest haberi a Philosopho 
+      <lb ed="#L" n="51"/>5. Metaphys. 20. &amp; ab Auerroe ibi, sicut erat superius allegatum, &amp; 5. Phys. 10. vult, quod 
+      <lb ed="#L" n="52"/>vbi est noua relatio, sit mutatio &amp; motus, saltem in altero relatorum, sicut exemplificat ibi 
+      <lb ed="#L" n="53"/>Auerroes de columna, quae primo est in dextro Socratis, &amp; post vertitur ad sinistram, per hoc 
+      <lb ed="#L" n="54"/>quod Socrates transfertur in loco. Eandem quoque sententiam Boetius de Trin. vlt. plane 
+      <lb ed="#L" n="55"/>docet. Quare &amp; Augustinus 5. de Trinit. vlt. ostendit quod quando Deus incipit 
+      tempora<lb ed="#L" n="56" break="no"/>liter relatiue dici ad creaturam, hoc esse per mutationem in creatura, non in Deo: vnde sic 
+      <lb ed="#L" n="57"/>ait, De illa commutabili Dei substantia debemus accipere, vt dicatur relatiue aliquid ad 
+      crea<lb ed="#L" n="58" break="no"/>turam, vt quamuis temporaliter incipiat dici, non tamen ipsi substantiae Dei accidisse aliquid  
+      <!--788.xml-->
+      <pb ed="#A" n="755"/>
+               <lb ed="#L" n="1"/>cintelligatur, sed illi creaturae ad quam dicitur, Domine, inquit, refugium factus es nobis: 
+      Re<lb ed="#L" n="2" break="no"/>fugium ergo nostrum Deus relatiue dicitur. Ad nos enim refertur, &amp; tunc refugium 
+      no<lb ed="#L" n="3" break="no"/>strum sit, cum ad eum refugimus; nunquid tunc fit aliquid in eius natura quod antequam ad  
+      <lb ed="#L" n="4"/>eum refugerimus non erat? In nobis ergo sit aliqua mutatio: sic &amp; Pater noster esse incipit, 
+      <lb ed="#L" n="5"/>cum per eius gratiam regeneramur: substantia itaque nostra mutatur in melius, cum filij eius 
+      <lb ed="#L" n="6"/>efficimur; simul &amp; ille Pater noster esse incipit, sed nulla suae commutatione substantiae Quod 
+      <lb ed="#L" n="7"/>ergo temporaliter diciincipit Deus, quod antea non dicebatur, manifestum est relatiue dici, 
+      <lb ed="#L" n="8"/>non tamen secundum accidens dici, quod ei aliquid acciderit, sed plane secundum accidens 
+      <lb ed="#L" n="9"/>eius, ad quod dici aliquid Deus incipit, ipse mutatur. Exempla ergo istorum non continent 
+      <lb ed="#L" n="10"/>veritatem, nec etiam conueniunt exemplatis. Ista enim exempla sunt de relationibus ex 
+      cre<lb ed="#L" n="11" break="no"/>atura nascentibus, &amp; extrinsecis ipsi Deo. Necessitas vero praedicta in voluntate diuina ex 
+      <lb ed="#L" n="12"/>nulla creatura, causatur, sicut superius est ostensum, quod &amp; ista responsio confitetur, &amp; est 
+      <lb ed="#L" n="13"/>intrinseca ipsi Deo. Haec igitur per methodum libertatis &amp; necessitatis voluntatis diuinae 
+      con<lb ed="#L" n="14" break="no"/>tra hypothesin principalem. 2 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

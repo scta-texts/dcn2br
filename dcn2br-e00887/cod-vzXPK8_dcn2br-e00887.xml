@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 35</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 35</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="765"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e00887"><!-- l3c35 -->
+            <head xml:id="dcn2br-e00887-Hd1e106">Caput 35</head>
+            <p xml:id="dcn2br-e00887-d1e109">
+      <!--798.xml-->
+               <pb ed="#A" n="765"/>
+               <lb ed="#L" n="1"/>CAP. XXXV. 
+      <lb ed="#L" n="2"/>Arguit contra secundam.
+    </p>
+            <p xml:id="dcn2br-e00887-d1e120">
+               <lb ed="#L" n="3"/>NEc secunda responsio potest stare, quae dicit causam talis effectus praete¬ 
+      <lb ed="#L" n="4"/>riti posse fuisse non reuelationem in verbo, sed apparentiam, 
+      aestima<lb ed="#L" n="5" break="no"/>tionem, seu opinionem creatam in proprio genere, quia illa est vel 
+      <lb ed="#L" n="6"/>fuit falsa si reuelatum non erit; quare possibile est Christum 
+      Mari<lb ed="#L" n="7" break="no"/>am, sanctosque beatos esse deceptos &amp; miseros, nec de beatitudine 
+      <lb ed="#L" n="8"/>sua certos, cum absurditatibus alijs contra responsionem priorem 
+      <lb ed="#L" n="9"/>inductis. Item Paulus in proprio genere &amp; in actu credebat A. 
+      re<lb ed="#L" n="10" break="no"/>uelatum fore, &amp; illud non fuit futurum; ponatur, quia est possibile, 
+      <lb ed="#L" n="11"/>&amp; huic compossibile; quare verbum non ostendit ei A. fore, sed A. 
+      <lb ed="#L" n="12"/>non fore; igitur simul particulariter &amp; actualiter credebat contradictoria sub propria sua 
+      for<lb ed="#L" n="13" break="no"/>ma, vnum in proprio genere, alterumque in verbo, quod est impossibile manifestum, &amp; 
+      <lb ed="#L" n="14"/>contra Philosophum 2. Priorum. Item illa credulitas in proprio genere fuit vnus effectus, 
+      er<lb ed="#L" n="15" break="no"/>go habuit causam, &amp; non nisi illam reuelationem &amp; visionem in verbo; illa enim sublata, 
+      <lb ed="#L" n="16"/>nulla causa sic credendi fuisset in Paulo potius quam in Petro, &amp; necesse est illum effectum 
+      fu<lb ed="#L" n="17" break="no"/>isse, quia effectum illius, scilicet opus extrinsecum prius factum necesse est fuisse; ergo 
+      ne<lb ed="#L" n="18" break="no"/>cesse est causam illius fuisse, scilicet illam visionem in verbo; vel e contra, si possibile est illam 
+      <lb ed="#L" n="19"/>causam non fuisse, ergo &amp;est effectum, sicut tricesimum tertium huius plenius arguebat. Nec 
+      <lb ed="#L" n="20"/>potest quis dicere quod Paulus opinabatur A. fore tantum gratis &amp; libere sine causa; quia 
+      <lb ed="#L" n="21"/>tunc nulla est ratio, quare Paulus opinaretur potius sic quam Petrus, nec quare Paulus potius 
+      <lb ed="#L" n="22"/>opinaretur A. fore quam A. non fore, cum nulla euidentia, nulla causa penitus sit potior pro 
+      <lb ed="#L" n="23"/>hoc quam contra, imo forsitan apparentius &amp; opinabilius ac fauorabilius est in casu A. non  
+      <lb ed="#L" n="24"/>fore, quam fore. Nec potest Paulus gratis &amp; libere quidlibet opinari, sicut nullus ignorat, 
+      <lb ed="#L" n="25"/>quia nullus potest aliquid opinari, nisi appareat sibi verum, &amp; hoc non est in cuiuslibet libera 
+      <lb ed="#L" n="26"/>potestate. Quare &amp; Philosophus 2. de Anima 15I. ostendit quod phantasia non est opinio, 
+      <lb ed="#L" n="27"/>quia phantasia est in nobis cum volumus, id est, voluntaria secundum Auerroem, opinio 
+      <lb ed="#L" n="28"/>autem non, quia necesse est quod opinatum est, esse verum vel falsum, apparere verum vel 
+      <lb ed="#L" n="29"/>falsum. Opinari, inquit Philosophus, non in nobis est, necesse enim verum aut falsum 
+      di<lb ed="#L" n="30" break="no"/>cere. Vbi textus, quem Auerroes exponit, sic habet; AEstimare autem non est in nobis; 
+      ne<lb ed="#L" n="31" break="no"/>cesse enim est aut falsari aut verari. Ponatur etiam quod Paulus sit homo grauis &amp; stabilis, 
+      <lb ed="#L" n="32"/>
+               <!-- line coord error -->
+               <lb ed="#L" n="33"/>&amp; reuertitur argumentum. Vel etiam supponatur, quod hoc a Deo receperit in mandato, 
+      <lb ed="#L" n="34"/>velitque ac credat in proprio genere, &amp; operetur extrinsecus tantum conformiter reuelationi 
+      <lb ed="#L" n="35"/>&amp; mandato diuinis; &amp; reuertitur difficultas. Ponatur etiam quod tantum sic faciens olim sit 
+      <lb ed="#L" n="36"/>mortuus, &amp; in coelo, &amp; secundum istam responsionenm nunc est possibile ipsum fecisse 
+      diffor<lb ed="#L" n="37" break="no"/>miter, imo contrarie reuelationi &amp; mandato praedictis, &amp; semper post mortem fuisse in 
+      in<lb ed="#L" n="38" break="no"/>ferno, sicut tricesimum tertium huius plenius arguebat. Hoc etiam argumentum vadit 
+      im<lb ed="#L" n="39" break="no"/>mediate contra istam responsionem, retento casu tricesimo tertio huius praemisso. Sequitur 
+      <lb ed="#L" n="40"/>enim quod Paulus, postquam huius reuelationem &amp; mandatum accepit, &amp; paruit bene 
+      me<lb ed="#L" n="41" break="no"/>rendo, &amp; in charitate viuens ac moriens beatifice coronatur, post hoc omisisse, contrariumue 
+      <lb ed="#L" n="42"/>fecisse, &amp; semper post fuisse sine charitate in peccato mortali miser &amp; damnatus, sicut 
+      prae<lb ed="#L" n="43" break="no"/>missa deductio tricesimi tertij huius probat. Et si quis dicat non sequi nunc esse possibile 
+      <lb ed="#L" n="44"/>Paulum fuisse sine charitate &amp; non saluatum, quia Deus de sua potentia absoluta potest 
+      ser<lb ed="#L" n="45" break="no"/>uare charitatem in peccante mortaliter, ipsumque talem saluare; saltem necessario sequitur 
+      <lb ed="#L" n="46"/>nunc esse possibile, quod Paulus, qui per A. actum meruit vitam aeternam, per eundem 
+      pec<lb ed="#L" n="47" break="no"/>cauit mortaliter, &amp; meruit mortem aeternam, faciendo scilicet illum actum contra 
+      reuelatio<lb ed="#L" n="48" break="no"/>nem &amp; mandatum Dei in verbo, &amp; quod Paulus, qui toto tempore post A. fuit bonus, 
+      Deo<lb ed="#L" n="49" break="no"/>que charus, toto illo tempore fuit malus mortaliter odiosusque Deo; &amp; quod Paulus, qui 
+      to<lb ed="#L" n="50" break="no"/>to tempore post mortem suam fuit beatus, toto illo tempore fuit miser: nam nulla maior 
+      mi<lb ed="#L" n="51" break="no"/>seria quam peccatum: vnde Parab. 14. Miseros facit populos peccatum, Sequitur etiam per 
+      <lb ed="#L" n="52"/>ratiocinationem praemissam, quod erit in potestate Antichristi, &amp; cuiuslibet viatoris, leges 
+      <lb ed="#L" n="53"/>Dei peruertere, &amp; fidem Ecclesiae commutare. Factis namque Paulo reuelatione &amp; iussione 
+      <!--799.xml-->
+      <pb ed="#A" n="766"/>
+               <lb ed="#L" n="1"/>in verbo circa Antichristum, seu quemibet alium viatorem, sicut 3; huius tangit, ipsoque bono A 
+      <lb ed="#L" n="2"/>&amp; bene in charitate parente, &amp; sic mortuo ac beatificato in coelis, possibile est Antichristum 
+      <lb ed="#L" n="3"/>vel alium viatorem sic facere, quod Paulus habens charitatem non fuit bonus nec charus 
+      <lb ed="#L" n="4"/>per illam, nec meruit, sed peccauit, &amp; quod beatus in coelo fuit miser in coelo, cum 
+      abusioni<lb ed="#L" n="5" break="no"/>bus alijs istis similibus, vertentibus, imo peruertentibus legem Dei &amp; fidem Ecclesiae 
+      genera<lb ed="#L" n="6" break="no"/>lem, sicut nulli Catholico scienti legem &amp; fidem non constat: quod tamen nullus praesumet 
+      <lb ed="#L" n="7"/>concedere, nisi discipulus Antichristi, qui sermones contra excelsum loquetur, &amp; sanctos 
+      <lb ed="#L" n="8"/>altissimi conteret, &amp; putabit quod possit numerate tempora &amp; leges contra Deum, Dan. 7. 
+      <lb ed="#L" n="9"/>Haec autem principalis falsigraphia non diffugit argumentum. Est enim possibile quod Deus 
+      <lb ed="#L" n="10"/>reuelet Paulo in verbo A. fore, absque hoc quod Paulus habeat talem volutionem, aut 
+      credu<lb ed="#L" n="11" break="no"/>litatem creatam in proprio genere, sicut nullus ignorat; quod si ponatur, reponitur 
+      argu<lb ed="#L" n="12" break="no"/>mentum. Omnia namque duo omnino distincta realiter, ita quod neutrum habeat alterius 
+      <lb ed="#L" n="13"/>vllam partem, nec sit aliqua causa eius, possunt ab inuicem separari. Omnis enim res 
+      suffici<lb ed="#L" n="14" break="no"/>enter est habitis omnibus &amp; solis causis &amp; essentialibus rebus suis: si enim non esset, hoc esset 
+      <lb ed="#L" n="15"/>propter defectum alicuius ad suum esse necessario requisiti: Deus autem non potest a rebus 
+      <lb ed="#L" n="16"/>existentibus separari, eo quod sit forma necessaria, &amp; esse quodammodo omnium, &amp; eorum 
+      <lb ed="#L" n="17"/>in esse necessarius conseruator, sicut secundum primi ostendit; omnes autem res creatae 
+      om<lb ed="#L" n="18" break="no"/>nino, id est, secundum omnes partes distinctae realiter, etiamsi vna sit causa alterius, possunt 
+      <lb ed="#L" n="19"/>ab inuicem separari, propter rationem praemissam, &amp; quia Deus de plenitudine potestatis 
+      <lb ed="#L" n="20"/>potest supplere causalitatem causae secundae. Hoc autem argumento fidelissimo 
+      comproba<lb ed="#L" n="21" break="no"/>tur: in sacramento namque altaris existunt accidentia sine subiecto; multo magis ergo potest 
+      <lb ed="#L" n="22"/>quodlibet accidens existere sine quolibet alio // existente, &amp; quaelibet substantia sine quolibet 
+      <lb ed="#L" n="23"/>accidente, quaelibet quoque substantia sine substantia alia creata quacunque omnino 
+      distin<lb ed="#L" n="24" break="no"/>cta. Hoc idem Philosophi, licet obscure, testari videntur. Aristoteles namque 7. Met. 55. 
+      <lb ed="#L" n="25"/>reprobans volentes definire singularia, puta Solem, Peccant, inquit, additione talium, 
+      qui<lb ed="#L" n="26" break="no"/>bus ablatis, adhuc erit Sol, puta terram girans aut nocte absconditum: si enim steterit aut 
+      ap<lb ed="#L" n="27" break="no"/>paruerit, non adhuc erit Sol? Sed absurdum, si non: Sol enim substantiam quandam 
+      signi<lb ed="#L" n="28" break="no"/>ficat. Plato quoque similiter in Timaeo ponit duas virtutes ignis, scilicet calorem &amp; lucem, 
+      <lb ed="#L" n="29"/>&amp; quod diuinae potestates coniunctae sunt domestico &amp; familiari corpori oculorum, ignem 
+      <lb ed="#L" n="30"/>perlucidum, serenum ac defaecatum sine calore peremtorio &amp; edaci; ignis ergo secundum 
+      <lb ed="#L" n="31"/>cum potest esse sine calore, &amp; eadem ratione omnis substantia sine proprio accidente, &amp; sine 
+      <lb ed="#L" n="32"/>accidente non proprio multo magis, quaelibet quoque substantia sine qualibet alia modo 
+      di<lb ed="#L" n="33" break="no"/>cto. Quibus &amp; concorditer Augustinus II. de Ciuit. Dei 10. Propter hoc, inquit, natura 
+      di<lb ed="#L" n="34" break="no"/>uina dicitur simplex, cui non sit ali quid habere, quod vel possit amittere, vel aliud sit habens 
+      <lb ed="#L" n="35"/>illud quod habet, sicut vas // aliquod liquorem, aut corpus colorem, aut aer lucem siue 
+      feruo<lb ed="#L" n="36" break="no"/>rem, aut anima sapientiam: nihil enim horum est id quod habet: nam nec vas liquor est, nec T 
+      <lb ed="#L" n="37"/>corpus color, nec aer lux, siue feruor, nec anima sapientia est. Hinc est quod priuari etiam 
+      <lb ed="#L" n="38"/>possunt rebus quas habent, &amp; in alios habitus vel qualitates verti atque mutari, vt &amp; vas 
+      eua<lb ed="#L" n="39" break="no"/>cuetur humore quo plenum est, &amp; corpus decoloretur, &amp; aer tenebrescat siue frigescat, &amp; 
+      ani<lb ed="#L" n="40" break="no"/>ma desipiat. Et 15. de Trinit. 13. Longe, inquit, huic scientiae scientia nostra dissimilis, 
+      <lb ed="#L" n="41"/>quod autem scientia Dei est, ipsa est sapientia, &amp; quae sapientia ipsa essentia siue substantia, 
+      <lb ed="#L" n="42"/>quia in illius naturae simplicitate mirabili non est aliud sapere, aliud esse, sed quod est sapere 
+      <lb ed="#L" n="43"/>hoc est esse; nostra vero scientia in rebus plurimis praeterea &amp; admiscibilis est &amp; receptibilis;. 
+      <lb ed="#L" n="44"/>quia non hoc est nobis esse quod scire vel sapere, quoniam esse possumus, etiamsi nec sciamus 
+      <lb ed="#L" n="45"/>nec sapiamus. Qui &amp; supra Iohan. partis secundae homilia 45. seu 99. totius, Mutabilis, 
+      in<lb ed="#L" n="46" break="no"/>quit, est mens nostra, quae percipit discendo quod nesciebat, &amp; amittit dediscendo quod 
+      sci<lb ed="#L" n="47" break="no"/>ebat, &amp; ideo non est ista substantia verissime simplex, cui non hoc est esse, quod nosse: 
+      po<lb ed="#L" n="48" break="no"/>test enim esse nec nosse; at illa diuina non potest, quia id quod habet est, ac per hoc non sic 
+      <lb ed="#L" n="49"/>habet scientiam, vt aliud illi sit scientia, qua scit, aliud essentia qua est, sed vtrumque vnum. 
+      <lb ed="#L" n="50"/>Vnde &amp; 368. propositio sententiarum Prosperi est transtata. Beatus quoque Gregorius I8. 
+      <lb ed="#L" n="51"/>Moral. super illud Iob 28. Sapientia vero vbi inuenitur, &amp;c. sentit idem. Item verbum caro 
+      <lb ed="#L" n="52"/>factum est ante naturaliter omnem reuelationem in proprio genere sibi factam pro nobis 
+      cap<lb ed="#L" n="53" break="no"/>tiuis &amp; miseris redimendis propter solam reuelationem aeternam a Patre aeternaliter sibi 
+      <lb ed="#L" n="54"/>ostensam in essentia Dei sola, secundum capitulo proximo praeostensa; ergo medio tempore, 
+      <lb ed="#L" n="55"/>in quo simus inter incarnationem &amp; redemptionem, possibile est eum non fuisse incarnatum, 
+      <lb ed="#L" n="56"/>quia non habuisse illam reuelationem, quia nec humanum genus fuisse ostensum redim 
+      <lb ed="#L" n="57"/>dum per eum, quia nunc est possibile quod non redimatur per eum, vt dicit hypothesis 
+      prin<lb ed="#L" n="58" break="no"/>cipalis. Et si quis dicat, non sequi verbum nue posse non fuisse incarnatum, sed non fuisse 
+      <!--800.xml-->
+      <pb ed="#A" n="767"/>
+               <lb ed="#L" n="1"/>Sincarnatum ex illa causa, scilicet pro homine redimendo, sed ex alia; ergo &amp;s post 
+      redemtio<lb ed="#L" n="2" break="no"/>nem hominis consummatam per eum, &amp; post finale iudicium similiter poterit; vel si tunc 
+      <lb ed="#L" n="3"/>non poterit, neque ante: voluntas enim diuina semper est aequaliter libera aut necessaria 
+      re<lb ed="#L" n="4" break="no"/>spectu illius, sicut ex tricesimo huius patet. Tunc etiam simili ratione posset Deus nunc, 
+      nun<lb ed="#L" n="5" break="no"/>quam voluisse Sacramenta Ecclesiae fuisse institura ad illum finem, ad quem fuerunt instituta, 
+      <lb ed="#L" n="6"/>nec habuisse illum effectum quem semper habuerunt; quare &amp; nunc est possibile illa 
+      Sacra<lb ed="#L" n="7" break="no"/>menta semper fuisse delusoria, falsa, vacua, &amp; figmenta, &amp; homines iustificatos &amp; // Isaluatos. 
+      <lb ed="#L" n="8"/>per ipsa semper fuisse peccatores atque damnatos. Item eadem ratione nunc est possibile, 
+      <lb ed="#L" n="9"/>quod Deus contulit alijs operationibus, rebus, aut signis quibus vsi sunt mali, omnem 
+      sacra<lb ed="#L" n="10" break="no"/>mentalem virtutem; quare &amp; est consequenter possibile, quod mali semper vsque nunc &amp; in 
+      <lb ed="#L" n="11"/>inferno damnati semper vsque nunc sint nunc boni &amp; in coelestibus praemiati. Sequitur 
+      eti<lb ed="#L" n="12" break="no"/>am, sicut patet per deductionem praemissam, quod sit in potestate Antichristi &amp; cuiuslibet 
+      <lb ed="#L" n="13"/>viatoris facere verbum fuisse incarnatum &amp; passum ex alia causa finali quam fuit, pro illo 
+      sci<lb ed="#L" n="14" break="no"/>licet redimendo quem non intendebat redimere, &amp; non pro illo redimendo quem redimere 
+      <lb ed="#L" n="15"/>intendebat, quod non videtur sanae fidei conuenire. Sequitur quoque fuisse &amp; esse in 
+      homi<lb ed="#L" n="16" break="no"/>num potestate euacuare totum effectum atque virtutem dominicae passionis, sicut octauo 
+      hu<lb ed="#L" n="17" break="no"/>ius plenius est argutum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

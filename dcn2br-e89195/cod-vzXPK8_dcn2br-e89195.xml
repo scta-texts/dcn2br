@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="675"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e89195"><!-- l3c9 -->
+            <head xml:id="dcn2br-e89195-Hd1e106">Caput 9</head>
+            <p xml:id="dcn2br-e89195-d1e109">
+      <!--708.xml-->
+               <pb ed="#A" n="675"/>
+               <lb ed="#L" n="1"/>CAP. IX. 
+      <lb ed="#L" n="2"/>Respondet.
+    </p>
+            <p xml:id="dcn2br-e89195-d1e120">
+               <lb ed="#L" n="3"/>IGitur vt huius quaestionis perplexitas absolutius &amp; breuius enodetur, 
+      <lb ed="#L" n="4"/>sciendum quod potestas ad propositum dupliciter potest sumi; pro 
+      <lb ed="#L" n="5"/>potestate actiua scilicet &amp; passiua, sicut capitulum proximum 
+      distin<lb ed="#L" n="6" break="no"/>guebat: illud autem quod nullo modo possumus agere, sed tantum 
+      <lb ed="#L" n="7"/>pati, non dicitur esse in potestate nostra, sicut cap. proximum 
+      ostende<lb ed="#L" n="8" break="no"/>bat, sed ad communem modum loquendi vulgarium, &amp; Autorum, 
+      so<lb ed="#L" n="9" break="no"/>lum illud dicitur esse in potestate nostra, quod est in potestate nostra 
+      <lb ed="#L" n="10"/>pell actiua, &amp; hoc non quacunque, sed tantummodo contradictionis, sicut 
+      <lb ed="#L" n="11"/>loquitur Philosophus 9. Metaphys. 18. in corollario 4. huius plenius recitatus: quare omne 
+      <lb ed="#L" n="12"/>illud &amp; solum illud dicitur esse in potestate nostra, quod est in nostra libera potestate, libera 
+      in<lb ed="#L" n="13" break="no"/>quam, consimili libertate, scilicet contradictionis, vt idem corollarium definiuit. 
+      Quamob<lb ed="#L" n="14" break="no"/>rem per partem 10. quinti huius, nullus actus noster est simpliciter in nostra libera potestate 
+      <lb ed="#L" n="15"/>actiua, sicut &amp; capitulum proximum satis probat, sed secundum quid tantum, scilicet 
+      respe<lb ed="#L" n="16" break="no"/>ctu causarum omnium secundarum: Quare tam vulgares quam docti, qui vt plurimum 
+      cau<lb ed="#L" n="17" break="no"/>sas naturales d&amp; secundas considerant, dicunt simpliciter in potestate nostra constitui hoc vel 
+      <lb ed="#L" n="18"/>illud, &amp; intelligunt respectu harum causarum; quare ad communem modum loquendi, in 
+      <lb ed="#L" n="19"/>potestate nostra constitui, licet proferatur simpliciter, accipitur tamen &amp; significat dicto 
+      mo<lb ed="#L" n="20" break="no"/>do, sicut &amp; dictum est de contingenti aequaliter quinto huius. Quod tamen, scilicet esse in 
+      <lb ed="#L" n="21"/>potestate nostra, secundum vsitatiorem modum loquendi potest intelligibilius definiri, 
+      dicen<lb ed="#L" n="22" break="no"/>do quod illud est in potestate nostra, quod, cum volumus, facimus, &amp; cum nolumus 
+      nequa<lb ed="#L" n="23" break="no"/>quam. Vnde &amp; B. Augustinus de Sp. &amp; lit. 26. magna disputatione praemissa, eius 
+      definitio<lb ed="#L" n="24" break="no"/>nem siue quid nominis exprimendo, sic ait; Hanc dicimus potestatem, vbi voluntati adiacet 
+      <lb ed="#L" n="25"/>facultas faciendi: vnde hoc quisque in potestate habere dicitur, quod si vult, facit; si non  
+      <lb ed="#L" n="26"/>vult, non facit: &amp; 3. de libero arbitrio 3. Non possum aliud sentire esse in potestate nostra, 
+      <lb ed="#L" n="27"/>nisi quod cum volumus, facimus: &amp; 5. de ciuit. Dei 10. ostendens multa esse in potestate 
+      no<lb ed="#L" n="28" break="no"/>stra, sic ait; Multa enim facimus, quae si nollemus, non vtique faceremus, quo primitus pertinet 
+      <lb ed="#L" n="29"/>ipsum velle: nam si volumus est, si nolumus non est; non enim vellemus si nollemus. Nihil 
+      <lb ed="#L" n="30"/>ergo est in potestate nostra nisi secundum quid tantummodo, scilicet subactiua, subexecutiua, 
+      <lb ed="#L" n="31"/>&amp; subseruiente necessario, necessitate scilicet naturaliter praecedente respectu voluntatis 
+      di<lb ed="#L" n="32" break="no"/>uinae; quod ideo in nostra dicitur potestate, quia cum volumus, illud facimus voluntarij, non 
+      <lb ed="#L" n="33"/>inuiti. Simpliciter autem &amp; penitus absolute, antecedenter &amp; sufficienter, sine indigentia scili¬ 
+      <lb ed="#L" n="34"/>cet alicuius, quod nostrae potestati seu voluntati non subiacet, nihil omnino in nostra vere 
+      di<lb ed="#L" n="35" break="no"/>citur potestate; sicque rationes &amp; autoritates quae videntur contrariae, inuicem concordantur. 
+      <lb ed="#L" n="36"/>Nullus ergo hominum indignetur, etsi nihil habeat absolute simpliciter in propria potestate, sed 
+      <lb ed="#L" n="37"/>potestati sublimiori in omnibus sit subiectus, dicente Apost. ad Rom. 13. Omnis anima 
+      pote<lb ed="#L" n="38" break="no"/>statibus sublimioribus subdita sit, Sufficiat enim cuilibet homini habere quae debet in sua 
+      quo<lb ed="#L" n="39" break="no"/>dammodo potestate; vt scilicet superiori potestati diuinae in omnibus sit subiectus, &amp; inferiori 
+      <lb ed="#L" n="40"/>praefectus; vt scilicet habeat potestatem mediam inter potestates extremas, sicut illi Angelici 
+      spi<lb ed="#L" n="41" break="no"/>ritus, qui in quodam ordine medio constituti, Potestates dicuntur, qui tamen potestati diuinae 
+      <lb ed="#L" n="42"/>subduntur; sicut &amp; summi Reges &amp; Principes, qui potestatem habent in subditos, &amp; ipsi 
+      <lb ed="#L" n="43"/>sunt subditi Regi Regum, illi scilicet, qui in vestimento &amp; femore suo habet scriptum, Rex 
+      <lb ed="#L" n="44"/>Regum, &amp; Dominus dominantium, Apoc. 19. Ac sicut alij homines medij, puta Duces, &amp; 
+      Comi<lb ed="#L" n="45" break="no"/>tes, Barones &amp; Satrapae, ac praepositi caeteri qui in quibusda ciuitatibus Potestates vulgariter 
+      <lb ed="#L" n="46"/>nuncupantur, qui sic potestatem exercent in subditos, vt ipsimet tamen potestatibus 
+      sublimiori<lb ed="#L" n="47" break="no"/>bus sint subiecti, quod ille Centurio recte sensit, cum dixit, Ego homo sum sub potestate 
+      con<lb ed="#L" n="48" break="no"/>stitutus, habens sub me milites, Mat. 8. sicut &amp; 28. 2i. commemorat. Vnde &amp; Augustinus de 
+      <lb ed="#L" n="49"/>correptione &amp; gratia 69. dicit sic, Velle seu nolle in volentis aut nolentis est potestate, vt 
+      di<lb ed="#L" n="50" break="no"/>uinam voluntatem impleat, nec superet potestatem. Et 1. Retract. 22. sic ait, Nisi quisquam,  
+      <lb ed="#L" n="51"/>inquam, voluntatem mutauerit, bonum operari non potest; quod in nostra potestate positum 
+      <lb ed="#L" n="52"/>esse docet, vbi ait, Aut facite arborem bonam, &amp; fructum eius bonum, aut facite arbore malam, 
+      <lb ed="#L" n="53"/>&amp; fructum eius malum, quod non est contra gratiam Dei quam paedicamus: in potestate est., 
+      <lb ed="#L" n="54"/>quippe hominis mutare in melius voluntatem; sed ea potestas nulla est nisi a Deo detur, de 
+      <!--709.xml-->
+      <pb ed="#A" n="676"/>
+               <lb ed="#L" n="1"/>quo dictum est, Dedit eis potestatem filios Dei fieri. Cum enim hoc sit in potestate, quod 
+      <lb ed="#L" n="2"/>cum volumus facimus, nihil tam in potestate quam ipsa voluntas: sed praeparatur voluntas 
+      <lb ed="#L" n="3"/>a Domino, eo modo ergo dat potestatem. Et supra 10. Quod vero dixi, Dei praecepta 
+      im<lb ed="#L" n="4" break="no"/>plere omnes homines possint si velint, non existiment noui haeretici Pelagiani secundum eos 
+      <lb ed="#L" n="5"/>esse dictum: verum est enim omnino, omnes homines hoc posse si velint, sed praeparatur 
+      vo<lb ed="#L" n="6" break="no"/>luntas a Domino, &amp; tantum augetur munere charitatis vt velint. Et secundum hanc 
+      exposi<lb ed="#L" n="7" break="no"/>tionem debent autoritates Augustini &amp; aliorum intelligi, quae dicunt absolute aliquid in 
+      no<lb ed="#L" n="8" break="no"/>stra constitui potestate; autoritates vero alis aliorum dicentes similiter absolute nihil in 
+      no<lb ed="#L" n="9" break="no"/>stra constitui potestate secundum distinctionem praemissam superius exponentur; cuiusmodi 
+      <lb ed="#L" n="10"/>sunt, Non est hominis via eius, nec viri vt ambulet, Ierem. 10. Non est in hominis 
+      pote<lb ed="#L" n="11" break="no"/>state consilium tuum, Tobiae 3. nec quod minimum est potestis, Luc. 12. Non volentis nec 
+      <lb ed="#L" n="12"/>currentis, sed miserentis est Dei, ad Rom. 9. Illud quoque Doctoris Catholici &amp; beatissimi 
+      <lb ed="#L" n="13"/>Martyris Cypriani epistola sua 13. praetitulata ad Quirinum de disciplina religionis 
+      Christi<lb ed="#L" n="14" break="no"/>anae cap. 4. In nullo nobis gloriandum, quando nostrum nihil sit, quod est quasi titulus &amp; 
+      <lb ed="#L" n="15"/>continentia illius totius capituli, quod &amp; multipliciter ibi probat. Quam autoritatem 
+      bea<lb ed="#L" n="16" break="no"/>tus Augustinus deuote amplectitur, &amp; allegat de correptione &amp; gratia 19. de 
+      praedestinati<lb ed="#L" n="17" break="no"/>one sanctorum 3. &amp; alijs locis multis, cuiusmodi plurimas alias capitulum proximum 
+      recita<lb ed="#L" n="18" break="no"/>uit. Ex his autem redditur manifestum qualiter homo est &amp; non est Dominus sui actus, &amp; 
+      <lb ed="#L" n="19"/>qualiter est &amp; non est liberi arbitrij consequenter, quoniam correspondenter praemissis. 
+      Nam<lb ed="#L" n="20" break="no"/>sicut actus hominis constituitur &amp; non constituitur in eius potestate, sic est &amp; non est 
+      Domi<lb ed="#L" n="21" break="no"/>nus illius, &amp; sic est &amp; non est liberi arbitrij consequenter, quod patet cuilibet ex 
+      significatio<lb ed="#L" n="22" break="no"/>nibus terminorum. Nullus enim, vt spero, tam superbum dominium sibi vendicare 
+      praesu<lb ed="#L" n="23" break="no"/>met, vt illum superiorem Dominum non agnoscat, qui in vestimento &amp; in femore suo 
+      ha<lb ed="#L" n="24" break="no"/>bet scriptum, Rex Regum, &amp; Dominus dominantium, Apoc. 19. sed dicat, Volumus hunc 
+      <lb ed="#L" n="25"/>regnare super nos: quod quicunque praesumserit, per 30. secundi diuino dominio 
+      subi<lb ed="#L" n="26" break="no"/>getur. Nullus ergo // hominum est Dominus sui actus omnino simpliciter &amp; penitus absolute, 
+      <lb ed="#L" n="27"/>summe, antecedenter, &amp; suflicienter sine indigentia scilicet alicuius, quod suae potestati siue 
+      <lb ed="#L" n="28"/>dominio non sit subiectum, sed tantum secundum quid, scilicet respectu causarum omnium 
+      <lb ed="#L" n="29"/>secundarum subseruiens necessario causae primae, &amp; hoc necessitate naturaliter praecedente, 
+      <lb ed="#L" n="30"/>sicut secundum huius ostendit; sicque dicitur Dominus sui actus, quia cum vult, agit, &amp; cum 
+      <lb ed="#L" n="31"/>non vult, non agit, &amp; hoc voluntarie, non inuite nec coacte. Nec hoc ferat indigne: sufficiat 
+      <lb ed="#L" n="32"/>enim sibi vt sit Dominus medius, sicut &amp; illi sancti Angelici spiritus in quodam medio ordine 
+      <lb ed="#L" n="33"/>constituti qui dominationes dicuntur, sicut summi Reges nostri &amp; Principes, qui ita sunt 
+      Do<lb ed="#L" n="34" break="no"/>mini, vt tamen seruiant Domino Dominorum; sicut &amp; Duces ac Comites, qui ita sunt 
+      Do<lb ed="#L" n="35" break="no"/>mini subditorum, vt tamen superioribus Dominis seruiant &amp; subdantur, sicut &amp; 28. secundi 
+      <lb ed="#L" n="36"/>confirmat. Vnde Boetius super 1. peri hermenias vlt. Nostra voluntas domina quodammodo 
+      <lb ed="#L" n="37"/>est nostrorum actuum, &amp; totius vitae rationis: quodammodo, inquit, non penitus absolute. 
+      <lb ed="#L" n="38"/>Et Augustinus 144. sententiarum Prosperi, Rationalis, inquit, anima est domina corporis 
+      <lb ed="#L" n="39"/>sui, quae inferiori non bene imperabit, nisi superiori se Deo tota charitatis subiectione 
+      seruie<lb ed="#L" n="40" break="no"/>rit. Idem de vera religione 25. Tales seruos suos meliores esse Deus iudicauit, si ei seruirent 
+      <lb ed="#L" n="41"/>liberaliter. Dicamus igitur deuote cum Ecclesiae tota Dei, Domine, in voluntate tua cuncta 
+      <lb ed="#L" n="42"/>sunt posita, &amp; non est qui possit resistere voluntati tuae: tu enim fecisti coelum &amp; terram, &amp;  
+      <lb ed="#L" n="43"/>vniuersa quae coeli ambitu continentur, Dominus vniuersorum tu es, ergo ipse est Dominus 
+      <lb ed="#L" n="44"/>cuiuslibet actus humani, &amp; non in aequali ordine cum ipso homine, vt iura vetant, &amp; ratio 
+      <lb ed="#L" n="45"/>prohibet, sicut per ostensionem corollarij secundi primi, &amp; per 20. secundi apparet; nec 
+      ho<lb ed="#L" n="46" break="no"/>mo est superior Dominus per 30. secundi, sed Deus, nec quisquam, quaeso, tantam sibi 
+      ven<lb ed="#L" n="47" break="no"/>dicet libertatem, vt etiam Dei refugiat seruitutem, dicendo cum impijs, Quis est omnipotens 
+      <lb ed="#L" n="48"/>vt seruiamus ei? Iob2I. Dicit enim Propheta, Ordinatione tua perseuerat dies, quoniam 
+      <lb ed="#L" n="49"/>omnia seruiunt tibi, Psalm. 118. &amp; Psalm. SI. Nonne Deo subiecta erit anima mea? Et infra, 
+      <lb ed="#L" n="50"/>Veruntamen Deo subiecta // esto anima mea. Et Apostolus ad Rom. 3. Omne os obstruatur, 
+      <lb ed="#L" n="51"/>&amp; subditus fiat omnis mundus Deo. Vnde &amp; Esaie 45. In memetipso iuraui, dicit Dominus, 
+      <lb ed="#L" n="52"/>egredietur de ore meo iustitie verbum, &amp; non reuertetur, quia? mihi curuabitur omne genu: 
+      <lb ed="#L" n="53"/>quare &amp; Ecclesiastici 42. sic scribitur; In omni necessitate omnia obaudiunt ei. Caueant sibi 
+      <lb ed="#L" n="54"/>tales, ne dum liberi iustitiae volunt esse, fiant serui peccati. Dicit quoque beatus Augustinus de 
+      <lb ed="#L" n="55"/>spiritu &amp; litera 25. Vt quid miseri homines de libero arbitrio audent superbire antequam 
+      li<lb ed="#L" n="56" break="no"/>berentur, aut de suis viribus si iam liberati sunt, nec attendunt in ipso nomine liberi arbitrij 
+      <lb ed="#L" n="57"/>vtique libertatem sonare? Vbi autem spiritus Domini, ibi libertas, Si ergo serui sunt peccati, 
+      <lb ed="#L" n="58"/>quid se iactant de libero arbitrio? A quo enim quis deuictus, huic &amp; seruus est addictus. Si 
+      <!--710.xml-->
+      <pb ed="#A" n="677"/>
+               <lb ed="#L" n="1"/>si autem liberati sunt, quid se iactant velut de opere proprio, &amp; gloriatur quasi non acceperinta 
+      <lb ed="#L" n="2"/>An ita sunt liberi, vt nec illum velint habere Dominum, qui eis dicit, Sine me nihil potestis 
+      fa<lb ed="#L" n="3" break="no"/>cere? Idem de libertate arbitrij ad Hilar. 3. Desinant, inquit, Pelagiani sic infanire, &amp; ad hoc se 
+      <lb ed="#L" n="4"/>intelligant habere quantum possunt liberum arbitrium, vt non superba voluntate respuant 
+      ad<lb ed="#L" n="5" break="no"/>iutorium, sed vt pia voluntate inuocent Dominum. Haec enim voluntas libera tanto erit liberior, 
+      <lb ed="#L" n="6"/>quanto diuinae misericordiae gratiaeque subiectior; Ipsa quippe fideliter orat &amp; dicit, Itinera mea 
+      <lb ed="#L" n="7"/>dirige secundum verbum tuum; &amp; ne dominetur mei omnis iniquitas. Irem Prosp.cont. Cassian. 8. 
+      <lb ed="#L" n="8"/>sic ait; Non est periculum liberi arbitrij gratia Dei, nec voluntas aufertur, cum in ipsa bene 
+      vel<lb ed="#L" n="9" break="no"/>le generatur. Nam si ideo non putanda est libera, quia formatur, regitur, ordinatur, imbuitur, 
+      <lb ed="#L" n="10"/>spoliantur libertate filij Dei qui aguntur spiritu Dei. Et infra 24. Non conturbat, inquit, nos 
+      <lb ed="#L" n="11"/>superbientium inepta querimonia, qua lib. arb. causantur auferri, si &amp; principia, &amp; profectus, &amp;  
+      <lb ed="#L" n="12"/>perseuerantia in bonis vsque in finem Dei dona esse dicantur, quonia opitulationes diuinae 
+      gra<lb ed="#L" n="13" break="no"/>tiae stabilimenta sunt voluntatis humanae, volentes oramus, &amp; tamen misit spiritum in corda 
+      <lb ed="#L" n="14"/>nostra clamantem Abba Pater; volentes loquimur, &amp; tamen si pium est quod loquimur, non 
+      <lb ed="#L" n="15"/>sumus nos loquentes, sed spiritus Patris nostri qui loquitur in nobis; volentes operamur 
+      salu<lb ed="#L" n="16" break="no"/>tem nostram, &amp; tamen idipsum velle ac operari Deus est qui operatur in nobis. Et in fine, vbi 
+      <lb ed="#L" n="17"/>I3. haereses Pelag. summarie recitantur, &amp; totidem sanctiones catholicae contra eas, haec 
+      loca<lb ed="#L" n="18" break="no"/>tur Ira. Non esse lib. arb. si Dei indigeret auxilio, quoniam in propria voluntate habet 
+      vnus<lb ed="#L" n="19" break="no"/>quisque facere aliquid aut non facere: &amp; haec IIa sanctio contra illam fatetur esse liberum 
+      arbi<lb ed="#L" n="20" break="no"/>trium, etsi diuino indiget adiutorio. Ideinque in senten. suis, proposit. 124. dicit, Libera semper 
+      <lb ed="#L" n="21"/>est seruitus apud Deum, cui non necessitas seruit, sed charitas. Nullus igitur omnium est arbitrij 
+      <lb ed="#L" n="22"/>liberi simpliciter, arbitrij simpliciter liberi, ab omni scilicet superioris seruitute immunis 
+      om<lb ed="#L" n="23" break="no"/>nino &amp; ab omninecessitate naturaliter praecedente penitus alienus, sicut ioa pars quinti huius 
+      <lb ed="#L" n="24"/>ostendit, sed secundum quid tantuscilicet respectu causarum omnium secundarum, sicut eadem pars 10a 
+      <lb ed="#L" n="25"/>&amp; 3a secundi docebant, subseruiens tamen necessario cause primae, necessario inquanecessitate 
+      <lb ed="#L" n="26"/>naturaliter praecedente, sicut secundum huius ostendit: Sicque dicitur homo liber ad aliquid 
+      fa<lb ed="#L" n="27" break="no"/>ciendum, quia cum vult, facit illud, &amp; cum non vult, no facit, volutarie, non coactus aut inuitus. P 
+      <lb ed="#L" n="28"/>Vnde Philos. 6. Polit. 1. Viuere, inquit, vt vult quis, hoc opus libertatis esse aiunt; siquidem 
+      ser<lb ed="#L" n="29" break="no"/>uientis, ipsum viuere non vt vult. Cui &amp; concorditer Aug. 1. contra Pelag. &amp; Coelestium 120. 
+      <lb ed="#L" n="30"/>Oratur, inquit, in Psal. Suauis es Domine, &amp; in tua suauitate doce me iustitiam tuam; id est,  
+      <lb ed="#L" n="31"/>non formidine poenae seruiliter cogar esse sub lege, sed libera charitate delecter esse cum lege, 
+      <lb ed="#L" n="32"/>praeceptum quoque liber facit, qui libens facit; &amp; hoc idem videtur esse, quod dicitur in sentet. 
+      <lb ed="#L" n="33"/>Prosp. propositione praemissa; Libera semper est seruitus apud Deum, cui non necessitas 
+      ser<lb ed="#L" n="34" break="no"/>uit, sed charitas; Non necessitas, inquit, cogens scilicet violenter, sed charitas, scilicet amor 
+      <lb ed="#L" n="35"/>spontanes voluntatis, sicut &amp; corol. primi huius ostendit, Nec quisquam recalcitret 
+      murmu<lb ed="#L" n="36" break="no"/>rando; sufficere namque debet cuilibet homini talis libertas, qualem habuit, habet, ac semper 
+      <lb ed="#L" n="37"/>habebit Dominus suus Christus, qui Patri in omnibus est subiectus, ac necessitate naturaliter 
+      <lb ed="#L" n="38"/>praecedenti, vt 300. secundi, &amp; secudum huius ostendunt. Dicit enim Apost. 1. ad Cor. 15. Cum 
+      <lb ed="#L" n="39"/>autem subiecta fuerint illi, scilicet Christo filio Dei, omnia, tunc ipse filius subiectus erit Patri, 
+      <lb ed="#L" n="40"/>qui sibi subiecit omnia. Qui &amp; dicitur seruus Patris; Vnde Esa. 42. Ecce seruus meus, suscipiam 
+      <lb ed="#L" n="41"/>eum, electus meus: Complacuit igitur in illo anima mea; Dedi spiritum meum super eum, 
+      iu<lb ed="#L" n="42" break="no"/>dicium gentibus proferre. Et infra 53. Dominus voluit conterere eum in infirmitate, &amp; 
+      volun<lb ed="#L" n="43" break="no"/>tas Domini in manu eius dirigetur; In scientia sua iustificabit ipse iustus seruus meus multos, 
+      <lb ed="#L" n="44"/>&amp; iniquitates eorum ipse portabit. Sufficiat homini talis libertas, qualis est in sanctis Angelis, 
+      <lb ed="#L" n="45"/>&amp; in hominibus confirmatis, qui diuinae voluntati adeo sunt subiecti, vt peccare aut velle 
+      pec<lb ed="#L" n="46" break="no"/>care non possint, sed ipsam in omnibus necessario imitantur, sicut omnes // autoritates concor 
+      <lb ed="#L" n="47"/>diter profitentur. Quare &amp; Lumbard. 4. sent. dist. 45. Adeo, inquit, volutati addicti sunt 
+      super<lb ed="#L" n="48" break="no"/>nae, vt nihil praeter voluntatem eius queant velle. Sufficiat homini, quod sit liber, sicut Reges &amp;  
+      <lb ed="#L" n="49"/>Principes, qui ita sunt liberi, vt tamen diuinae prouidentie seruiat etiam in omnibus factis suis, 
+      <lb ed="#L" n="50"/>sicut 27un. primi &amp; seqe docuerunt. Sufficiat homini // quod sit liber respectu omnium citral 
+      <lb ed="#L" n="51"/>Deum, &amp; tantummodo seruus Dei, seruus, inquam, spontaneus, non coactus; cui sic seruire 
+      si<lb ed="#L" n="52" break="no"/>cut canit Ecclesia, est regnare, cum plurimi homines dicatur, &amp; vere sint liberi, qui nedum vni, 
+      <lb ed="#L" n="53"/>sed multis superioribus Dominis seruiunt &amp; subduntur. Vnde Aug. 2. de lib. arb. 22. Haec est 
+      <lb ed="#L" n="54"/>libertas nostra, cum ipsi subdimur veritati, scilicet vero Deo.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

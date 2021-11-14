@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 33</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 33</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="289"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e39305"><!-- l1c33 -->
+            <head xml:id="dcn2br-e39305-Hd1e106">Caput 33</head>
+            <p xml:id="dcn2br-e39305-d1e109">
+               <lb ed="#L" n="27"/>CAP. XXXIII. 
+      <lb ed="#L" n="28"/>Quod respectu cuiuscunque est Dei permissio, est &amp; eius volutio actualis. 
+      </p>
+            <p xml:id="dcn2br-e39305-d1e116">
+               <lb ed="#L" n="29"/>Is autem non impertinenter coniungendum existimo, quod respectu 
+      <lb ed="#L" n="30"/>cuiuscunque est Dei permissio, est &amp; eius volutio actualis: Hoc 
+      siqui<lb ed="#L" n="31" break="no"/>dem ex capitulo proximo sequitur euidenter. Item per vicesimum 
+      se<lb ed="#L" n="32" break="no"/>cundum huius; Deus habet aliquem actum voluntatis respectu 
+      cuius<lb ed="#L" n="33" break="no"/>cunque permissi, &amp; non actum nolutionis, quia, per decimum, tunc non  
+      <lb ed="#L" n="34"/>fieret, quare nec esset permissum. Hoc idem &amp; probant autoritates 
+      ca<lb ed="#L" n="35" break="no"/>pitulo proximo allegatae, ad hoc quod nihil est iniustum simpliciter, 
+      <lb ed="#L" n="36"/>l quia a Deo permissum; si tamen illa permissio nullum actum 
+      volunta<lb ed="#L" n="37" break="no"/>tis haberet, non redderet quicquam iustum, sicut superius est argutum. Item dicit Augustinus 
+      <lb ed="#L" n="38"/>Enchir. 75. Non sit aliquid nisi Omnipotens fieri velit, vel sinendo vt fiat, vel ipse faciendo. Et  
+      <lb ed="#L" n="39"/>sequitur cap. 76. Nec dubitandum est Deum facere bene, etiam sinendo fieri quaecunque fiunt 
+      <lb ed="#L" n="40"/>male; Non enim nisi iusto iudicio sinit, &amp; profecto bonum est omne quod iustum est. 
+      Quam<lb ed="#L" n="41" break="no"/>uis ergo ea quae mala sunt in quantum mala sunt, no sunt bona; tamen vt non solum bona, sed 
+      <lb ed="#L" n="42"/>etiam vt sint mala bonum est. Nam nisi esset hoc bonum vt essent mala, nullo modo esse 
+      sine<lb ed="#L" n="43" break="no"/>rentur ab omnipotente bono, cui sine dubio semper quam facile est quod vult facere, tam 
+      fa<lb ed="#L" n="44" break="no"/>cile est quod non vult esse, non sinere, Ex quo videtur, quod Deus habet actum positiuum 
+      vo<lb ed="#L" n="45" break="no"/>luntatis, volendi actualiter vel nolendi circa quodcunque. Probat enim quod bonum est mala 
+      <lb ed="#L" n="46"/>esse per hoc, quod alias non permitterentur ab omnipotente bono; quod etiam probat per 
+      <lb ed="#L" n="47"/>hoc, quod quam facileest ipsum facere quod vult, tam facile est non sinere esse quod non  
+      <lb ed="#L" n="48"/>vult, inuuendo quod quidlibet vult esse, vel non vult illud esse. Vel ergo intelligit ibi, non vult 
+      <lb ed="#L" n="49"/>positiue, vt importat actum positiuum contrarium huius verbi, vult, vel pure negatiue. Si 
+      po<lb ed="#L" n="50" break="no"/>sitiue, habetur propositum, scilicet quod ipse supponit istam disiunctiuam in Deo circa 
+      quod<lb ed="#L" n="51" break="no"/>cunque, Deus vult hoc, vel non vult hoc positiue: si pure negatiue, tunc per hoc non probat, 
+      <lb ed="#L" n="52"/>quia nisi bonum esset mala esse, mala non essent, nec sinerentur esse, quod tamen intendit, cum 
+      <lb ed="#L" n="53"/>dicit; Tam facile est quod non vult esse non sinere, innuendo quod si mala esse non esset bonum, 
+      <lb ed="#L" n="54"/>sed malum, Deus hoc nollet, &amp; sic non fineret illa esse, quare nec ipsa essent. Si tamen 
+      intelli<lb ed="#L" n="55" break="no"/>gat, non vult, pure negatiue, sic posset esse medium in Deo inter vult &amp; non vult actualiter 
+      <!--323.xml-->
+      <pb ed="#A" n="290"/>
+               <lb ed="#L" n="1"/>positiue, sicut est in sapide, &amp; homine dormiente; &amp; sic non sequitur, non vult hoc, ergo A 
+      <lb ed="#L" n="2"/>hoc non fit, sicut non sequitur de homine qui potest impedire aliquod factibile, vel etiam 
+      pro<lb ed="#L" n="3" break="no"/>mouere,: non vult hoc, pure negatiue loquendo, ergo hoc non sit, nec // sinit hoc esse; imo 
+      <lb ed="#L" n="4"/>potest fieri ab alio, licet ipse non velit, dum tamen actualiter positiue non nolit, quia tunc 
+      <lb ed="#L" n="5"/>non impediet alium facientem. Item sicut per hoc, quod dicit, quam facile est ipsum quod 
+      <lb ed="#L" n="6"/>vult facere, intelligit aliquem actum; sic videtur, quod per hoc quod dicit, tam facile est ipsum 
+      <lb ed="#L" n="7"/>quod non vult esse non sinere, intelligat aliquem actum aeque facilem, &amp; aequaliter efficacem, 
+      <lb ed="#L" n="8"/>nolie videlicet positiue. Constat insuper quod ille sinit atque permittit, qui posset prohibere 
+      <lb ed="#L" n="9"/>nec facit; quare &amp; ille non sinit, qui potest prohibere &amp; facit. Cum ergo dicit Augustinus, 
+      <lb ed="#L" n="10"/>Quam facile est Deo quod non vult esse non sinere, per non sinere, intelligit prohibere, quod 
+      <lb ed="#L" n="11"/>aliquem actum inportat; sed quem actum nisi nolle positiue, quod per 10un. tam efsicax est 
+      <lb ed="#L" n="12"/>ad impediendum seu prohibendum, sicut velle ad faciendum quodcunque? Quod etiam in 
+      <lb ed="#L" n="13"/>modo loquendi Augustini, non vult, importet aliquem actum positiuum contrarium 
+      volutio<lb ed="#L" n="14" break="no"/>ni, patet per eum infra, eodem, 80. sic dicentem: Quantum ad Angelicam &amp; humanam 
+      crea<lb ed="#L" n="15" break="no"/>turam peccantes attinet, quod Deus noluit, fecerunt; quantum vero ad omnipotentiam Dei 
+      <lb ed="#L" n="16"/>nullo modo id efficere valuerunt. Si tamen hoc verbum, Noluit, solam negationem 
+      impor<lb ed="#L" n="17" break="no"/>taret, videtur quod Angelus &amp; homo potuit facere quod Deus noluit, nec hoc eius 
+      omnipo<lb ed="#L" n="18" break="no"/>tentiae in aliquo derogaret. Item 1. cap. 80. infra, sic dicit, Miro &amp; ineffabili modo non sit 
+      prae<lb ed="#L" n="19" break="no"/>ter voluntatem Dei, quod etiam contra voluntatem eius fit, quia non fieret, si non sineret; nec 
+      <lb ed="#L" n="20"/>vtique nolens sinit, sed volens; nec sineret bonis fieri male, nisi omnipotens, &amp; de malo facere 
+      <lb ed="#L" n="21"/>posset bene. Idem 22. de Ciuit. Dei 4. Multa fiunt a malis contra voluntatem Dei: sed tantae est 
+      <lb ed="#L" n="22"/>ille sapientiae, tantaeque virtutis, vt in eos exitus siue fines, quos bonos &amp; iustos ipse praesciuit, 
+      <lb ed="#L" n="23"/>tendant omnia, quae voluntati eius videntur aduersa. Item 26. contra Faustum, illud sane 
+      sci<lb ed="#L" n="24" break="no"/>mus factum quod Dei voluntas habet, quod autem Dei voluntas non habet, fieri de quoquam  
+      <lb ed="#L" n="25"/>omnino non posse: Ergo Deus nedum permittit, sed actualiter vult fieri omne factum. Idem  
+      <lb ed="#L" n="26"/>super illud Psal. 6I. Semel locutus est Deus, Deus suo consilio permisit filium suum occidi ab 
+      <lb ed="#L" n="27"/>iniustis; Et infra, eodem, Deus non permisisset, nisi iustum esset; Iudicio permittit, mensura, 
+      nu<lb ed="#L" n="28" break="no"/>mero, &amp; pondere permittit. Permissib ergo Dei habet secum consilium, iudicium, mensuram, 
+      <lb ed="#L" n="29"/>numerum &amp; pondus, ergo &amp;es actum aliquem voluntatis. Idem de bono perseuerantiae 56. 
+      alle<lb ed="#L" n="30" break="no"/>gat S. Gregorium sic dicentem; Vnius diuinitatis quaeso vos confitemini trinitatem; si vero 
+      ali<lb ed="#L" n="31" break="no"/>ter vultis, dicite vnius essentiae; &amp; Deus vocem dari vobis a Sancto Spiritu deprecabitur, id est,  
+      <lb ed="#L" n="32"/>rogabitur Deus, vt permittat vobis dari vocem, qua quod creditis, confiteri possitis. Illa tamen 
+      <lb ed="#L" n="33"/>vox permissa vobis dari esset veraciter &amp; proprie donum Dei: Ad hoc enim adducit ibi 
+      Gre<lb ed="#L" n="34" break="no"/>gorium, vt testetur, credere in Deum, &amp;, quod credimus, confiteri, donum Dei esse. Item B. Greg. 
+      <lb ed="#L" n="35"/>6. Moral. II. super illud Iob 5. Qui comprehendit sapientes in astutia eorum, &amp;c. ita dicit: 
+      Se<lb ed="#L" n="36" break="no"/>pe enim nonulli humana sapientia inflati, dum desiderijs suis diuina iudicia contraire 
+      conspi<lb ed="#L" n="37" break="no"/>ciunt, astutis eius reluctari machinationibus conantur, &amp; quo ad votum suum vim supernae 
+      <lb ed="#L" n="38"/>dispensationis intorqueant, callidis cogitationibus insistunt, subtiliora consilia exquirunt; sed 
+      <lb ed="#L" n="39"/>inde voluntatem Dei peragunt, vnde hanc immutare contendunt, atque omnipotentis Dei 
+      con<lb ed="#L" n="40" break="no"/>silio dum resistere nituntur, obsequuntur, quia sepe &amp; hoc eius dispositioni apte militat, quod ei 
+      <lb ed="#L" n="41"/>per humanum studium friuole // resultat. Sapientes ergo Dominus in ipsa eorum astutia 
+      com<lb ed="#L" n="42" break="no"/>prehendit, quando eius consilijs humana facta etiam tunc congrue seruiunt, cum resistunt. Et  
+      <lb ed="#L" n="43"/>infra 12. Iustus namque &amp; misericors mortalium acta disponens, alia concedit propitius, alia 
+      per<lb ed="#L" n="44" break="no"/>mittit iratus, atque ea quae permittit, sic tolerat, vt haec in sui consilij vsum conuertat. Vnde 
+      mi<lb ed="#L" n="45" break="no"/>ro modo fit, vt &amp; quod sine voluntate Dei agitur, voluntati Dei contrarium non sit; quia dum 
+      <lb ed="#L" n="46"/>in bonum vsum mala facta vertuntur, eius consilio militant etiam quae eius consilio 
+      re<lb ed="#L" n="47" break="no"/>pugnant. Hinc enim per Psalmistam dicitur, Magna opera Domini exquisita in omnes 
+      <lb ed="#L" n="48"/>voluntates eius. Sic quippe eius opera magna sunt, vt per omne, quod ab hominibus 
+      <lb ed="#L" n="49"/>agitur, eius voluntas exquiratur. Hinc rursum dicit, Omnia quaecunque voluit, 
+      Do<lb ed="#L" n="50" break="no"/>minus fecit, in Coelo &amp; in terra. Hinc Salomon ait: Non est sapientia, non est 
+      pruden<lb ed="#L" n="51" break="no"/>tia, non est consilium contra Dominum. Restat ergo, vt in cunctis quae agimus, vim 
+      super<lb ed="#L" n="52" break="no"/>nae voluntatis inquiramus, cui videlicet cognitae debet nostra actio deuote famulari, &amp;  
+      <lb ed="#L" n="53"/>quasi ducem sui itineris persequi, ne ei etiam nolens seruiat, si hanc superbiens declinat. 
+      Vi<lb ed="#L" n="54" break="no"/>tari enim vis superni consilij nequaquam potest, sed magna sibi virtute hanc temperat, qui se 
+      <lb ed="#L" n="55"/>sub eius nutibus refraenat, eiusque sibi pondera leuigat, qui hanc subiecto cordis humero 
+      <lb ed="#L" n="56"/>volens portat. Ex quibus ostenditur evidenter, quod respectu cuiuscunque est diuina 
+      permis<lb ed="#L" n="57" break="no"/>sio, est &amp; diuina volutio actualis, quod &amp; plene testatur eius Autoritas 2. Moral. 11. capitulo 
+      <lb ed="#L" n="58"/>proximo recitata. Sed contra istud militare videntur multa dicta Sanctorum, distinguentium 
+      <!--324.xml-->
+      <pb ed="#A" n="291"/>
+               <lb ed="#L" n="1"/>permissionem contra voluntatem diuinam, &amp; dicentium eum multa permittereque non vult. 
+      <lb ed="#L" n="2"/>nec amat. Vnde &amp; Hosae. 8. Ipsi regnauerunt, &amp; non ex me, Principes extiterunt, &amp; non  
+      <lb ed="#L" n="3"/>cognoui: &amp; Ierem. 14. Falso prophetae vaticinantur in nomine meo, &amp; non misi eos, &amp; non A 
+      <lb ed="#L" n="4"/>praecepi eis, neque locutus sum ad eos. Et infra 23. non mirtebam Prophetas, &amp; ipsi 
+      curre<lb ed="#L" n="5" break="no"/>bant; non loquebar ad eos, &amp; ipsi prophetabant. Item tunc quicunque qualitercunque intraret 
+      <lb ed="#L" n="6"/>in ouile, Tin ecclesiam, intraret per ostium, quoniam per Deum &amp; Christum, nec aliquis 
+      <lb ed="#L" n="7"/>ascenderet aliunde, quod est contra illum bonum pastorem, Iohan. 10. Item tunc non esset 
+      <lb ed="#L" n="8"/>nemesandum, &amp; indigne ferendum, quod indigni in magnis dignitatibus praeferuntur, quod 
+      <lb ed="#L" n="9"/>est contra communem consuetudinem &amp; doctrinam Sanctorum. Vnde &amp; Ecclesiastis 10. Est 
+      <lb ed="#L" n="10"/>malum quod vidi sub Sole, quasi per errorem egrediens a facie Principis, positum stultum in 
+      <lb ed="#L" n="11"/>dignitate sublimi, &amp; diuites sedere deorsum: Vidi seruos in equis, &amp; Principes ambulantes 
+      <lb ed="#L" n="12"/>quasi seruos super terram. Item tunc nullus deberet de aliqua dignitate, vel aliquo statu 
+      quo<lb ed="#L" n="13" break="no"/>cunque deponi, Deus enim posuit eum ibi: Nec aliquis deberet scribere, Talis permissione 
+      di<lb ed="#L" n="14" break="no"/>uina, talis, vel talis, sed prouidentia, vel voluntate, seu electione diuina Neque esset resistendum 
+      <lb ed="#L" n="15"/>in aliquo cuilibet quidlibet facienti, quia illud ex voluntate &amp; ordinatione Dei facit. Vnde &amp;  
+      <lb ed="#L" n="16"/>Roboam cum domo Iuda &amp; Beniamin, volentibus pugnare contra Ieroboam &amp; suos, vt 
+      rein<lb ed="#L" n="17" break="no"/>tegraret regnum diuisum, dixit ad eos Dominus per Semeiam Prophetam: Non ascendetis, 
+      <lb ed="#L" n="18"/>neque pugnabitis contra fratres vestros; reuertatur vnusquisque in domum suam, quia hoc 
+      <lb ed="#L" n="19"/>mea gestum est voluntate. 2. Paral. 1I. &amp; 3. Reg. 12. Quibus consentit Apostolus ad Rom. 13. 
+      <lb ed="#L" n="20"/>ita monens, Omnis anima potestatibus sublimioribus subdita sit. Non est enim potestas nisi a 
+      <lb ed="#L" n="21"/>Deo; quae autem sunt, a Deo ordinata sunt: Itaque qui resistit potestati, Dei ordinationi 
+      resi<lb ed="#L" n="22" break="no"/>stit; qui autem resistunt, ipsi sibi damnationem acquirunt. Item tunc esset obediendum 
+      prae<lb ed="#L" n="23" break="no"/>cepto cuilibet cuiuscunque, &amp; cuilibet suggestioni, &amp; appetitui cuicunque; omnia enim ista 
+      ne<lb ed="#L" n="24" break="no"/>dum ex permissione, verum &amp; ex volutione Dei procedunt. Pro istis autem facilius 
+      dissoluen<lb ed="#L" n="25" break="no"/>dis, sciendum secundum Philos. 3. Eth. 1. quod velle dupliciter dicitur, scilicet simpliciter, &amp; 
+      se<lb ed="#L" n="26" break="no"/>cundum quid, sicut Mercator in periculo naufragij simpliciter vult salutem, sed quia fortassis 
+      <lb ed="#L" n="27"/>hanc habere non potest nisi merces eijciat, vult eijcere merces suas; non autem vult hoc 
+      sim<lb ed="#L" n="28" break="no"/>pliciter, sed propter salutem. Vnde &amp; Parab. 13. vult &amp; non vult piger. August. quoque de 
+      spi<lb ed="#L" n="29" break="no"/>ritu &amp; litera 26. ita dicit; Neque dici solet quispia voluntate fecisse si quid fecit inuitus, 
+      quan<lb ed="#L" n="30" break="no"/>quam si subtilius aduertamus, etiam quod quisque inuitus facere cogitur, si facit, voluntate 
+      fa<lb ed="#L" n="31" break="no"/>cit: sed quia mallet aliud, ideo inuitus, id est, nolens facere dicitur. Malo quippe / aliquo quis 
+      <lb ed="#L" n="32"/>facere compellitur, quod volens euitare, facit quod cogitur; ac per hoc si facit, non quidem  
+      <lb ed="#L" n="33"/>plena &amp; libera voluntate, sed tamen non facit nisi voluntate. Dicunt etiam iura, quod coacta 
+      <lb ed="#L" n="34"/>voluntas est voluntas: Fales autem operationes secundum Philos. vbi prius, sunt mixtae ex 
+      <lb ed="#L" n="35"/>voluntario &amp; inuoluntatio, &amp; ideo quandoque denominantur ab vno illorum &amp; dicuntur 
+      vo<lb ed="#L" n="36" break="no"/>luntariae, quandoque ab alio &amp; dicuntur inuoluntariae, vel non voluntariae, ita quod secundum 
+      <lb ed="#L" n="37"/>August: nunc allegatum, talis inuitus &amp; nolens facere dicitun. Quare dicit Philos. 2. Topic. 
+      <lb ed="#L" n="38"/>quod desiderium respectu alicuius desiderati potest esse triplex; aut vt finis, vt I/sanitas; aut vt 
+      <lb ed="#L" n="39"/>eorum, quae sunt ad finem, vt consuere, vel conficere; aut vt eorum que sunt secundum accidens, 
+      <lb ed="#L" n="40"/>velut in vino ad mixtum dulce. Non enim quoniam vinum, sed quoniam dulce; nam perse 
+      <lb ed="#L" n="41"/>dulce desiderat, vinum autem per accidens. Si // enim austerum sit, iam non desiderat; per 
+      ac<lb ed="#L" n="42" break="no"/>cidens ergo desiderat. Et 7. Ethic. 9. Si quis hoc propter hoc eligit aut persequitur, secundum 
+      <lb ed="#L" n="43"/>seipsum quidem hoc eligit &amp; persequitur, secundum accidens autem quod prius; simpliciter 
+      <lb ed="#L" n="44"/>autem dicimus quod secundum seipsum. Et secundum eundem 6. Metaph. 4. Accidens 
+      vi<lb ed="#L" n="45" break="no"/>detur propinquum non enti; &amp; ideo Plato non male posuit sophisticam circa non ens, quia 
+      <lb ed="#L" n="46"/>cirea ens per accidens;quare &amp; nulla est speculatio circa illud; nec vlla scientia actiua, 
+      facti<lb ed="#L" n="47" break="no"/>ua, vel, Theologicastustiosa est deeo. Et 2. Physiy4. sic dicit, Quoniam maxime proprie 
+      <lb ed="#L" n="48"/>dicimus Medicum aliquid facere, aut pati, aut fieri ex medico, si secundum quod Medicus, 
+      <lb ed="#L" n="49"/>hoc patiatur aut faciat, manifestum quod ex eo quod non est, aliquid fieri, &amp; hoc significat in 
+      <lb ed="#L" n="50"/>quantum non est Ideoque Autores; &amp; Doctores Philosophici &amp; Theologici, doquentes 
+      fre<lb ed="#L" n="51" break="no"/>quenter, vt decet, proprie, &amp; in propositionibus non per accidens, sed simpliciter &amp; per se 
+      <lb ed="#L" n="52"/>veris, dicunt volentem aliquid tantum per accidens dicto modo, non velle illud vel 
+      nolle<lb ed="#L" n="53" break="no"/>Quare &amp; Philosophus 8i Ethic. 3. dicit, quod amicitiae propter atile, &amp; propter delectabile 
+      <lb ed="#L" n="54"/>sunt amicitiae secundum accidens. Et infra 9. 1. propter haec inquit, videlicet vtile &amp; 
+      dele<lb ed="#L" n="55" break="no"/>ctabile, amicitia existente dissolutio fit, cum non fiant, quorum /l gratia amabant. Non 
+      e<lb ed="#L" n="56" break="no"/>nim ipsos amabant, sediexistentia? Et quid est amare, nisi velle bonum amato, dicente 
+      Phi<lb ed="#L" n="57" break="no"/>losopho 8. Ethic. 3. Amantes autem? ad inuicem volunt bona adinuicem; Cui &amp; 
+      concor<lb ed="#L" n="58" break="no"/>danter Auselmus de Casu diaboli 74 3. Qui vult aliquid propter beatitudinem, non aliud 
+      <!--325.xml-->
+      <pb ed="#A" n="292"/>
+               <lb ed="#L" n="1"/>vult quam beatitudinem, // cum multis alijs Autoritatibus 26. huius ad hoc idem adductis. Sic 
+      <lb ed="#L" n="2"/>&amp; Deus simpliciter vult Electos saluari, &amp; aeterna beatitudine praemiari; sed quia decet, quod 
+      <lb ed="#L" n="3"/>merita eorum praecedant, ordinauit eis tyrannos rebelles &amp; multiplices inimicos, sicut 
+      Sena<lb ed="#L" n="4" break="no"/>cherib, Nabuchodonosor &amp; alios, tanquam virgas furori sui, vt sic visitaret in virga 
+      iniquita<lb ed="#L" n="5" break="no"/>tes eorum, &amp; in verberibus peccata eorum, sicque eos misericorditer castigaret, vel 
+      innocen<lb ed="#L" n="6" break="no"/>tes a peccatis taliter praeseruaret, vel etiam virtutes eorum vtiliter exerceret. Quid enim 
+      me<lb ed="#L" n="7" break="no"/>reretur patientia humilium &amp; iustorum, nisi eam tribularet &amp; pungeret iniuria malignorum, 
+      <lb ed="#L" n="8"/>quae omnia ex superioribus satis patent? quare &amp; tales persecutores iustorum non vult Deus 
+      <lb ed="#L" n="9"/>simpliciter esse vel persequi, sed tantum secundum quid &amp; per accidens propter Electos; 
+      ideo<lb ed="#L" n="10" break="no"/>que dicitur frequenter Deum nolle illos, nec operas eorum, sed tantum permittere, sicut 
+      in<lb ed="#L" n="11" break="no"/>firmus, qui vt curetur, debet secari, vel vri, non dicit, volo, sed dicit, si sic oportet, 
+      per<lb ed="#L" n="12" break="no"/>mittam. Non dicit, volo, quia non vult simpliciter, vult tamen secundum quid &amp; per 
+      <lb ed="#L" n="13"/>accidens, scilicet gratia sanitatis, qui etiam modus loquendi habetur in sacra Scriptura 
+      ex<lb ed="#L" n="14" break="no"/>presse Gen. 47. dicente Ioseph Aegyptijs, Accipite &amp; serite agros vt fruges habere possitis, 
+      <lb ed="#L" n="15"/>quintam partem Regi dabitis, &amp; quatuor reliquas permitto vobis in fementem &amp; cibos, liberis 
+      <lb ed="#L" n="16"/>&amp; familijs vestris. Dixit, permitto: nec dubium quin voluit eos habere quatuor reliquas 
+      par<lb ed="#L" n="17" break="no"/>tes pro se &amp; suis, sed principaliter magis voluit habere quintam partem ad vsus Regis, cuius 
+      <lb ed="#L" n="18"/>negotijs specialiter intendebat. Et Tobiae 2. loquens Scriptura de excaecatione Tobiae, sic 
+      di<lb ed="#L" n="19" break="no"/>cit: Hanc autem tentationem ideo permisit Dominus euenire illi, vt posteris daretur 
+      exem<lb ed="#L" n="20" break="no"/>plum patientiae ipsius, sicut &amp; sancti Iob; Ecce dicit, quod Dominus permisit, &amp; tamen voluit  
+      <lb ed="#L" n="21"/>illam tentationem, quia fuit bona, &amp; nullo modo mala per culpam, quod patet testante 
+      Ra<lb ed="#L" n="22" break="no"/>phaele infra, eodemae 2. Quia inquit, acceptus eras Deo, necesse erat vt tentatio te probaret. 
+      <lb ed="#L" n="23"/>&amp; hoc non fuit nisi ex voluntate diuina. Deus ergo hanc voluit non tame simpliciter &amp; 
+      prop<lb ed="#L" n="24" break="no"/>ter se, sed secudum quid &amp; per accidens, in quantum scilicet fuit occasio patientiae in Tobia, 
+      <lb ed="#L" n="25"/>&amp; posteris boni exempli. Patet ergo quomodo respectu eiusde diuina permissio &amp; eius 
+      actu<lb ed="#L" n="26" break="no"/>alis volutio non repugnant. Per hoc patet ad primum de Hosea, quod Regnauerunt &amp; non  
+      <lb ed="#L" n="27"/>ex me, scilicet volente simpliciter, licet secudum quid &amp; per accidens, vt est dictum; vel aliter. 
+      <lb ed="#L" n="28"/>Regnarunt, &amp; non ex me, quantum scilicet in eis fuit, quia forte contra conscientiam 
+      pro<lb ed="#L" n="29" break="no"/>priam, &amp; contra iustitiam humanam &amp; legalem, licet non contra iustitiam simpliciter quae est 
+      <lb ed="#L" n="30"/>diuina, sicut capitulum proximum ostendebat probando, quod nihil est iniustum 
+      simplici<lb ed="#L" n="31" break="no"/>ter. Ad alia vero de Ieremia &amp; Iohanne patet per indem quod Indigni prelati non sunt indigne 
+      <lb ed="#L" n="32"/>ferendi, sed digne quoad diuinam iustitiam, quae sic disponit; possunt tamen indigne ferri 
+      <lb ed="#L" n="33"/>quantum ad iustitiam propriam; si ascenderint minus iuste, nobis tamen subditis tutum 
+      repu<lb ed="#L" n="34" break="no"/>to &amp; salubre, ne murmuremur faciliter contra qualescunque praelatos, sed ipsos supportemus 
+      <lb ed="#L" n="35"/>humiliter propter Deum, qui praeposuit eos nobis: Si enim sint muti vel mali, hoc forsitan est 
+      <lb ed="#L" n="36"/>in poenam peccatorum nostrorum, qui tales meremur habere. Vnde Iob 34. Regnare facit, 
+      <lb ed="#L" n="37"/>hominem hypocritam propter peccata populi: Super quod dicit beatus Gregorius 25. 
+      Mo<lb ed="#L" n="38" break="no"/>ral. 15. Nullus, qui talem rectorem patitur, eum accuset, qui nimirum sui fuit meriti peruersi 
+      <lb ed="#L" n="39"/>rectoris subiacere ditioni. Culpam ergo proprij magis accuset operis, quam iniustitiam 
+      gu<lb ed="#L" n="40" break="no"/>bernantis Et infra, eodem 16. Sic ergo secundum merita subditorum tribuuntur personae 
+      re<lb ed="#L" n="41" break="no"/>gentium: Quandoque vero subditi propter peccata sua nedum malum praelatum suscipiunt, 
+      <lb ed="#L" n="42"/>sed quod est magis mirabile, is quem bonum susceperant, permutatur in malum. Quare dicit 
+      <lb ed="#L" n="43"/>Gregorius inferius vbi prius: sic pro qualitatibus subditorum disponuntur acta regentium, 
+      <lb ed="#L" n="44"/>vt saepe pro merito gregis etiam vere boni derelinquat vita Pastoris. Ille, Deo attestante, 
+      Iau<lb ed="#L" n="45" break="no"/>datus Dauid Propheta, tumore repentinae elationis inflatus, populum numerando peccauit, 
+      <lb ed="#L" n="46"/>&amp; tamen vindictam populus, Dauide peccante, suscepit. Cur hoc? quia videlicet secundum 
+      <lb ed="#L" n="47"/>merita ploebium disponuntur corda Rectorum: Iustus vero Iudex peccantis vitium ex 
+      ipso<lb ed="#L" n="48" break="no"/>rum animaduersione corripuit, ex quorum causa peccauit; sed quia ipse, sua scilicet 
+      volun<lb ed="#L" n="49" break="no"/>tate superbiens a culpa alienus non fuit, vindictam culpae etiam ipse suscepit. Nam ira 
+      saeui<lb ed="#L" n="50" break="no"/>ens quae corporaliter populum perculit, Rectorem quoque populi intimo cordis dolore 
+      pro<lb ed="#L" n="51" break="no"/>strauit. Praelatus etiam bonus admissus &amp; permanens bonus continue, propter subditorum 
+      <lb ed="#L" n="52"/>peccata, quandoque a praedicationis &amp; correptionis officio redditur obmutescens. Vnde 
+      Do<lb ed="#L" n="53" break="no"/>minus Ezechieli sic dixit, Linguam tuam adhaerere faciam palato tuo, &amp; eris mutus, nec quasi 
+      <lb ed="#L" n="54"/>vir obiurgans, quia domus exasperans est. Vbi Glossa super verbum exasperans, quasi 
+      dice<lb ed="#L" n="55" break="no"/>ret, Tantae amaritudinis sunt, &amp; contra Deum contentionis, vt non obiurgationem tantum 
+      <lb ed="#L" n="56"/>mereantur audire. Ex quo patet, vbi multitudo fuerit peccatorum, indignos peccantes esse. 
+      <lb ed="#L" n="57"/>qui a Domino corrigantur. Corrigant ergo prius subditi vitam suam, &amp; contra Praelatos suos 
+      <lb ed="#L" n="58"/>non murmurentur; sed deuote pro eissbominum deprecentur, in cuius manibus corda sunt 
+      <!--326.xml-->
+      <pb ed="#A" n="293"/>
+               <lb ed="#L" n="1"/>Regum, &amp; omnium Praelatorum. Neque procedit quod arguitur consequenter, quia sicut 
+      <lb ed="#L" n="2"/>Deus posuit Praelatum in alto, ita, si deponatur, eum deponit. Ipse enim est, qui deposuit 
+      po<lb ed="#L" n="3" break="no"/>tentes de sede, nec posuit eum ibi pro suo perpetuo, sed ad tempus, sicut dedit regnum 
+      Na<lb ed="#L" n="4" break="no"/>buchodonosor, &amp; semini eius post eum, non pro semper, sed donec veniret tempus terrae 
+      e<lb ed="#L" n="5" break="no"/>ius, &amp; ipsius, sicut ex Ieremiae vicesimo septimo, prius fuerat allegatum; non intelligendo 
+      <lb ed="#L" n="6"/>per tempus terrae eius &amp; ipsius, tempus durationis regni in aliqua magna, maiori, seu 
+      maxi<lb ed="#L" n="7" break="no"/>ma coniunctione necessario praetaxatum, quae innouat sectas &amp; regna, (sicuti mentiuntur 
+      A<lb ed="#L" n="8" break="no"/>strologi mentientes, qui nedum tempora magnorum regnorum praefinire conantur, sed etiam  
+      <lb ed="#L" n="9"/>tempus fidei Christianae, Albumazar de coniunctionibus attestante) sed tempus a Domino 
+      <lb ed="#L" n="10"/>praestitutum. Ipse enim mutat tempora &amp; aetates, transfert regna, atque consticuit, Dan. 2. &amp;  
+      <lb ed="#L" n="11"/>regnum a gente in gentem transfertur propter iniustitias, Ecclesiast. 10. Et sicut a gente in 
+      <lb ed="#L" n="12"/>gentem, ita de tribu in tribum, de persona in personam, cuius testes sunt Saul &amp; Dauid, sicut 
+      <lb ed="#L" n="13"/>superius tangebatur. Et sicut transfert regna, ita &amp; minores quastibet dignitates. Quia 
+      igi<lb ed="#L" n="14" break="no"/>tur aliqui minus digni, quandoque occupant dignitates, &amp; hoc quantum ad eos attinet, 
+      sci<lb ed="#L" n="15" break="no"/>licet secundum humanam &amp; inferiorem iustitiam minus iuste, quamuis quantum ad diuinam 
+      <lb ed="#L" n="16"/>&amp; superiorem iustitiam aliquo modo iuste, bene possunt isti Iudices, secundum humanam 
+      <lb ed="#L" n="17"/>&amp; inferiorem iustitiam iudicantes, eo quod circa futura ignorant diuinam &amp; superiorem 
+      iusti<lb ed="#L" n="18" break="no"/>tiam, scilicet Dei iustissimam voluntatem, velle eos deponi, licet forsan non penitus 
+      abso<lb ed="#L" n="19" break="no"/>lute, sed cum ista conditione expressa vel tacita; Si placitum fuerit coram Deo, &amp; sic 
+      vlte<lb ed="#L" n="20" break="no"/>rius agere ad depositionem talium Praelatorum; &amp; si contingat sic agi eosque deponi, hoc  
+      <lb ed="#L" n="21"/>totum sit secundum diuinam &amp; superiorem iustitiam, vt est dictum. Hoc autem totum 
+      con<lb ed="#L" n="22" break="no"/>firmare videtur autoritas Augustini ad Simplicianum praescripta vicesimo quinto huius. 
+      <lb ed="#L" n="23"/>Quintum argumentum potest in caput arguentis similiter retorqueri. Si enim quia aliqui 
+      scri<lb ed="#L" n="24" break="no"/>bunt; Talis permissione diuina talis vel talis, ideo pura permissione non voluntate Dei est 
+      <lb ed="#L" n="25"/>talis vel talis: Simili ratione, quia aliquibus semper scribitur; Tali diuina prouidentia vel 
+      e<lb ed="#L" n="26" break="no"/>lectione diuina, vel Dei gratia summo Pontifici, Episcopo, siue Regi, omnes tales diuina 
+      <lb ed="#L" n="27"/>prouidentia &amp; gratia praeferuntur, &amp; nullus eorum pura permissione diuina, cum tamen  
+      <lb ed="#L" n="28"/>aliqui eorum sint, aut esse possunt mali, sicut &amp; in minoribus dignitatibus constituti. I 
+      <lb ed="#L" n="29"/>tem si quia Aliquis scribit, Permissione diuina talis, propterea pura permissione Dei est 
+      <lb ed="#L" n="30"/>talis, cum omnes in caeteris paruis dignitatibus constituti semper sic seribant, omnes 
+      <lb ed="#L" n="31"/>semper pura Dei permissione sunt tales, &amp; nullus eius volutione seu electione, aut 
+      pro<lb ed="#L" n="32" break="no"/>uidentia actuali, quod ratio non permirtit, cum inter eos sint multi sancti &amp; boni, ac Deus 
+      <lb ed="#L" n="33"/>ita curet pusillum gregem vt magnum, sicut praeced entiadocuerunt. Quia tamen Dei 
+      per<lb ed="#L" n="34" break="no"/>missio minor videtur quam eius gratia, prouidentia, electio, seu voluntas, ideo Minores. 
+      <lb ed="#L" n="35"/>humilitatis causa sic scribunt. Ad sextum vero de non resistendo cuilibet facienti, dicendum 
+      <lb ed="#L" n="36"/>sicut ad quartum de depositione Praesidentium erat dictum: quoniam sicut Deus vult 
+      ali<lb ed="#L" n="37" break="no"/>quem quodlibet facere, ita vult sibi resisti, si sibi ab aliquo resistatur &amp;c, sicut ibi. Et si tu 
+      ar<lb ed="#L" n="38" break="no"/>guas, ergo frustra ordinauit primam actionem, quam ordinauit similiter destrui per 
+      secun<lb ed="#L" n="39" break="no"/>dam; vnus enim aedificans, vnus destruens, quid prodest illis nisi labor? Ecclesiastici 
+      tricesi<lb ed="#L" n="40" break="no"/>mo quarto. Respondeo, quod sic posset probari, quod non ignis &amp; aqua nec vlla 
+      contra<lb ed="#L" n="41" break="no"/>ria deberent esse in Mundo: Nam vnum contrariorum impedit &amp; destruit alterius 
+      actio<lb ed="#L" n="42" break="no"/>nem; imo, quod est magis mirabile, boni Angeli quandoque mutuo sibi resistunt, &amp; 
+      inui<lb ed="#L" n="43" break="no"/>cem praeliantur; vnde Dan. decimo Princeps Regni Persarum restitit mihi viginti &amp; vno 
+      <lb ed="#L" n="44"/>diebus; Et infra eodem, Et nunc reuertat vt praelier aduersus Principem Persarum, 
+      quiam<lb ed="#L" n="45" break="no"/>bo Angeli boni fuerunt, vt patet per Gregorium, &amp; recitat ibi Glossa. Et aliqua est bona 
+      <lb ed="#L" n="46"/>voluntas et iusta, contraria tamen quodam modo voluntati diuinae; vt patet de bono filio, 
+      <lb ed="#L" n="47"/>qui patrem suum vult viuere, quem Deus vult mori, vt patet per Augustinum Enchirid. 10. &amp;  
+      <lb ed="#L" n="48"/>recitat Lumbardus primo Sententiarum distinct. 48. 1. &amp; 22. de Ciuitat. Dei 2. dist. duplici 
+      <lb ed="#L" n="49"/>voluntate Dei, vna essentiali &amp; aeterna, qua vult Deus, alia temporali qua alios facit velle, de 
+      <lb ed="#L" n="50"/>hac secunda sic dicit; Secundum hanc voluntatem qua Deum velle dicimus, quod alios efficit 
+      <lb ed="#L" n="51"/>velle, a quibus futura nesciuntur, multa vult, nec facit. Multa enim volunt fieri Sancti eius 
+      <lb ed="#L" n="52"/>ab illo inspirata sancta voluntate, nec fiunt, sicut cum orant pro quibusdam sancte pieque 
+      <lb ed="#L" n="53"/>quod orant non facit, cum ipse in eis hanc orandi voluntatem sancto Spiritu suo fecerit. Quod 
+      <lb ed="#L" n="54"/>&amp; Dominus testabatur expresse cum dixit Dauidi; Quod cogitasti in corde tuo aedificare 
+      do<lb ed="#L" n="55" break="no"/>mum nomini meo, bene fecisti, hoc ipsum mente tractans. 3. Reg. 8. Illa ergo voluntas seu 
+      co<lb ed="#L" n="56" break="no"/>gitatio placuit Deo, &amp; tamen opus in quod tendebat, finaliter non placebat. Statim enim 
+      sub<lb ed="#L" n="57" break="no"/>iunxit, veruntamen non edificabis mihi domum. Vbi dicit &amp; Glossa, argumentum, quod 
+      volun<lb ed="#L" n="58" break="no"/>tas actus placet, &amp; si non actus. Ex omnibus istis patet, quod licet Deus aliquid ordinet, non 
+      <!--327.xml-->
+      <pb ed="#A" n="294"/>
+               <lb ed="#L" n="1"/>oportet quod velit nihil sibi resistere, nec illud destruere; imo ipse omnia agentia &amp; resistentia, 
+      <lb ed="#L" n="2"/>generantia &amp; corrupentia, &amp; vniuersaliter omnia contraria ordinauit, eisque tam agendo quam  
+      <lb ed="#L" n="3"/>resistendo, generando &amp; corrumpendo &amp; generaliter faciendo, &amp; non faciendo proprios 
+      con<lb ed="#L" n="4" break="no"/>stituit terminos quos nullatenus praeteribunt. Ad vltimum patetsper lidem: Praecepta namque 
+      <lb ed="#L" n="5"/>tyrannorum, suggestiones diaboli, &amp; appetitus carnis vult Deus fieri, non vt eis obediatur ab 
+      <lb ed="#L" n="6"/>omnibus, sed ad punitionem peccatorum, vel ad humiliationem &amp; ad praecauendum peccata, vel 
+      <lb ed="#L" n="7"/>eriam ad exercitationem virtutum, &amp; cumulum meritorum, Nec mirum; Ipse enim Deus, 
+      aliquan<lb ed="#L" n="8" break="no"/>do praecipit aliquid, &amp; prohibuit aliquid, nec tamen voluit hoc fieri, nec illud non fieri, vt 
+      <lb ed="#L" n="9"/>patet Genes. 22. de Abraham, cui praecepit filium immolare, nec tamen eum voluit 
+      im<lb ed="#L" n="10" break="no"/>molari: sed ad probandum fidem Abrahae sic praecepit. Et Matthaei nono de duobus 
+      cae<lb ed="#L" n="11" break="no"/>cis illuminatis, quibus dixit, Videte ne quis sciat; illi autem excuntes diffamauerunt eum 
+      <lb ed="#L" n="12"/>in totam terram illam, nec tamen in hoc secundum Patrum sententiam peccauerunt. Et  
+      <lb ed="#L" n="13"/>hoc est quod docet Lumbardus I. sententia distinctione 45. &amp; 47. manifeste. His tamen  
+      <lb ed="#L" n="14"/>nequaquam obstantibus, inficiari non potest, quin ratio permissionis &amp; volutionis propriae, 
+      <lb ed="#L" n="15"/>scilicet actualiter positiuae in Deo &amp; hominibus sit diuersa, non tamen contraria. Homines 
+      <lb ed="#L" n="16"/>namque volunt aliqua fieri, quae &amp; fieri permittunt, non tamen volunt quicquid 
+      permit<lb ed="#L" n="17" break="no"/>tunt, neque permittunt quicquid volunt: Nullus enim proprie permittere dicitur 
+      semetip<lb ed="#L" n="18" break="no"/>sum quippiam operati, sed alium quem posset impedire si vellet. Quare &amp; simili ratione 
+      vi<lb ed="#L" n="19" break="no"/>detur, quod Deus non quicquid vult, permittit; imo quicquid permittit fieri a quocunque, vult 
+      <lb ed="#L" n="20"/>illud fieri ab eodem: Ipse namque voluntatis efficit illud, idem sicut Sum. huius; &amp; gum, 
+      perspi<lb ed="#L" n="21" break="no"/>cue manifestant.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

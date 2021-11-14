@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="689"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91091"><!-- l3c14 -->
+            <head xml:id="dcn2br-e91091-Hd1e106">Caput 14</head>
+            <p xml:id="dcn2br-e91091-d1e109">
+               <lb ed="#L" n="26"/>CAP. XIIII. 
+      <lb ed="#L" n="27"/>Tractat tertiam opinionem dicentem, quod multa sunt futura 
+      <lb ed="#L" n="28"/>in natura sua, sed non apud Deum.
+    </p>
+            <p xml:id="dcn2br-e91091-d1e118">
+               <lb ed="#L" n="29"/>TErtia opinio asserit, quod multa sunt futura in natura propria, sed non  
+      <lb ed="#L" n="30"/>Deo. Omnia enim sunt sibi in aeternitate praesentia, &amp; ideo non pro¬ 
+      <lb ed="#L" n="31" break="no"/>prie dicitur praes¬ire futura, sed potius praesentialiter intueri, &amp; per hoc 
+      <lb ed="#L" n="32"/>intendit vitare difficultatem motiui praemissi. Et est sententia Boetij 5. 
+      <lb ed="#L" n="33"/>de Consolatione Philosophiae prosa vltima; &amp; Anselmi de casu 
+      diabo<lb ed="#L" n="34" break="no"/>Ii2I. &amp; de Concordia 7. quos &amp; Doctores multi sequuntur. Sed licet istud 
+      <lb ed="#L" n="35"/>dictum in se non sit clarissimum, sposset enim multipliciter argui contra 
+      <lb ed="#L" n="36"/>illud ipsum tamen admissum difficultatem non vitat. Certum est enim quod futura non sunt 
+      <lb ed="#L" n="37"/>in Deo materialiter, &amp; inesse existere actualiter creata in suis naturis, sicut erunt, quando 
+      e<lb ed="#L" n="38" break="no"/>runt praesentia; quia eadem ratione semper sic essent; ergo quando essent praeterita; imo &amp; 
+      <lb ed="#L" n="39"/>omnia praeterita nunc materialiter &amp; in esse existere, modo essent in Deo &amp; in naturis 
+      pro<lb ed="#L" n="40" break="no"/>priis extra Deum, sicut vnquam fuerunt; aliquo ergo modo essendi, scilicet in esse 
+      existe<lb ed="#L" n="41" break="no"/>re &amp; materialiter actu creata in suis naturis erunt futura, quando erunt praesentia, quae non 
+      <lb ed="#L" n="42"/>sunt modo in Deo, dicente Beda super illud Ioan. 1. Quod factum est, in ipso, vita erat; id 
+      <lb ed="#L" n="43"/>est, quod factum in tempore, siue viuum siue vita carens apparuit, omne hoc in spirita 
+      <lb ed="#L" n="44"/>li factoris ratione quasi semper vixerat, &amp; viuit, non quia coaeternum est Creatori quod 
+      cre<lb ed="#L" n="45" break="no"/>auit, sed quia coaeterna est illi ratio voluntatis suae, in qua ab aeterno habuit &amp; habet quid &amp;  
+      <lb ed="#L" n="46"/>quando crearet, qualiter creaturam gubernet, vt maneat, ad quem finem singula quae 
+      crea<lb ed="#L" n="47" break="no"/>uit perducat. Dicitque Aug. 5. super Gen. ad literam, quod res antequam fierent, &amp; erant, &amp;  
+      <lb ed="#L" n="48"/>non erant: erant in Dei scientia, non erant in sua natura, &amp; hoc certitudinaliter praescit Deus; 
+      <!--723.xml-->
+      <pb ed="#A" n="690"/>
+               <lb ed="#L" n="1"/>fiat igitur de tali praescientia argumentum, &amp; reuertitur difficultas. Pro Autoribus tamen &amp; A 
+      <lb ed="#L" n="2"/>Doctoribus est sciendum, quod omnia aeternaliter sunt in Deo, &amp; praesentia apud Deum, id 
+      <lb ed="#L" n="3"/>est, in scientia eius aeterna immutabili penitus existente: hoc est, aeternaliter &amp; immutabiliter  
+      <lb ed="#L" n="4"/>illa nouit, vt patet per Bedam &amp; Augustinum proximo recitatos, sicque tales Autoritates 
+      ex<lb ed="#L" n="5" break="no"/>ponit Lumbardus I. sentent. dist. 35. quam expositionem per autoritates confirmat. Nec 
+      mi<lb ed="#L" n="6" break="no"/>rum si Theologi tali transumtione vtantur, cum Philosophi vtantur simili &amp; maiori. Dicit 
+      <lb ed="#L" n="7"/>enim Auicenna 4. de anima 2. quod omnia quae in mundo sunt praeterita, praesentia, &amp; futura, 
+      <lb ed="#L" n="8"/>habent esse in sapientia Creatoris. Dicit quoque Aristoteles 3. de anima 37. quod omnia ea 
+      <lb ed="#L" n="9"/>quae sunt, quodammodo est anima: aut enim sensibilia quae sunt, aut intelligibilia; est autem 
+      <lb ed="#L" n="10"/>scientia quidem scibilia, sensu autem sensibilia; super quod Auerroes, Contingit, inquit, 
+      ne<lb ed="#L" n="11" break="no"/>cessario vt anima sit omnia entia vno modorum, secundum quos possibile est dicere, Anima 
+      <lb ed="#L" n="12"/>est omnia entia. Sicque forsitan posset dici eadem transumtione sermonis, quod res factae, 
+      an<lb ed="#L" n="13" break="no"/>tequam fierent, erant Deus, sicut videtur patere ex 17. primi libri; vnde &amp; lohan. 1. quod 
+      fa<lb ed="#L" n="14" break="no"/>ctum est in ipso vita erat, quae vita certe non est in Deo, nisi vna vita quae est vnus Deus &amp; tres 
+      <lb ed="#L" n="15"/>personae: quod &amp; beatus Augustinus super Iohannem homilia prima ostendit per exemplum 
+      <lb ed="#L" n="16"/>de Fabro: Faber, inquit, facit arcam in opere, &amp; ideo habet arcam in arte; sed arca in opere 
+      <lb ed="#L" n="17"/>non est vita, arca in arte est vita, quia viuit anima artificis, vbi sunt haec omnia antequam 
+      pro<lb ed="#L" n="18" break="no"/>ferantur: Sic ergo, fratres charissimi, quia sapientia Dei, per quam facta sunt omnia, 
+      secun<lb ed="#L" n="19" break="no"/>dum artem continet omnia, antequam fabricet omnia, hic quae fiunt per ipsam artem, non 
+      <lb ed="#L" n="20"/>continuo vita sunt, sed quicquid factum est, vita est in illo. Terram vides; est in arte terra. 
+      <lb ed="#L" n="21"/>Coelum vides; est in arte coelum. Solem &amp; Lunam vides; sunt &amp; ista in arte, sed foris 
+      cor<lb ed="#L" n="22" break="no"/>pora sunt, in arte vel artifice vita sunt. Illa autem vita quae in illo est, Iux hominum est; hoc  
+      <lb ed="#L" n="23"/>enim sequitur, Et vita erat lux hominum. Aliter autem fortassis clarius &amp; breuius dici potest, 
+      <lb ed="#L" n="24"/>quod omnia sunt in Deo non realiter, sed causaliter, sicut secundum Philosophum 4. Phys. 
+      <lb ed="#L" n="25"/>23. res dicitur esse in sua causa; &amp; hoc secundum Auerroem 4. modis, secundum 4. causas 
+      re<lb ed="#L" n="26" break="no"/>rum. Deus autem est rerum omnium triplex causa, efficiens, formalis, atque finalis: est causa 
+      <lb ed="#L" n="27"/>omnis rei praesentis, praeteritae, atque futurae; quare ipsa est talis, &amp; hoc per voluntatem suam  
+      <lb ed="#L" n="28"/>semper eandem immutabilem &amp; aeternam, sicut primus liber ostendit. Sic igitur, sicut puto, 
+      <lb ed="#L" n="29"/>possunt huiusmodi dicta Patrum non inconuenienter intelligi &amp; exponi. Et si tu obijcias 
+      <lb ed="#L" n="30"/>quod ista non soluunt difficultatem praemissam; verum est, quod non soluunt perfecte &amp; 
+      sim<lb ed="#L" n="31" break="no"/>pliciter apud omnes, quia non apud subtiles quoslibet &amp; acutos; melius tamen quietant 
+      ani<lb ed="#L" n="32" break="no"/>mos plurimorum quam faceret solutio ipsa recta. Ideo valde expedit disputando, sicut etiam 
+      <lb ed="#L" n="33"/>praedicando, vti quandoque euidentibus &amp; grossis exemplis, vt quem non mouet rationis 
+      <lb ed="#L" n="34"/>subtilitas, moueat saltem grossa &amp; palpabilis congruentia exemplaris. Non enim sine causa 
+      <lb ed="#L" n="35"/>posuerunt Autores exemplum inter species argumenti; quare &amp; Aristoteles in De mundo 9. 
+      <lb ed="#L" n="36"/>&amp; Boetius vbi prius per exempla ab hominibus &amp; eorum cognitione transumta ostendunt I 
+      <lb ed="#L" n="37"/>Deum scire omnia futura, praesentia, atque praeterita. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

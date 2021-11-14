@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epistola posterior</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Epistola posterior</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e15532"><!-- epistola-posterior -->
+            <head xml:id="dcn2br-e15532-Hd1e106">Epistola posterior</head>
+            <p xml:id="dcn2br-e15532-d1e109">
+               <lb ed="#L" n="34"/>Ad suos Mertonenses Epistola posterior. 
+      <lb ed="#L" n="35"/>Ilectis Fratribus &amp; Amicis, Custodi &amp; Socijs Aulae de Merton, in Oxon. Thomas de B salutem 
+      <lb ed="#L" n="36"/>&amp; grot am in omnibus faeliciter prosperandi. Petitioni vestrae mox obtemperare volui, sed 
+      inter<lb ed="#L" n="37" break="no"/>currentibus impedimentis, hactenus non valui, quod volui, Deus nouit. Longis siquidem ac 
+      diu<lb ed="#L" n="38" break="no"/>turnis occupationibus detentus, vix tandem aliquando modicum furatus otium, stilum arripuis 
+      <lb ed="#L" n="39"/>&amp; quae interim pro tempore occurrere potuerunt, in eam quaestionem, quam De causa Dei 
+      con<lb ed="#L" n="40" break="no"/>tra Pelagium pestiserum proposuistis, tractandam, in his scriptis transmisi. Primum quidem  
+      <lb ed="#L" n="41"/>exist imaui aut periculosum esse, aut temerarium quod conabar; Tandem vero ad charitatem vestram respiciens, 
+      <lb ed="#L" n="42"/>&amp; bumilitatem attendens, tam religioso defiderio vestro, nequaquam obniti oportere iudicaui. Accipite itaque, &amp; 
+      <lb ed="#L" n="43"/>benigne suscipite munusculum hoc, paruum quidem, sed non parua deuotione oblatum, in doctrina discipuli, in 
+      cha<lb ed="#L" n="44" break="no"/>ritate amici, in Christo conserui. Obsecro autem ineptas &amp; importunas quaestiones inspicientium in verbo Dei 
+      fa<lb ed="#L" n="45" break="no"/>miliares habere nolite, qui praua ac peruersa quadam consuetudine ac curiositate, non tam amore veritatis, quam 
+      <lb ed="#L" n="46"/>cupidine nouitatis circumcurrentes, magis volunt noua audire, quam vera dicere: Hi vero non suam possibilitatem 
+      <lb ed="#L" n="47"/>metientes, nec diuinis mysterijs reuerentiam exhibentes de omnibus praesumunt, parati tam semper prauis doctrinis 
+      <lb ed="#L" n="48"/>fidom adhibere, quam bonis liuorem. Ad vos igitur Collegiatos in agro scholastico cotidie laborantes pertinet 
+      hu<lb ed="#L" n="49" break="no"/>iusmodi hominum temeritatem castigare, ac ad formam studis &amp; viam reducere disciplinae, vt quilibet vestrum non 
+      <lb ed="#L" n="50"/>solum sit scriba doctus in regno caelorum, qui profert de thesauro suo noua &amp; vetera, sed &amp; seruus fidelis, quem con¬I 
+      <lb ed="#L" n="51"/>stituet Dominus super familiam suam, vt det illi tritici mensuram in tempore suo. Valete in Domino, 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

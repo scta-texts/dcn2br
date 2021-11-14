@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="198"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e27222"><!-- l1c11 -->
+            <head xml:id="dcn2br-e27222-Hd1e106">Caput 11</head>
+            <p xml:id="dcn2br-e27222-d1e109">
+      <!--231.xml-->
+               <pb ed="#A" n="198"/>
+               <lb ed="#L" n="1"/>CAP. XI. 
+      <lb ed="#L" n="2"/>Quod primum principium necessarium &amp; verum incomplexum 
+      <lb ed="#L" n="3"/>est Deus, &amp; quod principium complexum primum sim
+      <lb ed="#L" n="4" break="no"/>pliciter est de Deo: puta Deus est, Deus scit. 
+      <lb ed="#L" n="5"/>omnia, Deus vult omnia, vel aliquid simile. 
+      </p>
+            <p xml:id="dcn2br-e27222-d1e127">
+               <lb ed="#L" n="6"/>INuento siquidem primo principio libero, restat consequenter 
+      <lb ed="#L" n="7"/>inquirere primum principium necessarium, &amp; verorum 
+      om<lb ed="#L" n="8" break="no"/>nium primum verum. Est siquidem apud Philosophos duplex 
+      <lb ed="#L" n="9"/>necessarium atque verum; Incomplexum scilicet &amp; complexum, 
+      <lb ed="#L" n="10"/>ex prioribus autem reputo manifestum; quod sicut Deus est 
+      <lb ed="#L" n="11"/>primum ens omnium entium, &amp; prima causa essendi quodcunque 
+      <lb ed="#L" n="12"/>sic est primum verum &amp; necessarium incomplexum, &amp; prima 
+      <lb ed="#L" n="13"/>causa essendi quodlibet necessarium siue verum. Nam sicut 20. 
+      <lb ed="#L" n="14"/>cap. fuerat allegatum; Primum in quolibet genere est causa 
+      <lb ed="#L" n="15"/>omnium aliorum secundum quod sunt in illo genere, &amp; maxime 
+      <lb ed="#L" n="16"/>dignum nomine illius generis; Deus autem est primum in 
+      ge<lb ed="#L" n="17" break="no"/>nere verorum incomplexorum, sicut ex praehabitis potest 
+      faci<lb ed="#L" n="18" break="no"/>liter apparere. Hoc idem clare testarividetur Philosophus 2. Metaph. 4. &amp; Auerroes in 
+      com<lb ed="#L" n="19" break="no"/>ment. Nec non Auicenna 8. Metaph. 6. sicut secundum huius plenius recitauit. Quibus &amp; 
+      <lb ed="#L" n="20"/>concordat. August. 7. Confess. 15. ibi similiter recitatus Vnde &amp; Anselmus de veritate 7. 
+      Pu<lb ed="#L" n="21" break="no"/>tas esse aliquid, aliquando, aut alicubi, quod non sit in summa veritate, &amp; quod // uim non 
+      ac<lb ed="#L" n="22" break="no"/>ceperit quod est, in quantum est, aut quod possit aliud esse quam ibi est? Non est putandum: 
+      <lb ed="#L" n="23"/>Est igitur veritas in omnium que sunt essentia, quia hec sunt, quod in summa veritate sunt. Sed 
+      <lb ed="#L" n="24"/>quia de primo vero incomplexo dubium non videtur, non aestimo circa illud vlterius 
+      immo<lb ed="#L" n="25" break="no"/>randum; De primo autem vero complexo est dubitatior difficultas: Dicit enim Philosophus 
+      <lb ed="#L" n="26"/>4. Metaph. 9. quod hoc est primum principium complexorum, Idem simul inesse, &amp; non 
+      in<lb ed="#L" n="27" break="no"/>esse eidem, &amp; secundum idem est impossibile; sed ne tanto Philosopho tantillus videat 
+      obgar<lb ed="#L" n="28" break="no"/>rire, sciendum quod duplex est principium cognoscendi scilicet &amp; essendi, vel, quoad nos &amp; 
+      <lb ed="#L" n="29"/>quoad naturam; Ipse autem loquitur ibi de primo principio cognoscendi, &amp; apud nos 
+      tan<lb ed="#L" n="30" break="no"/>tum, per quod generaliter in omnibus scientijs regulamur, sicut processus textus &amp; comment. 
+      <lb ed="#L" n="31"/>satis ostendit. Principium autem complexorum primum simpliciter est de Deo vt puta Deus T 
+      <lb ed="#L" n="32"/>est, vel Deus scit omnia, vel Deus vult omnia, vel aliud quicquam tale: Primum enim in 
+      ge<lb ed="#L" n="33" break="no"/>nere verorum complexorum, sicut est in quolibet alio genere est causa, quare omnia 
+      poste<lb ed="#L" n="34" break="no"/>riora sunt vera. Ergo est causa sic essendi realiter, sicut significat quodlibet verum sequens; 
+      <lb ed="#L" n="35"/>Nam secundum Philosophum in praedicamentis, In eo quod res est vel non est, ratio vera, 
+      <lb ed="#L" n="36"/>vel falsa dicitur: &amp; nullum verum posterius est causa quare primum sit verum.. Sic ergo esse. 
+      <lb ed="#L" n="37"/>realiter, sicut significat primum verum, erat causa sic essendi realiter, sicut significat 
+      quod<lb ed="#L" n="38" break="no"/>libet verum sequens, &amp; nullum verum sequens erit causa sic essendi realiter, sicut significat 
+      <lb ed="#L" n="39"/>primum verum. Causa autem quare ita est realiter sicut significat quodcunque verum 
+      <lb ed="#L" n="40"/>non dictum de Deo, est in Deo, nec aliquod aliorum est Deo causa essendi, sicut ex 
+      praehabi<lb ed="#L" n="41" break="no"/>tis in isto capitulo &amp; alijs satis patet. In Deo ergo, siue de eo est primum simpliciter 
+      princi<lb ed="#L" n="42" break="no"/>pium totius generis complexorum. Item Deus est prima causa cuiuslibet essentiae, seu modi 
+      <lb ed="#L" n="43"/>essendi, ergo &amp;est cuiuslibet veritatis. Item verum, quod potest esse verum sine alijs &amp; non e E 
+      <lb ed="#L" n="44"/>contra, est prius eis: sed sic se habet, Deus est, ad alia vera quaecunque. Item sicut illud 
+      <lb ed="#L" n="45"/>quod est notissimum in cognitione apud nos, est sic, primum principium, vt patet per 
+      Phi<lb ed="#L" n="46" break="no"/>losophum vbi prius: sic illud quod est notissimum simpliciter &amp; apud naturam, est primum 
+      <lb ed="#L" n="47"/>principium correspondenter; Illud autem est, Deus est, licet propter corruptionem corporis 
+      <lb ed="#L" n="48"/>animam aggrauantis hoc de difficili cognoscamus. Vnde Philosophus 2. Metaph. 1. 
+      Dis<lb ed="#L" n="49" break="no"/>ficultate theoriae de veritate secundum duos existente modos, non in rebus, sed in nobis est 
+      <lb ed="#L" n="50"/>eius causa. Sicut enim nycticoracum oculi ad lucem diei se habent, sic &amp; animae nostrae 
+      in<lb ed="#L" n="51" break="no"/>tellectus ad ea quae sunt omnium naturae manifestissima: Vbi Auerroes; Difficultas in 
+      re<lb ed="#L" n="52" break="no"/>bus quae sunt in fine veritatis, scilicet in primo principio, &amp; in principiis distinctis a ma¬ 
+      <!--232.xml-->
+      <pb ed="#A" n="199"/>
+               <lb ed="#L" n="1"/>teria, est ex nobis, non ex illis. Idem posset argui ex firmitate primi principii, quoniam si¬ 
+      <lb ed="#L" n="2"/>cut est primum sic est firmissimum, vt patet per Philosophum 4. Metaph. 8. &amp; quia omnia 
+      <lb ed="#L" n="3"/>alia vera innituntur veritati illius, vt originali radici, &amp; primario fundamento: sed nulli 
+      du<lb ed="#L" n="4" break="no"/>bium, quin, Deum esse, firmissimum sit verorum. Item verum incomplexum est prius 
+      natu<lb ed="#L" n="5" break="no"/>raliter vero complexo, sicut simplex composito, &amp; causa &amp; principium eius; ergo 
+      principi<lb ed="#L" n="6" break="no"/>um ad principium huiusmodi proportionaliter se habebit; Deus autem est principium 
+      to<lb ed="#L" n="7" break="no"/>tius veri incomplexi, sicut prior pars huius capituli demonstrauit. Item in ordine verorum 
+      <lb ed="#L" n="8"/>non est infinitus processus; sed est aliquod primum verum, quod est causa omnium aliorum: 
+      <lb ed="#L" n="9"/>Sed illud est, Deus est, cum non habeat aliquod verum prius causam illius. Item illud verum 
+      <lb ed="#L" n="10"/>quod est tantum causans alia vera, non causatum ab eis, est primum: hoc autem est, Deus est,  
+      <lb ed="#L" n="11"/>Item illud quod est verissimum omnium, est principium omnium: hoc autem est Deus, quia 
+      <lb ed="#L" n="12"/>ipse maxime est, sicut praehabita docuerunt. Item Anselmus de Veritate 10. dicit, quod 
+      <lb ed="#L" n="13"/>summa veritas nulli quicquam debet, sed omnia debent illi, &amp; ipsa est causa omnium aliarum 
+      <lb ed="#L" n="14"/>veritatum, &amp; nihil est causa ipsius: Et distincta veritate in causantem &amp; causatam, dicit quod 
+      <lb ed="#L" n="15"/>veritas quae est in rerum existentia est effectus summae veritatis; Ipsa vero est causa veritatis, 
+      <lb ed="#L" n="16"/>quae est cognitionis, &amp; eius quae est in propositione. Idem infra eodem vlt. probat diffuse 
+      <lb ed="#L" n="17"/>quod est vna veritas, &amp; illa est summa veritas, qua omnia vera sunt vera. Idemque Monolog. 
+      <lb ed="#L" n="18"/>I8. &amp; Augustinus I. Soliloquiorum 2I. &amp; 2ilibri 20. ex aeternitate veritatis probant 
+      aeterni<lb ed="#L" n="19" break="no"/>tatem Dei. Veritatis vero aeternitateni sic probant, Hoc semper fuit verum, Aliquid est 
+      fu<lb ed="#L" n="20" break="no"/>turum, &amp; hoc semper erit verum, Aliquid est praeteritum; ergo &amp;s aliqua veritate; quare &amp;  
+      <lb ed="#L" n="21"/>illa veritas nunquam incoepit, nec desinet: ergo veritas est aeterna. Haec autem probatio non  
+      <lb ed="#L" n="22"/>coneludit, si aliqua propositio possit esse vera per se sine superiore veritate in Deo causante 
+      <lb ed="#L" n="23"/>veritatem in tali propositione, &amp; illam continue sustinente; Vnde Anselmus de veritate 10. 
+      <lb ed="#L" n="24"/>exponens hanc probationem, quam in suo Monologio recitat se fecisse, discipulo suo dicit; 
+      <lb ed="#L" n="25"/> Iam intelligere potes quomodo summam veritatem in meo Monologio probaui non habere 
+      <lb ed="#L" n="26"/>principium vel finem per veritatem orationis. Cum enim dixi, quando non fuit verum, quod 
+      <lb ed="#L" n="27"/>futurum erat aliquid? Non ita dixi, ac si absque principio ista oratio fuisset, quae assereret 
+      fu<lb ed="#L" n="28" break="no"/>turum esse aliquid, aut ista veritas esset Deus: sed quoniam non potest intelligi, quando, si 
+      o<lb ed="#L" n="29" break="no"/>ratio ista esset, veritas illi deesset; vt per hoc, quia non intelligitur quando ista veritas esse non  
+      <lb ed="#L" n="30"/>potuerit, si esset oratio in qua esse posset, intelligatur illa veritas sine principio fuisse, quae 
+      pri<lb ed="#L" n="31" break="no"/>ma causa est huius veritatis: quippe veritas orationis non semper posset esse, si eius causa non 
+      <lb ed="#L" n="32"/>semper esset. Etenim vera non est oratio, quae dicit futurum esse aliquid, nisi reipsa aliquid 
+      <lb ed="#L" n="33"/>sit futurum; neque aliquid est futurum si non est in summa veritate: Similiter intelligendum 
+      <lb ed="#L" n="34"/>est de illa oratione quae dicit, quod praeteritum est aliquid. Nam si nullo intellectu veritas 
+      o<lb ed="#L" n="35" break="no"/>rationi huic si facta fuerit, deesse poterit; necesse est vt eius veritatis, quae summa causa est 
+      <lb ed="#L" n="36"/>istius, nullus finis intelligi possit. Idcirco namque vere dicitur praeteritum esse aliquid, quia 
+      <lb ed="#L" n="37"/>ita est in re, &amp; ideo est aliquid praeteritum, quia sic est in summa veritate. Quapropter si nun¬ 
+      <lb ed="#L" n="38"/>quam poterit non esse verum, futurum esse aliquid, &amp; nunquam potuit non esse verum 
+      prae<lb ed="#L" n="39" break="no"/>teritum esse aliquid, impossibile est principium summae veritatis fuisse, aut finem futurum 
+      <lb ed="#L" n="40"/>esse. Item Augustinus 26. contra Faustum 2. Quicquid praeteritum est, iam non est; non 
+      er<lb ed="#L" n="41" break="no"/>go est, quod vere dicimus fuisse, sed ideo verum est illud fuisse, quia in nostra sententia, 
+      quip<lb ed="#L" n="42" break="no"/>pe qua dicimus aliquid fuisse, ideo vera est, quia illud de quo dicimus, iam non est. Hanc 
+      sen<lb ed="#L" n="43" break="no"/>tentiam Deus falsam facere non potest, quia non est contrarius veritati. Quod si quaeras, vbi 
+      <lb ed="#L" n="44"/>sit haec vera sententia, prius inuenitur in animo nostro, cum id verum scimus &amp; dicimus: sed 
+      <lb ed="#L" n="45"/>si &amp; de animo nostro ablata fuerit, cum id, quod scimus, obliti fuerimus, manebit in ipsa 
+      veri<lb ed="#L" n="46" break="no"/>tate. Semper enim verum erit, fuisse illud quod erat, &amp; non esse, &amp; ibi verum erit iam fuisse 
+      <lb ed="#L" n="47"/>quod erat, vbi verum erat antequam fieret, futurum esse quod non erat. Huic veritati Deus 
+      <lb ed="#L" n="48"/>non potest aduersari, in quo est ipsa summa &amp; incommutabilis veritas, qua illustratur vt 
+      ve<lb ed="#L" n="49" break="no"/>rum sit, quicquid in quorumcunque animis &amp; mentibus verum est. Idem super illud Psalmi 
+      <lb ed="#L" n="50"/>quarti; Vt quid diligitis vanitatem, &amp;quaeritis mendacium? sola veritas facit beatos, ex qua 
+      <lb ed="#L" n="51"/>vera sunt omnia. Idem quoque super illud Psalmi 55. In Deo laudabo sermones meos, in 
+      <lb ed="#L" n="52"/>Deo laudabo sermones, quia ibi est fons sermonum verorum. Est ergo in Deo vero primum 
+      <lb ed="#L" n="53"/>principium cuiuslibet veritatis. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

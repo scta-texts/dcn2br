@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 48</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 48</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="803"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e05782"><!-- l3c48 -->
+            <head xml:id="dcn2br-e05782-Hd1e106">Caput 48</head>
+            <p xml:id="dcn2br-e05782-d1e109">
+               <lb ed="#L" n="13"/>CAP. XLVIII. 
+      <lb ed="#L" n="14"/>Recitat quatuor responsiones, &amp; corrigit. 
+      </p>
+            <p xml:id="dcn2br-e05782-d1e116">
+               <lb ed="#L" n="15"/>HIc autem occurrunt multae proteruiae responsiuae: quidam namque 
+      <lb ed="#L" n="16"/>volentes Deum ab omni mendacio excusari, dicunt quod licet  
+      <lb ed="#L" n="17"/>Deus praedixerit quicquam hominibus in proprio genere, 
+      promi<lb ed="#L" n="18" break="no"/>serit, atque iurauerit, possibile tamen est eum nunquam tale quid 
+      <lb ed="#L" n="19"/>fecisse. Istud autem, etsi secundum aliquam phantasiam videatur 
+      <lb ed="#L" n="20"/>posse dici de Deo, de Christo tamen secundum naturam 
+      huma<lb ed="#L" n="21" break="no"/>nam dici non potest, sicut erat ostensum quadragesimo quarto &amp; 
+      <lb ed="#L" n="22"/>quadragesimo quinto huius. Licet enim videretur hoc posse de 
+      <lb ed="#L" n="23"/>Deo dici reuelante in verbo, de ipso tamen reuelante in proprio 
+      <lb ed="#L" n="24"/>genere dici non potest: talis namque reuelatio est aliqua res creata, significans naturaliter 
+      <lb ed="#L" n="25"/>vno modo, sicut quadragesimum quartum huius docet; quare necesse est omnem talem 
+      re<lb ed="#L" n="26" break="no"/>uelationem praeteritam iam fuisse, &amp; significasse naturaliter illo modo. Fiat igitur talis 
+      reue<lb ed="#L" n="27" break="no"/>latio, quod A. erit, tunc si sit possibile A. non fore; est consequenter possibile, quod 
+      quan<lb ed="#L" n="28" break="no"/>do Deus illud asseruit &amp; iurauit, hoc fecisse contra mentem, cum omnia semper sciat; quare 
+      <lb ed="#L" n="29"/>&amp; fuisse mentitum, atque periurum, decepisse quoque suos charissimos sine culpa, contra 
+      <lb ed="#L" n="30"/>proximo praeostensa. Potestque similiter argui &amp; probabilius forsitan de praesenti. Item 
+      <lb ed="#L" n="31"/>tunc nulla fides aut minima esset diuinis promissionibus etiam iuratorijs adhibenda, &amp; minor 
+      <lb ed="#L" n="32"/>quam humanis, sicut quadragesimo quinto &amp; proximo est argutum. Item hoc est expresse 
+      <lb ed="#L" n="33"/>contra autoritates ex Psalmo 88. &amp; expositionibus eius, atque alias similes capitulo proximo 
+      <lb ed="#L" n="34"/>recitatas, est etiam contra prius ostensa tricesimo secundo istius. Item tunc quod Deus 
+      reue<lb ed="#L" n="35" break="no"/>lauit ad vnum intellectum in proprio genere, posset non ad illum, sed ad alium reuelasse, 
+      <lb ed="#L" n="36"/>contra praehabita quadragesimo quinto huius. Item eadem ratione quod Deus nunquam  
+      <lb ed="#L" n="37"/>reuelauit in proprio genere Esaiae, potest sibi reuelasse, &amp; nedum sibi, sed &amp; alteri cuicunque, 
+      <lb ed="#L" n="38"/>quare qui nunquam fuit Propheta, nunc potest fuisse Propheta. Potestque Deus simili 
+      ra<lb ed="#L" n="39" break="no"/>tione nunquam instituisse illa, quae vere fuerunt &amp; sunt Ecclesiastica Sacramenta ad effectum 
+      <lb ed="#L" n="40"/>salutis, sed alia statuisse; quare fideles praeteriti possunt non fuisse in via salutis neque saluati, 
+      <lb ed="#L" n="41"/>&amp; infideles praeteriti sic fuisse. Pari etiam ratione potest nunc Deus non praecepisse quod 
+      <lb ed="#L" n="42"/>olim praecepit; quare &amp; qui solum contra illud faciendo peccauit, &amp; damnationem suscepit, 
+      <lb ed="#L" n="43"/>nunquam peccasse nec damnatus fuisse; alias enim impotens homo peccando necessitaret 
+      <lb ed="#L" n="44"/>omnipotentem Deum ad olim aliquid praecepisse. Amplius si Deus potest non praedixisse 
+      <lb ed="#L" n="45"/>aut promisisse futurum, potest &amp; praeteritum, puta incarnationem, passionem, &amp; similia, 
+      <lb ed="#L" n="46"/>quod non videtur: potest quoque simili ratione non praeuoluisse nec praesciuisse praeterita; 
+      <lb ed="#L" n="47"/>quare &amp; consequenter praeterita non fuisse, sicut totum apparet ex tricesimo, &amp; tricesimo 
+      <lb ed="#L" n="48"/>primo huius. Alij vero dicunt quod illud, quod Deus reuelauit in proprio genere ad vnum 
+      <lb ed="#L" n="49"/>intellectum, potest non ad illum, sed ad alium reuelasse. Haec autem responsio 
+      reprobabi<lb ed="#L" n="50" break="no"/>tur, sicut prior, quae etiam potest refelli per praehabita quadragesimo quinto huius; quam  
+      <lb ed="#L" n="51"/>&amp; similiter destruunt autoritates ex Psalmo 88. &amp; eius expositionibus, &amp; aliae similes 
+      ca<lb ed="#L" n="52" break="no"/>pitulo proximo allegatae. Alij autem ponunt, quod Deus nunquam reuelat in proprio 
+      <!--837.xml-->
+      <pb ed="#A" n="804"/>
+               <lb ed="#L" n="1"/>genere futurum contingens, nisi sub aliqua conditione tacita vel expressa. Sed isti 
+      difficul<lb ed="#L" n="2" break="no"/>tatem non vitant. Licet enim Deus de facto non reuelasset aliquid absolute sine conditione, 
+      <lb ed="#L" n="3"/>scilicet qualicunque, posset tamen aliquid sic reuelare; sic enim scit multa futura, &amp; sic 
+      <lb ed="#L" n="4"/>Pater filio, &amp; amborum spiritui reuelauit, &amp; homini Christo Iesu, sicut ex tricesimo quarto 
+      <lb ed="#L" n="5"/>&amp; quadragesimo secundo huius potest haberi: qui &amp; possunt ad veritatem reduci per 
+      praeha<lb ed="#L" n="6" break="no"/>bita in correptione similis responsionis quadragesimo quinto huius. Et si quis adhuc non  
+      <lb ed="#L" n="7"/>erubuerit proteruire dicendo Deum posse reuelasse, &amp; asseruisse homini in proprio genere 
+      <lb ed="#L" n="8"/>sub conditione saltem tacite intellecta illud quod reuelauit &amp; asseruit absolute, corrigetur, 
+      <lb ed="#L" n="9"/>vt spero, per eadem, per quae quadragesimo quinto huius responsio similis est correpta; 
+      po<lb ed="#L" n="10" break="no"/>test etiam reduci per eadem, per quae prima responsio huius capituli reducebatur ab inuio &amp; 
+      <lb ed="#L" n="11"/>errore: omnes etiam responsiones praemissae sunt insufficientes, &amp; multipliciter diminutae. 
+      <lb ed="#L" n="12"/>Licet enim ad aliquam vnam rationem seu autoritatem, vel ad paucas respondere forsitan 
+      <lb ed="#L" n="13"/>videantur, ad alias tamen plures nullam habent apparentiam respondendi, sicut patet 
+      con<lb ed="#L" n="14" break="no"/>sideranti dilucide has &amp; illas. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

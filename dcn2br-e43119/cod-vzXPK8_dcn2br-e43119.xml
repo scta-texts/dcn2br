@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 38</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 38</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="319"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e43119"><!-- l1c38 -->
+            <head xml:id="dcn2br-e43119-Hd1e106">Caput 38</head>
+            <p xml:id="dcn2br-e43119-d1e109">
+      <!--352.xml-->
+               <pb ed="#A" n="319"/>
+               <lb ed="#L" n="1"/>CAP. XXXVIII. 
+      <lb ed="#L" n="2"/>Contra quosdam Pelagianos dicentes quod Deus praeuenit hominem in 
+      <lb ed="#L" n="3"/>gratiae collatione pulsando, &amp; homo ipsam acceptionem gratiae 
+      <lb ed="#L" n="4"/>aperiendo &amp; consentiendo, ex se tamen pulsanti, &amp; sic 
+      <lb ed="#L" n="5"/>ipsam quodammodo promerendo. 
+    </p>
+            <p xml:id="dcn2br-e43119-d1e127">
+               <lb ed="#L" n="6"/>ADhuc autem sunt alij tam validis testimonijs non audentes resistere; 
+      <lb ed="#L" n="7"/>ideoque dant Deo primitias extrinsecas gratiae &amp; fidei, ac bonorum 
+      si<lb ed="#L" n="8" break="no"/>milium, sed hominibus gratiam ipsam &amp; fidem cum caeteris bonis 
+      hu<lb ed="#L" n="9" break="no"/>iusmodi: Dicunt enim Deum semper praeuenire pulsando &amp; excitando 
+      <lb ed="#L" n="10"/>ad gratiam, fidem, &amp; ad bona similia, &amp; hominem subsequi aperiendo, 
+      <lb ed="#L" n="11"/>&amp; consentiendo, &amp; hoc ex propriis viribus per seipsum, iuxta illud 
+      A<lb ed="#L" n="12" break="no"/>poc. 3. Ecce sto ad ostium, &amp; pullo: Si quis audierit vocem meam, &amp;  
+      <lb ed="#L" n="13"/>aperuerit mihi ianuam, introibo ad illum, &amp; coenabo cum illo, &amp; ipse 
+      <lb ed="#L" n="14"/>mecum. Hi autem faciunt Deum suae gratiae publicum venditorem, hominesque emptores. 
+      <lb ed="#L" n="15"/>Dicunt enim eum sicut mercatorem pauperculum clamare, &amp; pulsare ad ianuas, &amp; ad ostia 
+      <lb ed="#L" n="16"/>singulorum; aperienti vero pro sua apertione gratiam suam dare, quod tamen verius 
+      com<lb ed="#L" n="17" break="no"/>mutare, seu vendere diceretur. Faciunt quoque Deum scriptorem pauperculum &amp; 
+      conducti<lb ed="#L" n="18" break="no"/>tium suam operam publicantem, &amp; pro precio paruulo, pro apertione &amp; coena, aperientium 
+      <lb ed="#L" n="19"/>nomina in libro vitae scribentem, sicque gratia ex praecedentibus operibus nostris erit, contra 
+      <lb ed="#L" n="20"/>3gum huius, cuius &amp; omnia redeunt argumenta. Pro quo &amp; dicit Augustinus de verbis 
+      Apo<lb ed="#L" n="21" break="no"/>stoli, vt allegat Lumbardus in Glossa super illud ad Eph. 2. Gratia saluati estis, &amp;c. non ex 
+      ope<lb ed="#L" n="22" break="no"/>ribus, Ne putes te promerendo accepisse, qui nihil promereris nisi accepisses; gratia 
+      praeces<lb ed="#L" n="23" break="no"/>sit meritum tuum; non gratia ex merito, sed meritum ex gratia: Nam si gratia ex merito, 
+      <lb ed="#L" n="24"/>emisti eam, non gratis accepisti. Item homo non potest aperire, nec consentire in talibus ex 
+      <lb ed="#L" n="25"/>seipso, sed ex voluntate diuina, vt capitulum nonum docet, quod &amp; probant Autoritates 
+      su<lb ed="#L" n="26" break="no"/>perius allegatae, Nemo potest venire ad me, nisi Pater meus traxerit illum. Secundum istos 
+      <lb ed="#L" n="27"/>tamen, homo licet pulsatus a Deo, non habens adhuc Patrem, aperiendo pulsanti, verius 
+      tra<lb ed="#L" n="28" break="no"/>heret ad se Patrem; &amp;, Sine me nihil potestis facere, ergo nec aperire, nec sufficientes sumus 
+      <lb ed="#L" n="29"/>cogitare aliquid a nobis quasi ex nobis, ergo nec aperire credendo: Minus est enim cogitare 
+      <lb ed="#L" n="30"/>quam credere. Quod licet satis appareat, ecce testis idoneus Augustinus de praedestinatione 
+      <lb ed="#L" n="31"/>Sanctorum 2. sic dicens, Credere nihil est aliud, quam cum assensione cogitare; Non enim 
+      <lb ed="#L" n="32"/>qui cogitat, credit; cum ideo cogitant plerique ne credant; sed cogitat omnis qui credit, 
+      <lb ed="#L" n="33"/>Quod ergo ad religionem pertinet atque pietatem, si non sumus idonei cogitare aliquid quast 
+      <lb ed="#L" n="34"/>ex nobismet ipsis, sed sufficientia nostra ex Deo est; profecto non sumus idonei credere 
+      ali<lb ed="#L" n="35" break="no"/>quid quali ex nobismet ipsis, quod sine cogitatione non possumus, sed sufficientia nostra qua 
+      <lb ed="#L" n="36"/>credere incipiamus ex Deo est. Quocirca, sicut nemo sibi sufficit, ad incipiendum vel 
+      perfi<lb ed="#L" n="37" break="no"/>ciendum // quodcunque opus bonum, vnde &amp; in omni opere bono &amp; incipiendo &amp; 
+      perficien<lb ed="#L" n="38" break="no"/>do sufficientia nostra ex Deo est; Ita nemo sufficit ad incipiendam &amp; perficiendam fidem,  
+      <lb ed="#L" n="39"/>quoniam fides, si nec cogitatur, nulla est; &amp; non sumus idonei cogitare aliquid, quasi ex 
+      <lb ed="#L" n="40"/>nobismet ipsis, sed sufficientia nostra ex Deo est. Quomodo etiam verum est, Non 
+      volen<lb ed="#L" n="41" break="no"/>tis, neque currentis, sed miserentis est Dei; &amp; Gratia saluati estis per fidem; &amp; hoc non ex 
+      <lb ed="#L" n="42"/>vobis, donum enim Dei est, non ex operibus? Et, Quid habes, quod non accepisti, si autem 
+      <lb ed="#L" n="43"/>accepisti, quid gloriaris quasi non acceperis? quod humiliter sapiens, &amp; veraciter profitens ille 
+      <lb ed="#L" n="44"/>Doctor egregius, &amp; Martyr gloriosissimus Cyprianus Epistola sua vndecima, quae intitua 
+      <lb ed="#L" n="45"/>latur De, disciplina Christianae religionis ad Quirinum capite quarto dicit; In nullo nobis 
+      <lb ed="#L" n="46"/>gloriandum, quia nostrum nihil est; quod probat quia in Euangelio secundum 
+      Iohan<lb ed="#L" n="47" break="no"/>nem scribitur Nemo potest quicquam, accipere nisi datum illi fuerit de Coelo: Item in 
+      E<lb ed="#L" n="48" break="no"/>pistola Pauli ad Corinth. Quid habes quod non accepisti? si autem accepisti, quid 
+      gloria<lb ed="#L" n="49" break="no"/>ris, quasi non acceperis? Quod &amp; Beatus Augustinus frequenter allegat ab eo, De 
+      correp<lb ed="#L" n="50" break="no"/>tione &amp; gratia, decimque nono; De bono perseuerantiae 43. De praedestinatione 
+      Sancto<lb ed="#L" n="51" break="no"/>rum 3. Item licet Deus, sic pulset, non per hoc nos eligit, quoniam pulsat similiter non  
+      <lb ed="#L" n="52"/>electos, sed nos aperientes eligimus eum, contra ipsummet dicentem, Non vos me elegistis, 
+      <lb ed="#L" n="53"/>sed ego elegi vos. Vnde Augustinus de praedestinatione Sanctorum 23. Si propterea electi 
+      <!--353.xml-->
+      <pb ed="#A" n="320"/>
+               <lb ed="#L" n="1"/>erant, quia crediderant, ipsi enim prius vtique cdegerant, credendo in eum vt esisi 
+      mereren<lb ed="#L" n="2" break="no"/>tur: Aufert autem hoc omnino qui dicit, Non vos me elegistis, sed ego elegi vos; electi &amp; 
+      <lb ed="#L" n="3"/>ipsi proculdubio elegerunt eum, quando crediderunt in eum; vnde non ob aliud dicit, Non 
+      <lb ed="#L" n="4"/>vos me elegistis, sed ego elegi vos, nisi quia non eligerunt eum vt eligeret eos; sed vt 
+      elige<lb ed="#L" n="5" break="no"/>rent eum, elegit eos, quia misericordia eius praeuenit eos secundum gratiam, non secundum 
+      <lb ed="#L" n="6"/>debitum. Et licet sic pulset, nihil dat nobis, sed nos aperientes damus sibi consensum, 
+      con<lb ed="#L" n="7" break="no"/>tra illud Apostoli. Quis prior dedit illi, &amp; retribuetur ei? quoniam ex ipso, &amp; per ipsum, &amp; in 
+      <lb ed="#L" n="8"/>ipso sunt omnia. Item secundum quod superius est argutum, haec positio tribuit nobis quod 
+      <lb ed="#L" n="9"/>melius est &amp; maius, Deo vero quod deterius est &amp; minus: Quis enim dubitauerit aperire 
+      <lb ed="#L" n="10"/>melius &amp; vtilius nobis esse quam pulsare, cum pulsare sine apertione non prosit, sed obsit. 
+      <lb ed="#L" n="11"/>Item si homo potest ex proprijs viribus aperire pulsanti, &amp; consentire excitanti, cum 
+      infide<lb ed="#L" n="12" break="no"/>lis adultus, qui satis audiuit loqui de fide Christi, &amp; retinuit in habitu seu memoria quae 
+      au<lb ed="#L" n="13" break="no"/>diuit, potest eadem ratione secundum sententiam Philosophi 2. de Anima exire de actu 
+      pri<lb ed="#L" n="14" break="no"/>mo ad actum secundum, &amp; intelligere, &amp; cogitare actualiter talia quando voluerit, &amp; potest 
+      <lb ed="#L" n="15"/>ex se consentire; Ergo ex se sine Deo potest acquirere sibi gratiam &amp; fidem, &amp; omnia 
+      requisi<lb ed="#L" n="16" break="no"/>ta contra iam praemissa. Item quando Deus sic pulsat, quid intendit? Vel intendit, quod 
+      pul<lb ed="#L" n="17" break="no"/>satus aperiat, vel quod non aperiat, vel medio modo; Neutrum intendit: Si intendat quod 
+      <lb ed="#L" n="18"/>aperiat, per capitulum decimum omnis pulsatus aperit, quod non est verum; multi enim 
+      fre<lb ed="#L" n="19" break="no"/>quenter resistunt Spiritui Sancto Dei: Si intendat quod non aperiat, per indem decimum 
+      ape<lb ed="#L" n="20" break="no"/>rire non potest: Si neutrum intendit, per Capitulum nonum non poterit aperire; Et etiam si 
+      <lb ed="#L" n="21"/>aperiret, illa apertio esset casualis respectu Dei, quia praeter eius intentum, nec sub 
+      proui<lb ed="#L" n="22" break="no"/>dentia diuina contenta, sed fieret a Deo tantummodo permissiue, contra Capitulum 27. 28. 
+      <lb ed="#L" n="23"/>29. 30. 31. 32. &amp; 33. manifeste: Hoc etiam est contra 22. istius. Item sic aperire pulsanti est 
+      <lb ed="#L" n="24"/>meritorium, ergo per prius naturaliter procedit a gratia, quam a voluntate humana, sicut 
+      alle<lb ed="#L" n="25" break="no"/>gatum est prius; Non ergo prima gratia sequitur illam apertionem vt praemium meritum cui  
+      <lb ed="#L" n="26"/>debetur. Item iste fuit error Pelagij, vt patet per Augustinum de Praedestinatione sanctorum  
+      <lb ed="#L" n="27"/>25. dicentem; Ipsi Pelagiani putant acceptis praeceptis iam per nos ipsos fieri liberae 
+      volun<lb ed="#L" n="28" break="no"/>tatis arbitrio sanctos &amp; immaculatos; sed recte hoc testimonio Pelagianus error arguitur, vbi 
+      <lb ed="#L" n="29"/>dicit Apostolus, Ideo nos electos in Christo, &amp; praedestinatos ante constitutionem mundi, vt 
+      <lb ed="#L" n="30"/>essemus sancti &amp; immaculati. Cum ergo nos praedestinauit, opus suum praedestinauit, quo nos 
+      <lb ed="#L" n="31"/>sanctos &amp; immaculatos facit. Hoc quoque errore ipse etiam Augustinus aliquando errauit, 
+      <lb ed="#L" n="32"/>ipsomet testante supra, eodem 4. Cum, inquit, similiter errarem vt Pelagius, putans fidem, 
+      <lb ed="#L" n="33"/>qua in Deum credimus, non esse donum Dei, sed a nobis esse in nobis, &amp; per illam nos 
+      im<lb ed="#L" n="34" break="no"/>petrare Dei dona, illo praecipue testimonio Apostoli. Quid habes, quod non accepisti, &amp;c. 
+      <lb ed="#L" n="35"/>ictus ipse conuictus sum. Neque enim fidem putabam gratia praeueniri, nisi quia credere non 
+      <lb ed="#L" n="36"/>possemus, si non praecederet praeconium veritatis; vt autem praedicato nobis Euangelio 
+      con<lb ed="#L" n="37" break="no"/>sentiremus, nostrum esse propositum &amp; nobis ex nobis esse arbitrabar, quem errorem non. I 
+      <lb ed="#L" n="38"/>nulla opuscula mea satis indicant. Hunc autem errorem indicare videtur liber suus de Spiritu 
+      <lb ed="#L" n="39"/>&amp; litera; In cuius Capitulo 26. quaerit, An fides sit in potestate nostra? Et magna 
+      disputati<lb ed="#L" n="40" break="no"/>one praemissa, capitulo 3I. per quandam distinctionem respondet, scilicet quod partim enim 
+      <lb ed="#L" n="41"/>est diuino muneri tribuenda, partimque nobis; Est diuino muneri tribuenda propter duo; 
+      Pri<lb ed="#L" n="42" break="no"/>mo quia fides de libero existit arbitrio, quod a Deo cum creamur accepimus; Secundo, quia 
+      <lb ed="#L" n="43"/>visorum suasionibus agit Deus vt velimus, &amp; vt credamus, siue extrinsecus per Angelicas ex 
+      <lb ed="#L" n="44"/>hortationes, siue per mandata legis, siue intrinsecus, vbi nemo habet in potestate quid ei 
+      <lb ed="#L" n="45"/>veniat in mentem; &amp; addit, Sed consentire vel dissentire propriae voluntatis est. His ergo 
+      mo<lb ed="#L" n="46" break="no"/>dis quando Deus agit cum anima rationali vt ei credat, (neque enim credere potest 
+      quodli<lb ed="#L" n="47" break="no"/>bet libero arbitrio, si nulla sit suasio, vel vocatio cui credat) profecto &amp; ipsum velle credere 
+      <lb ed="#L" n="48"/>Deus operatur in homine, &amp; in omnibus misericordia eius praeuenit nos; Consentire 
+      au<lb ed="#L" n="49" break="no"/>tem vocationi Dei vel dissentire ab ea, sicut dixi, propriae voluntatis est, quae res non 
+      so<lb ed="#L" n="50" break="no"/>lum non infirmat quod dictum est, Quid habes quod non accepisti, verum etiam 
+      confir<lb ed="#L" n="51" break="no"/>mat. Accipere quippe &amp; habere anima non potest dona de quibus hoc audit, nisi 
+      consenti<lb ed="#L" n="52" break="no"/>endo, ac per hoc quid habeat, &amp; quid accipiat, Dei est; accipere autem &amp; habere vtique 
+      ac<lb ed="#L" n="53" break="no"/>cipientis &amp; habentis est. Cuius erroris retractationem ex primo Retract. suarum 23. recitat 
+      <lb ed="#L" n="54"/>Augustinus de Praedestinatione Sanctorum 4. Dixit enim exponendo quasdam 
+      propositio<lb ed="#L" n="55" break="no"/>nes Epistolae ad Romanos, Quod credimus, nostrum est, quod bonum operamur, illius 
+      <lb ed="#L" n="56"/>est, qui credentibus dat Spiritum Sanctum; Et retractando, dicit; Quod profecto non 
+      <lb ed="#L" n="57"/>dicerem, si iam scirem ipsam fidem inter Dei munera reperiri, quae dantur in eodem 
+      Spiritu<lb ed="#L" n="58" break="no"/>Vtrumque ergo nostrum est propter arbitrium voluntatis, &amp; vtrumque tamen datum est 
+      <!--354.xml-->
+      <pb ed="#A" n="321"/>
+               <lb ed="#L" n="1"/>propter spiritum fidei &amp; charitatis. Et quod paulo prius dixi, nostrum est credere &amp; velle, 
+      <lb ed="#L" n="2"/>illius autem dare credentibus facultatem bene operandi; verum est quidem, sed eadem 
+      regu<lb ed="#L" n="3" break="no"/>Ia, &amp; vtrumque ipsius est, quia ipse praeparat voluntatem, &amp; vtrumque nostrum, quia non fit 
+      <lb ed="#L" n="4"/>nisi volentibus nobis. Ad hoc etiam facit quod ex decimo tertio capitulo de praedestinatione 
+      <lb ed="#L" n="5"/>Sanctorum, tricesimum quintum huius allegat. Videtur tamen quod Augustinus de spiritu 
+      <lb ed="#L" n="6"/>&amp; litera, responsionem praedictam non dixerit determinando sinaliter, sed potius dubitando, 
+      <lb ed="#L" n="7"/>&amp; disputatorie inquirendo. Illo namque capitulo tricesimo primo dicit; Haec disputatio si 
+      <lb ed="#L" n="8"/>quaestioni illi soluendae sufficit, sufficiat: Et infra; Cui responsio ista displicet, quaerat 
+      do<lb ed="#L" n="9" break="no"/>ctiores. Item tunc secundum istos, non esset nisi vna vocatio, scilicet pulsans &amp; excitans, non 
+      <lb ed="#L" n="10"/>aperiens, &amp; inducens, &amp; faciens consentire, quod est plane contra Augustinum de 
+      praedesti<lb ed="#L" n="11" break="no"/>natione Sanctorum, vicesimo secundo distinguentem duplicem vocationem, Vnam, quam 
+      di<lb ed="#L" n="12" break="no"/>ctum est; Multi sunt vocati; Et aliam vnde agit, qua vocantur electi &amp; fiunt, de qua dicit 
+      A<lb ed="#L" n="13" break="no"/>postolus; Sine poenitentia sun: dona Dei &amp; vocatio. id est, sine mutatione stabiliter fixa. Ad 
+      <lb ed="#L" n="14"/>hanc vocationem qui pertinent, omnes sunt docibiles Dei: Nec potest eorum quisquam 
+      di<lb ed="#L" n="15" break="no"/>cere; Credidi vt sic vocarer; praeuenit eum quippe misericordia Dei, qua sic vocatus est vt 
+      <lb ed="#L" n="16"/>crederet. Hanc etiam vocationem capitulo vicesimo tertio dicit; Vocationem secundum 
+      <lb ed="#L" n="17"/>propositum Dei, secundum illud Apostoli ad Rom. 8. Diligentibus Deum omnia 
+      cooperan<lb ed="#L" n="18" break="no"/>tur in bonum, his qui secundum propositum vocati sunt sancti, secundum propositum scilice 
+      <lb ed="#L" n="19"/>voluntatis diuinae, non suae, Vnde &amp; capitulo vicesimo sexto, magna disputatione contra Pe 
+      <lb ed="#L" n="20"/>lagianos praehabita, sic concludit; Ergo Deus operatur in cordibus hominum vocatione illa 
+      <lb ed="#L" n="21"/>secundum propositum suum, de qua multum loquuti sumus, non vt inaniter audiant 
+      Euan<lb ed="#L" n="22" break="no"/>gelium, sed eo audito, conuertantur, &amp; credant. Item hoc est contra Apostolum, primo ad 
+      <lb ed="#L" n="23"/>Corinthios, tertio, sic scribentem; Neque qui plantat est aliquid, neque qui rigat, sed qui 
+      <lb ed="#L" n="24"/>incrementum dat Deus, quia secundum Glossam, isti non dant aliquid ex se, sed solus Deus 
+      <lb ed="#L" n="25"/>qui dat intrinsecus incrementum. Item Augustinus de Fide ad Petrum, 64. Firmissime 
+      <lb ed="#L" n="26"/>tene, &amp; nullatenus dubites, posse quidem hominem, quem nulla aduersitas prohibet, verba 
+      <lb ed="#L" n="27"/>sanctae. Legis &amp; Euangelij legere &amp; audire, sed diuinis mandatis obedire neminem posse, 
+      <lb ed="#L" n="28"/>nisi quem Deus gratia sua praeuenerit, vt quod audit corpore, corde etiam percipiat, &amp; 
+      accep<lb ed="#L" n="29" break="no"/>ta diuinitus bona voluntate mandata Dei facere velit &amp; possit. Neque enim qui plantat est 
+      <lb ed="#L" n="30"/>aliquid, neque qui rigat, sed qui incrementum dat Deus, qui etiam operatur in nobis, &amp; velle 
+      <lb ed="#L" n="31"/>&amp; perficere pro bona voluntate, scilicet sua, non nostra, secundum glossam ad Philippenses, 
+      <lb ed="#L" n="32"/>secundo: Item primo ad Thessalonicenses secundo; Gratias agimus Deo sine intermissione 
+      <lb ed="#L" n="33"/>quia cum accepistis a nobis verbum auditus Dei, accepistis illud, non vt verbum hominum, 
+      <lb ed="#L" n="34"/>sed sicut est, verbum Dei, qui operatur in nobis qui creditis in id ipsum. Si tamen Deus non 
+      <lb ed="#L" n="35"/>aliter operaretur in pulsando &amp; vocando aperientes &amp; credentes, quam alios, non diceret 
+      <lb ed="#L" n="36"/>Apostolus; Qui operatur in vobis qui creditis: Imo satis videtur exprimere, quid Deus in 
+      <lb ed="#L" n="37"/>eis specialiter operatur, cum dicit in id ipsum, scilicet idipsum quod creditis. Vnde 
+      Augu<lb ed="#L" n="38" break="no"/>stinus tractans hoc verbum de praedestinatione Sanctorum, vicesimo sexto, dicit; Quid est 
+      <lb ed="#L" n="39"/>quod hine gratias Deo agit? nempe vanum est atque inane, si cui gratias agit, hoc ipse non  
+      <lb ed="#L" n="40"/>fecit; sed quia hoc vanum &amp; inane non est, profecto Deus, cui de hoc opere gratias agit, 
+      <lb ed="#L" n="41"/>ipse fecit, cum percipissent ab Apostolo verbum auditus Dei, cum exciperent illud non vt 
+      ver<lb ed="#L" n="42" break="no"/>bum hominum, sed sicut est, verbum Dei. Igitur Deus operatur in cordibus hominum non  
+      <lb ed="#L" n="43"/>vt inaniter audiant Euangelium, sed eo audito conuertantur &amp; credant. Nonne &amp; hoc est 
+      <lb ed="#L" n="44"/>quod veritas ipsa dicit; Nemo potest venire ad me, nisi Pater, qui misit me, traxerit illum? 
+      <lb ed="#L" n="45"/>Scriptum est in Prophetis; Et erunt omnes docibiles Dei: Omnis qui audiuit a Patre, &amp; di 
+      <lb ed="#L" n="46"/>dicit, venit ad me, Ioh: sexto. Super quod Augustinus, prima parte super Iohannem homilia 
+      <lb ed="#L" n="47"/>vicesima sexta, dicit; Omnes regni illius homines docibiles Dei erunt, non ab hominibus 
+      <lb ed="#L" n="48"/>audient, &amp; si ab hominibus audiunt, tamen quod intelligunt, intus datur, intus coruscat, 
+      in<lb ed="#L" n="49" break="no"/>tus reuelatur; quid faciunt homines forinsecus annuntiantes? Quid facio ego modo cum 
+      lo<lb ed="#L" n="50" break="no"/>quor? strepitum verborum ingero auribus vestris. Nisi ergo reuelet ille qui intus est, quid 
+      di<lb ed="#L" n="51" break="no"/>co? aut quid loquor? exterior cultor arboris, interior est creator; qui plantat &amp; qui rigat 
+      ex<lb ed="#L" n="52" break="no"/>trinsecus operatur, hoc facimus nos, sed neque qui plantat est aliquid, neque qui rigat, sed 
+      <lb ed="#L" n="53"/>qui incrementum dat Deus, hoc est, Erunt omnes docibiles Dei. Qui omnes? omnis qui 
+      <lb ed="#L" n="54"/>audiuit a Patre &amp; didicit, venit ad me. Videte quomodo trahit Pater. Idem decimo quinto 
+      <lb ed="#L" n="55"/>de Ciuitate Dei, sexto loquens de multiplici correctione hominum facta per homines 
+      <lb ed="#L" n="56"/>Hoc, inquit, modo curantur eiues ciuitatis Dei, in hac terra peregrinantes, &amp; pacem supernae 
+      <lb ed="#L" n="57"/>patriae suspirantes; Spiritus autem sanctus operatur intrinsecus, vt valeat aliquid medicina que 
+      <lb ed="#L" n="58"/>adhibetur extrinsecus; alioquin etiam si Deus ipse vtens creatura sibi subdita in aliqua specie hu¬ 
+      <!--355.xml-->
+      <pb ed="#A" n="322"/>
+               <lb ed="#L" n="1"/>mana sensus alloquatur humanos, siue istos corporis, siue illos quos istis simillimos habemus 
+      <lb ed="#L" n="2"/>in somnis, nec interiore gratia mentem regat atque agat, nihil prodest homini omnis 
+      praedi<lb ed="#L" n="3" break="no"/>catio veritatis. Facit autem hoc Deus, a vasis misericordiae irae vasa discernens, dispensatione 
+      <lb ed="#L" n="4"/>qua ipse nouit multum occulta, sed tamen iusta. Venerabilis quoque Beda 2. super Luc. 4. 
+      <lb ed="#L" n="5"/>tractans illud Luc. 5. Praeceptor, per totam noctem laborantes nihil coepimus, in verbo 
+      au<lb ed="#L" n="6" break="no"/>tem tuo laxabo rete, sic ait: Nisi Dominus aedificauerit domum, in vanum laborauerunt, qui  
+      <lb ed="#L" n="7"/>aedificant eam; nisi Dominus cor illustrauerit auditorum, Doctor in nocte laborat; nisi in 
+      ver<lb ed="#L" n="8" break="no"/>bo gratiae supernae relaxata fuerint instrumenta disputationum, frustra vocis suae praedicator 
+      <lb ed="#L" n="9"/>iaculum mittit, quia fides populorum non in sapientia verbi compositi, sed diuinae vocationis 
+      <lb ed="#L" n="10"/>munere prouenit. Gregorius etiam II. Moral. 5. super illud Iob12. Si destruxerit, nemo est 
+      <lb ed="#L" n="11"/>qui aedificet, ita scribit, Omnipotens Deus humanum cor destruit cum relinquit, aedificat cum 
+      <lb ed="#L" n="12"/>replet. Vnde plerumque sit vt cum audientis cor, exigentibus culpis, omnipotentis Dei 
+      gra<lb ed="#L" n="13" break="no"/>tia non repletur, incassum exterius a praedicatore moueatur, quia mutum est os omne quod 
+      <lb ed="#L" n="14"/>loquitur, si ille interius in corde non clamet, qui aspirat verba quae audiuntur. Hinc 
+      Prophe<lb ed="#L" n="15" break="no"/>ta ait, Nisi Dominus aedificauerit, &amp;c. Hinc Salomon dicit, Considera opera Dei, quod nemo 
+      <lb ed="#L" n="16"/>possit corrigere quem ille despexerit. Nec mirum si a corde reprobo praedicator minime 
+      au<lb ed="#L" n="17" break="no"/>diatur, dum nonnunquam ipse quoque Dominus, in his quae loquitur, resistentium moribus 
+      <lb ed="#L" n="18"/>impugnatur. Hinc est enim quod Cain, etiam diuina voce admoneri potuit, &amp; mutari non  
+      <lb ed="#L" n="19"/>potuit, quia exigente culpa malitiae, iam intus Deus cor reliquerat, cui foris ad testimonium 
+      <lb ed="#L" n="20"/>verba faciebat. Qui &amp; homilia 30. super Euangelium exponens illud Ioan. 14. Ille vos 
+      do<lb ed="#L" n="21" break="no"/>cebit omnia, ita scribit; Quia nisi isdem spiritus cordi assit audientis, otiosus est sermo 
+      Do<lb ed="#L" n="22" break="no"/>ctoris. Nemo ergo docenti homini tribuat quod ex ore docentis intelligat, quia nisi virtus 
+      <lb ed="#L" n="23"/>intus sit, quam doceat, Doctoris lingua exterius in vanum laborat. Ecce vnam loquentis 
+      vo<lb ed="#L" n="24" break="no"/>cem omnes pariter auditis, nec tamen pariter sensum auditae vocis percipitis. Cum ergo vox 
+      <lb ed="#L" n="25"/>dispar non sit, cur in cordibus vestris dispar est vocis intelligentia, nisi quia per hoc quod vox 
+      <lb ed="#L" n="26"/>loquentis communiter admonet, est magister interior, qui de vocis intelligentia quosdam 
+      spe<lb ed="#L" n="27" break="no"/>cialiter docet? De hac vnctione spiritus rursus per Ioannem dicitur, Sicut vnctio eius nos 
+      do<lb ed="#L" n="28" break="no"/>cet de omnibus. Per vocem ergo non instruitur, quando mens per spiritum non vngitur. Sed 
+      <lb ed="#L" n="29"/>cur ista de doctrina hominum loquimur, quando &amp; ipse conditor non ad eruditionem hominis 
+      <lb ed="#L" n="30"/>loquitur, si eidem homini per vnctionem spiritus non loquatur. Certe Cain priusquam 
+      fra<lb ed="#L" n="31" break="no"/>tricidium opere perpetraret, audiuit, Peccasti, quiesce; sed quia culpis suis exigentibus, 
+      voce<lb ed="#L" n="32" break="no"/>est admonitus, non vnctione spiritus, audire verba potuit, sed seruare contempsit. Glossa 
+      quo<lb ed="#L" n="33" break="no"/>que super illud Ierem. 36. Ex ore suo loquebatur, &amp;c. &amp; ego scribebam, sic ait; Etiam 
+      audito<lb ed="#L" n="34" break="no"/>ribus necessaria est gratia Spiritus Sancti: Nisi enim assit spiritus, sermo Doctoris est otiosus; 
+      v<lb ed="#L" n="35" break="no"/>nam loquentis vocem omnes pariter in Ecclesia audimus, sed non omnes pariter intelligimus, 
+      <lb ed="#L" n="36"/>sed sicut vnctio Dei docet nos de omnibus. Ipse quoque conditor non ad eruditionem homini 
+      <lb ed="#L" n="37"/>loquitur, si per vnctionem spiritus non loquatur. Dictum est enim ad Cam, Peccasti, 
+      quies<lb ed="#L" n="38" break="no"/>ce; sed quia culpis prohibentibus non est vnctus, verba Dei audire potuit, sed non seruare. Sic 
+      <lb ed="#L" n="39"/>Ioachim &amp;e serui eius verba Dei audire poterant aure corporis, sed non cordis, Cui &amp; 
+      concor<lb ed="#L" n="40" break="no"/>dat Aug. de Correptione &amp; gratia 10. ita dicens, Tunc salubris est correptio quando supernus 
+      <lb ed="#L" n="41"/>medicus? respicit: Non enim aliquid proficit, nisi cum facit, vt quantumcunque peccati sui 
+      poe<lb ed="#L" n="42" break="no"/>niteat; &amp; quis hoc facit, nisi qui respexit Petrum Apost. negantem, &amp; fecit flentem? &amp; istam 
+      <lb ed="#L" n="43"/>sententiam per totum librum ostendit. Amplius autem si homo ex se tantumodo aperiret Deo 
+      <lb ed="#L" n="44"/>sic pulsanti, vocanti, &amp; gratiam offerenti, videtur quod quidam obstinati, vel alij, ex causis 
+      va<lb ed="#L" n="45" break="no"/>rijs nullatenus aperirent, quod falsum est, quoniam quicunque iuxta sententiam Apost. secundum 
+      <lb ed="#L" n="46"/>propositum Dei vocati sunt sancti, necessario veniunt sine mora; Nam alias frustraretur 
+      diui<lb ed="#L" n="47" break="no"/>nae propositum voluntatis, quod capitulum Ioum, non permittit; ideoque Marc. 3. dicitur, 
+      voca<lb ed="#L" n="48" break="no"/>uit ad se quos voluit, &amp; venerunt ad eu. Nec potest dici, quod Deus vocando electos non 
+      pro<lb ed="#L" n="49" break="no"/>ponit, nec vult quod veniant, sed hoc eorum relinquit arbitrio; Nam per cap. 22um, vel vult 
+      <lb ed="#L" n="50"/>illud, vel eius oppositum; &amp; non eius oppositum, quia tunc per cap. ioum, non venirent, nec 
+      e<lb ed="#L" n="51" break="no"/>tiam Apost. &amp; Aug. tunc eos specialiter nominarent vocatos secundum propositum, scilicet 
+      <lb ed="#L" n="52"/>Dei vocantis, vt patet ad Rom. 8. &amp; per Aug. de praedestinatione Sanctorum superius 
+      allega<lb ed="#L" n="53" break="no"/>tum: &amp; si cap. illud // 22um, non esset, non deceret, quod Deus pulsaret indeterminatus quid 
+      fa<lb ed="#L" n="54" break="no"/>ceret, &amp; determinaretur ab alio, sicut superius est argutum; &amp; quia tunc haberet volutiones 
+      no<lb ed="#L" n="55" break="no"/>uellas, &amp; aliqualiter mutaretur contra capitulum 23. &amp; 5. nec deceret etiam vllo modo, quod 
+      <lb ed="#L" n="56"/>aliqui casualiter aut fortuito respectu Dei, fierent sancti filij Dei &amp; haeredes regni, propter 
+      ca<lb ed="#L" n="57" break="no"/>pitulum 27. &amp; alia quae sequuntur. Non ergo videtur quod aliquis qualiscunque 
+      quan<lb ed="#L" n="58" break="no"/>tumlibet obstinatus secundum propositum Dei vocatus, resistat. Vnde Augustinus de prae¬ 
+      <!--356.xml-->
+      <pb ed="#A" n="323"/>
+               <lb ed="#L" n="1"/>destinatione Sanctorum 9. loquens de gratia huius vocationis sic dicit; Haec itaque gratia 
+      <lb ed="#L" n="2"/>quae occulte humanis cordibus diuina largitate tribuitur, a nullo duro corde respuitur: ideo 
+      <lb ed="#L" n="3"/>quippe tribuitur, vt cordis duritia primitus auferatur. Quando ergo Pater intus auditur &amp; 
+      <lb ed="#L" n="4"/>docet, aufert cor lapideum, &amp; creat corcarneum, sicut Propheta praedicente promisit. Item 
+      <lb ed="#L" n="5"/>Iohan. 6. Omne quod dat mihi Pater, ad me veniet; id est, omnis praedestinatus &amp; electus: 
+      <lb ed="#L" n="6"/>si tamen hoc dependeret originaliter ab illorum libera voluntate, non Dei, aliqui ipsorum 
+      <lb ed="#L" n="7"/>forsitan non venirent. Ideo dicit ibi Beda, Hi autem sunt quos Pater dat filio, quos per 
+      oc<lb ed="#L" n="8" break="no"/>cultam inspirationem facit credere in filium. Cui consentit Augustinus de praedestinatione 
+      <lb ed="#L" n="9"/>Sanctorum 9. sic dicens; Omne quod dat mihi Pater, &amp;c. Quid est, ad me veniet, nisi cre 
+      <lb ed="#L" n="10"/>det in me? sed vt fiat, Pater dat. Videtur etiam quod si ipsi crederent per seipsos: magis 
+      ip<lb ed="#L" n="11" break="no"/>simet darent se filio, quam Pater tantum pulsans: Per solum namque pulsare, nequaquam  
+      <lb ed="#L" n="12"/>de forte filij sunt effecti, sed per credere fidem eius. Ad idem facit, quod infra dicitur, 
+      eo<lb ed="#L" n="13" break="no"/>B dem, Omnis qui audit a Patre &amp; didicit, venit ad me; ergo Pater docet eos &amp; facit eos cre¬ 
+      <lb ed="#L" n="14"/>dere in filium. Vnde cum immediate praemisit, Nemo potest venire ad me, nisi Pater 
+      tra<lb ed="#L" n="15" break="no"/>xerit illum, quasi exponendo illum modum trahendi, subiungit, Scriptum est in Prophetis, 
+      <lb ed="#L" n="16"/>&amp; erunt omnes docibiles Dei; Omnis qui audiuit a Patre &amp; didicit, venit ad me, quasi 
+      dice<lb ed="#L" n="17" break="no"/>ret, Pater trahit ad me sic docendo. Hoc etiam satis exprimit Augustinus de 
+      praedestinatio<lb ed="#L" n="18" break="no"/>ne Sanctorum; vbi prius, Quid est, inquiens, Omnis qui audiuit a Patre, &amp;c. nisi nullus est 
+      <lb ed="#L" n="19"/>qui audiat a Patre, &amp; discat, &amp; non veniat ad me? Si enim omnis qui audiuit a Patre &amp; 
+      di<lb ed="#L" n="20" break="no"/>dicit, venit; profecto omnis qui non venit, non audiuit a Patre nec didicit. Valde remota 
+      <lb ed="#L" n="21"/>est a carnis sensibus schola haec, in qua Pater auditur, &amp; docet vt veniat ad filium; ibi est &amp;  
+      <lb ed="#L" n="22"/>ipse filius, quia ipse est verbum eius per quod sic docet, nec agit hoc cum carnis aure sed 
+      <lb ed="#L" n="23"/>cordis. Simul est &amp; spiritus Patris &amp; Filij; neque enim ipse non docet, aut separatim docet; 
+      <lb ed="#L" n="24"/>Inseparabilia enim sunt opera Trinitatis. Item si peccator posset per se credere praedicanti, 
+      <lb ed="#L" n="25"/>&amp; peccata dimittere, posset se per se discernere &amp; separare ab alijs peccatoribus, 
+      audienti<lb ed="#L" n="26" break="no"/>bus, nec facientibus modo dicto, contra Apostolum 1. ad Corinth. 4. Quis enim te 
+      discer<lb ed="#L" n="27" break="no"/>nit? scilicet a perditis, vel perdendis, quasi dicat, solus Deus; quod textus sequens 
+      osten<lb ed="#L" n="28" break="no"/>dit, cum dicit, Quid enim habes, quod non accepisti? &amp;c. quem intellectum testatur 
+      Augu<lb ed="#L" n="29" break="no"/>stinus de correptione &amp; gratia, &amp; allegatur ibi in Glossa, Lumbardi, sic dicens; Quis enim 
+      <lb ed="#L" n="30"/>te discernit a massa perditorum? Nullus, nisi Deus: solus ipse separat te a perditis: Sed 
+      <lb ed="#L" n="31"/>quia homo inflatus posset respondere voce vel cogitatione &amp; dicere, discernit me fides mea, 
+      <lb ed="#L" n="32"/>iustitia mea, &amp; oratio mea, occurrit Apostolus dicens, Quid enim habes quod non 
+      acce<lb ed="#L" n="33" break="no"/>pisti? Idem de praedestinatione Sanctorum 6. sic dicit, Natura in qua nobis data est 
+      possibi<lb ed="#L" n="34" break="no"/>litas habendi fidem non discernit ab homine hominem; ipsa vero fides discernit ab infideli 
+      <lb ed="#L" n="35"/>fidelem; ac per hoc, vbi dicitur, Quis enim te discernit? quid habes quod non accepisti? 
+      <lb ed="#L" n="36"/>quisquam audet dicere, habeo fidem ex meipso, non ergo accepi; profecto contradicit 
+      <lb ed="#L" n="37"/>Oapertissime veritati; non quia credere vel non credere non est in arbitrio voluntatis huma¬ 
+      <lb ed="#L" n="38"/>nae, sed in electis praeparatur voluntas a Domino, ideo ad ipsam quoque fidem, quae in 
+      vo<lb ed="#L" n="39" break="no"/>luntate est, pertinet. Quis enim te discernit? quid habes quod non accepisti? &amp; sequitur 
+      ca<lb ed="#L" n="40" break="no"/>pitulo septimo; Multi audiunt verbum veritatis, sed alij credunt, alij contradicunt; volunt 
+      <lb ed="#L" n="41"/>ergo isti credere, nolunt illi, quis hoc ignoret? sed cum in alijs praeparatur, in alijs non 
+      prae<lb ed="#L" n="42" break="no"/>paratur voluntas a Domino; discernendum quid eueniat de misericordia eius, quid de 
+      iudi<lb ed="#L" n="43" break="no"/>cio. Idem de gratia &amp; libero arbitrio 16. Dicunt Pelagiani vitam aeternam meritis nostris 
+      <lb ed="#L" n="44"/>reddi; etsi merita nostra sic intelligerent. vt etiam dona Dei ipsa // agnoscerent, non esset re 
+      <lb ed="#L" n="45"/>probanda ista sententia: quoniam vero merita humana sic praedicant, vt ea ex semetipso 
+      ha<lb ed="#L" n="46" break="no"/>bere hominem dicant, rectissime respondet Apostolus, Quis enim te discernit? quid habes 
+      <lb ed="#L" n="47"/>quod non accepisti? si autem acceperis, quid gloriaris, quasi non acceperis? prorsus talia 
+      <lb ed="#L" n="48"/>cogitasti. Verissime dicitur, dona sua coronat Deus, non merita tua, si tibi a teipso, non ab 
+      <lb ed="#L" n="49"/>E illo sunt merita tua; Haec enim si talia sunt, mala sunt, quae non coronat Deus; si autem 
+      <lb ed="#L" n="50"/>bona sunt, Dei dona sunt, quia sicut dicit Iacobus, Omne datum optimum &amp;c. dicit, &amp;  
+      <lb ed="#L" n="51"/>Iohannes praecursor Domini, Non potest homo accipere quicquam, nisi fuerit ei datum 
+      de<lb ed="#L" n="52" break="no"/>super; vtique de coelo in terram venit Spiritus Sanctus, quando Iesus ascendit in altum 
+      cap<lb ed="#L" n="53" break="no"/>tiuam duxit captiuitatem, dedit dona hominibus; &amp; sequitur capitulo decimo septimo. Si 
+      er<lb ed="#L" n="54" break="no"/>go Dei dona sunt bona merita tua, non Deus coronat merita tua, tanquam merita tua, sed 
+      <lb ed="#L" n="55"/>tanquam dona sua. Istam quoque sententiam diffuse persequitur consequenter; Qui &amp; super 
+      <lb ed="#L" n="56"/>illud Psalmi 118. Retribue seruo tuo &amp;c. Nusquam, inquit, se extollat humana superbia: 
+      do<lb ed="#L" n="57" break="no"/>nis suis Deus retribuit bona praemia, sed iste qui iam orat, &amp; dicit, Retribuc seruo tuo, viuam, si 
+      <!--357.xml-->
+      <pb ed="#A" n="324"/>
+               <lb ed="#L" n="1"/>penitus iam esset mortuus, non orare, sed ab illo accepit initium bonae concupiscentiae, a quo 
+      <lb ed="#L" n="2"/>vitam poscit obedientiae. Idem ad Sixtum Presbyterum, recitante Petro 3. Sentent. dist. 27. 
+      <lb ed="#L" n="3"/>Cum, inquit, Deus coronat merita nostra, nihil aliud coronat quam munera sua; vnde vita 
+      <lb ed="#L" n="4"/>aeterna quae a Deo in fine praecedentibus meritis redditur, quia &amp; eadem merita, quibus 
+      red<lb ed="#L" n="5" break="no"/>ditur, non a nobis sunt, sed in nobis facta sunt per gratiam, &amp; ipsa recte gratia nuncupatur, 
+      <lb ed="#L" n="6"/>quia gratis datur, nec ideo gratis quia non meritis datur, sed quia data sunt per gratiam &amp; ipsa 
+      <lb ed="#L" n="7"/>merita quibus datur. Amplius autem sicut ex 2. capitulo poterit apparere, in genere 
+      aperien<lb ed="#L" n="8" break="no"/>tium est aliquod primum aperiens principale, in cuius virtute aperiunt aperientia caetera, 
+      velu<lb ed="#L" n="9" break="no"/>ti instrumenta cetera; vt haec sint quasi claues possibiles, ipsum vero potentia vtens claue: 
+      <lb ed="#L" n="10"/>Ipsum enim est ille sanctus &amp; verus, qui habet clauem Dauid, qui aperit &amp; nemo 
+      clau<lb ed="#L" n="11" break="no"/>dit, qui claudit, &amp; nemo aperit Apocalipsis tertio sicut praedictum erat Esaiae 22. Dabo 
+      cla<lb ed="#L" n="12" break="no"/>uem domus Dauidis super humerum eius, &amp; aperiet, &amp; nemo erit qui claudat, &amp; claudet 
+      <lb ed="#L" n="13"/>&amp; nemo erit qui aperiat. Ideoque tota deuote orat Ecclesiae cum Psalmista, Domine, Labia 
+      <lb ed="#L" n="14"/>mea aperies, &amp; cum Machabaeis, Adaperiat Dominus cor vestrum in lege sua, &amp; in praeceptis 
+      <lb ed="#L" n="15"/>suis. Ipse igitur Dominus aperit corda nostra, &amp; vniuersaliter quaslibet vires nostras, quod in 
+      <lb ed="#L" n="16"/>apertione aurium surdi, &amp; solutione vinculi linguae eiusdem muti, geminato miraculo 
+      osten<lb ed="#L" n="17" break="no"/>dere dignabatur, dum digitos suae potentise in auriculas eius misit, &amp; sputo suae clemetiae tetigit 
+      <lb ed="#L" n="18"/>linguam eius, &amp; suspiciens in coelum ingemiscendo sic ait, Effata, quod est adaperire. Marc.7. 
+      <lb ed="#L" n="19"/>qui surdus &amp; mutus secundum Bedam, in quadam homilia, significat genus humanum, quod, 
+      <lb ed="#L" n="20"/>postquam contempto diuino mandato suasioni serpentis obediuit, &amp; lignum vetitum 
+      degu<lb ed="#L" n="21" break="no"/>stauit, surdum &amp; mutum spiritualiter est effectum. Et secundum eundem recitat ibi Glossa, 
+      <lb ed="#L" n="22"/>Suspexit in coelum, vt inde mutis loquelam, inde auditum surdis, inde cunctis infirmitatibus 
+      <lb ed="#L" n="23"/>medelam doceret esse quaerendam. Item Act. 14. Aperuit Deus gentibus ostium fidei. 
+      Hu<lb ed="#L" n="24" break="no"/>ius etiam apertionis diuinae testis est illa // Lydia purpuraria, cui Dominus aperuit cor 
+      intende<lb ed="#L" n="25" break="no"/>re his quae dicebantur a Paulo, Act. 16. Quod &amp; contestatur Apostolus ad Coloss. 4. dicens, 
+      <lb ed="#L" n="26"/>Orationi instate, vt Deus aperiat vobis ostium sermonis, &amp; multa similia occurrunt 
+      saepissi<lb ed="#L" n="27" break="no"/>me in Scriptura. Super hoc autem verbum Apostoli dicit Augustinus de praedestinatione 
+      <lb ed="#L" n="28"/>sanctorum 27. per hunc modum, Quomodo aperitur ostium verbi, nisi cum sensus aperitur 
+      <lb ed="#L" n="29"/>audientis vt credat, &amp; initio fidei facto, ea quae ad aedificandam salubrem doctrinam 
+      praedi<lb ed="#L" n="30" break="no"/>cantur, &amp; disputantur admittat, ne per infidelitatem corde clauso ea quae dicuntur improbet 
+      <lb ed="#L" n="31"/>ac repellat? Vnde &amp; ad Corinth. ait. Ostium mihi apertum est magnum &amp; euidens, &amp; 
+      ad<lb ed="#L" n="32" break="no"/>uersarij multi. Quid hic aliud potest intelligi, nisi praedicato ibi per eum primitus Euangelio 
+      <lb ed="#L" n="33"/>credidisse multos, &amp; multos fidei eiusdem aduersarios extitisse, secundum illud Domini, 
+      Ne<lb ed="#L" n="34" break="no"/>mo venit ad me, nisi cui fuerit datum a Patre meo: Et vobis datum est nosse mysterium regni, 
+      <lb ed="#L" n="35"/>illis autem non est datum. Ostium ergo apertum est in eis quibus datum est, aduersarij autem 
+      <lb ed="#L" n="36"/>multi ex eis quibus non est datum. Dicitque idem Apostolus; Cum venissem Troadem in 
+      E<lb ed="#L" n="37" break="no"/>uangelium Christi, &amp; ostium mihi apertum esset in Domino, &amp;c. valefaciens illis, exij in 
+      Ma<lb ed="#L" n="38" break="no"/>cedoniam. Quibus vale fecit nisi eis qui crediderant, in quorum scilicet cordibus 
+      Euangeli<lb ed="#L" n="39" break="no"/>zanti apertum est ostium? &amp; facta parua digressione subiungit; Verum redeamus ad 
+      aper<lb ed="#L" n="40" break="no"/>tionem ostij, quasi initium fidei audientium significat Apostolus: Quid est, orantes simul, vt 
+      <lb ed="#L" n="41"/>Deus aperiat vobis ostium verbi, nisi apertissima demonstratio, etiam ipsum initium fidei esse 
+      <lb ed="#L" n="42"/>donum Dei? Non enim orando peteretur ab eo, nisi ab eo fieri crederetur. Hoc donum 
+      coe<lb ed="#L" n="43" break="no"/>lestis gratiae in illam purpurariam descenderat, cui sicut Scriptura dicit in actibus 
+      Apostolo<lb ed="#L" n="44" break="no"/>rum; Deus aperuerat sensum, &amp; intendebat in ea quae a Paulo dicebantur: Sic enim 
+      vocaba<lb ed="#L" n="45" break="no"/>tur vt crederet. Agit quippe Deus quod vult in cordibus hominum, vel adiuuando, vel 
+      iudi<lb ed="#L" n="46" break="no"/>cando, vt etiam per eos impleatur, quod manus eius &amp; consilium praedestinauit fieri. Melius 
+      <lb ed="#L" n="47"/>igitur mihi videtur &amp; tutius, totum regimen ostiorum nostrorum ostiario tali commirtere, qui 
+      <lb ed="#L" n="48"/>nunquam sopore deprimitur, nulla illusione decipitur, nulla corruptione allicitur, nec vlla 
+      <lb ed="#L" n="49"/>vincitur potestate, qui aperiendo vel claudendo nunquam errare potest in minimo: quam E 
+      <lb ed="#L" n="50"/>totum nobis, vel partem sibi, &amp; partem nobis impotentibus, fatuis, &amp; corruptis, qui vix 
+      vn<lb ed="#L" n="51" break="no"/>quam aperimus vel claudimus non errantes: Non tamen vt nos somnolentiae vacemus &amp; 
+      o<lb ed="#L" n="52" break="no"/>tio, sed vt sub eius foelici regimine, non supra, nec secus, semper operibus gratia 
+      vigilantissi<lb ed="#L" n="53" break="no"/>me insistamus. Vnde Augustinus de bono perseuerantiae, 9. Tutiores viuimus, si totum Deo 
+      <lb ed="#L" n="54"/>damus, non nos illi ex parte, &amp; nobis ex parte committimus. Ipsi ergo me totum tota 
+      deuo<lb ed="#L" n="55" break="no"/>tione committo, ac eius gratissimae gratiae totaliter me submitto. Et si obijciant illud Apoc. 3. 
+      <lb ed="#L" n="56"/>Si quis aperuerit &amp;c. Et illud dilecti pulsantis, Aperi mihi foror mea Cantic. 5. dicendum; 
+      <lb ed="#L" n="57"/>sicut ad similia 35. cap. dicebatur, quod per huiusmodi liberum arbitrium excitatur, nec ex 
+      <lb ed="#L" n="58"/>hoc sequitur; quod possit solis proprijs viribus aperire, sicut nec implere omnia alia diuina 
+      <lb ed="#L" n="59"/>mandata, quae similiter imperantur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

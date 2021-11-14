@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="169"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e23449"><!-- l1c3 -->
+            <head xml:id="dcn2br-e23449-Hd1e106">Caput 3</head>
+            <head xml:id="dcn2br-e23449-Hd1e109" type="question-title">
+      Quod Deus est necessaria causa efficiens cuiuslibet rei factae
+    </head>
+            <p xml:id="dcn2br-e23449-d1e112">
+      <!--202.xml-->
+               <pb ed="#A" n="169"/>
+               <lb ed="#L" n="1"/>CAP. III. 
+      <lb ed="#L" n="2"/>Quod Deus est necessaria causa efficiens cuiuslibet rei factae: 
+      <lb ed="#L" n="3"/>habet Corollarium habens tres partes. 
+    </p>
+            <p xml:id="dcn2br-e23449-d1e125">
+               <lb ed="#L" n="4"/>HVic autem addendum, quod Deus est necessaria causa efficiens 
+      cuius<lb ed="#L" n="5" break="no"/>libet rei factae: Minus enim videtur rem per se existere, vel aliam 
+      con<lb ed="#L" n="6" break="no"/>seruare, quam perse facere aliquid cum non esset. Sed nulla creatura 
+      <lb ed="#L" n="7"/>potest in hoc minus, sicut capitulum proximum docuit; quare nec in 
+      <lb ed="#L" n="8"/>hoc maius: Deus ergo necessario apponet manum ad quamlibet 
+      fa<lb ed="#L" n="9" break="no"/>ctionem. Rationes quoque factae de conseruatione possunt fieri de 
+      <lb ed="#L" n="10"/>factione, terminis permutatis; &amp; multae autoritatum de 
+      conseruatio<lb ed="#L" n="11" break="no"/>ne loquentium, loquuntur de factione similiter. Sunt etiam praeter 
+      <lb ed="#L" n="12"/>autoritates superius allegatas, multae quae perhibent testimonium veritati. Aristoteles qui 
+      <lb ed="#L" n="13"/>dem in De mundo II. Antiquus, inquit, sermo, &amp; paternus est cunctis hominibus, quod a 
+      <lb ed="#L" n="14"/>Deo omnia, &amp; per Deum consistant. Et infra; Est, inquit, reuera saluator &amp; genitor omnium 
+      <lb ed="#L" n="15"/>Deus, quaecunque quocunque modo fiunt in hoc mundo; Et sequitur, in alia transtatione; 
+      <lb ed="#L" n="16"/>At vero per se operatur laboriosi animalis laborem sustinens, sed &amp; potentia vtens 
+      impassi<lb ed="#L" n="17" break="no"/>bili. Et infra eodem ostendit, quod Deus vnica actione facit omnia opera huius mundi, sic 
+      di<lb ed="#L" n="18" break="no"/>cens; Sicut autem in choraea inchoante Choraula concinit tota choraea virorum &amp; mulierum,  
+      <lb ed="#L" n="19"/>varijs vocibus acutis &amp; gradibus, vnam harmoniam continuam continuantibus; sic se habet  
+      <lb ed="#L" n="20"/>res &amp; in Deo, qui cuncta disponit, &amp; sequitur consequenter: videtur maxime comparari quod 
+      <lb ed="#L" n="21"/>agitur eis quae fiunt tempore belli, quando buccina significat exercitui; tunc enim vnusquisque 
+      <lb ed="#L" n="22"/>audito clangore, hic quidem sumit clypeum, alius coxalia &amp; casside, &amp; baltheu adaptat; &amp; hic 
+      <lb ed="#L" n="23"/>quidem frenat equum, ille ascendit bigas, alius praebet signum; mox autem dux insidiare 
+      con<lb ed="#L" n="24" break="no"/>sistit in iusidijs, princeps autem aciei in acie, miles autem in cornu, inermis vero recurrit ad  
+      <lb ed="#L" n="25"/>propria; omnia autem sub vno significatore mouentur nutu Ducis qui fungitur potestate; sic 
+      <lb ed="#L" n="26"/>&amp; de vniuerso sapiendum. Nam ab vno mouente omnibus excitatis fiunt propria, &amp; hoc 
+      in<lb ed="#L" n="27" break="no"/>uisibili ente &amp; occulto, quod nequaquam est impedimento nec illi ad agendum, nec nobis ad 
+      <lb ed="#L" n="28"/>credendum. Haec autem vnica Dei actio, non est motus coeli, sicut aliqui somniant, sed 
+      vni<lb ed="#L" n="29" break="no"/>cum Dei loqui, seu dicere, ipsomet Aristotele eodem cap. attestante, sicut cap. proximo 
+      reci<lb ed="#L" n="30" break="no"/>tatur. Hoc idem consequenter per aliud simile sic ostendit; Nam anima per quam viuimus, 
+      <lb ed="#L" n="31"/>&amp; aedes, &amp; vrbes habemus, inuisibile ens videtur per opera sua. Nam totus vite decor ab 
+      <lb ed="#L" n="32"/>hac inuentus est, &amp; ordinatus, &amp; contentus; culturae terrae, plantationes, excogitatio artium, 
+      <lb ed="#L" n="33"/>legum vsus, ornatus, &amp; ciuilitas, intestina negotia, extra terminos praelia seu pax. Haec 
+      opor<lb ed="#L" n="34" break="no"/>ter &amp; de Deo considerare seu intelligi secundum aliam transtationem, ente fortissimo, specie 
+      <lb ed="#L" n="35"/>vero speciocissimo, vita immortali, virtute potentissimo, seu optimo secundum aliam 
+      trans<lb ed="#L" n="36" break="no"/>lationem. Quapropter inuisibilis factus omni naturae videtur ex ipsis operibus. Nam 
+      passio<lb ed="#L" n="37" break="no"/>nes omnes tam quae per aerem, quam quae super tetram, &amp; quae in aqua, dicentur vere opera 
+      <lb ed="#L" n="38"/>Dei diffundentis super mundum; ex quo secundum naturalem Empedoclem; Omnia 
+      quae<lb ed="#L" n="39" break="no"/>cunque sunt &amp; postmodum erunt, processerunt arbores, &amp; viri cum foeminis, ferae quoque &amp; 
+      <lb ed="#L" n="40"/>volueres; nec non pisces in aquis nutriti. Vnde Apostolus ad Rom. 1. Inuisibilia Dei a 
+      crea<lb ed="#L" n="41" break="no"/>tura mundi per ea quae facta sunt intellecta conspiciuntur; sempiterna quoque eius virtus &amp; 
+      <lb ed="#L" n="42"/>diuinitas; quod &amp; sentiunt sancti Patres literaliter exponentes. Sapientiae quoque 13. per hoc 
+      <lb ed="#L" n="43"/>contra idololatras disputatur; Vani, inquit, sunt omnes homines quibus non subest scientia 
+      <lb ed="#L" n="44"/>Dei, &amp; de his quae videntur bona, non potuerunt intelligere quid est, neque operibus 
+      atten<lb ed="#L" n="45" break="no"/>deutes agnouerunt quis esset artifex. Et sequitur; A magnitudine enim speciei &amp; creaturae 
+      <lb ed="#L" n="46"/>cognoscibiliter poterit Creator videri. Et infra eodem: Si autem tantum potuissent scire, vt 
+      <lb ed="#L" n="47"/>possent aestimare saeculum, quomodo huius dominum facilius non inuenerunt? Adhuc 
+      au<lb ed="#L" n="48" break="no"/>tem &amp; Philosophus in De mundo II. dicit de Deo; Cumque sit vnus, multinomius est 
+      <lb ed="#L" n="49"/>nominatus ab omnibus passionibus quas innouat ipse; vocamus autem eum Iouem, 
+      dici<lb ed="#L" n="50" break="no"/>tur etiam fulmineus a fulmine, pluuialis a pluuia, tonitrualis, tempestuosus, serenus, &amp; 
+      <lb ed="#L" n="51"/>finita tali inductione, quasi per singula in fine subiungit: &amp; in summa loquendo, Caelestis 
+      <lb ed="#L" n="52"/>&amp; terrestris appellandus a qualibet natura &amp; fortuna, velut ens ipse omnium causa, 
+      prop<lb ed="#L" n="53" break="no"/>ter quod non male dicitur in Orphicis, Iupiter Arigilteminus, secundum aliam transtationem 
+      <!--203.xml-->
+      <pb ed="#A" n="170"/>
+               <lb ed="#L" n="1"/>Princeps fulminum; &amp; sequitur Iupiter Caput, Iupiter medius, a Ioue omnia generata 
+      <lb ed="#L" n="2"/>sunt. In istam quoque sententiam consentiunt Hermes, Plato, Auicenna, Algazel, 
+      Auerro<lb ed="#L" n="3" break="no"/>es, Autor de causis Commentator ipsius, &amp; turba Philosophorum non parua. Istam 
+      quo<lb ed="#L" n="4" break="no"/>que sententiam vtriusque testamenti series saepissime contestatur. Vnde Esaiae 45. Ego 
+      Do<lb ed="#L" n="5" break="no"/>minus faciens omnia haec; Et infra eodem, omnes dicentes contrarium maledicit; Vae, 
+      in<lb ed="#L" n="6" break="no"/>quit, qui contradicit factori suo, testa de samijs terrae; Et supra // 26. Domine dabis pacem 
+      <lb ed="#L" n="7"/>nobis. Omnia enim opera nostra operatus es Domine. Quare &amp; in hymno trium puerorum, 
+      <lb ed="#L" n="8"/>Omnes creaturae tanquam opera Domini per ordinem excitantur ad benedicendum 
+      Domi<lb ed="#L" n="9" break="no"/>no, quasi operatori suo gratias relaturae; &amp; Ioannis 5. veritas ipsa dicit, Pater meus vsque 
+      mo<lb ed="#L" n="10" break="no"/>do operatur, &amp; ego operor: vnde &amp; supra; 10. Omnia per ipsum facta sunt. Vbi 
+      Augusti<lb ed="#L" n="11" break="no"/>nus homilia prima, Omnino ergo Fratres sic accipite, Omnia per ipsum facta sunt, 
+      vniuer<lb ed="#L" n="12" break="no"/>sa creatura per ipsum facta est, maior &amp; minor. Nulla enim forma, nulla compages, nulla 
+      <lb ed="#L" n="13"/>concordia partium, nulla qualiscunque substantia est, quae posset habere pondus, numerum, 
+      <lb ed="#L" n="14"/>mensuram, nisi per illud verbum &amp; ab illo creatore, cui dictum est, Omnia in mensura &amp; 
+      <lb ed="#L" n="15"/>numero &amp; pondere disposuisti; Deus fecit omnia, &amp; in suis gradibus collocauit. Omnia 
+      er<lb ed="#L" n="16" break="no"/>go per ipsum, Fratres, omnino omnia per ipsum facta sunt, &amp; sine ipso factum est nihil. Idem  
+      <lb ed="#L" n="17"/>infra homilia octaua; Sicut, inquit, quod miserunt ministri in hydrias, in vinum conuersum 
+      <lb ed="#L" n="18"/>est opere Domini; sic &amp; quod nubes fundunt, in vinum conuertitur eiusdem opere Domini, 
+      <lb ed="#L" n="19"/>Illud autem non miramur, quia omni anno fit;assiduitas amisit admirationem. Quis est enim 
+      <lb ed="#L" n="20"/>qui considerat opera Dei quibus regitur &amp; administratur totus hic mundus, &amp; non 
+      obstupe<lb ed="#L" n="21" break="no"/>scit? Obruitur miraculis: sed quia homines in aliud intenti perdiderunt considerationem 
+      o<lb ed="#L" n="22" break="no"/>perum Dei, in qua darent laudem quotidie creatori; seruauit sibi Deus inusitata quaedam,  
+      <lb ed="#L" n="23"/>quae faceret, vt tanquam dormientes homines ad se colendum, mirabilibus excitaret. 
+      Mor<lb ed="#L" n="24" break="no"/>tuus resurrexit, Mirati sunt homines; tot quotidie nascuntur, &amp; nemo miratur. Si tamen  
+      <lb ed="#L" n="25"/>consideremus prudentius maioris miraculi est esse qui non erat, quam reuiuiscere qui erat. Et s 
+      <lb ed="#L" n="26"/>3. de Trinit, quasi per totum librum per exempla plurima probat idem. Vnde cap. 5. dicit 
+      <lb ed="#L" n="27"/>quod vis diuina, quae totam spiritualem corporalemque naturam administrat, omnium 
+      anno<lb ed="#L" n="28" break="no"/>rum certis diebus facit pluuiam; sed quando fecit pluuiam ad preces Eliae quasi contra 
+      dispo<lb ed="#L" n="29" break="no"/>sitionem acris naturalem, miraculum dicebatur. Ita Deus operatur fulgura &amp; tonitrua; sed 
+      <lb ed="#L" n="30"/>quando in monte Sina inusitato more fiebant, miracula videbantur. Quis attrahit 
+      humo<lb ed="#L" n="31" break="no"/>rem per radicem vitis ad botrum, &amp; vinum facit nisi Deus, qui &amp; homine plantante &amp; 
+      rigan<lb ed="#L" n="32" break="no"/>te incrementum dat? Sed cum ad nutum Domini Aqua in Vinum inusitata celeritate 
+      con<lb ed="#L" n="33" break="no"/>uersa est, etiam stultis fatentibus vis diuina declarata est. Quis Arbusta fronde &amp; flore 
+      solen<lb ed="#L" n="34" break="no"/>niter vestit nisi Deus? verum cum floruit virga Sacerdotis Aaron colloquuta est 
+      quodam<lb ed="#L" n="35" break="no"/>modo cum homine dubitante Diuinitas; Et lignis certe omnibus, &amp; omnium animalium 
+      <lb ed="#L" n="36"/>carnibus gignendis atque formandis communis est terrena materies, &amp; quis ea facit, nisi qui  
+      <lb ed="#L" n="37"/>dixit, vt haec terra produceret, &amp; in eodem verbo suo, quo creauit, regit, &amp; agit. Ex his 
+      om<lb ed="#L" n="38" break="no"/>nibus satis patet, quod Deus qui facit rara miracula, facit similiter caetera opera 
+      consueta<lb ed="#L" n="39" break="no"/>Nonne &amp; hoc est quod docet Apostolus ad Rom. 1I. ita dicens, Ex ipso &amp; per ipsum &amp; in 
+      <lb ed="#L" n="40"/>ipso sunt omnia? Nonne &amp; iste est vnus articulus fidei sicut symbolum Nicaenum testatur? 
+      <lb ed="#L" n="41"/>docens credere in Deum Patrem factorem visibilium omnium, &amp; inuisibilium, &amp; in Filium 
+      <lb ed="#L" n="42"/>per quem omnia facta sunt? Amplius autem, Deus facit omnem hominem, &amp; vniuersaliter 
+      <lb ed="#L" n="43"/>omne Animal totum secundum corpus &amp; animam, &amp; non agentia naturalia ipsa sola; quare 
+      <lb ed="#L" n="44"/>&amp; simili ratione, omnem rem factam. Dicit enim Philosophus II. de Animalibus in antiqua 
+      <lb ed="#L" n="45"/>transtatione, Dicendum naturas Animalium siue sit nobilissimum siue ignobile, quoniam 
+      na<lb ed="#L" n="46" break="no"/>tura quae creauit animalia erit causa magnae dilectionis in illis, qui possunt cognoscere causas 
+      <lb ed="#L" n="47"/>naturae, scilicet Philosophis naturae, quando considerant in animali vili; &amp; propter hoc 
+      de<lb ed="#L" n="48" break="no"/>bemus considerate formas eorum, &amp; delectari in Artifice qui fecit eas, quoniam artificium 
+      <lb ed="#L" n="49"/>operantis manifestatur in operato; verbi gratia, quia in operatione imaginum apparet 
+      sci<lb ed="#L" n="50" break="no"/>entia artificis, &amp; propter hoc licet vt nos videamus, vel alias non vitemus considerationem 
+      <lb ed="#L" n="51"/>in naturis Animalium vilium, &amp; non sit hoc nobis graue sicut pueris, &amp; in omnibus rebus 
+      na<lb ed="#L" n="52" break="no"/>turalibus est mirabile, &amp; propter hoc debemus inquirere naturam cuiuslibet Animalis, &amp; 
+      sci<lb ed="#L" n="53" break="no"/>re quod in omnibus Animalibus est res naturalis nobilis, quoniam non fuit naturatum vllum 
+      <lb ed="#L" n="54"/>eorum otiose neque casualiter, sed quantumcunque erit ex operationibus naturae, non erit nisi 
+      <lb ed="#L" n="55"/>propter aliquid; &amp; omne quod fuit aut erit, non fuit neque erit nisi propter aliquid, &amp;v 
+      com<lb ed="#L" n="56" break="no"/>plementum, &amp; propter hoc habet locum &amp; ordinem nobilem. Huic &amp; consonat dictum 
+      <lb ed="#L" n="57"/>Auerrois super 12. Metaphys. comment. 19. secundo huius praemissum. Nonne &amp; ideo 
+      <lb ed="#L" n="58"/>Iob. 10. loquens Deo sic ait, Manus tuae plasmauerunt me, &amp; fecerunt me totum in circuitu, 
+      <!--204.xml-->
+      <pb ed="#A" n="171"/>
+               <lb ed="#L" n="1"/>secundum punctuationem beati Gregorij 9. moral. 26. Et infra, Nonne sicut lac mulsisti me, 
+      <lb ed="#L" n="2"/>&amp; sicut caseum me coagulasti; pelle &amp; carnibus vestisti me, ossibus &amp; neruis compegisti me? 
+      <lb ed="#L" n="3"/>&amp; Propheta, Manus tuae fecerunt me, &amp; plasmauerunt me, Psal. 118. vnde &amp; Dominus 
+      Pro<lb ed="#L" n="4" break="no"/>phetarum, priusquam te formarem in vtero, noui te. Ier. 1. Quare &amp; Augustinus exponens 
+      il<lb ed="#L" n="5" break="no"/>lud Psalmi 118. praemissum, dicit hoc posse dupliciter intelligi, vno modo secundum Adam,  
+      <lb ed="#L" n="6"/>ex quo cum sint omnes homines propagati, quis hominum, quando iste factus est, etiam se 
+      <lb ed="#L" n="7"/>factum non potest dicere, originis seminisque ratione? Alio modo, quia vnusquisque non sine 
+      <lb ed="#L" n="8"/>opere Dei etiam de parentibus sit ipso creante, ipsis generantibus, quoniam si operatori a 
+      po<lb ed="#L" n="9" break="no"/>tentia Dei rebus subtrahatur, intereunt, nec aliquid omnino siue de mundi elementis, siue de 
+      <lb ed="#L" n="10"/>genitoribus, siue de seminibus nascitur, si ea non operetur Deus. Idem 9. super Genesin ad 
+      li<lb ed="#L" n="11" break="no"/>teram 23. Quale, inquit, ministerium Deo exhibuerint Angeli in illa mulieris formatione, quis 
+      <lb ed="#L" n="12"/>audeat affirmare? certissime tamen dixerim supplementum illud carnis in costae locum, 
+      ipsi<lb ed="#L" n="13" break="no"/>usque foeminae corpus &amp; animam, conformationemque membrorum, omnia viscera, sensus 
+      <lb ed="#L" n="14"/>omnes, &amp; quicquid erat quo illa &amp; creatura &amp; homo &amp; foemina erat, non nisi illo opere Dei 
+      <lb ed="#L" n="15"/>factum, quod Deus non per Angelos, sed per semetipsum operatus est, &amp; non dimisit, sed ista 
+      <lb ed="#L" n="16"/>continuantur opera, vt nec illarum aliarum rerum, nec ipsorum Angelorum natura subsistat,  
+      <lb ed="#L" n="17"/>si non operetur. Amplius autem Deus facit omnia vegetabilia, nec agentia naturalia sola 
+      suffi<lb ed="#L" n="18" break="no"/>ciunt, quare &amp; alia vniuersa, simili ratione. Nonne hoc est quod dicit Apostolus 1. ad Cor. 3. 
+      <lb ed="#L" n="19"/>Neque qui plantat est aliquid, neque qui rigat, sed qui incrementum dat Deus? Quare &amp; 
+      Au<lb ed="#L" n="20" break="no"/>gustinus 9. super Genesin ad literam 22. dicit, quod Agricolae non sunt creatores segetum, aut  
+      <lb ed="#L" n="21"/>arborum; Non enim qui plantat aliquid est, neque qui rigat, sed qui incrementum dat Deus. 
+      <lb ed="#L" n="22"/>Et dicit quod Agricola nihil facit crescere, sed ille qui omnia in mensura &amp; numero, &amp; 
+      pon<lb ed="#L" n="23" break="no"/>dere disponit, qui dat incrementum: Nec Medicus adhibens medicamina sanat aegros, sed 
+      na<lb ed="#L" n="24" break="no"/>tura illud agit interiore motu nobis occultissimo; cui tamen si Deus subtrahat operationem 
+      <lb ed="#L" n="25"/>intimam, qua eam substituit, &amp; facit, continuo tanquam extincta nulla remanebit. Idem 3. de 
+      <lb ed="#L" n="26"/>Trinit. 7. Apostolus, inquit, discernens interius Deum creantem atque formantem ab 
+      operi<lb ed="#L" n="27" break="no"/>bus creaturae quae admouentur extrinsecus, &amp; de Agricultura similitudinem assumens, ait; 
+      <lb ed="#L" n="28"/>Ego plantaui, Apollo rigauit, sed Deus incrementum dedit. Sicut ergo in ipsa vita nostra, 
+      men<lb ed="#L" n="29" break="no"/>tem iustificando formare non potest nisi Deus, praedicare autem exterius Euangelium 
+      homi<lb ed="#L" n="30" break="no"/>nes possunt: Ita creationem rerum visibilium Deus interius operatur, exteriores autem 
+      ope<lb ed="#L" n="31" break="no"/>rationes, siue bonorum, siue malorum Angelorum vel hominum, siue etiam quorumcunque 
+      <lb ed="#L" n="32"/>Animalium, secundum imperium suum, &amp; a se partitas distributiones potestatum &amp; // 
+      appeti<lb ed="#L" n="33" break="no"/>tudines commoditatum; ita rerum naturae adhibet in qua creat omnia, quemadmodum terrae 
+      <lb ed="#L" n="34"/>Agriculturam. Hoc idem &amp; veritas ipsa veraciter contestatur de Lilijs &amp; Foeno, quod Deus 
+      <lb ed="#L" n="35"/>sic vestit; sicut Matth. 6. &amp; Luc. 12. recitatur.
+    </p>
+            <div xml:id="dcn2br-e23449-Dd1e446">
+               <head xml:id="dcn2br-e23449-Hd1e448">Corollarium</head>
+               <p xml:id="dcn2br-e23449-d1e451">
+                  <lb ed="#L" n="36"/>Prima, quod nulla res potest aliquid facere sine Deo. 
+      <lb ed="#L" n="37"/>Secunda, quod nulla res potest aliquid facere, nisi Deus per se &amp; immediate faciat 
+      <lb ed="#L" n="38"/>illud idem.  
+      <lb ed="#L" n="39"/>Tertia, quod nulla res potest aliquid facere, nisi Deus faciat illud idem immediatius quo¬ 
+      <lb ed="#L" n="40"/>libet alio faciente. 
+      </p>
+               <p xml:id="dcn2br-e23449-d1e464">
+                  <lb ed="#L" n="41"/>VVNde consequitur manifeste, quod nulla res potest aliquid facere sine Deo; &amp; quod nulla 
+      <lb ed="#L" n="42"/>V res potest aliquid facere, nisi Deus per se &amp; immediate faciat illud idem, imo &amp; 
+      immedia<lb ed="#L" n="43" break="no"/>tius quolibet alio faciente, immediate, inquam, nedum localiter, sed &amp; naturaliter atque 
+      cau<lb ed="#L" n="44" break="no"/>saliter, &amp; immediatius eisdem modis, vel saltem naturaliter atque causaliter. Minus est enim 
+      <lb ed="#L" n="45"/>rem factam seruare in esse, quam ipsam facere de non esse; sed per Corollarium secundi, 
+      Nul<lb ed="#L" n="46" break="no"/>la res potest aliam rem factam seruare in esse sine Deo ipsam similiter conseruante, &amp; hoc 
+      im<lb ed="#L" n="47" break="no"/>mediate, imo &amp; immediatius quolibet alio conseruante; quare nec aliqua res potest rem 
+      fa<lb ed="#L" n="48" break="no"/>cere de non esse sine Deo ipsam similiter faciente, &amp; hoc immediate, imo &amp; immediatius 
+      <lb ed="#L" n="49"/>quolibet alio faciente. Item omnis res sicut potest aliquid facere, sic potest &amp; factum seruabile 
+      <lb ed="#L" n="50"/>seruare in esse, quia hoc est facilius: sed si detur oppositum corollarij praelibati, aliqua res 
+      <lb ed="#L" n="51"/>potest aliquid facere sine Deo, vel sine Deo idem immediate aut immediatius faciente. Potest 
+      <lb ed="#L" n="52"/>ergo aliqua res sic aliquid conseruare contra coroll. 2i praedictum. Rationes quoque &amp; 
+      Autori<lb ed="#L" n="53" break="no"/>tates ad corollarium illud adductae corollarium istud probant: Si quis autem praesumpserit 
+      <lb ed="#L" n="54"/>dicere, quod Deus dicitur omnia facere, non quia immediate per se, &amp; proprie ista facit, sed 
+      <lb ed="#L" n="55"/>tantum mediante Coelo, &amp; quia fecit agentia, &amp; patientia naturalia, vel conseruat, aut quia 
+      <lb ed="#L" n="56"/>permitrit, siue non impedit, seu contra impedimenta defendit, reprimetur faciliter per 
+      prae<lb ed="#L" n="57" break="no"/>missa, sicut proximum huius praesumptionem similem reprimebat.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

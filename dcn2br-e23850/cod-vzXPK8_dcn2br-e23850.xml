@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="172"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e23850"><!-- l1c4 -->
+            <head xml:id="dcn2br-e23850-Hd1e106">Caput 4</head>
+            <head xml:id="dcn2br-e23850-Hd1e109" type="question-title">
+      Quod qualibet creatura mouente, Deus necessario commouet
+    </head>
+            <p xml:id="dcn2br-e23850-d1e112">
+      <!--205.xml-->
+               <pb ed="#A" n="172"/>
+               <lb ed="#L" n="1"/>CAP. IIII. 
+      <lb ed="#L" n="2"/>Quod qualibet creatura mouente, Deus necessario commouet: 
+      <lb ed="#L" n="3"/>habet Corollarium quatuor partium. 
+      </p>
+            <p xml:id="dcn2br-e23850-d1e125">
+               <lb ed="#L" n="4"/>IStis autem praecognitis, ignorari non potest, qualibet creatura 
+      mo<lb ed="#L" n="5" break="no"/>uente Deum necessario commouere; Minus enim est existere quam  
+      <lb ed="#L" n="6"/>mouere: Aliqua enim existunt, quae non mouent, &amp; quae mouere non  
+      <lb ed="#L" n="7"/>possunt; sed quicquid mouet existit; &amp; per secundum huius, nulla 
+      <lb ed="#L" n="8"/>creatura per se potest existere, quare nec per se mouere sufficit sine 
+      <lb ed="#L" n="9"/>Deo. Item per tertium huius nulla creatura potest per se producere 
+      <lb ed="#L" n="10"/>vllum motum, nec per secundum, seruare productum; Deus ergo 
+      re<lb ed="#L" n="11" break="no"/>quiritur tanquam necessarius coadiutor. Omnes insuper rationes, aut  
+      <lb ed="#L" n="12"/>fere, &amp; Autoritates quamplures pro conseruatione, &amp; factione diuina rerum adductae, 
+      pos<lb ed="#L" n="13" break="no"/>sunt &amp; pro commotione eius adduci, mutatis terminis prout decet. Amplius autem sicut est 
+      <lb ed="#L" n="14"/>in minori mundo, sic videtur esse in maiori mundo; sed in minori mundo scilicet in homine, 
+      <lb ed="#L" n="15"/>vel animali, sic est quod omnis motus eius, secundum quod huiusmodi, prouenit a principio 
+      <lb ed="#L" n="16"/>suo formali &amp; essentiali scilicet Anima, sicut patet 20. de Anima 37. ergo omnis motus in 
+      <lb ed="#L" n="17"/>majori Mundo proueniet a suo tali principio, scilicet ipso Deo; &amp; haec videtur responsio 
+      A<lb ed="#L" n="18" break="no"/>ristotelis in de Mundo, II. sicut patet in illa longa Autoritate tertio huius scripta; quare &amp; 
+      <lb ed="#L" n="19"/>nententiam istam tenet, &amp; infra, cap. 13. ostendit eandem sententiam per similem rationem; 
+      <lb ed="#L" n="20"/>Dicit enim, ipse immobilis cuncta mouet &amp; circumfert quo vult, diuersis idaeis &amp; naturis, 
+      ve<lb ed="#L" n="21" break="no"/>lut, inquam, &amp; ciuitatis lex immobilis ens disponit, in animabus vtentium anima quae 
+      secun<lb ed="#L" n="22" break="no"/>dum ciuilitatem; &amp; hoc ostendit quasi inductiue per singula opera ciuitatis; &amp; concludendo, 
+      <lb ed="#L" n="23"/>Sic, inquit, existimandum est vtique &amp; de maiori ciuitate, de Mundo dico: Lex enim nobis 
+      <lb ed="#L" n="24"/>aeque declinans Deus. Adhuc autem est // illa sententia praemissa, ponens Deum animam 
+      <lb ed="#L" n="25"/>magni mundi; &amp; Auicennae 9. Metaph. 1. dicentis, Coelum est Animal obediens Deo. 
+      Auer<lb ed="#L" n="26" break="no"/>roes quoque super 12. Metaph. Comment. 39. ait declaratum ratione esse aliquod vnum 
+      <lb ed="#L" n="27"/>aeternum valde nobile, et est illud quod mouet omne; hoc est igitur Deus. Item si creatura 
+      <lb ed="#L" n="28"/>posset per se mouere vna specie motus, posset &amp; omni; quare per se posset alterare, generare. 
+      <lb ed="#L" n="29"/>&amp; facere multa noua, quod capitulum proximum non permittit. Item omnis res habens 
+      for<lb ed="#L" n="30" break="no"/>mam non mouet nisi per eam, sicut Philosophia tota clamat; sed sicut secundum huius 
+      osten<lb ed="#L" n="31" break="no"/>dit, Deus est forma omnis formae, et est actus substantialis qua omnis forma est id quod est, I 
+      <lb ed="#L" n="32"/>quod patet ex eodem; Est ergo forma substantialis omnis formae; per hanc rationem 
+      proba<lb ed="#L" n="33" break="no"/>tur 2o de Anima, Animam esse formam animati: Ergo nulla forma mouet nisi per Deum; 
+      <lb ed="#L" n="34"/>ergo nec aliquid formatum potest mouere nisi per illum. Itidem sic ad idem, Omne 
+      forma<lb ed="#L" n="35" break="no"/>tum mouens riouet per formam maxime sibi essentialem, et principalem, secundum quod est 
+      <lb ed="#L" n="36"/>tale formatum, sed Deus est forma maxime essentialis, et principalis cuiuscunque formatis 
+      <lb ed="#L" n="37"/>Quis enim Deo &amp; creatura existentibus causis vnius causati in eodem genere causae tribuat 
+      <lb ed="#L" n="38"/>Deo quod imperfectius est &amp; minus? neque enim secundo huius praemissa hoc sinunt. Item 
+      <lb ed="#L" n="39"/>Augustinus 22. de Ciuit. Dei 20. allegat a Cicerone talem definitionem Dei, Deus est mens 
+      <lb ed="#L" n="40"/>quaedam soluta et libera, secreta ab omni concretione mortali, omnia sentiens &amp; mouens, 
+      ip<lb ed="#L" n="41" break="no"/>saque praedita nutu sempiterno, et hoc reperit in libris magnorum Philosophorum vt dicit, 
+      <lb ed="#L" n="42"/>Item Deus est prima causa in genere causarum mouentium, sicut formalium, et finalium, sicut  
+      <lb ed="#L" n="43"/>ostenditur 8. Phys. 12. Metaph. et a multis Philosophis multis locis, &amp; ex secunda 
+      Supposi<lb ed="#L" n="44" break="no"/>tione potest haberi; sicut nulla causa posterior mouet nisi in virtute causae prioris, vt patet per 
+      <lb ed="#L" n="45"/>primam Propositionem de Causis cum suo Comment. superius allegato, et quia primum in 
+      <lb ed="#L" n="46"/>quolibet genere, est causa posterioris cuiustibet illius generis, sicut secundo huius praemissa 
+      <lb ed="#L" n="47"/>testantur; Deus ergo necessario commouet cum omni mouente; alias insuper non posset 
+      <lb ed="#L" n="48"/>asiqua via sumi a mouentibus inferioribus ad probandum aliquod primum mouens, contra 
+      <lb ed="#L" n="49"/>Aristot 7. et 8. Phys. 12. Met. Alexandrum, Auerroem, Auicennam &amp; ceteros Philosophos 
+      <lb ed="#L" n="50"/>quasi omnes; quibus &amp; Autores Theologici consentiunt in hac parte. Item Instrumentum non  
+      <lb ed="#L" n="51"/>mouetur artificiose nisi ab artifice; omne autem mouens posterius est instrumentum primi 
+      mo<lb ed="#L" n="52" break="no"/>uetis; alias enim non esset naturaliter posterius eo, sed prius vel etiam coequeuum, vel extra omne 
+      <!--206.xml-->
+      <pb ed="#A" n="173"/>
+               <lb ed="#L" n="1"/>ordinem penitus disparatum. Vnde dicit Boetius 4. de Consolatione Philosophiae prosa 6a 
+      <lb ed="#L" n="2"/>Omnis generatio rerum, // cunctusque mutabilium naturarum progressus, &amp; quicquid aliud 
+      <lb ed="#L" n="3"/>aliquo mouetur modo, causas, ordiuem, formas ex diuina mentis stabilitate fortitur. Sicut 
+      e<lb ed="#L" n="4" break="no"/>nim artifex faciendae rei formam mente percipiens, mouet operis effectum, &amp; quod 
+      simpli<lb ed="#L" n="5" break="no"/>citer, praesentarieque prospexerit, per temporales ordines ducit; Ita Deus prouidentia 
+      qui<lb ed="#L" n="6" break="no"/>dem singulariter, stabiliterque disponit facienda, fato vero, haec ipsa, quae diposuit, 
+      multipli<lb ed="#L" n="7" break="no"/>citer, ac temporaliter administrat. Hoc etiam testatur Auerroes super De somno &amp; vigilia, 
+      <lb ed="#L" n="8"/>dicens: Quod causae futurorum non sunt determinati esse apud nos, sed apud naturam 
+      intelle<lb ed="#L" n="9" break="no"/>ctiuam, a qua quaecunque recipit natura sensibilis, &amp; a qua mouetur, sicut instrumenta 
+      mo<lb ed="#L" n="10" break="no"/>uentur a forma artificij; &amp; ideo nullum indiuiduum essentialiter sit a natura, nisi per 
+      scienti<lb ed="#L" n="11" break="no"/>am antecedentem, quoniam instrumentum artificis, sicut dicit Aristoteles, non monetur nisi 
+      <lb ed="#L" n="12"/>secundum artificem. Ecce quod Auerroes commentator vniuersaliter ita sentit, &amp; allegat 
+      A<lb ed="#L" n="13" break="no"/>ristotelem ad hoc idem. Qui &amp; super 12. Metaph. comment. 44. dicit; Quod primum 
+      mo<lb ed="#L" n="14" break="no"/>uens &amp; mouentia inferiora multum assimilantur artificijs quae seruiunt sibi ad inuicem, &amp; 
+      iu<lb ed="#L" n="15" break="no"/>uant se ad inuicem erga vnum artificiale; &amp; sunt illa, quorum quaedam sunt principantia alijs, 
+      <lb ed="#L" n="16"/>&amp; omnia reducuntur ad vnum artificium, &amp; perficiuntur ab inuicem, &amp; omnia reducuntur 
+      <lb ed="#L" n="17"/>ad accipiendum omnia sua principia abartificio vniuersali continente ea, &amp; ideo scientia 
+      pro<lb ed="#L" n="18" break="no"/>Bria primi Dei, est sicut Philosophia prima, &amp; scientia propria principiis quae sunt sub eo, est 
+      <lb ed="#L" n="19"/>similis scientijs particularibus, quae sunt sub prima Philosophia, sicut dixit Nicomachus 
+      Peri<lb ed="#L" n="20" break="no"/>pateticus in sua prima Philosophia. Istam quoque sententiam Hermes plane: testatur De 
+      <lb ed="#L" n="21"/>Verbo aeterno 14. sicut secundum huius praemisit. Vnde &amp; Augustinus 6. De Trinit. vlt. 
+      <lb ed="#L" n="22"/>Filius est ars quaedam omnipotentis &amp; sapientis Dei, plena omnium rationum viuentium 
+      in<lb ed="#L" n="23" break="no"/>commutabilium, &amp; omnes vnum in ea, sicut ipsa vnum de vno, cum quo vnum ibi nouit 
+      om<lb ed="#L" n="24" break="no"/>nia, Deus qui fecit per ipsam; Ipse enim est omnium artifex sapientiae 70. Confirmatur a si 
+      <lb ed="#L" n="25"/>mili, quia per Philosophum 2. de Anima vbi prius; Omnia physica corpora animae 
+      instru<lb ed="#L" n="26" break="no"/>menta sunt; &amp; cum Deus incomparabiliter excedat quamlibet animam, omnia sunt 
+      instru<lb ed="#L" n="27" break="no"/>menta ipsius. Artificium quoque Dei testari videntur expresse quaedam proximo huius 
+      prae<lb ed="#L" n="28" break="no"/>missa. Quare &amp; ille diuinus Esaias 29. &amp; 45. vocat Deum figulum factorem &amp; fictorem; 
+      <lb ed="#L" n="29"/>hominem vero lutum, opus figmentum, &amp; testam; quod sequens Apostolus ad Rom. 9. 
+      eis<lb ed="#L" n="30" break="no"/>dem nominibus eos vocat. Dominus quoque per Esaiam 10. assimilat Senacherib Regem 
+      <lb ed="#L" n="31"/>Assur virgae &amp; baculo furoris, &amp; securi in qua secat Deus, &amp; serrae tractae a Deo, &amp; virgae quam  
+      <lb ed="#L" n="32"/>leuat Deus: vbi dicit Glossa; Sicut haec inanimata tantum sunt instrumenta, nihil per se 
+      faci<lb ed="#L" n="33" break="no"/>entia, sed per eum qui mouet ea; sic nec Senacherib per se, sed in Dei virtute operatus est.  
+      <lb ed="#L" n="34"/>Hoc idem, de artifice scilicet, &amp; instrumentis, testatur &amp; Thomas de Aquino de fide, spe, &amp;  
+      <lb ed="#L" n="35"/>charitate 133. sicut secundum huius allegat. Amplius autem Augustinus 80. super Genesin.  
+      <lb ed="#L" n="36"/>ad literam, ostendit diffuse, quod Deus mouet omnem creaturam spiritualem &amp; corporalem,  
+      <lb ed="#L" n="37"/>voluntariam, &amp; aliam qualemcunque suis motibus vniuersis; vbi &amp; 20. distincto opere 
+      diui<lb ed="#L" n="38" break="no"/>nae prouidentiae bipartito, scilicet creationis, &amp; administrationis, quo prouiuet toti 
+      vniuersi<lb ed="#L" n="39" break="no"/>tati &amp; singulis creaturis, sic ait; Spiritus Creator mouet seipsum sine tempore &amp; loco, mouet 
+      <lb ed="#L" n="40"/>conditum spiritum per tempus sine loco, &amp; mouet corpus per tempus &amp; locum. Cui &amp; 
+      con<lb ed="#L" n="41" break="no"/>cordanter Dionysiis de diuinis nominibus 4. loquens de bono &amp; optimo quod in Deo 
+      lau<lb ed="#L" n="42" break="no"/>datur, sic ait; Hoc vnum oprimum &amp; bonum singulariter, est omnium multorum bonorum, 
+      <lb ed="#L" n="43"/>&amp; optimorum causale, &amp; ex hoc omnes existentium essentiales subsistentiae, vnitates, 
+      discre<lb ed="#L" n="44" break="no"/>tiones, immutabilitates, alteritates, similitudines, dissimilitudines, societates contrariorum, 
+      <lb ed="#L" n="45"/>distinctiones vnitorum, prouidentiae superiorum, vicissitudines aequiformium, conuersiones 
+      <lb ed="#L" n="46"/>inferiorum omnium, semetipsis custoditiuae, &amp; immutabiles habitationes, &amp; collocationes; &amp; 
+      <lb ed="#L" n="47"/>iterum, omnium in omnibus propriae vnicuique societates, &amp; compaginationes, &amp; inconfusae 
+      <lb ed="#L" n="48"/>amicitiae, &amp; harmoniae vniuersitatis, &amp; vniuersae concretiones insolubiles continentiae 
+      existen<lb ed="#L" n="49" break="no"/>tium non deficientes susceptiones faciendorum status omnes &amp; motus, alij intellectualium, 
+      a<lb ed="#L" n="50" break="no"/>lij animarum, alij corporum. Status est enim omnibus &amp; motus super omnem motum, &amp;  
+      <lb ed="#L" n="51"/>omnem statum, collocans vnumquodque in suimet ratione, &amp; mouens in proprium motum. 
+      <lb ed="#L" n="52"/>Vbi &amp; consequenter ostenso, quomodo Angeli &amp; animae mouentur circulariter, directe &amp;  
+      <lb ed="#L" n="53"/>oblique, subiungit; Horum igitur &amp; sensibilium in vniuerso trium motuum, &amp; multo 
+      <lb ed="#L" n="54"/>prius vnoquoque mansionum, &amp; stationum, &amp; collocationum causale est, &amp; continens, 
+      <lb ed="#L" n="55"/>&amp; ffinis, bonum &amp; optimum, &amp; super omnem statum &amp; motum. Propterea 
+      om<lb ed="#L" n="56" break="no"/>nis status &amp; motus ex seipso, &amp; per seipsum, &amp; in ipsum, &amp; propter ipsum. Etenim 
+      <lb ed="#L" n="57"/>ex ipso, &amp; propter ipsum, &amp; essentia &amp; vita omnis &amp; mentis &amp; animae, &amp; omnes 
+      natu<lb ed="#L" n="58" break="no"/>rae, omnes coniunctiones, consummationes, termini, ordines, omnis essentia, omnis vir¬ 
+      <!--207.xml-->
+      <pb ed="#A" n="174"/>
+               <lb ed="#L" n="1"/>tus, omnis operatio, omnis habitus, omnis sensus, omnis ratio, omnis intellectus, omnis 
+      illu<lb ed="#L" n="2" break="no"/>minatio, omnis scientia, omnis summitas, &amp; simpliciter omne en, ex bono &amp; optimo est, &amp; in 
+      <lb ed="#L" n="3"/>bonum &amp; optimum conuertitur, &amp; omnia quaecunque sunt &amp; fiunt, per bonum &amp; optimum 
+      <lb ed="#L" n="4"/>sunt &amp; fiunt, &amp; ad haec omnia videlicet &amp; ab ipso mouentur &amp; continentur, &amp;c. secundo 
+      hu<lb ed="#L" n="5" break="no"/>ius plenius recitata. Sanctus insuper Ierotheus in amatorijs hymnis suis, recordante 
+      Diony<lb ed="#L" n="6" break="no"/>sio vbi prius, sic ait; Vna quaedam est simplex virtus seipsam mouens ad vnitatem quandam 
+      <lb ed="#L" n="7"/>temperantiam? exoptimo, vsque ad existentium nouissimum, &amp; ab illo iterum consequenter 
+      <lb ed="#L" n="8"/>per omnia vsque optimum, &amp; ex seipsa, &amp; per seipsam, &amp; ad seipsam, seipsam reuoluens, &amp;  
+      <lb ed="#L" n="9"/>in seipsam semper eodem modo reuoluta. Nonne &amp; Sapiens idem docet, Omnibus, 
+      inqui<lb ed="#L" n="10" break="no"/>ens, mobilibus mobilior est sapientia; attingit autem vbique &amp; cum sit vna, omnia potest, &amp;  
+      <lb ed="#L" n="11"/>permanens in se omnia innouat; Attingit ergo a fine vsque ad finem fortiter, &amp; disponit 
+      om<lb ed="#L" n="12" break="no"/>nia suauiter. Nonne &amp; veritas ipsa dicit; Pater meus vsque modo operatur &amp; ego operor, &amp;  
+      <lb ed="#L" n="13"/>veritatis Apostolus, in ipso, inquit, viuimus, &amp; mouemur, &amp; sumus. 
+      </p>
+            <div xml:id="dcn2br-e23850-Dd1e396">
+               <head xml:id="dcn2br-e23850-Hd1e398">Corollarium</head>
+               <p xml:id="dcn2br-e23850-d1e401">
+                  <lb ed="#L" n="14"/>Prima, Quod nihil potest quicquam mouere sine Deo idem per se &amp; proprie com¬ 
+      <lb ed="#L" n="15"/>mouente. 
+      <lb ed="#L" n="16"/>Secunda, Quod nihil potest quicquam mouere sine Deo immediate idem  
+      <lb ed="#L" n="17"/>mouente. 
+      <lb ed="#L" n="18"/>Tertia, quod nihil potest quicquam mouere sine Deo idem mouente immediatius 
+      <lb ed="#L" n="19"/>alio motore quocunque. 
+      <lb ed="#L" n="20"/>Quarta, Quod nulla propositio tribuens quodcunque creatum cuicunque causae se¬ 
+      <lb ed="#L" n="21"/>cundae, est immediata simpliciter. 
+      </p>
+               <p xml:id="dcn2br-e23850-d1e421">
+                  <lb ed="#L" n="22"/>VNde &amp; sanis oculis repeto manifestum, quod nihil potest quicquam mouere sine Deo 
+      <lb ed="#L" n="23"/>idem per se &amp; proprie commouente, &amp; sine Deo immediate idem mouente, imo &amp; 
+      imme<lb ed="#L" n="24" break="no"/>diatius alio motore quocunque; immediate, inquam, &amp; immediatius prout corollaria 
+      secun<lb ed="#L" n="25" break="no"/>di &amp; tertij exponebant. Et ex hoc corollario naturali manifeste consequitur aliud 
+      corolla<lb ed="#L" n="26" break="no"/>rium Logicale. Nullam scilicet propositionem tribuentem quodcunque causatum 
+      cuicun<lb ed="#L" n="27" break="no"/>que causae secundae, esse immediatam simpliciter. Istud corollarium, naturale satis apparet 
+      <lb ed="#L" n="28"/>ex praemissis in isto capitulo, iunctis corollarijs tertij, &amp; secundi cum probationibus 
+      corun<lb ed="#L" n="29" break="no"/>dem: Quo secure supposito, corollarium Logicale faciliter demonstratur. Nam nulla 
+      propo<lb ed="#L" n="30" break="no"/>sitio habens causam naturaliter mediantem inter eius extrema, quae scilicet sit causa 
+      naturali<lb ed="#L" n="31" break="no"/>ter media inhaerentiae extremorum est immediata simpliciter, sicut primus posteriorum 
+      osten<lb ed="#L" n="32" break="no"/>dit; quaelibet autem propositio talis est huiusmodi, sicut corollarium proximum naturale cum 
+      <lb ed="#L" n="33"/>alijs corollarijs prioribus clare probat. Si quis autem respondeat cauillando, quod Deus 
+      om<lb ed="#L" n="34" break="no"/>nia mota mouet, non tamen proprie, immediate, &amp; per seipsum, sed tantum mediante alio, 
+      <lb ed="#L" n="35"/>puta Coelo, vel quia fecit motorem, &amp; rem motam, seu quia ipsa conseruat, aut quia permittit, 
+      <lb ed="#L" n="36"/>siue non impedit, ab impedietibusue defendit, refelletur faciliter per praemissa, sicut secundum 
+      <lb ed="#L" n="37"/>huius, &amp; tertium similes // refellebat. Et si quis obijciat contra capitulum, quod tunc Deus 
+      la<lb ed="#L" n="38" break="no"/>traret, comederet siliquas, mentiretur, furaretur, cum absurditatibus caeteris silendis potius 
+      <lb ed="#L" n="39"/>quam dicendis, &amp; contra Corollarium, quod Philosophus tam in Logica, quam in 
+      Philoso<lb ed="#L" n="40" break="no"/>phia multas propositiones huiusmodi esse immediatas affirmat: Dicendum, quod primum 
+      <lb ed="#L" n="41"/>non procedit, quia illa verba non significant actiones huiusmodi absolute, scilicet tantum 
+      se<lb ed="#L" n="42" break="no"/>cundum id quod essentialiter sunt aut fiunt; sed cum quadam relatione ad creaturam, 
+      quate<lb ed="#L" n="43" break="no"/>nus ab ipso profluunt &amp; emanant. Pro secundo dicendum quod Philosophus in talibus 
+      lo<lb ed="#L" n="44" break="no"/>quitur, sicut Philosophus naturalis, scilicet de immediatione causae secundae, causae scilicet 
+      na<lb ed="#L" n="45" break="no"/>turalis; &amp; haec est immediatio secundum quid, quia tantum in genere creatorum; non autem 
+      <lb ed="#L" n="46"/>de immediatione simpliciter, quae simpliciter omnem mediam causam priuat.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="658"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e86995"><!-- l3c6 -->
+            <head xml:id="dcn2br-e86995-Hd1e106">Caput 6</head>
+            <p xml:id="dcn2br-e86995-d1e109">
+      <!--691.xml-->
+               <pb ed="#A" n="658"/>
+               <lb ed="#L" n="1"/>CAP. VI. 
+      <lb ed="#L" n="2"/>Obiicit &amp; respondet. 
+      </p>
+            <p xml:id="dcn2br-e86995-d1e120">
+               <lb ed="#L" n="3"/>ApBijciet forsitan aliquis contra dicta. Contra primum vero capitulo 
+      <lb ed="#L" n="4"/>proximo praeostensum hoc modo: Ponatur Iohannem contingenter 
+      <lb ed="#L" n="5"/>aequaliter non velle. A. ergo conuertendo per oppositas qualitates 
+      se<lb ed="#L" n="6" break="no"/>quitur Iohannem contingenter aequaliter velle. A. ergo Iohannem 
+      <lb ed="#L" n="7"/>ssa velle. A. est contingens aequaliter. Ergo per tertium &amp; quartum hu¬ 
+      <lb ed="#L" n="8"/>ius, Iohannem velle A. est; ergo Iohannes vult A. ergo lohannes 
+      si<lb ed="#L" n="9" break="no"/>mul vult A. &amp; non vult A. Item pura negatio nihil ponit; ergo 
+      nega<lb ed="#L" n="10" break="no"/>tiua de contingenti ad vtrumlibet non ponit affirmatiuam: ergo nec 
+      <lb ed="#L" n="11"/>vere in illam conuertitur quouismodo. Pro primo istorum dicendum, quod ista, Contingit 
+      <lb ed="#L" n="12"/>Iohannem, &amp;c. &amp; quaelibet talis dupliciter potest sumi, scilicet de inesse &amp; modaliter: de 
+      <lb ed="#L" n="13"/>inesse significat, quod contingens, seu aliquod contingens sit Iohannem velle, &amp; sic 
+      argu<lb ed="#L" n="14" break="no"/>mentum procedit, sed non obuiat conuersioni praedictae, quia illa sit in propositionibus 
+      mo<lb ed="#L" n="15" break="no"/>daliter tantum sumptis, sicque non significat quod aliquod contingens est Iohannem velle, 
+      <lb ed="#L" n="16"/>sed quod Iohannes potest ad vtrumlibet velle. Et si obijciatur per regulam Grammaticorum, 
+      <lb ed="#L" n="17"/>quod omne verbum tertiae personae potest resolui in participium suum eiusdem temporis, &amp;  
+      <lb ed="#L" n="18"/>in hoc verbum est, quare necessario sequitur, Contingit Iohannem velle, ergo contingens 
+      <lb ed="#L" n="19"/>est Iohannem velle, dico quantum ad propositum pertinet illam regulam veram esse, quando 
+      <lb ed="#L" n="20"/>verbum sumitur categorematice &amp; de inesse: tunc enim significat inhaerentiam participii talis 
+      <lb ed="#L" n="21"/>verbi alteri extremo propositionis expresso: cum autem verbum modaliter sumitur, non 
+      ha<lb ed="#L" n="22" break="no"/>bet regula illa locum: non enim significat contingens inesse alicui aut aliquid illi, sed aliquid  
+      <lb ed="#L" n="23"/>contingenter posse inesse alteri, puta, velle Iohanni. Est etiam vlterius aduertendum, quod 
+      <lb ed="#L" n="24"/>haec est similiter distinguenda; Contingens est Iohannem velle, &amp; quaelibet similis, eo quod 
+      <lb ed="#L" n="25"/>potest sumi de inesse vel modaliter; si de inesse, patet sensus eius ex praedictis; si modaliter. 
+      <lb ed="#L" n="26"/>tunc contingens non sumitur ibi tanquam vnum propositionis extremum, &amp; est velut copula 
+      <lb ed="#L" n="27"/>proprie connectens propositionis extrema: sed haec duo, Contingens est, accipiuntur pro 
+      <lb ed="#L" n="28"/>contingit, scilicet, pro vno modo quo significatur velle, posse inesse Iohanni. Sic &amp; ista, 
+      Pos<lb ed="#L" n="29" break="no"/>sibile est Antichristum fore; est similiter distinguenda, eo quod potest esse de inesse, vel 
+      mo<lb ed="#L" n="30" break="no"/>dalis. Si sit de inesse, significat possibile sit Antichristum fore, ac si diceretur possibile est lig 
+      <lb ed="#L" n="31"/>num, possibile est animal; id est, aliquod possibile seu aliqua res possibilis est lignum vel 
+      ani<lb ed="#L" n="32" break="no"/>mal. Si autem sit modalis, sensus eius est notus. Secundum faciliter soluitur, quia omnes illae I 
+      <lb ed="#L" n="33"/>conuersae &amp; conuertentes de contingenti aequaliter sunt affirmatiuae: non enim sequitur, 
+      <lb ed="#L" n="34"/>Contingit Iohannem velle, ergo non contingit Iohannem velle; sed, ergo contingit 
+      Iohan<lb ed="#L" n="35" break="no"/>nem non velle, quae affirmat vt prima. Vnde Philosophus I. Prior. capitulo de contingenti sic 
+      <lb ed="#L" n="36"/>ait; Accidit autem omnes quae secundum contingens sunt, propositiones conuerti sibi 
+      inui<lb ed="#L" n="37" break="no"/>cem; dico autem non affirmatiuas in negatiuas, sed quaecunque affirmatiuam habent 
+      fign<lb ed="#L" n="38" break="no"/>ram in oppositum, vt ea que est, Contingit esse, ei quae est, Contingit non esse. Contra 
+      secun<lb ed="#L" n="39" break="no"/>dum obijcitur isto modo; In tali consequentia contingenti oppositum consequentis stat, vt 
+      <lb ed="#L" n="40"/>nunc cum antecedentem; ergo consequentia vt nunc non tenet. Respondeo statim per inter 
+      <lb ed="#L" n="41"/>emtionem assumpti: Oppositum enim consequentis non stat vt nunc cum antecedente illius, 
+      <lb ed="#L" n="42"/>sed vt nunc potest stare, ideoque vt nunc consequentia non est necessaria, sed pro nunc potest 
+      <lb ed="#L" n="43"/>non valere. Sicut ista consequentia est bona vt nunc, Omne cursurum est A, ergo Iohannes 
+      <lb ed="#L" n="44"/>est A. si ipse sit cursurus; quae tamen potest non valere pro nunc, quia Iohannes pro nunc 
+      po<lb ed="#L" n="45" break="no"/>test esse non cursurus, &amp; sic non contineri sub subiecto vniuersalis illius; quare &amp; oppositum 
+      <lb ed="#L" n="46"/>consequentis illius non stat vt nunc cum antecedente, sed potest pro nunc stare: non stat, 
+      in<lb ed="#L" n="47" break="no"/>quam, nisi illud dicatur stare quod in consequentia necessaria simpliciter vel vt nunc non 
+      re<lb ed="#L" n="48" break="no"/>pugnat; sed quia est alia consequentia bona quam talis, bona scilicet contingenter; sic &amp; alia 
+      <lb ed="#L" n="49"/>repugnantia est quam talis, scilicet repugnantia correspondenter contingens. Cum ergo res 
+      <lb ed="#L" n="50"/>constet, non est laborandum inaniter circa verba. Contra tertium sic instatur; Si aliqua causa 
+      <lb ed="#L" n="51"/>actiua sit indeterminata ad agendum, nulla est causa seu ratio vt agat potius quam non agat; 
+      <lb ed="#L" n="52"/>ergo simul agit &amp; non agit, vel nec agit nec non agit. Ad istud autem tertium huius, &amp; 34. 
+      <lb ed="#L" n="53"/>pars corollarij primi primi respondent. Contra sextum videtur esse Philosophus I. Prior. &amp;  
+      <lb ed="#L" n="54"/>2. peri hermenias expresse. Nam secundum suam doctrinam sequitur euidenter, Contingit 
+      <!--692.xml-->
+      <pb ed="#A" n="659"/>
+               <lb ed="#L" n="1"/>esse, ergo contingit non esse, ergo non necesse est esse, &amp;e contra. Necesse est esse. ergo non 
+      <lb ed="#L" n="2"/>contingit non esse, ergo non contingit ad vtrumlibet esse; vtrumque ergo istorum infert 
+      con<lb ed="#L" n="3" break="no"/>tradictionem alterius euidenter. Pro hoc autem sciendum, quod omnis contingentia ad 
+      vtrum<lb ed="#L" n="4" break="no"/>libet aliqua necessitatem excludit, &amp; illi repugnat, &amp; e contra similiter, quare sicut est duplex 
+      ne<lb ed="#L" n="5" break="no"/>cessitas, scilicet praecedens &amp; sequens, sicut 2. huius docebat; sic &amp; duplex est contingentia ad 
+      <lb ed="#L" n="6"/>vtrumlibet, vna proprie stricteque accepta, quae tantum excludit necessitatem naturaliter 
+      prae<lb ed="#L" n="7" break="no"/>cedentem, &amp; illi soli repugnat, vt patet per definitiones contingentis aequaliter, &amp; 
+      ne<lb ed="#L" n="8" break="no"/>cessitatis naturaliter praecedentis 4. &amp; 2. huius praemissas: haec tamen contingentia 
+      necessita<lb ed="#L" n="9" break="no"/>tem sequentem non excludit, nec illi repugnat. Alia est contingentia ad vtrumlibet 
+      impro<lb ed="#L" n="10" break="no"/>prie, communiter, Iargeque vocata, quae vtramque necessitatem praedictam a contingenti, 
+      <lb ed="#L" n="11"/>excludit, &amp; vtrique repugnat; sicque secundum Philosophum, nihil actualiter ens vel non  
+      <lb ed="#L" n="12"/>ens dicitur contingere pro praesenti, quia secundum eum 1. peri hermenias vlt. Esse quod est,  
+      <lb ed="#L" n="13"/>quando est, &amp; non esse quod non est, quando non est, necesse est, scilicet de necessitate 
+      sequen<lb ed="#L" n="14" break="no"/>te, sicut 2. huius ostendit: sed secundum eundem ibidem tantum futurum dicitur sic 
+      contin<lb ed="#L" n="15" break="no"/>gere pro futuro; ipsum enim futurum contingens licet pro nunc necesse sit non esse hac 
+      neces<lb ed="#L" n="16" break="no"/>sitate sequente, quia nunc non est, pro futuro tamen secundum ipsum neutra necessitate est 
+      <lb ed="#L" n="17"/>necesse illud non esse seu non fore, aut esse vel fore, sed per oppositum vtriusque aequaliter 
+      po<lb ed="#L" n="18" break="no"/>test contingere hoc &amp; illud. Contra septimum vadit directe autoritas Philosophi cum 
+      expo<lb ed="#L" n="19" break="no"/>sitione Boetij, 1. peri hermenias vlt. tertio huius pro prima opinione adducta, innuens 
+      eui<lb ed="#L" n="20" break="no"/>denter, contingentia tantummodo reperiri in propositionibus de futuro. Hic posset 
+      respon<lb ed="#L" n="21" break="no"/>deri, sicut videtur Anselmus 2. Cur Deus homo, 17. respondisse, dicendo Aristot. hic errasse. 
+      <lb ed="#L" n="22"/>quia ponendo omne quod est, quando est, de necessitate esse, videtur contingens ad 
+      vtrumli<lb ed="#L" n="23" break="no"/>bet destruxisse, eo quod necessitas &amp; cotingentia ad vtrumlibet videntur inuicem repugnare. 
+      <lb ed="#L" n="24"/>Vnde Anselmus, distincta ibi necessitate in praecedentem &amp; sequentem, sicut 2. huius 
+      praemi<lb ed="#L" n="25" break="no"/>sit, de sequenti necessitate subiungit, Haec est illa necessitas, quae, vbi tractat Aristoteles de 
+      <lb ed="#L" n="26"/>propositionibus singularibus &amp; futuris, videtur vtrumlibet destruere, &amp; omnia esse ex 
+      neces<lb ed="#L" n="27" break="no"/>sita te astruere. Veruntamen ne tanto Philosopho, &amp; plurimis viris philosophicis ego tam  
+      <lb ed="#L" n="28"/>simoelex simpliciter contradicam, dico quod Contingentia ad vtrumlibet ad propositum 
+      du<lb ed="#L" n="29" break="no"/>pliciter sumitur; proprie atque stricte, &amp; communiter siue large, sicut responsio proxima 
+      di<lb ed="#L" n="30" break="no"/>stinguebat. Prima dicitur proprie respectu praesentis; secunda vero respectu futuri, vt erat 
+      in<lb ed="#L" n="31" break="no"/>proximo praeostensum, &amp; hanc opinor mentem autoritatis Philosophi allegatae. Contra 
+      <lb ed="#L" n="32"/>octauum faciunt omnia quae contra septimum sunt adducta, cum omnis libertas sit 
+      contin<lb ed="#L" n="33" break="no"/>gentia, sicut quartum proximi demonstrabat. Item omnis necessitas repugnat libertati, sed 
+      <lb ed="#L" n="34"/>per autoritatem Philosophi saepius memoratam, Esse quod est, quando est, necesse est; ergo 
+      <lb ed="#L" n="35"/>respectu cuiuslibet praesentis est necessitas, non libertas. Item libere operans vel dicitur 
+      libe<lb ed="#L" n="36" break="no"/>re operati, quia nunc libere potest operari &amp; non operari, vel quia prius potuit libere 
+      pro<lb ed="#L" n="37" break="no"/>nunc ambo. Primum dici non potest propter autoritatem praemissam, relinquitur ergo 
+      secun<lb ed="#L" n="38" break="no"/>dum, quod probat libertatem dici tantummodo respectu futuri. Item Auerroes super 1. de 
+      <lb ed="#L" n="39"/>Coelo, comment. penult. supponit &amp; dicit expresse, quod omnis potentia est respectu futuri. 
+      <lb ed="#L" n="40"/>Item Hugo de Sacramentis lib. 1. part. 5 cap. 22. dicit &amp; probat, quod libertas non est 
+      re<lb ed="#L" n="41" break="no"/>spectu praesentis, sed tantum futuri. Quem &amp; sequendo Lumbardus 2. sentent. dist. 25. sic 
+      <lb ed="#L" n="42"/>ait, Sciendum quod liberum arbitrium ad praesens vel ad praeteritum non resertur, sed ad  
+      <lb ed="#L" n="43"/>futura contingentia: quod enim in praesenti est, determinatum est, nec in potestate nostra 
+      <lb ed="#L" n="44"/>est, vt tunc sit vel non sit quando est. Ista soluuntur faciliter per similem distinctionem de 
+      li<lb ed="#L" n="45" break="no"/>bertate distinctioni de contingentia praelibatae. Libertas enim consuete loquendo accepta 
+      <lb ed="#L" n="46"/>excludit necessitatem &amp; illi repugnat; quae &amp; dupliciter potest sumi, proprie scilicet atque 
+      <lb ed="#L" n="47"/>stricte, &amp; communiter siue large. Proprie tantum excludit necessitatem naturaliter 
+      praeceden<lb ed="#L" n="48" break="no"/>tem &amp; illi repugnat, vt patet per eius definitionem, quam corollarium 4. huius praemisit; 
+      ne<lb ed="#L" n="49" break="no"/>cessitatem autem sequentem non excludit, nec illi repugnat, sed illam compatitur, 
+      amplecti<lb ed="#L" n="50" break="no"/>tur, &amp; includit, vt patet per corollarium memoratum corollario primi huius adiuncto. Libertas 
+      <lb ed="#L" n="51"/>igitur sic accepta per se primo &amp; proprie dicitur respectu praesentis: communiter vero &amp; 
+      lar<lb ed="#L" n="52" break="no"/>ge, &amp; secundum transumptionem vulgatem accepta, excludit omnem necessitatem tam 
+      prae<lb ed="#L" n="53" break="no"/>cedentem quam sequentem, &amp; sic supponendo illud dictum famosum Philosophi, Esse quod est,  
+      <lb ed="#L" n="54"/>quando est, necesse est, non dicitur respectu praeteriti vel presentis, sed tantum futuri. Adducta 
+      <lb ed="#L" n="55"/>siquide contra 7. sunt soluta &amp; primum sequens contra istud 8. Cum autem quaeritur cur libere 
+      <lb ed="#L" n="56"/>operans dicatur libere operari, dico quod ideo proprie, quia operatur ex potentia naturaliter 
+      <lb ed="#L" n="57"/>praecedente suam operationem, qua posita cum omnibus dispositionibus naturaliter praeuijs 
+      <lb ed="#L" n="58"/>operi no necessario sequitur operati, sed &amp; operati &amp; no operati aequaliter potest stare, sicue 
+      <!--693.xml-->
+      <pb ed="#A" n="660"/>
+               <lb ed="#L" n="1"/>corollarium quarti huius ostendit per contrarium agentium irrationabilium, quae cum 
+      pos<lb ed="#L" n="2" break="no"/>sunt agunt necessario necessitate naturali naturaliter praecedente, sicut idem quartum 
+      doce<lb ed="#L" n="3" break="no"/>bat. Haec autem prioritas naturalis est illa circa quam multi contendunt, dicentes, 
+      quicun<lb ed="#L" n="4" break="no"/>que libere operatur, prius potuit libere operari, &amp; non operari; quod &amp; aliquid habet falsi, 
+      <lb ed="#L" n="5"/>aliquid autem veri. Si enim verbum, potuit, significet potentiam temporaliter 
+      praeceden<lb ed="#L" n="6" break="no"/>tem, falsum est, sicut probationes partis octauae capituli proximi ostendebant: si autem 
+      signi<lb ed="#L" n="7" break="no"/>ficet potentiam naturaliter praecedentem, quemcunque scilicet libere operantem habere 
+      po<lb ed="#L" n="8" break="no"/>tentiam naturaliter praecedentem suam operationem, ex qua non operatur necessario 
+      neces<lb ed="#L" n="9" break="no"/>sitate naturaliter praecedente, sed cum illa stat operari &amp; non, verum est sicut praehabita 
+      do<lb ed="#L" n="10" break="no"/>cuerunt. Vnde &amp; Iohannes Scotus super 1. sentent. dist. 39. immediate post dictum eius de 
+      <lb ed="#L" n="11"/>eadem distinctione in ostensione partis septimae capituli proximi recitatum, subiungit; Est 
+      <lb ed="#L" n="12"/>igitur potentia causae ad oppositum eius quod causat sine successione, &amp; illa potentia realis 
+      <lb ed="#L" n="13"/>est potentia prioris naturaliter, vt actus primi, ad opposita, quae sunt posteriora naturaliter. 
+      <lb ed="#L" n="14"/>vt actus secundi. Actus enim primus consideratus in illo instanti, in quo est, prior naturaliter 
+      <lb ed="#L" n="15"/>actu secundo, ita ponit illum in esse tanquam effectum suum contingenter, qui vt prior 
+      natu<lb ed="#L" n="16" break="no"/>raliter posset eum non ponere, sed oppositum in esse. Autoritates vero inductae procedunt 
+      <lb ed="#L" n="17"/>per secundam partem distinctionis de libertate praemissae: miror tamen de Auerroe dicente 
+      <lb ed="#L" n="18"/>quod potentia non est, nisi respectu // futuri, cum textus transtationis, quem exponit, sic 
+      di<lb ed="#L" n="19" break="no"/>cat; Potentia enim non est in tempore praeterito, sed in tempore in quo dicitur modo, &amp; in 
+      <lb ed="#L" n="20"/>tempore futuro: Et transtationis nouae, sic; Nec enim vna virtus eius quod est factum esse, 
+      <lb ed="#L" n="21"/>est, sed eius quod esse aut futurum esse; vnde videtur quod Philosophus contrariae sententiae 
+      <lb ed="#L" n="22"/>magis fauet. Contra nonum hoc modo, Aliqua creatura sic agit, quod posita potentia eius 
+      <lb ed="#L" n="23"/>agente cum omnibus necessarijs concurrentibus naturalibus &amp; supernaturalibus naturaliter 
+      <lb ed="#L" n="24"/>praeuijs actioni, non necessario sequitur actio, sed &amp; actio, &amp; non actio aequaliter potest stare; 
+      <lb ed="#L" n="25"/>ergo per definitionem contingetis aequaliter 4. huius praemissam, illa actio est simpliciter 
+      con<lb ed="#L" n="26" break="no"/>tingens aequaliter: aliter enim omnis creatura agens, si non sit determinata naturaliter, ex 
+      se<lb ed="#L" n="27" break="no"/>ipsa determinatur per aliquid aliud, puta per velle diuinum, quod est necessarium respectu 
+      <lb ed="#L" n="28"/>huius actionis, quod videtur damnatum per Stephanum Parisiensem Episcopum sub hac 
+      for<lb ed="#L" n="29" break="no"/>ma, Quod de sui natura non est determinatum ad esse vel non esse, non determinatur nisi per 
+      <lb ed="#L" n="30"/>aliquid quod est necessarium respectu sui: &amp; iterum sub his verbis, quod nullum agens est 
+      ad<lb ed="#L" n="31" break="no"/>vtrumlibet, imo determinatur. Dicendum quod haec ratio sumit falsum, sicut probatio 
+      <lb ed="#L" n="32"/>istius noni ostendit, nec damnatio articuli obuiat: articulus etenim vniuersaliter posuit, quod  
+      <lb ed="#L" n="33"/>omne quod de sui natura &amp;c. quare condemnatio negat eum vniuersaliter, nec affirmat 
+      op<lb ed="#L" n="34" break="no"/>positum cuiuslibet singularis, sed particularem sibi oppositam pro aliqua singulari; quae &amp; 
+      <lb ed="#L" n="35"/>verificatur per velle Dei ad extra, non tamen essentialiter secundum id quod est, quia sic est 
+      <lb ed="#L" n="36"/>essentia ipsa Dei, sed tantummodo relatiue, vt scilicet est velle ad extra. Tale etenim velle T 
+      <lb ed="#L" n="37"/>Dei non est de sui natura determinatum ad esse tale velle vel non esse, nec determinatur per 
+      <lb ed="#L" n="38"/>aliquid quod est necessarium respectu illius, sicut pars vndecima proximi demonstrauit: Et  
+      <lb ed="#L" n="39"/>per hoc idem etiam alia condemnatio deuitatur. Aliter autem &amp; bene pro illis // 
+      condemnatio<lb ed="#L" n="40" break="no"/>nibus respondendum, quod illi articuli loquebantur de determinatione necessaria per causas 
+      <lb ed="#L" n="41"/>inferiores siue secundas, quod patet per quosdam alios articulos statim in eadem serie 
+      con<lb ed="#L" n="42" break="no"/>demnatos, quorum vnus dicit, quod voluntas de se est indeterminata ad opposita, sicut 
+      mate<lb ed="#L" n="43" break="no"/>ria, determinatur autem ab appetibili, sicut materia ab agente: Alter autem, quod voluntas, 
+      <lb ed="#L" n="44"/>manente passione &amp; scientia particulari in actu, non potest agere contra eam: Alius vero, 
+      <lb ed="#L" n="45"/>quod voluntas &amp; intellectus non mouentur in actu per se, sed per causam sempiternam, 
+      sci<lb ed="#L" n="46" break="no"/>licet, per corpora coelestia: &amp; iterum alius, quod voluntas hominis necessitatur per suam  
+      <lb ed="#L" n="47"/>cognitionem, sicut appetitus bruti. Vnde manifestum est quod iste condemnator negat 
+      vo<lb ed="#L" n="48" break="no"/>luntatem humanam determinari necessario per aliquas causas inferiores siue secundas, non 
+      <lb ed="#L" n="49"/>autem per voluntatem diuinam, cum in eadem serie condemnando quendam alium errorem I 
+      <lb ed="#L" n="50"/>sic dicat, quod omnes motus voluntarij reducuntur in motorem primum: error, nisi 
+      intelli<lb ed="#L" n="51" break="no"/>gatur in motorem primum simpliciter non causatum, &amp; intelligendo de motu secundum 
+      sub<lb ed="#L" n="52" break="no"/>stantiam, non secundum deformitatem. Et prius condemnauit quendam alium errorem 
+      di<lb ed="#L" n="53" break="no"/>centem, quod humani actus non reguntur prouidentia diuina. Contra decimum potest 
+      simi<lb ed="#L" n="54" break="no"/>liter obijci, sicut obiectum fuerat contra nonum: aliqua enim creatura rationalis &amp; libera 
+      <lb ed="#L" n="55"/>ita agit, quod positis omnibus causis superioribus &amp; inferioribus naturaliter praeuijs suo actui 
+      <lb ed="#L" n="56"/>libero, non necessario sequitur agere, sed &amp; agere &amp; non agere aequaliter potest stare, ergo &amp;. 
+      <lb ed="#L" n="57"/>caetera per corollarium 4. huius; aliter etenim positis omnibus causis &amp; dispositionibus 
+      natu<lb ed="#L" n="58" break="no"/>raliter praeuijs actui libero creaturae, ipsa necessario ageret liberum actum suum: quod vide¬ 
+      <!--694.xml-->
+      <pb ed="#A" n="661"/>
+               <lb ed="#L" n="1"/>tur damnatum per Stephanum Epis. Paris. sub his verbis, quod voluntate existente in tali dis¬ 
+      <lb ed="#L" n="2"/>positione in qua nata est moueri, &amp; mouente sic disposito quod natum est mouere, impossibile 
+      <lb ed="#L" n="3"/>est voluntatem non velle. Hec autem soluuntur penitus vt praemissa. Hic enim articulus 
+      vole<lb ed="#L" n="4" break="no"/>bat hoc dicere vniuersaliter de qualibet voluntate, quod falsum est pro voluntate Dei ad 
+      ex<lb ed="#L" n="5" break="no"/>tra, sicut duodecima pars proximi manifestat. Verius tamen ad mentem damnantis &amp; 
+      dam<lb ed="#L" n="6" break="no"/>nati, vt aestimo, potest dici, quod articulus dicitur de dispositione per causas inferiores 
+      <lb ed="#L" n="7"/>tantummodo d&amp; secundas, ita quod voluntate &amp; obiecto sufficienter dispositis secundum 
+      <lb ed="#L" n="8"/>causas huiusmodi, impossibile esset eam non velle. Posuit enim articulus, vt videtur, 
+      vo<lb ed="#L" n="9" break="no"/>luntatem tantum passiuam, vel saltem necessario pati volutionem ab obiecto: Vnde 
+      di<lb ed="#L" n="10" break="no"/>cit, voluntate existente in tali dispositione, in qua est nata moueri; moueri inquit, non 
+      <lb ed="#L" n="11"/>mouere, &amp; mouente sic disposito quod natum est mouere, scilicet sufficienter &amp; 
+      neces<lb ed="#L" n="12" break="no"/>sario ex seipso, sicut &amp; quidam alius articulus expressius affirmabat, quem idem alia 
+      <lb ed="#L" n="13"/>vice damnauit, sic dicens, quod liberum arbitrium est potentia passiua, non actiua, &amp; quod 
+      <lb ed="#L" n="14"/>de necessitate mouetur ab appetibili. Item quod iste articulus supradictus loquatur de 
+      dispo<lb ed="#L" n="15" break="no"/>sitione per causas inferiores tantummodo, patet per multos alios articulos in eadem serie 
+      posi<lb ed="#L" n="16" break="no"/>tos sic loquentes. Iste namque articulus ponitur inter superius proxime recitatos, vbi &amp; quida 
+      <lb ed="#L" n="17"/>alius ita dicit; Appetitus, cessantibus impedimentis, necessario mouetur ab appetibili: &amp; alter, 
+      <lb ed="#L" n="18"/>quod homo agens ex passione coacte agit: &amp; alius, quod Post conclusionem factam de aliquo 
+      <lb ed="#L" n="19"/>faciendo volutas non manet libera: &amp; iterum alius, quod Voluntas necessario prosequitur quod 
+      <lb ed="#L" n="20"/>principaliter creditur a ratione, &amp; quod non potest abstinere ab eo quod ratio dictat; haec 
+      au<lb ed="#L" n="21" break="no"/>tem necessitas non est coactio, sed natura voluntatis: &amp; adhuc alius asserit quod voluntas 
+      <lb ed="#L" n="22"/>nostra subiacet potestati corporum supracaelestium. Is igitur condemnator negat a 
+      volun<lb ed="#L" n="23" break="no"/>tate humana necessitatem secundum causas inferiores siue secundas, non secundum 
+      supe<lb ed="#L" n="24" break="no"/>riores &amp; primam, sed eam concedit, sicut articulus adductus ad probationem nonae partis 
+      <lb ed="#L" n="25"/>proximi manifestat. Contra vndecimum sic instatur; Vbi est maior mutabilitas, maior 
+      <lb ed="#L" n="26"/>contingentia reperitur: sed in creaturis est maior mutabilitas, quam in Deo, seu in voluntate 
+      <lb ed="#L" n="27"/>diuina, sicut quintum &amp; vigesimum tertium primi docent. Dicendum quod consequentia 
+      <lb ed="#L" n="28"/>facta non tenet: Licet enim in creaturis sit mutabilitas varia, &amp; nulla in Deo aut volutione 
+      <lb ed="#L" n="29"/>diuina; tota tamen mutabilitas creaturae necessario subiacet immutabili volutioni diuinae, 
+      <lb ed="#L" n="30"/>sicut trigesimum secundi, &amp; decimum primi docent. Ipsa vero volutio Dei ad extra nulli 
+      <lb ed="#L" n="31"/>necessitati subiacet praecedenti, sicut probatio huius vndecimi demonstrauit; quare in illa 
+      <lb ed="#L" n="32"/>aliqualis praecedens necessitas, in hac autem tantummodo // purissima contingentia 
+      repe<lb ed="#L" n="33" break="no"/>ritur. Adhuc autem contra istam vndecimam, &amp; duodecimam atque decimam tertiam 
+      ob<lb ed="#L" n="34" break="no"/>ijcitur grauiter isto modo: Omnis voluntas volutiove diuina agitur siue producitur, &amp; est acta 
+      <lb ed="#L" n="35"/>siue producta; ergo per aliquod agere siue producere ipsum naturaliter antecedens, &amp; posito 
+      <lb ed="#L" n="36"/>huiusmodi agere, siue producere volutatis seu volutionis illius necessario sequitur illa agi siue 
+      <lb ed="#L" n="37"/>produci: Omnis ergo actus voluntatis diuine producitur ex necessitate // naturaliter 
+      praecede<lb ed="#L" n="38" break="no"/>te, &amp; est necessarius illo modo, &amp; nullus simpliciter contingens aequaliter, nec liber 
+      cotradicti<lb ed="#L" n="39" break="no"/>onis, videlicet libertate secundum praemissa. Omne quoque actum voluntatis diuinae producit 
+      <lb ed="#L" n="40"/>Deus voluntarie, omnem ergo tale actum prius naturaliter vult producere quam ipsum 
+      produ<lb ed="#L" n="41" break="no"/>cat, &amp; prius naturaliter potest ipsum producere; omnis ergo actus huiusmodi producitur ex 
+      <lb ed="#L" n="42"/>necessitate naturaliter praecedente, secundum premissa, &amp;c. sicut prius. Pro primo istorum 
+      scien<lb ed="#L" n="43" break="no"/>dum, quod aliqui opinantur quod actio &amp; passio sint res relatiue, seu ipsae relationes pure 
+      tan<lb ed="#L" n="44" break="no"/>tummodo: sed eruditioribus puto constat, quod relationes huiusmodi actionem &amp; passionem 
+      <lb ed="#L" n="45"/>naturaliter consequuntur, &amp; per eas causantur. Quapropter &amp; alij arbitrantur, quod actio &amp; 
+      <lb ed="#L" n="46"/>passio sint res absolutae secundum suam essentiam, relationibus tamen necessario copulatae; 
+      <lb ed="#L" n="47"/>&amp; horum quidam existimant, quod actio &amp; passio sint res diuersae secundum essentiam 
+      ab<lb ed="#L" n="48" break="no"/>solute quia sunt praedicamenta diuersa: Alij vero putant, quod sint eadem res, &amp; idem 
+      rea<lb ed="#L" n="49" break="no"/>liter absolute sed differant relatiue: Aliam enim relationem, &amp; aliam denominationem 
+      ha<lb ed="#L" n="50" break="no"/>bet actus &amp; motus, quatenus ab agente procedit, &amp; aliam prout in patiente recipitur, sicut 
+      <lb ed="#L" n="51"/>semidiameter mundi respectu puncti sui superioris dicitur descensus siue deorsum; 
+      res<lb ed="#L" n="52" break="no"/>pectu vero centri dicitur ascensus, seu sursum; sicuti &amp; habitudo inter primum &amp;e 
+      secun<lb ed="#L" n="53" break="no"/>dum, &amp; etiam vnum &amp; duo est alia proportio, quatenus est primi ad secundum, aut vnius 
+      ad<lb ed="#L" n="54" break="no"/>duo, &amp; alia quatenus est e contra: Et haec videtur sententia Philosophi 3. Phys. 18. &amp; 
+      con<lb ed="#L" n="55" break="no"/>sequenter in textu, &amp; Averrois in comment. 2 de Anima 137. &amp; 138. &amp; Auerrois similiter in 
+      <lb ed="#L" n="56"/>commento. Quibus &amp; concordanter Ansel. de veritate; Multis, inquit, modis eadem res 
+      suscive<lb ed="#L" n="57" break="no"/>pit diuersis cosiderationibus cotraria, quod in actione sepe cotingit, vt in percussione. 
+      Percus<lb ed="#L" n="58" break="no"/>sio namque &amp; agentis &amp; patientis est, vnde &amp; actio dici potest &amp; passio, quamuis secundum ipsum 
+      <!--695.xml-->
+      <pb ed="#A" n="662"/>
+               <lb ed="#L" n="1"/>nomen actio vel percussio, &amp; quae similiter dicta a passiuis in actiua significatione dicuntur, 
+      <lb ed="#L" n="2"/>magis videantur esse patientis quam agentis; quippe secundum id quod agit magis proprie 
+      <lb ed="#L" n="3"/>videntur dici agentia &amp; percutientia, &amp; secundum id quod patitur, actio &amp; percussio. Nam 
+      a<lb ed="#L" n="4" break="no"/>gentia &amp; percutientia ab agente &amp; percutiente dicuntur, sicut prouidentia a prouidente, &amp; 
+      <lb ed="#L" n="5"/>continentia a continente: quae, scilicet agens &amp; percutiens prouidens &amp; continens actiua sunt; 
+      <lb ed="#L" n="6"/>actio vero &amp; passio ab acto &amp; percusso quae passiua sunt, deriuantur. Sed quonia, vt in vno 
+      di<lb ed="#L" n="7" break="no"/>cam, quod in caeteris intelligas, sicut percutiens non est sine percusso, nec percussus sine 
+      percu<lb ed="#L" n="8" break="no"/>tiente; ita percutientia &amp; percussio sine inuicem esse nequeunt, imo vna &amp; eadem res est 
+      diuer<lb ed="#L" n="9" break="no"/>sis nominibus secundum diuersas partes significata: Idcirco &amp; percussio, &amp; percutientis &amp; 
+      <lb ed="#L" n="10"/>percussi esse dicitur; quapropter secundum agens &amp; patiens eidem subiacet iudicio 
+      Lindifferen<lb ed="#L" n="11" break="no"/>ter) vel contrarijs; Ipsa quoque actio ex vtraque parte similiter iudicabitur aut contrarie. Sed 
+      <lb ed="#L" n="12"/>ista reuera altiora, &amp; subtiliora, &amp; foecundiora mihi videntur, quam a me, praesertim hic, in 
+      <lb ed="#L" n="13"/>breuibus digne valeant explicari; veruntamen probabilior mihi videtur hac vice secunda 
+      o<lb ed="#L" n="14" break="no"/>pinio recitata. Ex prima namque per rationem prius obiectam, quam &amp; opinio haec admittit, 
+      <lb ed="#L" n="15"/>sequi videtur, quod in actionibus, agere siue agentijs sit processus essentialiter ordinatus 
+      secun<lb ed="#L" n="16" break="no"/>dum sub &amp; supra, secundum prius &amp; posterius naturaliter infinitus. Si enim non sequatur, sit 
+      <lb ed="#L" n="17"/>A. primum agere, seu prima actio, siue agentia: ergo A. agitur siue producitur, &amp; est 
+      a<lb ed="#L" n="18" break="no"/>cta siue producta; ergo per aliquod agere siue producere ipsum naturaliter antecedens, 
+      <lb ed="#L" n="19"/>sicut aduersarius arguebat. A. ergo primum positum non est primum, imo &amp; adhuc 
+      su<lb ed="#L" n="20" break="no"/>pra A. oportet necessario ascendere infinite per similem rationem. Quod &amp; aliquis 
+      for<lb ed="#L" n="21" break="no"/>tassis concedere non timebit, sed quomodo tunc stabit secunda suppositio primi primi? 
+      Quo<lb ed="#L" n="22" break="no"/>modo etiam omnes Philosophi abhorrent processum infinitum in actu, praesertim in 
+      essenti<lb ed="#L" n="23" break="no"/>aliter ordinatis modo praedicto? Nonne &amp; Philosophus 2. Met. 10. reprobans processum 
+      in<lb ed="#L" n="24" break="no"/>finitum in causis formalibus, dicitita; Cuius autem primum non est, nec habitum est? habitum, 
+      <lb ed="#L" n="25"/>i. aliquid quod ad aliud se habeat consequenter, quod &amp; Auerroes &amp; omnes exponentes 
+      vna<lb ed="#L" n="26" break="no"/>nimiter contestantur. Secundum istam quoque sententiam non esset aliqua prima actio seu 
+      <lb ed="#L" n="27"/>productio in diuinis, sed ante quamlibet intellectionem &amp; volutionem, ante quamlibet 
+      genera<lb ed="#L" n="28" break="no"/>tionem &amp; spirationem aliae infinitae. Adhuc autem secundum istam sententiam Deus creans aut ages 
+      <lb ed="#L" n="29"/>quippiam nouiter imutaretur: reciperet etenim &amp; haberet actionem nouella, quam non habuit  
+      <lb ed="#L" n="30"/>vnquam prius. Haec enim opinio ponit actionem esse in agente, sicut &amp; passione in passo sicut  
+      <lb ed="#L" n="31"/>&amp; necessario cogitur ad ponendum; alioquin in omni moto esset necessario duo motus 
+      motio<lb ed="#L" n="32" break="no"/>nesue duae, quos nec Deus omnipotens posset ab inuicem separare: esset quoque in creationibo 
+      <lb ed="#L" n="33"/>&amp; actionibus talibus nouellis simul tempore creatis &amp; actis processus secundum prius &amp; 
+      po<lb ed="#L" n="34" break="no"/>sterius, sub &amp; supra naturaliter infinitus. Illa enim creatio siue actio crearetur seu ageretur per 
+      <lb ed="#L" n="35"/>aliam causaliter &amp; naturaliter non temporaliter praecedentem, &amp; illa per aliam, &amp; ita deinceps 
+      <lb ed="#L" n="36"/>infinite superius ascendendo. Aquo etiam reciperet Deus hanc nouam nouiter actionem, I 
+      <lb ed="#L" n="37"/>Non ab aliquo inferiori agente, propter 7. part. coroll. 1. primi, &amp; quia tunc illa actio 
+      creatu<lb ed="#L" n="38" break="no"/>rae causaliter &amp; naturaliter praecederet illa actionem Dei, &amp; e contra. Omnis namque actio 
+      crea<lb ed="#L" n="39" break="no"/>turae est a Deo actore, sicut praeced. docuerunt: aut erit in actionibus talibus essentialiter 
+      ordi<lb ed="#L" n="40" break="no"/>natis multitudo super numerum infinita. Si insuper noua creatio siue actio insit Deo creati 
+      quip<lb ed="#L" n="41" break="no"/>pia nouiter seu ageti, inest quoque &amp; ipsi similiter noua relatio, qua referturad suum creatum, siue 
+      a<lb ed="#L" n="42" break="no"/>ctum, quare &amp; noua mutatio. Per hanc autem rationem Aug. 5. de Trin. vlt. se reputat demonstrare. 
+      <lb ed="#L" n="43"/>quod Deo no accidit nouiter aliqua noua relatio temporalis. Esset quoque in relationibo talibus 
+      <lb ed="#L" n="44"/>essentialiter ordinatis processus super numerum infinitus. Illa namque relatio est creata seu acta 
+      a<lb ed="#L" n="45" break="no"/>Deo, quare &amp; Deus refertur ad illam vt creans seu agens per aliam relationem, &amp; ad illa per 
+      <lb ed="#L" n="46"/>aliam simili ratione, &amp; ita deinceps super omnem numerum &amp; mensuram. Amplius autem 
+      po<lb ed="#L" n="47" break="no"/>natur Carbunculus luminosus obtectus, nec illuminans quicquam extra, qui nouiter 
+      detega<lb ed="#L" n="48" break="no"/>tur, &amp; illuminet aerem; habet ergo nunc nouam actionem, nouam illuminationem 
+      intrinse<lb ed="#L" n="49" break="no"/>cam intra ipsum, sed vnde? a quo agente? Non a seipso tantummodo: cur enim potius nunc p 
+      <lb ed="#L" n="50"/>quam prius, cum sit agens irrationale, inelectiuae &amp; illiberae actionis? Nec ab aere: aer enim 
+      <lb ed="#L" n="51"/>ab ipso recipit passionem, nec potest assignari modus quo aer causaret illam illuminationem 
+      <lb ed="#L" n="52"/>carbunculi, nisi per viam reflexionis aut reactionis, sed prior causaliter &amp; naturaliter est actio 
+      <lb ed="#L" n="53"/>Carbunculi, sicut constat. Illae insuper actiones Carbunculi &amp; aeris se inuicem mutuo agerent 
+      <lb ed="#L" n="54"/>&amp; causarent; quare &amp; causaliter &amp; naturaliter mutuo se praecederent atque succederent; aut  
+      <lb ed="#L" n="55"/>ponetur processus in talibus infinitus, nec recipit actionem hanc nouam ab aliquo alio. Aquo 
+      <lb ed="#L" n="56"/>enim? Si dixeris, quod a Deo; ergo est &amp; Deus ipse similiter tunc recipit vnam actionem 
+      nouel<lb ed="#L" n="57" break="no"/>lam contra premissa. Si insuper Deus agat istam actionem in Carbunculo illuminante, &amp; istam 
+      <lb ed="#L" n="58"/>passionem in illuminato, cum istae sint res absolute diuerse, &amp; neutra pars alterius, nec quicquam  
+      <!--696.xml-->
+      <pb ed="#A" n="663"/>
+               <lb ed="#L" n="1"/>a vnius de essentia alteriS, videtur quod Deus omnipotes posset ista ab inuice separare, &amp; facere 
+      <lb ed="#L" n="2"/>alterutrum sine reliquo &amp; seruare, praesertim re priore sine posteriori, quod contradictionem 
+      in<lb ed="#L" n="3" break="no"/>cludit. Adhuc autem &amp; Deus facit futura esse futura per 14. 1. lib. ergoper aliqua factione &amp; no 
+      <lb ed="#L" n="4"/>noua, quia tuc nouiter incaepisset esse futura, ergo aeterna. Aliquid ergo aliud a Deo &amp; 
+      corrup<lb ed="#L" n="5" break="no"/>tibile est coaeternum aut anteris ipsi Deo, qd. &amp; de futuritione simili modo patet: Deus quoque 
+      fa<lb ed="#L" n="6" break="no"/>cit aliqua seper non entia seper non esse, sicut ex 32. &amp; 33. adi apparet; ergo per aliqua 
+      factio<lb ed="#L" n="7" break="no"/>nem, &amp; non temporalem, constat, sed Deo simpliciter coaeternam. Quae si sint vera, non 
+      pos<lb ed="#L" n="8" break="no"/>set Deus quicquam creare, nisi aliud annihilaret, factionem videlicet, qua prius fecit illud non  
+      <lb ed="#L" n="9"/>esse, &amp; esse futurum, &amp; futuritionem ipsius. Amplius autem nec Deus omnipotens posset 
+      <lb ed="#L" n="10"/>quicquam annihilare, nisi aliud mox crearet, annihilationem videlicet, &amp; relationem inter 
+      an<lb ed="#L" n="11" break="no"/>nihilantem &amp; annihilatum: Imo nec Deus omnipotens vniuersae creaturae conditor &amp; 
+      ser<lb ed="#L" n="12" break="no"/>uator posset annihilare vniuersitatem rerum creatam: Si enim posset, ponatur; Deus ergo 
+      an<lb ed="#L" n="13" break="no"/>nihilat mundum, &amp; est annihilans &amp; annihilator; ergo per aliquam annihilationem actiuam  
+      <lb ed="#L" n="14"/>&amp; relationem nunc factam. Dicetur fortassis pro ipsis, quod creatio &amp; factio rerum in Deo 
+      <lb ed="#L" n="15"/>est voluntas seu volutio eius aeterna, &amp; de annihilatione similiter; sed quomodo? Vel enim, 
+      <lb ed="#L" n="16"/>Deo creante quippiam nouiter, puta mundum, volutio eius aeterna est creatio aeterna, vel 
+      no<lb ed="#L" n="17" break="no"/>ua. Non aeterna, quia tunc aeternaliter creauisset, &amp; esset creatura similiter coaeterna. Si noua, 
+      <lb ed="#L" n="18"/>per quid est illa voluntas tunc creatio, &amp; non prius? Vel per aliquid aeternum, vel nouum. 
+      <lb ed="#L" n="19"/>Non aeternum, quia tunc aeternaliter fuisset creatio: nec nouum quia tunc illud est creatum 
+      <lb ed="#L" n="20"/>a Deo, &amp; Deus prius natura illud creat, &amp; est creans, quam illud sit creatum aut sit: Illa quoque 
+      <lb ed="#L" n="21"/>volutio Dei producitur, ergo per aliqued producere antecedens, &amp; illud per aliud simili 
+      ratio<lb ed="#L" n="22" break="no"/>ne, &amp;c. sicut supra. Per quid insuper nouum est volutio seu nolutio Dei aeterna, annihilatio 
+      <lb ed="#L" n="23"/>modo noua? Si etiam sit ita in Deo, cur non simili ratione quodlibet actiuum creatum, 
+      ratio<lb ed="#L" n="24" break="no"/>nale vel irrationale, sufficieter dispositum ad agendum, potest agere sine aliqua actione 
+      no<lb ed="#L" n="25" break="no"/>uella nouiter producta in ipso? Obiicies forsitan, quod agens A. actionem signatam, quae 
+      po<lb ed="#L" n="26" break="no"/>natur actio prima in Deo, quare &amp; prima simpliciter omnium actionum, constituitur in esse 
+      <lb ed="#L" n="27"/>agentis; ergo per aliquid formale, per aliquam causam formalem, seu formam aliquam 
+      quo<lb ed="#L" n="28" break="no"/>quomodo, quemadmodum loquitur Sapiens, vbi dicit, Amator factus sum forma illius, Sap. 8. 
+      <lb ed="#L" n="29"/>Et Apostolus ad Phil. 2. Qui cum in forma Dei esset: illud autem formale seu forma non 
+      po<lb ed="#L" n="30" break="no"/>test poni A. actio, cum sit posterior naturaliter quam hoc sit agens: Per hoc enim, quod Deus 
+      <lb ed="#L" n="31"/>est agens, producitur A actio &amp; causatur, nec potest poni aliquid nisi actio; quid enim aliud 
+      <lb ed="#L" n="32"/>poneretur? Est ergo aliqua actio alia A. actionem naturaliter antecedens. Forma namque, 
+      qua<lb ed="#L" n="33" break="no"/>aliquid est formatum, praecedit causaliter, quare &amp; naturaliter, licet non temporaliter suum 
+      <lb ed="#L" n="34"/>formatum. Pro isto sciendum, quod actio, &amp; huiusmodi nomina verbalia dupliciter possunt 
+      <lb ed="#L" n="35"/>sumi; actiue videlicet &amp; passiue; id est quatenus ab actiuo siue agente procedit, &amp; sic agentia 
+      <lb ed="#L" n="36"/>congrue dici potest; &amp; quatenus in acto seu patiente recipitur, &amp; sic actio seu passio 
+      nuncupa<lb ed="#L" n="37" break="no"/>tur. Adhuc autem secundum quod potest haberi ex Philosopho, 3. Phys. vbi prius: &amp; 5. met. 
+      <lb ed="#L" n="38"/>20. Et Anselmo vbi superius, vlterius aduertendum, quod, quando actiuum seuegens producit 
+      <lb ed="#L" n="39"/>aliquod agere, seu mouere aliquam actionem, actum seu motum, &amp; duas relationes similiter 
+      quo<lb ed="#L" n="40" break="no"/>dammodo comproducit, vnam actionis siue actiuam, quatenus vi2. agere, actio, actus seu 
+      mo<lb ed="#L" n="41" break="no"/>tus ab actiuo seu agente procedit, &amp; qua sic ad ipsum refertur; aliam passionis siue passiuam, 
+      <lb ed="#L" n="42"/>quatenus scilicet in acto seu patiente recipitur, &amp; sic refertur ad ipsum. Imo &amp; si quis 
+      intuea<lb ed="#L" n="43" break="no"/>tur subtilius, &amp; diligentius perscrutetur res ipsas, &amp; Aristot. &amp; Auer. &amp; Anselm. vbi superius; 
+      <lb ed="#L" n="44"/>apparebit vnam esse relarionem actiui siue agentis ad actum, quatenus scilicet agit seu causat,  
+      <lb ed="#L" n="45"/>&amp; aliam e conuerso, vi2. acti ad actiuum seu agens, quatenus scilce agitur seu causatur; sicut alia 
+      <lb ed="#L" n="46"/>est relatio patris ad prolem seu filium, puta paternitas, &amp; alia filij ad patrem, puta filiatio; &amp; 
+      si<lb ed="#L" n="47" break="no"/>mili modo in alijs, quae &amp; nominibus supradictis, vel alijs similibus possut congrue nominari, 
+      <lb ed="#L" n="48"/>&amp; hae relationes quandoque actionis &amp; passionis nominibus nuncupantur. In Deo autem licet 
+      <lb ed="#L" n="49"/>sit agere, actio atque actus, non tamen pati seu passio proprie poni debet, sed aliquid simile 
+      pas<lb ed="#L" n="50" break="no"/>fioni, puta receptio siue conceptio, vel si aliquid simile melius dici possit: quare d&amp; secundum 
+      <lb ed="#L" n="51"/>fententiam antiquorum, Deus vtriusque sexus nominibus fuerat nominatus, non solummodo 
+      <lb ed="#L" n="52"/>genitor, in quantum gignit &amp; agit, sed etiam genitrix, in quantum concipit &amp; conseruat 
+      pro<lb ed="#L" n="53" break="no"/>priam actionem, actum proprium immanentem, sicut primum primi plenius manifestat. Vnde 
+      <lb ed="#L" n="54"/>&amp; Ierem 50. Audite consilium Domini quod mente concepit. Et Parab. 8. Sapientia Dei, 
+      di<lb ed="#L" n="55" break="no"/>cit Dominus, possedit me in initio viarum suarum, ab aeterno ordinata sum; nondum erant 
+      a<lb ed="#L" n="56" break="no"/>byssi, &amp; ego iam concepta eram; Ante colles ego parturiebat. His itaque praelibatis 
+      verisi<lb ed="#L" n="57" break="no"/>militer dici potest, quod agens A. primam actionem, constituitur in esse agentis per suum 
+      pri<lb ed="#L" n="58" break="no"/>mum agere; Prius enim quoquomodo videtur agere, quam esse agens. Primum enim videtur 
+      <lb ed="#L" n="59"/>esse actiuum, secundum agere, tertium esse agens, non tempore, sed natura seu causa. Vel aliter 
+      <!--697.xml-->
+      <pb ed="#A" n="664"/>
+               <lb ed="#L" n="1"/>dici potest, quod agens constituitur in esse agentis per illam relationem actionis siue actiuam 
+      <lb ed="#L" n="2"/>praedictam, ita quod primum sit actiuum, secundum agere, tertium illa relatio, quartum 
+      se<lb ed="#L" n="3" break="no"/>cundum hunc ordinem esse agens. Tertio dici potest, quod non est omnino clarissimum, quod 
+      <lb ed="#L" n="4"/>nihil denominatur formaliter quoquomodo ab aliquo, nisi fuerit prius secundum naturam. 
+      <lb ed="#L" n="5"/>Aliquid enm dicitur formandum a forma futura quam recipiet, &amp; facturum refertur ad 
+      faci<lb ed="#L" n="6" break="no"/>endum, &amp; denominatur facturum a factione futura, sicut &amp; aedificans, pullificans &amp; 
+      foetifi<lb ed="#L" n="7" break="no"/>cans ab eodem pullo &amp; foetu futuris per actiones quas agunt ad ista finaliter terminandas; 
+      <lb ed="#L" n="8"/>multa quoque naturalia &amp; alia a suis effectibus, &amp; a suis accidentibus saepius nominantur. 
+      Non<lb ed="#L" n="9" break="no"/>ne &amp; Deus dicitur Creator seu creans per aliquid posterius secundum naturam? Capiatur enim 
+      <lb ed="#L" n="10"/>primum in ordine naturali creatum a Deo: tale namque est dandum; alioquin ante omne 
+      crea<lb ed="#L" n="11" break="no"/>turam &amp; creationem esset alia prior illa causaliter &amp; naturaliter sine fine contra priora. Sit 
+      er<lb ed="#L" n="12" break="no"/>go B. primum creatum a Deo; Deus igitur denominatur &amp; dicitur Creator seu creans, a qua 
+      <lb ed="#L" n="13"/>forma? &amp; per quod formale? Non per aliquod increatum aeternum, quia tunc aeternaliter 
+      <lb ed="#L" n="14"/>fuisset Creator; per aliquod ergo creatum; puta per B. vel per aliquod posterius ipso B. &amp; B. 
+      <lb ed="#L" n="15"/>&amp; omne posterius ipso, est posterius causaliter &amp; naturaliter quam Deum creare &amp; esse 
+      cre<lb ed="#L" n="16" break="no"/>antem; hoc enim est causa B. atque sequentium. Si etiam Deus omnia posteriora 
+      annihila<lb ed="#L" n="17" break="no"/>ret, per quod formale praecedens naturaliter esset annihilator, siue annihilans? Non aeternum; 
+      <lb ed="#L" n="18"/>quia tunc aeternaliter fuisset annihilans: neque nouellum; quia illud tunc esset annihilatum, 
+      <lb ed="#L" n="19"/>redactum ad nihilum &amp; non esse. Et per has fortassis &amp; huiusmodi rationes potest ostendi, 
+      <lb ed="#L" n="20"/>quod creatio actiua siue creantia non est in creante (nisi forsitan principiatiue, vel potius 
+      prin<lb ed="#L" n="21" break="no"/>cipiantiue, sicut ad modum loquendi Philosophi 4. Phys. 23. Res regni sunt in Rege, &amp; motum 
+      <lb ed="#L" n="22"/>in primo motiuo; vel secundum aliam transtationem, in primo motore; &amp; secundum Auerroe, 
+      <lb ed="#L" n="23"/>res in agente; quia tunc aliquid nouiter accideret intrinsecus Creatori, recederetque ab eo, &amp; 
+      es<lb ed="#L" n="24" break="no"/>set mutabilis) sed tantummodo in creato; &amp; quod relationes nonhabent existentiam realiter 
+      <lb ed="#L" n="25"/>positiuam a rebus absolutis, siue relatis omnino diuersam, quemadmodum ponitur a 
+      quibus<lb ed="#L" n="26" break="no"/>dam. Adhuc autem fortassis obijcies arguendo, quod creantia sit in creante, quia nihil 
+      consti<lb ed="#L" n="27" break="no"/>tuitur, informatur, aut denominatur formaliter ab aliqua forma extrinseca extra ipsum; sed 
+      <lb ed="#L" n="28"/>creans constituitur, &amp; informatur quodammodo, &amp; denominatur formaliter a creantia; est 
+      <lb ed="#L" n="29"/>ergo creantia in creante. Sed nonne in moralibus opus exterius dicitur, &amp; est bonum propter 
+      <lb ed="#L" n="30"/>bonitatem, quae est in agente, virtutem videlicet intentionem &amp; caetera moraliter requisita? Nonne 
+      <lb ed="#L" n="31"/>d&amp; secundum veritatem d&amp; secundum Philosophum 5. Met. 20. hoc dicitur &amp; est visum aut scitum 
+      <lb ed="#L" n="32"/>propter visionem aut scientia in aliquo existentem? Nonne d secundum Philosophum 5. 
+      Phys<lb ed="#L" n="33" break="no"/>10. &amp; secundum Auerroem in com. contingit quandoque, quod aliquid denominetur aliquo 
+      <lb ed="#L" n="34"/>modo nouiter relatiue, non per aliqua nouam formam aut mutationem in ipso, sed in altero 
+      relati<lb ed="#L" n="35" break="no"/>uo? Quibus &amp; // concorditer August. 5. de Trinit. vlt. ostendit, quod Deus dicitur nouiter 
+      Domi<lb ed="#L" n="36" break="no"/>nus huius rei, refugium nostrum &amp; Pater, non per aliquid quod ipsi nouiter accidit relatiue, I 
+      <lb ed="#L" n="37"/>quia tunc esset mutabilis, sicut superius arguebam, sed tantummodo illi rei, cui sic nouiter 
+      dici<lb ed="#L" n="38" break="no"/>tur relatiue. Sed nec sic fortassis desines replicare, sed dices; Non est idem, sed diuersum, 
+      ge<lb ed="#L" n="39" break="no"/>nerare &amp; generari, agere &amp; pati, percutere &amp; percuti, docere &amp; doceri, sicut &amp; esse generans &amp; 
+      <lb ed="#L" n="40"/>generatum, agens &amp; passum, percutiens &amp; percussum, docens &amp; doctum, sicut omnibus clare 
+      <lb ed="#L" n="41"/>patet. Pro isto breuiter dici potest, quod generare &amp; generari, &amp; caetera talia, sunt eadem res, &amp; 
+      <lb ed="#L" n="42"/>idem realiter absolute, // habent tamen relationes praedictas diuersas, &amp; secundum illas 
+      nomina<lb ed="#L" n="43" break="no"/>tiones correspondenter diuersas. Verum vt istud patefiat lucidius aduertendum, quod homo 
+      <lb ed="#L" n="44"/>percutiens mouet brachium &amp; gladium, seu quodlibet instrumentum applicans ad percussum; 
+      <lb ed="#L" n="45"/>percussus vero recipit passionem &amp; patitur vulnus seu ictum; Illud vero mouere in 
+      percutien<lb ed="#L" n="46" break="no"/>te &amp; gladio videtur communi iudicio esse percutere tantum non percuti; illud autem 
+      mo<lb ed="#L" n="47" break="no"/>ueri, recipere, siue pati in percusso, tantummodo percuti &amp; non percutere quouismodo. 
+      <lb ed="#L" n="48"/>Respiciendo tamen subtilius apparebit, quod illud mouere in percutiente brachio &amp; gladio, 
+      <lb ed="#L" n="49"/>non est sine moueri inseparabiliter ei annexo &amp; eis infixo; nec illud moueri in percusso est sine 
+      <lb ed="#L" n="50"/>mouere ei annexo; imo secundum praemissa, illud mouere &amp; moueri sunt idem realiter non 
+      di<lb ed="#L" n="51" break="no"/>uersa: quod clarius forte patet, si quis in vacuo manu percutiat lapidem stabilem &amp; solidum 
+      <lb ed="#L" n="52"/>non cedentem, nec aliqua specie motus motum: tunc enim illud mouere &amp; moueri, percutere &amp; 
+      <lb ed="#L" n="53"/>percuti essent in vno &amp; eodem, &amp; vnum &amp; idem realiter absolute, denominaretur tamen 
+      diuer<lb ed="#L" n="54" break="no"/>sis nominibus propter considerationes, relationes, &amp; respectus diuersos praedictos. 
+      Quaprop<lb ed="#L" n="55" break="no"/>ter neque ide est esse generans &amp; generatum respectu eiusdem, sed generans dicitur &amp; est 
+      gene<lb ed="#L" n="56" break="no"/>rans per suum generare, siue per illam relationem actiua seu causatiuam praedictam; 
+      genera<lb ed="#L" n="57" break="no"/>tum vero dicitur &amp; est generatum per suum generari, siue per relationem illam passiuam seu 
+      <lb ed="#L" n="58"/>causatiuam praemissam. His itaque iam praemissis ad primum principalium obiectorum 
+      dicen<lb ed="#L" n="59" break="no"/>dum, quod videtur supponere vnum falsum. Videtur enim supponere quod omne quod agi¬ 
+      <!--698.xml-->
+      <pb ed="#A" n="665"/>
+               <lb ed="#L" n="1"/>tur, siue producitur, agitur siue producitur per aliquod agere siue producere ipsum naturaliter 
+      <lb ed="#L" n="2"/>antecedes: quod falsum videtur, quia tunc in actionibus seu productionibus huiusmodi esset 
+      <lb ed="#L" n="3"/>processus infinitus simpliciter ascendendo contra praemissa. Tunc etiam nulla esset prima 
+      pro<lb ed="#L" n="4" break="no"/>ductio in diuinis nec aliquod primum productum, sed ante quamlibet &amp; quodlibet aliae 
+      infini<lb ed="#L" n="5" break="no"/>tae, &amp; alia infinita; quomodo ergo, secundum Philosophiam &amp; Theologiam; In principio 
+      e<lb ed="#L" n="6" break="no"/>rat verbum, i. primum omnium productorum? Imo nec vna quidem productio, nec vnum 
+      <lb ed="#L" n="7"/>productum Verbum &amp; Filium Dei praecedit, sicut puto omnes tractatores catholicos 
+      concor<lb ed="#L" n="8" break="no"/>diter profiteri; Quinimo &amp; Oxoniae est damnatum, quod cum Deus pater sit prior origine 
+      <lb ed="#L" n="9"/>filio, in illo priori potuit produxisse aliquid ante eum. Adhuc forsitan replicabis, Verbum Dei 
+      <lb ed="#L" n="10"/>est productum, ergo per aliquod producere antecedens. Sed quis praesumet filium in diuinis 
+      <lb ed="#L" n="11"/>tantum remoueri a patre, vt constituat vnum pontem, parietem, seu limitem quelibet medium 
+      <lb ed="#L" n="12"/>inter eos patre posteriorem prioremque filio? Quis aufert verbo Dei &amp; filio principium, 
+      primo<lb ed="#L" n="13" break="no"/>genitura, &amp; primatum omnium productorum? Nonne &amp; illud producere, per quod moliris 
+      <lb ed="#L" n="14"/>verbum Dei produci similiter est productum? Quapropter &amp; (vt gladio tuo te feriam) per 
+      a<lb ed="#L" n="15" break="no"/>liud producere antecedens &amp;c. sicut supra. Quamobrem &amp; maiorum meorum meliore 
+      sente<lb ed="#L" n="16" break="no"/>tia semper salua, videtur non improbabiliter dici posse, quod verbum Dei nedum est primum 
+      <lb ed="#L" n="17"/>productum, verumetiam primum producere, &amp; prima productio in diuinis, considerationibus 
+      <lb ed="#L" n="18"/>tamen, relationibus, siue respectibus supradictis quoquomodo diuersis, sicut est intelligens &amp; 
+      <lb ed="#L" n="19"/>intellectum, imo &amp; intelligere &amp; intelligi modis quoquomodo alijs seu diuersis, sicut &amp; 
+      Auer<lb ed="#L" n="20" break="no"/>roes licet balbutiendo super 12. metaphys. 39. tangit. Nonne verbum Dei est verbum 
+      perfe<lb ed="#L" n="21" break="no"/>ctissimu? Quare &amp; actualissimum, &amp; quod actualius verbum quam ipsum dicere actuale, ipsaue 
+      <lb ed="#L" n="22"/>dictio actualis: quare &amp; secundum Philosophum 12. Met. 5I. &amp; secundum Auerroem Deus 
+      <lb ed="#L" n="23"/>est intelligentia, i. actio siue agentia intelligentis ad modum loquendi Anselmi praemissum; imo 
+      <lb ed="#L" n="24"/>&amp; intelligere atque intelligi secundum eundem ibidem. Sed quae persona est dignius ista quam  
+      <lb ed="#L" n="25"/>verbum? Quibus &amp; concorditer Sapiens; Sol, inquit, intelligentiae non est ortus eis, Sapient. 5. 
+      <lb ed="#L" n="26"/>Sol intelligentiae, i. Sol qui est intelligentia intransitiue loquendo: vnde &amp; Iob. 12. Apud Deum 
+      <lb ed="#L" n="27"/>est sapientia &amp; fortitudo, ipse habet consilium &amp; intelligentiam. Super quod Greg. 11. Moral.a. 
+      <lb ed="#L" n="28"/>Haec, inquit, non incongrue de vnigenito summi Patris accipimus. Et nonne Sapientia est 
+      a<lb ed="#L" n="29" break="no"/>ctio siue agentia Sapientis, sicut intelligentia intelligentis, &amp; prouidentia prouidentis? Quare 
+      <lb ed="#L" n="30"/>&amp; Sapiens dicit de sapientia increata quod est emanatio quaedam claritatis omnipotentis Dei 
+      <lb ed="#L" n="31"/>fincera, Sap. 7. Quod etiam verbum Dei sit eius locutio actualis, &amp; no terminus eius tantum videtur 
+      <lb ed="#L" n="32"/>per Anselm. Monol. 33. sic dicentem; Nulla ratione negari potest, cum mens rationalis seipsa 
+      <lb ed="#L" n="33"/>cogitando intelligit, imaginem eius nasci in sua cogitatione, imo ipsa cogitatione sui esse suam  
+      <lb ed="#L" n="34"/>imaginem ad eius similitudine tanqua ex eius impressione formata. Habet igitur mens 
+      rationa<lb ed="#L" n="35" break="no"/>lis, cum se cogitando intelligit, secum imaginem suam ex se natam, i. cogitationem sui ad suam 
+      simili<lb ed="#L" n="36" break="no"/>tudinem quasi sua impressione formata; quae imago eius verbum eius est. Hoc itaque modo quis 
+      <lb ed="#L" n="37"/>neget summam sapientia, cum se, dicendo, intelligit, gignere consubstantiale sibi similitudine 
+      <lb ed="#L" n="38"/>sua, i. verbum suum? Qui &amp; infra 48. &amp; post diffuse trinitatem in mente nostra Cvi2. quod meminit 
+      <lb ed="#L" n="39"/>sui, cogitat seu intelligit se, &amp; amat, &amp; est memor, sic cogitans seu intelligens se &amp; amans, 
+      ha<lb ed="#L" n="40" break="no"/>betque meminisse sui, cogitare, seu intelligere &amp; amare comparat summae trinitati in Deo Patri 
+      <lb ed="#L" n="41"/>&amp; Filio &amp; Spiritu Sancto, haectria secundum ordine istis tribus; qui &amp; dicit saepissime filium esse 
+      <lb ed="#L" n="42"/>intelligentiam Dei patris; qui &amp; in hac parte sequitur Aug. 10. de trinit. 10. &amp; II. &amp; vlt. &amp; II. de 
+      <lb ed="#L" n="43"/>trinit. 1. &amp; 2. &amp; 14. de trinit. 3. 6. &amp; 8. vbi trinitatem in mente nostra repertam vi2. meminisse. 
+      <lb ed="#L" n="44"/>intelligere &amp; velle, memoriam intelligentiam &amp; voluntatem, corpus, visum, visionem 
+      actu<lb ed="#L" n="45" break="no"/>olem, &amp; voluntatem seu voluntatis intentionem haec ad inuicem copulantem diuinae assimilat 
+      <lb ed="#L" n="46"/>trinitati, &amp; intelligentiam actualem &amp; visionem actualem similiter assimilat filio verbo Dei. 
+      <lb ed="#L" n="47"/>Obiicies forsitan, Producere Dei quodcunque est productum; ergo per aliquod producens 
+      <lb ed="#L" n="48"/>praecedens, &amp; per aliquod producere antecedens: per quid enim aliud posset produci? Sed re 
+      <lb ed="#L" n="49"/>sponsum est prius. Primum namque producere Dei producitur per // productiuit quoquomodo 
+      prae<lb ed="#L" n="50" break="no"/>ced, &amp; non per aliquod producere antecedens. Veruntamem, vt videtur, illud producere primum 
+      <lb ed="#L" n="51"/>Dei prius est producere quam pductum: nam primum omnium videtur productiuum secundum 
+      pro<lb ed="#L" n="52" break="no"/>ducere, consequenter relatio productionis actiua, &amp; esse produces, &amp; relatio productionis 
+      pas<lb ed="#L" n="53" break="no"/>siua, &amp; esse productum. Sed nec si forsitan desines obiectare, dicedo; Illud producere est 
+      produ<lb ed="#L" n="54" break="no"/>ctum, ergo per aliquid; quid est illud? Si, per, significet causa productiuam siue actiua, per Dei 
+      sspro<lb ed="#L" n="55" break="no"/>ductiuu &amp; potentia eius actiua; si causa formalem, no habet causam formalem productam 
+      pri<lb ed="#L" n="56" break="no"/>orem, sed ipsum est prima forma producta, sicut &amp; de // primo actu Angeli hominisue 
+      appa<lb ed="#L" n="57" break="no"/>ret. Quapropter &amp; Augustinus 83. quaestionum, quaestione 23. dicit, quod similitudo Patris, 
+      <lb ed="#L" n="58"/>scil. filius est prima species &amp; prima forma, qua specificata &amp; formata sunt omnia. Verum 
+      <lb ed="#L" n="59"/>adhuc pro prima principali argutia absolutius dissoluenda, specialiter aduertendum, quod 
+      <!--699.xml-->
+      <pb ed="#A" n="666"/>
+               <lb ed="#L" n="1"/>volutio Dei ad extra producitur per intelligere Dei quoquomodo procedens, sed illud 
+      intelli<lb ed="#L" n="2" break="no"/>gere non causat necessario illud velle, sicut praecedentia manifestant. Pro secunda argutia 
+      <lb ed="#L" n="3"/>principali sciendum, quod duplex est velle in Deo, ad intra, videlicet, &amp; ad extra. Ad intra, 
+      <lb ed="#L" n="4"/>quo vult seipsum &amp; amat: ad extra, quo vult &amp; amat extrinseca, efficit, &amp; conseruat; &amp; 
+      v<lb ed="#L" n="5" break="no"/>trumque istorum velle producit Deus voluntarie, sed diuersimode: Primum producit 
+      volun<lb ed="#L" n="6" break="no"/>tarie, quia per voluntatem propriam spontaneam non inuitam, nec violenter coactam, non 
+      <lb ed="#L" n="7"/>tamen libere libertate contradictionis, sed necessario necessitare opposita, sicut &amp; spiritum 
+      <lb ed="#L" n="8"/>sanctum spirat, qui secundum praemissa, d&amp; secundum Augustinum 15. de Trinitate. 20. 
+      vo<lb ed="#L" n="9" break="no"/>luntas Dei, sicut &amp; charitas, maxime proprie appellatur. Secundum autem velle producit 
+      <lb ed="#L" n="10"/>Deus voluntarie, quia per voluntatem propriam spontaneam, non inuitam; sed liberam, 
+      se<lb ed="#L" n="11" break="no"/>cundum contradictionem, sicut praecedentia docuerunt. Nec existo consequitur, quod 
+      om<lb ed="#L" n="12" break="no"/>nem talem actum prius naturaliter velit producere quam pducat; sicut nec de homine quid 
+      <lb ed="#L" n="13"/>volente; alias etenim esset processus in volutionibus talibus infinitus contra priora; imo ad 
+      <lb ed="#L" n="14"/>producendum voluntatie talem actum sufficit voluntas, potentia scilicet volutiua sufficienter 
+      <lb ed="#L" n="15"/>disposita. Sed hic potest quis non improbabiliter sic instare. Sit A. primum velle Dei ad 
+      ex<lb ed="#L" n="16" break="no"/>tra; Deus ergo producit A. ergo per aliquid ipsum naturaliter antecedens; &amp; per quid, nisi 
+      <lb ed="#L" n="17"/>per aliud velle respectu illius? Dicitque Anselmus de casu Diaboli 12. quicquid se mouet ad  
+      <lb ed="#L" n="18"/>volendum, prius vult se ita mouere. Rursus autem Deus vult A. Vult enim &amp; amat omnia 
+      <lb ed="#L" n="19"/>bona quae habet, &amp; magis vt videtur, &amp; charius vult &amp; amat quodlibet bonum suum 
+      intrinse<lb ed="#L" n="20" break="no"/>cum, quam aliud bonum extrinsecum, quam muscam, aut folium, seu festucam; ergo &amp;s 
+      pri<lb ed="#L" n="21" break="no"/>us ordine naturali. Adhuc autem &amp; per vicesimum secundum primi, quemlibet actum suum 
+      <lb ed="#L" n="22"/>volendi vult Deus; vult ergo istum actum suum volendi per alium, &amp; illum per alium, &amp; sic 
+      <lb ed="#L" n="23"/>semper deinceps; habet ergo Deus actus volendi simpliciter infinitos, &amp; non inordinatos 
+      <lb ed="#L" n="24"/>penitus &amp; confusos, propter praemissa primo, &amp; vicesimo sexto primi. Quemlibet ergo 
+      a<lb ed="#L" n="25" break="no"/>ctum huiusmodi praecedit naturaliter alius talis actus, &amp; illum alius adhuc talis, &amp; sic infinite 
+      <lb ed="#L" n="26"/>simpliciter ascendendo. Quilibet ergo actus voluntatis diuinae producitur ab actu alio 
+      prae<lb ed="#L" n="27" break="no"/>cedente, quo posito, cum potentia plena Dei necessario sequitur ipsum produci: Quilibet 
+      er<lb ed="#L" n="28" break="no"/>go actus voluntatis diuinae producitur ex necessitate naturaliter praecedente &amp;c. sicut supra, 
+      <lb ed="#L" n="29"/>Pro istis autem sciendum, quod quidam non abhorrent concedere processum in 
+      volutioni<lb ed="#L" n="30" break="no"/>bus Dei talibus taliter infinitum. Sed nonne superius est ostensum, non esse processum 
+      infini<lb ed="#L" n="31" break="no"/>tum in essentialiter ordinatis in actu secundum sub &amp; supra, aut secundum prius &amp; posterius 
+      <lb ed="#L" n="32"/>ordine naturali? Secundum istos quoque in causis efficientibus siue agentibus essentialiter 
+      or<lb ed="#L" n="33" break="no"/>dinatis modo praedicto est processus simpliciter infinitus, cum quaelibet volutio talis Dei sit 
+      <lb ed="#L" n="34"/>causa actiua, &amp; agens hunc effectum extrinsecum, vel causam esse ipsius. Adhuc autem &amp; 
+      <lb ed="#L" n="35"/>cum quaelibet talis volutio sit forma quaedam &amp; species, in causis formalibus est processus 
+      simi<lb ed="#L" n="36" break="no"/>liter infinitus, contra Philosophiam &amp; Philosorhos plurimos multis locis. Cui etiam 
+      dubi<lb ed="#L" n="37" break="no"/>um, quin Deus prius velit seipsum, quam aliquid extra ipsum, cum ipse sit finis omnium, &amp; 
+      <lb ed="#L" n="38"/>finis primario intendatur, &amp; caetera propter finem? Quare &amp; dicit Sapiens sapienter; 
+      Vniuer<lb ed="#L" n="39" break="no"/>sa propter seipsum operatus est Dominus, Parab. 16. Sit ergo A. volutio, qua Deus vult 
+      se<lb ed="#L" n="40" break="no"/>ipsum, &amp; B. volutio, qua immediate vult producere hunc effectum; B. ergo volutio 
+      produci<lb ed="#L" n="41" break="no"/>tur per aliam immediate priorem, &amp; illa per aliam, &amp; ita deinceps ascendendo superius in 
+      vo<lb ed="#L" n="42" break="no"/>lutionibus talibus infinite, quae omnes sunt posteriores A. volutione praedicta. Sed 
+      quomo<lb ed="#L" n="43" break="no"/>do, positis terminis &amp; extremis, puta A. &amp; B. interponuntur media actualia infinita 
+      essentia<lb ed="#L" n="44" break="no"/>liter ordinata, &amp; hoc in causis agentibus formalibus atque finalibus, contra Philosophum 2. 
+      <lb ed="#L" n="45"/>MM etaphys. 5? &amp; deinceps, Nonne &amp; vbicunque contingit accipere duo extrema aliquorum  
+      <lb ed="#L" n="46"/>in actu essentialiter ordinatorum secundum prius &amp; posterius seriose, contingit accipere &amp; 
+      <lb ed="#L" n="47"/>omnia media? Quare &amp; aliqua est tota multitudo extremorum illorum, &amp; omnium pariter 
+      <lb ed="#L" n="48"/>mediorum; &amp; illa est necessario simpliciter infinita, contra praemissa parte quadragesima 
+      <lb ed="#L" n="49"/>primi; &amp; capit. septimo primi libri. Sit insuper C. illa multitudo totalis; C. igitur 
+      multitu<lb ed="#L" n="50" break="no"/>dine potest esse &amp; est aliqua multitudo maior, aliqua quoque minor, &amp; nihilominus infinita; 
+      <lb ed="#L" n="51"/>cur ergo est tantae quantitatis praecisae? Videtur quoque quod minor sufficeret; cur ergo 
+      su<lb ed="#L" n="52" break="no"/>perflue ponitur ista tanta? Amplius autem secundum istos, nullum est primum contingens ad  
+      <lb ed="#L" n="53"/>vtrumlibet siue aequaliter, nec aliquis primus actus liber contradictoria libertate. Imo &amp; 
+      se<lb ed="#L" n="54" break="no"/>cundum istos nullus actus est contingens aequaliter simpliciter, nec liber secundum 
+      contradi<lb ed="#L" n="55" break="no"/>ctionem simpliciter, sed quilibet necessarius quodammodo necessitate naturaliter 
+      praeceden<lb ed="#L" n="56" break="no"/>te. Detur enim A. actus contingens aequaliter simpliciter, &amp; liber simpliciter secundum 
+      con<lb ed="#L" n="57" break="no"/>tradictionem in Deo; sed A. est vnum velle Dei, seu vna volutio; quare &amp; secundum 
+      hypo<lb ed="#L" n="58" break="no"/>thesin Deus habet aliud velle praecedens // respectu illius, &amp; illo velle praecedente Dei po¬ 
+      <!--700.xml-->
+      <pb ed="#A" n="667"/>
+               <lb ed="#L" n="1"/>sito cum potentia Dei plena, necessario sequitur A. produci; A. ergo secundum praemissa est 
+      <lb ed="#L" n="2"/>actus necessarius necessitate naturaliter praecedente, &amp; non simpliciter contingens aequaliter  
+      <lb ed="#L" n="3"/>nec liber. Ad haec autem cum secundum praemissa sp. sanctus dicatur proprie voluntas, 
+      chari<lb ed="#L" n="4" break="no"/>tas, &amp; amor in Deo, quis audeat dicere ipsum non esse primam voluntatem, charitatem, &amp;  
+      <lb ed="#L" n="5"/>amorem in Deo, sed ipsum praecedi ab alijs infinitis, ab vnaue alia voluntate, ab alia 
+      charita<lb ed="#L" n="6" break="no"/>te, ab aliove amore producta prius causaliter seu producto? Sicut enim filius Dei est primum. 
+      <lb ed="#L" n="7"/>verbum, &amp; primus actus diuini intellectus, sic &amp; spiritus sanctus diuini affectus. Cum ergo 
+      <lb ed="#L" n="8"/>spiritus sanctus sit prima Dei voluntas procedens a Deo, qua vult seipsum, aliqua est eius 
+      vo<lb ed="#L" n="9" break="no"/>luntas immediata &amp; proxima ab ipsa procedens ipsamque sequens, qua vult A. seu aliud 
+      quod<lb ed="#L" n="10" break="no"/>cunque signatum. Sicut enim hanc voluntatem vltimam, qua Deus vult immediate hoc 
+      sig<lb ed="#L" n="11" break="no"/>natum, vna alia voluntas diuina immediate praecedit: sic, vt videtur, simili ratione illi primae 
+      <lb ed="#L" n="12"/>voluntati diuinae aliqua alia immediate succedit; non sunt ergo infinitae voluntates 
+      huiusmo<lb ed="#L" n="13" break="no"/>di mediae per praemissa. Si insuper in volutionibus Dei sit processus huiusmodi infinitus; &amp; 
+      <lb ed="#L" n="14"/>in intellectionibus, intelligentijsve ipsius similiter, vt videtur, simili ratione. Intellectio 
+      <lb ed="#L" n="15"/>namque lapidis in Deo gignitur seu agitur; ergo per gignitionem seu actionem aliquam 
+      prae<lb ed="#L" n="16" break="no"/>cedentem, &amp; sic semper ascendendo superius infinite, sicut isti de diuinis volutionibus 
+      argu<lb ed="#L" n="17" break="no"/>mentant: quae enim alia actio quam intellectio poneretur, illa actio, per quam intellectio 
+      ge<lb ed="#L" n="18" break="no"/>neratur contra praemissa? Tunc etiam non esset aliquod verbum Dei primum, sed ante 
+      quod<lb ed="#L" n="19" break="no"/>libet alia infinita: secundum hoc quoque non essent aliquae primae formae rerum in Deo, 
+      hul<lb ed="#L" n="20" break="no"/>lae primae species, idaeae, exemplaria, nec vllae originales &amp; primariae rationes. Puto igitur 
+      ali<lb ed="#L" n="21" break="no"/>ter respondendum. Cum ergo instatur, Deus producit A. primum velle suum ad extra, ergo 
+      <lb ed="#L" n="22"/>per aliquid ipsum naturaliter antecedens: verum est, per intellectionem &amp; potentiam 
+      volu<lb ed="#L" n="23" break="no"/>tiuam ipsum quodammodo causaliter praecedentem. Et si replices, Deus producit A. ergo 
+      <lb ed="#L" n="24"/>per aliquid antecedens, quo posito, necessario sequitur A. produci: non est verum, sicut 
+      <lb ed="#L" n="25"/>praehabita declarabant; potestque Anselmus exponi, quod quicquid mouet se ad volendum, 
+      <lb ed="#L" n="26"/>prius vult se ita mouere; hoc est, prius habet voluntatem habitualem volutiuam ita mouere. 
+      <lb ed="#L" n="27"/>Ad illud vero quod arguitur consequenter, quod Deus prius natura vult A. primum 
+      videli<lb ed="#L" n="28" break="no"/>cet suum velle ad extra, quam illud extrinsecum volutum, potest multipliciter responderi, 
+      <lb ed="#L" n="29"/>Primo dicerent aliqui, quod etsi prius velit A. quam illud volutum quod sit B. non tamen 
+      <lb ed="#L" n="30"/>per aliud velle, sed per idem; dicerent insuper quod eodem amore amat, &amp; vult se &amp; caetera: 
+      <lb ed="#L" n="31"/>sicut &amp; eodem verbo dicit se &amp; caetera, sicut Anselmus Monolog. 33. &amp; 34. docet. Adhuc 
+      <lb ed="#L" n="32"/>autem, neque si quis magis &amp; charius vult &amp; amat A. quam B. ideo consequens est, vt prius 
+      <lb ed="#L" n="33"/>velit &amp; amet A. quam B. ordine naturali, sicut de inordinatis ad inuicem in amore &amp; in 
+      parti<lb ed="#L" n="34" break="no"/>bus plane constat: imo &amp; aliquibus forsitan videretur, quod si A. sit velle Dei ad extra 
+      respe<lb ed="#L" n="35" break="no"/>ctu B. voluti, &amp; Deus velit alterum horum prius, quod prius quodammodo vult B. quam A. 
+      <lb ed="#L" n="36"/>quatenus A. est talis volutio: in omnibus namque volutis secundum seriem ordinatis, prius 
+      <lb ed="#L" n="37"/>videtur volutum propter posterius, potius quam e contra: Sit ergo C. volutio Dei qua vult 
+      <lb ed="#L" n="38"/>A. &amp; prior A. secundum hypothesin; horum ergo trium secundum seriem positorum C. A. B. 
+      <lb ed="#L" n="39"/>A. videtur volutum propter B. non e contra. Quis etiam diceret Deum aut hominem velle 
+      <lb ed="#L" n="40"/>obiectum propter ipsam volutionem obiecti, quin potius e contra? Veruntamen mihi 
+      vide<lb ed="#L" n="41" break="no"/>tur, quod Deus primo vult seipsum, &amp; secundo caetera ad &amp; propter seipsum: nec videtur 
+      <lb ed="#L" n="42"/>mihi necessarium ponere voluntatem aliquam mediam inter istas: non enim audeo ceruicem 
+      <lb ed="#L" n="43"/>in tantum erigere, vt ab omnipotente Deo negem posse post volutionem, qua primo vult 
+      se<lb ed="#L" n="44" break="no"/>ipsum, secundo immediate velle extrinseca, vel aliquid extrinsecum ad seipsum: Si quis 
+      ta<lb ed="#L" n="45" break="no"/>men sit consiliarius Dei in tantum, vt securus audeat ponere voluntatem mediam inter istas, 
+      <lb ed="#L" n="46"/>qua videlicet Deus velit se velle extrinseca, vitet processum infinitum in voluntatibus talibus 
+      <lb ed="#L" n="47"/>essentialiter ordinatis, &amp; superfluitatem ponendi plura, vbi sufficiunt pauciora; &amp; secundum 
+      <lb ed="#L" n="48"/>ipsum videtur consequenter dicendum, quod sola talis volutio media si sit vnica, aut prima 
+      <lb ed="#L" n="49"/>omnium csi sint multae, tamen finitae) est simpliciter contingens aequaliter, &amp; simpliciter 
+      li<lb ed="#L" n="50" break="no"/>bera secundum contradictionem; aliam tamen partem reputo veriorem. Quod autem 
+      oppo<lb ed="#L" n="51" break="no"/>nitur vltimo, quod Deus quamlibet voluntatem suam vult, quare &amp; habet infinitam 
+      multitu<lb ed="#L" n="52" break="no"/>dinem voluntatum ordinatarum essentialiter secundum prius &amp; posterius, sub &amp; supra; 
+      po<lb ed="#L" n="53" break="no"/>test similiter obijci de cognitione diuina, quod quia quamlibet cognitionem suam cognoscit, 
+      <lb ed="#L" n="54"/>ideo habet cognitiones huiusmodi infinitas: quomodo etiam sequitur, Deus habet 
+      volunta<lb ed="#L" n="55" break="no"/>tes infinitas ordinatas, ergo hoc ordine ordinatas, semper videlicet a voluntate accepta supe 
+      <lb ed="#L" n="56"/>rius ascendendo? Cur enim sic potius quam inferius descendendo, sicut de cognitionibus 
+      <lb ed="#L" n="57"/>cognitionum in eo, vel saltem in creaturis magis videtur? Aut cur sic potius quam coaeve, 
+      <lb ed="#L" n="58"/>coaequaliter, seu collateraliter procedendo, sicut videtur esse de infinitis eius volutionibus 
+      <!--701.xml-->
+      <pb ed="#A" n="668"/>
+               <lb ed="#L" n="1"/>propriis respectu infinitorum punctorum in linea circulari, vel respectu vnitatum 
+      infinita<lb ed="#L" n="2" break="no"/>rum secundum nullam causalitatem, dependentiam, aut ordinem essentialem ad inuicem 
+      <lb ed="#L" n="3"/>coniunctarum? Aliter posset dici, quod Deus eadem voluntate vult seipsum &amp; caetera 
+      vni<lb ed="#L" n="4" break="no"/>uersa, &amp; suam quamlibet voluntatem, sicut &amp; eodem verbo dicit seipsum, &amp; creata vniuersa 
+      <lb ed="#L" n="5"/>sicut superius dicebatur. Veruntamen multiplicando &amp; distinguendo quodammodo 
+      volun<lb ed="#L" n="6" break="no"/>tatem diuinam secundum multitudinem &amp; distinctionem volutorum, secundum respectum, 
+      <lb ed="#L" n="7"/>considerationem seu etiam rationem, sicut Plato &amp; antiqui multiplicant &amp; distinguunt 
+      cog<lb ed="#L" n="8" break="no"/>nitionem diuinam per idaeas, formas, species, seu etiam rationes in mente diuina, secundum 
+      <lb ed="#L" n="9"/>multitudinem &amp; distinctionem multiplicem cognitorum; sicut etiam Augustinus Platonem 
+      <lb ed="#L" n="10"/>imitans in hac parte 83. quaestionum 46. dicit, Restat vt omnia ratione sint condita, nec 
+      ea<lb ed="#L" n="11" break="no"/>dem ratione homo qua equus; hoc enim absurdum est existimare: singula ergo proprijs 
+      <lb ed="#L" n="12"/>sunt creata rationibus; has autem vbi esse arbitrandum est, nisi in ipsa mente creatoris? Sic 
+      <lb ed="#L" n="13"/>inquam, multiplicando &amp; distinguendo voluntatem diuinam, non improbabiliter dici potest 
+      <lb ed="#L" n="14"/>Deum velle rem istam per vnam voluntatem propriam, &amp; velle illam voluntatem siue 
+      volu<lb ed="#L" n="15" break="no"/>tionem per aliam, &amp; sic infinite deinceps, quod tamen hae voluntates non sint essentialiter  
+      <lb ed="#L" n="16"/>ordinatae superius ascendendo, secundum posterius &amp; prius, sub &amp; supra, sed sunt collaterales 
+      <lb ed="#L" n="17"/>inuicem &amp; coaeuae, sicut de voluntatibus infinitis punctorum &amp; vnitatum superius dicebatur; 
+      <lb ed="#L" n="18"/>alicui tamen fortassis nequaquam impossibile videretur, quod in voluntatibus &amp; 
+      complacen<lb ed="#L" n="19" break="no"/>tijs talibus esset infinitus processus secundum prius &amp; posterius, inferius quodammodo 
+      de<lb ed="#L" n="20" break="no"/>scendendo: talis enim processus non cogit, quin sit aliquis primus actus contingens &amp; liber, 
+      <lb ed="#L" n="21"/>&amp; simpliciter contingens aequaliter atque liber, nec ad inconuenientias alias prius tactas. Et  
+      <lb ed="#L" n="22"/>has forsitan voluntates tam mirabiliter multiplicatas intuens Propheta dicebat, magna opera 
+      <lb ed="#L" n="23"/>Domini exquisita in omnes voluntates eius: nunquid tamen aliquae sint omnes huiusmodi 
+      <lb ed="#L" n="24"/>voluntates in Deo, potest disputatiue inquiri, sicut de eius cognitionibus 7. primi fuerat 
+      in<lb ed="#L" n="25" break="no"/>quisitum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

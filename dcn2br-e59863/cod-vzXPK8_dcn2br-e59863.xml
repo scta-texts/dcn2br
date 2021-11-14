@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="449"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e59863"><!-- l2c3 -->
+            <head xml:id="dcn2br-e59863-Hd1e106">Caput 3</head>
+            <p xml:id="dcn2br-e59863-d1e109">
+      <!--482.xml-->
+               <pb ed="#A" n="449"/>
+               <lb ed="#L" n="1"/>CAP. III. 
+      <lb ed="#L" n="2"/>Quod nulla causa inferior potest necessitare voluntatem crea¬ 
+      <lb ed="#L" n="3"/>tam ad rationalem &amp; liberum actum suum ad meri¬ 
+      <lb ed="#L" n="4"/>tum proprie, vel peccatum. 
+      </p>
+            <p xml:id="dcn2br-e59863-d1e125">
+               <lb ed="#L" n="5"/>COnsequenter autem restat ostendere, quod nulla causa 
+      inferi<lb ed="#L" n="6" break="no"/>or, vel secunda, potest necessitate voluntatem creatam ad 
+      <lb ed="#L" n="7"/>rationalem &amp; liberum actum suum, ad meritum proprie vel 
+      <lb ed="#L" n="8"/>peccatum. Nam secundum primo huius ostensa, creatura 
+      ra<lb ed="#L" n="9" break="no"/>tionalis est liberi atbitrij, &amp; naturaliter libera; Imo &amp; ita 
+      <lb ed="#L" n="10"/>libera, sicut creatura irrationalis est naturaliter necessaria; 
+      <lb ed="#L" n="11"/>seu necessitabilis siue serua. Sed haec est tam necessitabilis &amp; 
+      <lb ed="#L" n="12"/>erua naturaliter quod potest necessitari a causa secunda; 
+      er<lb ed="#L" n="13" break="no"/>o &amp; ipsa tam libera quod non potest necessitari ab aliqua 
+      cau<lb ed="#L" n="14" break="no"/>a secunda: Si enim bestia necessitetur ab aliqua causa secunda, 
+      <lb ed="#L" n="15"/>necessitabitur a qualibet fortiori; quare nec ab illa, nec ab 
+      a<lb ed="#L" n="16" break="no"/>liqua fortiori causa secunda necessitabitur voluntas creata, multo magis nec a debiliori 
+      qua<lb ed="#L" n="17" break="no"/>cunque: Item si voluntas humana posset necessitari per aliquam causam secundam, hoc 
+      plu<lb ed="#L" n="18" break="no"/>rimum videretur per stellas, &amp; virtutes coelestes, quae videntur habere efficaciam maximam 
+      <lb ed="#L" n="19"/>in subiecta, etiam in homines, in tantum, vt periti in Astrologia &amp; alijs scientijs indiciarijs in 
+      <lb ed="#L" n="20"/>influentia coelesti fundatis videantur frequenter praedicere ipsorum mores &amp; actus. Sed istud 
+      <lb ed="#L" n="21"/>non congruit rationi: Stellae namque &amp; virtutes coelestes sunt res materiales &amp; irrationales; 
+      A<lb ed="#L" n="22" break="no"/>nima autem humana rationalis &amp; immaterialis, sicut Philosophi &amp; Theologi contestantur. 
+      <lb ed="#L" n="23"/>quare perfectior &amp; superior naturaliter quam res illae. Constat autem esse contrarium ordini 
+      <lb ed="#L" n="24"/>naturali. vt immateriale materiali, rationale irrationali perfectius imperfectiori, &amp; 
+      supe<lb ed="#L" n="25" break="no"/>rius inferiori necessario supponatur, &amp; per irrationalem motum eius ordinetur in omnibus 
+      <lb ed="#L" n="26"/>&amp; regatur, praesertim in proprio scilicet rationali &amp; libero actu suo. Quis enim nisi forsitan 
+      <lb ed="#L" n="27"/>asinus, dixerit asinum debere naturaliter regere hominem, non e contra? aut quis 
+      irrationabi<lb ed="#L" n="28" break="no"/>lior asino dixerit rem inanimatam imperfectiorem asino debere naturaliter hominem 
+      regu<lb ed="#L" n="29" break="no"/>lare? non sic autem, non sic; sed contrarium ordinem naturalem naturaliter experimur, quem  
+      <lb ed="#L" n="30"/>&amp; omnes Philos. contestantur, qui &amp; Gen. primo exprimitur euidenter. Nec solum videmus 
+      <lb ed="#L" n="31"/>hominem ipsa insensibilia, &amp; irrationalia debere naturaliter regulare, verum inter ipsos 
+      homi<lb ed="#L" n="32" break="no"/>nes sapientem insipientem, &amp; magis sapientem minus sapientem ordine congruo regulare 
+      de<lb ed="#L" n="33" break="no"/>bere. Quare &amp; dicit Philo. 1. Met. principalior est subseruiente magis esse sapientiam? Non enim 
+      <lb ed="#L" n="34"/>ordinari oportet sapientem, sed ordinare, neque hunc ab altero, sed ab hoc minus sapienten 
+      sua<lb ed="#L" n="35" break="no"/>deri. Et 6. Eth. 6. dicit, quod sapientia est quemadmodum caput habens scientiam // 
+      honorabilissimo<lb ed="#L" n="36" break="no"/>rim, &amp; I. polit. 1. Principans inquit, &amp; subiectum natura propter salutem. Quod enim potest, mente 
+      <lb ed="#L" n="37"/>praevidere principans natura &amp; dominans natura, quod &amp; consequenter 2. &amp; 3. 6. manifestat; 
+      <lb ed="#L" n="38"/>&amp; infra 3. 9. Qui intellectum iubet principari, videtur iubere principari Deum, &amp; leges: qui 
+      au<lb ed="#L" n="39" break="no"/>tem hominem iubet, apponit &amp; bestia: qui &amp;5 Eth. II. Non si minus inquit principari hominem, 
+      <lb ed="#L" n="40"/>sed rationem. In secreto quoque secretorum partis 3. 5. Dicitur quod inuentu est scriptum in vno 
+      la<lb ed="#L" n="41" break="no"/>pide lingua Chaldaea, Rex &amp; Intellectus sunt fratres. Quare &amp; sapientissimus Regum terrae, 
+      lntel<lb ed="#L" n="42" break="no"/>ligens, inquit, gubernacula possidebit. Parab. 1. &amp; Augustinus, 1. de libero arbitrio 16. 
+      Irratio<lb ed="#L" n="43" break="no"/>nabilibus, inquit, animae motibus cum ratio dominatur ordinatus homo dicendus est. Neque 
+      <lb ed="#L" n="44"/>enim ordo rectus, aut ordo appellandus omnino est, vbi deterioribus meliora subijciuntur. 
+      <lb ed="#L" n="45"/>Ratio ista ergo vel mens, vel spiritus cum irrationales animi motus regit, id dominatur in 
+      <lb ed="#L" n="46"/>homine, cui dominatio aeterna lege debetur. Et infra 19. ostenso quod nullus animus 
+      vitio<lb ed="#L" n="47" break="no"/>sus animum virtuosum valeat superare subiungit, iam corpore omni qualemlibet 
+      ani<lb ed="#L" n="48" break="no"/>mum meliorem, potentioremque esse non te arbitror negaturum: Nemo id negat qui quod 
+      <lb ed="#L" n="49"/>facile est, videt, aut substantiam viuentem non viuenti, aut eam quae vitam dat, ei quae 
+      acci<lb ed="#L" n="50" break="no"/>pit, esse praeferendam: Multo minus ergo corpus, qualecunque id sit, animum virtute 
+      <lb ed="#L" n="51"/>praedictum vincit. Finget forsitan aliquis respondendo corpora caelestia esse animata 
+      <lb ed="#L" n="52"/>&amp; perfectiora hominibus animatis; quare &amp; satis congruere ordini naturali, quod ipsa 
+      <lb ed="#L" n="53"/>hominibus dominetur. Verum si sint animata, vel anima materiali &amp; extensa, vel im¬ 
+      <!--483.xml-->
+      <pb ed="#A" n="450"/>
+               <lb ed="#L" n="1"/>materiali &amp; indiuisibili; si materiali illa necessario est irrationalis, &amp; imperfecti¬ A 
+      <lb ed="#L" n="2"/>or anima hominis immateriali &amp; rationali, sicut plurima Philosophia testatur, 
+      qua<lb ed="#L" n="3" break="no"/>re &amp; ipsa imperfectiora hominibus. Talis insuper anima in sphaera coelesti vel stella 
+      Phi<lb ed="#L" n="4" break="no"/>losophice reprobatur. Si autem dicatur animata anima rationali puta intelligentia, adhuc non 
+      <lb ed="#L" n="5"/>vitat: Non enim // agunt in inferiora &amp; homines per animam illam immediate, cum ipsa sit 
+      <lb ed="#L" n="6"/>tantum in coelo; sed tantum per aliquam virtutem materialem &amp; irrationalem 
+      defluen<lb ed="#L" n="7" break="no"/>tem ab eis in medium &amp; in homines animasque humanas, puta per lumen, vel motum. 
+      Ip<lb ed="#L" n="8" break="no"/>samet quoque intelligentia, etsi esset immediate applicata ad animam hominis, non posset 
+      <lb ed="#L" n="9"/>eam necessitare ad velle, quia nec per suam solam substantiam, neque per aliquem suum 
+      <lb ed="#L" n="10"/>actum: Non per solam suam substantiam, cum ipsa per se sit indifferens ad causandum 
+      <lb ed="#L" n="11"/>velle, &amp; nolle, &amp; vnum velle &amp; aliud: Nec per aliquem suum actum, cum quilibet actus 
+      <lb ed="#L" n="12"/>eius sit accidens, quare &amp; imperfectior, inferior, &amp; impotentior naturaliter anima 
+      homi<lb ed="#L" n="13" break="no"/>nis. Vna etiam intelligentia non potest necessitare aliam ad volendum, quare nec 
+      homi<lb ed="#L" n="14" break="no"/>nem. Si etiam coelum per huiusmodi animam posset necessitare hominem ad bonum; ita 
+      <lb ed="#L" n="15"/>&amp; ad malum: Multi namque per quasdam stellas tam fortiter inclinantur ad malum, sicut 
+      <lb ed="#L" n="16"/>alij per alias inclinantur ad bonum, sicque sancti Angeli cum nulli alij sint in coelo 
+      impelle<lb ed="#L" n="17" break="no"/>rent homines ad peccatum. Quare &amp; Augustinus 3. de libero arbitrio 19. probat, &amp; tenet. 
+      <lb ed="#L" n="18"/>quod neque libido, nec animus vitiosus, nec corpus, nec animus vel mens habens virtutem 
+      <lb ed="#L" n="19"/>potest aliam mentem virtuosam ab arce virtutis deijcere, &amp; libidini subiugare; &amp; subdit, 
+      <lb ed="#L" n="20"/>Quare illud restat vt respondeas; si potes, vtrum tibi videatur rationabili &amp; sapienti mente 
+      <lb ed="#L" n="21"/>quicquam esse praestantius. Nihil praeter Deum arbitror; &amp; mea ista sententia est. Item 
+      <lb ed="#L" n="22"/>tunc Angeli essent animae; Coelum quoque posset, seu potuisset mereri, &amp; peccare, 
+      salua<lb ed="#L" n="23" break="no"/>ri atque damnari, beatificari, &amp; miserum fieri, quare &amp; esset proximus noster, &amp; sicut 
+      prox<lb ed="#L" n="24" break="no"/>imus ab hominibus diligendum. Sed haec esse deliramenta &amp; phantasmata vana quis 
+      Phi<lb ed="#L" n="25" break="no"/>losophorum, aut Theologorum, vulgariumue ignoret? Quare &amp; <name xml:id="dcn2br-e59863-Nd1e291">Stephanus Parisiensis, 
+        <lb ed="#L" n="26"/>Episcopus</name> damnauit articulum affirmantem, <quote xml:id="dcn2br-e59863-Qd1e297" source="http://scta.info/resource/z88d99-avn8u2-d1e846@1-21">quod corpora coelestia mouentur a principio 
+      <lb ed="#L" n="27"/>intrinseco quod est Anima, &amp; quod mouentur per animam &amp; per virtutem appetitiuam, 
+      <lb ed="#L" n="28"/>sicut animal</quote>; &amp; alium astruentem quod anima coeli est intelligentia; &amp; orbes coelestes non 
+      <lb ed="#L" n="29"/>sunt instrumenta intelligentiarum sed organa, sicut auris, &amp; oculus est instrumentum 
+      vir<lb ed="#L" n="30" break="no"/>tutis sensitiuae; &amp; alium asserentem, quod natura quae est principium motus in corporibus 
+      <lb ed="#L" n="31"/>coelestibus est intelligentia mouens; error, inquiens, si intelligitur de natura intrinseca; 
+      <lb ed="#L" n="32"/>quae est actus vel forma. Item experientia docet contrarium: Capta namque conceptione, vel 
+      <lb ed="#L" n="33"/>natiuitate alicuius optima vel pessima quoad mores, potest per parentes, per amicos per 
+      se<lb ed="#L" n="34" break="no"/>ipsum contrarie educari, &amp; in contrarijs moribus confirmati; sicut posset, qui vellet, 
+      faci<lb ed="#L" n="35" break="no"/>liter experiri, multique Astrologi multipliciter sunt experti. Vnde Pater Philosophorum 
+      <lb ed="#L" n="36"/>Hermes de Coelo &amp; mundo 9. agens de potestate Planetarum super hominem a tempore 
+      <lb ed="#L" n="37"/>conceptus vsque ad tempus partus, &amp; ab illo vsque ad tempus mortis, sic ait: Haec 
+      pote<lb ed="#L" n="38" break="no"/>stas naturalis apta a primordio format &amp; operatur, &amp; naturam humanam non lege 
+      coactio<lb ed="#L" n="39" break="no"/>nis sed amicitiae moderatur. Natura enim humana ex ipsa superiorum potestate nec talis, nec 
+      <lb ed="#L" n="40"/>talis efficitur, sed aptitudinem naturalem &amp; solam fortitur, vnde postmodum natura vel 
+      vi<lb ed="#L" n="41" break="no"/>ta qualitates vel actus tales vel tales potentius suscipit. Quare &amp; dicit Ptolomaeus in 
+      centi<lb ed="#L" n="42" break="no"/>logio verbo primo: Haec indicia, quae tibi trado, sunt inter necessarium &amp; possibile, hoc 
+      <lb ed="#L" n="43"/>est apud eum qui rerum naturas, &amp; stellarum opus considerat, &amp; verbo 5. Astrologus 
+      opti<lb ed="#L" n="44" break="no"/>mus multum malum prohibere poterit, quod secundum stellas venturum est, cum eius 
+      <lb ed="#L" n="45"/>naturam praesciuerit, &amp; verbo 95. Fere semper accidit, vt id quod ascendit in omni facie 
+      <lb ed="#L" n="46"/>harum figurarum, simile sit operi eius: Facies figuratum singularum, id est, signorum 
+      sin<lb ed="#L" n="47" break="no"/>gulorum sunt tres secundum totidem denarios graduum distributae. Super quod Haly in 
+      <lb ed="#L" n="48"/>commento sic ait, Figurae quae ascendunt cum faciebus scriptae sunt in Dazange, // nec non 
+      <lb ed="#L" n="49"/>&amp; Indi commendant eas, &amp; alijs indicijs praeferunt. Ego quippe vidi quosdam qui 
+      indi<lb ed="#L" n="50" break="no"/>cabant per illas in his quae accidunt, &amp; noui etiam quendam, cuius natiuitatis Ascendens 
+      <lb ed="#L" n="51"/>fuit prima facies Arietis, &amp; plures signatores eius in terminis Saturni: Erantque 
+      indumen<lb ed="#L" n="52" break="no"/>ta eius splendida &amp; munda, bene redolentia &amp; ipse splendide viuebat, Accidit autem quod vna 
+      <lb ed="#L" n="53"/>die dum sederem cum eo; erat enim mihi familiaris, dixi ei; Haec quidem indumenta 
+      sig<lb ed="#L" n="54" break="no"/>natoribus tuis sunt contraria; &amp; ille ait, Quicquid vides, ego facio propter oculos 
+      homi<lb ed="#L" n="55" break="no"/>num; &amp; si denudarem tibi desiderium meum, addisceres quod valde nitor contra 
+      volunta<lb ed="#L" n="56" break="no"/>tem animi mei, &amp; quod sum in maximo labore: Et ego dixi ei, Nullum est dedecus id 
+      <lb ed="#L" n="57"/>operati, quod eius natura exquirat, sed tunc est maximum dedecus, cum mala 
+      consue<lb ed="#L" n="58" break="no"/>tudo naturam superat, &amp; ipse mihi dixit, Nil ego ago quod meo sedeat animo //munt qui¬  
+      <!--484.xml-->
+      <pb ed="#A" n="451"/>
+               <lb ed="#L" n="1"/>dem appeto vt amplecterer nigram aliquam vel aliquem nigrum cum qua forem inuolutus 
+      <lb ed="#L" n="2"/>in guadagna alba de pilis hircinis texta, &amp; vt iacerem cum eo per noctem: scit tamen Deus 
+      <lb ed="#L" n="3"/>semper abhorrui coitum virilem; &amp; licet hoc appetam, nolo tamen reuelare 
+      volunta<lb ed="#L" n="4" break="no"/>tem animi mei propter milites meos, &amp; homines circumstantes; &amp; hoc probat viam 
+      indi<lb ed="#L" n="5" break="no"/>ciorum, quia in prima facie Arietis ascendunt quaedam, quorum vnum est vir niger 
+      inuo<lb ed="#L" n="6" break="no"/>lutus guadagna alba. Item omnes Doctores Catholici reprobant fatum stellicum seu 
+      stel<lb ed="#L" n="7" break="no"/>larum, praesertim si necessitatem importet, sicut vicesimum octauum primi aliqualiter reci 
+        <lb ed="#L" n="8"/>tauit. Quare &amp; <name xml:id="dcn2br-e59863-Nd1e390">Stephanus Parisiensis Episcopus</name> damnauit articulum affirmantem, <quote xml:id="dcn2br-e59863-Qd1e394" source="http://scta.info/resource/z88d99-avn8u2-d1e1431@1-7">quod 
+          <lb ed="#L" n="9"/>voluntas nostra subiacet potestati corporum supracoelestium</quote>, &amp; alium asserentem <quote xml:id="dcn2br-e59863-Qd1e399" source="http://scta.info/resource/z88d99-avn8u2-d1e1204@1-17">quod 
+      vo<lb ed="#L" n="10" break="no"/>luntas &amp; intellectus non mouentur in actu per se, sed per causam sempiternam, scilicet per 
+            <lb ed="#L" n="11"/>corpora coelestia</quote>; &amp; alium astruentem, <quote xml:id="dcn2br-e59863-Qd1e406" source="http://scta.info/resource/z88d99-avn8u2-d1e1198@1-8">quod orbis est causa voluntatis Medici vt sanet</quote>, &amp; 
+      <lb ed="#L" n="12"/>alios similes istis multos. Amplius autem si voluntas humana posset necessitati ad 
+      libe<lb ed="#L" n="13" break="no"/>rum actum suum per aliquam causam secundam, videretur quod per vehementem tempe 
+      <lb ed="#L" n="14"/>tationem, hoc posset: sed quantacunque sit tentatio, tanta posset esse incitatio per stellas, &amp;  
+      <lb ed="#L" n="15"/>virtutes coelestes, cum sit certissimum quod multum incitant homines &amp; inclinant, &amp; 
+      in<lb ed="#L" n="16" break="no"/>citatio nulla per stellas potest necessitare voluntatem humanam, sicut superius est ostensum. 
+      <lb ed="#L" n="17"/>Item quantum aliqua temptatio excitat, tantum potest &amp; aliqua dispositio in corpore, ex 
+      <lb ed="#L" n="18"/>stellis &amp; complexione resultans: sed istud conuincitur esse falsum per experientiam ab Haly 
+      <lb ed="#L" n="19"/>superius recitatam; potest quoque conuinci per experientiam de Hypocrate in secreto 
+      se<lb ed="#L" n="20" break="no"/>cretorum 4. partis 1. ab Aristotele recitatam, vbi sic scribit: Discipuli Hypocratis 
+      sapien<lb ed="#L" n="21" break="no"/>tis depinxerunt formam eius in Pergameno, &amp; portauerunt eam Philimoni dicentes; con 
+      <lb ed="#L" n="22"/>sidera hanc figuram, &amp; indica nobis qualitatem complexionis eius; qui respiciens 
+      compo<lb ed="#L" n="23" break="no"/>sitionem &amp; dispositionem figurae comparauit partes eius dicens: Iste homo luxuriosus est,  
+      <lb ed="#L" n="24"/>deceptor, amans coitum; ob quam rem voluerunt eum interficere, dicentes; Ostulte, haec 
+      <lb ed="#L" n="25"/>est figura dignioris &amp; melioris hominis qui sit in hoc mundo. Philimon autem pacificauit  
+      <lb ed="#L" n="26"/>eos, &amp; correxit dicens, haec est figura sapientis equidem, sed haec quae quaesiuistis de mea 
+      <lb ed="#L" n="27"/>scientia, ostendi vobis, &amp; quid inde sentio secundum ipsam. Quando ergo peruenerunt 
+      <lb ed="#L" n="28"/>ad Hypocratem, dixerunt ei quid fecerunt, &amp; quid respondit eis Philimon &amp; indicium, 
+      <lb ed="#L" n="29"/>quibus dixit Hypocrates, certe verum dixit Philimon, non praetermisit vnam literam, 
+      <lb ed="#L" n="30"/>Veruntamen ex quo ego respexi &amp; consideraui haec turpia esse &amp; reprobanda, constitui 
+      a<lb ed="#L" n="31" break="no"/>nimam meam regere supra ipsa; &amp; retraxi eam ab ijs, &amp; triumphaui super retentione 
+      con<lb ed="#L" n="32" break="no"/>cupiscentiae meae. Haec est itaque laus &amp; sapientia Hypocratis; quia Philosophia nihil 
+      a<lb ed="#L" n="33" break="no"/>liud est quam abstinentia, &amp; victoria concupiscibilium. Quare &amp; Aristoteles in libro Ethic, 
+      <lb ed="#L" n="34"/>quasi per totum, Plato, Socrates, Seneca, &amp; omnes Morales Philosophi in Philosophia sua 
+      <lb ed="#L" n="35"/>Morali frequenter ostendunt, frequentiusque supponunt, bene operari &amp; male, virtutes 
+      <lb ed="#L" n="36"/>&amp; vitia esse in hominis libera potestate; quod &amp; Autor humanae naturae in institutione 
+      ip<lb ed="#L" n="37" break="no"/>sius euidenter expressit. Quando namque Cain iratus fuerat vehementer in fratrem suum 
+      <lb ed="#L" n="38"/>Abel, Dominus dixit ei, Quare iratus es, &amp; cur concidit facies tua? Nonne si bene egeris, 
+      <lb ed="#L" n="39"/>recipies? sin autem male statim peccatum in foribus aderit: sub te erit appetitus eius &amp; tu 
+      <lb ed="#L" n="40"/>dominaberis illius. Quare &amp; Augustinus I. de libero arbitrio 18. Iam, inquit, &amp; regnum 
+      <lb ed="#L" n="41"/>humanae mentis, humanam esse sapientiam, &amp; eam posse etiam non regnare compertum 
+      <lb ed="#L" n="42"/>est; &amp; sequitur 19. Putasne ista mente cui regnum // in libidines aeterna lege concessum esse 
+      <lb ed="#L" n="43"/>cognoscimus, potentiorem esse libidinem? Ego enim nullo pacto puto: nec enim esset 
+      ordi<lb ed="#L" n="44" break="no"/>natissimum vt impotentiora potentioribus imperarent. Quare necesse arbitror esse, vt plus 
+      <lb ed="#L" n="45"/>possit mens quam cupiditas, eo ipso quo cupiditati recte iusteque dominatur. August. quoque 
+      <lb ed="#L" n="46"/>de lib. arbit. 5. probat diffuse nullam tentationem posse vincere voluntatem: vnde sic ait; Quis 
+      <lb ed="#L" n="47"/>potest dicere voluntatem non esse liberam ad seruandam rectitudinem, &amp; liberam a 
+      tentati<lb ed="#L" n="48" break="no"/>one &amp; a peccato? Si nulla tentatio potest illam nisi volentem auertere a rectitudine ad 
+      pecca<lb ed="#L" n="49" break="no"/>tum, id est, ad volendum quod non debet? Cum ergo mentitur, non aliena mentitur potestate, 
+      <lb ed="#L" n="50"/>sed sua. Nonne vides ex dictis cosequi quod nulla tentatio potest vincere rectam //voluntatem. 
+      <lb ed="#L" n="51"/>Nam si potest habet potestatem vincendi, &amp; sua potestate vincit; sed hoc esse non potest, 
+      quo<lb ed="#L" n="52" break="no"/>niam voluntas non nisi sua potestate vincitur; quare nullatenus potest tentatio vincere recta 
+      <lb ed="#L" n="53"/>voluntatem. Et cum dicitur, improprie dicitur: non enim aliud intelligitur quam quod 
+      volun<lb ed="#L" n="54" break="no"/>tas potest se subijcere tentationi. Et infra 7. Intellige, inquit, voluntatem insuperabilem &amp; nulla 
+      <lb ed="#L" n="55"/>alia vi superabilem fortitudinem habere. Vides igitur quod cum homo habitam rectitudinem 
+      <lb ed="#L" n="56"/>voluntatis aliqua ingruente tentatione deserit, nulla vi aliena abstrahitur, sed ipsa se conuertit. 
+      <lb ed="#L" n="57"/>Si quis forsitan cogitet similiter esse de bestijs, ecce dissimilitudinem magnam valde. Bestiae 
+      <lb ed="#L" n="58"/>namque naturali necessitate appetitum sequuntur delectabilia prosequendo, &amp; tristia fugiendo; 
+      <!--485.xml-->
+      <pb ed="#A" n="452"/>
+               <lb ed="#L" n="1"/>homo autem nulli necessitati subijcitur naturali. Quare &amp; Anselmus de libero arbitrio; 
+      dy<lb ed="#L" n="2" break="no"/>alogizando sic scribit: /Quomodo non est libera voluntas, quam aliena potestas sine suo 
+      assen<lb ed="#L" n="3" break="no"/>su subijcere non potest? Nonne simili ratione possumus dicere voluntatem equi esse liberam, 
+      <lb ed="#L" n="4"/>quae non appetitui carnis seruit nisi volens? N. Non hic est similiter. In aequo namque non 
+      ip<lb ed="#L" n="5" break="no"/>sa voluntas se subijcit, sed naturaliter subiecta semper necessitate appetitui carnis seruit: In 
+      <lb ed="#L" n="6"/>homine vero quamdiu ipsa voluntas recta est, nec seruit, nec subiecta est cui non debet, nec ab 
+      <lb ed="#L" n="7"/>ipsa rectitudine vlla vi aliena auertitur, nisi ipsa, cui non debet volens consentiat; quem 
+      con<lb ed="#L" n="8" break="no"/>sensum non naturaliter, nec ex necessitate sicut equus, sed ex se aperte videtur habere. 
+      Am<lb ed="#L" n="9" break="no"/>plius autem duplex est temptatio, per tristia, per delectabila; per aduersa, per prospera; &amp; 
+      vni<lb ed="#L" n="10" break="no"/>uersaliter per mali timorem, &amp; boni amorem: Harum autem prima fortior est &amp; maior; 
+      Qui<lb ed="#L" n="11" break="no"/>libet enim naturaliter plus horret &amp; refugit triste malum, quam bonum delectabile 
+      concu<lb ed="#L" n="12" break="no"/>piscat, sicut tam in nobis, quam in bestijs experimur: Naturaliter enim magis videmur 
+      ama<lb ed="#L" n="13" break="no"/>re bonum quod habemus, &amp; timemus per triste malum auferri, quam desideremns bonum I 
+      <lb ed="#L" n="14"/>non habitum, nondum nostrum. Quilibet namque naturaliter magis amat seipsum, &amp; 
+      <lb ed="#L" n="15"/>sua, quam appetat, vel amet non sua, cum non appetat aut amet naturaliter alia nisi 
+      prop<lb ed="#L" n="16" break="no"/>ter seipsum, sicut patet 39. primi. Quare &amp; Philosophus 3. Ethic. 18. Difficilius, inquit,  
+      <lb ed="#L" n="17"/>est tristia sustinere, quam a delectabilibus abstinere. Cui &amp; concorditer Augustinus 83 
+      Quae<lb ed="#L" n="18" break="no"/>stionum 36. Nemo est inquit, qui non magis dolorem fugiat, quam appetat voluptatem. 
+      <lb ed="#L" n="19"/>Videmus enim quasdam immanissimas bestias ideo maxime voluptatibus absterreri, 
+      dolo<lb ed="#L" n="20" break="no"/>rum metu: Est ergo temptatio per tristia fortior alia, &amp; haec humanam non potest V subigere 
+      <lb ed="#L" n="21"/>voluntatem, quare nec illa. Quod autem haec non possit humanam vincere voluntatem 
+      eui<lb ed="#L" n="22" break="no"/>denter apparet, quia fortissima temptatio huius speciei non potest voluntatem humanam 
+      sub<lb ed="#L" n="23" break="no"/>ijcere, quare nulla. Fortissima namque temptatio per tristia, est per mortem, praesertim per 
+      mor<lb ed="#L" n="24" break="no"/>tem tristissimam dicente Philosopho 3. Ethic. 14. quod fortis est circa terribilia maxima? 
+      Nul<lb ed="#L" n="25" break="no"/>lus enim magis sustinet pericula; terribilissimum autem mors. Sed haec humanam non 
+      supe<lb ed="#L" n="26" break="no"/>rat voluntatem: Quot enim fideles, haeretici, &amp; infideles potius elegerunt &amp; voluntarie 
+      susti<lb ed="#L" n="27" break="no"/>nuerunt mortem durissimam, quam pfessionem, voluntatem, operaue mutarent, sicut 
+      hi<lb ed="#L" n="28" break="no"/>storiae plurimae contestantur? Quot etiam Gentiles Philosophi viuendo moraliter, &amp; 
+      secun<lb ed="#L" n="29" break="no"/>dum regulam honestatis temptationes fortissimas superatunt, &amp; appetitus belligeros rationis 
+      <lb ed="#L" n="30"/>imperio subiugarunt, sicut historiae de vitis eorum conscriptae lucide manifestant? Amplius 
+      <lb ed="#L" n="31"/>autem si aliqua causa secunda posset humanam subijcere voluntatem, hoc de diabolo 
+      pluri<lb ed="#L" n="32" break="no"/>mum videretur, cuius est permagna potestas, de qua Iob. 4I. Non est super terram potestas, 
+      <lb ed="#L" n="33"/>quae comparetur ei, sed ipse non potest voluntatem hominis superare, sicut praecedentia 
+      mani<lb ed="#L" n="34" break="no"/>festant, testaturque August. 1. de libero arbitrio 19. superius allegatus. Nec etiam potest per 
+      es<lb ed="#L" n="35" break="no"/>sentiam suam solam voluntatem hominis superare, sicut de bonis Angelis superius 
+      monstraba<lb ed="#L" n="36" break="no"/>tur; nec per aliquem actum suum; quia ille actus esset aliqua temptatio; sed nulla temptatio 
+      po<lb ed="#L" n="37" break="no"/>test humanam vincere voluntatem; sicut iam proximo est ostensum. Quanta etiam mala 
+      face<lb ed="#L" n="38" break="no"/>ret spiritus ille malus in mundo, si haberet dominium super hominum voluntates? Quot etiam 
+      <lb ed="#L" n="39"/>viri &amp; foeminae eius temptationibus inuectissime restiterunt, tam inter fideles, quam etiam 
+      <lb ed="#L" n="40"/>infideles? Potest tamen rationabiliter obijci contra dicta. Obiectum namque delectabile, siue 
+      <lb ed="#L" n="41"/>triste est alicuius virtutis in mouendo voluntatem humanam ad volendum vel nolendum, &amp; 
+      <lb ed="#L" n="42"/>ipsa voluntas est virtutis tantum finitae in resistendo sicut in essendo, vel ergo minoris; 
+      aequa<lb ed="#L" n="43" break="no"/>lis, vel maioris; si minoris, necessario superatur; si aequalis vel maioris, augeatur obiectum 
+      <lb ed="#L" n="44"/>donee sit maioris potentiae in mouendo quam voluntas humana in resistendo, vel capiatur 
+      <lb ed="#L" n="45"/>/l aliud obiectum tanto potentius voluntate humana, quanto ipsa est potentior primo obiecto, 
+      <lb ed="#L" n="46"/>&amp; ab illo necessitabitur ad volendum vel ad nolendum. Voluntas quoque humana 
+      resisten<lb ed="#L" n="47" break="no"/>do illecebrae patitur difficultatem, sicut nimis certe saepius experimur, sicuti etiam 
+      Philo<lb ed="#L" n="48" break="no"/>sophi &amp; Theologi contestantur: Dicit enim Philosophus secundo Ethicorum 3. 
+      Diffici<lb ed="#L" n="49" break="no"/>lius esse voluptati pugnare, quam irae; circa difficilius autem semper ars sit &amp; virtus. Et ter¬ p 
+      <lb ed="#L" n="50"/>tio Ethicorum //secundo, Est inquit, difficile quandoque iudicare quale pro quali eligendum, &amp; 
+      <lb ed="#L" n="51"/>quid pro quo sustinendum; adhuc autem difficilius immorari // cognitis; vt enim multum est, 
+      <lb ed="#L" n="52"/>quae quidem expectantur tristia, quae autem coguntur, turpia. Et infra // 18. Difficilius est 
+      <lb ed="#L" n="53"/>tristia sustinere, quam a delectabilibus abstinere. Et Anselmus de libero arbitrio 5. dicit,  
+      <lb ed="#L" n="54"/>quod difficile est non mentiri propter mortem vitandam, Et 6. dicit quod difficile est nobis 
+      <lb ed="#L" n="55"/>seruare rectitudinem voluntatis, cum temptationibus consentimus, quod etiam tam ipse. 
+      <lb ed="#L" n="56"/>quam alij saepius attestantur. Quare &amp; morales Philosophi, &amp; Theologi ac Canonistae tenent. 
+      <lb ed="#L" n="57"/>concorditer, quod quantitas temptationis maior vel minor minuit, vel augmentat, alleuat 
+      <lb ed="#L" n="58"/>vel aggrauat culpam consentientis, &amp; poenam. Cum ergo voluntas humana resistendo 
+      <!--486.xml-->
+      <pb ed="#A" n="453"/>
+               <lb ed="#L" n="1"/>illecebrae difficultatem aliquam patiatur, &amp; sit tamen finitae potentiae sicut &amp; essentiae, tam 
+      <lb ed="#L" n="2"/>fortis potest esse illecebra, &amp; tantam difficultatem causare, quod voluntas humana illam non 
+      <lb ed="#L" n="3"/>valeat superare, sed necessario ei // cedet. Item obiectum delectabile &amp; triste irresistibiliter su 
+      <lb ed="#L" n="4"/>perat voluntates paruulorum, morionum, furiosorum, &amp; perfecte forsitan ebriorum; sed 
+      vo<lb ed="#L" n="5" break="no"/>luntas adultorum bene disposita non est infinite potentior essentialiter nec accidentaliter 
+      vo<lb ed="#L" n="6" break="no"/>luntatibus praedictorum; potest ergo ab obiecto aliquo superari. Constat quoque 
+      volunta<lb ed="#L" n="7" break="no"/>tem saeui &amp; voluntatem furiosi vel alterius similis esse essentialiter &amp; naturaliter equipotentes? 
+      <lb ed="#L" n="8"/>Illa quoque passio in corpore furiosi cum obiecto extrinseco est finitae potentiae ad 
+      mouen<lb ed="#L" n="9" break="no"/>dum. Si ergo tentatio vel obiectum quodcunque tam potens sanam sani moueat 
+      volunta<lb ed="#L" n="10" break="no"/>tem, ipsam necessario superabit propter aequalitatem proportionis hinc inde. Item bestiae 
+      ne<lb ed="#L" n="11" break="no"/>cessitantur ab obiectis, &amp; homo non est infinite fortior bestia, potest ergo &amp; ipse ab aliquo 
+      <lb ed="#L" n="12"/>obiecto necessitari similiter ad volendum. Item beatitudo finalis est aliqua creatura, &amp; ipsa 
+      <lb ed="#L" n="13"/>necessitat voluntatem beati ad beatificum actum suum, &amp; ad non peccandum: Ipsa enim 
+      <lb ed="#L" n="14"/>ratio beatitudinis perfecte conuincit; tenentque omnes Doctores concorditer quod beatus 
+      <lb ed="#L" n="15"/>perfecte &amp; finaliter confirmatus non potest miser fieri aut peccare. Item aliqua fortis 
+      tenta<lb ed="#L" n="16" break="no"/>tio potest superare tentatum, &amp; facit quandoque sicut multi se dicunt esse expertos. Vnde 
+      <lb ed="#L" n="17"/>Philosophus 7. Eth. 7. Non, inouit, si quis a fortibus, &amp; superexcellentibus delectationi 
+      <lb ed="#L" n="18"/>bus vincitur vel tristitijs, ad mirabile, sed condonabile, si contratendens quemadmodum 
+      <lb ed="#L" n="19"/>continere tentantes risum repente effundunt. Quod bene videtur expressisse Apostolus, 1. ad 
+      <lb ed="#L" n="20"/>Cor. 10. Fidelis inquiens Deus est, qui non patietur vos tentari supra // illud quod potestis, 
+      <lb ed="#L" n="21"/>sed faciet cum tentatione etiam prouentum, vt possitis sustinere. Quare &amp; Anselmus de li 
+      <lb ed="#L" n="22"/>bero arbitrio, 6. in persona discipuli; Non possum inquit, dissimulare quandam impotenti 
+      <lb ed="#L" n="23"/>am esse in voluntate, quam fere omnes experimur; cum tentationis violentia superamur. 
+      <lb ed="#L" n="24"/>Monetque August. de vera &amp; falsa poenitentia 14. quod poenitens consideret quanta virtus 
+      fue<lb ed="#L" n="25" break="no"/>rit impugnatione. Sunt qui non solum non vincuntur, sed vltro peccato se offerunt, nec 
+      expe<lb ed="#L" n="26" break="no"/>tant tentationem sed praeueniunt voluptatem. Haec quoque autoritas Augustini allegatur de 
+      <lb ed="#L" n="27"/>poenitentia, Dist. 5. Consideret &amp; 4. Sent. Petri, Dist. 16. Gregorius quoque 2. Moral. 8. super 
+      <lb ed="#L" n="28"/>illud Iob I. Ecce vniuersa quae habet in manum tua sunt, tantum in eum ne extendas manum 
+      tu<lb ed="#L" n="29" break="no"/>am. Consideranda est, inquit, in verbis Domini dispensatio sanctae pietatis: quomodo hostem 
+      <lb ed="#L" n="30"/>nostrum permittit, &amp; retinet, relaxat &amp; refraenat; alia ad tentandum dat, sed ab alijs religat; 
+      v<lb ed="#L" n="31" break="no"/>niuersa quae habet, in manum tua sunt; tantum in eum ne extendes manum tuam; substantiam 
+      <lb ed="#L" n="32"/>perdit, sed tamen corpus protegit, quod quidem postmodum tentatori traditurus est. Sed 
+      ta<lb ed="#L" n="33" break="no"/>men non simul ad omnia relaxat hostem, ne vndique feriens frangat eum: Mala enim cum 
+      mul<lb ed="#L" n="34" break="no"/>ta electis eueniant, mira conditoris gratia ex tempore dispensantur, vt que coaceruata 
+      perime<lb ed="#L" n="35" break="no"/>rent, possint diuisa tolerari. Hinc Paulus ait, Fidelis Deus, qui non patietur vos tentari supra 
+      <lb ed="#L" n="36"/>quam potestis, sed faciet cum tentatione etiam exitum, vt possitis sustinere. Hinc Dauid ait; Proba 
+      <lb ed="#L" n="37"/>me Domine &amp; tenta me, ac si aperte dicat, prius vires inspice, &amp; tunc vt ferre valeo, tentari me 
+      <lb ed="#L" n="38"/>permitte. Qui &amp; 3. Mor. 2. super illud Iob. 2. Ecce in manum tua est, verumtamen animam illius 
+      <lb ed="#L" n="39"/>serua; Ecce, inquit iterum permissionem verberis, comitatur custodia protectionis, &amp; electum 
+      <lb ed="#L" n="40"/>suum diuina dispensatio custodiendo deserit, &amp; deserendo custodit; alia // primus prodit, alia 
+      <lb ed="#L" n="41"/>protegit: Si enim totum Iob desereret in manu tanti aduersarij, homo quid esset? In ipsa ergo 
+      <lb ed="#L" n="42"/>iustitia permissionis, permiscetur quaedam libra pietatis, quatenus in vno eodemque certamine 
+      <lb ed="#L" n="43"/>&amp; seruus humilis expressione proficiat, &amp; hostis superbiens ex permissione succumbat. Qui 
+      e<lb ed="#L" n="44" break="no"/>tiam 34. Mor. 16. super illud Iob. 4I. Non est super terram potestas quae comparetur ei, sic ait,  
+      <lb ed="#L" n="45"/>potestas eius super terram cunctis eminentior perhibetur, quia etsi actionis suae merito 
+      in<lb ed="#L" n="46" break="no"/>fra homines cecidit, omne tamen hominum genus naturae Angelicae conditione transcendit: 
+      <lb ed="#L" n="47"/>Quamuis enim internae faelicitatis beatitudinem perdidit, naturae suae tamen magnitudinem 
+      <lb ed="#L" n="48"/>non amisit, cuius adhuc viribus humana omnia superat, licet sanctis hominibus meritorum 
+      <lb ed="#L" n="49"/>suorum deiectione subiaceat. Aliquis etiam timore vnius magni mali, puta mortis 
+      immi<lb ed="#L" n="50" break="no"/>nentis, nisi forsitan mentiatur, eijciat thesaurum aut merces in mare, aut aliquid 
+      huiusmo<lb ed="#L" n="51" break="no"/>di faciat; compellitur necessario sic facere in hoc casu: Vnde Dan. 14. recitato quomodo 
+      <lb ed="#L" n="52"/>Babysonij congregati aduersus Regem dixerunt; Trade nobis Danielem, alioquin 
+      interfi<lb ed="#L" n="53" break="no"/>ciemus te, &amp; domum tuam, subiungitur; Vidit ergo Rex quod irruerent in eum 
+      vehemen<lb ed="#L" n="54" break="no"/>ter, &amp; necessitate compulsus tradidit eis Danielem. Quare &amp; iura Ciuilia, &amp; Canonica 
+      <lb ed="#L" n="55"/>sanciunt multis locis, quod quae vi metusue causa fiunt, nulla debeant firmitate subsistere, sed 
+      <lb ed="#L" n="56"/>in irritum reuocari. Quamobrem &amp; Philosophus 3. Eth. 2. dicit, quod in aliquibus coactis 
+      <lb ed="#L" n="57"/>sit venia, quando propter haec, operatur aliquis quae non oportet, quae humanam naturam 
+      <lb ed="#L" n="58"/>excedunt, &amp; nullus vtique sustineret. Ad haec autem, si voluntas esset tam libera, possibile 
+      <!--487.xml-->
+      <pb ed="#A" n="454"/>
+               <lb ed="#L" n="1"/>esset eam scienter bonum non velle. &amp; malum velle, eligere, facereque scienter, quod 
+      vide<lb ed="#L" n="2" break="no"/>tur contra Philosophum 3. Eth. 3. sic dicentem; Ignorat quidem omnis malus, quae 
+      opor<lb ed="#L" n="3" break="no"/>tet operati, &amp; a quibus fugiendum, &amp; propter tale peccatum iniusti &amp; vniuersaliter mali 
+      fi<lb ed="#L" n="4" break="no"/>unt. Qui &amp; 7. Eth. 2. allegat a Socrate, nullum existimantem operari praeter optimum, sed 
+      <lb ed="#L" n="5"/>propter ignorantiam. Qui &amp; infra 3. distinguens de scire, scilicet in vsu seu actu, &amp; in 
+      ha<lb ed="#L" n="6" break="no"/>bitu; &amp; in vniuersali, &amp; in parte seu particulari, dicit quod sciens in actu, seu in 
+      v<lb ed="#L" n="7" break="no"/>su &amp; in particulari, non potest agere quae non oportet. Et infra eodem, Cum, inquit, 
+      v<lb ed="#L" n="8" break="no"/>na fiat ex ipsis, necessarium conclusum; vbi quidem sscilicet in speculatiuis) oportet dicere 
+      <lb ed="#L" n="9"/>animam, in factiuis autem operari confestim; puta si omne dulce gustare oportet, hoc autem 
+      <lb ed="#L" n="10"/>dulce, vt vinum, aut aliquod singularium; necessarium potentem, &amp; non prohibitum simul 
+      <lb ed="#L" n="11"/>hoc operati. Qui etiam de causa motus Animalium, qui est duodecimus de Animalibus 
+      se<lb ed="#L" n="12" break="no"/>cundum nouam transtationem, diffusiori processu idem ostendit. Item indicia 
+      Astrologo<lb ed="#L" n="13" break="no"/>rum &amp; similium Physionognomicorum &amp; similium de moribus actubusque humanis, sunt 
+      <lb ed="#L" n="14"/>vera &amp; certa: Mores ergo &amp;s actus humani stellas &amp; complexionem necessario 
+      conse<lb ed="#L" n="15" break="no"/>quuntur. 
+      </p>
+            <p xml:id="dcn2br-e59863-d1e809">
+               <lb ed="#L" n="16"/>Pro primo autem istorum, soluendo; secundum Philosophos Naturales &amp; Medicos, est 
+      <lb ed="#L" n="17"/>sciendum quod delectatio cuiuscunque virtutis seu potentiae perceptiuae causatur ex 
+      conue<lb ed="#L" n="18" break="no"/>nientia, &amp; certa proportione, seu habitudine naturali obiecti delectabilis creati cum 
+      poten<lb ed="#L" n="19" break="no"/>tia delectante: cuiuscunque autem rei delectabilis creatae ad quamcunque potentiam natam 
+      <lb ed="#L" n="20"/>delectari in illa, est aliqua maxima conuenientia, &amp; aliqua proportio seu habitudo 
+      conueni<lb ed="#L" n="21" break="no"/>entissima naturalis, puta A delectabilis ad Bpotentiam liberam, Cconuenientissima 
+      habi<lb ed="#L" n="22" break="no"/>tudo: A vero delectabili sub Cgradum, potest B resistere, &amp; // esse maioris virtutis in 
+      resisten<lb ed="#L" n="23" break="no"/>do, quam illud in mouendo, sicut praecedentia manifestant. Quare A quantumlibet 
+      aug<lb ed="#L" n="24" break="no"/>mentato potest Bresistere facilius tunc quam prs. Licet enim A sit delectabilius absolute, 
+      <lb ed="#L" n="25"/>&amp; fortius tunc quam p magis motiuum, non tamen respectu B, sed tunc minus 
+      delecta<lb ed="#L" n="26" break="no"/>biliter vel forsitan indelectabiliter seu tristabiliter eam mouet propter dissolutionem illius 
+      <lb ed="#L" n="27"/>proportionis conuentissimae praecedentis. Huius autem rei exemplum conueniens est in 
+      vi<lb ed="#L" n="28" break="no"/>sibili, &amp; in visu: Certum est enim visum videre lucem, &amp; hoc optime ac delectabilissime in 
+      <lb ed="#L" n="29"/>proportione ac conuenientia quadam certa, vltra quam vel citra si lux intendatur, vel 
+      remit<lb ed="#L" n="30" break="no"/>ratur, non ita bene videbitur, nec tantam delectationem causabit, sed fortassis tristitiam, quod 
+      <lb ed="#L" n="31"/>&amp; patet similiter in alijs sensibus &amp; sensatis. Quare &amp; euidenter apparet, quod tales argutiae 
+      <lb ed="#L" n="32"/>sunt fallaces; hoc delectabile tantum mouet hunc hominem; ergo duplum in duplo plus, seu 
+      <lb ed="#L" n="33"/>fortius, &amp; quadruplum in quadruplo, &amp; sic deinceps, propter causam praedictam. Patet 
+      quo<lb ed="#L" n="34" break="no"/>que in simili, quod forma arguendi non tenet, sicut nec // haec, sphaera luminosa maior 
+      tene<lb ed="#L" n="35" break="no"/>brosa illuminat incidenter medietatem ipsius &amp; aliquam partem vltra, ergo sphaera 
+      lumino<lb ed="#L" n="36" break="no"/>sa in duplo maior priore, in duplo magis illuminat tenebrosum, vel vltra // medietatem 
+      tene<lb ed="#L" n="37" break="no"/>brosae partem duplam respectu prioris, &amp; quadrupla quadruplam; &amp; ita deinceps; sic enim 
+      <lb ed="#L" n="38"/>aliqua sphaera luminosa finita aliam tenebrosam illuminaret secundum totam superficiem 
+      in<lb ed="#L" n="39" break="no"/>cidenter; quod qui vel atrium exterius Perspectiuae paululum introspexit, videt clarissime 
+      <lb ed="#L" n="40"/>falsum esse, &amp; impossibile manifestum. Simile est de oculo vidente sphaeram maiorem 
+      ocu<lb ed="#L" n="41" break="no"/>lo secundum aliquam sui partem in distantia certa data, quia in maiori distantia maius, 
+      sci<lb ed="#L" n="42" break="no"/>licet maiorem partem videt de illa, &amp; in maiori distantia semper maius, non tamen 
+      propor<lb ed="#L" n="43" break="no"/>tionaliter semper maius; tunc enim in aliqua distantia certa data videret hemisphaerij eius 
+      to<lb ed="#L" n="44" break="no"/>tum, &amp; in vlteriori distantia adhuc vltra, &amp; ita in distantia aliqua totam superficiem talis 
+      <lb ed="#L" n="45"/>sphaerae, quae qui de perspectiua modicum quid perspexerit, perspicit impossibilia magna esse. 
+      <lb ed="#L" n="46"/>Imo &amp; patet clarissime, quod agutia talis fallit. Hoc delectabile tantum allicit, &amp; mouet hunc 
+      <lb ed="#L" n="47"/>hominem, ergo magis delectabile magis eum allicit atque mouet. Si enim delectabile datum 
+      <lb ed="#L" n="48"/>ponatur in proportione conuenientissima ad mouendum hunc hominem, &amp; per intentionem 
+      <lb ed="#L" n="49"/>delectabilis soluatur proportio, minus delectabiliter ipsum mouet, vel tunc forsitan 
+      indelecta<lb ed="#L" n="50" break="no"/>biliter, immo &amp; tristabiliter eum mouet. Ex quibus etiam patet similiter quod in hac 
+      propor<lb ed="#L" n="51" break="no"/>tione conuenientissima est difficultas maxima resistendi, quare &amp; si per augmentum 
+      delectabi<lb ed="#L" n="52" break="no"/>lis soluatur proportio, minuitur difficultas. De tristabili autem sicut de delectabili idem 
+      sen<lb ed="#L" n="53" break="no"/>tiendum. Patet ergo quod nullum delectabile tristabileue creatum potest necessitare hominem  
+      <lb ed="#L" n="54"/>ad volendum vel ad nolendum, praesertim quamdiu liberum arbitrium manet sanum. 
+      Obiici<lb ed="#L" n="55" break="no"/>tur forsitan contra dicta. Sit enim A gradus delectabilissimus, B potentiae praeceptiuae, &amp; A sit 
+      <lb ed="#L" n="56"/>in aliqua specie naturali quae sit C. Erit Cspecies maxime delectabilis tali potentiae, in tantum 
+      <lb ed="#L" n="57"/>quod nulla species magis delectabilis tali potentiae posset esse etiam per omnipotentiam Dei 
+      <lb ed="#L" n="58"/>magnam. Ad istud autem iuxta // priora dicendum videtur, quod sicut inter omnes gra¬ 
+      <!--488.xml-->
+      <pb ed="#A" n="455"/>
+               <lb ed="#L" n="1"/>dus possibiles vnius speciei, est aliquis gradus maxime delectabilis Bpotentiae assignatae,. quia 
+      <lb ed="#L" n="2"/>maxime proportionatus &amp; conueniens in habitudine naturali; sic &amp; aliqua species inter 
+      om<lb ed="#L" n="3" break="no"/>nes species possibiles, propter similem rationem: neque istud repugnat omnipotentiae Dei 
+      <lb ed="#L" n="4"/>magnae, sicut nec ei repugnat, quod A posito aequali, vel simili B perfecte, non potest ei 
+      <lb ed="#L" n="5"/>quicquam aequalius aut similius fabricare. Adhuc autem potest &amp; probabiliter obijci isto 
+      <lb ed="#L" n="6"/>modo, Viator potest proficere in merito &amp; in gratia, in peccato, &amp; in malitia vltra quemcunque 
+      <lb ed="#L" n="7"/>terminum assignatum. In quo namque instanti vitae praesentis, in qua aetate, aut in quo 
+      ter<lb ed="#L" n="8" break="no"/>mino figes metam; quod &amp; maxime apparebit, si vita praesens viatoris per eius potentiam, 
+      <lb ed="#L" n="9"/>qui vitae &amp; mortis habet imperium, quantum volueris prolongetur, etiam vltra terminum 
+      <lb ed="#L" n="10"/>naturalem, sicut de Enoch &amp; Elia creditur factum esse: alioquin etiam rediret haeresis 
+      Begar<lb ed="#L" n="11" break="no"/>dorum, Extra de haereticis. Ad nostrum damnata: quae dixit quod homo in vita praesenti 
+      tan<lb ed="#L" n="12" break="no"/>tum &amp; talem perfectionis gradum potest acquirere quod reddetur penitus impeccabilis, &amp; 
+      <lb ed="#L" n="13"/>amplius in gratia proficere non valebit: Nam vt dicunt, si quis semper posset proficere 
+      po<lb ed="#L" n="14" break="no"/>test aliquis Christo perfectior inueniri. Et si homo possit proficere in merito &amp; peccato, in 
+      <lb ed="#L" n="15"/>gratia &amp; in malitia vltra terminum quemlibet assignatum, potest &amp; in praemio &amp; in poena, 
+      <lb ed="#L" n="16"/>in delectatione &amp; afflictione, in laetitia &amp; in tristitia consequenter, cum Deus vnicuique 
+      se<lb ed="#L" n="17" break="no"/>cundum opera sua reddet. Adhuc autem creatura rationalis quaecunque est capacitatis 
+      sim<lb ed="#L" n="18" break="no"/>pliciter infinitae, &amp; capax gratiae quantaecunque. Ex quo namque haec creatura est gratiae 
+      <lb ed="#L" n="19"/>tantae capax, est &amp; cuiuscunque maioris; cum maior quaecunque sit subtilior, perfectior 
+      <lb ed="#L" n="20"/>&amp; conuenientior in natura, nec maior gratia locum aut situm maiorem requirat, cur etiam 
+      <lb ed="#L" n="21"/>non posset Deus omnipotens gratiam maximam quam creauit in aliqua creatura rationali 
+      <lb ed="#L" n="22"/>permagna, in aliqua minori creasse, &amp; in asino, vel in ligno? si insuper anima ista parua non  
+      <lb ed="#L" n="23"/>sit capax gratiae huius magnae, Deus omnipotens totius Autor naturae potest eam augere vt 
+      <lb ed="#L" n="24"/>fiat capax illius: Quodlibet enim finitum potest Deus omnipotens quantumlibet 
+      augmen<lb ed="#L" n="25" break="no"/>tare, &amp; si anima quaelibet sit capax gratiae quantaecunque, est &amp; consequenter gloriae 
+      quantae<lb ed="#L" n="26" break="no"/>cunque, quare &amp; delectationis quantaelibet in praesenti. Amplius autem quaelibet anima 
+      <lb ed="#L" n="27"/>rationalis &amp; quilibet homo videtur habere in vita praesenti bonitatem quodammodo 
+      infini<lb ed="#L" n="28" break="no"/>tam intensiue, &amp; etiam extensiue, videlicet numerose; innocentiam scilicet, libertatem &amp; 
+      <lb ed="#L" n="29"/>immunitatem a peccato quantolibet intensiue, &amp; peccatis quantislibet &amp; quotlibet 
+      nume<lb ed="#L" n="30" break="no"/>rose, etiam infinitis, quorum nullum commisit, &amp; quorum quodlibet, aut quae omnia 
+      po<lb ed="#L" n="31" break="no"/>tuit commisisse, aut posset committere in futuro, praesertim si status vitae praesentis 
+      quan<lb ed="#L" n="32" break="no"/>tumlibet prolongetur etiam in aeternum. Est ergo anima rationalis quaecunque capax 
+      bo<lb ed="#L" n="33" break="no"/>nitatis vel innocentiae infinitae simpliciter; quare &amp; delectationis &amp; gloriae simili ratione, 
+      <lb ed="#L" n="34"/>Anima namque rationalis sincera quae immaculato calle transit ad coelum, debet 
+      rationabi<lb ed="#L" n="35" break="no"/>liter delectari, super vna innocentia sua, puritate, &amp; libertate huiusmodi inuiolata 
+      finali<lb ed="#L" n="36" break="no"/>ter custodita, &amp; super duabus magis, &amp; hoc in duplo: cur enim amplius de hac quam de 
+      il<lb ed="#L" n="37" break="no"/>la, maxime si ponantur aequales? Imo plus quam in duplo, si secunda sit maior quam  
+      <lb ed="#L" n="38"/>prima, &amp; correspondenter de tribus &amp; de quatuor, ac deinceps, quare &amp; de infinitis 
+      sim<lb ed="#L" n="39" break="no"/>pliciter infinite. Imo &amp; quaecunque talis innocentia, libertas, &amp; immunitas a peccato 
+      quo<lb ed="#L" n="40" break="no"/>cunque videtur bonitatis &amp; eligibilitatis simpliciter infinitae. Est enim eligibilitatis 
+      maio<lb ed="#L" n="41" break="no"/>ris quantiscunque bonis alijs naturae, fortunae, gratiae, seu gloriae positiuis, vel etiam 
+      pri<lb ed="#L" n="42" break="no"/>uatiuis, cuiusmodi sunt priuationes malorum, etiam infinitis &amp; infinities infinitis, 
+      quo<lb ed="#L" n="43" break="no"/>rum non electio repussio, seu contemptus non includit peccatum, sicut ex tricesima parte 
+      <lb ed="#L" n="44"/>Corollarij primi claret, quapropter, &amp; delectationis correspondenter; 
+      proportionaliter<lb ed="#L" n="45" break="no"/>que maioris: Quid enim magis delectat quemcunque nisi illud quod magis desiderat, 
+      <lb ed="#L" n="46"/>&amp; affectat? Vnde Philosophus I. Ethic. 13. Vnicuique est delectabile ad quod dicitur 
+      a<lb ed="#L" n="47" break="no"/>micus talium, vt puta equus quidem amanti equum, spectaculum autem amanti 
+      specta<lb ed="#L" n="48" break="no"/>culum: eodem autem modo &amp; iusta amanti iustum, &amp; ideo quae secundum virtutem 
+      a<lb ed="#L" n="49" break="no"/>manti virtutem, quod &amp; descriptio deliaca contestatur, definiens delectabilissimum quo 
+      <lb ed="#L" n="50"/>quis optat frui. Quare &amp; Sapiens; Desiderium si compleatur, delectat animam, Parab. 
+      <lb ed="#L" n="51"/>decimo tertio: Propterea quicquid est finitae capacitatis potest satiari plenatie aliquo 
+      bo<lb ed="#L" n="52" break="no"/>no finito; sed anima rationalis non sic potest: Quocunque namque bono habito, aut 
+      <lb ed="#L" n="53"/>quotcunque &amp; quantiscunque bonis habitis citra Deum simpliciter infinitum nequaquam 
+      <lb ed="#L" n="54"/>finaliter quietatur, sed semper maius bonum; &amp; maius, &amp; Deum maximum bonum 
+      possi<lb ed="#L" n="55" break="no"/>bile spretis alijs concupiscit; imo &amp; si Deus esset bonitatis finitae tantummodo non 
+      satiare<lb ed="#L" n="56" break="no"/>tur illo plenarie, sed appeteret meliorem. Adhuc autem &amp; omnis beatus in patria 
+      habe<lb ed="#L" n="57" break="no"/>bit claram scientiam omnium &amp; distinctam; Alioquin posset falli, quod beatitudini 
+      per<lb ed="#L" n="58" break="no"/>fectae repugnare videtur, quod &amp; potest multis Catholicis testimonijs confirmari. Ha¬ 
+      <!--489.xml-->
+      <pb ed="#A" n="456"/>
+               <lb ed="#L" n="1"/>bebit ergo omnis beatus in patria scientiam infinitam, quare &amp; nunc omnis viator 
+      beatifi<lb ed="#L" n="2" break="no"/>candus, &amp; vniuersaliter omnis homo est capax scientiae infinitae, &amp; capacitatis simpliciter 
+      in<lb ed="#L" n="3" break="no"/>finitae. Amplius autem specialiter Anima CEristi est finitae entitatis sicut apparet ex 40. parte 
+      <lb ed="#L" n="4"/>Corollarij primi, &amp; 39. primi, &amp; ipsa est &amp; fuit capacitatis infinitae simpliciter, scientiae, 
+      gra<lb ed="#L" n="5" break="no"/>tiae, &amp; gloriae: quare &amp; quaelibet alia. Ipsa enim habet, &amp; semper habuit claram scientiam 
+      <lb ed="#L" n="6"/>omnium: Dicit enim Lucas quod ipse puer sapientia plenus erat. Luc. 2. &amp; Iohan. 3. non 
+      <lb ed="#L" n="7"/>ad mensuram dat Deus spiritum, &amp; cui alij nisi Christo? quod &amp; Doctores glossantes 
+      tes<lb ed="#L" n="8" break="no"/>tantur: quod &amp; Anselmus, 2. Cur Deus homo 13. per rationes, &amp; Petrus 3. Sentent, 
+      distinct<lb ed="#L" n="9" break="no"/>13. &amp; 14. per Autoritates ostendunt. Habuit ergo Christus, &amp; habet secundum animam 
+      sa<lb ed="#L" n="10" break="no"/>pientiam, &amp; scientiam infinitam, quare &amp; gratiam &amp; gloriam consequenter. Alioquin 
+      vide<lb ed="#L" n="11" break="no"/>retur quod Deus posset eum plenius praemiare &amp; beatificare perfectius, &amp; per amplius quam  
+      <lb ed="#L" n="12"/>sit modo. Dicitque Petrus 3. Sentent. distinct. 13. Christum, secundum Iohannem, tantum 
+      <lb ed="#L" n="13"/>a conceptione accepisse sapientiae &amp; gratiae plenitudinem, vt Deus ei plenius conferre non 
+      <lb ed="#L" n="14"/>potuerit. Ad haec autem sub correctione maiorum, potest non improbabiliter responderi, 
+      di<lb ed="#L" n="15" break="no"/>stinctionibus aliquibus praelibatis. Beatitudo quidem &amp; gloria potest sumi pro beatitudine &amp; 
+      <lb ed="#L" n="16"/>gloria increata, atque creata. Prima est Deus, qua ipsemet, &amp; beati beatificantur &amp; 
+      glorifi<lb ed="#L" n="17" break="no"/>cantur licet dispariter, ipsomet testante, Ego protector tuus sum &amp; merces tua magna 
+      ni<lb ed="#L" n="18" break="no"/>mis, Gen. 15. Quare &amp; Ecclesiae tota rogat, Tu esto nostrum gaudium, qui es futurus 
+      prae<lb ed="#L" n="19" break="no"/>mium, quod &amp; suadent praemissa in Cotollario primi, primi. Beatitudo, &amp; gloria creata est, 
+      <lb ed="#L" n="20"/>aliquod bonum creatum simplex vel congregatum ex multis, a prima beatitudine &amp; gloria 
+      <lb ed="#L" n="21"/>deriuatum, videlicet a Deo creatum. Gratia etiam seu charitas potest sumi similiter bino 
+      <lb ed="#L" n="22"/>modo, pro increata scilicet &amp; creata, sicut 42. primi plenius declaratur. Proficere quoque in 
+      <lb ed="#L" n="23"/>merito habet duplicem intellectum; vnum, quantum ad vim virtutemve meriti, ita 
+      videli<lb ed="#L" n="24" break="no"/>cet quod proficiens fiat melior intensiue; alterum quantum ad numerum meritorum. Et haec 
+      <lb ed="#L" n="25"/>est distinctio Petri 3. Sentent. distinct. 18. de merito capitis nostri Christi. Loquendo igitur 
+      <lb ed="#L" n="26"/>de beatitudine, gloria, seu gratia increata; est creatura rationalis capax quodammodo 
+      beati<lb ed="#L" n="27" break="no"/>tudinis, gloriae, &amp; gratiae infinitae. Dei videlicet, qui est beat itudo, gloria, &amp; gratia infinita, 
+      <lb ed="#L" n="28"/>modo tamen finito, &amp; dispari in diuersis, nec sic procedit obiectio contra dicta. Loquendo 
+      <lb ed="#L" n="29"/>autem de beatitudine, gloria, gratiaue creata, dicendum videtur iuxta praemissa; quod 
+      con<lb ed="#L" n="30" break="no"/>siderata mensura &amp; graduentitatis cuiuscunque substantiae rationalis creatae, est aliqua species 
+      <lb ed="#L" n="31"/>gloriae, &amp; gratiae, naturalissime, conuenientissime, &amp; proportionalissime correspondens, 
+      <lb ed="#L" n="32"/>&amp; illius speciei aliquis certus gradus, &amp; cur, sicut supra. Ad illud autem quod obijcitur de 
+      <lb ed="#L" n="33"/>viatore, quod potest proficere in merito, &amp; in gratia vltra quemlibet terminum assignatum, 
+      <lb ed="#L" n="34"/>quantum ad profectum in gratia; praemissa respondent. Et similiter quantum ad 
+      capacita<lb ed="#L" n="35" break="no"/>tem gratiae de qua fiebat posterius argumentum. Sicut enim visus exterior est capax alicuius 
+      <lb ed="#L" n="36"/>lucis, &amp; speciei luminis aut coloris &amp; maioris ac maioris quantilibet sine fine, sicut aer 
+      <lb ed="#L" n="37"/>&amp; aqua, non tamen ad melius videndum, &amp; melius infinite; sed cuilibet oculo est ali quis 
+      <lb ed="#L" n="38"/>gradus conuenientissimus, &amp; proportionalissimus quo optime potest vti ad actum videndi, 
+      <lb ed="#L" n="39"/>&amp; de gustu similiter respectusaporum &amp; saporabilium specierum. Sic &amp; aspectus &amp; affectus 
+      <lb ed="#L" n="40"/>interior videtur aliquo modo capax alicuius luminis gloriae &amp; gratiae secundum essentiam 
+      ip<lb ed="#L" n="41" break="no"/>sam rei: &amp; maioris ac maioris quantumlibet, sicuti forsitan Asinus siue lignum, sicuti superius 
+      <lb ed="#L" n="42"/>est argutum; non tamen ad maiorem &amp; meliorem vsum, &amp; maiorem &amp; meliorem vlterius 
+      <lb ed="#L" n="43"/>infinite. Sed cuicunque creaturae rationali est aliquis gradus luminis, gloriae seu gratiae 
+      con<lb ed="#L" n="44" break="no"/>uenientissimus, proportionalissimus &amp; aptissimus, ad videndum gustandumque Deum, 
+      De<lb ed="#L" n="45" break="no"/>um videlicet gratuito diligendum, &amp; beatifice perfruendum: Ad hos enim effectus indiget 
+      <lb ed="#L" n="46"/>anima rationalis lumine gloriae, &amp; dono gratiae, teste Papa Clemente, Extra de haereticis vbi 
+      <lb ed="#L" n="47"/>prius, &amp; 39. primi. Tali ergo gradum gratiae habito in praesenti a viatore quocunque, non 
+      po<lb ed="#L" n="48" break="no"/>test vlterius proficere in gratia, ita videlicet quod gratia eius vlterius augeatur, quanquam in 
+      <lb ed="#L" n="49"/>statu vitae praesentis quantumlibet consernetur, &amp; talis videtur gradus gratiae, quem viator p 
+      <lb ed="#L" n="50"/>adultus in gratia constitutus, optime se exercens toto tempore vitae suae, per totam videlicet 
+      <lb ed="#L" n="51"/>suam periodum naturalem in termino illius haberet, animaue illius per totumue tempus 
+      me<lb ed="#L" n="52" break="no"/>rito deputatum, quod secundum Petrum 2. Sent. dist. 5. &amp; II. est in Angelis vsque ad diem 
+      iu<lb ed="#L" n="53" break="no"/>dicii. Quamobrem &amp; forsita videretur, quod de animabus humanis haberet idem dicere 
+      con<lb ed="#L" n="54" break="no"/>sequenter, vel aliquis gradus notus Deo. Sed obijcitur contra ista; Viator habens gradum 
+      <lb ed="#L" n="55"/>huiusmodi gratiae est optime dispositus ad meredum, &amp; si vita sua conseruetur vlterius, potest 
+      <lb ed="#L" n="56"/>vlterius multipliciter benefacere &amp; mereri, quare &amp; acquirere gratiam pleniorem. Alioquin  
+      <lb ed="#L" n="57"/>opportunitate benefaciendi concessa, tantum sibi valeret quiescere, quantum optime 
+      operari<lb ed="#L" n="58" break="no"/>Talis quoque potest peccare, &amp; deficere cadereque a gratia suae magna, quare &amp; proficere in 
+      <!--490.xml-->
+      <pb ed="#A" n="457"/>
+               <lb ed="#L" n="1"/>merito, &amp; in gratia consequenter. Alias etiam rediret haeresis Begardorum pretacta. Pro his 
+      <lb ed="#L" n="2"/>soluedis non irrationabiliter dici potest, quod gradus huiusmodi gratiae non habetur in vita 
+      <lb ed="#L" n="3"/>praesenti secundum cursum communem, sed in termino huius vitae, vel in foelicitate futura 
+      <lb ed="#L" n="4"/>&amp; si ponas quod Deus talem hominem miraculose conseruet, potest vlterius responderi quod 
+      <lb ed="#L" n="5"/>Deus de cuius gratia est quod aliquid boni meremur ab eo, in illo gradum praestituit terminum 
+      <lb ed="#L" n="6"/>meritorum, ita quod opera huiusmodi hominis non sint ex tunc meritoria, sed potius 
+      praemia<lb ed="#L" n="7" break="no"/>toria &amp; glorificatoria operanti, &amp; alijs fructuosa, sicut est de pijs operibus beatorum perfecte 
+      <lb ed="#L" n="8"/>Ceujusmodi sunt vt creditur a quibusdam, Christus, Maria, Iohannes, &amp; Angeli confirmati 
+      <lb ed="#L" n="9"/>quae miseris exhibentur. Vel aliter dici potest, quod talis potest proficere in merito quantum 
+      <lb ed="#L" n="10"/>ad numerum meritorum, &amp; ad merendum forsitan alijs multa bona, sed non secundum vim 
+      <lb ed="#L" n="11"/>meriti aut virtutem, nec etiam sibi ipsi vt gratia sua aut gloria augeatur: Habet enim 
+      actuali<lb ed="#L" n="12" break="no"/>ter in praesenti tantam plenitudinem // gratiae, debeturque sibi etiam in praesenti tanta plenitudo 
+      <lb ed="#L" n="13"/>gloriae pro futuro, quantae est capax modo praedicto, quanta scilicet optime &amp; 
+      delectabilissi<lb ed="#L" n="14" break="no"/>me potest vti. Et si forsitan replices, quod si talis fuisset sanctificatus in vtero ad gradum 
+      gra<lb ed="#L" n="15" break="no"/>tie praetaxatum, nunquam in tota vita sua potuit quippiam meruisse; dicendum quod potuit, 
+      <lb ed="#L" n="16"/>&amp; non potuit modis dictis. Nec aliquis seruulus reputet istud graue: sic enim fuit de Domino 
+      <lb ed="#L" n="17"/>nostro Christo, dicente Gregorio primo super Ezechielem, homil. 62. Redemptor noster qui 
+      <lb ed="#L" n="18"/>ex conceptione &amp; natiuitate perfectus Deus &amp; homo existit, iuxta virtutes animae, quo potu 
+      <lb ed="#L" n="19"/>isset proficere omnino non habuit, in membris autem suis, quae nos sumus quotidie proficit, 
+      <lb ed="#L" n="20"/>Quod &amp; Petrus 3. Sent. dist. 18. planissime contestatur: Neque etiam sancti Angeli 
+      confir<lb ed="#L" n="21" break="no"/>mati per officia nobis exhibita aliquid nunc merentur, sicut multis videtur, quod de Enoch &amp; 
+      <lb ed="#L" n="22"/>Elia nonnullis apparet. Et constat certissime quod post diem iudicij, &amp; adeptionem 
+      beatitudi<lb ed="#L" n="23" break="no"/>nis consummatae, neque Angeli, neque homines diligendo Deum, &amp; inuicem Deum 
+      laudan<lb ed="#L" n="24" break="no"/>do, &amp; ipsi in omnibus seruiendo aliquid merebuntur. Alioquin beatitudo creaturae rationalis 
+      <lb ed="#L" n="25"/>nunquam foret perfecta, nunquam finaliter consummata. Adhuc autem aliquis subtilis for 
+      <lb ed="#L" n="26"/>tasse subtilius &amp; si non verius respondebit, quod aliquem fieri meliorem dupliciter potest in 
+      <lb ed="#L" n="27"/>telligi, vno modo per bonitatem absolutam, &amp; realiter positiuam, cuiusmodi est bonitas 
+      gra<lb ed="#L" n="28" break="no"/>tiae &amp; virtutis, aliter autem quodammodo relatiue: Videtur enim quod homo habens gratiam 
+      <lb ed="#L" n="29"/>&amp; virtutes morales non in summo, bene operando fieret melior, &amp; si Deus secundum 
+      possi<lb ed="#L" n="30" break="no"/>bile absolutum non daret ei augmentum gratiae, nec virtutis, melior, inquam, relatiue per 
+      re<lb ed="#L" n="31" break="no"/>lationem videlicet ad opera bona quae fecit &amp; dicet forsitan consequenter, quod homo 
+      ha<lb ed="#L" n="32" break="no"/>bens gradum gratiae praetaxatum bene operando sit melior secundo modo non primo. Sed 
+      <lb ed="#L" n="33"/>quomodo fit quis melior nisi in aliquo bono crescat, acquirat, &amp; habeat maius bonum, quod 
+      <lb ed="#L" n="34"/>per positionem hic non facit, dicitque Augustinus Enchirid. 127. Charitas quanto in 
+      quocun<lb ed="#L" n="35" break="no"/>que maior est, tanto melior est in quo est. Secundum istam quoque sententiam Christus 
+      pro<lb ed="#L" n="36" break="no"/>fecit in bonitate &amp; melior continue, meliorque fiebat, nec adhuc desiuit fieri melior opem 
+      mi<lb ed="#L" n="37" break="no"/>seris impendendo. Quinimo e Deus ipse fieret continue melior, bene continue operando 
+      I<lb ed="#L" n="38" break="no"/>sta quoque responsio non multum difficultatem nostram concernit. Licet enim talis bonitas 
+      <lb ed="#L" n="39"/>possit augeti in homine quantumcunque, non tamen gratia nec virtus, habitus nec actus, 
+      de<lb ed="#L" n="40" break="no"/>lectatio nec gloria augeretur vltra terminum limitatum. Quod autem fuit obiectum, si 
+      ha<lb ed="#L" n="41" break="no"/>bens huiusmodi gradum gratiae bene operando nequaquam augmentum gratiae mereretur, 
+      <lb ed="#L" n="42"/>tantum valeret sibi quiescere, quantum optime operari nusquam procedit, nec tenet sicut 
+      <lb ed="#L" n="43"/>praecedentia manifestant. In casu etiam nisi talis bene operaretur proximo succurrendo, vel 
+      <lb ed="#L" n="44"/>legem Dei tuendo, iuste amitteret gratiam suam totam: valeret igitur sibi operatio sua bona, 
+      <lb ed="#L" n="45"/>ad gratiam habitam conseruandam. Nec mouet quod argutum fuit consequenter; Talis 
+      po<lb ed="#L" n="46" break="no"/>test peccare &amp; eadere a gratia, ergo &amp;st proficere in merito &amp; in gratia, nisi fortassis 
+      intelliga<lb ed="#L" n="47" break="no"/>tur de profectu in merito quantum ad numerum meritorum &amp; in gratia, quantum ad grata 
+      o<lb ed="#L" n="48" break="no"/>pera facienda, &amp; gratiam conseruandam. Nec redit haeresis Begardorum praemissa. 
+      Volue<lb ed="#L" n="49" break="no"/>runt enim astruere, quod homo in vita praesenti, supposita aetate communi, &amp; conuersatione 
+      <lb ed="#L" n="50"/>religionis communi sine alio sanctitatis priuilegio excellenti, posset tantum ac talem gradum 
+      <lb ed="#L" n="51"/>perfectionis acquirere, &amp; habere, quod omnino impeccabilis redderetur, &amp; amplius in gratia 
+      <lb ed="#L" n="52"/>proficere non valeret, &amp; quod ita posset longo tempore conuersari,: quare &amp; consequenter 
+      <lb ed="#L" n="53"/>dixerunt sicut Decretalis recitat vbi prius, quod ieiunare non oportet hominem, vel orare 
+      <lb ed="#L" n="54"/>postquam gradum perfectionis huiusmodi fuerit assecutus, quia tunc sensualitas est ita 
+      perfe<lb ed="#L" n="55" break="no"/>cte spiritui &amp; rationi subiecta, quod homo potest libere corpori concedere quicquid placet; 
+      <lb ed="#L" n="56"/>quod etiam illi qui sunt in praedicto gradu perfectionis, &amp; spiritu libertatis non sunt humanae 
+      <lb ed="#L" n="57"/>subiecti obedientiae, nec ad aliqua praecepta Ecclesiae obligantur, quia vt asserunt, vbi 
+      spi<lb ed="#L" n="58" break="no"/>ritus Domini, ibi libertas, quod insuper homo ita potest finalem beatitudinem secundum 
+      <!--491.xml-->
+      <pb ed="#A" n="458"/>
+               <lb ed="#L" n="1"/>omnem gradum perfectionis in praesenti assequi, sicut eam in vita obtinebit beata. Sed A 
+      <lb ed="#L" n="2"/>haec constat esse deliramenta inania &amp; mendosa, nec ex praecedentibus consequuntur. 
+      <lb ed="#L" n="3"/>Sed adhuc fortassis mussitans cogitabit, quod etsi ista sint vera de merito, gratia &amp; gloria, non  
+      <lb ed="#L" n="4"/>tamen de peccato, malitia, atque poena. In his // enim non potest terminus aliquis possibilis. 
+      <lb ed="#L" n="5"/>homini assignari, vltra quem si viuat quantumlibet non posset peccare vlterius, &amp; vlterius 
+      <lb ed="#L" n="6"/>sine fine, faciendo videlicet scienter &amp; libere quae sunt mala: quare &amp; potest semper fieri 
+      ma<lb ed="#L" n="7" break="no"/>gis malus &amp; magis &amp; amplius puniendus. Circa istud potest esse duplex opinio responsiua, 
+      <lb ed="#L" n="8"/>Vna, quod est aliquis gradus maximus peccati, malitiae &amp; poenae cuicunque creaturae 
+      ratio<lb ed="#L" n="9" break="no"/>nali possibilis, quo adepto non potest in illis vltra proficere intensiue, &amp; iste videtur gradus 
+      <lb ed="#L" n="10"/>quem daemones post iudicium finale habebunt, &amp; homines reprobati; alioquin ciuitas 
+      Ba<lb ed="#L" n="11" break="no"/>bysonis atque diaboli nequaquam tunc acciperet finem suum, sed adhuc esset in via, ciuitate 
+      <lb ed="#L" n="12"/>Dei finaliter consummata; cum tamen consonum videatur, &amp; consonum dietis Patrum, 
+      <lb ed="#L" n="13"/>quod Deus simul perficiat totum mundum, dicitque Augustinus Enchir. 121. post 
+      resurre<lb ed="#L" n="14" break="no"/>ctionem vere facto vniuerso impletoque iudicio, suos fines habebunt ciuitates duae, 
+      vna<lb ed="#L" n="15" break="no"/>Christi, altera diaboli; vna bonorum, altera malorum, vtraque tum Angelorum &amp; 
+      homi<lb ed="#L" n="16" break="no"/>num, istis voluntas, illis facultas non poterit vlla esse peccandi. Sed ista opinio non satis 
+      <lb ed="#L" n="17"/>plene respondet: Si enim quaelibet creatura rationalis sit capax certi gradus peccati, &amp; 
+      ma<lb ed="#L" n="18" break="no"/>litiae &amp; non vltra, &amp; damnati vsque ad gradum illum inclusiue proficient vt supponit, 
+      ali<lb ed="#L" n="19" break="no"/>qui damnati diupeccabunt post iudicium consummatum, illi videlicet qui cum paruo 
+      pecca<lb ed="#L" n="20" break="no"/>to mortali modico tempore ante iudicium morientur, nec attingent ante iudicium gradum 
+      <lb ed="#L" n="21"/>illum. Adhuc autem ponatur per omnipotentiam Dei magnam, quod aliquis homo tam 
+      <lb ed="#L" n="22"/>diu viuat in vita praesenti semper peccando, donec attingat &amp; habeat gradum illum peccati 
+      <lb ed="#L" n="23"/>atque malitiae, &amp; adhuc si vita sua &amp; vires prolongentur vlterius, potest peccare vlterius, 
+      <lb ed="#L" n="24"/>Lulteriusque peccare; Potest enim furari, occidere, &amp; maechari scienter, sciendo videlicee 
+      <lb ed="#L" n="25"/>quod est contra Deum &amp; contra Dei mandatum. Dicetur fortassis quod talis, habito 
+      taligra<lb ed="#L" n="26" break="no"/>dum, non potest operari vlterius libere, sed necessario &amp; coacte. Amittit enim tunc plene 
+      v<lb ed="#L" n="27" break="no"/>sum liberi arbitrij, &amp; subijcitur necessario seruituti peccati, diaboli, &amp; cuiuslibet tentamenti, 
+      <lb ed="#L" n="28"/>quare nec peccare proprie reputandus. Sed istud non est necessarium absolute: Posset enim 
+      <lb ed="#L" n="29"/>Deus omnipotens seruare in eo plenam arbitrij libertatem, restituereue ablatam sine 
+      praeser<lb ed="#L" n="30" break="no"/>uatione a peccato, aut dimissione peccati, quod si fiat potest peccare vlterius sicut ante. 
+      Ali<lb ed="#L" n="31" break="no"/>ter forsitan dicitur quod quaecunque creatura rationalis est finitae capacitatis &amp; certae; 
+      qua<lb ed="#L" n="32" break="no"/>propter habito maximo gradu peccati &amp; malitiae cuius est capax, non potest peccare vlterius; 
+      <lb ed="#L" n="33"/>sed istud non videtur propter rationem praemissam. Malitia etiam non est res aliqua positiua 
+      <lb ed="#L" n="34"/>teste 26. primi, sicut gratia &amp; virtutes, sed solummodo priuatiua, &amp; hoc nequaquam 
+      chari<lb ed="#L" n="35" break="no"/>tatis aut gratiae, immediate essentialiter proprieque loquendo, sed libertatis a peccato, &amp; a 
+      <lb ed="#L" n="36"/>peccatis omnibus possibilibus non commissis, puritatis, immunitatis, &amp; innocentiae 
+      natu<lb ed="#L" n="37" break="no"/>ralis, &amp; haec videtur tanta naturaliter in quocunque, quanta peccata posset committere nec 
+      <lb ed="#L" n="38"/>commisit. Opinio autem secunda existimat quod homo potest in infinitum peccare vltra? 
+      <lb ed="#L" n="39"/>quemcunque terminum possibilem assignari, &amp; quod mali post finale iudicium sic 
+      pecca<lb ed="#L" n="40" break="no"/>bunt, &amp; similiter de puniri videlicet poena sensus. Sed secunda particula opinionis istius // 
+      de<lb ed="#L" n="41" break="no"/>ssruitur per praemissa. Si insuper mali post finale iudicium peccabunt vlterius, qua ratione &amp; 
+      <lb ed="#L" n="42"/>boni no similiter merebuntur, contra praemissa? Tertia quoque eius particula refellitur per 
+      pri<lb ed="#L" n="43" break="no"/>ora. Omnis namque potetia perceptiua creata, materialis, aut immaterialis, sicut est entitatis 
+      de<lb ed="#L" n="44" break="no"/>terminatae, finitae. &amp; certae, ita videtur capacitatis, actiuitatis, &amp; perceptiuitatis determinatae. 
+      <lb ed="#L" n="45"/>finitae: &amp; certae; Non ergo potest aliqua creatura rationalis aliquod perceptibile, seu 
+      sensibi<lb ed="#L" n="46" break="no"/>se puta ignem bene sentire siue percipere, &amp; aliquem in duplo melius, &amp; alique in quadruplo, 
+      <lb ed="#L" n="47"/>&amp; sic vlterius sine fine; ita videlicet quod sensatio sua, siue perceptio, actus videlicet 
+      senti<lb ed="#L" n="48" break="no"/>endi seu percipiendi fiat in duplo intensior, melior &amp; perfectior, &amp; in quadruplo &amp; deinceps, 
+      <lb ed="#L" n="49"/>&amp; nisi sic multiplicetur sensatio suo, non sic multiplicabitur sua poena, videlicet poena sensus; 
+      <lb ed="#L" n="50"/>Res enim animata, quidquid patiatur, eo quod non sentit, non punitur; homo etiam si 
+      pone<lb ed="#L" n="51" break="no"/>retur in igne, &amp; eum non sentiret, non esset ei poena, sicut fuit de tribus pueris in camino. Et  
+      <lb ed="#L" n="52"/>si duo disparis complexionis ponerentur in igne aequali, &amp; omnia dimitterentur suis 
+      natu<lb ed="#L" n="53" break="no"/>ris, non aequaliter punirentur, sed tenerior &amp; passibilior amplius puniretur non propter 
+      po<lb ed="#L" n="54" break="no"/>tentiam extrinsecam ampliorem, sed propter sensationem intrinsecam poenalem maiorem.  
+      <lb ed="#L" n="55"/>Si quis insuper sub certo gradum finito &amp; paruulo cruciaretur ab igne, quantumcunque ignis 
+      <lb ed="#L" n="56"/>multiplicaretur, si eius fensatio nullatenus augeretur, non amplius puniretur. In ipsa 
+      <lb ed="#L" n="57"/>namque sensatione seu perceptione est tota afflictio, tota poena, videlicet poena sensus; 
+      <lb ed="#L" n="58"/>quod &amp; ex hoc euidenter apparet, quod si per potentiam Dei magnam ignis quantuslibet 
+      <!--492.xml-->
+      <pb ed="#A" n="459"/>
+               <lb ed="#L" n="1"/>cuipiam apponatur, sine sensatione non cruciatur in aliquo nec punitur; si autem sola 
+      <lb ed="#L" n="2"/>sensatio poenalis intrinseca conseruetur igne remoto, punitur aequaliter sicut prius. 
+      Ad<lb ed="#L" n="3" break="no"/>huc autem simili ratione qua quis est capax poenae &amp; tristitiae infinitae, aut infinitae poenae, 
+      <lb ed="#L" n="4"/>tristitiaeque est capax, est &amp; delectationis creatae, gratiae, gloriae, &amp; beatitudinis infinitae 
+      con<lb ed="#L" n="5" break="no"/>tra priora: Igitur sub correctione maiorum videtur consequenter dicendum, quod sicut 
+      <lb ed="#L" n="6"/>cuilibet creaturae rationali est aliqua delectatio maxima creata possibilis, sic &amp; aliqua tristitia 
+      <lb ed="#L" n="7"/>maxima, &amp; aliqua maxima poena sensus, &amp; haec videtur consistere in maxima sensatione rei 
+      <lb ed="#L" n="8"/>maxime contrariae &amp; poenalis. Videtur tamen propter praemissa contra opinionem 
+      prio<lb ed="#L" n="9" break="no"/>rem, quod homo vltra quemcunque terminum possibilem assignari, in infinitum potest 
+      pec<lb ed="#L" n="10" break="no"/>care. Sed obijcies forsitan supponendo quod quis peccauerit, donec meruerit maximum 
+      gra<lb ed="#L" n="11" break="no"/>dum sibi possibilem poenae sensus, &amp; quod adhuc peccet vlterius: aut ergo punietur poena 
+      <lb ed="#L" n="12"/>sensus, &amp; destruitur responsio nunc praemissa, aut non sic punietur vlterius, &amp; remanebit 
+      pec<lb ed="#L" n="13" break="no"/>catum aliquod impunitum contra; tam partem Corollarij primi, primi; &amp; contra 3 um primi. 
+      <lb ed="#L" n="14"/>Item tunc damnati odiendo &amp; contemnendo Deum, &amp; mala similia faciendo, semper 
+      pecca<lb ed="#L" n="15" break="no"/>rent, contra priora. Hic non improbababiliter dici potest, quod omnis damnatus punietur 
+      <lb ed="#L" n="16"/>illa poena quam habebit pro peccatis suis omnibus non dimissis, &amp; in casu praetacto, vbi duo 
+      <lb ed="#L" n="17"/>peccantes inaequaliter, vnus videlicet donec meruerit maximum gradum illum praecise, &amp; 
+      a<lb ed="#L" n="18" break="no"/>lius capacitatis aequalis plus peccans puniretur aequaliter poena fensus, quia maior peccator 
+      <lb ed="#L" n="19"/>non potest sic magis puniri, non tamen simpliciter aequaliter punirentur, sed magis peccans, 
+      <lb ed="#L" n="20"/>magis etiam puniretur: Pro quo sciendum quod duplex est poena peccati, vna accidentalis, vt 
+      <lb ed="#L" n="21"/>puta verbera, vincula, carceres, ignes, amissiones bonorum &amp; damna, &amp; caetera talia quae 
+      pos<lb ed="#L" n="22" break="no"/>sunt adesse &amp; non adesse peccanti: Et de tali poena loquendo, saepe videtur contingere quod 
+      <lb ed="#L" n="23"/>peceantes aequaliter, inaequaliter puniuntur; sicut videtur de duobus homicidis aequalibus, 
+      <lb ed="#L" n="24"/>quorum vnus impoenitens occiditur in praesenti, &amp; alter impoenitens naturali morte decedit,  
+      <lb ed="#L" n="25"/>quorum insuper primus si habuit maxima bona talia, diuitias, &amp; terras, omnia confiscantur; 
+      <lb ed="#L" n="26"/>omnia illa perdit pro se &amp; haeredibus suis semper; Alter vero &amp; si habeat tanta bona, si non  
+      <lb ed="#L" n="27"/>fuerit conuictus legitime, &amp; damnatus, nequaquam: vel si nulla habeat, etiam damnatus 
+      le<lb ed="#L" n="28" break="no"/>gitime nulla perdit. Similiter quoque videtur de habente maximam charitatem, cui &amp; 
+      secun<lb ed="#L" n="29" break="no"/>dum praesentem iustitiam debetur maxima beatitudo in coelo, peccante mortaliter aequaliter 
+      <lb ed="#L" n="30"/>cum habente charitatem minorem aut nullam. Alia est poena essentialis, essentialiter annexa 
+      <lb ed="#L" n="31"/>peccato, &amp; inseparabiliter concomitans ipsum, semper videlicet esse malum, seruitus peccati, 
+      <lb ed="#L" n="32"/>amissio libertatis prioris, // puritatis, immunitatis &amp; innocentiae praecedentis, sicut ex 3 Iaparte 
+      <lb ed="#L" n="33"/>Corollarij primi, primi, magis apparet: &amp; haec poena incomparabiliter excedit omnem aliam 
+      <lb ed="#L" n="34"/>poenam sensus aue damni non importantem peccatum, sicut &amp; patet ex eadem 3ia parte; &amp;  
+      <lb ed="#L" n="35"/>ista poena, qui plus peccat, necessario plus punitur. Et si obijcias illud Apoc. 18. Quantum se 
+      <lb ed="#L" n="36"/>glorificauit, &amp; in delicijs fuit, tantum dato illi tormentum L&amp; luctum; / Dicendum quod 
+      ve<lb ed="#L" n="37" break="no"/>rum est ad literam, imo magis: pro glorificatione namque, &amp; deliciarum affluentia temporali 
+      <lb ed="#L" n="38"/>habebit tormentum &amp; luctum aeternum, &amp; si per tantum &amp; quantum intelligas 
+      proportionali<lb ed="#L" n="39" break="no"/>ter intensiue, verum est caeteris paribus, &amp; si sit capax, sicut &amp; illud legis talionis, Reddet 
+      o<lb ed="#L" n="40" break="no"/>culum pro oculo &amp; caetera talia, oportet intelligi &amp; exponi. Si namque caecus oculum 
+      viden<lb ed="#L" n="41" break="no"/>tis erueret, quomodo oculum suum pro oculo illi reddet? Aliter potest dici quod illud Apoc. 
+      <lb ed="#L" n="42"/>est verum de facto, sicut &amp; multa similia in Scriptura; quia de facto, &amp; secundum legem 
+      com<lb ed="#L" n="43" break="no"/>munem, sicut verisimiliter creditur, nullus merebitur poenam sensus maiorem quam sit capax, 
+      <lb ed="#L" n="44"/>imo nec tantam: Neque ex dicto priori de possibili consequitur de inesse, quod damnati 
+      sem<lb ed="#L" n="45" break="no"/>per peccabunt, loquendo proprie de peccato quod ssecundum August. 3. de libero abitr. 30. 
+      <lb ed="#L" n="46"/>libera voluntate &amp; a sciente committitur: Videtur enim quod damnati post finale iudicium 
+      <lb ed="#L" n="47"/>amittent libertatem arbitrij quantum ad liberum vsum suum; Tunc enim veritate testante in 
+      <lb ed="#L" n="48"/>tenebras exteriores mirtentur? Et nonne eadem veritate docente lumen corporis est // oculius. 
+      <lb ed="#L" n="49"/>oculus interior spiritalis; Fientigitur tunc vt videtur insani, caeci, amentes &amp; penitus furiosi, 
+      <lb ed="#L" n="50"/>Tune // enim secundum vocem Propheticam oculus talis turbabitur a furore, &amp; hoc forsitan 
+      <lb ed="#L" n="51"/>tunc continget, vel quia Deus in poenam abusus libertatis arbitrij, vel ex alia forsan causa 
+      au<lb ed="#L" n="52" break="no"/>feret eam ab eis, vel quia propter vehementiam nimiam tormentorum, amittent omne 
+      exer<lb ed="#L" n="53" break="no"/>citium liberum rationis. Vnde August. Psal. dum exponens; Sunt, inquit, tenebrae exteriores, 
+      <lb ed="#L" n="54"/>que magis ad diem iudicij pertinere intelliguntur, vt penitus extra Deum sit, quisquis dum 
+      tem<lb ed="#L" n="55" break="no"/>pus esset, corrigi noluit; penitus autem esse extra Deum quid est, nisi esse in summa caecitate? 
+      <lb ed="#L" n="56"/>Ad illud autem quod arguebatur superius quod Deus potest capacitatem animae rationalis 
+      quan<lb ed="#L" n="57" break="no"/>tumlibet augmentare; dicendum videtur, quod si capacitatem animae rationalis augmenter, 
+      aug<lb ed="#L" n="58" break="no"/>mentat &amp; proportionaliter potentia resistendi tentationibus, ne succumbat. Veruntamen, ex 
+      <!--493.xml-->
+      <pb ed="#A" n="460"/>
+               <lb ed="#L" n="1"/>quo capacitas animae non est sibillaccidentalis, sed essentialis, videtur quod nullius anime 
+      capa<lb ed="#L" n="2" break="no"/>citas posset augeri, nisi essentia animae essentialier augeretur; quod fieri nusquam potest eadem  
+      <lb ed="#L" n="3"/>anima numero permanente. Potest tamen Deus omnipotens quacunque anima assignata facere 
+      <lb ed="#L" n="4"/>aliam animam capacitatis maioris quantumlibet, aliamque maioris. Quod vero fuit argutum, 
+      <lb ed="#L" n="5"/>quemlibet hominem in praesenti habere bonitatem simpliciter infinitam non est verum: Nulla 
+      <lb ed="#L" n="6"/>enim est nec esse potest bonitas infinita simpliciter nisi Deus; sicut docet Coroll. primi, primi. 
+      <lb ed="#L" n="7"/>Et si esset verum, vtcunque non obstat: Bonitas enim talis non est actiua, nec motiua voluntatis, 
+      <lb ed="#L" n="8"/>sicut obiectum delectabile eam mouet, quare nec coactiua aut necessitatiua ipsius. Probatio 
+      <lb ed="#L" n="9"/>quoque vlterius non procedit, quoniam etsi homo haberet bonitatem innocentialem 
+      huiusmo<lb ed="#L" n="10" break="no"/>di infinitam, non delectaretur de illa simpliciter &amp; proprie infinite; sicut nec de infinita 
+      multi<lb ed="#L" n="11" break="no"/>tudine suarum partium, aut punctorum vel instantium temporis, quo bene, meritorie &amp; 
+      iu<lb ed="#L" n="12" break="no"/>cunde vixit, seu viuet, aut thesauro infinito intensiue, extensiue, &amp; numerose vere vel 
+      secun<lb ed="#L" n="13" break="no"/>dum firmam opinionem ipsius habito aut habendo, neque simul delectatur de qualibet 
+      infini<lb ed="#L" n="14" break="no"/>tarum bonitatum innocentialium si ponantur delectatione singulari, propria, &amp; distincta, sed 
+      <lb ed="#L" n="15"/>de aliquibus forsitan successiue, aut simul de omnibus vna delectatione communi, sicut &amp; in 
+      <lb ed="#L" n="16"/>exemplis alijs praelibatis. Illud autem quod arguitur consequenter, quod bonum libertatis &amp; 
+      <lb ed="#L" n="17"/>innocentiae a peccato est melius &amp; eligibilibus bonis alijs quibuscunque etiam infinitis, 
+      quo<lb ed="#L" n="18" break="no"/>rum non habitio non importat peccatum, quare &amp; delectationis maioris &amp; simpliciter 
+      infini<lb ed="#L" n="19" break="no"/>tae, fallit, deficit, non procedit nisi fortassis ad aliquem extraneum intellectum; videlicet quod 
+      <lb ed="#L" n="20"/>firmius, constantius, amantius, &amp; preeligentius delectatur de bono predicto, quam de 
+      quantis<lb ed="#L" n="21" break="no"/>cunque alijs supradictis, &amp; hoc est infinite quodammodo extensiue, aut etiam numerose, ad  
+      <lb ed="#L" n="22"/>bona videlicet alia innumerabilia comparando; non tamen infinite simpliciter intensiue, 
+      <lb ed="#L" n="23"/>Tunc enim tantum gauderet de vno minimo tali bono, sicut de bono maiori, &amp; bonis alijs 
+      simi<lb ed="#L" n="24" break="no"/>libus, &amp; melioribus vniuersis, etiam ipso Deo: Omnes quoque beati, etiam paruuli aequaliter tunc 
+      <lb ed="#L" n="25"/>gauderent, &amp; viatores &amp; coprehensores similiter, quilibet enim horum gauderet infinite 
+      simpli<lb ed="#L" n="26" break="no"/>citer intensiue. Sed forsitan replicabis dicendo, Si talis homo non gaudet de tali bono 
+      inno<lb ed="#L" n="27" break="no"/>cetiae infinite simpliciter intensiue, gaudet sub aliquo gradum finito, &amp; capiatur aliquod bonum, 
+      <lb ed="#L" n="28"/>quo posset sine peccato carere, quod vocetur bonum indifferens, de quo habito gaudeat; vel 
+      <lb ed="#L" n="29"/>ergo gaudet aequaliter de his bonis, vel de altero horum magis: Non aequaliter, quia bonum 
+      <lb ed="#L" n="30"/>innocentiae est infinite eligibilius, &amp; amabilius alio, nec minus de bono innocentiaa propter 
+      <lb ed="#L" n="31"/>idem; minus ergo gaudet de illo bono indifferenti accepto, &amp; hoc non infinite, sed tantum 
+      fi<lb ed="#L" n="32" break="no"/>nite. Potest ergo illud bonum indifferens tantum augeri, quod aequaliter imo &amp; plus gaudeat 
+      <lb ed="#L" n="33"/>de illo, quam de alio, contra praemissa. Rursum sit A gradus delectationis finitus, quo hic 
+      gau<lb ed="#L" n="34" break="no"/>det de bono innocentiae supradicto, &amp; B gradus multum intensior delectationis beatificae 
+      cu<lb ed="#L" n="35" break="no"/>ius est capax, qua tamen potest carere sine peccato. Hic igitur magis desiderat, eligit, atque 
+      <lb ed="#L" n="36"/>amat illud innocentiae suae bonum, quam delectationem illam B quantumcunque maiorem,  
+      <lb ed="#L" n="37"/>quare &amp; secundum praemissa magis gaudet de illo, contra hypothesin vt videtur, cum de 
+      <lb ed="#L" n="38"/>maiori gaudio videatur magis gaudendum. Pro istis soluendis, sciendum quod hominem 
+      <lb ed="#L" n="39"/>magis gaudere de isto bono quam de illo dupliciter potest intelligi, sicut superius 
+      tange<lb ed="#L" n="40" break="no"/>batur; Vno modo firmius, amantius, praeeligentius, extensius seu numerosius ad 
+      bo<lb ed="#L" n="41" break="no"/>num videlicet aliud, bonaue alia comperando, &amp; sic homo magis infinite 
+      quodammo<lb ed="#L" n="42" break="no"/>do delectatur de innocentiae suae bono, quam de bono indifferenti, aut bonis 
+      indifferen<lb ed="#L" n="43" break="no"/>tibus quantiscunque, sub gradum tamen delectationis finito intrinsece intensiue, &amp; forsitan 
+      mul<lb ed="#L" n="44" break="no"/>tum remisso. Sic parentes magis gaudent in filio vnico, quam de Asinis infinitis; sic 
+      <lb ed="#L" n="45"/>virtuosus magis gaudet in bono virtutis quam in bonis fortunae quantumlibet cumulatis: 
+      <lb ed="#L" n="46"/>&amp; sic vniuersaliter de bono maiori cuilibet caeteris paribus amplius est gaudendum. Alio 
+      <lb ed="#L" n="47"/>modo recentius, feruentius &amp; intensius, &amp; sic plerunque aliquis magis gaudet de bono 
+      <lb ed="#L" n="48"/>minori, quam de maiori, puta de vna auicula, de vno ludicro paruulo, de strenuitate 
+      vni<lb ed="#L" n="49" break="no"/>us Leporarij aut Falconis, quam de maiori, puta de vna villa, comitatu, aut regno; sic 
+      quis<lb ed="#L" n="50" break="no"/>piam magis gaudet de vna re perdita &amp; inuenta, quam de pluribus &amp; melioribus conseruatis, 
+      <lb ed="#L" n="51"/>sic dux exercitus magis gaudet de // vno milite probo a periculo incolumi redeunte, quam de 
+      <lb ed="#L" n="52"/>mille alijs, aut exercitu toto residuo tute morantibus infra castra. Per haec, vt puto, patet 
+      quae<lb ed="#L" n="53" break="no"/>dam responsio ad obiecta. Ad illud autem quod superius erat obiectum; quod quicquid est 
+      <lb ed="#L" n="54"/>capacitatis finitae potest satiari plenarie aliquo bono finito; dicendum videtur, quod hoc est 
+      <lb ed="#L" n="55"/>verum de anima rationali, &amp; de bono finito creato, non tamen quatenus est bonum creatum 
+      <lb ed="#L" n="56"/>finitum solummodo, &amp; ibi finaliter persistendo, sed quatenus ipsam copulat, &amp; coniungit 
+      fi<lb ed="#L" n="57" break="no"/>naliter cum bono increato, aeterno, simpliciter infinito, ipsam plenarie satiante, &amp; tale bonum 
+      <lb ed="#L" n="58"/>finitum creatum videtur aliqua dispositio Dei formis, aliqua Iux sincera purgans &amp; eleuans 
+      <!--494.xml-->
+      <pb ed="#A" n="461"/>
+               <lb ed="#L" n="1"/>animam ad lucem inaccessibilem tam distantem perspicue contemplandum, ipsamque 
+      ani<lb ed="#L" n="2" break="no"/>mam connectens &amp; copulans cum hac luce, ad ipsam beatifice perfruendum; &amp; haec 
+      dispo<lb ed="#L" n="3" break="no"/>sitio, seu Iux a quibusdam Doctoribus, &amp; a Papa Clemente de haereticis vbi prius; 
+      su<lb ed="#L" n="4" break="no"/>men gloriae nuncupatur, sicut apparet ex 39. primi. Aliter posset dici quod quanquam anima 
+      <lb ed="#L" n="5"/>sit capacitatis finitae. non potest tamen satiari plenarie nisi bono infinito;) quod bamun 
+      bo<lb ed="#L" n="6" break="no"/>num non capit simpliciter infinite, nec omnino ita plene sicut illud bonum seipsum, sed mor 
+      <lb ed="#L" n="7"/>do quodam finito iuxta capacitatis suae mensuram, &amp; anima excellentiori im gradu 
+      essen<lb ed="#L" n="8" break="no"/>tiae, seu naturae excellentius &amp; plenius ipsum capit: Nulla tamen creatura ipsum potest 
+      ca<lb ed="#L" n="9" break="no"/>pere infinite simpliciter omniquaque, sicut ipsum seipsum, sicut diuinae¬personae mutuo se 
+      <lb ed="#L" n="10"/>capiunt &amp; fruuntur. Nec istud in anima, seu creatura rationali est singulariter 
+      admiran<lb ed="#L" n="11" break="no"/>dum. Nulla enim creatura irrationalis exigua satiatur plenarie nisi per Deum simpliciter 
+      in<lb ed="#L" n="12" break="no"/>finitum. Ipse enim est causa finalis omnium vltimata, sicut apparet, ex Corollario 
+      pri<lb ed="#L" n="13" break="no"/>mi, primi: quod &amp; Philosophia saepe testatur. Omnia igitur naturaliter ipsum desiderant,  
+      <lb ed="#L" n="14"/>quare nec quietantur finaliter fine ipso, absque hoc, quod ipsum participent modis suis, 
+      se<lb ed="#L" n="15" break="no"/>cundum mensuram &amp; varietatem capacitatum suarum ipsis naturaliter inditarum. Quare &amp;  
+      <lb ed="#L" n="16"/>Philosophus, 2. de Anima, 34. Naturalissimum, inquit, omnibus viuentibus inest, quaecunque 
+      <lb ed="#L" n="17"/>perfecta, &amp; non orbata, aut generationem spontandam habent, facere alterum, quale ipsum, 
+      <lb ed="#L" n="18"/>animal quidem animal, planta autem plantam, quatenus ipso semper &amp; diuino, &amp; immortali 
+      <lb ed="#L" n="19"/>participent secundum quod possunt. Omnia enim illud appotunt, &amp; illius causa agunt omnia 
+      <lb ed="#L" n="20"/>quaecunque agunt secundum naturam. Qui &amp; 3. Phys. 30. recitans &amp; approbans sententias 
+      <lb ed="#L" n="21"/>omnium antiquorum Philosophorum naturalium de infinito, videlicet quod est principium, 
+      <lb ed="#L" n="22"/>non ex principio, &amp; ingeneratum, &amp; incorruptibile quod continet omnia &amp; guberuat, &amp; quod 
+      <lb ed="#L" n="23"/>hoc infinitum est, diuinum, seu Deus, sic ait; Rationabiliter autem &amp; principium:iipsum 
+      po<lb ed="#L" n="24" break="no"/>nunt omnes: nec enim frustra possibile est ipsum esse, neque aliam inesse ipsi potentiam, nisi 
+      <lb ed="#L" n="25"/>sicut principium. Omnia enim principium sunt, vel ex principio, infiniti autem non est 
+      princi<lb ed="#L" n="26" break="no"/>pium: esset enim vtique ipsius finis; amplius autem, &amp; ingeneratum &amp; incorruptibile, Isi est 
+      <lb ed="#L" n="27"/>quoddam principium; quod enim fit, necesse est accipere finem, &amp; finaliter omnis est 
+      corrup<lb ed="#L" n="28" break="no"/>tionis. Quare sicut dicimus, non huius principium; sed hoc aliorum videtur esse, &amp; continere 
+      <lb ed="#L" n="29"/>omnia, &amp; omnia gubernare, sicut affirmant, quicunque non faciunt extra infinitum aliquam  
+      <lb ed="#L" n="30"/>causam; vt intellectum aut concordiam; &amp; hoc esse diuinum. Immortale enim &amp; 
+      incorrupti<lb ed="#L" n="31" break="no"/>bile est, sicut affirmant Anaximandros, &amp; plurimi Philosonhorum, &amp; vbi transtatio ista noua 
+      <lb ed="#L" n="32"/>&amp; antiqua similiter ita dicit, (&amp; hoc esse diuinum; immortale enim &amp; incorruptibile est) 
+      trans<lb ed="#L" n="33" break="no"/>latio, quam Auerroes habet, sic dicit; Et quod hoc est Deus; est enim immortalis &amp; 
+      incor<lb ed="#L" n="34" break="no"/>ruptibilis. Et notandum quod dicit, sicut affimant quicunque non faciunt extra infinitum 
+      ali<lb ed="#L" n="35" break="no"/>quam causam, supple agentem; &amp; isti sunt, vt dicit Auerroes, omnes Antiqui praeter 
+      Anaxa<lb ed="#L" n="36" break="no"/>goram, qui posuit causam agentem intelligentiam, &amp; Empedoclem, qui posuit litem &amp; 
+      amici<lb ed="#L" n="37" break="no"/>tiam, &amp; Democritum. Nec debet mouere, quod Auerroes ibi sic dicit; Sed vt mihi videtur, 
+      <lb ed="#L" n="38"/>non ponit infinitum. Verum est enim quod Aristoteles non ponit infinitam quantitatiue, sed 
+      <lb ed="#L" n="39"/>Deum infinitum qualitatiue &amp; virtualiter, sicut series textus pandit, &amp; probat ratio 
+      Antiquo<lb ed="#L" n="40" break="no"/>rum. Haec enim videtur ratio Antiquorum; Nullum generatum aut corruptibile est primum 
+      <lb ed="#L" n="41"/>principium; omne finitum est corruptibile, quia finalitas omnis est corruptionis, cuius ratio 
+      <lb ed="#L" n="42"/>potest vlterius assignari, quia nihil finite entitatis, potentiae, &amp; virtutis est de se necesse esse, sed 
+      <lb ed="#L" n="43"/>possibile esse secundum contradictione Non enim repugnaret illud no esse, sicut etiam 17. pars 
+      <lb ed="#L" n="44"/>corollarij primi, &amp; secundum primi ostendunt. Quare &amp; semper indiget aliquo per se necesse 
+      <lb ed="#L" n="45"/>esse, ad ipsum in esse continue sustentandum, sicut idem secundum monstrauit. Quapropter &amp; 
+      <lb ed="#L" n="46"/>voluerunt dicere consequenter, quod primum rerum principium est infinitum, infinitae scilicet 
+      <lb ed="#L" n="47"/>entitatis, potentiae, &amp; virtutis, &amp; ideo necesse esse pure per seipsum, &amp; propterea quod istud 
+      <lb ed="#L" n="48"/>principium omnia alia possibilia secundum contradictionem continet, &amp; gubernat: continet 
+      <lb ed="#L" n="49"/>omnia in essendo, gubernat omnia in agendo, sicut secundum ertium, &amp; quartum primi 
+      do<lb ed="#L" n="50" break="no"/>cebant. Quamobrem &amp; bene dixerunt vlterius quod istud principium est diuinum, seu Deus, 
+      <lb ed="#L" n="51"/>Modus siquidem loquendi apud Graecos creberrimus est, vti hoc concreto, seu denominatiuo 
+      <lb ed="#L" n="52"/>Diuinum, pro hoc abstracto, seu principali, Deus. Quare &amp; vna transtatio dicit Diuinum, &amp; alia 
+      <lb ed="#L" n="53"/>dicit Deus. Et ecceratio Antiquorum, quare dixerunt quod istud principium est diuinum. 
+      Im<lb ed="#L" n="54" break="no"/>mortale enim &amp; incorruptibile est, scilicet Diuinum: quare &amp; alia transtatio habet ita; &amp; quod 
+      <lb ed="#L" n="55"/>hocest Deus: Est enim immortalis &amp; incorruptibilis, quod oportet intelligere exclusiue hoc 
+      <lb ed="#L" n="56"/>modo; Quia solus Deus est de se &amp; per se immortalis, &amp; incorruptibilis, &amp; necesse esse 
+      sim<lb ed="#L" n="57" break="no"/>pliciter, sicut docet 17. pars Corolit. primi, &amp; primum principium rerum est tale similiter, sicut 
+      <lb ed="#L" n="58"/>superius dicebatur, primum principium rerum est Deus; &amp; haec, vt arbitror, est vera expo¬ 
+      <!--495.xml-->
+      <pb ed="#A" n="462"/>
+               <lb ed="#L" n="1"/>sitio huius loci, quem negligens Auerroes, &amp; vt timeo neglectus a Deo, sic ait; Sermo eius 
+      <lb ed="#L" n="2"/>in hoc manifestus est per se. Et si sermo eius in hoc sit manifestus per se, cur dicis simpliciter 
+      <lb ed="#L" n="3"/>sine distinctione aut determinatione quacunque, sed vt mihi videtur non ponit infinitum; 
+      <lb ed="#L" n="4"/>cum ipse Aristoteles approbet praemissam sententiam Antiquorum: Dicit enim, 
+      Rationali<lb ed="#L" n="5" break="no"/>ter autem &amp; principium ipsum ponunt omnes: &amp; infra tam in noua transtatione quam 
+      anti<lb ed="#L" n="6" break="no"/>qua sic ait; Quare sicut dicimus, non huius principium, sed hoc aliorum videtur; dicimus, 
+      in<lb ed="#L" n="7" break="no"/>quit, non dicunt: Rationes quoque ipsorum approbare videtur, sicut &amp; debent necessario 
+      <lb ed="#L" n="8"/>approbari, sicut praecedentia probauerunt: Si etiam conclusionem &amp; rationes ipsorum 
+      nulla<lb ed="#L" n="9" break="no"/>tenus approbasset, ex quo tam exquisite has recitat, videtur quod secundum consuetudinem 
+      <lb ed="#L" n="10"/>suam communem illas in aliquo reprobasset, sicut in eodem libro atque capitulo, &amp; alias de 
+      <lb ed="#L" n="11"/>alijs opinionibus &amp; rationibus Antiquorum circa eandem materiam saepe facit. Si etiam 
+      mi<lb ed="#L" n="12" break="no"/>hi non credis, crede ipsi Aristoteli Deo tuo: Ipse namque primo de Caelo &amp; mundo 10o. 
+      <lb ed="#L" n="13"/>dicit ita: Hoc nomen diuine enuntiatum est abantiquis, Finis enim continens id quod 
+      v<lb ed="#L" n="14" break="no"/>niuscuiusque vitae tempus,: cuius nihil est extra secundum naturam, aeternum vniuscuiusque 
+      <lb ed="#L" n="15"/>vocatum est; secundum eandem autem rationem &amp; totius caeli finis &amp; omne tempus: &amp; 
+      infi<lb ed="#L" n="16" break="no"/>nitatem continens perfectio, eternum est a semper esse sumens denominationem, immortalis 
+      <lb ed="#L" n="17"/>&amp; diuinus, vnde &amp; alijs communicatum est, his quidem clarius, his autem obscurius esse &amp; 
+      <lb ed="#L" n="18"/>viuere. Etenim quemadmodum in Eucyclijs philosophismatibus circa diuina multoties 
+      de<lb ed="#L" n="19" break="no"/>claratum est rationibus quod diuinum intransmutabile necessarium esse primum &amp; 
+      sum<lb ed="#L" n="20" break="no"/>mum, quod sic habens testificatur dictis; neque enim aliud melius est quod mouebit. Illud 
+      <lb ed="#L" n="21"/>enim vtique erit diuinius, neque habet prauum nihil, neque indigens eorum, quae ipsius, 
+      bo<lb ed="#L" n="22" break="no"/>norum, nullo est. Idem quoque 8. Phys. 78. &amp; consequenter tradit expresse, quod omnis 
+      <lb ed="#L" n="23"/>potentia in corpore est finita, &amp; quod mouens caelum per tempus infinitum est potentia 
+      infi<lb ed="#L" n="24" break="no"/>ta, quod tamen pessime intelligis &amp; exponis, contradicens planissime Aristoteli tuo Autori, 
+      <lb ed="#L" n="25"/>Alexandro, Platoni, Ioanni Grammatico, Auicennae, &amp; etiam tibi ipsi, sicut commento. 79. 
+      <lb ed="#L" n="26"/>patet. Quaeris enim si haec propositio, Omnis corporis potentia est finita, contineat corpus 
+      <lb ed="#L" n="27"/>coeleste, dicis quod ista quaestio est valde difficilis &amp; multum scrupulosa, &amp; quod est fortior 
+      <lb ed="#L" n="28"/>omnibus dubitationibus, quae possunt accidere hic: &amp; respondendo dicis, quod ex vi 
+      ver<lb ed="#L" n="29" break="no"/>borum Aristotelis apparet, quod potentia eius passiua, scilicet susceptiua motionis est finita. 
+      <lb ed="#L" n="30"/>Sed hic proculdubio, nec capis vim verborum Aristotelis nec virtutem. Constat enim 
+      cla<lb ed="#L" n="31" break="no"/>rissime Aristotelem ibi loqui de potentia actiua, &amp; motiua, atque mouente corpus caeleste 
+      <lb ed="#L" n="32"/>per tempus infinitum vt dicit, &amp; hoc de prima &amp; summa tali potentia; &amp; probare ipsam non  
+      <lb ed="#L" n="33"/>habere magnitudinem corporalem, nec esse in magnitudine corporali, cum sit infinita, &amp; 
+      <lb ed="#L" n="34"/>omnis potentia in magnitudine sit finita: Aliter enim moueret &amp; ageret in non tempore, in 
+      <lb ed="#L" n="35"/>instanti: &amp; quia omnis potentia in magnitudine finita similiter est finita, &amp; magnitudo 
+      infi<lb ed="#L" n="36" break="no"/>nita non est ponenda; haec est certissime abbreuiata sententia huius loci; &amp; cui dubium quin I 
+      <lb ed="#L" n="37"/>ibi loquitur de magnitudine corporeue caelesti? Quis enim vel leuiter somniaret potentiam 
+      <lb ed="#L" n="38"/>mouentem caelum esse in aliquo elemento, aut ex elementis composito, &amp; non potius in 
+      ip<lb ed="#L" n="39" break="no"/>somet caelo, in corpore ipso caelesti? hoc &amp; enim aliqui, scilicet Zabij putauerunt, reipso 
+      su<lb ed="#L" n="40" break="no"/>per 12. Met. 4I. teste, alius autem nemo. Videtur igitur quod Aristoteles innititur hic 
+      vir<lb ed="#L" n="41" break="no"/>tualiter illi communi conceptioni, &amp; concordi sententiae Antiquorum, ex 3. Phys. 30. iam 
+      <lb ed="#L" n="42"/>praemissae; quod scilicet finalitas omnis est corruptionis, &amp; quod velit dicere, quod corpus 
+      <lb ed="#L" n="43"/>caeleste, cum sit finitae quantitatis &amp; entitatis, est similiter finitae potentiae &amp; virtutis, quare 
+      <lb ed="#L" n="44"/>&amp; quod non est de se &amp; per se necesse esse, sed possibile esse secundum contradictionem: 
+      qua<lb ed="#L" n="45" break="no"/>propter &amp; quod indiget aliquo per se &amp; de se necesse esse, ac ideo potentiae infinitae. ipsum 
+      <lb ed="#L" n="46"/>in esse continue sustinente atque mouente, sicut secundum, &amp; quartum primi plenius 
+      docue<lb ed="#L" n="47" break="no"/>runt. Quare &amp; bene dixerunt Antiqui, 3. Phys. 30. quod infinitum quod est rerum princi? 
+      <lb ed="#L" n="48"/>pium omnia continet, &amp; gubernat: Haec igitur videtur sententia Aristotelis istis locis &amp; 
+      <lb ed="#L" n="49"/>pluribus alijs, sicut secundum primi plenius manifestat. Haec est sententia Alexandri, 
+      Plato<lb ed="#L" n="50" break="no"/>nis, Ioannis Grammatici, &amp; Auicennae teste teipso, illo commento 79. praedicto, imo &amp; 
+      <lb ed="#L" n="51"/>haec est sententia tua in de substantia orbis, &amp; alibi, sicut secundum primi diffusius patefecit, 
+      <lb ed="#L" n="52"/>Moues ibidem &amp; aliam quaestionem, quomodo sequitur, si potentia infinita esset in corpore, 
+      <lb ed="#L" n="53"/>quod moueret in instante, &amp; non sequitur si fuerit extra corpus, &amp; respondendo 
+      nihilres<lb ed="#L" n="54" break="no"/>pondes: dicis tamen si potentiam infinitam posueris in corpore, sequitur quod motio eius 
+      <lb ed="#L" n="55"/>sit non in tempore; si vero illam posueris non in corpore, tunc non dicetur finita nec infinita. 
+      <lb ed="#L" n="56"/>eo quod non est in corpore: Non igitur sequetur quod sit mouens non in tempore, cum in 
+      <lb ed="#L" n="57"/>his non possit intelligi vna potentia maior alia: Maius enim &amp; minus solus est quantitatis 
+      <lb ed="#L" n="58"/>Sed quis tam rudis vt non palbabiliter videat, quomodo hic contradictoria implicentur, quam  
+      <!--496.xml-->
+      <pb ed="#A" n="463"/>
+               <lb ed="#L" n="1"/>vanum sit torum ho. dictum, fictum, friuolum, &amp; inane: Non sic igitur, non sic debet quaestio 
+      <lb ed="#L" n="2"/>ista solui. Imo sic magis, si potentia infinita esset in aliquo corpore, sicut forma corporea &amp;  
+      <lb ed="#L" n="3"/>extensa, non esset potentia rationalis, sed irrationalis sicut liber de Anima manifestat; quare 
+      <lb ed="#L" n="4"/>&amp; non ageret ex electione, sed ex necessitate naturae, &amp; secundum vltimum potentiae suae 
+      sem<lb ed="#L" n="5" break="no"/>per, sicut 9. Met. 10. &amp; alibi declaratur. Si vero ponatur a corpore separata, est potentia 
+      rati<lb ed="#L" n="6" break="no"/>onalis agens &amp; mouens ex arbitrij libertate sicut oum primi suasit. Adhuc autem &amp; Aristoteles 
+      <lb ed="#L" n="7"/>12. Metaphys. 41. simili modo probat primam &amp; sempiternam substantiam esse a 
+      magnitu<lb ed="#L" n="8" break="no"/>dine separatam, cum habeat potentiam infinitam, &amp; nulla potentia in magnitudine habeat 
+      in<lb ed="#L" n="9" break="no"/>finitam; quare &amp; tu ipse ibidem moues eandem quaestionem, quam psed alio modo 
+      re<lb ed="#L" n="10" break="no"/>spondes &amp; contrario responsioni priori, dicendo, quod motus coelestis componitur ex duobus 
+      <lb ed="#L" n="11"/>motoribus, quorum vnus est finitae motionis, &amp; est anima existens in co, &amp; alter motionis 
+      in<lb ed="#L" n="12" break="no"/>finitae, &amp; est potentia quae non est in materia, vbi, etsi in multis delires; videris tamen 
+      conce<lb ed="#L" n="13" break="no"/>dere, quod motor coelestis a materia separatus est potentiae infinitae nedum in duratione, quia 
+      <lb ed="#L" n="14"/>secundum te sic est anima illa coeli quam fabricas, sed &amp; in fortitudine &amp; virtute. Haec pro 
+      sa<lb ed="#L" n="15" break="no"/>lute veritatis, contra expositionem expulsoriam veritatis &amp; peruersoriam tantorum 
+      Docto<lb ed="#L" n="16" break="no"/>rum tam solennium testium veritatis, quod tamen fortassis 17. parte Corollarij primi, aut 
+      se<lb ed="#L" n="17" break="no"/>cundo primi fuisset conuenientius pertractandum: sed quod ibi incuria praetermisit, curiosius 
+      <lb ed="#L" n="18"/>hic supplendum. Ad illud autem quod obijciebatur superius de infinita scientia beatorum in 
+      <lb ed="#L" n="19"/>patria; Respondendum videtur quod duplex est scientia Beatorum in proprio genere &amp; in 
+      <lb ed="#L" n="20"/>verbo; vna creata, &amp; altera increata. Prima non videtur ponenda infinita simpliciter, propter 
+      <lb ed="#L" n="21"/>praemissa in ostensione vltimae partis Corollarij primi, primi; &amp; licet secunda ponatur 
+      infini<lb ed="#L" n="22" break="no"/>ta in eis, non obuiat supradictis, neque videtur consequens vllo modo, quod si Beatus nesciat 
+      <lb ed="#L" n="23"/>omnia in proprio genere, per scientiamue creatam, ideo possit falli, propter certam claritatem 
+      <lb ed="#L" n="24"/>scientiae, qua fruitur increate. De scientia autem animae Christi cum reuerentia summa 
+      Chri<lb ed="#L" n="25" break="no"/>sti, potest &amp; similiter responderi; de gratia vero eius &amp; gloria sicut supra, cum sicut tangebatur 
+      <lb ed="#L" n="26"/>superius, anima Christi videatur creatura entitatis finitae, quare &amp; capacitatis, intellectiuitatis 
+      <lb ed="#L" n="27"/>amantiuitatis, &amp; cuiuslibet virtutis finitae respectu cuiuslibet habitus &amp; actus creati, siue 
+      crea<lb ed="#L" n="28" break="no"/>bilis, modo superius praetaxato: Neque ex isto consequitur inconueniens Begardorum, quod 
+      <lb ed="#L" n="29"/>posset aliquis Christo perfectior inueniri. Non enim est, nec esse deceret aliquod membrum 
+      <lb ed="#L" n="30"/>Christi tantae capacitatis spiritualium munerum, quantae caput. Veruntamen hic sciendum 
+      <lb ed="#L" n="31"/>quod gratia Christi est duplex, vna dilectionis, alia vnionis: Gratia dilectionis est habitus 
+      cre<lb ed="#L" n="32" break="no"/>atus animae eius infusus, qua diligit Deum &amp; proximum, &amp; haec videtur finita, sicut &amp; alij eius 
+      <lb ed="#L" n="33"/>habitus atque actus: Gratia vnionis potest dici illa gratia, qua diuinitas Verbi sic est vnita 
+      hu<lb ed="#L" n="34" break="no"/>manitati Christi, vt Deus &amp; homo vnus sit Christus in eiusdem suppositi vnitate, &amp; haec 
+      quo<lb ed="#L" n="35" break="no"/>dammodo est infinita. Infinitum namque munus diuinae gratiae gratis collatum est illi 
+      homi<lb ed="#L" n="36" break="no"/>ni, vt sit &amp; realiter &amp; veraciter ipse Deus simpliciter infinitus; quae gratia nulli alij vnquam 
+      <lb ed="#L" n="37"/>fuit concessa, nec est nec erit; &amp; quantumcunque gratia dilectionis in alijs augeretur, nunquam  
+      <lb ed="#L" n="38"/>attingerent istam gratiam vnionis. Et sic potest intelligi, quod Deus non ad mensuram 
+      spiri<lb ed="#L" n="39" break="no"/>tum illi dedit. Ipse namque sic conceptus est de spiritu sancto, &amp; natus in virgine, vt esset idem 
+      <lb ed="#L" n="40"/>veraciter, essentialiter, &amp; substantialiter filius Dei &amp; virginis Deus, &amp; homo; vel aliter 
+      intelli<lb ed="#L" n="41" break="no"/>gendo per spiritum Spiritus Sancti dona; Deus dedit ei spiritum ad satietatem suae capacitatis 
+      <lb ed="#L" n="42"/>omnimodam extensiue, numerose &amp; etiam intensiue: non ad aliquam mensuram minorem  
+      <lb ed="#L" n="43"/>sicut dedit alijs membris Christi. Quare &amp; de ipso antonomastice &amp; discretiue videtur 
+      dix<lb ed="#L" n="44" break="no"/>isse Propheta: Requiescet super eum spiritus Domini, spiritus sapientiae, &amp; intellectus, spiritus 
+      <lb ed="#L" n="45"/>consilij &amp; fortitudinis, spiritus scientiae &amp; pietatis, &amp; replebit eum spiritus timoris Domini, 
+      <lb ed="#L" n="46"/>Es II. 2. Quapropter &amp; Augustinus Ia parte super Iohan. serm. 14. scribit ita, quid est hoc; 
+      <lb ed="#L" n="47"/>Non enim ad mensuram dat Deus spiritum? inuenimus quia ad mensuram dat Deus spiritum; 
+      <lb ed="#L" n="48"/>Audi Apostolum dicentem, secundum mensuram donationis Christi; hominibus ad 
+      mensu<lb ed="#L" n="49" break="no"/>ram dat, vnico filio non dat ad mensuram. Quomodo hominibus ad mensuram? alij quidem 
+      <lb ed="#L" n="50"/>per spiritum datur sermo sapientiae, alij sermo scientie secundum eundem spiritum, alij fides in 
+      <lb ed="#L" n="51"/>codem spiritu, alij Prophetia, alij dijudicatio spirituum; alteri genera linguarum, alij donatio 
+      <lb ed="#L" n="52"/>curationum; aliud habet ille, &amp; aliud habet iste; &amp; quod habet iste, non habet ille; mensura est 
+      <lb ed="#L" n="53"/>diuisio quaedam bonorum, ergo hominibus ad mensuram datur, &amp; concordia ibi vnum 
+      cor<lb ed="#L" n="54" break="no"/>pus facit: quomodo aliud accepit manus vt operetur, aliud oculus vt videat, aliud autis vt 
+      au<lb ed="#L" n="55" break="no"/>diat, aliud pes vt ambulet, sic sunt etiam diuersa dona fidelium, tanquam membris ad 
+      mensu<lb ed="#L" n="56" break="no"/>ram cuique propriam distributa; sed Christus qui dat, non ad mensuram accipit. Ad haec 
+      au<lb ed="#L" n="57" break="no"/>tem &amp; aliter intelligendo per spiritum opera spiritus, potest dici, quod Deus non ad mensuram  
+      <lb ed="#L" n="58"/>spiritum ei dedit. Potuit enim Christus &amp; potest operationes Spiritus sancti omnimodas exer¬ 
+      <!--497.xml-->
+      <pb ed="#A" n="464"/>
+               <lb ed="#L" n="1"/>cere, &amp; hoc, vt videtur insinuat rextus sequens, Pater diligit filium, &amp; omnia dedit in 
+      manue<lb ed="#L" n="2" break="no"/>ius, per manum enim solent potestas operatiua &amp; opera designari, vnde &amp; Chrysostomus 
+      <lb ed="#L" n="3"/>&amp; recitat ibi glossa) Spiritum, inquit, hic actionem Spiritus dicit: Vult enim ostendere 
+      <lb ed="#L" n="4"/>quoniam omnes quidem nos in mensura spiritus actiones suscipimus; Christus autem 
+      om<lb ed="#L" n="5" break="no"/>nem spiritus suscipit actionem. Secundum haec quoque potest intelligi &amp; exponi verbum 
+      <lb ed="#L" n="6"/>Petri Lumbardi superius allegatum. Ex his igitur omnibus patere videtur quod nullum 
+      de<lb ed="#L" n="7" break="no"/>lectabile tristabileue creatum potest necessitare voluntatem rationalem creatam, ad 
+      ratio<lb ed="#L" n="8" break="no"/>nalem actum suum volendi siue nolendi, praesertim quamdiu iudicium rationis &amp; 
+      libe<lb ed="#L" n="9" break="no"/>rum arbitrium manet sanum, licet possit ad actum concupiscentialem, ad concupiscentiam 
+      <lb ed="#L" n="10"/>scilicet sensualem siue carnalem, quae non subijcitur legi mentis, sed aduersus spiritum 
+      re<lb ed="#L" n="11" break="no"/>luctatur. Veruntamen pro istis &amp; alijs obiectionibus, quae sequuntur, sciendum quod sicut 
+      <lb ed="#L" n="12"/>experientia nimis certe nos docet, obiectum delectabile actualiter mouens hominem &amp; 
+      titil<lb ed="#L" n="13" break="no"/>lans aliquantulum minuit &amp; obscurat iudicium rationis, debilitat, &amp; abforbet. Quis hoc se I 
+      <lb ed="#L" n="14"/>in se ipso expertum saepius diffitetur? quis vt temptationes alias praetermittam, febribus 
+      aestu<lb ed="#L" n="15" break="no"/>ans, oblata aqua fontali, aliove delectabilissimo sibi potu, aequaliter iudicat abstinendum, 
+      <lb ed="#L" n="16"/>sicut faceret extra febres, etiam &amp; si sit Medicus sapiens &amp; expertus? Pro statu tamen 
+      liberiat<lb ed="#L" n="17" break="no"/>bitrij bene sani aliter fuisse videtur: Videtur enim quod nulla illecebra, ante peccatum 
+      minu<lb ed="#L" n="18" break="no"/>ebat in aliquo iudicium rationis; sed hoc accidere homini in poenam peccati prioris. Quare &amp; 
+      <lb ed="#L" n="19"/>pro statu liberi arbitrij infirmati &amp; taliter vulnerati videtur quod licet iudicium rationis non 
+      <lb ed="#L" n="20"/>esset depressum per obiectum delectabile vel vtile ipsum mouens, hominem posse illud 
+      eli<lb ed="#L" n="21" break="no"/>gere ratione etiam actualiter prohibente, semper tamen de facto, vel in maiori parte opiner 
+      ac<lb ed="#L" n="22" break="no"/>cidere modo dicto, pro statu infirmitatis liberi arbitrij, sicut omnes communiter experimur. 
+      <lb ed="#L" n="23"/>Secundum hoc autem puto intelligi illud Philosophi allegatum cum suis similibus, Ignorat 
+      <lb ed="#L" n="24"/>quidem omnis malus, que oportet operari, &amp; a quibus fugiendum, &amp; propter tale peccatum 
+      in<lb ed="#L" n="25" break="no"/>iusti, &amp; vniuersaliter mali fiunt, 3. Eth. 3. quare &amp; 6i 10. Peruertit, inquit, malitia &amp; mentiri 
+      fa<lb ed="#L" n="26" break="no"/>cit circa practica principia; &amp; 7i 3o &amp; 10. dicit quod incontinens &amp; in passione existens habet  
+      <lb ed="#L" n="27"/>scientiam non in vsu, seu in actu perfecto, sed in habitu, sicut dormiens &amp; vinolentus. Et  
+      <lb ed="#L" n="28"/>sexto dicit quod concupiscentia insidiatur, quemadmodum Venerem aiunt; Dolosae enim 
+      <lb ed="#L" n="29"/>Cyprigenae, &amp; variam Corrigiam, &amp; Homerus, deceptioque furata est intellectum spisse 
+      <lb ed="#L" n="30"/>sapientis. Et infra II0. Impedimentum, inquit, ei, quod est prudentem esse, delectationes, 
+      <lb ed="#L" n="31"/>&amp; quanto magis gaudet, puta eum quae Venereorum: Nullum enim vtique posse 
+      intellige<lb ed="#L" n="32" break="no"/>re aliquid in ipsa. Cui &amp; concorditer Daniel 13. species inquit decepit te, &amp; concupiscentia 
+      <lb ed="#L" n="33"/>subuertit cor tuum. Vnde &amp; Ecclesiastici 9o. Auerte faciem tuam a muliere compta, &amp; 
+      <lb ed="#L" n="34"/>non circumspicias speciem illius; propter speciem mulieris multi perierunt, &amp; ex hoc 
+      concu<lb ed="#L" n="35" break="no"/>piscentia quasi ignis exardescit. Dicitque Propheta; Supercecidit ignis, &amp; non 
+      vide<lb ed="#L" n="36" break="no"/>runt Solem, Psalmo 57. Supercecidit inquam, ignis concupiscentiae, &amp; non viderunt 
+      <lb ed="#L" n="37"/>Solem intelligentiae manifeste, de quo Sapientiae 5. Sol intelligentiae non est ortus 
+      no<lb ed="#L" n="38" break="no"/>bis, quod &amp; clare testatur expositio Augustini. Quare &amp; Philosophus 2. Eth. vltim. 
+      di<lb ed="#L" n="39" break="no"/>cit, quod in omni maxime obseruandum delectabile, &amp; delectationem I. Quod igitur 
+      pie<lb ed="#L" n="40" break="no"/>bis Senes patiebantur ad Helenam pulcherrimam, scilicet meretricem, hoc oportet pati, &amp;  
+      <lb ed="#L" n="41"/>nos ad delectationem, &amp; in omnibus illorum dicere vocem, scilicet Fuge, Euge. 
+      Quamob<lb ed="#L" n="42" break="no"/>rem &amp; Iob concordanter sic ait; Pepigi foedus cum oculis meis, vt ne cogitarem quidem  
+      <lb ed="#L" n="43"/>de virgine, Iob. 31. quod Gregorius 2I. Moral. exponit diffuse ad intellectum 
+      praeta<lb ed="#L" n="44" break="no"/>ctum. Ex his igitur euidenter apparet, delectationem &amp; concupiscentiam, posse liberum 
+      <lb ed="#L" n="45"/>arbitrium &amp; iudicium rationis multum obnubilare, inficere &amp; ligare; Imo &amp; tam 
+      vehe<lb ed="#L" n="46" break="no"/>mens potest esse, quod omnem vsum rationalem liberi arbitrij absorbebit, &amp; reddet 
+      ho<lb ed="#L" n="47" break="no"/>minem amentem similem ebrijs pueris, morionibus &amp; iumentis. Experimur namque 
+      <lb ed="#L" n="48"/>certissime in ebrijs &amp; infirmis, in pueris, morionibus, &amp; insanis contrarijsque 
+      isto<lb ed="#L" n="49" break="no"/>rum. Probat quoque Philosophus in De Philosophia, quod animae sequuntur corE 
+      <lb ed="#L" n="50"/>pora, dispositionem scilicet corporalem. Ego autem vidi, &amp; noui quendam quasi 
+      sto<lb ed="#L" n="51" break="no"/>lidum &amp; amentem, qui dicebatur ex concupiscentia cuiusdam mulieris, in statum 
+      hu<lb ed="#L" n="52" break="no"/>iusmodi incidisse: Quis enim nesciat vires mirabiles cardiacae passionis? quare &amp; 
+      di<lb ed="#L" n="53" break="no"/>cit Philosophus septimo Ethic. tertio. Irae &amp; concupiscentia Venereorum, &amp; quaedam  
+      <lb ed="#L" n="54"/>talium manifeste &amp; corpus transmutant, quibusdam autem &amp; insanias faciunt, qui &amp; 2 Post. 
+      <lb ed="#L" n="55"/>4. dicit Achillem fuisse magnanimum, nec velle tolerare iniuriam, &amp; ideo insantisse. 
+      Secun<lb ed="#L" n="56" break="no"/>dum haec igitur forsitan potest concedi aliquod obiectum delectabile siue triste posse 
+      ne<lb ed="#L" n="57" break="no"/>cessitare hominem ad aliquod faciendum, non tamen ad rationalem &amp; liberum actumsuum. 
+      <lb ed="#L" n="58"/>Potest enim adimere homini vsum rationis, &amp; liberi arbitrii, &amp; reddere eum amentem, &amp; 
+      <!--498.xml-->
+      <pb ed="#A" n="465"/>
+               <lb ed="#L" n="1"/>tunc sicut nauis nautae regimine destituta ab impellentibus iacietur, sicut equus indomitus 
+      <lb ed="#L" n="2"/>ruptis loris a voluptatibus attrahetur, &amp; sicut puer, morio, seu insanus concupiscentiam in 
+      <lb ed="#L" n="3"/>omnibus prosequetur. Potest tamen dici iuxta praemissa, quod bestiae, pueri, moriones, &amp; 
+      <lb ed="#L" n="4"/>similes, non omnino necessitantur a suis obiectis, sed quod ipsa ex seipsis quadam necessitate 
+      <lb ed="#L" n="5"/>naturali obiecta sua cognita necessario prosequuntur vel stigiunt, sicut lapis descendit, &amp; 
+      si<lb ed="#L" n="6" break="no"/>cuti planta crescit. Adhuc autem quisnam fortassis aliter respondebit, dicendo pueros, 
+      mo<lb ed="#L" n="7" break="no"/>riones, ebrios, &amp; insanos habere liberam voluntatem, &amp; liberum vsum eius, quamuis 
+      care<lb ed="#L" n="8" break="no"/>ant vsu &amp; arbitrio rationis, sicut si Deus omnipotens faceret creaturam intellectu carentem, 
+      <lb ed="#L" n="9"/>sed aliam potentiam cognitiuam habentem cum libera voluntate: Hoc enim omnipotentiae 
+      <lb ed="#L" n="10"/>Dei videtur possibile, praesertim cum intellectus &amp; voluntas sint potentiae diuersae, saltem in 
+      <lb ed="#L" n="11"/>opere. Nec ideo potest inferri eos posse mereri: Non enim sola libertas sufficit ad 
+      meren<lb ed="#L" n="12" break="no"/>dum, sed requiritur rationalis cognitio obiecti, &amp; finis praecedens &amp; iudicium congruum 
+      ra<lb ed="#L" n="13" break="no"/>tionis. Nec etiam potest inferri ipsos habere liberum arbitrium, propter causam praedictam: 
+      <lb ed="#L" n="14"/>Liberum enim arbitrium, seu potius arbitrium liberum secundum primo huius ostensa duo 
+      <lb ed="#L" n="15"/>importat; rationale scilicet arbitrium iudicandi, &amp; potestatem liberam exequendi. Nec obstat 
+      <lb ed="#L" n="16"/>quod dicit Philosophus 3. Eth. 5. quod pueri non communicant electione: Electio namque 
+      <lb ed="#L" n="17"/>vt patet per eundem infra eiusdem 6. est cum ratione &amp; intellectu, vbi &amp; 9. sic ipsam definiuit; 
+      <lb ed="#L" n="18"/>Electio est consiliabile desiderium eorum quae in nobis; consilium autem, sicut nullus 
+      igno<lb ed="#L" n="19" break="no"/>rat, &amp; Phil. ibi testatur non est nisi cum ratione &amp; iudicio intellectus. Nec obstat quod dicit, 2. 
+      <lb ed="#L" n="20"/>Phys. 5o quod infans non habet propositu. Propositum enim intellectum &amp; rationem importat; 
+      <lb ed="#L" n="21"/>quare &amp; textus quem habet Auer. dicitibi, quod infans non habet electione. Nec obstat quod 
+      <lb ed="#L" n="22"/>dicunt Theologi paruulos non habere lib arbit, seu vsum ipsius propter causam praedicta. 
+      Mi<lb ed="#L" n="23" break="no"/>hi tamen magis videtur quod sicut per lsmalas dispositiones praedictas in corpore hominis 
+      im<lb ed="#L" n="24" break="no"/>peditur, &amp; omnino suspenditur ratio &amp; vsus rationalis intellectus, ita &amp; vsus rationalis &amp; 
+      li<lb ed="#L" n="25" break="no"/>ber affectus. Et sicut pro tunc ligatur potentia intellectiua, ita &amp; potentia voluntatiua, &amp; 
+      do<lb ed="#L" n="26" break="no"/>minatur totaliter appetitus &amp; concupiscentia fensitiua, sicut superius dicebatur. Pro illo 
+      au<lb ed="#L" n="27" break="no"/>tem quod arguitur consequenter, sciendum, iuxta praemissa, quod pueri, moriones, bestiae, et 
+      <lb ed="#L" n="28"/>similes nullam habent potentiam resistendi motionibus obiectorum, sed ipsas, cum possunt,  
+      <lb ed="#L" n="29"/>hoc est si impediti non fuerunt, necessario prosequuntur; homo autem non sic, sed eodem 
+      mo<lb ed="#L" n="30" break="no"/>do dispositus habet potentiam contradictionis libere resistendi, &amp; libere prosequendi, sicut 
+      <lb ed="#L" n="31"/>primum de secundum huius ostendunt. Quare &amp; euidenter apparet quod homo non habet 
+      in<lb ed="#L" n="32" break="no"/>finite maiorem potentiam, imo nec maiorem in minimo taliter resistendi, quam illa; cum illa 
+      <lb ed="#L" n="33"/>nullam potentiam habeat taliter resistendi, nisi fortassis alicui placeat dicere multum 
+      impro<lb ed="#L" n="34" break="no"/>prie, quodlibet quantum esse infinite maius non quanto, &amp; omne potens infinite potentius 
+      <lb ed="#L" n="35"/>non potente, &amp; omnem liberam creaturam infinite liberiorem non libera creatura. Quod N 
+      <lb ed="#L" n="36"/>autem arguitur beatitudinem finalem creatam necessitare voluntatem beati ad actum 
+      beati<lb ed="#L" n="37" break="no"/>ficum, &amp; ad non peccandum, quia talis beatus non potest fieri miser, neque peccare; 
+      ne<lb ed="#L" n="38" break="no"/>quaquam concludit. Potest enim similiter argui, quod tempus &amp; locus immortalitas, actus 
+      <lb ed="#L" n="39"/>beatificus, &amp; quaecunque conditio sit beati, ipsum simili modo necessitat. Licet enim 
+      <lb ed="#L" n="40"/>nullus beatus finaliter possit cessare ab actu beatifico, vel peccare, non tamen de necessitate 
+      <lb ed="#L" n="41"/>consequitur hoc esse propter // necessitationem beatitudinis creatae, imo sicut magis videtur, 
+      <lb ed="#L" n="42"/>stat quod sit ex necessitate obiecti beatifici, finis, &amp; agentis, scilicet Dei, qui beatos efficit 
+      <lb ed="#L" n="43"/>&amp; confirmat. Quod autem obijcitur fortem temptationem posse superare temptatum, 
+      sol<lb ed="#L" n="44" break="no"/>uitur per praemissa: Potest enim fortassis alienare temptatum ab vsu liberi arbitrij, &amp; sic eum 
+      <lb ed="#L" n="45"/>prosternere, non alienatum autem nulla temptatio superat proprie, potest tamen dici 
+      <lb ed="#L" n="46"/>improprie superare, quia videlicet tantam difficultatem resistendi infert temptato, quod 
+      <lb ed="#L" n="47"/>mauult cedere, quam ipsam diutius sustinere. Tanta quoque est aliquoties difficultas, quod 
+      <lb ed="#L" n="48"/>dicitur impossibilitas resistendi, sicut &amp; difficile dicitur impossibile aliquando. Sic enim 
+      lo<lb ed="#L" n="49" break="no"/>quitur Philosophus 3. Topic. vbi dicit, quod possibile est magis eligendum impossibili, hoc 
+      <lb ed="#L" n="50"/>est facile difficili, quoniam impossibile proprie non est eligendum, ipsomet teste 3. Eth5. Vnde 
+      <lb ed="#L" n="51"/>&amp; Ansel. de lib. arbit. 5. Est, inquit, ratio, quam frequens habet vsus, cur inuitus &amp; nolens 
+      <lb ed="#L" n="52"/>&amp; ex necessitate dicitur aliquis facere, quod tamen volens facit. Nam quod non nisi 
+      dif<lb ed="#L" n="53" break="no"/>ficile facere valemus, &amp; ideo non facimus, dicimus nos hoc facere non posse, et necessitate 
+      <lb ed="#L" n="54"/>nos, siue inuitos deserere, &amp; quod sine difficultate dimittere nequimus, &amp; idcirco facimus, 
+      <lb ed="#L" n="55"/>hoc nos inuitos nolentes &amp; ex necessitate facere asserimus. Hoc ergo modo qui mentitur ne 
+      <lb ed="#L" n="56"/>moriatur, mentiri inuitus, &amp; nolens dicitur, &amp; ex necessitate, quia mendacium vitare non 
+      <lb ed="#L" n="57"/>valet sine mortis difficultate: sicut igitur qui mentitur propter vitam, improprie dicitur 
+      inui<lb ed="#L" n="58" break="no"/>tus mentiri, quoniam mentitur volens, itaque non proprie dicitur inuitus velle mentiri, quo¬ 
+      <!--499.xml-->
+      <pb ed="#A" n="466"/>
+               <lb ed="#L" n="1"/>niam hoc non nisi volens vult. Et infra 6. Dubitare, inquit, non debes hanc impotentiam 
+      <lb ed="#L" n="2"/>seruandi rectitudinem, quam dicis in nostra voluntate cum temptationibus consentimus, non 
+      <lb ed="#L" n="3"/>esse ex impossibilitate, sed ex difficultate; frequenti namque vsu dicimus, nos non posse 
+      ali<lb ed="#L" n="4" break="no"/>quid, non quia nobis est impossibile, sed quia illud sine difficultate non possumus: haec 
+      au<lb ed="#L" n="5" break="no"/>tem difficultas non perimit voluntatis libertatem. Per haec autem soluuntur Autoritates 
+      ob<lb ed="#L" n="6" break="no"/>iectae: Si quis autem innitatur Autoritati Iob dicentis, quod non est super terram potestas, 
+      <lb ed="#L" n="7"/>quae comparetur diabolo, &amp; Autoritati Gregorij exponentis, dicendo quod in omnibus 
+      mo<lb ed="#L" n="8" break="no"/>tiuis &amp; mobilibus experimur fortius mouere debilius, etiam inuitum, seu contra appetitum, 
+      <lb ed="#L" n="9"/>&amp; inclinationem naturalem, dicendum quod hoc non est verum, si intelligatur vniuersaliter 
+      <lb ed="#L" n="10"/>de omni motiuo &amp; mobili, &amp; de omni specie motionis: Non enim quia terra magna est, &amp; 
+      <lb ed="#L" n="11"/>maioris virtutis in mouendo quam aer paruus in resistendo, ideo est maioris virtutis ad ele 
+      <lb ed="#L" n="12"/>uandum seu calefaciendum aerem, quam ipse ad resistendum, sed ad deprimendum &amp; 
+      fri<lb ed="#L" n="13" break="no"/>gefaciendum aerem. Hae namque sunt actiones propriae terrae in aerem. Eodem modo &amp; si 
+      <lb ed="#L" n="14"/>diabolus sit fortior homine ad mouendum ipsum localiter, &amp; ad ipsum multipliciter 
+      alteran<lb ed="#L" n="15" break="no"/>dum, quam homo ad resistendum his motibus; non tamen ad faciendum hominem velle, 
+      ra<lb ed="#L" n="16" break="no"/>tionali scilicet actu volendi, sicut nec fortior potest necessitare debiliorem ad sic volendum, 
+      <lb ed="#L" n="17"/>quod &amp; praecedentia manifestant. Veruntamen iuxta praemissa potest fortassis diabolus 
+      ali<lb ed="#L" n="18" break="no"/>enare hominem ab vsu liberi arbitrij, &amp; ipsum tunc ducere vt iumentum. Nec etiam quis 
+      <lb ed="#L" n="19"/>timore mali horribilis imminentis necessitatur proprie ad T volendum, seu aliquid 
+      facien<lb ed="#L" n="20" break="no"/>dum, sicut superius est ostensum, sed tantum improprie modo praedicto propter magnam 
+      dif<lb ed="#L" n="21" break="no"/>ficultatem illatam: Actio namque talis est voluntaria quoquomodo, non tamen simpliciter: 
+      <lb ed="#L" n="22"/>Avoluntate namque procedit motus operatioque membrorum. Quare &amp; Philosophus 3. 
+      <lb ed="#L" n="23"/>Eth. 1. loquens de talibus operationibus coactis quodammodo, ita dicit: Mixtae quidem 
+      igi<lb ed="#L" n="24" break="no"/>tur sunt tales operationes, assimulantur autem magis voluntarijs; voluntariae enim sunt 
+      <lb ed="#L" n="25"/>tunc, cum operatae sunt; finis autem operationis secundum tempus est, &amp; voluntarium 
+      au<lb ed="#L" n="26" break="no"/>tem &amp; inuoluntarium dicendum, quando operatur; operatur autem volens. Etenim 
+      princi<lb ed="#L" n="27" break="no"/>pium mouendi organicas partes in talibus operationibus, in ipso est: Quorum autem in 
+      ip<lb ed="#L" n="28" break="no"/>so principium, in ipso &amp; operari; Et voluntaria itaque talia, simpliciter autem forsitan 
+      inuo<lb ed="#L" n="29" break="no"/>luntaria: Nullus enim vtique eligeret secundum seipsum talium aliquid, Cui &amp; 
+      concor<lb ed="#L" n="30" break="no"/>dat Anselmus de libero arbitrio 5. superius recitatus. Quod autem allegatur a Philosopho 
+      <lb ed="#L" n="31"/>3. Eth. 2. quod in illis coactis sit venia, quae humanam naturam excedunt, &amp; nullus vtique 
+      su<lb ed="#L" n="32" break="no"/>stineret, potest exponi per magnitudinem difficultatis, quam homo refugit sustinere iuxta 
+      su<lb ed="#L" n="33" break="no"/>perius praelibata; ita quod non est ibi necessitas proprie sicut &amp; praecedentia docuerunt: 
+      qua<lb ed="#L" n="34" break="no"/>re &amp; Philosophus immediate subiungit: Quaedam autem fortassis non est cogi, sed magis 
+      <lb ed="#L" n="35"/>moriendum patientem durissima: Etenim Euripidis Alemoeonae derisoria videntur cogentia 
+      <lb ed="#L" n="36"/>matrem occidere. Quomodo autem omnis malus ignorat, exponebatur superius, ex quo &amp; 
+      <lb ed="#L" n="37"/>patet similiter quomodo sciens, vel nesciens in actu, &amp; in particulari agit, quae non 
+      opor<lb ed="#L" n="38" break="no"/>tet. Illud autem dictum Socratis allegatum, erat superius reprobatum, &amp; Philosophus illud 
+      <lb ed="#L" n="39"/>damnat, nisi fortassis illud antiquum Socraticum; (Hoc tantum scio quod nescio) ipsum 
+      <lb ed="#L" n="40"/>valeat excusare, quod tamen indefendibiliter ipsum accusat, &amp; insolubiliter ipsum ligat. Pro 
+      <lb ed="#L" n="41"/>syllogysmo autem practico respondendum, quod qui habet huiusmodi sullogismum, 
+      Om<lb ed="#L" n="42" break="no"/>ne dulce est gustandum, Hoc est dulce, Hoc ergo est gustandum. Si habeat voluntatem 
+      <lb ed="#L" n="43"/>conformem, &amp; non sit prohibitus, necessario conformiter operatur; aliter non est verum: 
+      <lb ed="#L" n="44"/>Alias etenim Philosophus incidit in illam sententiam insensatam Parisijs condemnatam, 
+      <lb ed="#L" n="45"/>quod homo necessario obedit in omnibus rationi, sicut &amp; Socrates videtur damnabiliter 
+      in<lb ed="#L" n="46" break="no"/>cidisse. Pro iudicijs autem Astrologorum, Phisiognomonicorum &amp; caeterorum similium; 
+      <lb ed="#L" n="47"/>aduertendum quod stellae &amp; virtutes coelestes multum disponunt, &amp; vehementer inelinant  
+      <lb ed="#L" n="48"/>corpus humanum ad aliqua conuenientia prosequenda, &amp; contraria fugienda; Et haec 
+      dis<lb ed="#L" n="49" break="no"/>positio est virtus seu vitium naturale, de qua multi Philosophi naturales, morales, &amp; Astro 
+      <lb ed="#L" n="50"/>logi saepe tractant: de qua &amp; 34. primi breuiter tangebatur: Haec autem virtus seu vitium 
+      <lb ed="#L" n="51"/>naturale tam vehementer inclinat ad delectationes &amp; operationes proprias, sicut virtus 
+      <lb ed="#L" n="52"/>moralis ad suas;. imo &amp; multo vehementius aliquando. Manifeste namque videmus 
+      <lb ed="#L" n="53"/>quosdam statim a puero ita affici ad aliqua persequenda, quod vix &amp; difficillime 
+      refrae<lb ed="#L" n="54" break="no"/>nantur, sicut trigesimum nonum primi aliqualiter ostendebat. Vnde &amp; Philosophus 5. 
+      <lb ed="#L" n="55"/>Polit. 1/. 9. recitat Socratem affirmantem, Naturam quandoque producere prauos, &amp; 
+      <lb ed="#L" n="56"/>x meliores disciplina; prauos quidem, quorum epitritus fundus quiuario coniugatus 
+      du<lb ed="#L" n="57" break="no"/>as harmonias exhibet, quando numerus diagrammatis huius solidus fuerit. Vbi &amp; 
+      secun<lb ed="#L" n="58" break="no"/>dum sententiam propiam sic subiungit; Contingit enim esse aliquos, quos disciplinari &amp; fieri 
+      <!--500.xml-->
+      <pb ed="#A" n="467"/>
+               <lb ed="#L" n="1"/>studiosos viros impossibile est Quare &amp; dicunt Astrologi quod si quis habeat natiuitatem for¬ 
+      <lb ed="#L" n="2"/>tem ad aliquod vitium, quantumcunque exerceatur in virture opposita, nunquam firmabitur 
+      <lb ed="#L" n="3"/>in illa perfecte, quin ad huiusmodi vitium facillime relabetur. Haec ergo pronitas, dispositio, 
+      <lb ed="#L" n="4"/>seu concupiscentia naturalis tam firme inhaerens, tam vehementer impellens, &amp; tam 
+      delecta<lb ed="#L" n="5" break="no"/>biliter attrahens non auellitur, non vincitur, non subijcitur, nisi cum forti pugna, cum tristi 
+      <lb ed="#L" n="6"/>lucta, cum labore multiplici, &amp; dolore: at plurimi hominum diffugiunt tristitias &amp; labores, 
+      <lb ed="#L" n="7"/>delicias, &amp; mollities amplectuntur; quare &amp; prosequuntur vt plurimum suas 
+      concupiscen<lb ed="#L" n="8" break="no"/>tias naturales: &amp; hinc est quod Astrologi, Phisiognomonici, &amp; similes multoties dicunt 
+      ve<lb ed="#L" n="9" break="no"/>rum; circa habitus autem dispositiones, &amp; aptitudines naturales iudicia certa habent; circa 
+      <lb ed="#L" n="10"/>actus vero humanos non habent iudicia ita certa, quia nulla necessitate firmata, sicut 
+      praece<lb ed="#L" n="11" break="no"/>dentia docuerunt, sicuti etiam qui vult, potest multoties experiri in natiuitatibus 
+      plurimo<lb ed="#L" n="12" break="no"/>rum, &amp; alijs iudicijs consuetis. Dicat enim mihi talis Iudex; Tu tunc duces vxorem, tunc 
+      <lb ed="#L" n="13"/>filium generabis, tunc recipies diuitias &amp; honores, cras talem locum adibis, &amp; facies hoc  
+      <lb ed="#L" n="14"/>vel illud; &amp; pro tunc &amp; forte pro semper a talibus abstinebo. Dicat etiam mihi talis de 
+      par<lb ed="#L" n="15" break="no"/>uulo meo nato, Iste erit tam inhonestus, tam malus; tot &amp; tantis vitijs deditus, &amp; ego 
+      pro<lb ed="#L" n="16" break="no"/>curabo omnia vitiabilia in tantum remoueri ab eo; ipsumque in tantum ad contratium 
+      ar<lb ed="#L" n="17" break="no"/>tificialiter alterari, tam studiose in virtutibus omnibus educari, &amp; tanta diligentia custodiri, 
+      <lb ed="#L" n="18"/>ipsummet quoque ita // praemuniam &amp; inducam, quod non erit tam malus, imo nec malus, sed  
+      <lb ed="#L" n="19"/>bonus, licet forsitan non tam bonus moraliter, sicut si fuisset natus habilior ad virtutes. 
+      <lb ed="#L" n="20"/>Nam sicut secundum Ptolomaeum in Centilogio verbo 8. Anima sapiens adiuuat opus 
+      stel<lb ed="#L" n="21" break="no"/>larum, quemadmodum seminator fortitudines naturales; sic secundum eundem supra 
+      eius<lb ed="#L" n="22" break="no"/>dem verbo 5. Astrologus optimus multum malum prohibere poterit, quod secundum stellas 
+      <lb ed="#L" n="23"/>venturum est, cum eius naturam praesciuerit: sic enim praemuniet eum cui malum futurum 
+      <lb ed="#L" n="24"/>est, vt possit aliquid pati, sicut &amp; testantur experimenta superius recitata. 
+      </p>
+            <div xml:id="dcn2br-e59863-Dd1e2521">
+               <head xml:id="dcn2br-e59863-Hd1e2523">Corollarium</head>
+               <p xml:id="dcn2br-e59863-d1e2526">
+                  <lb ed="#L" n="25"/>COROLLARIVM. 
+      <lb ed="#L" n="26"/>Corollarium, quod voluntas creaturae rationalis non est passiua tantummodo, sed actiua, 
+      <lb ed="#L" n="27"/>&amp; quod voluntas per causas secundas sufficientissime disposita ad agendum potest vna 
+      <lb ed="#L" n="28"/>vice non agere, &amp; alias agere liberum actum suum: quare &amp; quod bonis inaequalibus 
+      <lb ed="#L" n="29"/>propositis voluntati non necessario volet maius, imo &amp; proposito bono honesto, &amp; 
+      <lb ed="#L" n="30"/>malo inhonesto delectabili, tamen multum vel utili, potest scienter bono illo neglecto 
+      <lb ed="#L" n="31"/>eligere illud malum. Quare &amp; quod cum recta ratione in intellectu est error possibilis. 
+      <lb ed="#L" n="32"/>in affectu. Quod etiam appetitus irrationalis non necessitat hominem ad agendum; quod  
+      <lb ed="#L" n="33"/>corpora coelestia non necessitant voluntatem: Quod Diabolus non necessitat 
+      volun<lb ed="#L" n="34" break="no"/>tatem, &amp; quod nulla tentatio necessitat voluntatem: Quod tantum purum malum 
+      <lb ed="#L" n="35"/>voluntati ostensum ipsam necessitat ad non volendum, &amp; purum bonum, ad non 
+      <lb ed="#L" n="36"/>nolendum positiue, id est, ad non odiendum: ipsaue voluntas naturali necessitate 
+      <lb ed="#L" n="37"/>necessario haec non potest, vbi etiam ostenditur consequenter quod forte multum 
+      dece<lb ed="#L" n="38" break="no"/>ret &amp; plurimum expediret Theologis &amp; perfectis Catholicis Astrologiam &amp; alias 
+      <lb ed="#L" n="39"/>tales scientias non nescire.
+      </p>
+               <p xml:id="dcn2br-e59863-d1e2561">
+                  <lb ed="#L" n="40"/>EX his autem existimo refulgere quod voluntas creaturae rationalis non est passiua tantum 
+      <lb ed="#L" n="41"/>modo sed actiua; &amp; quod voluntas per causas secundas sufficientissime disposita ad 
+      agen<lb ed="#L" n="42" break="no"/>dum, potest vna vice non agere, &amp; alias agere liberum actum suum; quare &amp; quod bonis 
+      in<lb ed="#L" n="43" break="no"/>aequalibus propositis voluntati non necessario volet maius; imo &amp; proposito bono honesto &amp; 
+      <lb ed="#L" n="44"/>malo inhonesto, delectabili tamen multum vel vtili, potest scienter bono illo neglecto eligere 
+      <lb ed="#L" n="45"/>illud malum; quare &amp; quod cum recta ratione in intellectu est error possibilis in affectu, quod  
+      <lb ed="#L" n="46"/>etiam appetitus irrationalis non necessitat hominem ad agendum, quod corpora coelestia 
+      <lb ed="#L" n="47"/>non necessitant voluntatem, quod diabolus non necessitat voluntatem, &amp; quod nulla 
+      ten<lb ed="#L" n="48" break="no"/>tatio necessitat voluntatem; quomodo etiam est capacitatis finitae &amp; quomodo infinitae. 
+      <lb ed="#L" n="49"/>Quod tamen purum malum voluntati ostensum ipsam necessitat ad non volendum, &amp; 
+      pu<lb ed="#L" n="50" break="no"/>rum bonum ad non nolendum positiue, id est, ad non odiendum, ipsave voluntas naturali 
+      ne<lb ed="#L" n="51" break="no"/>cessitate necessario haec non potest; quod insuper forsitan multum deceret, &amp; plurimum 
+      ex<lb ed="#L" n="52" break="no"/>pediret Theologos &amp; perfectos Catholicos Astrologiam &amp; alias tales scientias non nescire 
+      <lb ed="#L" n="53"/>Haec autem ex praemissis hic et proximo tam lucide consequuntur, quod alia declaratione 
+      <lb ed="#L" n="54"/>non egent. Per quae &amp; multi errores damnati per Stephanum Parisiensem Episcopam repro¬ 
+      <!--501.xml-->
+      <pb ed="#A" n="468"/>
+                  <lb ed="#L" n="1"/>bantur; quod videlicet voluntas de se est indeterminata ad opposita sicut materia; 
+      deter<lb ed="#L" n="2" break="no"/>minatur ab appetibili, sicut materia ab agente; quod appetitus intellectiuus cessantibus 
+      impedi<lb ed="#L" n="3" break="no"/>mentis necessario mouetur ab appetibili; quod voluntate existente in dispositione in qua 
+      na<lb ed="#L" n="4" break="no"/>ta est moueri, &amp; mouente sic disposito quod natum est sic mouere, impossibile est 
+      volunta<lb ed="#L" n="5" break="no"/>tem non velle; quod etiam post conclusionem factam de aliquo faciendo, voluntas non  
+      <lb ed="#L" n="6"/>manet libera, quod voluntas hominis necessitatur per suam cognitionem sicut appetitus 
+      <lb ed="#L" n="7"/>bruti; quod voluntas necessario persequitur quod principaliter creditur a ratione, &amp; quod 
+      <lb ed="#L" n="8"/>non potest abstinere ab eo quod ratio dictat; &amp; quod si ratio est recta, voluntas est 
+      re<lb ed="#L" n="9" break="no"/>cta; quod voluntas manente passione &amp; scientia in particulari &amp; in actu non potest 
+      age<lb ed="#L" n="10" break="no"/>re contra eam; quod homo agens ex passione coacte agit; &amp; quod homo in omnibus 
+      <lb ed="#L" n="11"/>actionibus suis sequitur appetitum, &amp; semper maiorem, quibus &amp; quidam alij similes 
+      supe<lb ed="#L" n="12" break="no"/>rius recitantur. Sunt quoque plurimi similes, quos nec hic nec ibi oportuit recitare. Nonne &amp; 
+      <lb ed="#L" n="13"/>diligenter consideratis, &amp; debite ponderatis premissis, &amp; alijs similibus pretermissis videretur I 
+      <lb ed="#L" n="14"/>multum decere, &amp; plurimum expedire Reip. Christianae, quod Theologi &amp; perfecti 
+      Catho<lb ed="#L" n="15" break="no"/>lici Astrologiam, &amp; alias doctrinales seu Mathematicales scientias non nescirent, vel 
+      prop<lb ed="#L" n="16" break="no"/>ter vtilitates earum praeclaras, si oportuerit, exercendas, vel saltem propter abusores earum,  
+      <lb ed="#L" n="17"/>&amp; falso nomine sapientum gloriantes efficacius confutandos. Quomodo namque non logicus 
+      <lb ed="#L" n="18"/>logicum, non Mathematicus Mathematicum, iners artificem in arte propria artificialiter 
+      re<lb ed="#L" n="19" break="no"/>darguet, &amp; conuincet, quin magis in se risum astantium concitabit? Magnus quoque Ptolome 
+      <lb ed="#L" n="20"/>us I. Almagesti Prol. 2? sic ait, O quam bonum fuit quod Aristoteles diuisit theorica, cum eam 
+      <lb ed="#L" n="21"/>in tria prima genera distribuit, in Naturale, Doctrinale, &amp; Theologicum; &amp; dicto de Naturali, 
+      <lb ed="#L" n="22"/>&amp; Theologico; de Doctrinali, id est, Mathematico sic adiungit. Hoc quoque non parum valet 
+      <lb ed="#L" n="23"/>ad duorum reliquorum modorum scientiae compraehensionem, &amp; praecipue scientiae Dei 
+      ex<lb ed="#L" n="24" break="no"/>celsi. Ipsa namque est scientia ad sciendum Deum altissimum propter rationem cum 
+      perseruta<lb ed="#L" n="25" break="no"/>tione &amp; intellectu, quae &amp; eius similia vere &amp; manifeste fignificant Deum qui non alteratur, &amp;e 
+      <lb ed="#L" n="26"/>non mouetur, &amp; non est accidens, neque est factus; quonia ipsa, nostra scientia quam de ipso 
+      <lb ed="#L" n="27"/>habemus altissimo, vicina existit, &amp; quia ipsa est semita ducens ad ipsum. Preterea in 
+      actioni<lb ed="#L" n="28" break="no"/>bus quoque &amp; honestatibus morum laudabilium non est eius necessitas parua; Imo nihil est ea 
+      <lb ed="#L" n="29"/>magis adiuuas ad acuendos nostrae mentis oculos, &amp; intellectus ad considerandum ea, quae 
+      o<lb ed="#L" n="30" break="no"/>peribus assimilantur diuinis propter bonitatem moderaminis &amp; paruitatem arrogantiae, &amp; 
+      quo<lb ed="#L" n="31" break="no"/>niam ipsa facit eum qui perseueranter inquirit eam, hanc coelestem pulcherrime diligere, &amp; ducit 
+      <lb ed="#L" n="32"/>eum ad perseuerantiam diuini studij, &amp; coniungit eum ipsi, quod anime simile est propter 
+      bo<lb ed="#L" n="33" break="no"/>nitatem formae, &amp; assimulat eum creatori suo. Quare &amp; Auicen. 1. Metaph. 3. scribit ita, Ordo 
+      <lb ed="#L" n="34"/>huius scientiae, scilicet diuinae est, vt discatur post scientias naturales &amp; disciplinales; post 
+      na<lb ed="#L" n="35" break="no"/>turales ideo quia multa quae hic conceduntur ibi probantur; post disciplinales vero ideo, quia 
+      <lb ed="#L" n="36"/>intentio vltima in hac scientia est cognitio gubernationis Dei altissimi, &amp; cognitio singulorum 
+      <lb ed="#L" n="37"/>spiritalium, &amp; ordinum Angelorum suorum, &amp; cognitio ordinationis in compositione 
+      circu<lb ed="#L" n="38" break="no"/>lorum, ad quam scientiam impossibile est peruenire nisi per cognitionem Astrologiae; ad 
+      scien<lb ed="#L" n="39" break="no"/>tiam vero Astrologiae nemo potest venire nisi per scientiam Arithmeticae &amp; Geometricae. In 
+      <lb ed="#L" n="40"/>his quoque scientijs plurimum claruerunt filij Seth, Enoch, Noe, Abraham, Moses, Solomon. 
+      <lb ed="#L" n="41"/>Daniel, &amp; alij sancti Patres, sicut quamplures historie contestantur, sicuti &amp; ostensio 35. partis 
+      <lb ed="#L" n="42"/>Corollarij primi primi aliquantulum recitauit. Nonne &amp; Creator ipse in exordio rerum dixit, 
+      <lb ed="#L" n="43"/>fiant luminaria in firmamento coeli, &amp; diuidant diem &amp; noctem, &amp; sint in signa? Annon &amp; 
+      <lb ed="#L" n="44"/>veritas ipsa dicit; erunt signa in Sole, &amp; Luna, &amp; stellis, &amp; quis nescit signum ad signatum 
+      refer<lb ed="#L" n="45" break="no"/>ri? Cur ergo per haec signa non est iudicandum de eorum signatis? Nonne &amp; Dominus ipse 
+      <lb ed="#L" n="46"/>dixit, Cum videritis nubem orientem ab occasu, statim dicitis nimbus venit, &amp; ita fit, &amp; cum 
+      <lb ed="#L" n="47"/>Austrum flantem, dicitisque aestus erit, &amp; ita fit? hypocritae, faciem coeli &amp; terrae rotestis 
+      proba<lb ed="#L" n="48" break="no"/>re, hoc autem tepus quomodo non probatis? Luc. 12. &amp; Mat. 16. facto vespere dicitis, serenum 
+      <lb ed="#L" n="49"/>erit, rubicundum enim est coelum; &amp; mane, hodie tempestas, rutilat enim triste coelum: Fa E 
+      <lb ed="#L" n="50"/>ciem ergo coeli dijudicare nostis; signa autem temporum non potestis? Licet ergo &amp;e&amp;st expedit 
+      <lb ed="#L" n="51"/>per signa inferiora &amp; superiora, de futura temperie &amp; intemperie iudicare, ista namque 
+      iu<lb ed="#L" n="52" break="no"/>dicia temporum, non videtur Christus Autor temporum reprobare, sed potius approbare, 
+      <lb ed="#L" n="53"/>sed in hoc specialiter ipsos redarguit; quod non potuerunt, nescierunt, seu noluerunt 
+      pro<lb ed="#L" n="54" break="no"/>bare, nec dijudicare tempus seu tempora sui aduentus, aduentumue suorum. Quare &amp; beatus 
+      <lb ed="#L" n="55"/>Hieronymus super illud Matth. praemissum, sensus, inquit, manifestus est, quod ex 
+      elemen<lb ed="#L" n="56" break="no"/>torum ordine &amp; consonantia possunt &amp; sereni, &amp; pluuiosi dies praenosci. Historia quoque 
+      <lb ed="#L" n="57"/>Scholastica tractans illud verbum Gen. 1. praemissum, dicit quod luminaria coelestia sunt 
+      sig<lb ed="#L" n="58" break="no"/>na serenitatis &amp; tempestatis; quod &amp; tractans beatus Basilius homilia sexta sui hexameron; 
+      <!--502.xml-->
+      <pb ed="#A" n="469"/>
+                  <lb ed="#L" n="1"/>Necessitas, inquit, humane vitae. sicut longior vsus docet, signorum vocationes &amp; 
+      obseruatio<lb ed="#L" n="2" break="no"/>nes inuenies; si tamen non amplius eas quam oportet, inquiras: Multa enim super futuris 
+      im<lb ed="#L" n="3" break="no"/>bribus possumus dicere, plurima quoque de vaporibus terrarum, motibusque ventorum, seu 
+      <lb ed="#L" n="4"/>per partes venientium, seu generaliter vbique spirantium, &amp; vtrum violenter an placide sint 
+      <lb ed="#L" n="5"/>venturi: Vnum itaque ex demonstrationibus habetur solis, quod ostendit nobis Dominus 
+      <lb ed="#L" n="6"/>dicens, futuram tempestatem cum coelum caeperit igneo rubore tristari, Lsupra de mane 
+      Mat<lb ed="#L" n="7" break="no"/>thaei 16. &amp; infra; Horum igitur obseruatio quantum commoditatis impendat hominibus, 
+      <lb ed="#L" n="8"/>quis ignorat? Possunt enim nauigaturi intra portum retinere classem, futura pericula 
+      praeuide<lb ed="#L" n="9" break="no"/>tes; viator item cautus effectus ex coeli tristitia tranquillitatis tempus expectat; Agricultores 
+      <lb ed="#L" n="10"/>quoque seminibus &amp; plantis solidam diligentiam commodantes, &amp; memoratis instructi 
+      sig<lb ed="#L" n="11" break="no"/>nis opportunitatem congruam praestolantur: Siquidem solutiones etiam rerum omnium in 
+      <lb ed="#L" n="12"/>sole, &amp; luna &amp; stellis videnda prodigia Dominus praedicauit dicens, Sol conuertetur in 
+      te<lb ed="#L" n="13" break="no"/>nebras, &amp; Luna non dabit lucem suam: Verum haec iudicia sunt mundanae consammationis, 
+      <lb ed="#L" n="14"/>Historia quoque Scholastica agens de ortu Iubilaei, sic ait; Abraham peritus erat astrorum, 
+      <lb ed="#L" n="15"/>in quibus etiam secundum quosdam Zoroastrem Magicae artis inuentorem, instituit; 
+      noue<lb ed="#L" n="16" break="no"/>ratque quod aeris intemperies quae sit ex eleuatis vel depressis Planetis semper vsque ad 
+      quin<lb ed="#L" n="17" break="no"/>quaginta annos ad temperiem redit, &amp; quod vidit fieri in astris, voluit imitari in terris. An 
+      <lb ed="#L" n="18"/>non &amp; vtilitas scientiarum huiusmodi videtur euidenter patere ex praecognitione, 
+      promo<lb ed="#L" n="19" break="no"/>tione, &amp; repressione possibili virtutum &amp; vitiorum moralium, &amp; intellectualium, 
+      naturali<lb ed="#L" n="20" break="no"/>um quodammodo, sicut testantur hic praemissa &amp; trigesimum nonum primi? Quare &amp; 
+      Phi<lb ed="#L" n="21" break="no"/>losophus 2. Eth. 10. inquirens quod // vnum extremum magis contrarietur virtuti in medio; 
+      <lb ed="#L" n="22"/>ostendit quod in aliquibus vnum, cuius causa est ex re ipsa; in alijs vero aliud, cuius causa est 
+      <lb ed="#L" n="23"/>ex nobis; &amp; haec duplex, generalis, &amp; specialis: pro generali sic ait; Ad quae enim ipsi 
+      ma<lb ed="#L" n="24" break="no"/>gis nati sumus aliqualiter, haec magis contraria medio videntur, puta ipsi magis nati sumus 
+      <lb ed="#L" n="25"/>ad delectationes, ideo facilius mobiles sumus ad intemperantiam, quam ad temperantiam: 
+      <lb ed="#L" n="26"/>pro speciali vero infra 110. dicit; Et intendere oportet &amp; ad quae &amp; ipsi facile mobiles sumus; 
+      <lb ed="#L" n="27"/>Alij enim ad alia apti nati sumus; Hoc autem erit notum ex delectatione &amp; tristitia facta 
+      cir<lb ed="#L" n="28" break="no"/>ca nos; In contrarium autem nos ipsos attrahere oportet: Multum enim abducentes, a 
+      pec<lb ed="#L" n="29" break="no"/>cando in medium veniemus. Annon &amp; vtilitatem scientiae istius ostendunt praemissa 32a. &amp;  
+      <lb ed="#L" n="30"/>35a. &amp; 39a. parte Corollarij primi, primi? Amplius autem quantam virtutem habeat 
+      arti<lb ed="#L" n="31" break="no"/>ficiosa congregatio &amp; disgregatio radiorum seu luminum, quis eruditus ignorat? Annon  
+      <lb ed="#L" n="32"/>per istud magisterium possent qualitates, conditiones &amp; mores hominum, ciuitatum, atque 
+      <lb ed="#L" n="33"/>regnorum mutari in melius &amp; firmari? per quod aliud magisterium posset id fieri? De quo 
+      <lb ed="#L" n="34"/>in secundo prologo in Secretum Secretorum Aristotelis scribitur quod Alexander direxit 
+      su<lb ed="#L" n="35" break="no"/>am epistolam ad Aristotelem sub hac forma, O Doctor egregie, rector iustitiae, significo 
+      <lb ed="#L" n="36"/>tuae prudentiae me inuenisse in terra Persidis quasdam gentes abundantes ratione &amp; 
+      intelle<lb ed="#L" n="37" break="no"/>ectu penetrabili, studentes super alios dominari, &amp; regnum acquirere: Vnde nos proponi¬ 
+      <lb ed="#L" n="38"/>mus occidere vniuersos: quicquid super hoc decreueris, nobis significa tuis scripturis; &amp; 
+      se<lb ed="#L" n="39" break="no"/>quitur, Cui Aristoteles ita respondit; Si non potes mutare illius terrae aerem &amp; aquam, 
+      in<lb ed="#L" n="40" break="no"/>super dispositionem ciuitatum, imple tuum propositum si potes, &amp; dominare super eos cum 
+      <lb ed="#L" n="41"/>bonitate &amp; exaudi eos cum benignitate; quod si feceris, fiduciam habeas cum Dei 
+      adiuto<lb ed="#L" n="42" break="no"/>rio, quod omnes erunt subiecti ad tuum beneplacitum, &amp; praeceptum, &amp; per amorem quem  
+      <lb ed="#L" n="43"/>habebunt in te, dominaberis in eis pacifice cum triumpho. Alexander igitur accepta 
+      episto<lb ed="#L" n="44" break="no"/>la suum adimpleuit consilium diligenter; &amp; erant Persae magis obedientes suo imperio, 
+      <lb ed="#L" n="45"/>quam omnes aliae nationes. Nonne &amp; Arthesius Philosophus Magisterij huius virtute, 
+      mil<lb ed="#L" n="46" break="no"/>le &amp; vigesimo quinque annis astruit se vixisse, &amp; alia mirabilia perfecisse, quod &amp; alij 
+      simili<lb ed="#L" n="47" break="no"/>ter asseuerant? Nonne &amp; de Mose Act. 7. scribitur isto modo, Eruditus est Moses omni 
+      sa<lb ed="#L" n="48" break="no"/>pientia AEgyptiorum, &amp; erat potens in verbis, &amp; in operibus suis, de quo &amp; historia 
+      schola<lb ed="#L" n="49" break="no"/>stica super exod. recitato, quomodo Moses nutritus in AEgypto transiuit in Aethiopiam, &amp;  
+      <lb ed="#L" n="50"/>Aethiopes debellauit, &amp; Tharbis filiam Regis Aethiopum in vxorem assumpsit, &amp; 
+      quomo<lb ed="#L" n="51" break="no"/>do Mosi redire volenti ipsa nullatenus acquieuit, subiungit; Proinde tanquam vir peritus 
+      <lb ed="#L" n="52"/>astrorum imagines sculpsit in gemmis huius efficaciae, vt altera memoriam, alia obliuionem 
+      <lb ed="#L" n="53"/>conferret, cumque paribus annulis eas inseruisset, alterum, scilicet obliuionis annulum 
+      prae<lb ed="#L" n="54" break="no"/>buit vxori, alterum ipse tulit, vt sicut pari amore ita paribus annulis insignirentur: Caepit 
+      <lb ed="#L" n="55"/>ergo amoris viri multer obliuisci, &amp; tandem libere in Aegyptum regressus est. Qui &amp; sicut 
+      <lb ed="#L" n="56"/>dicunt Hebraei, tradidit eis quantitatem mensis Lunaris, quo festa legalia obseruarent: Hic 
+      <lb ed="#L" n="57"/>autem sicut eorum computus attestatur, est 29. dies, 12. horae. 703. puncta: Punctum autem 
+      <lb ed="#L" n="58"/>est species mirabilis fractionis, scilicet 1080o. pars horae, quod est 3. secunda, &amp; 20. tertia, ita 
+      <!--503.xml-->
+      <pb ed="#A" n="470"/>
+                  <lb ed="#L" n="1"/>quod mensis Lunaris medius secundum Mosen continet, 29. dies 12. horas 44. minuta, 3. A 
+      <lb ed="#L" n="2"/>secunda, &amp; 20. tertia; qui eius quantitatem melius &amp; verius posuit, quam Abrachis, qui 
+      con<lb ed="#L" n="3" break="no"/>siderauit in Rodo; quam Ptolomaeus, qui considerauit in Alexandria; quam Arzachel, qui 
+      <lb ed="#L" n="4"/>composuit canones &amp; tabulas secundum annos Arabum ad Toletum; &amp; quam multi alij eum 
+      <lb ed="#L" n="5"/>sequentes: Abrachis enim, sicut recitat Ptolomaeus 4. Almagesti 2. posuit quantitatem 
+      me<lb ed="#L" n="6" break="no"/>dij mensis Lunaris 29. dies, 31. minuta diei 50. secunda 8. tertia, 9. quarta &amp; 30. quinta fere; 
+      <lb ed="#L" n="7"/>vnum autem minutum dici est 24. minuta horae, quoniam sicut dies ad suum minutum, ita 
+      ho<lb ed="#L" n="8" break="no"/>ra ad suum minutum igitur permutatim: quantitas ergo mensis secundum eum est, 29. dies, 
+      <lb ed="#L" n="9"/>12. horae 44. minuta horae, tria secunda, quindecim tertia, quadraginta octo quarta fere. 
+      Pto<lb ed="#L" n="10" break="no"/>lomaeus verum multum posterior Abrachis, 4. Almagesti 3. concordat cum eo in quantitate 
+      <lb ed="#L" n="11"/>mensis in omnibus, exceptis quintis dici quae ponit praecise 20. quantitas ergo secundum 
+      <lb ed="#L" n="12"/>eum mensis Lunaris est in diebus, horis, minutis horae, secundis &amp; tertijs sicut prius &amp; 
+      44<lb ed="#L" n="13" break="no"/>quarta praecise. Arzachel autem posterior istis multum videtur ponere quantitatem mensis 
+      <lb ed="#L" n="14"/>Lunaris multo minorem, videlicet 29. dies 12. horas; 44 minuta sicut tabulae suae testantur, 
+      <lb ed="#L" n="15"/>quod &amp; videtur eum necessario oportere, cum secundum eum in suis canonibus, &amp; 
+      secun<lb ed="#L" n="16" break="no"/>dum omnes concorditer annus Arabum communis contineat praecise 354. dies, &amp; quintam, 
+      <lb ed="#L" n="17"/>&amp; sextam diei partem, quae sunt vndecim trigesime dici; trigesima autem dici cum sit dupla 
+      <lb ed="#L" n="18"/>ad vnum minutum dici, continet 48 minuta horae, sicut constat ex praemissis: Continet 
+      igi<lb ed="#L" n="19" break="no"/>tur talis annus 354. dies 8. horas &amp; 48. minuta horae, cuius I2a. pars, scilicet vnus mensis 
+      <lb ed="#L" n="20"/>Lunaris est, 20. dies; 12. horae, &amp; 44. minuta praecise. Iste ergo diminuit a quantitate 
+      men<lb ed="#L" n="21" break="no"/>sis per Molen posita vnum punctum, a qua etiam Abrachis, &amp; Ptolomaeus diminuunt, sed 
+      <lb ed="#L" n="22"/>non tantum. Qui &amp; sibi ipsis repugnant, sicut ex quantitatibus medij motus solis, &amp; medij 
+      <lb ed="#L" n="23"/>motus Lunae in vno die, quas ponunt extracto centro lunae in die, &amp; tabulato continue per 
+      <lb ed="#L" n="24"/>60. dies, vel per 15. dies, &amp; 60. horas, eliciendo demonstratiue quantitatem dimidij vel 
+      in<lb ed="#L" n="25" break="no"/>tegri mensis lunaris medij; cum in omni coniunctione &amp; oppositione media centrum lunae 
+      <lb ed="#L" n="26"/>sit nihil omnino, id est 12. signa praecise, &amp; ab omni coniunctione media ad oppositionem 
+      <lb ed="#L" n="27"/>mediam &amp; e contra, pertranseat, 12. signa praecise, &amp; ab omni coniunctione, seu 
+      oppositio<lb ed="#L" n="28" break="no"/>ne media ad proximam similem, 24. signa praecise potest clarissime demonstrari. Per quam  
+      <lb ed="#L" n="29"/>viam rectissimam rectissime incedendo est alibi demonstratum quantitatem medij mensis 
+      lu<lb ed="#L" n="30" break="no"/>naris continere ad minus quantum posuit Moses &amp; fortassis vlterius aliquas fractiones, quod 
+      <lb ed="#L" n="31"/>&amp; moderni Astronomi confitentur. Ex his autem euidenter apparet defectus lunationum 
+      <lb ed="#L" n="32"/>&amp; mensium lunarium in Calendario Latinorum, quibus Pascha, &amp; festa Christianorum 
+      mo<lb ed="#L" n="33" break="no"/>bilia regulantur, ex quibus &amp; patet quomodo rectificari deberent. Et quis huiusmodi 
+      scien<lb ed="#L" n="34" break="no"/>tijs non adiutus ista rectificare praesumet, aut transferre Calendarium Iudaeorum ad vsum 
+      fa<lb ed="#L" n="35" break="no"/>cilem Latinorum, &amp; sic reducere Pascha Christianorum vt secundum statutum Concilij 
+      <lb ed="#L" n="36"/>Niceni, &amp; alia plurima plurimorum Patrum statura semper fiat dominica sequente PaschaT 
+      <lb ed="#L" n="37"/>Iudaeorum; scilicet, aliquo die azymorum, videlicet a 14. Iuna primi mensis lunaris vsque 
+      <lb ed="#L" n="38"/>ad 2I. diem eiusdem, quod nunc, &amp; a prima creatione Calendarij Christiani frequenter 
+      con<lb ed="#L" n="39" break="no"/>tingit posterius, quandoque per 4. quandoque per quinque integras septimanas, quandoque 
+      <lb ed="#L" n="40"/>autem continget posterius semper per vnum mensem, quandoque vero semper per duos, &amp; 
+      <lb ed="#L" n="41"/>ita deinceps, donec annus integer taliter transigatur, &amp; tunc reincipiet cum errore 
+      priore<lb ed="#L" n="42" break="no"/>Quis etiam huius ignarus scientiae veraciter capiet introitum solis in Arietem, 
+      aequinoctium<lb ed="#L" n="43" break="no"/>que vernale, seu temporis verni principium, vt secundum exigentiam proximi pleni lunij fiat 
+      <lb ed="#L" n="44"/>Pascha secundum praeceptum legis Deut. 16. in haec verba; obserua mensem nouarum 
+      fru<lb ed="#L" n="45" break="no"/>gum, &amp; verni principium temporis, vt facias phase Domino Deo tuo. Salomon quoque 
+      <lb ed="#L" n="46"/>diuinitus inspiratus vt patet 3. Reg. 3. &amp; 2. Paralip. 1. tantam sapientiam, intelligentiam &amp; 
+      <lb ed="#L" n="47"/>scientiam recepit a Domino, vt nullus ante eum similis ei fuerit, nec post eum, de quo &amp; 3. 
+      <lb ed="#L" n="48"/>Reg. 3. scribitur, Dedit quoque Dominus sapientiam Solomoni, &amp; prudentiam multam 
+      <lb ed="#L" n="49"/>nimis, &amp; praecedebat sapientia Solomonis sapientiam omnium Orientalium, &amp; 
+      Aegyptio<lb ed="#L" n="50" break="no"/>rum, &amp; erat sapientior cunctis hominibus. De quo &amp; Iosephus octauo Antiquitatis 
+      Iudai<lb ed="#L" n="51" break="no"/>cae 20. dicit; quod Deus dedit ei intellectum &amp; sapientiam, qualem nullus alter hominum 
+      <lb ed="#L" n="52"/>habuit, nec Regum, nec priuatorum, vt etiam homines antiquos praecelleret, &amp; nec 
+      Ae<lb ed="#L" n="53" break="no"/>gyptijs, qui sapientia omnibus differre dicuntur, comparatus, modicum vel minus esset; 
+      cu<lb ed="#L" n="54" break="no"/>ius vtique multum nimis sapientia praecedebat. Composuit autem libros 5. &amp; 4. millia. 
+      Nul<lb ed="#L" n="55" break="no"/>lam namque naturam ignoratam inexanimatamque praeteriit, sed de omnibus 
+      Philosopha<lb ed="#L" n="56" break="no"/>tus est, &amp; disciplinam proprietatemque earum eminenter exposuit, praestitit autem ei Deus 
+      <lb ed="#L" n="57"/>vt etiam contra daemones ad vtilitatem hominum, &amp; eorum curas edisceret, &amp; 
+      incantatio<lb ed="#L" n="58" break="no"/>nes instituit quibus aegritudines soleant mitigari; Modos etiam coniurationum quibus ob¬ 
+      <!--504.xml-->
+      <pb ed="#A" n="471"/>
+                  <lb ed="#L" n="1"/>stricti daemones ne denuo redeant effugati, inuenit, &amp; haec cura hactenus apud nos multum 
+      <lb ed="#L" n="2"/>praeualere dignoscitur. Vidi etenim quendam Eleazarum de gente nostra, praesente 
+      Vespa<lb ed="#L" n="3" break="no"/>sinno &amp; eius filijs &amp; Tribunis, alioque simul exercitu, curantem eos qui a Daemonibus 
+      vexa<lb ed="#L" n="4" break="no"/>bantur: Modus autem medicinae fuit huiusmodi; Intulit naribus eius qui a daemonio 
+      vexa<lb ed="#L" n="5" break="no"/>batur annulum habentem subter signaculum radicem a Solomone monstratam; deinde 
+      dae<lb ed="#L" n="6" break="no"/>monium per nares odorantis abstraxit, &amp; repente cecidit homo, Postea coniurauit eum, 
+      iu<lb ed="#L" n="7" break="no"/>ramentum obijciens Solomonis, ne ad eum denuo remearet, id est cantica quae ille 
+      compo<lb ed="#L" n="8" break="no"/>suit, super eum edicens; volens satis facere atque probare praesentibus Eleazarus hanc se 
+      ha<lb ed="#L" n="9" break="no"/>bere virtutem, ponebatante eos aut calicem aqua plenum, aut peluem, &amp; daemoni 
+      impera<lb ed="#L" n="10" break="no"/>bat, vt haecab humine egressus verteret, &amp; videntibus praeberet iudicium quod hominem 
+      re<lb ed="#L" n="11" break="no"/>liquisset, quo facto sapientia Solomonis cunctis innotuit. Daniel insuper vt patet Dan. 1. 
+      di<lb ed="#L" n="12" break="no"/>dicit excellenter omnem sapientiam, &amp; scientiam Chaldeorum de caelestibus &amp; terrenis sicut 
+      <lb ed="#L" n="13"/>glossa testatur, qui tamen in corde suo proposuit ne pollueretur de mensa Regis immundis 
+      <lb ed="#L" n="14"/>vescendo: Vbi dicit Hieronymus, sicut recitat ibi glossa, qui de mensa Regis &amp; de vino 
+      po<lb ed="#L" n="15" break="no"/>tus eius non vult comedere ne polluatur; vtique sapientiam &amp; doctrinam Babysoniorum, si 
+      <lb ed="#L" n="16"/>sciret esse peccatum, nunquam acquiesceret discere quae non licebat; discunt autem, non vt 
+      <lb ed="#L" n="17"/>sequantur, sed vt iudicent atque conuincant; quomodo si quispiam aduersum 
+      Mathemati<lb ed="#L" n="18" break="no"/>cos velit scribere imperitus Mathematices risui pateat, &amp; aduersus Philosophos disputans si 
+      <lb ed="#L" n="19"/>ignoret dogmata Philosophorum; Discunt ergo ea mente doctrinam Chaldaicam, qua 
+      <lb ed="#L" n="20"/>Moses omnem sapientiam Eegyptiorum didicerat: Qui &amp; in Prologo in Esaiam sic ait, 
+      Le<lb ed="#L" n="21" break="no"/>gant prius &amp; postea despiciant, ne videantur non ex iudicio sed ex odij praesumptione 
+      igno<lb ed="#L" n="22" break="no"/>rata damnare: qui etiam epistola 74. ad Mineruium &amp; Alexandrium Monachos, de 
+      resurre<lb ed="#L" n="23" break="no"/>ctione sic scribit; Meum propositum est antiquos legere, probare singula, quae bona sunt,  
+      <lb ed="#L" n="24"/>&amp; a fide Catholicae Ecclesiae non recedere. Septimo quoque historiae Ecclesiasticae 70. 
+      scri<lb ed="#L" n="25" break="no"/>bitur isto modo, quod Dionysiis Episcopus ita dixit; Ego &amp; tractatus haereticorum lego, 
+      <lb ed="#L" n="26"/>&amp; traditiones eorum perscrutor, etiamsi videat ad horam, verbis eorum pollui; sed &amp; 
+      mul<lb ed="#L" n="27" break="no"/>tum mihi confert hoc ipsum, quod ex eorum verbis arguere eos possum: denique cum 
+      ali<lb ed="#L" n="28" break="no"/>quis ex fratribus cum presbyteris me a fectionibus talibus prohiberet, diuina me visio 
+      con<lb ed="#L" n="29" break="no"/>firmauit, euidenter proloquens in hunc modum; Lege omnia quaecunque in manus tuas 
+      <lb ed="#L" n="30"/>peruenerint, quia probate quaeque &amp; discernere potes, quandoquidem exinitio haec tibi fuit 
+      <lb ed="#L" n="31"/>causa credendi: amplexus sum visionem quae &amp; Apostolicae sententiae concordabat dicenti, 
+      <lb ed="#L" n="32"/>Omnia legite, quae bona sunt tenete. Illa quoque Autoritas suprascripta Hieronymi super 
+      <lb ed="#L" n="33"/>Danielem eum multis similibus; dist. 37a. in canone recitatur. Vnde &amp; Augustinus 5. 
+      Con<lb ed="#L" n="34" break="no"/>fest. 5. loquens de quodam haeretico Manichaeo, qui se Spiritum Sanctum habere, &amp; scire 
+      <lb ed="#L" n="35"/>omnia impudentissime asserebat, sic ait; Non parui se aestimari voluit, sed Spiritum 
+      San<lb ed="#L" n="36" break="no"/>ctum consolatorem &amp; ditatorem fidelium tuorum, autoritate plenaria personaliter in se esse 
+      <lb ed="#L" n="37"/>persuadere conatus est: Itaque cum de coelo ac stellis, &amp; de solis ac lunae motibus falsa dixisse 
+      <lb ed="#L" n="38"/>reprehenderetur, quamuis ad doctrinam religionis ista non pertineant, tamen ausus eius 
+      sa<lb ed="#L" n="39" break="no"/>crilegos fuisse satis emineret, cum ea non solum ignorata, sed etiam falsa tam vesana 
+      super<lb ed="#L" n="40" break="no"/>biae vanitate diceret, vt ea tanquam diuinae personae tribuere sibi niteretur. Sciui &amp; ego 
+      <lb ed="#L" n="41"/>quadam famosam maleficam, quae in quadam eclipsi sunae quam aspicientes plurimi 
+      miraban<lb ed="#L" n="42" break="no"/>tur iuxta opinionem laicam laicorum putantium eclipsin accidere ex maleficio alicuius 
+      fortile<lb ed="#L" n="43" break="no"/>gae, dixisse vicinis, Ecce qualem potestatem habeo super lunam; Nisi permiseritis me in 
+      pa<lb ed="#L" n="44" break="no"/>ce, &amp; satisfeceritis de contumelijs &amp; opprobrijs mihi illatis, tollam a vobis lunam, stellas, &amp;  
+      <lb ed="#L" n="45"/>solem, ac coeli beneficium vniuersum; Cui duxeram respondendum, quod faceret sic de 
+      <lb ed="#L" n="46"/>luna nocte proxima, aut mense proximo, vel sequente; aut faceret sic de sole in crastino, aut  
+      <lb ed="#L" n="47"/>aliquo die septimanae sequentis, vel saltem quod diceret, quando proxime sic faceret de luna, 
+      <lb ed="#L" n="48"/>vel sole, &amp; quantam partem auferret, a qua parte inciperet &amp; quamdiu duraret huiusmodi 
+      <lb ed="#L" n="49"/>E passio alterius luminaris, &amp; omnes faceremus sibi in omnibus quicquid vellet: sin autem; 
+      <lb ed="#L" n="50"/>ego dicerem ei, quando primo similiter contingeret circa lunam &amp; solem, quanta pars 
+      lumi<lb ed="#L" n="51" break="no"/>nis tolleretur, ex qua parte inciperet eclipsari, &amp; quamdiu duraret eclipsis etiam ipsa inuita, 
+      <lb ed="#L" n="52"/>&amp; cum cunctis suis maleficiis renitente, quae non potuit respondere. Apud Iudaeos autem 
+      <lb ed="#L" n="53"/>a tempore Mosis fuerunt septuaginta ordinarij Iudices, praecipiente Domino per Mosem; 
+      <lb ed="#L" n="54"/>Congrega mihi septuaginta viros, &amp;c. Num. II. imo secundum Talmud eorum 
+      septua<lb ed="#L" n="55" break="no"/>ginta vnus, quia talem numerum Moses cum illis septuaginta constituit: De his vero 
+      Iudi<lb ed="#L" n="56" break="no"/>cibus &amp; gestis eorum, est vnus liber, qui vocatur Hebraice Sanhedrim, id est Iudicium 
+      Or<lb ed="#L" n="57" break="no"/>dinariorum, in quo scribitur isto modo: Non erant constiruentes sn Sanhedrim, scilicet in 
+      <lb ed="#L" n="58"/>ordine seu officio septuaginta, seu septuaginta vnius Iudicum ordinatiorum, nisi dominos 
+      <!--505.xml-->
+      <pb ed="#A" n="472"/>
+                  <lb ed="#L" n="1"/>sapientiae, staturae, apparentiae atque senectutis, &amp; Dominos incantationum atque scientes A 
+      <lb ed="#L" n="2"/>septuaginta linguas, ne oporteat eos audire ab ore Interpretis: statura, &amp; apparentia 
+      require<lb ed="#L" n="3" break="no"/>batur vt haberentur in reuerentia; &amp; quod essent Domini incantationum, vt conuincerent &amp; 
+      <lb ed="#L" n="4"/>occiderent incantantes siue maleficos in suis incantationibus &amp; maleficijs confidentes. Haec 
+      <lb ed="#L" n="5"/>autem non sine causa digrediendo paulisper sufficiat breuiter tetigisse. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

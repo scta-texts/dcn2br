@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="690"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91236"><!-- l3c15 -->
+            <head xml:id="dcn2br-e91236-Hd1e106">Caput 15</head>
+            <p xml:id="dcn2br-e91236-d1e109">
+               <lb ed="#L" n="38"/>CAP. XV. 
+      <lb ed="#L" n="39"/>Recitat quartam opinionem Sophistarum dicentium nihil esse 
+      <lb ed="#L" n="40"/>futurum. 
+      </p>
+            <p xml:id="dcn2br-e91236-d1e118">
+               <lb ed="#L" n="41"/>OPinio quarta contendit nihil esse futurum; &amp; haec est opinio 
+      Sophista<lb ed="#L" n="42" break="no"/>a rum, circa quam sophistice altercantur dicentes, Futurum non est ens, 
+      <lb ed="#L" n="43"/>ia ergo est non ens, &amp; nihil, ergo nihil est futurum. Rursum sic, Ponatur I 
+      <lb ed="#L" n="44"/>&amp; Antichristus futurus, tunc Antichristus est futurus; ergo per 
+      conuersio<lb ed="#L" n="45" break="no"/>snem futurum est Antichristus, vel ergo futurum quod est Antichristus, 
+      <lb ed="#L" n="46"/>vel non Antichristus. Si Antichristus, ergo Antichristus est 
+      Antichri<lb ed="#L" n="47" break="no"/>Pstus, ergo Antichristus est homo, &amp; animal, ens, &amp; existens: Si non 
+      An<lb ed="#L" n="48" break="no"/>tichristus, ergo contradictoria verificantur de se inuicem, &amp; de eodem, 
+      <lb ed="#L" n="49"/>quod primum principium non permittit. Hoc idem sic iterum reprobatur; Si aliquid 
+      praedi<lb ed="#L" n="50" break="no"/>catur de Antichristo, maxime ipse idem praedicabitur de seipso, quia secundum regulam 
+      anti<lb ed="#L" n="51" break="no"/>quam Boetij, nulla propositio verior est illa in qua idem de se praedicatur. Item tunc 
+      Anti<lb ed="#L" n="52" break="no"/>christum fore est verum in sensu diuiso; illud verum vel est Antichristus, vel aliud; non An¬ 
+      <!--724.xml-->
+      <pb ed="#A" n="691"/>
+               <lb ed="#L" n="1"/>n ticliristus, quia ipse non est; ergo non est aliquod verum, nec illud verum est aliud: Quicquid 
+      <lb ed="#L" n="2"/>enim detur praeter Deum, illo destructo, adhuc Antichristum fore esset verum, vel esse posset, 
+      <lb ed="#L" n="3"/>sicut fuit ante quamlibet creaturam: &amp; tunc eadem ratione Deum fore &amp; Deum esse, esset 
+      <lb ed="#L" n="4"/>aliud a Deo; ergo Deus est &amp; erit per aliud a seipso; ergo illo destructo non foret. Si autem 
+      <lb ed="#L" n="5"/>dicatur, quod illud verum est Deus, ergo Deus est Antichristum esse peccaturum, &amp; omnia 
+      <lb ed="#L" n="6"/>mala facturum. Item illud quod est Antichristum fore erit Antichristum esse; ergo Deus erit 
+      <lb ed="#L" n="7"/>Antichristum esse, ergo nunc est quodcunque ens esse. Item Deus est Antichristum fore, &amp;  
+      <lb ed="#L" n="8"/>eclipsin fore est Deus eadem rationem; ergo eclipsin fore est Antichristum fore: Praeterea 
+      di<lb ed="#L" n="9" break="no"/>cunt ipsi, si quid esset futurum, aliquid posset illud appetere &amp; operari propter illud; quod 
+      <lb ed="#L" n="10"/>non videtur, cum omnis operatio sit propter aliquem finem, &amp; propter bonum, vt patet I1. 
+      <lb ed="#L" n="11"/>Eth. 1. &amp; 2. Metaphys. 8. &amp; 9. sed tale futurum non est; ergo non est finis nec bonum. Haec 
+      <lb ed="#L" n="12"/>ratio confirmatur, quoniam omne appetibile seu volubile apparet bonum, vt secundum 
+      se<lb ed="#L" n="13" break="no"/>cundi ostendit, sed futurum non apparet esse ens nec bonum. Amplius autem sic instant; 
+      <lb ed="#L" n="14"/>Tunc posset esse spes &amp; confidentia de tali bono futuro; ergo talis scienter confideret in 
+      ni<lb ed="#L" n="15" break="no"/>hilo, &amp; incurreret increpationem propheticam Es. 59. qua increpantur qui confidunt in 
+      ni<lb ed="#L" n="16" break="no"/>hilo &amp; loquuntur vanitates. Sed haec ineptia conatur destruere omnem scientiam, &amp; subruere 
+      <lb ed="#L" n="17"/>omnem fidem. Grammatica namque &amp; Rhetorica tempora tria ponunt, praesens, praeteritum, 
+      <lb ed="#L" n="18"/>&amp; futurum, &amp; Dialectica similiter, vt 1. peri hermenias apparet; scientia quoque naturalis &amp; 
+      <lb ed="#L" n="19"/>moralis ponunt actiones naturales &amp; voluntarias fieri propter finem non habitum sed 
+      haben<lb ed="#L" n="20" break="no"/>dum; Medicina insuper &amp; Astrologia iudicant de futuris; omnis etiam fides ponit spem, 
+      <lb ed="#L" n="21"/>praescientiam, &amp; prophetiam saepissime de futuris. Hi etiam habent dicere consequenter. 
+      <lb ed="#L" n="22"/>quod ipsi non possunt imaginari aut intelligere vllum futurum, nec aliquod non existens, 
+      <lb ed="#L" n="23"/>quoniam tunc ipsum esset imaginatum aut intellectum, &amp; per conuersionem e contra; quare 
+      <lb ed="#L" n="24"/>&amp; ipsum esset ipsum &amp; esset; sunt igitur satis rudes. Quare &amp; consequenter vlterius habent  
+      <lb ed="#L" n="25"/>concedere, quod ipsi non agunt aliquid propter foelicitatem, aut alium finem futurum 
+      quem<lb ed="#L" n="26" break="no"/>cunque; quare semper infoelices &amp; miseri remanebunt, quod &amp; professioni eorum repugnat, 
+      <lb ed="#L" n="27"/>quam apparentiam finaliter concupiscunt. Habent etiam eadem ratione concedere, quod 
+      ni<lb ed="#L" n="28" break="no"/>hil est praeteritum, &amp; quod nullum praeteritum possunt intelligere, nec de aliquo memorari. 
+      <lb ed="#L" n="29"/>Quis ergo argueret contra tales, cum de nullo argumento valeant recordari, quare nec 
+      ali<lb ed="#L" n="30" break="no"/>quod recitare? Quis etiam quicquam faceret pro tam ingratis, vt nunquam de aliquo 
+      benefi<lb ed="#L" n="31" break="no"/>cio memorentur? Eorum vero itrationabiles rationes praemissae ne apparentiam quidem  
+      <lb ed="#L" n="32"/>habent.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

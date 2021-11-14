@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 28</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 28</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="264"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e36060"><!-- l1c28 -->
+            <head xml:id="dcn2br-e36060-Hd1e106">Caput 28</head>
+            <p xml:id="dcn2br-e36060-d1e109">
+               <lb ed="#L" n="44"/>CAP. XXVIII. 
+      <lb ed="#L" n="45"/>De Fato. 
+    </p>
+            <p xml:id="dcn2br-e36060-d1e116">
+               <lb ed="#L" n="46"/>HIC autem pro ista materia plenius pertractanda facienda est 
+      inquisi<lb ed="#L" n="47" break="no"/>tio quaedam breuis de Fato. Multi namque asserunt Fatum esse; 
+      Mul<lb ed="#L" n="48" break="no"/>ti quoque ac maxime Doctores Catholici negant Fatum. Stoici 
+      si<lb ed="#L" n="49" break="no"/>quidem teste Boetio super 1. peri hermenias vlt. asserunt Fatum esse, 
+      <lb ed="#L" n="50"/>&amp; omnia geri Fato: quod &amp; Augustinus 5. de Ciuit. Dei 8. &amp; 9. 
+      si<lb ed="#L" n="51" break="no"/>militer attestatur quibus &amp; consentiunt multi Philosophi &amp; 
+      Poete<lb ed="#L" n="52" break="no"/>Quibus e contrario Augustinus I. part. super Iohan. homilia 37. Osi 
+      <lb ed="#L" n="53"/>cor tuum non esset fatuum, non crederes Fatum; quod &amp; supra 
+      ho<lb ed="#L" n="54" break="no"/>milia 3I. similiter reprobat, &amp; condemnat: Qui &amp; 2. super Gen. ad literam25. dicit, quod  
+      <lb ed="#L" n="55"/>Fatum est a sanitate Fidei respuendum. Idem etiam de quaestionibus veteris &amp; nouae legis, 
+      <!--298.xml-->
+      <pb ed="#A" n="265"/>
+               <lb ed="#L" n="1"/>Quaest. 115. magno luctamine destruit fatum astrorum, &amp; artis Matheseos, quia si ponatur, 
+      <lb ed="#L" n="2"/>destruit liberum arbitrium in hominibus &amp; in Deo, &amp; Christum &amp; eius facta necessitati 
+      sup<lb ed="#L" n="3" break="no"/>ponit. Qui insuper 2. contra Faustum agens de stella Christi Magos ducente, reprobat fatum 
+      <lb ed="#L" n="4"/>stellarum a Christo, &amp; ab hominibus vniuersis. Beatus quoque Gregorius, homil. 10. quae 
+      <lb ed="#L" n="5"/>est de Epiphania, de eadem stella loquens, sic dicit; sciendum quod Priscillianistae haeretici, 
+      <lb ed="#L" n="6"/>qui nasci vnumquemque sub constitutionibus stellarum putant, hoc in adiutorium fui erroris 
+      <lb ed="#L" n="7"/>assumunt, quod noua stella exijt, cum Dominus in carne apparuit, cuius fuisse fatum eandem  
+      <lb ed="#L" n="8"/>stellam putant. Sed absit a fidelium cordibus, vt esse aliquid fatum dicant, quod &amp; rationibus 
+      <lb ed="#L" n="9"/>multis redarguit consequenter. Ieronymus etiam lib. 11. super illud Esaiae; 8. In diebus illis 
+      <lb ed="#L" n="10"/>aegrotauit Ezechias, &amp;c. Fati, inquit, quaestio soluitur, ac necessitatis vincula, atque causarum,  
+      <lb ed="#L" n="11"/>quod nequaquam dies mortis singulis praestituta sit, sed voluntate Dei, &amp; ignotis mortalibus 
+      <lb ed="#L" n="12"/>causis, vel viuat aliquis, vel moriatur; praesertim cum &amp; in ista vita, nunc mortis necessitas 
+      <lb ed="#L" n="13"/>differatur, &amp; post mortem resuscitatos plurimos legerimus. Ambrosius insuper in suo 
+      Hexa<lb ed="#L" n="14" break="no"/>meron, agens de opere 4. dici diffuso processu fatum redarguit &amp; refellit. Oregorius quoque 
+      <lb ed="#L" n="15"/>Nicenus, vt allegatur in Glossa, Mat. 2 arguit contra ponentes fatum per hoc, quod tunc 
+      ora<lb ed="#L" n="16" break="no"/>tiones essent insipientes, &amp; natura contingentis destrueretur, nec esset liberum arbitrium 
+      vo<lb ed="#L" n="17" break="no"/>luntatis. Idem vult Chrysostomus super illum locum Matthaei &amp; multi Catholici 
+      tractato<lb ed="#L" n="18" break="no"/>res. Quibus &amp; concordat ille Ouidius Naso Pelignensis, I. de Vetula, vbi agit de Iudo 
+      decio<lb ed="#L" n="19" break="no"/>rum, &amp; illum damnat, eo quod non innititur ratione, sed casu fortuito deciorum, 
+      hominum<lb ed="#L" n="20" break="no"/>que fortura, seu fato, sic dicens; Nec scis fortunas hominum, &amp;c. Si Fatum ponas, fatui qui 
+      Fa<lb ed="#L" n="21" break="no"/>ta sequuntur. Nam posito fato, libertas arbitrij non esset, sed libertas est aliquid, Nihil 
+      ergo<lb ed="#L" n="22" break="no"/>Est Fatum Fatuum; Fatui qui Fata sequuntur. Horum autem, vt vtat verbis Philosophi, I. Ethi. 
+      <lb ed="#L" n="23"/>12. hoc quidem multi, &amp; veteres dicunt, hoc autem pauci &amp; gloriosi viri. Neutros autem 
+      <lb ed="#L" n="24"/>horum rationabile peccare in vniuersis sed vnum aliquid vel plurima dirigere. Ad illam ergo, quae 
+      <lb ed="#L" n="25"/>magnos studiosis affert fructus, scientiam diuidendi secundum traditionem Peripateticae 
+      dis<lb ed="#L" n="26" break="no"/>ciplinae recurro. Fatum igitur secundum Doctorum sententiam dupliciter dicitur; vno modo 
+      <lb ed="#L" n="27"/>vis communis Astrorum, quae generaliter omnia quae fiunt in mundo ineuitabiliter 
+      necessita<lb ed="#L" n="28" break="no"/>te regulat, &amp; coercet; specialiter autem virtus quaedam siderea consistens in constitutione 
+      si<lb ed="#L" n="29" break="no"/>derum, hora qua quis conceptus est aut natus, quae &amp; omnium futurorum circa tunc natum, 
+      <lb ed="#L" n="30"/>necessitatem imponit. Aliter autem dicitur Fatum a fando, a famine scilicet seu fatione 
+      Io<lb ed="#L" n="31" break="no"/>uis secundum Stoicos, &amp; alios ethnicos Philosophos &amp; Poetas, qui apud eos fuerat summus 
+      <lb ed="#L" n="32"/>Deus, quod apud Catholicos potest dici Fatio, Famenue Dei. Fatum siderum seu astrale, 
+      pre<lb ed="#L" n="33" break="no"/>sertim si necessitatem importet, non est ponendum, sicut praemissa circa 32. partem, &amp; 39. 
+      <lb ed="#L" n="34"/>corollarij primi docent; &amp; sic Doctores superius recensiti, imo &amp; omnes Doctores catholici 
+      <lb ed="#L" n="35"/>concorditer Fatum damnant. Si tamen fatum siderum nequaquam necessitatem, sed 
+      quan<lb ed="#L" n="36" break="no"/>dam dispositionem, &amp; inclinationem in hominibus ad quosdam actus importet, non videtur 
+      <lb ed="#L" n="37"/>penitus abnegandum: Fatum vero diuinum est proculdubio concedendum. Nonne 
+      scrip<lb ed="#L" n="38" break="no"/>tum est in exordio creaturae; Dixit Deus, Fiat Iux, &amp; facta est lux? &amp; ita de caeteris creaturis? 
+      <lb ed="#L" n="39"/>&amp; alibi; Ipse dixit &amp; facta sunt: Omnia enim quaecunque voluit, fecit, quia voluntas eius 
+      per<lb ed="#L" n="40" break="no"/>fecta; istud autem fatum diuinum est maxime voluntatis diuinae, quae est efficax rerum causa, 
+      <lb ed="#L" n="41"/>sicut praecedentia docuerunt. Haec autem distinctio patet per Augustinum; de Ciuit. Dei, 
+      <lb ed="#L" n="42"/>1. 8. &amp; 9. vbi &amp; primo membro reprobato diffuse dicit de secundo, quod Stoici omnem 
+      con<lb ed="#L" n="43" break="no"/>nexionem seriemque causarum, qua fit omne quod sit, Fatum appellant, quod totum Dei 
+      <lb ed="#L" n="44"/>summi tribuunt voluntati &amp; potestati, qui veracissime creditur cuncta praescire, &amp; nihil 
+      inor<lb ed="#L" n="45" break="no"/>dinatum relinquere; sed ipsam praecipue Dei summi voluntatem, cuius potestas 
+      insuperabi<lb ed="#L" n="46" break="no"/>liter per cuncta porrigitur Fatum appellare probantur, quoniam Iouem appellant, quem 
+      sum<lb ed="#L" n="47" break="no"/>mum Deum putant, a quo connexionem dicunt pendere Fatorum. Et infra 9. Omnia, inquit,  
+      <lb ed="#L" n="48"/>fato fieri non dicimus, imo nulla fieri fato dicimus, quoniam fati nomen, vbi solet a 
+      loquen<lb ed="#L" n="49" break="no"/>tibus poni, id est, in constitutione fiderum, qua quisque conceptus aut natus est, quoniam res 
+      <lb ed="#L" n="50"/>ipsa inaniter asseritur, nihil valere monstramus; ordinem autem causarum, vbi voluntas Dei 
+      <lb ed="#L" n="51"/>plurimum potest, neque negamus, neque fati vocabulo nuncupamus, nisi forte vt fatum a 
+      fan<lb ed="#L" n="52" break="no"/>do dictum intelligamus, id est, a loquendo. Non enim abnuere possumus esse scriptum in 
+      li<lb ed="#L" n="53" break="no"/>teris sanctis; Semel locutus est Deus, duo haec audiui, quoniam potestas Dei est, &amp; tibi Domine 
+      <lb ed="#L" n="54"/>misericordia, quia tu reddes vnicuique secundum opera eius: Quod enim dictum est; Semel 
+      <lb ed="#L" n="55"/>locutus, intelligitur immobiliter, hoc est incommutabiliter est locutus, sicut nouit 
+      incommuta<lb ed="#L" n="56" break="no"/>biliter omnia quae futura sunt, &amp; quae ipse facturus est. Idemque supra eiusdem 1. Prorsus, 
+      in<lb ed="#L" n="57" break="no"/>quit, diuina prouidentia regna constituuntur humana, quae si propterea quisquam fato 
+      tribu<lb ed="#L" n="58" break="no"/>at, quia ipsam Dei voluntatem vel potestatem fati nomine appellat, sententiam teneat, lin¬ 
+      <!--299.xml-->
+      <pb ed="#A" n="266"/>
+               <lb ed="#L" n="1"/>guam corrigat. Cui concordat Isid. 8. Eth. 45. dicens; Fatum dicunt Gentiles esse, quicquid dij 
+      <lb ed="#L" n="2"/>fantur, quicquid Iupiter fatur; a fando igitur Fatum dicunt, id est, a loquendo, quod nisi hoc 
+      <lb ed="#L" n="3"/>nomen iam in alia re soleret intelligi, quo corda hominum volumus inclinare, Fatum a 
+      fan<lb ed="#L" n="4" break="no"/>do possumus rationabiliter appellare: Non enim possumus abnuere, &amp;c. verba Augustini 
+      <lb ed="#L" n="5"/>praemissa. Adhuc autem est alia distinctio a Fato bimembris: Vno enim modo accipitur 
+      <lb ed="#L" n="6"/>Fatum actiue pro famine seu fatione voluntatis diuinae seu Dei omnia disponentis: alio modo 
+      <lb ed="#L" n="7"/>passiue, sicut &amp; nomen magis sonat pro effectu &amp; dispositione passiua huius fati ipsis rebus 
+      <lb ed="#L" n="8"/>dispositis inhaerente. Primum membrum patet per Augustinum 5. de Ciuitate Dei 8. 
+      ad<lb ed="#L" n="9" break="no"/>hanc partem Senecam, Homerum, &amp; Stoicos allegantem: Allegat enim a Seneca istos 
+      <lb ed="#L" n="10"/>versus; 
+      <lb ed="#L" n="11"/>
+               <quote xml:id="dcn2br-e36060-Qd1e298">Duc me summe Pater, altique poli dominator, 
+      <lb ed="#L" n="12"/>Quocunque placuit; nulla parendi mora est. 
+      <lb ed="#L" n="13"/>Assum impiger, fac nolle, comitabor gemens, 
+      <lb ed="#L" n="14"/>Malusque patiar facere quod licuit bono
+      <lb ed="#L" n="15"/>Ducunt volentem fata, nolentem trahunt:</quote> 
+               <lb ed="#L" n="16"/>Ab Homero autem allegat hos versos, quos Cicero vertit in Latinum: 
+      <lb ed="#L" n="17"/>
+               <quote xml:id="dcn2br-e36060-Qd1e313">Tales sunt hominum mentes, quali Pater ipse 
+      <lb ed="#L" n="18"/>Iupiter antiferas lustrauit lumine terras.</quote> 
+               <lb ed="#L" n="19"/>Dicitque Augustinus, quod per hos versus quos Stoici allegant pro opinione sua de Fato, 
+      <lb ed="#L" n="20"/>apertissime declaratur, quid sentiant esse Fatum, quoniam Iouem appellant, quem 
+      sum<lb ed="#L" n="21" break="no"/>mum Deum putant, a quo connexionem dicunt pendere Fatorum. Vnde videtur quod 
+      Ari<lb ed="#L" n="22" break="no"/>stoteles 2. de Anima 148. iniuste reprehendit Homerum, imponens sibi, quod ipse opinatur 
+      <lb ed="#L" n="23"/>intelligere esse corporeum, vt sentire, quia dixit vt recitat, quod talis intellectus est in terrenis 
+      <lb ed="#L" n="24"/>hominibus, qualem ducit in die Pater virorum deorumque. Non enim per Patrem 
+      viro<lb ed="#L" n="25" break="no"/>rum atque Deorum intellexit Solem vel aliquid corporeum, vt Aristoteles tacite innuit, &amp; sui 
+      <lb ed="#L" n="26"/>expositores dicunt expresse, sed ipsum Icuem tam hominum quam aliorum Deorum 
+      sum<lb ed="#L" n="27" break="no"/>mum Patrem, vt patet per versus eius praedictos, istam sententiam sapientes. Nec debet 
+      <lb ed="#L" n="28"/>obstare quod dicit lumine, quasi velit dicere quod Iupiter hoc faciat aliquo materiali lumine 
+      <lb ed="#L" n="29"/>mediante: Potest enim intelligere congrue per hoc lumen intellectum agentem, qui teste 
+      <lb ed="#L" n="30"/>teipso 3. de Anima 18. Iumini comparatur; Vnde &amp; Psalmista 35. In lumine tuo 
+      videbi<lb ed="#L" n="31" break="no"/>mus lumen. Hoc etiam Primum membrum huius distinctionis de Fato patet per 
+      Philoso<lb ed="#L" n="32" break="no"/>phum in De mundo vlt. exponentem tria statuta Fatorum, sicut &amp; Isidorus 8. Eth. 45. 
+      prae<lb ed="#L" n="33" break="no"/>teriti Atropos, futuri Lachesis, praesentis Clotho, &amp; dicentem, Perficitur autem fabula, 
+      sci<lb ed="#L" n="34" break="no"/>licet de triplici Fato, non inordinate. Sunt autem haec omnia nihil aliud nisi Deus, 
+      quemad<lb ed="#L" n="35" break="no"/>modum &amp; strenuus ait Plato: Vnde patet quod haec opinio etiam sit Platonis. Secundum 
+      <lb ed="#L" n="36"/>vero membrum distinctionis praemissae patet per Philosophiam 4. de Consol. Phis prosa 62. sic 
+      <lb ed="#L" n="37"/>Boetium informantem; Omnis generatio rerum, cunctusque mutabilium naturarum progressus, 
+      <lb ed="#L" n="38"/>&amp; quicquid aliud aliquo mouetur modo, causas, ordinem, formas ex diuina mentis 
+      stabilita<lb ed="#L" n="39" break="no"/>te fortitur. Haec in suae simplicitatis arte composita multiplicem rebus gerendis modum 
+      sta<lb ed="#L" n="40" break="no"/>tuit, qui modus cum in ipsa diuinae intelligentiae puritate conspicitur, prouidentia nominatur; 
+      <lb ed="#L" n="41"/>Cum vero ad ea quae mouet atque disponit refertur, Fatum a veteribus appellatum est, quae 
+      di<lb ed="#L" n="42" break="no"/>uersa esse facile liquebit. Nam prouidentia est ipsa diuina ratio, in summo omnium 
+      Princi<lb ed="#L" n="43" break="no"/>pe constituta, quae cuncta disponit; Fatum vero inhaerens rebus mobilibus dispositio, per 
+      <lb ed="#L" n="44"/>quam prouidentia suis quaeque nectit ordinibus. Prouidentia namque cuncta pariter 
+      quam<lb ed="#L" n="45" break="no"/>uis diuersa, quamuis infinita complectitur; Fatum vero singula digerit, in motu, locis, formis, 
+      <lb ed="#L" n="46"/>ac temporibus distributa, vt haec temporalis ordinis explicatio in diuinae mentis adunata 
+      pro<lb ed="#L" n="47" break="no"/>spectu, prouidentia sit; eadem vero adunatio digesta atque explicata temporibus, Fatum 
+      vo<lb ed="#L" n="48" break="no"/>cetur, quae licet diuersa sint, alterum tamen pendet ex altero. Ordo namque fatalis ex 
+      proui<lb ed="#L" n="49" break="no"/>dentiae simplicitate procedit, sicut enim artifex faciendae rei formam mente percipiens 
+      mo<lb ed="#L" n="50" break="no"/>uet operis effectum, &amp; quod simpliciter praesentarieque prospexerat, per temporales ordines 
+      <lb ed="#L" n="51"/>ducit: Ita Deus prouidentia quidem singulariter stabiliterque disponit facienda; Fato vero 
+      <lb ed="#L" n="52"/>haec ipsa quae disposuit, multipliciter ac temporaliter administrat, Siue igitur famulantibus 
+      <lb ed="#L" n="53"/>quibusdam prouidentiae diuinae spiritibus fatum exercetur, seu anima, seu tota inseruiente 
+      <lb ed="#L" n="54"/>natura, seu coelestibus siderum motibus, seu Angelica virtute, seu daemonum varia solertia, 
+      <lb ed="#L" n="55"/>seu aliquibus horum, seu omnibus fatalis series texitur, illud certe manifestum est immobilem. 
+      <lb ed="#L" n="56"/>simplicemque gerendarum formam rerum esse prouidentiam; Fatum vero eorum quae 
+      diui<lb ed="#L" n="57" break="no"/>na simplicitas gerenda disposuit mobilem nexum, atque ordinem temporalem; quo sit vt 
+      om<lb ed="#L" n="58" break="no"/>nia quae Fato subsunt, prouidentiaeque subiecte sunt, cui etiam ipsum quoque subiacet Fatum. 
+      <!--300.xml-->
+      <pb ed="#A" n="267"/>
+               <lb ed="#L" n="1"/>Ex his autem videtur quod Boetius tantummodo ponit Fatum secundum effectum, non 
+      au<lb ed="#L" n="2" break="no"/>tem secundum efficientiam voluntatis diuinae, sicut Theologi, &amp; Philosophi supra dicti. 
+      Vide<lb ed="#L" n="3" break="no"/>tur etiam quod voluntatis arguat Stoicos in expositione primi peri hermenias Aristotelis, vbi 
+      <lb ed="#L" n="4"/>agit de futuris contingentibus, eo quod posuerunt omnia prouenire a Fato: Ipsi enim 
+      loque<lb ed="#L" n="5" break="no"/>bantur de Fato secundum efficaciam voluntatis diuinae, vt ex praedictis apparet. Quare &amp; ab 
+      <lb ed="#L" n="6"/>omni errore reali, etsi non vocali forsitan sunt immunes, sicut praecedentia docuerunt. Haec 
+      <lb ed="#L" n="7"/>enim vox Fatum apud Catholicos est suspecta, licet res ipsa sit sincera. Ostenso ergo 
+      quomo<lb ed="#L" n="8" break="no"/>do Fatum sit, vel non sit, &amp; quid sit, iam restat ostendere quale sit. Primo igitur 
+      ostenden<lb ed="#L" n="9" break="no"/>dum est, quod Fatum a fando, seu famine Dei dictum, est quodammodo causa cunctorum, 
+      <lb ed="#L" n="10"/>quae fiunt naturaliter voluntate, vel aliter quouismodo; hoc siquidem proximum huius 
+      pro<lb ed="#L" n="11" break="no"/>bat. Quod autem omnia voluntaria a Fato proueniunt, scilicet a fando seu connexione 
+      cau<lb ed="#L" n="12" break="no"/>sarum, per proximum &amp; nonum huius apparet. Omnes etiam qui loquuntur de Fato, tantum 
+      <lb ed="#L" n="13"/>vel magis ponunt ipsum in rebus humanis voluntarijs, quam alijs quibuscunque. Quod &amp; 
+      <lb ed="#L" n="14"/>patet 5. de Ciuitat. Dei 6. &amp; 9. vbi dicit Augustinus; Non est autem consequens vt si Deo 
+      <lb ed="#L" n="15"/>certus est omnium ordo causarum, ideo nihil sit in nostrae voluntatis arbitrio; &amp; ipsae quippe 
+      <lb ed="#L" n="16"/>nostrae voluntates in causarum ordine sunt, qui certus est Deo, eiusque praesentia continetur; 
+      <lb ed="#L" n="17"/>quoniam &amp; humanae voluntates humanorum operum causae sunt. Atque ita qui omnes 
+      re<lb ed="#L" n="18" break="no"/>rum causas praesciuit, profecto in eis causis etiam nostras voluntates ignorare non potuit, 
+      <lb ed="#L" n="19"/>quas nostrorum operum causas esse praesciuit: Qui &amp; infra, distinctis tribus speciebus 
+      gene<lb ed="#L" n="20" break="no"/>ribusue causarum, per fortuitum, naturale, &amp; voluntarium, &amp; iterum per causam quae facit, 
+      <lb ed="#L" n="21"/>&amp; non fit; quae facit &amp; fit, &amp; quae sit magis quam facit; &amp; his omnibus speciebus ad 
+      volunta<lb ed="#L" n="22" break="no"/>tem diuinam reductis, subiungit: Quomodo igitur ordo causarum, qui praescienti certus est, 
+      <lb ed="#L" n="23"/>Deo id efficit, vt nihil sit in nostra voluntate, cum in ipso causarum ordine magnum habeant  
+      <lb ed="#L" n="24"/>locum nostrae voluntates. Contendat ergo Cicero cum eis qui hunc ordinem causarum 
+      di<lb ed="#L" n="25" break="no"/>cunt esse fatalem, vel potius ipsum Fati nomine appellant, quod nos abhorremus praecipue 
+      <lb ed="#L" n="26"/>propter vocabulum, quod non in re vera consueuit intelligi. Quod vero negat ordinem 
+      om<lb ed="#L" n="27" break="no"/>nium causarum esse certissimum &amp; Dei praescientiae notissimum, plus nos quam Stoici 
+      dete<lb ed="#L" n="28" break="no"/>stamur. Quapropter &amp; voluntates nostrae tantum valent, quantum Deus eas valere voluit,  
+      <lb ed="#L" n="29"/>atque praesciuit, &amp; ideo quicquid valent certissime valent, &amp; quod facturae sunt, ipsae omnino 
+      <lb ed="#L" n="30"/>facturae sunt, quia valituras ac facturas ille praesciuit, cuius praescientia falli non potest; quod  
+      <lb ed="#L" n="31"/>etiam capit. 10 expressius manifestat: Cui concordat Autoritas Boetij supra dicta, sed infra 
+      <lb ed="#L" n="32"/>eadem prosa expressius ita dicit; Haec fati feries seu prouidentia actus fortunasque hominum 
+      <lb ed="#L" n="33"/>indissolubili causarum connexione constringit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

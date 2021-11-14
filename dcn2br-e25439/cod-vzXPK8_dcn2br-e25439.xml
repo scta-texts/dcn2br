@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="184"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e25439"><!-- l1c7 -->
+            <head xml:id="dcn2br-e25439-Hd1e106">Caput 7</head>
+            <head xml:id="dcn2br-e25439-Hd1e109" type="question-title">Obiicit contra sextum et soluit.</head>
+            <p xml:id="dcn2br-e25439-d1e112">
+               <lb ed="#L" n="15"/>CAP. VII. 
+      <lb ed="#L" n="16"/>Obiicit contra sextum &amp; soluit.
+    </p>
+            <p xml:id="dcn2br-e25439-d1e119">
+               <lb ed="#L" n="17"/>HIc forsan aliquis seminator verborum Sophisticus obijciet in hunc 
+      <lb ed="#L" n="18"/>modum: Omni multitudini conuenit saltem imaginarie addere 
+      vnita<lb ed="#L" n="19" break="no"/>tem; ergo multitudini omnium cognitorum a Deo. Quod si 
+      adda<lb ed="#L" n="20" break="no"/>tur, sequitur Deum non cognoscere distincte totam illam secundam 
+      <lb ed="#L" n="21"/>multitudinem, quoniam vnam eius vnitatem, scilicet illam nouiter 
+      ad<lb ed="#L" n="22" break="no"/>ditam non cognoscit. Item sit A multitudo omnium punctorum 
+      <lb ed="#L" n="23"/>imaginabilium cognitorum a Deo, Bvero multitudo omnium 
+      ani<lb ed="#L" n="24" break="no"/>marum imaginabilium cognitarum a Deo, &amp; C multitudo omnium 
+      <lb ed="#L" n="25"/>Angeiorum imaginabilium cognitorum a Deo, &amp; D multitudo composita ex B &amp; C 
+      tan<lb ed="#L" n="26" break="no"/>tum; tunc A est aequale B &amp; C diuisim, quare &amp; minus D. Potest ergo augeri imaginarie ad  
+      <lb ed="#L" n="27"/>aequalitatem illius; quod si ponatur, Deus totam illam multitudinem A sic auctam non 
+      cog<lb ed="#L" n="28" break="no"/>noscit distincte. Item ponatur secundum sententiam Aristotelis mundus aeternus anterius, &amp; 
+      <lb ed="#L" n="29"/>sit A multitudo omnium dierum praeteritorum in mente diuina, secundum illud 
+      Propheti<lb ed="#L" n="30" break="no"/>cum, Cogitaui dies antiquos, &amp; annos aeternos in mente habui; et B multitudo 
+      omniuman<lb ed="#L" n="31" break="no"/>norum, eclipsium, seu aequinoctiorum priorum; tunc A est maius B, constat: sicut enim dies 
+      <lb ed="#L" n="32"/>vnius anni se habent ad illum; ita omnes dies pariter congregati, ad omnes annos pariter 
+      <lb ed="#L" n="33"/>congregatos: Et de multitudine eclipsium, &amp; aequin octiorum similiter sentiendum; alias 
+      eti<lb ed="#L" n="34" break="no"/>am A esset aequale B; quare &amp; pars toti. Eadem etiam ratione multitudo omnium horarum,  
+      <lb ed="#L" n="35"/>&amp; minutarum quotlibet, imo &amp; instantium aequaretur multitudini eclipsium, aequinoctiorum, 
+      <lb ed="#L" n="36"/>annorum communium &amp; magnorum, quinimo &amp; multitudini myriadum qualicunque 
+      anno<lb ed="#L" n="37" break="no"/>rum; quare &amp; multitudo omnium instantium praeteritorum simpliciter aequaretur multitudini 
+      <lb ed="#L" n="38"/>instantium aequinoctialium, eclipsalium, annalium, &amp; myriadalium, inchoantium scilicet seu 
+      <lb ed="#L" n="39"/>terminantium eclipses, annos paruos aut magnos, myriadesue annorum, quod quis 
+      concesse<lb ed="#L" n="40" break="no"/>rit? A ergo est maius B; quod si concesseris, distribuatur imaginarie, vel vere in mente 
+      di<lb ed="#L" n="41" break="no"/>uina, hesterni diei vna, &amp; proxima vnitas B. puta vna, &amp; proxima eclipsis praeterita, &amp; dici 
+      <lb ed="#L" n="42"/>diem hesternum proximo praecedenti eclipsis proxima ante illam, &amp; ita deinceps semper 
+      con<lb ed="#L" n="43" break="no"/>tinue retrograde procedendo; &amp; tandem tota distributione completa, cuilibet vnitati A 
+      cor<lb ed="#L" n="44" break="no"/>respondebit aequaliter vna vnitas B, &amp; e contra, quod patet clarissime. Alioqum, alicubi in 
+      <lb ed="#L" n="45"/>aliquo die praeterito desineret talis distributio vnitatum B, &amp; cum dies ille distet a dic praesenti 
+      <lb ed="#L" n="46"/>per dies finitos tantummodo, B haberet finitas tantummodo vnitates? vnitates ergo A &amp; D 
+      <lb ed="#L" n="47"/>mutuo sibi aequaliter correspondent; quare &amp; totae illae multitudines sunt aequales. Quinimo 
+      <lb ed="#L" n="48"/>&amp; Best maius A quantum volueris, in duplo, in decuplo, &amp; deinceps. Cuilibet namque 
+      vni<lb ed="#L" n="49" break="no"/>tati A distribuantur modo quo prius duae, aut decem, seu quot volueris vnitates B. &amp;c. sicut 
+      <lb ed="#L" n="50"/>supra. Deus ergo non nouit distincte multitudines totas tales, quare nec aliquam multitudi 
+      <lb ed="#L" n="51"/>nem infinitam. Item possum imaginari saltem ficte aliquid, quod Deus non intelligit &amp; ita 
+      <lb ed="#L" n="52"/>facio, &amp; illud intelligo: Ergo aliquid intelligo quod Deus non intelligit; et ita facio, &amp; illud 
+      <lb ed="#L" n="53"/>intelligo, quod Deus non intelligit. Ad idem cum audis proferri aliquid, quod Deus non in¬ 
+      <!--218.xml-->
+      <pb ed="#A" n="185"/>
+               <lb ed="#L" n="1"/>telligit, tu aliquid intelligis per prolatum; ergo tu intelligis, quod Deus non intelligit; ergo 
+      <lb ed="#L" n="2"/>Deus non intelligit intelligibilia vniuersa. Item, si Deus intelligat omnia intelligibilia, et 
+      <lb ed="#L" n="3"/>non potest ea omnia, quia impossibilia non potest, magis est intelligens quam potens, ergo 
+      <lb ed="#L" n="4"/>non est omnipotens, nec potentiae infinitae: Omne enim minus alio est finitum. Ad idem, si 
+      <lb ed="#L" n="5"/>potentia sit minor eius intelligentia, posset saltem imaginarie augmentari ad eius 
+      aequalita<lb ed="#L" n="6" break="no"/>tem, &amp; sic posset fieri potentior, quam sit modo. Item multitudo omnium punctorum 
+      reali<lb ed="#L" n="7" break="no"/>ter existentium, vel etiam possibilium, seu imaginabilium est simpliciter infinita; Alias enim 
+      <lb ed="#L" n="8"/>posset illis adhuc adhuc vlterius vnus punctus, &amp; sic prima multitudo quae ponitur omnium 
+      <lb ed="#L" n="9"/>punctorum, non esset omnium punctorum; ergo illa multitudo replet &amp; satiat totam 
+      capaci<lb ed="#L" n="10" break="no"/>tatem intellectiuitatis diuinae. Non enim est in aliquo minor ea, quoniam tunc esset aliquo 
+      <lb ed="#L" n="11"/>modo finita, &amp; non simpliciter infinita. Item, si Deus intelligat omnia, vel ergo confuse vel 
+      <lb ed="#L" n="12"/>distincte; non confuse, propter capitulum proximum; nec distincte, quia tunc haberet in se 
+      <lb ed="#L" n="13"/>aliqua, &amp; tot distincta realiter, quot cognoscit distincte. Aliqua enim distincta necessario 
+      re<lb ed="#L" n="14" break="no"/>quiruntur ad distinctionem quamlibet faciendam, sicut videtur patere ex ostensione 36. 
+      par<lb ed="#L" n="15" break="no"/>tis corollarij primi huius. Nec potest quis concedere multitudinem infinitam, neque finitam 
+      <lb ed="#L" n="16"/>habituum vel actuum cognitiuorum realiter diuersorum in Deo, propter 26. partem 
+      corol<lb ed="#L" n="17" break="no"/>larij primi huius. Item Philosophus 12. Metaph. 51. per multas rationes ostendit, Deum 
+      <lb ed="#L" n="18"/>non intelligere aliud a seipso; vbi &amp; Auerroes ostendit, quod scientia Dei non est vniuersalis, 
+      <lb ed="#L" n="19"/>quia vniuerfalis scientia importat poteatiam respectu singularium, &amp; nulla est potentia in eius 
+      <lb ed="#L" n="20"/>scientia, vt supponit, nec est particularis, vt arguit, quia particularia sunt infinita, &amp; non 
+      de<lb ed="#L" n="21" break="no"/>terminantur a scientia; patet ergo propositum. Item Dominus dicit quibusdam; Amen dico 
+      <lb ed="#L" n="22"/>vobis, nescio vos, Matth. 25. &amp; supra, eodem 24. De dic autem illa &amp; hora, nemo scit, neque 
+      <lb ed="#L" n="23"/>Angeli coelorum, neque Filius. Et Gen. 22. Temptauit Deus Abraham, &amp; post experientiam  
+      <lb ed="#L" n="24"/>dixit Abrahae; Nunc cognoui quod timeas Deum: ergo hoc prius non cognouit, vel vane sic 
+      <lb ed="#L" n="25"/>dixit: Et Exod. 16. dixit Dominus ad Mosem; Pluam vobis panes de coelo, &amp; populus 
+      colli<lb ed="#L" n="26" break="no"/>gat, vt temptem eum, vtrum ambulet in lege mea, an non. Et Deut. 13. Temptat vos 
+      Domi<lb ed="#L" n="27" break="no"/>nus Deus vester, vt palam sciat, vtrum diligatis eum an non: &amp; Ierem. II. sic scribitur; Non 
+      <lb ed="#L" n="28"/>cognoui, quia cogitauerunt super consilia. Item Sancti frequenter excitant Dominum vt 
+      cog<lb ed="#L" n="29" break="no"/>noscat, dicentes; Audi, vide, intellige, memento Domine huius vel illius; Memor esto, 
+      co<lb ed="#L" n="30" break="no"/>gita, recordare, vt patet creberrime in Scriptura, quod non esset, si semper omnia 
+      cognosce<lb ed="#L" n="31" break="no"/>ret actualiter &amp; distincte; &amp; Scriptura saepe commemorat Deum, quandoque de aliquibus 
+      <lb ed="#L" n="32"/>recordari, &amp; aliqua obliuisci, &amp; de aliquibus poenitere. Item Tobiae 12. dixit Raphael; Ego 
+      <lb ed="#L" n="33"/>obtuli orationem tuam Domino. Item dicit Hieronymus super illud Abatuc 1. Facies 
+      ho<lb ed="#L" n="34" break="no"/>minis quasi pisces maris, &amp; quasi reptile non habens principem; Absurdum est ad hoc 
+      dedu<lb ed="#L" n="35" break="no"/>cere Dei Maiestatem, vt sciat per momenta singula, quot culices nascantur, quotue 
+      morian<lb ed="#L" n="36" break="no"/>tur, quota pulicum &amp; muscarum sit multitudo, quotue pisces natent in aquis, &amp; similia. Item, 
+      <lb ed="#L" n="37"/>quod Deus nesciat omnia vera contingentia de futuro videtur; quia hoc esset necessario, vel 
+      <lb ed="#L" n="38"/>contingenter: non necessario, quia non necessario sunt vera, ergo nec scita; nec contingenter, 
+      <lb ed="#L" n="39"/>quia tunc posset illa non scire; &amp; quia nullum non verum est scitum a Deo, contingit omne 
+      ve<lb ed="#L" n="40" break="no"/>rum contingens esse non verum; ergo contingit saltem pro possibili nullum verum contingens 
+      <lb ed="#L" n="41"/>esse scitum a Deo. Docet enim Philosophus I. prior. vbi agit de mixtione contingentis, &amp; in 
+      <lb ed="#L" n="42"/>esse, quod maiore dein esse non vt nunc, aut in hoc tempore, sed simpliciter; &amp; minore de 
+      <lb ed="#L" n="43"/>contingenti ad vtrumlibet, sequitur conclusio de contingenti pro possibili. Hoc idem sic 
+      pro<lb ed="#L" n="44" break="no"/>batur; Contingit omne verum contingens esse non verum: ponatur ergo in esse, &amp; habetur 
+      <lb ed="#L" n="45"/>propositum. Modus arguendi patet per Philosophum, vbi priue, probantem mixtionem 
+      prae<lb ed="#L" n="46" break="no"/>dictam per hoc, quod exopposito conclusionis, quod ecit vna de necessario, &amp; minore 
+      posi<lb ed="#L" n="47" break="no"/>ta in esse, sequitur in mixtione necessarij, &amp; in esse prius ostensa, vna conclusio de necessario. 
+      <lb ed="#L" n="48"/>quae infert oppositum primae maioris. 
+      </p>
+            <p xml:id="dcn2br-e25439-d1e310">
+               <lb ed="#L" n="49"/>Huic autem stulto contra diuinam sapientiam sophistice garrienti, secundum consilium 
+      Sa<lb ed="#L" n="50" break="no"/>pientis expedit respondere iuxta suam stultitiam, ne sibi sapiens videatur. Potest igitur non 
+      im<lb ed="#L" n="51" break="no"/>probabiliter primo dici, quod ista argutia non impugnat cognitionem diuinam, quonia si quis 
+      <lb ed="#L" n="52"/>concesserit aliqua esse multitudinem omnium cognitorum a Deo, negabit tibi aliud quod 
+      as<lb ed="#L" n="53" break="no"/>sumis, omni scilicet multitudini posse addi aliam vnitatem, dicetque hoc solum esse 
+      ve<lb ed="#L" n="54" break="no"/>rum de multitudine finita, cui necessario infinitae deficiunt vnitates, non de multitudine 
+      <lb ed="#L" n="55"/>simpliciter infinita, quae omnes continer vnitates. An non forte &amp; aliter, nec minus 
+      <lb ed="#L" n="56"/>probabiliter dici potest, quod ista argutiuncula scientiae diuinae non obuiat, nec resistit? 
+      <lb ed="#L" n="57"/>Aequaliter enim arguit nullam esse multitudinem omnium imaginabilium, seu cognoscibilium. 
+      <lb ed="#L" n="58"/>sicut Deum talis multitudinis scientiam non habere. Quod enim Deus tase multitudinem non  
+      <!--219.xml-->
+      <pb ed="#A" n="186"/>
+               <lb ed="#L" n="1"/>cognoscat, potest dupliciter cogitari, vel quia talis multitudo est, &amp; Deus illam no nouit, quod A 
+      <lb ed="#L" n="2"/>nullus nisi forsitan nescius vel leuiter suspicatur: vel quia nulla talis multitudo est vllo modo 
+      <lb ed="#L" n="3"/>essendi; quare nec intelligibilis, aut cognoscibilis vllo modo, sicut non est scibile, hominem esse 
+      <lb ed="#L" n="4"/>non hominem, asinum, vel Leonem, quod &amp; videtur non inopinabiliter dici posse. Si enim esset 
+      a<lb ed="#L" n="5" break="no"/>liqua multitudo omnium imaginabilium, seu cognoscibilium simpliciter, esset &amp; aliqua 
+      multi<lb ed="#L" n="6" break="no"/>tudo omnium punctorum imaginabilium, seu cognoscibilium, omnium talium animarum, 
+      <lb ed="#L" n="7"/>&amp; similiter Angelorum, sicut argutia sequens tangit. Sit igitur A multitudo omnium 
+      pun<lb ed="#L" n="8" break="no"/>ctorum imaginabilium, seu cognoscibilium, B vero omnium talium Animarum, C autem 
+      <lb ed="#L" n="9"/>omnium talium Angelorum; &amp; Dtota multitudo composita ex B &amp; Ctantum sicut superius 
+      <lb ed="#L" n="10"/>ponebatur; harum igitur trium multitudinum quaelibet est aequalis cuilibet vt videtur: 
+      Nul<lb ed="#L" n="11" break="no"/>la enim ratio potest reddi, cur haec illam excedat potius quam e contra: Si insuper vna 
+      ha<lb ed="#L" n="12" break="no"/>rum, puta Bsit minor alia, puta C; potest augeri imaginabiliter ad aequalitatem illius. Non 
+      <lb ed="#L" n="13"/>ergo Bab initio omnes animas imaginabiles continebat; possetque Cminui ad aequalitatem B 
+      <lb ed="#L" n="14"/>B, &amp; tamen omnes Angelos imaginabiles continere; nihil enim ei esset detractum; quia si 
+      <lb ed="#L" n="15"/>quid, quantum? quis rationabiliter dicet quantum? quod contradictionem concludit: Hae 
+      <lb ed="#L" n="16"/>igitur tres multitudines, A Bc singulae singulis sunt aequales D, ergo est dupla ad singulas 
+      sin<lb ed="#L" n="17" break="no"/>gulatim, sicut ostendunt praemissa, circa vltimam partem corollarij primi huius. Videtur 
+      igi<lb ed="#L" n="18" break="no"/>tur possibile A imaginarie augmentari ad aequalitatem D; Cur enim non potest numerus 
+      <lb ed="#L" n="19"/>minor augeri saltem secundum imaginationem ad aequalitatem maioris; sicuti &amp; e contra? 
+      <lb ed="#L" n="20"/>Imo imaginor A aequari D, Imaginor etenim quamlibet vnitatem D habere vnum proprium 
+      <lb ed="#L" n="21"/>punctum sibi; cur etiam quaeso multitudo talium irrationalium vnitatum punctorum non  
+      <lb ed="#L" n="22"/>posset esse, aut imaginari equalis multitudini rationalium vnitatum animarum &amp; Angelorum? 
+      <lb ed="#L" n="23"/>quid impedit? quid resistit? Imo imaginor quamlibet animam &amp; Angelum habere in se 
+      de<lb ed="#L" n="24" break="no"/>cem, centum, aut quot volueris species seu similitudines cognitorum. Hae ergo sunt plures 
+      <lb ed="#L" n="25"/>istis; &amp; cur non possum imaginari tot puncta? imo imaginor quamlibet speciem punctumO 
+      <lb ed="#L" n="26"/>esse, aut punctum proprium possidere; Imaginor insuper singulas animas &amp; Angelos in 
+      no<lb ed="#L" n="27" break="no"/>ua puncta conuersos, manentibus punctis prioribus. Nonne ergo tota multitudo punctorum 
+      <lb ed="#L" n="28"/>imaginabilium augmentatur? Imaginor etiam quemlibet puctum, &amp; quamlibet animam 
+      con<lb ed="#L" n="29" break="no"/>uerti in Angelum manentibus prioribus Angelis; Nonne ergo tota multitudo imaginabilium 
+      <lb ed="#L" n="30"/>Angelorum imaginabiliter adaugetur? Ad haec autem sit E multitudo omnium punctorum 
+      <lb ed="#L" n="31"/>luminosorum imaginabilium, &amp; F multitudo omnium punctorum tenebrosorum 
+      imaginabi<lb ed="#L" n="32" break="no"/>lium, &amp; &amp;multitudo congregata ex eis; vel ergo E est aequalis A vel minor; Non equalis, quia 
+      <lb ed="#L" n="33"/>pars eius sicut &amp; pars 6, &amp; quia tunc esset aequalis &amp; suo toti: Nec minor, quia eadem ratione 
+      <lb ed="#L" n="34"/>esset minor B &amp; C diuisim, quod potest destrui per priora. Imaginor insuper quod quilibet 
+      pu<lb ed="#L" n="35" break="no"/>ctus fieret luminosus, E ergo multitudo A multitudini adaequatur. Potest quoque similiter 
+      <lb ed="#L" n="36"/>argui de animabus &amp; Angelis, supponendo aliquam esse multitudinem omnium animarum 
+      <lb ed="#L" n="37"/>imaginabilium sapientium, seu bonarum, &amp; aliam esse multitudinem omnium animarum 
+      ima<lb ed="#L" n="38" break="no"/>ginabilium insipientium seu malarum, &amp; de Angelis pari modo, &amp;c. sicut supra. Adhuc 
+      au<lb ed="#L" n="39" break="no"/>tem &amp; posset fieri similis prologismus de hominibus integris in corpore &amp; anima, de 
+      mani<lb ed="#L" n="40" break="no"/>bus, digitis dentibus, &amp; capillis eorum; imo &amp; de punctis corporum eorundem: Data 
+      nam<lb ed="#L" n="41" break="no"/>que hypothesi consequitur euidenter, quod quaelibet multitudo omnium horum 
+      imaginabili<lb ed="#L" n="42" break="no"/>um, puta hominum, seu corporum humanorum, esset aequalis cuilibet multitudini simili, puta 
+      <lb ed="#L" n="43"/>manuum, digitorum, dentium capillorum, quinimo &amp; punctorum. Ex his igitur, vt videtur, potest. 
+      <lb ed="#L" n="44"/>non improbabiliter apparere, nulla esse multitudinem omnium imaginabilium, seu 
+      cognosci<lb ed="#L" n="45" break="no"/>bilium, in specie punctorum, animarum, vel similium; quare nec vniuersaliter omnium; sicut nec 
+      <lb ed="#L" n="46"/>est aliqua multitudo omnium finitorum imaginabilium, nec aliqua multitudo omnium quae no 
+      <lb ed="#L" n="47"/>sunt omnia, cum tamen multa sint que non sunt omnia; nec aliqua multitudo omnium 
+      pauco<lb ed="#L" n="48" break="no"/>rum, tribus etiam in personis Diuinis; neque aliqua multitudo omnium compossibilium de 
+      nu<lb ed="#L" n="49" break="no"/>mero quatuor contradictoriorum possibilium signatorum. Nulli tamen dubium debet esse, E 
+      <lb ed="#L" n="50"/>quin omnis multitudo cognoscibilium quouismodo, &amp; quorumlibet cognoscibilium multitu 
+      <lb ed="#L" n="51"/>do distinctissime cognoscatur a Deo, sicut proximum huius docet. Et si adhuc non desinas 
+      ob<lb ed="#L" n="52" break="no"/>garrire, ergo Deus nescit, quot puncta cognoscit; imo scit: Scit enim quod duo cognoscit, 
+      <lb ed="#L" n="53"/>&amp; si intelligas per quot, quotcunque ad maximum seu plurimum, ita quod non vltra, est aliquis 
+      <lb ed="#L" n="54"/>forsitan qui concedet, non quia aliqua punctorum multitudinem, aut aliqua puncta Deus 
+      igno<lb ed="#L" n="55" break="no"/>ret; sed quia nulla est multitudo punctorum omnium quae cognoscit, sicut praehabita 
+      suade<lb ed="#L" n="56" break="no"/>bant. Simili namque modo oportet te concedere, quod Deus nescit, quot puncta finita 
+      cogno<lb ed="#L" n="57" break="no"/>scit; quod nescit quot latera, vel angulos scit in figura rectilinea, aequilatera &amp; aequiangula 
+      <lb ed="#L" n="58"/>contineri, quod nescit quot pedes scit in circumferentia, vel diametro circuli posse esse, 
+      <!--220.xml-->
+      <pb ed="#A" n="187"/>
+               <lb ed="#L" n="1"/>quod nescit in quot partes aequales scit continuum simul actu esse diuisum; imo fortassis quod 
+      <lb ed="#L" n="2"/>magis videtur mirabile apud quosdam, quod Deus non scit puncta finita posse esse tot, quot 
+      <lb ed="#L" n="3"/>scit puncta finita posse esse; quod Deus non scit finitam rectilineam posse habere tot satera 
+      ae<lb ed="#L" n="4" break="no"/>qualia, &amp; angulos aequales, quot scit finitam rectilineam posse habere; quod Deus non scit 
+      <lb ed="#L" n="5"/>circulum posse esse quantumcunque scit circulum posse esse; quod Deus non scit continuum 
+      <lb ed="#L" n="6"/>posse esse diuisum in quotcunque partes scit ipsum posse esse diuisum, quod Deus nescit quae 
+      <lb ed="#L" n="7"/>est mensura communis latus quadrati &amp; diametrum commensurans, quanquam de 
+      quadran<lb ed="#L" n="8" break="no"/>gulis bene sciat; quod nescit quae sunt omnia, quae non sunt omnia; quae sunt omnia pauciora 
+      <lb ed="#L" n="9"/>tribus; quae sunt omnes diuinae persone pauciores tribus personis diuinis, quamuis bene sciat,  
+      <lb ed="#L" n="10"/>quod omnia multa pauciora tribus sunt duo, &amp; hoc totum non propter defectum scientiae, aut  
+      <lb ed="#L" n="11"/>cognitionis in Deo, sed quia illa non sunt scibilia, sicut falsa, &amp; impossibilia; ideoque nec 
+      pos<lb ed="#L" n="12" break="no"/>sunt a scientia comprehendi. Quod vero arguitur consequenter, soluitur forsitan per hoc 
+      <lb ed="#L" n="13"/>idem: Non enim diuinae scientiae derogat, sed potius reprobat multitudinem talem esse. 
+      Sen<lb ed="#L" n="14" break="no"/>tentia namque Aristotelis posita, nulla fortassis est multitudo omnium dierum, annorum,  
+      <lb ed="#L" n="15"/>eclipsium, seu aequinoctiorum priorum in mente diuina, nec extra; sicut nulla est multitudo 
+      <lb ed="#L" n="16"/>omnium finitorum eorum, neque omnium quae non sunt omnia eorundem; omnem tamen  
+      <lb ed="#L" n="17"/>multitudinem horum praeteritorum, &amp; omnia haec praeterita distinctissime nouit Deus. An 
+      <lb ed="#L" n="18"/>fortassis per hanc rationem ad impossibile deducentem potest sententia Aristotelis reprobari, 
+      <lb ed="#L" n="19"/>&amp; oppositum demonstrari? cum secundum eius sententiam, sicut est aliquod totum tempus 
+      <lb ed="#L" n="20"/>infinitum, sic &amp; aliqua tota multitudo omnium dierum, mensium, &amp; caeterorum huiusmodi 
+      <lb ed="#L" n="21"/>infinita, sicut Corollarium primi tangit. Aliqui forsitan respondebunt fatendo A &amp; B, &amp; 
+      om<lb ed="#L" n="22" break="no"/>nes tales multitudines esse ad inuicem coaequales; Sed ista proteruia prius fuerit propulsata: 
+      <lb ed="#L" n="23"/>Et cum adhuc proponis, quod potes imaginari saltem ficte aliquid, quod Deus non 
+      intelli<lb ed="#L" n="24" break="no"/>git, &amp; sic vltra procedis; O minus intelligens : cur non vis intelligere, quod proprio gladic 
+      <lb ed="#L" n="25"/>possis similiter referiri; Si enim imaginari valeas quouismodo, quod Deus non intelligit, cur 
+      <lb ed="#L" n="26"/>non similiter imaginari valebis, quod tu ipse non intelligis? cum multa &amp; satis plura non 
+      in<lb ed="#L" n="27" break="no"/>telligas quam distincte intelligas? &amp; cur non vlterius deducis ex isto, te intelligere aliquid,  
+      <lb ed="#L" n="28"/>quod non intelligis? Et cum vlterius ore stulto ebullis stultitiam, cum audis, inquiens, 
+      pro<lb ed="#L" n="29" break="no"/>ferri aliquid quod Deus non intelligit, tu aliquid intelligis per prolatum: Ex ore tuo te 
+      iudi<lb ed="#L" n="30" break="no"/>co ex verbis tuis; Cum audis, inquio, proferri aliquid, quod tu non intelligis, tu aliquid 
+      in<lb ed="#L" n="31" break="no"/>telligis per prolatum &amp;c. sicut prius: hanc autem stultitiam hominibus illis relinquo vlterius 
+      <lb ed="#L" n="32"/>masticandam, quibus quod stultum est // Dei tanquam sapientius acceptatur. Cum vero 
+      ar<lb ed="#L" n="33" break="no"/>guitur, quod si Deus intelligat omnia, plura intelligit quam possit; dicendum quod 
+      quic<lb ed="#L" n="34" break="no"/>quid Deus intelligit, potest intelligere. Quare non sequitur quod Deus sit magis 
+      intelli<lb ed="#L" n="35" break="no"/>gens quam sit potens. Si autem loquaris de posse ad extra producere, sic non proprie sed 
+      <lb ed="#L" n="36"/>multum improprie sit magis intelligens quam sit potens, quia respectu cuiuslibet cuius est 
+      <lb ed="#L" n="37"/>potens, est intelligens, &amp; non e contra; &amp; sic non sequitur vltra, quod non sit omnipotens, 
+      <lb ed="#L" n="38"/>Ex hoc enim dicitur vere omnipotens, quia potest omne possibile, non quia potest omne 
+      <lb ed="#L" n="39"/>imaginabile, aut esse fingibile, vt probat Lumbardus I. sentent. distinct. 42. licet ibi per 
+      di<lb ed="#L" n="40" break="no"/>cta sanctorum ostendat similiter, quod ideo Deus dicitur omnipotens, quia potest quicquid 
+      <lb ed="#L" n="41"/>vult, quod conuenienter potest intelligi, ideo ipsum omnipotentem vere dici, quia potest 
+      <lb ed="#L" n="42"/>quicquid vult, id est, quodcunque ab eo volubile fieri, &amp; hoc est omne possibile, vt est dictum. 
+      <lb ed="#L" n="43"/>Et similiter dicitur potentiae infinitae productiuae ad extra, quia eius potentia non finitur ad 
+      <lb ed="#L" n="44"/>aliquod possibile, nec ad aliqua possibilia, quod vel quae non potest. Aliud autem 
+      argumen<lb ed="#L" n="45" break="no"/>tum de multitudine omnium punctorum realium possibilium vel imaginabilium non 
+      proce<lb ed="#L" n="46" break="no"/>dit: Sicut enim arguit illam multitudinem replere, &amp; satiare totam capacitatem intellectus 
+      <lb ed="#L" n="47"/>diuini; sic posset argui, quod eadem repleret &amp; satiaret totam capacitatem entitatis, seu 
+      <lb ed="#L" n="48"/>possibilitatis essendi, ita quod nihil aliud posset esse. Hoc idem etiam aliter soluitur per 
+      prae<lb ed="#L" n="49" break="no"/>missa. Ad aliud dico, quod Deus intelligit dictinctissime vniuersa, nec per aliqua distincta 
+      <lb ed="#L" n="50"/>in eo, sed tantum per suam vnissimam, &amp; simplicissimam claritatem, quae ex multitudine 
+      <lb ed="#L" n="51"/>suae virtutis &amp; fortitudinis infinitae aequiualet, imo incomparabiliter praeualet omni 
+      multi<lb ed="#L" n="52" break="no"/>tudini similitudinum, exemplarium, idearum, habituum, actuum, &amp; accidentium 
+      quo<lb ed="#L" n="53" break="no"/>rumcunque, sicut tertia pars, &amp; quarta Corollarij primi docent. Et hoc est quod 
+      fidelis<lb ed="#L" n="54" break="no"/>simus, &amp; disertissimus Esaias 40. sic testatur; Leuate, inquit, in excelsum oculos 
+      ve<lb ed="#L" n="55" break="no"/>stros, &amp; videte quis creauit haec; qui educit in numero militiam eorum, &amp; omnes ex 
+      <lb ed="#L" n="56"/>nomine vocat, praes multitudine fortitudinis, &amp; roboris, virtutisque eius, neque vnum 
+      <lb ed="#L" n="57"/>relictum fuit, scilicet secundum glossam, alienum a numero &amp; cognitione eius. 
+      Auto<lb ed="#L" n="58" break="no"/>ritates vero Philosophicae in contrarium allegatae intelliguntur de entibus finitae fortitu¬ 
+      <!--221.xml-->
+      <pb ed="#A" n="188"/>
+               <lb ed="#L" n="1"/>dinis, &amp; virtutis, Talia enim, vt videtur, no possunt aiqua distincte cognosecre, nisi per aliqua 
+      <lb ed="#L" n="2"/>correspondenter distincta, nisi forsan hoc sit per hanc claritatem diuinam, ex sua infinita 
+      vir<lb ed="#L" n="3" break="no"/>tute supplentem in eis vicem huiusmodi distinctorum. Pro Autoritate Philosophi 
+      dicen<lb ed="#L" n="4" break="no"/>dum, quod non intendit probare Deum non intelligere aliud a seipso, sed probat haec tria, 
+      <lb ed="#L" n="5"/>quod Deus non intelliget in potentia, quod Deus est sua intelligentia, &amp; quod Deus non 
+      in<lb ed="#L" n="6" break="no"/>telligit aliud a se, ita quod patiatur, &amp; causaliter perficiatur ab eo sicut intellectus humanus 
+      <lb ed="#L" n="7"/>quod legentibus, &amp; non negligentibus illud capitulum cum expositionibus Auerrois, 
+      Tho<lb ed="#L" n="8" break="no"/>mae, &amp; aliorum Doctorum poterit apparere. Pro illo autem dicto Euangelico quod 
+      sequi<lb ed="#L" n="9" break="no"/>tur, est sciendum quod scientia Dei est duplex, scilicet simplicis cognitionis seu notitiae, &amp; 
+      ap<lb ed="#L" n="10" break="no"/>probationis &amp; complacentiae, quae vltra simplicem cognitionem seu notitiam addit 
+      approba<lb ed="#L" n="11" break="no"/>tionem, beneplacitum, &amp; complacentiam voluntatis. Distinctio ista patet per beatum 
+      Gre<lb ed="#L" n="12" break="no"/>gorium 25. Motal. vlt. tractantem illud Matth. 25. Amen dico vobis, nescio vos; Nec aliter 
+      <lb ed="#L" n="13"/>potest intelligi nisi quod non approbat, vel reprobat quos sic nescit, Cognoscet enim simplici p 
+      <lb ed="#L" n="14"/>notitia, quibus sic dicet. Vnde &amp; Apostolus 1. ad Cor. 8. Si quis diligit Deum, hic cognitus 
+      <lb ed="#L" n="15"/>est ab eo. Hanc quoque distinctionem allegat Lumbardus 1. Sentent. dist. 36. a Cassiodoro 
+      <lb ed="#L" n="16"/>super Psalterium, &amp; ab Augustino similiter, &amp; in libro suo ad Heluidium, vbi dicit, Si ad 
+      sci<lb ed="#L" n="17" break="no"/>entiam referas, non ignorat Deus quibus dicet, Non noui vos, sed eorum improbatio hoc 
+      <lb ed="#L" n="18"/>verbo infinuata est, &amp; 83. quaestionum 60. Cum Deus dicitur nescire, pro eo dicitur, quod 
+      <lb ed="#L" n="19"/>non approbat, id est in disciplina sua, &amp; doctrina non agnoscit; vbi &amp; tertium sensum eiusdem 
+      <lb ed="#L" n="20"/>dicti subiungit, Dictum est, inquit, nescio vos, pro eo quod vtiliter facit nescientes quod scire 
+      <lb ed="#L" n="21"/>inutile est; sicque dicitur Deus nescire, pro facere nescientes. Vbi &amp; alias Autoritates obiectas 
+      <lb ed="#L" n="22"/>exponit similiter: Sicut, inquit, scire Deus dicitur, etiam cum scientem facit, sicut scriptum 
+      <lb ed="#L" n="23"/>est, Tentat vos Dominus Deus vester, vt sciat si diligitis eum; non enim sic dictum est quod 
+      <lb ed="#L" n="24"/>nesciat Deus, sed vt ipsi sciant, quantum in eius dilectione profecerint, quod nisi 
+      tentationi<lb ed="#L" n="25" break="no"/>bus non plene ab hominibus agnoscitur; ideo bene accipitur quod dictum est, Solum Patrem e 
+      <lb ed="#L" n="26"/>scire de die illa, quia ipse solus facit Filium scire; et quod dictum est nescire Filium, quia facit, 
+      <lb ed="#L" n="27"/>nescientes homines, id est, non prodit eis, quod inutiliter scierent. Et hunc vltimum modum 
+      <lb ed="#L" n="28"/>loquendi scripturae probat 1. de Trin. 12. efficaciter &amp; diffuse 5. super Genesin 20. &amp; super 
+      <lb ed="#L" n="29"/>titulum Psalmi 6. et haec eadem expositio patet per Glossas in locis superius allegatis. Vnde 
+      <lb ed="#L" n="30"/>super illud Genes. 22. tentauit Deus Abraham, dicit Glossa, vt notificaret ei perfectionem, 
+      <lb ed="#L" n="31"/>quam non ignorabat; et super illud infra, eodem, nunc cognoui &amp;c. id est, cognoscere feci. 
+      <lb ed="#L" n="32"/>Pro alijs quae sequuntur, dicendum quod Deum audire, videre, &amp; similia, tripliciter possunt 
+      in<lb ed="#L" n="33" break="no"/>telligi; Proprie, vt important operationes seu passiones proprias sensuum, &amp; sic Deo non  
+      <lb ed="#L" n="34"/>competunt; Non enim est Animal, nec corporeos sensus habet: Transumptiue, &amp; hoc 
+      du<lb ed="#L" n="35" break="no"/>pliciter, scilicet aut vt important cognitionem aut affectionem diuinam, &amp; sic non intelligunt 
+      <lb ed="#L" n="36"/>Sancti, cum dicunt, Domine exaudi, vide, vel aliquid simile; (In his enim vniformiter semper 
+      <lb ed="#L" n="37"/>Lita) se habet) Aut vt important diuinae cognitionis aut affectionis opus extrinsecum &amp; 
+      effe<lb ed="#L" n="38" break="no"/>ctum, &amp; sic intelligunt Sancti, cum orant. Et quia secundum Philosophum 6. Topic. 
+      Om<lb ed="#L" n="39" break="no"/>nes transferentes secundum aliquam similitudinem transferunt, haec similitudo fuit 
+      causa<lb ed="#L" n="40" break="no"/>quare talia ab hominibus trausferuntur ad Deum. Homines quando vident, vel audiunt, 
+      iras<lb ed="#L" n="41" break="no"/>cuntur &amp; placantur; cognoscunt &amp; afficiuntur interius, vnde &amp; exterius operantur; quare &amp;  
+      <lb ed="#L" n="42"/>istae causae pro suis effectibus saepe figuratiue ponuntur, vt manus pro scriptura; cum dicimus 
+      <lb ed="#L" n="43"/>de bona litera, haec est bona manus; &amp; lingua pro loquela, cum dicimus, locutus est lingua 
+      <lb ed="#L" n="44"/>Anglica, vel latina, id est, tali loquela, &amp; est 33. color Rhetoricus de exornatione verborum, 
+      <lb ed="#L" n="45"/>sicut Tullius vlt. 2. suae Rhethoricae manifestat, a quo et denominatio denominatur. Est quoque 
+      <lb ed="#L" n="46"/>in talibus secundus modus aequiuocationis, vel amphiboliae, eo quod dictio vel oratio 
+      acci<lb ed="#L" n="47" break="no"/>pitur transumptiue, quando soliti sumus sic dicere, vt patet per Philosophum 1. Elench. vbi 
+      <lb ed="#L" n="48"/>amphiboliae sententias dubias &amp; obscuras certificat, &amp; serenat; qui modus loquendi in sacra 
+      <lb ed="#L" n="49"/>scriptura, nedum ad Deum, verum etiam ad inanimata transfertur quandoque. Dicit enim E 
+      <lb ed="#L" n="50"/>Dominus Hoseae 2. Ex audiam coelos, &amp; illi exaudient terram, &amp; terra exaudiet triticum, vinum 
+      <lb ed="#L" n="51"/>et oleum, &amp; haec exaudiet Israel. Vnde Augustinus super illud Psalmi 1I8. Memor esto verbi 
+      <lb ed="#L" n="52"/>tui seruo tuo, sic ait, Nunquid obliuio, sicut in hominem, cadit in Deum? Cur ergo dicitur 
+      <lb ed="#L" n="53"/>ei, Memento? &amp; respondet, Non vt hominibus ista contingunt, ita intelliguntur in Deo; 
+      <lb ed="#L" n="54"/>Nam sicut Deum poenitere dicitur, quando praeter hominum spem res mutat, consilio non 
+      <lb ed="#L" n="55"/>mutato, quia consilium Domini in aeternum manet; Ita dicitur obliuisci, quando tardare 
+      vi<lb ed="#L" n="56" break="no"/>detur adiutorium, vel promissum, vel non retribuere digna peccantibus, vel si quid 
+      huius<lb ed="#L" n="57" break="no"/>modi, tanquam eius memoria sit elapsum quod speratur, siue timetur, &amp; non fit, dicuntur ista 
+      <lb ed="#L" n="58"/>locutione, morali, qua humanus moueatur affectus, quamuis Deus haec faciat certa dispo¬ 
+      <!--222.xml-->
+      <pb ed="#A" n="189"/>
+               <lb ed="#L" n="1"/>sitione, non deficiente memoria, nec obscurata intelligentia, nec voluntate mutata. Cum 
+      <lb ed="#L" n="2"/>itaque dicitur ei, Memento, orantis desiderium, quia promissum poscit, ostenditur, &amp; non  
+      <lb ed="#L" n="3"/>Deus, quasi ei de mente id exciderit, admonetur. Memento, inquit, verbi tui seruo tuo, hoc  
+      <lb ed="#L" n="4"/>est, imple promissum seruo tuo. Et 83. quaestionum 52. ostendit idem per totum; &amp; in fine 
+      <lb ed="#L" n="5"/>De poenitentia Dei, dicit; Mutare certum aliquid, &amp; in aliud transterre, non facere solemus 
+      <lb ed="#L" n="6"/>nisi poenitendo; quanquam diuina prouidentia cuncta certissimo ordine administret, tamen  
+      <lb ed="#L" n="7"/>ad humilem humanam intelligentiam, ea quae incipiunt esse, nec perseuerant quantum 
+      per<lb ed="#L" n="8" break="no"/>seueratura sperata sunt, quasi per poenitentiam Dei dicuntur ablata. Glossa quoque super 
+      Ge<lb ed="#L" n="9" break="no"/>nesino. vbi agitur de poenitentia Dei super hominum factione; Non, inquit, in Deum 
+      poeni<lb ed="#L" n="10" break="no"/>tentia cadit, cui est de omnibus tam fixa sententia, quam certa // praescientia; sed vtitur 
+      Scrip<lb ed="#L" n="11" break="no"/>tura vsitatis verbis, coaptans se nostrae paruitati, vt ex cognitis incognita cognoscamus. 
+      Vide<lb ed="#L" n="12" break="no"/>tur igitur poenitere dum opus mutat, voluntate tamen &amp; dispositione immobili permanente. 
+      <lb ed="#L" n="13"/>Aliter quoque potest exponi, Deum poenitere, scilicet ad modum poenitentis se habere, pro 
+      <lb ed="#L" n="14"/>quo dicit Glossa super illud, 1. Reg. 15. Poenitet me quod constituerim Saul Regem, id est,  
+      <lb ed="#L" n="15"/>ad modum poenitentis faciam delendo regnum eius. Et haec expositio consonat Augustino. 
+      <lb ed="#L" n="16"/>83. quaest. 52. superius allegato: quibus &amp; concordat Anselmus. 1. Cur Deus homo 9. 
+      expo<lb ed="#L" n="17" break="no"/>nens illud quod legitur Luc. 2. Ielus proficiebat sapientia, &amp;c. Non, inquit, quia ita erat, sed 
+      <lb ed="#L" n="18"/>quia ille sic se habebat, ac si ita esset; &amp; hoc est, quod dicit Lumbardus 3. sentent. dist. 13. vlt. 
+      <lb ed="#L" n="19"/>Quod autem allegatur de Raphaele quod obtulit orationem Tobiae Domino, non concludit 
+      <lb ed="#L" n="20"/>quod Dominus illam prius nesciuit, &amp; didicit tunc ab eo; imo ipsum offerre prationem coram 
+      <lb ed="#L" n="21"/>Domino, non fuit, nisi consulere voluntatem diuinam de tali oratione, si, &amp; quantum, ac 
+      quan<lb ed="#L" n="22" break="no"/>do, vel quomodo debuit exaudiri. Vel forsan Raphaelem offerre Domino orationem Tobiae, 
+      <lb ed="#L" n="23"/>fuit ipsam suis precibus Domino commendare. Vnde &amp; Augustinus 5. super Genesin ad 
+      lite<lb ed="#L" n="24" break="no"/>ram 19 sic ait; Non sane propter inferiorum scientiam nuntijs indiget, quasi per eos fiat 
+      sci<lb ed="#L" n="25" break="no"/>entior, sed illo simplici ac mirabili modo nouit omnia stabiliter atque incomutabiliter; habet 
+      <lb ed="#L" n="26"/>autem nuntios propter nos, &amp; propter ipsos, quia illo modo Deo parere &amp; assistere, vt eum 
+      <lb ed="#L" n="27"/>de inferioribus consulant, eiusque praeceptis &amp; iussis obtemperent, bonum eis in ordine 
+      pro<lb ed="#L" n="28" break="no"/>priae naturae atque substantiae. Autoritas vero seronymi soluit seipsam, in hoc quod dicit per 
+      <lb ed="#L" n="29"/>singula momenta. Deus enim scit omnia simul &amp; semper, non per vices temporum; sicut 
+      <lb ed="#L" n="30"/>ipsa scita incipiunt esse, vel desinunt more humano, quoniam apud ipsum non est 
+      transmu<lb ed="#L" n="31" break="no"/>tatio, nec vicissitudinis obumbratio, Iac. 1. &amp; 5. capitulum demonstrauit. Soluitur etiam per 
+      <lb ed="#L" n="32"/>hoc quod consequenter adiungit; Non simus, inquit, tam fatui adulatores Dei, vt dum 
+      pro<lb ed="#L" n="33" break="no"/>uidentiam eius etiam ad ima retrudimus, in nos ipsos iniuriosi simus, eandem irrationabilium, 
+      <lb ed="#L" n="34"/>&amp; rationabilium curam esse dicentes. Vult ergo feronymus negare a Deo scientiam, qua 
+      pro<lb ed="#L" n="35" break="no"/>uideat irrationalibus, sicut rationalibus creaturis; his enim statuit leges, &amp; praemia, vel 
+      sup<lb ed="#L" n="36" break="no"/>plicia sempiterna; illis autem nequaquam. Et hoc est quod dicit Apostolus, 1. ad Corinth. 
+      <lb ed="#L" n="37"/>9. Nunquid de bobus cura est Deo, scilicet talis, cura quae dirigateos in meritis, &amp; coronet in 
+      <lb ed="#L" n="38"/>praemijs, licet secundum Sapientem, Sap. 6. &amp; 12. Cura sit Deo, de omnibus, qua scilicet at. Sa 
+      <lb ed="#L" n="39"/>tingit a fine vsque ad finem fortiter, &amp; disponit omnia suauiter modis suis. Et hae sunt 
+      res<lb ed="#L" n="40" break="no"/>ponsiones Lumbardi, I. Sentent. dist. 39. Illud autem argumentum mixtum potest excludi 
+      <lb ed="#L" n="41"/>faciliter; sicut enim arguit contra diuinam scientiam, sic potest argui contra ipsorum 
+      contin<lb ed="#L" n="42" break="no"/>gentium veritatem. Nam nullum non verum est verum: contingit ad vtrumlibet omne 
+      ve<lb ed="#L" n="43" break="no"/>rum contingens esse non verum, ergo contingit pro possibili; Nullum verum contingens esse 
+      <lb ed="#L" n="44"/>verum: ergo contingit neutram partem contradictionis in talibus esse veram, sed pariter 
+      am<lb ed="#L" n="45" break="no"/>bas falsas. Sic ergo ab isto inuolucro Logico non Theologico euoluuntur Theologi, &amp; 
+      Lo<lb ed="#L" n="46" break="no"/>gici inuoluuntur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

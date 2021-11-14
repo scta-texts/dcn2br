@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 35</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 35</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="307"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e41672"><!-- l1c35 -->
+            <head xml:id="dcn2br-e41672-Hd1e106">Caput 35</head>
+            <p xml:id="dcn2br-e41672-d1e109">
+               <lb ed="#L" n="33"/>CAP. XXXV. 
+      <lb ed="#L" n="34"/>Contra Pelagium, quod gratia gratis datur a Deo, non praece¬ 
+      <lb ed="#L" n="35"/>dentibus meritis comparatur. 
+    </p>
+            <p xml:id="dcn2br-e41672-d1e118">
+               <lb ed="#L" n="36"/>AMplius autem, quia sub prouidentia Dei magnifica diuina munera 
+      con<lb ed="#L" n="37" break="no"/>tinentur; necesse videtur, qui de prouidentia Dei vult agere. de diuinis 
+      <lb ed="#L" n="38"/>muneribus non silere. Omnia siquidem praeter Deum, quinimo 
+      e<lb ed="#L" n="39" break="no"/>tiam Deus ipse, diuina munera // computantur, sicut tertium huius, &amp;  
+      <lb ed="#L" n="40"/>4. 2. 9. 27, &amp; sequentia manifestant. Quare dicit Apostolus quod ipse 
+      <lb ed="#L" n="41"/>dat omnibus vitam, &amp; inspirationem, &amp; omnia. Hoc igitur cognito, 
+      <lb ed="#L" n="42"/>vlterius ostendendum, quod Deus dat omnia munera sua gratis. Non 
+      <lb ed="#L" n="43"/>/ enim est cupidus, neque indigens alicuius, sicut tertia pars, &amp; quinta 
+      <lb ed="#L" n="44"/>Corollarij, primi docent: Sic etiam dare est magnificentius &amp; liberalius, melius &amp; 
+      perfe<lb ed="#L" n="45" break="no"/>ctius, quam alio modo dare, seu potius vendere, pro aliquo commodo prouenturo ex 
+      mu<lb ed="#L" n="46" break="no"/>nere donatori. Hic igitur modus dandi Deo incunctanter est dandus, per primam 
+      Suppo<lb ed="#L" n="47" break="no"/>sitionem, &amp; tertiam partem Corollarij primi huius, sicut &amp; vicesima nona pars eiusdem  
+      <lb ed="#L" n="48"/>Pelagianos redarguit. Quapropter &amp; quodlibet donum Dei potest non incongrue, gratia 
+      <lb ed="#L" n="49"/>Dei dici, gratia scilicet gratis data: Haec autem gratia communis est omnibus creaturis ire 
+      <lb ed="#L" n="50"/>rationalibus &amp; rationalibus, gratis pariter &amp; ingratis. Nec sine gratiarum actione gratissima 
+      <lb ed="#L" n="51"/>vlterius aduertendum, quod est quaedam gratia, quaedam species gratiae iam praedictae, 
+      gra<lb ed="#L" n="52" break="no"/>tis omnibus multum grata, quae nedum gratis datur a Deo, verum etiam cui datur, efficit 
+      <lb ed="#L" n="53"/>gratum Deo, charum, amicum, &amp; filium in praesenti, &amp; confortem gloriae in futuro. De 
+      hac<lb ed="#L" n="54" break="no"/>igitur gratia, ipsa me dirigente, per omnia, contra Pelagianos ingratos, &amp; gratiae inimicos, 
+      <!--341.xml-->
+      <pb ed="#A" n="308"/>
+               <lb ed="#L" n="1"/>paululum disserendum. Dicunt nempe Pelagiani pestiferi, quod haec gratia Dei summa, 
+      ne<lb ed="#L" n="2" break="no"/>quaquam gratis datur a Deo, sed praecedentibus meritis comparatur. Verum hi Pelagiani per 
+      <lb ed="#L" n="3"/>hic praemissa, &amp; per 29. partem Corollarij primi, huius, pelluntur in pelagus &amp; plectuntur. 
+      <lb ed="#L" n="4"/>Praeterea si Deus det merita aut quaecunque adiutoria alicui praedestinato ad Regnum, non dat  
+      <lb ed="#L" n="5"/>ea propter aliquam vtilitatem Dei secundum priora, sed vt ille praedestinatus consequatur 
+      <lb ed="#L" n="6"/>Regnum per ea, quia rationabiliter vult; &amp; potest ostendi per 22un istius; &amp; si vult ipsum 
+      <lb ed="#L" n="7"/>habere merita, vt per ea consequatur Regnum, prius naturaliter vult ipsum habere Regnum; 
+      <lb ed="#L" n="8"/>haec enim est causa finalis quodammodo, quare vult ipsum mereri, scilicet vt per hoc 
+      acqui<lb ed="#L" n="9" break="no"/>rat sibi Regnum, &amp; gratis acceptat eum ad Regnum prius quam velit aut acceptet merita eius. 
+      <lb ed="#L" n="10"/>Quia ergo primo ex sua liberalitate magnifica, gratis acceptat ad regnandum, nec decet 
+      <lb ed="#L" n="11"/>quod ad tantum regnum ascendat immeritus; vult eum mereri, &amp; dat sibi adiutorium, &amp; 
+      <lb ed="#L" n="12"/>gratiam ad merendum. Gratia ergo gratificans &amp; gratia gratis data, secundum distinctionem 
+      <lb ed="#L" n="13"/>25. scriptam, praecedit naturaliter omnia merita cuiuscunque. Hoc posset probari a simili: Si 
+      <lb ed="#L" n="14"/>enim pater velit filium mercari, vt emat agrum, prius naturaliter vult ipsum habere agrum, 
+      <lb ed="#L" n="15"/>quam mercati; haec enim est causa finalis illius, ideoque gratis dat sibi pecuniam, non 
+      prop<lb ed="#L" n="16" break="no"/>ter hoc quod mercatus est, sed vt mercetur, &amp; sic agrum acquirat. Hoc etiam totum 
+      con<lb ed="#L" n="17" break="no"/>firmatur per illud Philosophicum vulgatum ex 2. Phys. 89. &amp; 3. de Anima 49. &amp; 3. Eth. 8. 
+      <lb ed="#L" n="18"/>In operabilibus, primum in intentione est vltimum in executione. Item voluntas fertur in 
+      fi<lb ed="#L" n="19" break="no"/>nem per se &amp; primo, in tantum quod non consulit circa ipsum, sed non fertur in media; nisi 
+      <lb ed="#L" n="20"/>tantummodo propter finem; ideoque de ipsis consulit studiose. Quare prius vult finem 
+      <lb ed="#L" n="21"/>quam media. Vnde Philosophus 2. Eth. 8. Consiliamur autem non de finibus, sed de his 
+      <lb ed="#L" n="22"/>quae ad fines: Neque enim Medicus consiliatur, si saluabit, nec Rethor si persuadebit; nec 
+      <lb ed="#L" n="23"/>Politicus si pacem faciet; neque illorum aliquis de fine, sed ponentes finem aliquem, 
+      quali<lb ed="#L" n="24" break="no"/>ter, &amp; per quae erit, intendunt. Item Deus bene praescit &amp; vult, quod quicunque habet 
+      perse<lb ed="#L" n="25" break="no"/>ueranter bona merita, regnabit, nec aliquis potest habere bona merita perseueranter, nisi 
+      ip<lb ed="#L" n="26" break="no"/>semet velit, operetur, donet, &amp; seruet, per nonum istius; Prius ergo tempore &amp; natura vult 
+      <lb ed="#L" n="27"/>Deus quenquam regnare, quam debet sibi bona merita; quare &amp; priusquam habeat bona 
+      <lb ed="#L" n="28"/>merita. Non ergo propter merita, tanquam propter causam priorem, ipsum gratificat &amp; 
+      ac<lb ed="#L" n="29" break="no"/>ceptat ad Regnum, sed gratis omnino, &amp; propter hoc dat sibi gratiam ad merendum. 
+      </p>
+            <p xml:id="dcn2br-e41672-d1e229">
+               <lb ed="#L" n="30"/>Ego autem stultus a scientia Dei &amp; vanus, quando Philosophicis literis intendebam, 
+      er<lb ed="#L" n="31" break="no"/>rore contrario seducebar. Quandoque enim audiui Theologos istam tractare materiam, &amp;  
+      <lb ed="#L" n="32"/>pars Pelagij mihi verior videbatur. In Scholis enim Philosophorum, raro solebam quicquam  
+      <lb ed="#L" n="33"/>audire de gratia, nisi aequiuoce forsan dicta; sed tota die audiui, quod nos sumus Domini 
+      no<lb ed="#L" n="34" break="no"/>strorum actuum liberorum, &amp; quod in nostra potestate est, operari bene vel male, habere 
+      <lb ed="#L" n="35"/>virtutes vel vitia, cum similibus suis multis. Et si quandoque in Ecclesiae audiui lectionem 
+      A<lb ed="#L" n="36" break="no"/>postoli gratiam extollentem, &amp; liberum deprimentem arbitrium, cuiusmodi est illud ad Rom. 
+      <lb ed="#L" n="37"/>9. Non volentis neque currentis, sed miserentis est Dei, &amp; multa similia, ingrato mihi 
+      gra<lb ed="#L" n="38" break="no"/>tiae displicebat. Cum Manichaeis quoque credebam Apostolum, velut hominem, potuisse in 
+      <lb ed="#L" n="39"/>aliquo, a veritatis semita deuiasse. Postea vero adhuc nondum Theologiae factus auditor, 
+      <lb ed="#L" n="40"/>praedicto argumento velut quodam gratiae radio visitatus, sub quadam tenui veritatis 
+      ima<lb ed="#L" n="41" break="no"/>gine, videbar mihi videre a longe gratiam Dei omnia bona merita praecedentem tempore &amp; 
+      <lb ed="#L" n="42"/>natura, scilicet gratam Dei voluntatem, qui prius vtroque modo vult merentem saluari, &amp; 
+      <lb ed="#L" n="43"/>prius naturaliter operatur meritum eius in eo, quam ipse, sicut est in omnibus motibus primus 
+      <lb ed="#L" n="44"/>Motor; vnde &amp; ei gratias refero, qui mihi hanc gratiam gratis dedit. Augustinus etiam hoc 
+      <lb ed="#L" n="45"/>errore Pelagij se fatetur quandoque deceptum, in tantum quod textus Apostol gratiam 
+      com<lb ed="#L" n="46" break="no"/>mendantis, testimonijs Legis &amp; Prophetarum nequaquam sibi videbatur congruere, sed 
+      eti<lb ed="#L" n="47" break="no"/>am aduersari; a quo errore ad veritatis notitiam similis ratio deducebat: Dicit enim de 
+      prae<lb ed="#L" n="48" break="no"/>destinatione Sanctorum quarto. Cum similiter vt Pelagius errarem, putans fidem, qua in 
+      <lb ed="#L" n="49"/>Deum credimus, non esse donum Dei, sed a nobis in nobis, &amp; per illam nos impetrare Dei g 
+      <lb ed="#L" n="50"/>dona, neque fidem putabam Dei gratia praeuenire, hoc praecipue Apostoli testimonio ictus, 
+      <lb ed="#L" n="51"/>conuictus sum, Quid habes, quod non accepisti, si autem accepisti, quid gloriaris, quasi non  
+      <lb ed="#L" n="52"/>acceperis? Et septimo Confess. vlt. postquam confessus est, quomodo per libros, 
+      sapien<lb ed="#L" n="53" break="no"/>tiam, &amp; scientiam saeculares erat inflatus, &amp; postea diuina gratia visitatus, sic dicit; Auidissime 
+      <lb ed="#L" n="54"/>arripui venerabilem stilum Spiritus tui, &amp; prae caeteris Apostolum Paulum, &amp; perierunt illae 
+      <lb ed="#L" n="55"/>l/ questiones, in quibus aliquando visus est mihi aduersari, &amp; non congruere Testimonijs 
+      Le<lb ed="#L" n="56" break="no"/>gis &amp; Prophetarum textus sermonis eius, &amp; apparuit mihi vna facies eloquiorum castorum, 
+      <lb ed="#L" n="57"/>&amp; inueni quicquam verum illac legerem, hac cum commendatione gratiae tuae dici, vt qui 
+      vi<lb ed="#L" n="58" break="no"/>det non sic glorietur quasi non acceperit; Quorum etiam vestigia in tota ista materia quan¬ 
+      <!--342.xml-->
+      <pb ed="#A" n="309"/>
+               <lb ed="#L" n="1"/>tum possum, specialiter insequor, quia vnus mihi videtur tam Logicus, quam Philosophus 
+      A<lb ed="#L" n="2" break="no"/>postolorum, aliusque Doctorum. Multi quoque, vt timeo, moderni Philosophis hanc falsam 
+      <lb ed="#L" n="3"/>insaniam sub specie verae sapientiae charius amplectuntur. Videtur enim multis, multum 
+      ve<lb ed="#L" n="4" break="no"/>risimiliter colorata, conueniens experientiae &amp; consona rationi Cfalsa enim quandoque 
+      pro<lb ed="#L" n="5" break="no"/>babiliora sunt veris) quam tamen si vere philosophari voluerint, possunt philosophice 
+      con<lb ed="#L" n="6" break="no"/>futare, non dico per rationes hic positas, aut ponendas, sed forte per alias fortiores, quas 
+      pre<lb ed="#L" n="7" break="no"/>ueniente Dei gratia poterunt inuenire. Amplius autem gratia Dei duce, proceditur isto 
+      mo<lb ed="#L" n="8" break="no"/>do: Nullus potest habere merita, nec perseuerate in eis, nisi Deus det &amp; seruet, vt proximo est 
+      <lb ed="#L" n="9"/>ostensum; &amp; si vellet dare malo bona merita &amp; seruare ea, sicut facit bono, ipse mereretur, &amp;  
+      <lb ed="#L" n="10"/>perseueratet similiter sicut bonus, sicut decimum clare probat. Non ergo propter merita, sed 
+      <lb ed="#L" n="11"/>gratis eligit hunc, non illum. Item si Deus propter bona merita priora det gratiam, quare 
+      er<lb ed="#L" n="12" break="no"/>go dat illa merita? non propter alia merita priora, ne forte sic processus fieret infinitus; 
+      <lb ed="#L" n="13"/>gratis ergo dat illa, quare &amp; gratiam. Haec enim ex vi nominis sui, inter omnia data, gratissime 
+      <lb ed="#L" n="14"/>dari videtur. Nec potest dici, quod dat huic bona merita, quia praescit quod bene vsurus est 
+      <lb ed="#L" n="15"/>illis, quia ita faceret quilibet, si Deus vellet quod bene vteretur illis, vt patet per decimum. 
+      <lb ed="#L" n="16"/>Nec alias poterit, sicut capitulum nonum probat; quomodo etiam posset quis bonis meritis 
+      <lb ed="#L" n="17"/>male vti, aut non bene, cum bonum meritum bonus vsus, seu actus existat? Item si Deus 
+      da<lb ed="#L" n="18" break="no"/>ret alicui gratiam propter merita, ergo quia merebitur, vellet ipsum regnare, &amp; quia 
+      merebi<lb ed="#L" n="19" break="no"/>tur, vellet ipsum habere merita. Ipsum ergo mereri esset causa volutionis diuinae mouens 
+      vo<lb ed="#L" n="20" break="no"/>luntatem diuinam, &amp; ipsa, patiens a mereri, contra vicesimum, &amp; quod ipse merebitur, esset 
+      <lb ed="#L" n="21"/>causa, quare Deus vult ipsum mereri, quod falsum est; contrarium enim est verum. 
+      Prop<lb ed="#L" n="22" break="no"/>ter hoc enim, quod Deus vult ipsum mereri, ipse merebitur, sicut 14. ostendebat. Adhuc 
+      au<lb ed="#L" n="23" break="no"/>tem, tunc Deus, quantum est de se, esset in potentia, &amp; in differentia pura, ad volendum hunc 
+      <lb ed="#L" n="24"/>habere gratiam, vel carere, &amp; pateretur, actuaretur, &amp; determinaretur per meritum huius 
+      <lb ed="#L" n="25"/>bonum vel malum, quod perfectioni, &amp; actualitati eius summae repugnat, sicut ex 
+      vice<lb ed="#L" n="26" break="no"/>simo huius patet. Item, si Deus non daret gratissime gratiam, sed propter aliquam 
+      cau<lb ed="#L" n="27" break="no"/>sam iuferiorem contingentem &amp; liberam, non certe praesciret se daturum illam, sicut 
+      deci<lb ed="#L" n="28" break="no"/>mum octauum huius ostendit: Eadem enim causa praecise qua Deus primo praescit se 
+      datu<lb ed="#L" n="29" break="no"/>rum gratiam, pro tempore dationis scit se dare illam. Nam propter quamcunque causam  
+      <lb ed="#L" n="30"/>tunc dat gratiam, semper praesciuit &amp; voluit dare gratiam propter illam; alias enim haberet 
+      <lb ed="#L" n="31"/>mutabilem voluntatem, contra vicesimum tertium. Item si Deus daret gratiam pro meritis, 
+      <lb ed="#L" n="32"/>hoc vellet &amp; faceret, quia sic fieri iustum esset, cum tamen sit e contra &amp; non ita, sicut 
+      vice<lb ed="#L" n="33" break="no"/>simum primum docet. Item tunc collatio gratiae, &amp; meritum hanc praecedens non 
+      contine<lb ed="#L" n="34" break="no"/>rentur sub diuina prouidentia, cum per capitulum decimum ipsa sit efficax, sed 
+      relinqueren<lb ed="#L" n="35" break="no"/>tur casui &amp; fortunae contra 27um, &amp; alia quae sequuntur. Item per primam suppositionem 
+      <lb ed="#L" n="36"/>Deus est tantum bonum, quod non potest intelligi aliquid maius eo, &amp; bonum est sui ipsius 
+      <lb ed="#L" n="37"/>communicatiuum, &amp; maius magis; Deus ergo est ita liberaliter communicatiuus &amp; datiuus, 
+      <lb ed="#L" n="38"/>quod liberalius communicari vel dari non poterit cogitari: sed liberalius est dare gratis 
+      om<lb ed="#L" n="39" break="no"/>nino nullo penitus merito praecedente; sic ergo Deus dat, maxime cum non indigeat bonis 
+      <lb ed="#L" n="40"/>nostris; &amp; quid liberalius vel gratius dabit quam gratiam? dat ergo gratiam Deus gratis. 
+      <lb ed="#L" n="41"/>Hoc autem &amp; significatio nominis gratiae significare videtur, quod sit videlicet gratis data, 
+      <lb ed="#L" n="42"/>in quo fundans se Apostolus ad Romanos, vndecim. probat per demonstrationem 
+      ducen<lb ed="#L" n="43" break="no"/>tem ad impossibile, scilicet ad abnegationem eiusdem a se, gratiam non esse ex operibus: Si, 
+      <lb ed="#L" n="44"/>inquit, gratia, non ex operibus, alioquin, id est, si detur oppositum, Gratia, iam non est gratia. 
+      <lb ed="#L" n="45"/>Et supra 4. Ei autem qui operatur, merces non imputatur secundum gratiam, sed secundum 
+      <lb ed="#L" n="46"/>debitum. Item aliqui homines virtuosi, vt liberalis &amp; magnificus, dant pure liberaliter &amp; 
+      gra<lb ed="#L" n="47" break="no"/>tis omnino, secundum exigentiam suae virtutis sine aliquo merito praecedente, vel etiam 
+      sub<lb ed="#L" n="48" break="no"/>sequente, vt 4. Eth. docetur; ergo est &amp; Deus cum sit omni homine virtuosior, liberalior, &amp; 
+      magni<lb ed="#L" n="49" break="no"/>ficentior infinite; imo &amp; si isti virtuosi hoc faciant amicis, vel etiam non inimicis tantum 
+      <lb ed="#L" n="50"/>modo ipse nedum hoc faciet amicis, &amp; non inimicis, si qui tales sunt medij, sed etiam 
+      ini<lb ed="#L" n="51" break="no"/>micis. Nam secundum Augustinum, Enchir. 56. Minus bonum est erga eum esse beneuosum, 
+      <lb ed="#L" n="52"/>siue etiam beneficum, qui tibi nihil mali fecerit, sed illud multo grandius, atque 
+      magnifi<lb ed="#L" n="53" break="no"/>centissimae bonitatis est; vt tuum quoque diligas inimicum, &amp; ei bonum velis &amp; facias. Vnde 
+      <lb ed="#L" n="54"/>Apostolus ad Romanos, quint. Commendat, id est, commendandam ostendit, Deus 
+      chari<lb ed="#L" n="55" break="no"/>tatem suam in nobis, quoniam cum adhuc peccatores essemus, Christus pro nobis mortuus 
+      <lb ed="#L" n="56"/>est, &amp; eum inimici essemus, reconciliati sumus Deo per mortem Filij eius. Item decentius 
+      vide<lb ed="#L" n="57" break="no"/>tur, quod bona dispensentur secundum voluntatem sapientioris &amp; melioris, quam secundum 
+      <lb ed="#L" n="58"/>voluntatem minus sapientis &amp; boni; Deus autem omni homine est sapientior &amp; melior infi¬ 
+      <!--343.xml-->
+      <pb ed="#A" n="310"/>
+               <lb ed="#L" n="1"/>nite; decentius ergo videtur, quod omnia dispensentur secundum voluntatem diuinam, quam 
+      <lb ed="#L" n="2"/>causaliter a priori secundum merita voluntatis humanae. Vnde ad Ephes. 1. Qui omnia 
+      o<lb ed="#L" n="3" break="no"/>peratur secundum consilium voluntatis suae. Item nulli dubium, quin Deus posset conferre 
+      <lb ed="#L" n="4"/>gratiam suam gratis, &amp; hoc esset misericordius atque decentius; quis ergo in tantum nouit 
+      <lb ed="#L" n="5"/>sensum Domini, aut consiliarius eius fuit, quod audeat negare Deum sic facere, cum 
+      de<lb ed="#L" n="6" break="no"/>beat hoc potius affirmare, qui &amp; in paruulis ita facit notorie, sicut trigesimum primum 
+      hu<lb ed="#L" n="7" break="no"/>ius allegat? Etsi quis dicat, Non est iustum sic fieri; quare non sic facit; sciat ex vigesimo 
+      <lb ed="#L" n="8"/>primo huius, nihil esse iustum in talibus, nisi quia volutum est a Deo, non e contra: Non 
+      <lb ed="#L" n="9"/>enim quia iustum est, ideo volutum est a Deo. Item si quis meruit gratiam suam dignior est 
+      <lb ed="#L" n="10"/>illa, quam si illam non meruisset; Dignus est enim operarius mercede sua, Luc. 10. &amp; 
+      ad<lb ed="#L" n="11" break="no"/>Rom. 4. Ei, qui operatur, merces imputatur non secundum gratiam, sed secundum 
+      debi<lb ed="#L" n="12" break="no"/>tum; quilibet ergo homo habens gratiam quam meruit, dignior est illa, quam Christus 
+      gra<lb ed="#L" n="13" break="no"/>tiam vnionis, vel quacunque alia gratia sibi in principio gratis data, (Non enim meruit hanc 
+      <lb ed="#L" n="14"/>vel illam) quod quicunque concesserit, monstrabit se non esse membrum Christi, sed 
+      poti<lb ed="#L" n="15" break="no"/>us Antichristi, cum se efferat supra caput. Vnde Augustinus de praedestinatione 
+      Sancto<lb ed="#L" n="16" break="no"/>rum 19. Est praeclarissimum lumen praedestinationis &amp; gratiae ipse Saluator Christus Iesus, 
+      <lb ed="#L" n="17"/>qui, vt hoc esset, nullis praecedentibus meritis comparauit. Aperiat itaque nobis in capite 
+      <lb ed="#L" n="18"/>nostro ille fons gratiae, vnde vnicuique secundum mensuram per cuncta eius membra se 
+      dif<lb ed="#L" n="19" break="no"/>fundit; ea gratia sit ab initio fidei suae homo quicunque Christianus, qua gratia homo ille ab 
+      <lb ed="#L" n="20"/>initio suo factus est Christus. Et sequitur capitulo vigesimo; Quisquis in capite nostro 
+      prae<lb ed="#L" n="21" break="no"/>cedentia merita singularis illius generationis inuenerit, ipse in nobis membris eius 
+      praeceden<lb ed="#L" n="22" break="no"/>tia merita multiplicatae regenerationis inquirat. Et Enchirid. 27. &amp; de bono perseuerantiae 
+      <lb ed="#L" n="23"/>penult. &amp; vlt. similia multa dicit; vbi capite vltimo ita dicit, Qui hunc fecit nominem 
+      iu<lb ed="#L" n="24" break="no"/>stum sine vllo merito praecedente, ipse ex iniustis facit iustos, sine vllo merito praecedente 
+      ip<lb ed="#L" n="25" break="no"/>sorum, vt ille caput, illi membra sint eius. Item positio huic contraria aufert a Deo 
+      gratia<lb ed="#L" n="26" break="no"/>rum actionum &amp; laudum, timoris &amp; honoris maximam portionem; spem quoque hominis 
+      <lb ed="#L" n="27"/>eradicat a Deo, &amp; fundat in seipso: Quis enim gratias aget aequaliter, &amp; laudabit, timebit 
+      <lb ed="#L" n="28"/>Deum &amp; amabit, si reddat meritis suis proemium debitum, sicut si gratis ipsum etiam 
+      inimi<lb ed="#L" n="29" break="no"/>cum praeueniat, &amp; conferat cuncta bona? Quare etiam non sperabit in seipso, cum sufficiat 
+      <lb ed="#L" n="30"/>ipse sibi? quae tamen quam perniciosa sunt omnia, &amp; Christianae doctrinae contraria, quis 
+      <lb ed="#L" n="31"/>ignorat? Hoc etiam testatur copiosissime vtriusque series Testamenti, vnde pauca 
+      testimo<lb ed="#L" n="32" break="no"/>nia nunc adducam. Deuteronomij nono; Neque enim propter iustitias tuas ingredieris, vt 
+      <lb ed="#L" n="33"/>possideas terram. Iob 31. Si laetatum est in abscondito cor meum, &amp; osculatus sum ma 
+      <lb ed="#L" n="34"/>num meam ore meo, quae est iniquitas maxima, &amp; negatio contra Deum altissimum: Super 
+      <lb ed="#L" n="35"/>quod dicit beatus Gregorius 22. Moral. 9. Per manum quippe operatio, per os autem 
+      lo<lb ed="#L" n="36" break="no"/>cutio designatur. Manum ergo suam osculatur ore suo, qui laudat quod facit, &amp; virtutem 
+      <lb ed="#L" n="37"/>suae sibi tribuit operationis. Sancti autem viri sciunt, non virtute propria, sed praeueniente 
+      <lb ed="#L" n="38"/>gratia, ad meliora se vota vel opera commutatos. Et quia Autoris sui gratiam negare 
+      con<lb ed="#L" n="39" break="no"/>uincitur quisquis sibi tribuit quod operatur, protenus subdit, quae est iniquitas maxima, &amp;c. 
+      <lb ed="#L" n="40"/>quia illum negat, cuius despecta gratia, sibi vires boni operis arrogat. Psalmo 55. Pro 
+      nihi<lb ed="#L" n="41" break="no"/>lo saluos facies eos, &amp; pro nihilo habuerunt terram desiderabilem Psalmo 105. &amp; supra 87. 
+      <lb ed="#L" n="42"/>Pluuiam volunt ariam segregabis haereditati tuae, &amp;c. Super quod Augustinus in 
+      expositio<lb ed="#L" n="43" break="no"/>ne praemissa, subiungit; Multo congruentius intelligitur ipsa gratia pluuia voluntaria, quia 
+      <lb ed="#L" n="44"/>nullis praecedentibus operum meritis, gratis datur. Si enim gratia, non ex operibus; 
+      alio<lb ed="#L" n="45" break="no"/>quin gratia, iam non est gratia; Non enim dignus sum, inquit, vocari Apostolus, quia 
+      per<lb ed="#L" n="46" break="no"/>secutus sum Ecclesiam Dei; Gratia autem Dei sum, id quod sum; hoc est pluuia voluntaria. 
+      <lb ed="#L" n="47"/>Voluntarie quippe genuit nos verbo veritatis, haec est pluuia voluntaria. Adhuc autem 
+      <lb ed="#L" n="48"/>&amp; Esaiae 52. Gratis, glossa, id est vestra sponte) venundati estis, &amp; sine argento 
+      redi<lb ed="#L" n="49" break="no"/>memini; Glossa, id est, nullo merito vestro, sed gratuito Dei beneficio. Et Hos. vlt. 
+      Sana<lb ed="#L" n="50" break="no"/>bo contritiones eorum, diligam eos spontanee; glossa, id est, sola misericordia, quia ipse prior 
+      <lb ed="#L" n="51"/>dilexit nos. Quod &amp; in Nouo Testamento, in tempore gratiae clarius demonstratur. Ipse 
+      <lb ed="#L" n="52"/>enim autor omnis gratiae per Ioannem, Dei gratiam, plane dicit; Nemo potest venire ad me, 
+      <lb ed="#L" n="53"/>nisi Pater, qui misit me, traxerit illum; &amp;, Nemo potest venire ad me, nisi datum ei fuerit a 
+      <lb ed="#L" n="54"/>Patre meo, Ioh 6. Et infra 15. Sine me nihil potestis facere; Et supra 3. Spiritus vbi vult, 
+      <lb ed="#L" n="55"/>spirat; &amp; infra 5. Filius, quos vult, viuificat; &amp; Marc. 3. Vocauit ad se quos voluit, &amp; 
+      vene<lb ed="#L" n="56" break="no"/>runt ad eum; Et lacobi I. Voluntarie genuit nos, verbo veritatis, vt simus initium aliquod 
+      <lb ed="#L" n="57"/>creaturae eius, &amp; similia multa valde. Testis est &amp; Apostolus ipse Paulus, vas electionis 
+      gra<lb ed="#L" n="58" break="no"/>tuitae, in quo effectus gratiae gratis datae euidentissime // patuit, quem non insistentem bonis 
+      <!--344.xml-->
+      <pb ed="#A" n="311"/>
+               <lb ed="#L" n="1"/>operibus, imo nec desistentem a malis, sed adhuc spirantem minarum, &amp; caedis in discipulos 
+      <lb ed="#L" n="2"/>Domini; ac Christianorum sanguinem, vt vir Belial, sitientem, ac ipsum Dominum 
+      persequen<lb ed="#L" n="3" break="no"/>temisubito circumfulsit lux de Caelo, cum qua &amp; ipsum praeuenit gratia lesu Christi, vt Act. 
+      <lb ed="#L" n="4"/>9. patet. Hic igitur specialiter quodammodo filius gratiae, nec ingratus, ipsam gratiam 
+      ma<lb ed="#L" n="5" break="no"/>trem suam in omnibus pene Epistolis deuotius honorat, extollit, &amp; praedicat, praecipueque 
+      <lb ed="#L" n="6"/>defendit; qui ad Romanos quasi per totam Epistolam prolixe disputans &amp; acure, principaliter 
+      <lb ed="#L" n="7"/>ista facit. Vnde capitulo 3. ita scribit, Omne os obstruatur &amp; subditus fiat omnis mundus 
+      <lb ed="#L" n="8"/>Deo; Glossa, totum ei tribuens, nihil meritis proprijs, quia ex operibus legis non 
+      iustifica<lb ed="#L" n="9" break="no"/>tur omnis caro, &amp; iustificatigratis per gratiam ipsius: Et ad, Ephes. 2. Gratia estis saluati per 
+      <lb ed="#L" n="10"/>fidem, &amp; hoc non ex vobis, Dei enim donum est, non ex operibus, ne quis glorietur: Et ad 
+      <lb ed="#L" n="11"/>Titum 3. Apparuit benignitas &amp; humanitas Saluatoris nostri Dei, non ex operibus iustitiae 
+      <lb ed="#L" n="12"/>quae fecimus nos, sed secundum suam misericordiam saluos nos fecit. Hoc idem ad Rom. 9. 
+      <lb ed="#L" n="13"/>&amp; II, nedum dicit, sed probat per Autoritates veteris Testamenti, &amp; per rationem similiter. 
+      <lb ed="#L" n="14"/>Nono enim allegat illud Exodi 33. quod Dominus dixit ad Mosen, Miserebor cuius 
+      volue<lb ed="#L" n="15" break="no"/>ro, &amp; demens ero in quem mihi placuerit. Vnde concludit Apostolus, Igitur non volentis, 
+      <lb ed="#L" n="16"/>neque currentis, sed miserentis est Dei: Si tamen gratia &amp; misericordia esset ex operibus, 
+      po<lb ed="#L" n="17" break="no"/>tius diceretur, Miserebor &amp; clemens ero ei, qui hoc meruerit; &amp;, Est volentis &amp; currentis, 
+      <lb ed="#L" n="18"/>id est, in merito operantis, vt Deus misereatur, &amp; gratiam largiatur: Et IIo probat idem per 
+      <lb ed="#L" n="19"/>vnam autoritatem. 3. Reg. 19. dicentem, quod Deus reliquit sibi septem millia virorum, qui 
+      <lb ed="#L" n="20"/>non curuauerunt genua sua ante Baal. Vnde concludit, Sic ergo in hoc tempore reliquiae, 
+      <lb ed="#L" n="21"/>secundum electionem gratiae, saluae factae sunt, &amp; statim post probat idem per 
+      demonstratio<lb ed="#L" n="22" break="no"/>nem ducentem ad impossibile, scilicet ad abnegationem eiusdem a se, scilicet, Si gratia sit 
+      <lb ed="#L" n="23"/>ex operibus, iam non est gratia, sicut erat superius allegatum. In hac etiam sententia omnes 
+      <lb ed="#L" n="24"/>Doctores Catholici vnanimiter sunt concordes, inter quos Augustinus, quia sicut Apostolus 
+      <lb ed="#L" n="25"/>primo fuit infidelis &amp; blasphemus &amp; inimicus gratiae Iesu Christi, postquam praeuentus ea¬ 
+      <lb ed="#L" n="26"/>dem gratia, similiter est conuersus quodammodo singulariter imitatus Apostolum, factus 
+      <lb ed="#L" n="27"/>est gratiae Iaudator, gratiae magnificus ac strenuus propugnator. Item ad hanc partem 
+      po<lb ed="#L" n="28" break="no"/>test adduci vnum peremptorium argumentum; Pars enim contraria, quae ponit gratiam 
+      se<lb ed="#L" n="29" break="no"/>cundum merita nostra dari, est haeresis Pelagiana quam nedum Patres Catholici in 
+      Episco<lb ed="#L" n="30" break="no"/>pali iudicio Palaestino damnarunt, verum &amp; Pelagius ipse haereticus ibidem damnari 
+      metu<lb ed="#L" n="31" break="no"/>ens, similiter condemnauit, vt patet per Augustinum de haeresibus 88. &amp; de praedestinatione 
+      <lb ed="#L" n="32"/>Sanctorum 2. &amp; de gratia &amp; libero arbitrio II. &amp; per Isidorum 8. Ethic. 19. &amp; recitatur in 
+      <lb ed="#L" n="33"/>Canone 24. quaest. vlt. Quid autem. Hanc etiam haeresin plene &amp; sollicite destruit 
+      Augusti<lb ed="#L" n="34" break="no"/>nus, in diuersis libris contra Pelagianos in genere, &amp; contra quosdam eorum, vt contra 
+      Iulia<lb ed="#L" n="35" break="no"/>num &amp; Coelestium in specie per libros alios speciales, vt satis norunt, qui libros Augustini 
+      <lb ed="#L" n="36"/>nouerunt. Pro hac quoque sententia, &amp; contra haeresin Pelagianam, adducit Lumbardus 2. 
+      <lb ed="#L" n="37"/>sentent. distinct. 24. &amp; multis distinctionibus sequentibus, multa &amp; efficacia testimonia 
+      veri<lb ed="#L" n="38" break="no"/>tatis, quae gratiam operantem &amp; cooperantem similiter clare probant. Contra haec autem 
+      <lb ed="#L" n="39"/>Pelagius obijcit sic quaerendo, Si gratia gratis detur, cum omnes homines de se sint pares, 
+      <lb ed="#L" n="40"/>quare datur huic, non illi? Quaero etiam ego a sic quaerente, quare Deus de infinitis 
+      anima<lb ed="#L" n="41" break="no"/>bus, &amp; quibuslibet alijs rebus aeque possibilibus, &amp; aeque bonis per omnia, si createntur, creat 
+      <lb ed="#L" n="42"/>has non illas? Quaerat etiam iste, sicut in persona talium quaerit Augustinus de 
+      praedestina<lb ed="#L" n="43" break="no"/>tione Sanctorum 19. Ego sum homo sicut Christus est homo, cur non sum quod ille? Dei 
+      <lb ed="#L" n="44"/>enim gratia ille talis ac tantus est; cur diuersa est gratia, vbi natura communis? certe non est 
+      <lb ed="#L" n="45"/>personarum acceptio apud Deum. Et quasi respondendo quaerit Augustinus; Quis, non 
+      <lb ed="#L" n="46"/>dico Christianus, sed insanus hoc dicat? Idem in homilia vicesima sexta super illud Iohan. 
+      <lb ed="#L" n="47"/>6. Nemo potest venire ad me, nisi Pater qui misit me, traxerit illum, sic quaerenti, quasi non 
+      <lb ed="#L" n="48"/>respondendo respondet; Magna, inquit, gratiae commendatio; Nemo venit nisi tractus, 
+      <lb ed="#L" n="49"/>E quem trahat &amp; quem non trahat, quare illum trahat &amp; illum non trahat, noli velle iudicare, si 
+      <lb ed="#L" n="50"/>non vis errare: Huic tamen quaerenti respondet 2rum huius. Adhuc autem Pelagiani ingrati 
+      <lb ed="#L" n="51"/>gratiae, non desinunt obuiare, sed sicut falsigraphi errantes, non intelligentes Scripturas, 
+      ne<lb ed="#L" n="52" break="no"/>que veritatem Dei, sicut beatus recitat Augustinus, de gratia &amp; libero arbitrio II. talia 
+      testi<lb ed="#L" n="53" break="no"/>monia de sacra Scriptura ad roborationem sui erroris colligunt, &amp; proponunt: Conuertimini 
+      <lb ed="#L" n="54"/>ad me, &amp; ego conuertat ad vos: &amp; 2o lib. Paral. Dominus vobiscum // si vos estis cum eo, &amp;  
+      <lb ed="#L" n="55"/>si quesieritis eum, inuenietis eum; ex quibus nituntur arguere, gratiam secundum merita nostra 
+      <lb ed="#L" n="56"/>dari. Sed frustra, cum alibi sic scribatur, Deus virtutum conuerte nos, Deus, tu conuertens 
+      <lb ed="#L" n="57"/>viuificabis nos; &amp;, Postquam conuertisti me, ego egi poenitentiam, Ier. 31. &amp; Thren. vlt. con¬ 
+      <!--345.xml-->
+      <pb ed="#A" n="312"/>
+               <lb ed="#L" n="1"/>uerte nos Domine ad te &amp; conuertemur, Innoua dies nostros sicut a principio. Ecce quod 
+      <lb ed="#L" n="2"/>Dominus nos sapsos ad gratiam innouat, sicut &amp; per eam in principio nouos facit. In talibus 
+      <lb ed="#L" n="3"/>tamen praeceptorijs, Conuertimini ad me &amp;c. secundum Augustinum ibidem, capit II. &amp; 
+      <lb ed="#L" n="4"/>12. manifestat liberum arbitrium voluntatis. Et infra 23. Quando iubetur, vt operentur, 
+      li<lb ed="#L" n="5" break="no"/>berum praeuenitur arbitrium, sed ideo cum timore &amp; tremore, ne quis sibi tribuat quod bene 
+      <lb ed="#L" n="6"/>operatur; imo si Pelagius haberet dimidium oculum, posset videre, quod Deus eo ipso quod 
+      <lb ed="#L" n="7"/>sic llpraecipit, peruenit voluntatem, ipsam excitans ad agendum, non tamen vt sine ipso hoc 
+      fa<lb ed="#L" n="8" break="no"/>ciat, sed cum ipso, sicut praecedentia docuerunt. Quapropter &amp; dicit, Sine me nihil potestis 
+      <lb ed="#L" n="9"/>facere, Ioh. 15. Et Apostolus 1. iad Cor. 15. Abundantius omnibus laboraui, non autem 
+      <lb ed="#L" n="10"/>ego, sed gratia Dei mecum. Similem quoque falsigraphiam recitat Aucustinus, de 
+      praedestina<lb ed="#L" n="11" break="no"/>tione Sanctorum 13. in haec verba; Cum dicitur, inquiunt, Si credideris, saluus eris, vnum 
+      <lb ed="#L" n="12"/>horum exigitur, alterum offertur; quod exigitur in hominis, quod offertur, in Dei est 
+      pote<lb ed="#L" n="13" break="no"/>state, &amp; quaerendo, sic obijcit contra eos; Cur non vtrumque in Dei est potestate, &amp; quod 
+      <lb ed="#L" n="14"/>iubet, &amp; quod offertur? Et statim probat quod sic. Rogatur enim vt det, quod iubet; Rogant  
+      <lb ed="#L" n="15"/>enim credentes vt sibi augeatur fides; Rogant pro non credentibus vt eis donetur fides; Et in 
+      <lb ed="#L" n="16"/>suis igitur incrementis, &amp; in suis initijs, Dei donum est fides, quamuis &amp; ipsa, cum dicitur, Si 
+      <lb ed="#L" n="17"/>credideris, saluus eris, proposito praemio salutis, a nobis exigatur. Ideo enim hoc &amp; similia 
+      <lb ed="#L" n="18"/>nobis praecipiuntur, &amp; Dei dona esse monstrantur, vt intelligatur, quod &amp; nos ea faciamus, &amp; 
+      <lb ed="#L" n="19"/>Deus facit, vt illa faciamus, sicut per Prophetam Ezechielem apertissime dicit; Ego faciam 
+      <lb ed="#L" n="20"/>vt faciatis. Attendite, &amp; videbitis Deum promittere se facturum vt faciant, quae iubet vt fiant.  
+      <lb ed="#L" n="21"/>Vnde Ezechiel 36. Non propter vos ego faciam, domus Israel, sed propter nomen sanctum 
+      <lb ed="#L" n="22"/>meum adducam vos in terram vestram, effundam super vos aquam mundam &amp; 
+      mundabimi<lb ed="#L" n="23" break="no"/>ni, &amp; ab vniuersis idolis vestris mundabo vos, &amp; dabo vobis cor nouum, &amp; Spiritum nouum 
+      <lb ed="#L" n="24"/>ponam in medio vestri; auferam cor lapideum, &amp; dabo vobis cor carneum, &amp; faciam vt in 
+      <lb ed="#L" n="25"/>praeceptis meis ambuletis, &amp; iudicia mea custodiatis &amp; operemini. Possetque non 
+      inconueni<lb ed="#L" n="26" break="no"/>enter intelligi, Conuertimini ad me &amp; ego conuertar ad vos, hoc modo; Conuertimini ad  
+      <lb ed="#L" n="27"/>me per gratiam operantem &amp; liberum arbitrium voluntatis, &amp; ego conuertar ad vos per 
+      gra<lb ed="#L" n="28" break="no"/>tiam cooperantem, gratiam pristinam conseruando, vel pleniorem donando, secundum quod 
+      <lb ed="#L" n="29"/>Apoc. vlt. scribitur, Sanctus sanctificetur adhuc. Vnde &amp; Anselmus de Concordia 10. 
+      Di<lb ed="#L" n="30" break="no"/>citur, inquit, conuersis, conuertimini, aut vt magis conuertantur, aut vt seruent quod conuersi 
+      <lb ed="#L" n="31"/>sunt. Adhuc autem &amp; quidam Pelagij aduocati non desinunt oblatrare, multa quidem &amp;  
+      <lb ed="#L" n="32"/>manifesta verba Epistolae, sicut dicunt, beati seronymi ad Demetriadem de Institutione 
+      virgi<lb ed="#L" n="33" break="no"/>nis, allegando, contra adiutorium gratiae, &amp; pro sufficientia liberi arbitrij ad opera quaelibet 
+      <lb ed="#L" n="34"/>virtuosa. Sed hi, vt videtur, negligentes in hac parte scripta maiorum, Scripturam 
+      Pelagia<lb ed="#L" n="35" break="no"/>nam, quam Augustinianam, Scripturam Haereticam, quam Catholicam charius 
+      amplectun<lb ed="#L" n="36" break="no"/>tur. Constat nempe legentibus, &amp; non negligentibus Epistolarium beati Ieronymi, duas esse 
+      <lb ed="#L" n="37"/>Epistolas intitulatas Ieronymo ad Demetriadem, quarum vna scilicet 94. tale habens initium, 
+      <lb ed="#L" n="38"/>Inter omnes materias, proculdubio est ipsius, in qua nihil de excellentia liberi arbitrij 
+      conti<lb ed="#L" n="39" break="no"/>netur; altera autem videlicet 93. incipiens isto modo, Si summo ingenio parique fretus 
+      scien<lb ed="#L" n="40" break="no"/>tia, quae liberum arbitrium patenter extollit, conceditque gratiam, sed ambiguam, fatuam, &amp; 
+      <lb ed="#L" n="41"/>fallacem, nequaquam Ieronymi Doctoris Catholici est credenda. Neque enim stilum eius 
+      <lb ed="#L" n="42"/>sapit, processum, nec sensum, sed alios multum distantes, sicut lectoribus facile est videre, 
+      <lb ed="#L" n="43"/>concordatque multum in sententia, &amp; in stilo, Epistolae magnae Pelagij directae ad Paulinum 
+      <lb ed="#L" n="44"/>Episcopum, libro eius pro libero arbitrio, qui quatuor libros tenet, &amp; alijs opusculis eius 
+      mul<lb ed="#L" n="45" break="no"/>tis. Quare &amp; ipsius Pelagij verisimiliter aestimanda. Nonne &amp; ipse Pelagius in libello fidei 
+      <lb ed="#L" n="46"/>suae, quem misit Romam ad Papam Innocentium, scribit ita? Legant Epistolam quam ad 
+      sa<lb ed="#L" n="47" break="no"/>cram Virginem Christi Demetriadem in Oriente conscripsimus, &amp; inuenient ita nos homi 
+      <lb ed="#L" n="48"/>nis laudare naturam, vt Dei semper gratiae addamus auxilium; &amp; quae est illa Epistola, nisi 
+      <lb ed="#L" n="49"/>illa superius memorata? Quare &amp; Augustinus primo contra Pelagium, &amp; Coelestium, de p 
+      <lb ed="#L" n="50"/>gratia Christi, &amp; peccato originali 23. 28. 29. 30. &amp; 31. asserit illam Epistolam esse Pelagii, 
+      <lb ed="#L" n="51"/>recitans, discutiens, &amp; condemnans quasdam particulas eius plane; Qui &amp; cum Alypio, Epi 
+      <lb ed="#L" n="52"/>stola 7i. ad Iulianam, Ad sanctam, inquit, Demetriadem quisnam scripsit librum? &amp; recitat 
+      <lb ed="#L" n="53"/>discutiendo quasdam particulas Epistolae supradictae. Adhuc autem &amp; Guido Prior 
+      Carthu<lb ed="#L" n="54" break="no"/>siae, in Epistola sua missa ad Lazarum Priorem Durbonensem, &amp; fratres, pro Epistolis beati 
+      <lb ed="#L" n="55"/>Ieronymi, dicit plane praedictam Epistolam, non esse Ieronymi, imo Pelagij. Venerabilis 
+      ve<lb ed="#L" n="56" break="no"/>ro Beda 1. super Cant. Canticorum, (qui est specialiter contra Iulianum) de gratia Dei, ra. 
+      <lb ed="#L" n="57"/>Multas particulas huius Epistolae recitans &amp; condemnans, affirmat hanc esset Iuliani, filij 
+      <lb ed="#L" n="58"/>Pelagij, &amp; alumni; Vnde &amp; sic ait in libro quem ad Demetriadem Virginem Christi, de in¬ 
+      <!--346.xml-->
+      <pb ed="#A" n="313"/>
+               <lb ed="#L" n="1"/>stitutione virginis, scripsit, haec eadem de potentia liberi arbitrij, quomodo sentiat, pandit; 
+      <lb ed="#L" n="2"/>quem videlicet librum nonnulli nostrum studiose legentes, sancti &amp; catholici Doctoris 
+      Iero<lb ed="#L" n="3" break="no"/>nymi esse, temere arbitrantur, minime prouidentes, quod suauitas eloquentiae demulcentis, 
+      <lb ed="#L" n="4"/>&amp; haereseos peruersitas seducentis manifeste probet, illius hoc opusculum non esse. Quin 
+      po<lb ed="#L" n="5" break="no"/>tius ipse fidem eius vel magis perfidiam in dialogo Attici &amp; Critaboli, quem, viuente Pelagio, 
+      <lb ed="#L" n="6"/>edidit, cum adhuc Iulianus ab eo paruulus quasi in cauerna colubri nutriebatur regulus, 
+      diui<lb ed="#L" n="7" break="no"/>nis expugnauerit ac perculerit eloquijs. Quidam tamen respicientes ad pauca, enuntiant 
+      fa<lb ed="#L" n="8" break="no"/>cile, nihil tale in primo libro Bedae super Cantica reperiri. Sed hi nimirum falluntur, 
+      putan<lb ed="#L" n="9" break="no"/>tes primum librum Bedae expositorium super Cantica, esse simpliciter primum librum, sed 
+      <lb ed="#L" n="10"/>non est ita. In primo namque libro, non exponit textum Cantici, sed priusquam ad 
+      exposi<lb ed="#L" n="11" break="no"/>tionem Cantici accedat, per totum illum primum librum, errores &amp; haereses librorum 
+      Iulia<lb ed="#L" n="12" break="no"/>ni discutit, &amp; diuellit: quare &amp; in multis codicibus iste primus liber nullatenus reperitur. 
+      Qui<lb ed="#L" n="13" break="no"/>cunque tamen initium vltimi librreius super Cantica viderit, manifeste videbit ipsum dicen¬ 
+      <lb ed="#L" n="14"/>tem se primum illorum librorum contra Iulianum scripsisse, qui &amp; in non defectuosis 
+      codi<lb ed="#L" n="15" break="no"/>cibus crebrius reperitur. Hic autem liber in quibusdam codicibus initium tale habet: Primo 
+      <lb ed="#L" n="16"/>admonendum putaui lectorem, vt opuscula Iuliani, &amp;c. in aliquibus vero tale; Scripturus 
+      <lb ed="#L" n="17"/>Dei iuuante gratia, in Cantica Canticorum, primo admonendum, &amp;c. sicut supra. Nec 
+      <lb ed="#L" n="18"/>quisquam existimet Bedam, dicentem illam Epistolam esse Iuliani, contradicere Augustino 
+      <lb ed="#L" n="19"/>dicenti illam esse Pelagij: haec enim non repugnant. Frequenter namque contingit, quod 
+      <lb ed="#L" n="20"/>multi coniuncti vnam Epistolam mittant, aut forsitan ambo simul dictarunt, &amp; Pelagius quia 
+      <lb ed="#L" n="21"/>senior &amp; magister, illam nomine suo misit, quam postea Iulianus sibi voluit vsurpare. Omnes 
+      <lb ed="#L" n="22"/>tamen hi testes concorditer attestantur, quod illa Epistola non est beati Ieronymi, sed 
+      Pela<lb ed="#L" n="23" break="no"/>gij, aut alicuius Pelagiani haeretici, &amp; profani. 
+      </p>
+            <div xml:id="dcn2br-e41672-Dd1e866">
+               <head xml:id="dcn2br-e41672-Hd1e868">Corollarium</head>
+               <p xml:id="dcn2br-e41672-d1e871">
+                  <lb ed="#L" n="24"/>COROLLARIVM. 
+      <lb ed="#L" n="25"/>Contra Cassianum mediantem, dicendo, Deum dare quibusdam gratiam suam gratis 
+      <lb ed="#L" n="26"/>absque merito praecedenti, quibusdam vero non nisi prius ipsam recipere mereantur: 
+      <lb ed="#L" n="27"/>quare &amp; quod nullus seruus peccati mortalis potest proprijs tantum viribus 
+      li<lb ed="#L" n="28" break="no"/>berari.
+      </p>
+               <p xml:id="dcn2br-e41672-d1e884">
+                  <lb ed="#L" n="29"/>EX his igitur euidenter apparet, Cassianum mediare volentem inter Catholicos, (
+      affir<lb ed="#L" n="30" break="no"/>mantes vniuersaliter in omnibus Deum primam gratiam gratis dare, &amp; Pelagium 
+      aesti<lb ed="#L" n="31" break="no"/>mantem Deum dare cuilibet gratiam pro merito praecedenti, &amp; nulli simpliciter, pure gratis) 
+      <lb ed="#L" n="32"/>dicendo Deum aliquibus dare gratiam gratis pure, aliquibus vero pro merito praecedenti, 
+      <lb ed="#L" n="33"/>grauiter delirare: quamobrem &amp; quod nullus seruus peccati mortalis, potest proprijs 
+      tan<lb ed="#L" n="34" break="no"/>tum viribus liberari. Istud autem totum porisma patenter consequitur ex praemissis. 
+      Erro<lb ed="#L" n="35" break="no"/>rem quoque Cassiani praedictum sanctus Prosper, per totum poene libellum intitulatum 
+      san<lb ed="#L" n="36" break="no"/>cti Prosperi pro praedicatoribus gratia Dei, contra librum Cassiani Presbyteri, qui 
+      praenota<lb ed="#L" n="37" break="no"/>tur de protectione Dei, discrete redarguit, &amp; diffuse repellit: Huius autem Cassiani errores 
+      <lb ed="#L" n="38"/>in ista materia in collationibus Patrum scribuntur: Altera vero pars eius per hoc specialiter 
+      <lb ed="#L" n="39"/>suadetur, quod omnis seruus peccati mortalis ingratus est Deo, &amp; sine gratia gratificari non  
+      <lb ed="#L" n="40"/>potest, nec hanc propriis tantum viribus potest acquirere per priora. Infoelix ergo homo, 
+      <lb ed="#L" n="41"/>quis eum liberabit a corpore mortis huius? Gratia Dei per Iesum Christum, ad Roman. 7. 
+      <lb ed="#L" n="42"/>quod &amp; Autoritates omnium Catholicorum Doctorum materiam istam tractantium 
+      vnani<lb ed="#L" n="43" break="no"/>miter contestantur.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

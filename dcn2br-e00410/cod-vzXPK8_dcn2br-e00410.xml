@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 34</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 34</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="761"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e00410"><!-- l3c34 -->
+            <head xml:id="dcn2br-e00410-Hd1e106">Caput 34</head>
+            <p xml:id="dcn2br-e00410-d1e109">
+               <lb ed="#L" n="18"/>CAP. XXXIIII. 
+      <lb ed="#L" n="19"/>Arguit specialiter contra primam.
+    </p>
+            <p xml:id="dcn2br-e00410-d1e116">
+               <lb ed="#L" n="20"/>NVnc autem specialiter contra primam: Porro si esset, vt dicit, essentia 
+      <lb ed="#L" n="21"/>Dei false ostenderet &amp; erronee praesentaret, sicque speculum sine 
+      macu<lb ed="#L" n="22" break="no"/>la maiestatis diuinae fieret turpiter maculatum, suuma quoque veritas 
+      <lb ed="#L" n="23"/>esset falsa, summa lux tenebrata, iustitia summa fallax, &amp; fidelitas 
+      sum<lb ed="#L" n="24" break="no"/>ma mendax. Tunc etiam Christus &amp; Beati possunt facillime decipi 
+      to<lb ed="#L" n="25" break="no"/>ta die, quare &amp; fieri miseri tota die, imo &amp; nunquam fuisse beati: omnis 
+      <lb ed="#L" n="26"/>enim fallacia, sicut &amp; omne malum, beatitudini &amp; faelicitati repugnant.  
+      <lb ed="#L" n="27"/>Faelicitas namque secundum Philosophum I. Eth. 9. est bonum per se 
+      <lb ed="#L" n="28"/>sufficiens &amp; perfectum: quare &amp; Boetius 3. de consolatione prosa 2. Liquet, inqui, esse 
+      bea<lb ed="#L" n="29" break="no"/>titudinem statum bonorum omnium congregatione perfectum. Et beatus Augustinus super 
+      <lb ed="#L" n="30"/>illud Psalmi 2. Beati omnes qui confidunt in eo; Beati, inquit, dixit, vbi est bonorum 
+      omni<lb ed="#L" n="31" break="no"/>um summa &amp; cumulus. Qui &amp; 13. de Trinit. 5. Continuo miseri sunt, qui vel non habent 
+      <lb ed="#L" n="32"/>quod volunt, vel id habent, quod non recte volunt; beatus igitur non est, nisi qui &amp; habet 
+      <lb ed="#L" n="33"/>omnia quae vult, &amp; nihil vult male. Et infra 7. Non volet quis male viuere in illa faelicitate, 
+      <lb ed="#L" n="34"/>aut volet aliquid quod deerit, aut deerit quod voluerit, quicquid amabitur aderit, nec 
+      deside<lb ed="#L" n="35" break="no"/>rabitur quod non aderit; Omne quod ibi erit bonum erit. Sed quis est qui non naturaliter &amp; 
+      <lb ed="#L" n="36"/>per se odiat &amp; fugiat falsitatem, amet &amp; appetat veritatem? Vnde Philosophus 4. Eth. 14. 
+      Se<lb ed="#L" n="37" break="no"/>cundum seipsum mendacium prauum &amp; fugiendum, verum autem bonum &amp; laudabile. Et  
+      <lb ed="#L" n="38"/>in secreto secretorum partis primae 4. Veritas est radix omnium laudabilium, &amp; materia 
+      om<lb ed="#L" n="39" break="no"/>nium bonorum, quia est contrarium mendacio. Tullius etiam 2. veteris suae Rhetoricae dicit 
+      <lb ed="#L" n="40"/>veritatem esse de illis, quae totaliter &amp; cum ex parte sunt propter se petenda, &amp; eius 
+      contrari<lb ed="#L" n="41" break="no"/>um de simili modo vitandis. Quare beatus Augustinus II. de ciuit. Dei II. ostendens malos 
+      <lb ed="#L" n="42"/>Angelos ante ruinam non fuisse beatos; Vita, inquit, istorum non fuit beata, quia quandoque 
+      <lb ed="#L" n="43"/>desitura, siue id scirent, siue nescientes aliud putarent, quia scientes timor, nescientes error 
+      <lb ed="#L" n="44"/> beatos esse vtique non sinebat. Et infraIIII. post magnam perscrutationem huius materiae sic 
+      <lb ed="#L" n="45"/>concludit; Quocirca cuiuis iam non difficulter occurrit, vtroque coniuncto effici 
+      beatitudi<lb ed="#L" n="46" break="no"/>nem, quam recto proposito intellectualis natura desiderat; hoc est, vt &amp; bono 
+      incommutabi<lb ed="#L" n="47" break="no"/>li, quod Deus est, sine vlla molestia perfruatur, &amp; in eo se in aeternum esse mansurum nec vlla 
+      <lb ed="#L" n="48"/>dubitatione cunctetur, nec vllo errore fallatur. Idem Enchirid. 9. ad illam faelicitatem 
+      tenden<lb ed="#L" n="49" break="no"/>dum est, vbi nulla quatiamur aerumna, nullo errore fallamur: error quanta possumus cura 
+      ca<lb ed="#L" n="50" break="no"/>uendus est, non solum in maioribus, sed etiam in minoribus rebus. Et infra 10. Si diligentius 
+      <lb ed="#L" n="51"/>considerata veritate, cum aliud nihil sit errare, quam verum putare quod falsum est, falsumque 
+      <lb ed="#L" n="52"/>quod verum est, vel certum habere pro incerto, incertumue pro certo, siue falsum sit siue 
+      ve<lb ed="#L" n="53" break="no"/>rum, idque tam sit in animo deforme atque indecens, quam pulchrum ac decorum esse senti¬ 
+      <!--795.xml-->
+      <pb ed="#A" n="762"/>
+               <lb ed="#L" n="1"/>mus vel in loquendo, vel in assentiendo, est, est, non, non; profecto &amp; obiosum est ista mise. A 
+      <lb ed="#L" n="2"/>ra vita qua viuimus, quod ei nonnunquam, vt non amittatur, error est necessarius: apsit vt 
+      ta<lb ed="#L" n="3" break="no"/>lis sit illa vita, vbi est animae nostrae, ipsa veritas, vita, vbi nemo fallit, fallatur nemo; hic autem 
+      <lb ed="#L" n="4"/>homines fallunt, atque falluntur, miserioresque sunt cum mentiendo fallunt, quam cum 
+      men<lb ed="#L" n="5" break="no"/>tientibus credendo falluntur; vsque adeo tamen rationalis natura refugit falsitatem, &amp; 
+      quan<lb ed="#L" n="6" break="no"/>tum potest deuitat errorem, vt falli nolint etiam quicunque amant fallere. Item error atque 
+      <lb ed="#L" n="7"/>deceptio circa futura, &amp; maxime pertinentia ad deceptum magis videtur beatitudini 
+      repugna<lb ed="#L" n="8" break="no"/>re, quam simplex ignorantia futurorum. Sed haec repugnat. Quare &amp; Augustinus II super 
+      <lb ed="#L" n="9"/>Gen. 25. 25. &amp; 27. ostendit Apostatas Angelos non fuisse beatos ante suam ruinam, quia nec 
+      <lb ed="#L" n="10"/>sui euentus futuri praescios nec certos: quod &amp; cap. 26. de primo homine simile modo probat 
+      <lb ed="#L" n="11"/>Lum bardus etiam secundi sentent. dist. 4. loquens de Angelis, Bcati, inquit, nunquam 
+      fue<lb ed="#L" n="12" break="no"/>runt, qui ceciderunt, quia sui euentus ignari fuerunt, quam causalem confirmat per beatum 
+      <lb ed="#L" n="13"/>Augustinum super Gen. vbi prius. Et si quis dixerit Augustinum ibi loqui de praescientia 
+      fu<lb ed="#L" n="14" break="no"/>turorum pertinentium tantum non impertinentium ad Angelum vel hominem praescientem, 
+      <lb ed="#L" n="15"/>de illis tantummodo arguatur. Ad Christum nanique &amp; ad beatam virginem beatificatos in 
+      <lb ed="#L" n="16"/>coelo pertinuit, quod propinqui sui secundum carnem &amp; gratiam tunc peregrinantes a 
+      Domi<lb ed="#L" n="17" break="no"/>no, quos tantum amabant &amp; desiderabant saluari, &amp; ad hoc instanter orabant, pro quibus &amp; 
+      <lb ed="#L" n="18"/>Christus specialiter fudit suum sanguinem benedictum, quorum salus erat eis concessa &amp; 
+      re<lb ed="#L" n="19" break="no"/>uelata diuinitus vt saluarentur: quis igitur spiritus mendax praesumet in istis Christum 
+      deci<lb ed="#L" n="20" break="no"/>pere &amp; virginem iam beatos, vel etiam in pertinentibus quibuscunque? Ad quem etiam 
+      Bea<lb ed="#L" n="21" break="no"/>torum non pertinet? Nunquid sit deturpatus tenebrosae falsitatis erroribus, aut lucidae 
+      veri<lb ed="#L" n="22" break="no"/>tatis fulgoribo decoratus? quid etiam magis pertinet ad beatum quam sua beatitudo perpetua? &amp; 
+      <lb ed="#L" n="23"/>circa illam possibile est eum falli: nam non obstante, qd. Deus ostendit sibi in verbo sua 
+      beati<lb ed="#L" n="24" break="no"/>tudinem perpetuo duratura, &amp; ipse hoc viderit, potest non beatificare eum pro futuro, scilce 
+      beati<lb ed="#L" n="25" break="no"/>tudinem subtrahendo, vel ipsum annihilando, vel ad statum viae remittendo, in qua peccet 
+      fi<lb ed="#L" n="26" break="no"/>naliter &amp; damnetur. Item omne qd. nocet beatitudini est repugnans; sed ignorantia omnis 
+      no<lb ed="#L" n="27" break="no"/>cet, dicente Ansel. 2. Cur Deus homo 13. Ignoratia, etsi aliquado ad aliud non nocet, hoc solo 
+      <lb ed="#L" n="28"/>tamen nocet, quia scientiae bonum aufert. Item omnis poena est quaedam miseria; omnis aute 
+      <lb ed="#L" n="29"/>error vel saltem inuitus, &amp; in rebus pertinentibus ad errantem est poena, dicente August. 3. de 
+      <lb ed="#L" n="30"/>ib. arb. 29. Approbare falsa pro veris vt erret inuitus, non est natura instituti hominis, sed 
+      poe<lb ed="#L" n="31" break="no"/>na damnati: quare Christus, Maria, &amp; beati, toto tempore quo fuerunt beati, possunt fuisse 
+      de<lb ed="#L" n="32" break="no"/>cepti, puniti, &amp; miseri, nec beati. Imo &amp; istud videtur facere Deum iniustum, quia punientem 
+      <lb ed="#L" n="33"/>sanctum Angelum sine culpa. Quare &amp; August. 1I. super Gen. ad liter. 30. cuilibet occurrit: 
+      <lb ed="#L" n="34"/>&amp; verum est atque manifestum iustitiae ipsi esse contrarium vt nullo praeced, merito, hoc ipsum 
+      <lb ed="#L" n="35"/>in quoquam Deus damnet, qu. in eo ipse creauerit. Et supra 24. Nunquid Deus prius est vltor, 
+      <lb ed="#L" n="36"/>quam Diabolus peccator? Absit; &amp; 3. de lib. arb. 29. Omnis poena, si iusta est, peccati poena I 
+      <lb ed="#L" n="37"/>est: &amp; 2, contra Iulian. 20. Deus iustus, si tanta paruulis mala nihil peccati trahentibus 
+      itroga<lb ed="#L" n="38" break="no"/>ret, magis appareret iniustus: qui &amp; infra 3. 4. &amp; multis cap. consequenter, quarti vltimo, 5. 
+      pri<lb ed="#L" n="39" break="no"/>mo, &amp; post diuersis cap ac sexti primo, &amp; deinceps non paucis cap, constantissime docet idem.  
+      <lb ed="#L" n="40"/>Ansel. 2. Cur Deus homo 2. Quod autem, inquit, talis factus sit, scilicet primus homo, vt 
+      <lb ed="#L" n="41"/>non necsssitate moreretur. hinc facile probatur, quod vt iam diximus, Sapientiae &amp; 
+      iusti<lb ed="#L" n="42" break="no"/>tiae Dei repugnat vt cogeret mortem pati sine culpa, quem iustum ad aeternam fecit 
+      bea<lb ed="#L" n="43" break="no"/>titudinem; sequitur ergo, quia si nunquam peccasset, nunquam moreretur; qui &amp; 
+      Mo<lb ed="#L" n="44" break="no"/>nolog. 69. dulcissime probat idem: Quod &amp; concorditer sentiunt omnes Doctores 
+      Ca<lb ed="#L" n="45" break="no"/>tholici, istam materiam pertractantes. Item si ista responsio esset vera, non esset possibile 
+      <lb ed="#L" n="46"/>Deum beatificare quenquam perfecte: ad beatitudinem namque perfectam requiritur 
+      cer<lb ed="#L" n="47" break="no"/>titudo, quod ipsa aeternaliter sit permansura. Beatitudo namque, vt prius erat 
+      osten<lb ed="#L" n="48" break="no"/>sum, est bonum in nullo deficiens, sed perfectum, &amp; sicut dicit Boetius, quo quis 
+      adep<lb ed="#L" n="49" break="no"/>to, nihil vlterius desiderare queat. Et Anselmus de casu Diaboli 6. dicit quod Angeli. 
+      <lb ed="#L" n="50"/>qui steterunt, adeo sunt prouecti, vt sint adepti quicquid velle potuerunt, nec iam 
+      vi<lb ed="#L" n="51" break="no"/>deant quid plus velle possint: Vnde &amp; Propheta, Satiabor cum apparuerit gloria tua, 
+      <lb ed="#L" n="52"/>Psalmo. 16. Et Apocalyps. 7. Non esurient, nec sitient amplius. Sed quis dubitauerit, 
+      <lb ed="#L" n="53"/>certitudinem de bono pro semper esse magnum bonum, quod omnes desiderant &amp; 
+      si<lb ed="#L" n="54" break="no"/>ne quo nequeunt satiari, etiam si omnibus alijs bonis affluant quantumcunque? 
+      Quan<lb ed="#L" n="55" break="no"/>to enim plura &amp; maiora bona habuerint, tanto certitudinem de illis semper habendis 
+      <lb ed="#L" n="56"/>ardentius affectabunt: alioquin namque possent rationabiliter &amp; deberent aliquem metum 
+      ha<lb ed="#L" n="57" break="no"/>bere, ne forte amitterent illa bona; metus autem non potest perfectae beatitudini? 
+      socia<lb ed="#L" n="58" break="no"/>ri. Vnde Augustinus II. super Gen. 23. &amp; post consequenter ostendit Diabolum &amp; primum 
+      <!--796.xml-->
+      <pb ed="#A" n="763"/>
+               <lb ed="#L" n="1"/>hominem non fuisse plene beatos ante suam ruinam, quia de // ipsa certitudinem non habe 
+      <lb ed="#L" n="2"/>bant, qui illo 23. ita dicit, Neque sancti Angeli aeternae suae vitae ac beatitudinis incerti sunt. 
+      <lb ed="#L" n="3"/>Nam quomodo beati, si incerti? Et infra 24. Si Deus non reuelauit Diabolo, cum adhuc 
+      <lb ed="#L" n="4"/>esset Angelus bonus, quid facturus vel passurus esset, non iam plene beatus fuit, 
+      quandoqui<lb ed="#L" n="5" break="no"/>dem plene beati de sua beatitudine certi sunt, vt eam nullus perturbet metus. Et 25. 
+      Quo<lb ed="#L" n="6" break="no"/>nam modo beati possent esse non video, quibus incerta est ipsa sua beatitudo. Qui &amp; II. de 
+      <lb ed="#L" n="7"/>Ciuit. Dei II. similem tenet processum; Itaque beata, inquit, vita proculdubio non nisi 
+      aeter<lb ed="#L" n="8" break="no"/>na est, aeternitatisque suae certa atque secura: quod &amp; eius autoritates ex eodem II. &amp; 12. 
+      al<lb ed="#L" n="9" break="no"/>legatae superius attestantur. Idem 13. de Trinit. loquens de beatitudine finali sic ait; Quicquid 
+      <lb ed="#L" n="10"/>amabitur aderit, nec desiderabitur quod non aderit, omne quod ibi erit, bonum erit, &amp; 
+      sum<lb ed="#L" n="11" break="no"/>mum bonum Deus ipse erit, &amp; se amantibus praesto ibi erit, &amp; quod est omnino beatissimum, 
+      <lb ed="#L" n="12"/>ita semper fore certum erit. Ad beatitudinem ergo perfectam requiritur huius certitudo; 
+      <lb ed="#L" n="13"/>sed Deus illam dare non potest, quia per nullam reuelationem, quia non per illam in verbo, 
+      <lb ed="#L" n="14"/>quae est omnium lucidissima atque summa. Illa namque, vt dicit responsio, potest esse 
+      decep<lb ed="#L" n="15" break="no"/>tio atque error; quare per illam nullus potest de ipsa aut eius reuelato certificari perfecte; nec 
+      <lb ed="#L" n="16"/>per aliam, quia illa alia aut esset certa aut incerta: si incerta, non certificaret; si certa, aut per 
+      <lb ed="#L" n="17"/>seipsam aut per aliam: si per seipsam, eadem ratione fuisset standum in prima, &amp; tunc 
+      simili<lb ed="#L" n="18" break="no"/>ter reuertitur difficultas: si per aliam, sic vel erit infinitus processus, vel aliqua erit certa per 
+      <lb ed="#L" n="19"/>seipsam, quare simili ratione &amp; prima; &amp; etiam posita vna certa, quotacunque sit illa, 
+      reuer<lb ed="#L" n="20" break="no"/>titur argumentum; imo quod magis videtur absurdum, Deus nullum potest certificare de 
+      <lb ed="#L" n="21"/>beatitudine sua praeterita vel praesenti, sicut praecedentia manifestant, quia quaelibet talis 
+      re<lb ed="#L" n="22" break="no"/>uelatio potest esse delusoria atque falsa. Omnis quoque beatus credit &amp; sperat futura, &amp; 
+      con<lb ed="#L" n="23" break="no"/>tinue prius fecit, &amp; omnis talis credulitas atque spes potest nunc esse, &amp; semper prius fuisse 
+      <lb ed="#L" n="24"/>erronea atque falsa; nullus ergo talis nunc est, nec vnquam fuit certe beatus; quare nec hoc 
+      <lb ed="#L" n="25"/>potest certitudinaliter reuelari. Si quis autem respondeat bonos esse certos de sua beatitudine 
+      <lb ed="#L" n="26"/>aeternaliter duratura, certitudine firmissimae credulitatis omnem haesitationem actualem &amp; 
+      <lb ed="#L" n="27"/>metum de eius opposito excludente, eadem ratione habet concedere, quod Deus de 
+      omni<lb ed="#L" n="28" break="no"/>potentia sua non potest certificare quenquam de futuris perfecte, nec aliter quam est dictum, 
+      <lb ed="#L" n="29"/>quod non videtur, quia de praesentibus &amp; praeteritis bene potest, quare &amp; de futuris, cum 
+      <lb ed="#L" n="30"/>praesentia &amp; praeterita nihil penitus ibi causent, vt potest haberi ex tricesimo &amp; tricesimo 
+      pri<lb ed="#L" n="31" break="no"/>mo huius, &amp; maxime praeterita, cum ipsa nihil sint, quare nec causant. Si etiam praesentia 
+      <lb ed="#L" n="32"/>vel praeterita essent certitudinis huius causa, essent &amp; causa beatitudinis beatorum, quare &amp;  
+      <lb ed="#L" n="33"/>beatificarent beatos; Diabolus ergo &amp;t eius peccatum &amp; poena, ac aeterna miseria beatificaret 
+      <lb ed="#L" n="34"/>Christum caeterosque beatos, quod est per se satis absurdum, est etiam falsum; quia cum sint 
+      <lb ed="#L" n="35"/>finitae virtutis in agendo, haberent terminum maximum &amp; remotissimum actionis vltra 
+      <lb ed="#L" n="36"/>quem non possunt, // sicut videtur quasi per se notum: quod &amp; ostendit Philosophus I do 
+      <lb ed="#L" n="37"/>Coelo II6. &amp; Auerroes in comment. Deus autem potest beatificare, &amp; certificare beatos de 
+      <lb ed="#L" n="38"/>praesentibus &amp; praeteritis talibus vltra omnem terminum assignatum; imo non videtur quod 
+      <lb ed="#L" n="39"/>&amp; actio huiusmodi insimorum ad summum coelum ascendat. Vel si ista praesentia vel 
+      praete<lb ed="#L" n="40" break="no"/>rita in beatorum certitudine quicquam essent. Deus potest supplere causationem illorum, &amp;  
+      <lb ed="#L" n="41"/>causare totum per seipsum; nam alias non esset omnipotens: Quare &amp; <name xml:id="dcn2br-e00410-Nd1e415">Stephanus Parisiensis 
+        <lb ed="#L" n="42"/>Episcopus</name> damnauit articulum asserentem, <quote xml:id="dcn2br-e00410-Qd1e420" source="http://scta.info/resource/z88d99-avn8u2-d1e614@1-10">quod Deus non potest in effectum causae 
+      secun<lb ed="#L" n="43" break="no"/>dariae sine ipsa</quote>. Quapropter &amp; <ref xml:id="dcn2br-e00410-Rd1e425">
+                  <name xml:id="dcn2br-e00410-Nd1e427">Petrus</name> 3. sentent. distinctione vicesima sexta</ref>, dicit quod 
+        <lb ed="#L" n="44"/>
+               <quote xml:id="dcn2br-e00410-Qd1e433" source="http://scta.info/resource/pl-l3d26c4-d1e118@157-170">Christus in quo fuerunt bona patriae credidit, &amp; sperauit resurrectionem tertia die futuram</quote>, 
+      <lb ed="#L" n="45"/>sed non perfectius eam cognouit praeteritam, quam intellexit futuram. Item tunc tali 
+      cer<lb ed="#L" n="46" break="no"/>titudine potuerunt boni Angeli fuisse certi de beatitudine sua futura ante confirmationem 
+      <lb ed="#L" n="47"/>illorum, &amp; Sancti nunc in via, imo videtur quod aliqui viatores habuerunt aliquam 
+      ta<lb ed="#L" n="48" break="no"/>lem certitudinem de diuersis. Vnde ad Romanos capite octauo, Certus sum, inquit 
+      Apo<lb ed="#L" n="49" break="no"/>stolus, quod neque mors, neque vita, neque Angeli, nec principatus, nec virtutes, nec 
+      in<lb ed="#L" n="50" break="no"/>stantia, nec futura, nec fortitudo, nec altitudo, nec profundum, neque creatura alia poterit 
+      <lb ed="#L" n="51"/>nos separare a charitate Dei. Et Act. 16. Visio per noctem Paulo ostensa est: vir autem 
+      <lb ed="#L" n="52"/>Macedo quidam erat stans, &amp; depraecans eum, &amp; dicens, Transiens in Macedoniam adiuna 
+      <lb ed="#L" n="53"/>nos: vt autem visum vidit, statim quaesiuimus proficisci in Macedoniam, certi facti, quod 
+      <lb ed="#L" n="54"/>vocasset nos Deus Euangelizare eis: quare &amp; Sapient. 7. dicitur, quod spiritus sapientiae 
+      <lb ed="#L" n="55"/>est vnicus, multiplex, subtilis, modestus, discrerus, mobilis, incoinquinatus, certus. Quis 
+      <lb ed="#L" n="56"/>etiam Catholicus non est sic certus de articulis fidei de futuro, scilicet quod erit finale 
+      iudi<lb ed="#L" n="57" break="no"/>cium, &amp; generalis resurrectio mortuorum, &amp; quod Deus vnicuique secundum opera sua 
+      <lb ed="#L" n="58"/>reddet? Sancti ergo in via similem certitudinem modo habent, qualem habent &amp; habebunt  
+      <!--797.xml-->
+      <pb ed="#A" n="764"/>
+               <lb ed="#L" n="1"/>perfecte beati. Item haec certitudo est certitudo spei tantum; haec enim in viatoribus 
+      repe<lb ed="#L" n="2" break="no"/>ritur, vt proximo est ostensum. Quare &amp; Lumbardus 3. sentent. dist. 26. Spes, inquit, est 
+      <lb ed="#L" n="3"/>certa expectatio futurae beatitudinis; ergo in Christo &amp; in alijs beatis est spes &amp; certitudo 
+      tan<lb ed="#L" n="4" break="no"/>tummodo speratiua; quod falsum est, quia illa est imperfecta, beatitudo vero perfecta, sicut 
+      <lb ed="#L" n="5"/>superius est ostensum. Vnde Apostolus 1. ad Cor. 13. Ex parte cognoscimus, &amp; ex parte 
+      <lb ed="#L" n="6"/>prophetamus, cum autem venerit quod perfectum est, euacuabitur quod ex parte est: 
+      vide<lb ed="#L" n="7" break="no"/>mus nunc per speculum in aenigmate, tunc autem facie ad faciem; nunc cognosco ex parte. 
+      <lb ed="#L" n="8"/>tunc autem cognoscam sicut &amp; cognitus sum; nunc autem manent fidee, spes, charitas. Quare 
+      <lb ed="#L" n="9"/>&amp; Petrus 3. sentent. dist. 26. proposita quaestione, Vtrum fides &amp; spes in Christo fuerint, sic 
+      <lb ed="#L" n="10"/>respondet: Quibusdam non indocte videtur, fidem, virtutem, &amp; spem in eo non fuisse, sicut 
+      <lb ed="#L" n="11"/>&amp; in sanctis iam beatificatis, vel in Angelis non sunt, &amp; cum sancti credunt &amp; sperant 
+      resurre<lb ed="#L" n="12" break="no"/>ctionem futuram, &amp; Angeli eandem credunt, nec tamen in eis fides vel spes virtus est, quia &amp;  
+      <lb ed="#L" n="13"/>Deo per speciem contemplando fruuntur, &amp; in Dei verbo resurrectionem futuram siue 
+      iudi<lb ed="#L" n="14" break="no"/>cium, non per speculum in aenigmate, sed praeclarissime inspiciunt Si enim quia credunt 
+      re<lb ed="#L" n="15" break="no"/>surrectionem futuram, ideo verum est eos fidem habere, ergo ea consummata, post iudicium 
+      <lb ed="#L" n="16"/>similiter &amp; fidem habere dicentur, quia credent eam praeteritam; sed sicuti tunc credent, nec 
+      <lb ed="#L" n="17"/>tamen fidem, quae fideles facit, habebunt, quia non credent absque scientia, quae non erit 
+      <lb ed="#L" n="18"/>aenigmatica, sed per speciem, ita &amp; modo credunt &amp; sperant resurrectionem, nec tamen fidem 
+      <lb ed="#L" n="19"/>habent, quia credendo cognoscunt. Venit enim eis quod perfectum est, &amp; euacuatum est. 
+      <lb ed="#L" n="20"/>quod ex parte est. Venit enim cognitio, &amp; euacuata est fides; venit species, &amp; desiit spes. Ita 
+      <lb ed="#L" n="21"/>&amp; Christus, in quo fuerunt bona patriae credidit quidem &amp; sperauit resurrectionem tertia die 
+      <lb ed="#L" n="22"/>futuram, pro qua &amp; orauit patrem, nec tamen fidem, virtutem, vel spem habuit, quia non 
+      <lb ed="#L" n="23"/>aenigmaticam vel specularem, sed clarissimam habuit de ea cognitionem, quia non perfectius 
+      <lb ed="#L" n="24"/>eam cognouit praeteritam, quam intellexit futuram: Sperauit tamen Christus, sicut in 
+      Psal<lb ed="#L" n="25" break="no"/>moiait, In te, Domine, sperani; non tamen fidem vel spem virtutem habuit, quia per speciem 
+      <lb ed="#L" n="26"/>videbat ea, quae credebat. Hugo quoque 2. de sacrament. part. 13. sentit idem; quod &amp; 
+      con<lb ed="#L" n="27" break="no"/>corditer sentiunt omnes Catholici Tractatores. Item si Deus nullum potest certificare 
+      per<lb ed="#L" n="28" break="no"/>fecte, nullum potest beatificare perfecte, quia certitudo est beatissima pars totius 
+      beatitudi<lb ed="#L" n="29" break="no"/>nis, sicut ab Augustino erat superius allegatum. Cuius etiam animus habentis certitudinem 
+      <lb ed="#L" n="30"/>tantum praedictam, non appeteret firmiorem? Quare non plene quietaretur, satiaretur, nec 
+      <lb ed="#L" n="31"/>beatificaretur per illam, nec per totam beatitudinem quam haberet; quare non esset beatus 
+      <lb ed="#L" n="32"/>perfecte, qualis tamen beatitudo in patria a fidelibus omnibus expectatur. Si enim aliqua 
+      <lb ed="#L" n="33"/>beatitudo siue foelicitas est perfecta, vt docebatur superius, quae, si non illa? Quare dicit 
+      <lb ed="#L" n="34"/>Apostolus I. ad Corinth. 13. cum venerit quod perfectum est, euacuabitur quod ex parte est. 
+      <lb ed="#L" n="35"/>Haec ergo responsio lumen beatorum eclipsat, visum eorum praestigiat, certitudine spoliat,  
+      <lb ed="#L" n="36"/>totius scilicet beatitudinis beatissima portione, ad miseriam miserabiliter detrahit, &amp; quod 
+      vi<lb ed="#L" n="37" break="no"/>detur mirabilius atque miserabilius omnium, Christum, Mariam, Sanctosque caeteros, qui I 
+      <lb ed="#L" n="38"/>ab olim beati fuerunt, facit nunquam fuisse beatos, sed miseros semper ante, locumque 
+      bea<lb ed="#L" n="39" break="no"/>titudinis summum coelum in infernum miseriae locum transfert. Praeterea, quod omnium 
+      <lb ed="#L" n="40"/>videtur haereticissimum, ista responsio habet consequenter asserere ipsum Deum posse decipi 
+      <lb ed="#L" n="41"/>&amp; errare. Si enim homo vel Angelus in Dei essentia potest decipi &amp; errare, potest &amp; Deus, 
+      <lb ed="#L" n="42"/>cum nihil intelligat, nisi quod &amp; sicut in ipsa ostenditur &amp; relucet. Haec etiam responsio 
+      in<lb ed="#L" n="43" break="no"/>certat Deum similiter de futuris. Nam si per cognitionem suam de futuris possit decipi circa 
+      <lb ed="#L" n="44"/>illa, per illam non potest esse certus de illis, nec Pater de omnipotentia sua posset certificare 
+      <lb ed="#L" n="45"/>Filium de vllo futuro: ipse enim non est certus, quomodo ergo alterum certificare valebit? 
+      <lb ed="#L" n="46"/>Imo &amp; si esset certus, sicut nullus dubitat quin sit certus, adhuc filium certificare non posset: 
+      <lb ed="#L" n="47"/>non enim posset ipsum certificare, nisi per reuelationem in verbo in essentia clara Dei; sed 
+      <lb ed="#L" n="48"/>illa non certificat, quia cum ipsa stat error; quare nec filius nec spiritus sanctus possunt certe 
+      <lb ed="#L" n="49"/>cognoscere quodcunque futurum. Ipsi enim nihil, nec vllo modo possunt cognoscere, nisiI 
+      <lb ed="#L" n="50"/>quod, &amp; vt a Patre recipiunt cognoscendum. Nam sicut totum esse suum habent a Patre, sic 
+      <lb ed="#L" n="51"/>&amp; totum suum cognoscere, &amp; caetera vniuersa, sicut tricesimo secundi plenius est ostensum.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

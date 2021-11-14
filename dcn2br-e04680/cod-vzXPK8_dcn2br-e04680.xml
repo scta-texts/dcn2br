@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 47</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 47</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="794"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e04680"><!-- l3c47 -->
+            <head xml:id="dcn2br-e04680-Hd1e106">Caput 47</head>
+            <p xml:id="dcn2br-e04680-d1e109">
+               <lb ed="#L" n="36"/>CAP. XLVII. 
+      <lb ed="#L" n="37"/>Contra eandem opinionem &amp; hypothesin per eandem viam de 
+      <lb ed="#L" n="38"/>puris hominibus. 
+      </p>
+            <p xml:id="dcn2br-e04680-d1e118">
+               <lb ed="#L" n="39"/>NVnc autem post Angelos ad homines veniendum. De homi¬ 
+      <lb ed="#L" n="40"/>nibus siquidem pro statu innocentiae, &amp; pro statu gloriae potest 
+      <lb ed="#L" n="41"/>similiter argui, sicut de Angelis proximo est argutum. Rursum 
+      <lb ed="#L" n="42"/>omnes sancti etiam virgo beata, ante passionem salutiferam. 
+      Ie<lb ed="#L" n="43" break="no"/>su Christi erant mundati, &amp; saluati in fide &amp; virtute illius 
+      passi<lb ed="#L" n="44" break="no"/>onis futurae, ipsis quodammodo in proprio genere 
+      reuela<lb ed="#L" n="45" break="no"/>tae: Ipse namque lapis angularis effectus, tunsione multi¬ 
+      <!--828.xml-->
+      <pb ed="#A" n="795"/>
+               <lb ed="#L" n="1"/>tiplici passionis vtrumque parietem compaginauit in vnum, caemento tenacissimo sui 
+      <lb ed="#L" n="2"/>sangninis benedicti. Ipse est etiam, cui &amp; turbae quae praecedebant, &amp; quae 
+      seque<lb ed="#L" n="3" break="no"/>bantur, clamabant dicentes, Hosanna filio Dauid: Quare &amp; Apostolus, Vna, inquit, fides 
+      <lb ed="#L" n="4"/>non multae. Vnde &amp; beatus Gregorius 2. super Ezechiel. homilia quinta siue decima 
+      septi<lb ed="#L" n="5" break="no"/>ma totius, Praecessit, inquit, Iudaicus populus, secutus est Gentilis, &amp; quia omnes 
+      ele<lb ed="#L" n="6" break="no"/>cti, siue qui in Iudaea esse potuerunt, siue qui nunc in Ecclesiae existunt, in 
+      Mediato<lb ed="#L" n="7" break="no"/>rem Dei &amp; hominum crediderunt &amp; credunt; qui praecunt, &amp; qui sequuntur, 
+      Hosan<lb ed="#L" n="8" break="no"/>na clamant. Hosanna autem in Latina lingua, Salua nos, dicitur: Ab ipso autem salutem 
+      <lb ed="#L" n="9"/>&amp; priores quaesierunt, &amp; praesentes quaerunt, &amp; benedictum qui venit in nomine 
+      Domi<lb ed="#L" n="10" break="no"/>ni confitentur; quoniam vna spes, vna est fides praecedentium atque sequentium 
+      po<lb ed="#L" n="11" break="no"/>pulorum. Nam sicut illi expectata passione ac resurrectione Domini // saluati sunt; ita nol 
+      <lb ed="#L" n="12"/>praeterita passione illius ac permanentis in saecula resurrectione saluamur. Beatus 
+      simili<lb ed="#L" n="13" break="no"/>ter Augustinus Hypognost. 63. Omnes, inquit, sancti Dei, qui ante aduentum fuerunt 
+      <lb ed="#L" n="14"/>Domini nostri Iesu Christi, fide non alia, nisi quae nunc est, salui facti sunt; qui &amp; de 
+      di<lb ed="#L" n="15" break="no"/>bertate arbitrij 7. De perfectione iustitiae 32. de natura &amp; gratia 44. In epistola 
+      nonage<lb ed="#L" n="16" break="no"/>sima tertia ad Optatum. 2. de Nuptijs &amp; concupiscentia docet idem. Anselmus etiam 2. 
+      <lb ed="#L" n="17"/>Cur Deus homo 17. vult hoc idem, quod &amp; volunt concorditer omnes Catholici 
+      tracta<lb ed="#L" n="18" break="no"/>tores: hoc ergo pro constanti supposito arguatur pro tempore medio in quo simus inter 
+      <lb ed="#L" n="19"/>istos effectus praeteritos &amp; passionem illam futuram, necesse est istos effectus fuisse, 
+      er<lb ed="#L" n="20" break="no"/>go necesse est passionem hanc fore, vel si non necesse est passionem hanc fore, nec est 
+      ne<lb ed="#L" n="21" break="no"/>cesse effectus istos fuisse: non enim potuerunt mundari &amp; saluari in fide erronea 
+      falla<lb ed="#L" n="22" break="no"/>ci &amp; falsa: si namque potuerunt tunc, possent nunc &amp; semper, quod videtur fidem 
+      catho<lb ed="#L" n="23" break="no"/>licam suspicione nimia maculare, seu potius diffamare, ac reddere homines tepidos, &amp; 
+      nimi<lb ed="#L" n="24" break="no"/>um dubios ad credendum. Quomodo etiam posset falsitas tantum valere quantum veritas 
+      <lb ed="#L" n="25"/>ipsa valet? Quis hoc concesserit nisi falsus? Insuper si fides falsa sufficeret, superflueret fides 
+      <lb ed="#L" n="26"/>vera, maxime cum idem effectus contingeret, &amp; breuius multum &amp; leuius ex fide fassa quam 
+      <lb ed="#L" n="27"/>vera. Ad veram namque fidem requirebatur incarnatio, natiuitas, praedicatio, passio &amp; mors 
+      <lb ed="#L" n="28"/>Christi, cum multis alijs factis suis: ad falsam vero sufficeret ipsa sola. Suffecisset igitur 
+      ple<lb ed="#L" n="29" break="no"/>nissime ad salutem perstitisse in fide falsa de Christo futuro vsque ad completionem numeri 
+      <lb ed="#L" n="30"/>electorum, &amp; sic saecula conclusisse; quare sicut arguit Apostolus ad impossibile, vt reputat, 
+      <lb ed="#L" n="31"/>deducendo, Christus gratis mortuus est; Si, inquit, ex lege iustitia, ergo Christus gratis 
+      <lb ed="#L" n="32"/>mortuus est, ad Galat. 2. Glossa, gratis, id est, frustra, sine causa: nam secundum 
+      Philosopho<lb ed="#L" n="33" break="no"/>rum sententiam, quam semper supponunt tanquam vnam maximam per se notam, frustra 
+      <lb ed="#L" n="34"/>ponuntur plura, vbi sufficiunt pauciora: tantum etiam valuisset Pseudo Christus, quantum 
+      <lb ed="#L" n="35"/>valuit verax, &amp; veritas ipsa Christus, quod nullus, vt spero, praesumet concedere, nisi 
+      for<lb ed="#L" n="36" break="no"/>te Pseudo. Christianus, &amp; discipulus pseudo Christi, veri scilicet Antichristi. Quare &amp;  
+      <lb ed="#L" n="37"/>Anselmus 2. Cur Deus homo 17. tractans istam materiam, Vere, inquit, moriturus erat, 
+      <lb ed="#L" n="38"/>quoniam si vere non fuisset moriturus, non fuisset vera fides futurae mortis eius, per quam &amp;  
+      <lb ed="#L" n="39"/>illa virgo de qua natus est, &amp; multi alij mundati sunt a peccato; &amp; si vera non fuisset, 
+      ni<lb ed="#L" n="40" break="no"/>hil prodesse potuisset. Quare &amp; fidelis Christi Ecclesiae fideliter tota canit, Vera fides 
+      ge<lb ed="#L" n="41" break="no"/>niti purgauit crimina mundi. Praeterea Christus asseruit, &amp; iurauit futura aliqua 
+      euentu<lb ed="#L" n="42" break="no"/>ra, sicut suam passionem, resurrectionem, ascensionem, generalem resurrectionem, Iudae 
+      <lb ed="#L" n="43"/>traditionem, Petri negationem, &amp; multa similia; Medio ergo tempore in quo simus, si ista 
+      <lb ed="#L" n="44"/>possunt nullatenus euenire, potest Christus fuisse mentitus, periurus, atque peccator contra 
+      <lb ed="#L" n="45"/>praeostensa trigesimo secundi; vel si Christus non potest haec fuisse, necesse est quae iurando 
+      <lb ed="#L" n="46"/>asseruit, euenire. Item Deus multa futura praedixit hominibus in proprio genere, asseruit, 
+      <lb ed="#L" n="47"/>promisit, atque iurauit; ergo necesse est illa omnia euenire, vel Deum mentiri: sed Deum  
+      <lb ed="#L" n="48"/>impossibile est mentiri. Hoc etiam totum euidenter apparet ex autoritatibus circa fatum seu 
+      <lb ed="#L" n="49"/>famen diuinum vigesimo septimo huius, &amp; ex rationibus ac autoritatibus trigesimo secundo 
+      <lb ed="#L" n="50"/>huius praemissis. Quare &amp; Dominus per Prophetam, Neque prophanabo testamentum 
+      <lb ed="#L" n="51"/>meum, &amp; quae procedent de labijs meis non faciam irrita, seu non reprobabo, sicut habet  
+      <lb ed="#L" n="52"/>Psalterium Romanum: quod Augustinus exponit, semel iuraui in sancto meo, si 
+      Da<lb ed="#L" n="53" break="no"/>uidi mentiar Psalmo 88. Testamentum autem secundum Papiam, d&amp; secundum Isidorum 
+      <lb ed="#L" n="54"/>5. Ethic. 8. in Scripturis sanctis non hoc solum dicitur, quod non valet nisi testatoribus 
+      <lb ed="#L" n="55"/>mortuis, sed omne pactum &amp; placitum dicitur testamentum; quare &amp; translatio 
+      Hierony<lb ed="#L" n="56" break="no"/>mi habet ita, Neque violabo pactum meum, &amp; quod egressum est de labijs meis non mutabo: 
+      <lb ed="#L" n="57"/>Vbi Aug. Non quia filij peccant, ideo ego mendax inueniar; promisi, facio: Pone quia vo¬ 
+      <!--829.xml-->
+      <pb ed="#A" n="796"/>
+               <lb ed="#L" n="1"/>volunt illi etiam cum desperatione peccare, &amp; sic ire omnino in peccata, vt offendant oculos 
+      <lb ed="#L" n="2"/>Patris, &amp; exhaeredati mereantur; nonne ipse est Deus, de quo dictum est, De Iapidibus istis 
+      <lb ed="#L" n="3"/>suscitabit Deus filios Abrahae? Nouit Dominus qui sunt eius: Securus enim promisit, qui  
+      <lb ed="#L" n="4"/>nos antequam essemus, praedestinauit. Peccent quantum volunt desperati, respondeant 
+      mem<lb ed="#L" n="5" break="no"/>bra Christi, Si Deus pro nobis, quis contra nos; non ergo nocebit Deus in veritate sua, non 
+      <lb ed="#L" n="6"/>erit fallax, non prophanabit testamentum suum: manet immobile testamentum eius, quia 
+      ip<lb ed="#L" n="7" break="no"/>se praescius praedestinauit haeredes, &amp; quae procedunt de labijs eius non reprobabit. Audi 
+      <lb ed="#L" n="8"/>iam confirmationem tuam, audi iam securitatem tuam; si te in membris Christi esse 
+      cogno<lb ed="#L" n="9" break="no"/>scis, Semel iuraui in sancto meo, si Dauidi mentiar; Expectas vt iterum iuret Deus? 
+      Quo<lb ed="#L" n="10" break="no"/>ties iuraturus est, si semel iurando mentitur? Cassiodorus, Semel, id est, immutabiliter; 
+      <lb ed="#L" n="11"/>quomodo Augustinus &amp; Isidorus exponunt illud Psalmi 6i. Semel locutus est Deus, sicut 
+      vi<lb ed="#L" n="12" break="no"/>cesimum septimum huius plenius recitauit. Et infra supra illud, Tu vero repulisti &amp;c. 
+      <lb ed="#L" n="13"/>Auertisti testamentum &amp;c. Quid est hoc, inquit Augustinus, Illa omnia promisisti, tu vero 
+      <lb ed="#L" n="14"/>ista contraria fecisti? Vbi sunt promissiones ad quas paulo ante gaudebamus, de quibus 
+      <lb ed="#L" n="15"/>tam alacriter plaudebamus, de quibus securi gratulabamur? Quasi alius promiserit, alius 
+      e<lb ed="#L" n="16" break="no"/>uerterit; quod mirandum est; non alius, sed tu vero, tu qui promittebas, tu qui 
+      confirma<lb ed="#L" n="17" break="no"/>bas, tu qui propter dubitationem humanam etiam iurabas, Illa promisisti &amp; ista fecisti, 
+      <lb ed="#L" n="18"/>Vbi tenebo iusiurandum tuum? Vbi inueniam promissum tuum? Quid est hoc? Ita vero 
+      fal<lb ed="#L" n="19" break="no"/>sum promitteret Deus, aut falsum iuraret? Quare ergo illa promisit, &amp; ista fecit? Ego dico, 
+      <lb ed="#L" n="20"/>quia ista fecit, vt promissa firmaret. Dauid enim positus erat, cui promitterentur haec omnia 
+      <lb ed="#L" n="21"/>in // semine eius, quod est Christus, implenda; Propter promissa ergo, quae dicta sunt ad 
+      <lb ed="#L" n="22"/>Dauidem, expectabant homines ea impleri in Dauide. Proinde ne quisquam 
+      Christia<lb ed="#L" n="23" break="no"/>nus cum diceret, De Christo dixit; alius diceret, Non, sed de illo Dauide dixit, &amp; 
+      erra<lb ed="#L" n="24" break="no"/>ret cum videret impleta esse in Christo omnia; destruxit ea in Dauide, vt cum 
+      vide<lb ed="#L" n="25" break="no"/>as ea in illo non impleta, quae necesse est impleri, quaeras alterum in quo ostendantur 
+      im<lb ed="#L" n="26" break="no"/>pleri. Ita etiam de Esau &amp; de Iacob inuenimus maiorem adoratum a minori, cum 
+      scrip<lb ed="#L" n="27" break="no"/>tum sit, Maior seruiet minori; vt cum in illis duobus praecedentibus videas non 
+      imple<lb ed="#L" n="28" break="no"/>tum, expectes duos populos in quibus impleatur, quod non mendax Deus polliceri 
+      digna<lb ed="#L" n="29" break="no"/>tur: Ecce ex semine tuo, dixit Dauidi, ponam super sedem tuam. Promisit ex semine 
+      <lb ed="#L" n="30"/>eius in aeternum aliquid, &amp; natus est Solomon; factus est tantae sapientiae, tantaeque 
+      pru<lb ed="#L" n="31" break="no"/>dentiae, vt promissio Dei de semine Dauidis in illo putaretur impleta. Sed cecidit 
+      Solo<lb ed="#L" n="32" break="no"/>mon, &amp; dedit locum sperando Christo, vt quoniam Deus nec falli posset nec fallere, 
+      <lb ed="#L" n="33"/>quem sciebat casurum, non in eo poneret promissum suum, sed post casum eius 
+      respice<lb ed="#L" n="34" break="no"/>res tu Deum, &amp; flagitares promissum tuum; ergo Domine mentitus es? Non impleg 
+      <lb ed="#L" n="35"/>quod promisisti? nec exhibes quod iurasti? Forte hic dicturus tibi erat Deus, Iuraui 
+      <lb ed="#L" n="36"/>quidem, &amp; promisi, sed iste noluit perseuerare. Quid ergo? Tu Domine Deus non 
+      prae<lb ed="#L" n="37" break="no"/>sciebas istum non perseueraturum? Vtique sciebas; Quare ergo in non perseueraturo 
+      <lb ed="#L" n="38"/>mihi quod in aeternum esset promittebas? Nonne tu dixisti, Si dereliquerint legem 
+      me<lb ed="#L" n="39" break="no"/>am, &amp; in iudicijs meis non ambulauerint, &amp; mandata mea non custodierint, &amp; 
+      testi<lb ed="#L" n="40" break="no"/>monium meum prophanauerint, manebit tamen promissio mea, implebitur iuratio mea, 
+      <lb ed="#L" n="41"/>Semel iuraui in sancto meo, si Dauidi mentiar? Exhibe ergo quod iurasti, redde quod 
+      <lb ed="#L" n="42"/>promisisti. Sublatum est de isto Dauide, ne expectaretur in isto Dauide; Expecta 
+      er<lb ed="#L" n="43" break="no"/>go quod promisi. Nouit illud &amp; ipse Dauid; vide ergo quid dicat, Tu vero repulisti, 
+      <lb ed="#L" n="44"/>&amp; ad nihilum deduxisti, ergo vbi est quod promisisti? Distulisti Christum tuum. 
+      Quam<lb ed="#L" n="45" break="no"/>uis tristia quaedam enumeret, in hoc tamen verbo reficit nos, manet omnino Deus 
+      <lb ed="#L" n="46"/>quod promisisti; nam Christum tuum non abstulisti, sed distulisti. Vbi &amp; 
+      Cassiodo<lb ed="#L" n="47" break="no"/>rus, superius cum de Christo promirteret Pater, locutus est de Dauide, de quo nunc 
+      <lb ed="#L" n="48"/>contraria ponit, vt, quae necesse erat fieri, quia Deus iurauerat, non in eo potius, sed 
+      <lb ed="#L" n="49"/>in alio quaererentur implenda: dicitque Apostolus 2. ad Timoth. 2. Si non credimus, 
+      <lb ed="#L" n="50"/>ille fidelis permanet, negare seipsum non potest. Olossa, Si nos non credimus quod 
+      pu<lb ed="#L" n="51" break="no"/>niat malos, stulte confisi sumus de misericordia eius; ille tamen, scilicet Christus, 
+      perma<lb ed="#L" n="52" break="no"/>net fidelis in dictis suis, &amp; in eo etiam quod dixerit, Qui non crediderit, condemnabitur, 
+      <lb ed="#L" n="53"/>&amp; vere fidelis est, quia non potest negare seipsum, qui est veritas, quod faceret si dicta 
+      <lb ed="#L" n="54"/>sua non impleret. Hoc autem, quod seipsum negare non potest, Iaus est voluntatis 
+      di<lb ed="#L" n="55" break="no"/>uinae, sicut, quod quidam non possunt credere, culpa est voluntatis humanae; haec 
+      au<lb ed="#L" n="56" break="no"/>tem vltima pars huius glossae est Augustini super Iohan. homilia 53. qui &amp; decimo quinto 
+      <lb ed="#L" n="57"/>de Trinitate 14. Falsum, inquit, habere aliquid hoc verbum nunquam potest, quia im¬ 
+      <!--830.xml-->
+      <pb ed="#A" n="797"/>
+               <lb ed="#L" n="1"/>mutabiliter sic se habet, vt se habet de quo est. Non enim potest filius a se facere quic¬ 
+      <lb ed="#L" n="2"/>quam, nisi quod viderit Patrem facientem; Potenter hoc non potest, nec est 
+      infirmi<lb ed="#L" n="3" break="no"/>tas ista, sed firmitas, quia falsa esse non potest veritas: Et infra decimo quinto; 
+      Mag<lb ed="#L" n="4" break="no"/>na illius verbi potentia est non posse mentiri. Item si Deus non redderet quod promn 
+      <lb ed="#L" n="5"/>sit, non esset fidelis, nec iustus; vnde ad Hebraeos 6. Non iniustus est Deus vt 
+      ob<lb ed="#L" n="6" break="no"/>liuiscatur operis vestri, &amp; dilectionis quam ostendistis in nomine ipsius. Et 2. ad 
+      Timo<lb ed="#L" n="7" break="no"/>theum 4. Bonum certamen certaui, cursum consummaui, fidem seruaui, de 
+      reli<lb ed="#L" n="8" break="no"/>quo reposita est mihi corona iustitiae, quam reddet mihi Dominus in illa die iustus 
+      <lb ed="#L" n="9"/>iudex. Quod tractans Augustinus super illud Psalmi 100. Misericordiam &amp; 
+      iudi<lb ed="#L" n="10" break="no"/>cium cantabo tibi, Domine, sic ait; Quomodo dicit, videte, Bonum certamen certaui, 
+      <lb ed="#L" n="11"/>&amp;c. hoc tempore misericordiae, audi de iudicio, De caetero reposita est mihi corona 
+      <lb ed="#L" n="12"/>iustitiae, quam reddet mihi Dominus in illa dic iustus iudex. Non dixit, donabat, sed 
+      <lb ed="#L" n="13"/>B reddet; quando donabat, misericors erat, quando reddet, iudex erit, quia misericordiam &amp;  
+      <lb ed="#L" n="14"/>iudicium cantabo tibi, Domine; Sed donando delicta fecit se coronae debitorem; Ibi 
+      mi<lb ed="#L" n="15" break="no"/>sericordiam consecutus sum; misericors ergo Dominus primo; hic autem reddet mihi 
+      co<lb ed="#L" n="16" break="no"/>ronam iustitiae. Vnde reddet? quia iustus Iudex est. Quare iustus Iudex? quia bonum 
+      certa<lb ed="#L" n="17" break="no"/>men certaui, cursum consummaui, fidem seruaui; Ideo iustus non potest nisi coronare ista, 
+      <lb ed="#L" n="18"/>Dicitque Propheta, Rectum est Domini verbum, &amp; omnia opera eius in fide, Psalmo 32. 
+      <lb ed="#L" n="19"/>super quod Augustinus tractatu secundo, Inuenimus Deum fidelem, Audi Apostolum, Si 
+      <lb ed="#L" n="20"/>non credimus, ipse fidelis permanet, negare semetipsum non potest. Habemus ergo &amp; 
+      fi<lb ed="#L" n="21" break="no"/>delem Deum; distinguamus potius fidelem Deum a fideli homine: Fidelis homo est, 
+      cre<lb ed="#L" n="22" break="no"/>dens promittenti Deo; fidelis Deus est, exhibens quod promisit homini. Teneamus 
+      fide<lb ed="#L" n="23" break="no"/>lissimum debitorem, quia tenemus misericordissimum promissorem. Vnde debitorem? quia 
+      <lb ed="#L" n="24"/>promissorem: Non dicimus Deo, Domine, redde quod accepisti, sed, redde quod promisisti, 
+      <lb ed="#L" n="25"/>quoniam rectus est sermo Domini. Quid est, rectus est sermo Domini? Non te fallit, tu eum 
+      <lb ed="#L" n="26"/>noli fallere, imo tute noli fallere. Item Deus iurauit multa futura fore, &amp; omne Dei 
+      iuta<lb ed="#L" n="27" break="no"/>mentum est necessaro adimplendum: Alias enim Deus posset peiurare, &amp; esse periurus. Hoc 
+      <lb ed="#L" n="28"/>idem patet per allegata superius ex Psalmo 88. &amp; Augustino ibidem; quod &amp; videtur testari 
+      <lb ed="#L" n="29"/>illud Psalmi 1opi. Iurauit Dominus, &amp; non poenitebit eum: &amp; illud Psalmi 13I. Iurauit 
+      Do<lb ed="#L" n="30" break="no"/>minus Dauidi veritatem, &amp; non frustrabitur eum; vbi litera Augustini, Et non poenitebit 
+      <lb ed="#L" n="31"/>eum; Super quam sic ait, Quid est, iurauit? promissum per seipsum firmauit. Quid est, non 
+      <lb ed="#L" n="32"/>poenitebit eum? non mutabit. Cum ergo mutat opera sua per incommutabile consilium suum, 
+      <lb ed="#L" n="33"/>propter ipsam non consilij, sed operis mutationem poenitere dicitur; hoc autem sic 
+      promi<lb ed="#L" n="34" break="no"/>sit, vt non mutaret, quomodo dicitur &amp; illud; Iurauit Dominus, &amp; non poenitebit cum, 
+      <lb ed="#L" n="35"/>Tu es Sacerdos in aeternum secundum ordinem Melchisedech: sic &amp; hoc, quia ita 
+      promis<lb ed="#L" n="36" break="no"/>sum est vt non mutaretur, quia necessario futurum erat &amp; permansurum, Dixit, Iurauit  
+      <lb ed="#L" n="37"/>Dominus Dauidi veritatem, &amp; non poenitebit eum, Ex fructu ventris tui ponam super 
+      <lb ed="#L" n="38"/>sedem tuam. Item Esaie 14. Iurauit Dominus exercituum dicens, Si non vt putaui, ita euit: 
+      <lb ed="#L" n="39"/>Glossa Iurauit, id est, immobiliter statuit; si non, &amp;c. quasi diceret, aliter non potest 
+      fie<lb ed="#L" n="40" break="no"/>ri. Item Genes. 22. Dominus loquens Abrahae, Per memetipsum, inquit, iuraui, quia 
+      fe<lb ed="#L" n="41" break="no"/>cisti rem hanc, &amp;c. Benedicam tibi, &amp; multiplicabo semen tuum, &amp;c. Glossa super 
+      Iu<lb ed="#L" n="42" break="no"/>raui, quia immutabiliter a Deo constitutum est, quod verbum in sacra Scriptura eodem 
+      mo<lb ed="#L" n="43" break="no"/>do expositum saepissime reperitur. Quare &amp; Basilius concordanter super illud Luc. 1. 
+      Ius<lb ed="#L" n="44" break="no"/>iurandum quod iurauit ad Abraham Patrem nostrum; Nemo, inquit, audiens quod 
+      iuras<lb ed="#L" n="45" break="no"/>set Dominus Abrahae, ad iurandum sit promptus. Sicut enim furor de Deo dictus non 
+      signi<lb ed="#L" n="46" break="no"/>ficat passionem sed punitionem; sic neque Deus iurat vt homo, sed verbum eius loco 
+      iu<lb ed="#L" n="47" break="no"/>ramenti nobis ad veritatem exprimitur, immutabili sententia quod promissum est 
+      appro<lb ed="#L" n="48" break="no"/>bais. Quam expositionem satis canonizare videtur Apostolus ad Hebr. 6. cum dicit, 
+      A<lb ed="#L" n="49" break="no"/>brahae promittens Deus, quoniam neminem habuit maiorem per quem iurauit, iurauit per 
+      se<lb ed="#L" n="50" break="no"/>ipsum dicens, Nisi benedicens benedicam tibi, &amp; multiplicans multiplicabo te: Et sic 
+      lon<lb ed="#L" n="51" break="no"/>ganimiter ferens, adeptus est repromissionem. Homines enim per maiorem sui iurant, &amp; 
+      om<lb ed="#L" n="52" break="no"/>nis controuersiae eorum finis ad confirmationem est iuramentum; In quo abundantius 
+      vo<lb ed="#L" n="53" break="no"/>lens Deus ostendere pollicitationis haeredibus immobilitatem consilij sui interposuit 
+      iusiu<lb ed="#L" n="54" break="no"/>randum, vt per duas res immobiles, quibus impossibile est mentiri Deum, firmissimum 
+      <lb ed="#L" n="55"/>solatium habeamus, qui confugimus ad tenendam propositam spem quam habemus, sicut 
+      <lb ed="#L" n="56"/>anchoram animae turam ac firmam. Olossa, per duas res immobiles, id est, per 
+      promissio<lb ed="#L" n="57" break="no"/>nem &amp; iuramentum. Quare &amp; Hieronymus trigesimotertio super Esaiam, tractans illud Esaiae 
+      <lb ed="#L" n="58"/>45. In memetipso iuraui, egredietur de ore meo iustitiae verbum, &amp; non reuertetur; quia 
+      <!--831.xml-->
+      <pb ed="#A" n="798"/>
+               <lb ed="#L" n="1"/>mihi curuabitur omne genu; Iurat, inquit, secundum Apostolum, vt per duas res 
+      immobi<lb ed="#L" n="2" break="no"/>les, quibus impossibile est mentiri Deum, firmissimam consolatione habeamus: veruntamen 
+      <lb ed="#L" n="3"/>nullus propter haec &amp; huiusmodi suspicetur, quod Deus aliter intrinsece iuret, quam dicat 
+      <lb ed="#L" n="4"/>simpliciter; aut quod iuramentum Dei intrinsecum sit firmius aut certius simplici verbo eius; 
+      <lb ed="#L" n="5"/>Non enim est facilius Deum falsum simpliciter dicere, quam iurare; quicquid etiam ibi est,  
+      <lb ed="#L" n="6"/>bonum est; &amp; quicquid etiam boni ibi est, infinite &amp; summe ibi est, sicut praecedentia 
+      docu<lb ed="#L" n="7" break="no"/>erunt. Huic autem attestatur Glossa super illud Amosi. 6. Iurauit Dominus Deus in anima 
+      <lb ed="#L" n="8"/>sua; Omnis, inquiens, sermo Dei pro iuramento debet accipi; &amp; nostro more loquitur, non  
+      <lb ed="#L" n="9"/>quod animam habeat sicut nos, sed nomine animae affectus diuinae voluntatis ostenditur: 
+      Iu<lb ed="#L" n="10" break="no"/>rauit ergo in sua voluntate. Cur ergo iurat Deus hominibus? Vt tarditati &amp; incredulitati 
+      e<lb ed="#L" n="11" break="no"/>orum misericorditer condescendens, ipsos more humano certificet &amp; quietet. Item futura 
+      <lb ed="#L" n="12"/>per Deum reuelata Prophetis antiquis, &amp; prophetata per eos de necessitate euenient; Alias 
+      <lb ed="#L" n="13"/>enim nunc esset possibile ipsos vidisse tantum falsa &amp; vana, &amp; solum talia prophetasse, quare 
+      <lb ed="#L" n="14"/>&amp; nunquam fuisse Prophetas: nam secundum omnes cuiuslibet sectae viros, illi soli Prophetae 
+      <lb ed="#L" n="15"/>dicuntur, qui vera proculfantur, siue praefantur: essetque nunc possibile antiquos videntes 
+      <lb ed="#L" n="16"/>nunquam fuisse videntes sed caecos; Qui enim Propheta dicitur hodie, olim vocabatur 
+      vi<lb ed="#L" n="17" break="no"/>dens I. Reg. 9. Antiquos Doctores veraces nunquam tales fuisse, sed seductores fallaces, qui 
+      <lb ed="#L" n="18"/>habuerunt dignitatem praeclaram &amp; gradum eximium bonitatis, nunquam ista sed semper 
+      <lb ed="#L" n="19"/>opposita habuisse. Quis enim ignoret digniorem &amp; meliorem esse veracem fallaci, credentem 
+      <lb ed="#L" n="20"/>verum quam falsum? Quis enim non eligeret hoc prae illo? Ipsa namque veritas est dignior 
+      <lb ed="#L" n="21"/>&amp; melior falsitate, sicut &amp; ostenditur tricesimo quarto huius. Imo &amp; quod videtur absurdius, 
+      <lb ed="#L" n="22"/>esset nunc possibile antiquos Prophetas atque Apostolos, amicos Dei Sap. 7. &amp; Iohan. 15. 
+      <lb ed="#L" n="23"/>organa spiritus sancti; Ipse enim, vt dicit Symbolum Nicaenum, locutus est per Prophetas, 
+      <lb ed="#L" n="24"/>nec Apostoli loquebantur, sed spiritus Patris eorum loquebatur in eis; qui habuerunt dona 
+      <lb ed="#L" n="25"/>eius praeclara, scilicet Prophetiam &amp; discretionem spirituum 1. ad Cor. 12. nunquam tales 
+      <lb ed="#L" n="26"/>fuisse, nunquam talia recepisse, sed fuisse organa illius spiritus mendacis in ore omnium 
+      men<lb ed="#L" n="27" break="no"/>dacium Prophetarum, 3. Reg. 22. Spiritum quoque Sanctum non fuisse locutum quod fuit 
+      lo<lb ed="#L" n="28" break="no"/>cutus, &amp; non fecisse quod fecit. Item secundum istud esset nunc possibile Esaiam in hoc, 
+      <lb ed="#L" n="29"/>quod vidit verissime sine deceptione quacunque, fuisse deceptum; &amp; consequenter in hoc, 
+      <lb ed="#L" n="30"/>quod bene meruit, mortaliter peccasse: &amp; in hoc quod veraciter asseruit mentitum fuisse, 
+      si<lb ed="#L" n="31" break="no"/>cut capitulum praecedens de Angelis plenius arguebat. Amplius si nunc sit possibile, veteres 
+      <lb ed="#L" n="32"/>qui fuerunt Prophetae videntes, &amp; tales ac tales, taliaque &amp; talia munera habuerunt, taliaque 
+      <lb ed="#L" n="33"/>ac talia opera perfecerunt, tales non fuisse, nec talia habuisse, taliaue fecisse; est &amp; 
+      correspon<lb ed="#L" n="34" break="no"/>denter possibile, veteres qui non fuerunt tales, nec talia habuerunt, nec fecerunt, tales fuisse, 
+      <lb ed="#L" n="35"/>talia habuisse atque fecisse; imo &amp; qui opposito modo fuerunt, habuerunt, atque fecerunt, 
+      <lb ed="#L" n="36"/>non sic fuisse, habuisse, siue fecisse, fuisseque habuisse atque fecisse sicut veri Prophetae; quod I 
+      <lb ed="#L" n="37"/>proculdubio permutatim conuertit, imo peruertit veros Prophetas, &amp; eorum vera munera &amp; 
+      <lb ed="#L" n="38"/>opera in pseudoprophetas, &amp; eorum falsa munera &amp; opera, &amp; e contra sicut tricesimo tertio 
+      <lb ed="#L" n="39"/>huius plenius est argutum. Praeterea tunc Prophetae &amp; Apostoli possunt fuisse decepti 
+      cre<lb ed="#L" n="40" break="no"/>dendo falsum de futuro, &amp; hoc per Christum, &amp; spiritum sanctum Dei. Dicit enim 
+      Aposto<lb ed="#L" n="41" break="no"/>lus ad Gal. 1. se accipisse &amp; didicisse Euangelium euangelixatum ab eo per reuelationem Iesu 
+      <lb ed="#L" n="42"/>Christi, qui &amp; I. ad Cor. 12. connumerat prophetiam inter spiritus sancti dona: Vnde 2. 
+      Pe<lb ed="#L" n="43" break="no"/>tri 1. Habemus firmiorem propheticum sermonem, cui benefacitis attendentes, hoc primum 
+      <lb ed="#L" n="44"/>intelligentes quod omnis Prophetiae Scriptura propria interpretatione non sit. Non enim 
+      <lb ed="#L" n="45"/>voluntate humana allata est aliquando prophetia, sed spiritu sancto inspirati locuti sunt sancti 
+      <lb ed="#L" n="46"/>Dei homines, quod &amp; tota Ecclesia Catholica in Symbolo Niceno catholice profitetur, 
+      di<lb ed="#L" n="47" break="no"/>cendo; Qui, scilicet Spiritus Sanctus, locutus est per Prophetas: Quomodo ergo Christus 
+      <lb ed="#L" n="48"/>vocat se tantummodo veritatem Ioh. 14. &amp; non etiam falsitatem? Quomodo etiam Deus &amp; I 
+      <lb ed="#L" n="49"/>Christus scienter asserens falsum de futuro in anima Esaiae vel Pauli, ipsumque decipiens, 
+      per<lb ed="#L" n="50" break="no"/>manet veritas, &amp; a fallacia &amp; mendacio excusatur, dicente Iohanne discipulo veritatis, 
+      Om<lb ed="#L" n="51" break="no"/>ne mendacium ex veritate non est? 1. I0h. 2. Quare &amp; Augustinus 83. quaestionum 14. Si, 
+      in<lb ed="#L" n="52" break="no"/>quit, phantasma fuit corpus Christi, fefellit Christus; &amp; si fefellerit, veritas non est; Est autem 
+      <lb ed="#L" n="53"/>veritas Christus, non igitur phantasma fuit corpus eius. Qui &amp; de Agone Christiano, Nec 
+      <lb ed="#L" n="54"/>eos, inquit, audiamus qui negant tale corpus Domini resurrexisse, quale positum est in 
+      mo<lb ed="#L" n="55" break="no"/>numento: Si enim tale non fuisset, non ipse dixisset post resurrectionem discipulis, Palpate 
+      <lb ed="#L" n="56"/>&amp; videte, quoniam spiritus ossa &amp; neruos non habet, sicut me videtis habere; 
+      Sacrilegi<lb ed="#L" n="57" break="no"/>um est enim credere Dominum Deum nostrum, cum ipse sit veritas, in aliquo 
+      fuis<lb ed="#L" n="58" break="no"/>se mentitum. Si etiam potest asserere falsum de futuro, cur non de praeterito &amp; prae¬ 
+      <!--832.xml-->
+      <pb ed="#A" n="799"/>
+               <lb ed="#L" n="1"/>&amp; praesenti, &amp; quaecunque ac falsa notoria, sic mentiri notorie &amp; peccare, contra praehabita 
+      <lb ed="#L" n="2"/>30. secundi istius? Quomodo etiam, si sit ita, Spiritus Sanctus tantummodo dicitur spiritus 
+      <lb ed="#L" n="3"/>veritatis, Ioh. 14. &amp; non etiam spiritus falsitatis, spiritus mendax in ore omnium 
+      Propheta<lb ed="#L" n="4" break="no"/>rum, 3. Reg. 22. ac spiritus vertiginis &amp; erroris, Esaiae 19? Quomodo etiam decet Deum 
+      iu<lb ed="#L" n="5" break="no"/>stum &amp; verum decipere homines, maxime deuotissimos, &amp; familiarissimos seruos suos, 
+      ama<lb ed="#L" n="6" break="no"/>tissimos, amantissimosque amicos, &amp; hoc sine culpa vel causa? Non sic sentit Augustinus 
+      <lb ed="#L" n="7"/>super Psalm. 32. 88. &amp; 83. quaestionum, 14. superius allegatus; qui &amp; II. de Ciuit. Dei 12. 
+      <lb ed="#L" n="8"/>Quis, inquit, hominum se in actione profectuque iustitiae perseueraturum vsque in finem 
+      sci<lb ed="#L" n="9" break="no"/>at, nisi aliqua reuelatione ab illo fiat certus, qui de hac re iusto latentique iudicio non omnes 
+      <lb ed="#L" n="10"/>instruit, sed neminem fallit? Quare &amp; Papa Innocentius tertius, Iudicium, inquit, Dei 
+      veri<lb ed="#L" n="11" break="no"/>tati, quae non fallit nec fallitur, semper innititur. Sapientissima quoque Sibylla sic ait, 
+      Exur<lb ed="#L" n="12" break="no"/>get de stirpe Hebraeorum nomine Maria, habens sponsum nomine Ioseph, &amp; procreabitur ex 
+      <lb ed="#L" n="13"/>ea sine commixtione viri, de Spiritu Sancto Filius Dei, nomine lesus; &amp; ipsa erit virgo ante 
+      <lb ed="#L" n="14"/>partum &amp; post partum; qui vero ex ea nascetur, erit verus Deus, &amp; verus homo, sicut omnes 
+      <lb ed="#L" n="15"/>homines Prophetae praedicauerunt, &amp; adimplebit legem Hebraeorum, &amp; adiunget sua 
+      pro<lb ed="#L" n="16" break="no"/>pria in simul, &amp; permanebit regnum eius in saecula saeculorum: indignatisque ac 
+      obijcienti<lb ed="#L" n="17" break="no"/>bus Sacerdotibus Hebraeorum, respondit, O Iudaei, necesse est ista fieri, sed vos non 
+      crede<lb ed="#L" n="18" break="no"/>tis in eum. Item Cassiodorus in prologo super Psalterium definit prophetiam hoc modo; 
+      <lb ed="#L" n="19"/>Prophetia est inspiratio diuina, quae rerum euentus immobili veritate pronuntiat. Cui &amp;  
+      <lb ed="#L" n="20"/>concordat glossa Petri super Psalterium in prologo, sicut 25. primi plenius allegatur. Idem  
+      <lb ed="#L" n="21"/>patet per autoritatem Augustini super Iohan. part. 2. homilia 62. seu I16. totius, 27. huius 
+      <lb ed="#L" n="22"/>tertij allegatam. Et ecce maior Augustino, ille dilectissimus discipulus veritatis, qui de ipso 
+      <lb ed="#L" n="23"/>fonte, de pectore scilicet veritatis Euangelium suum hausit, qui dicit, cum tanta signa fecisset 
+      <lb ed="#L" n="24"/>coram eis, non credebant in eum, vt sermo Esaiae Prophetae impleretur, quem dixit, 
+      Domi<lb ed="#L" n="25" break="no"/>ne, quis credidit auditui nostro, &amp; brachium Domini cui reuelatum est? Propterea non 
+      po<lb ed="#L" n="26" break="no"/>terant credere, quia iterum dixit Esaias, Excoecauit oculos eorum, &amp; indurauit corda eorum, 
+      <lb ed="#L" n="27"/>vt non videant oculis, &amp; non intelligant corde, &amp; conuertantur, &amp; sanem eos, Ioh. 12. Quod 
+      <lb ed="#L" n="28"/>tractans Augustinus de bono perseuerantiae 4I. intelligit secundum superficiem literalem; 
+      <lb ed="#L" n="29"/>vnde sic ait, In damnationis massa relicti sunt Iudaei, qui non potuerunt credere factis in 
+      con<lb ed="#L" n="30" break="no"/>spectu suo, tam magnis clarisque virtutibus. Cur enim non poterant credere? Non tacuit 
+      <lb ed="#L" n="31"/>Euangelium dicens, Cum autem tanta &amp;c. superius recitata. Qui &amp; super Iohan. part. 1. 
+      ho<lb ed="#L" n="32" break="no"/>milia 53. idem exponens, Sic, inquit, dictum est non poterant, quemadmodum dictum est 
+      <lb ed="#L" n="33"/>de Domino Deo nostro; Si non credimus, ille fidelis permanet, negare seipsum non potest: 
+      <lb ed="#L" n="34"/>de omnipotente dictum est, non potest: sicut ergo quod Dominus negare seipsum non 
+      po<lb ed="#L" n="35" break="no"/>test, Iaus est voluntatis diuinae; ita quod illi non poterant credere, culpa est voluntatis 
+      hu<lb ed="#L" n="36" break="no"/>manae. Et si quis obiiciat, quod Augustinus eadem homilia, eodem loco sic exponit, non  
+      <lb ed="#L" n="37"/>poterant, id est, nole bant; &amp; supra eadem; quare non poterant? quia nolebant, non obuiat 
+      <lb ed="#L" n="38"/>intellectui praecedenti. Sacra namque Scriptura ex sua // saecunditate mirabili habet 
+      multipli<lb ed="#L" n="39" break="no"/>cem intellectum, sicut satis ostendunt omnes eius Catholici Tractatores. Veruntamen 
+      vide<lb ed="#L" n="40" break="no"/>tur expositio multum extranea, &amp; a modo loquendi Scripturae, Doctorum, &amp; vulgarium 
+      <lb ed="#L" n="41"/>valde remota, exponere non posse per nolle; nec Augustinus expresse ita exponit, sed dicit, 
+      <lb ed="#L" n="42"/>Dictum est non poterant, vbi intelligendum est quod nolebant, &amp; verum est quod nolebant: 
+      <lb ed="#L" n="43"/>non tamen euidenter consequitur hanc esse expositionem illius; sed ideo dicit quod 
+      intelli<lb ed="#L" n="44" break="no"/>gendum est, quod nolebant, vt ostendat ipsos non credere voluntarie, non inuite, ideoque 
+      <lb ed="#L" n="45"/>ipsos non credendo esse culpabiles, &amp; peccare iuxta praemissa primo &amp; decimo huius. Quare 
+      <lb ed="#L" n="46"/>&amp; immediate subiungit, Quemadmodum dictum est de Domino Deo nostro, Si non 
+      credi<lb ed="#L" n="47" break="no"/>mus, ille fidelis permanet, negare seipsum non potest: quia de omnipotente dictum est, non 
+      <lb ed="#L" n="48"/>potest; sicut ergo quod Dominus negare seipsum non potest, Iaus est voluntatis diuinae; ita 
+      <lb ed="#L" n="49"/>quod illi non poterant credere, culpa est voluntatis humanae. Vbi &amp; innuit euidenter non  
+      <lb ed="#L" n="50"/>posse accipi proprie &amp; ad intellectum communem. Ait enim, sic dictum est non poterant, 
+      <lb ed="#L" n="51"/>quemadmodum de Domino, negare seipsum non potest; quod accipitur proprie &amp; ad 
+      in<lb ed="#L" n="52" break="no"/>tellectum communem; sic enim non potest negare seipsum, sicut nec mentiri. Cum autem 
+      <lb ed="#L" n="53"/>dicit non poterant, quia nolebant, intelligit quod ex eorum voluntarijs meritis fuerant 
+      ex<lb ed="#L" n="54" break="no"/>coecati; vnde opponendo &amp; respondendo subiungit, Sed aliam causam, inquit, dicit 
+      Pro<lb ed="#L" n="55" break="no"/>pheta, non voluntatis eorum. Quam causam dicit Propheta? Quia dedit illis Deus spiritum 
+      <lb ed="#L" n="56"/>compunctionis, oculos vt non videant, &amp; aures vt non audiant, &amp; excae cauit oculos eorum, 
+      <lb ed="#L" n="57"/>&amp; indurauit eorum cor; etiam hoc eorum voluntatem meruisse respondeo: sic enim 
+      excoe<lb ed="#L" n="58" break="no"/>cat, sic obdurat Deus. Expositio tamen ista non videtur menti Euangelistae congruere: ipse 
+      <!--833.xml-->
+      <pb ed="#A" n="800"/>
+               <lb ed="#L" n="1"/>namque nullo modo explicite, vel implicite illam causam assignat, sed istam, quia dixit Esaias, 
+      <lb ed="#L" n="2"/>Excoecauit oculos eorum &amp;c. manifeste supponens quod prophetiae non possunt non 
+      im<lb ed="#L" n="3" break="no"/>pleri. Quamobrem aduertendum quod Augustinus nequaquam ibi definitiue, sed 
+      inquisiti<lb ed="#L" n="4" break="no"/>ue procedit. Vnde sic ait, Cum quaestiones huiusmodi in medium venerunt; quare alius sic, 
+      <lb ed="#L" n="5"/>alius autem sic; quare ille Deo deserente excoecatur, ille Deo adiuuante illuminetur, non 
+      no<lb ed="#L" n="6" break="no"/>bis iudicium de iudicio tanti Iudicis vsurpemus, sed contremiscentes exclamemus cum 
+      Apo<lb ed="#L" n="7" break="no"/>stolo; Oaltitudo diuitiarum sapientiae &amp; scientiae Dei? Quam inscrutabilia sunt iudicia eius, 
+      <lb ed="#L" n="8"/>&amp; inuestigabiles viae eius / Vnde dictum est in Psalmo, Iudicia tua sicut multa abyssus; non 
+      <lb ed="#L" n="9"/>ergo me fratres ad hanc penetrandam altitudinem, ad hanc abyssum discutiendam, ad 
+      in<lb ed="#L" n="10" break="no"/>scrutabilia perscrutanda expectatio vestrae charitatis impingat; agnosco modulum meum, 
+      <lb ed="#L" n="11"/>sentire mihi videor etiam modulum vestrum: altius est hoc incrementis meis, &amp; fortius 
+      viri<lb ed="#L" n="12" break="no"/>bus meis, puto quia &amp; vestris; simul ergo audiamus admonentem scripturam atque 
+      dicen<lb ed="#L" n="13" break="no"/>tem, Altiora te ne quaesieris, &amp; fortiora te ne serutatus fueris, non quia ista negata sunt 
+      no<lb ed="#L" n="14" break="no"/>bis, cum Deus Magister dicat, Nihil est occultum quod non reuelabitur; sed si in quid 
+      per<lb ed="#L" n="15" break="no"/>uenimus in eo ambulemus, sicut dicit Apostolus, Non solum quod nescimus &amp; scire 
+      debe<lb ed="#L" n="16" break="no"/>mus, sed etiam si quid aliter sapimus, id quoque Deus nobis reuelabit: peruenimus autem 
+      <lb ed="#L" n="17"/>in viam fidei, hanc perseuerantissime teneamus; ipsa perducet ad cubiculum Regis in quo 
+      <lb ed="#L" n="18"/>sunt omnes thesauri sapientiae &amp; scientiae absconditi. Ambulandum est, proficiendum est,  
+      <lb ed="#L" n="19"/>crescendum est, vt sint corda nostra capacia earum rerum quas capere modo non possumus: 
+      <lb ed="#L" n="20"/>quod si nos vltimus dies proficientes inuenerit, ibi discemus quod hic non potuimus, Si quis 
+      <lb ed="#L" n="21"/>autem istam quaestionem liquidius &amp; melius nouit se posse &amp; confidit exponere, absit vt non  
+      <lb ed="#L" n="22"/>sim paratior discere quam docere; vnde &amp; apparet huius imateriae maxima difficultas. Huic 
+      <lb ed="#L" n="23"/>autem Apostolo concordat &amp; coapostolus eius Petrus, Iesum, inquiens, Nazxarenum 
+      inter<lb ed="#L" n="24" break="no"/>emistis, quem Deus suscitauit, solutis doloribus Inferni, iuxta quod impossibile erat teneri 
+      <lb ed="#L" n="25"/>illum ab eo: Dauid enim dicit in eum, Prouidebam Dominum coram me semper, quoniam 
+      <lb ed="#L" n="26"/>a dextris meis est ne commoueat; propter hoc laetatum est cor meum, &amp; exultauit lingua 
+      <lb ed="#L" n="27"/>mea, insuper &amp; caro mea requiescet in spe, quoniam non derelinques animam meam in 
+      In<lb ed="#L" n="28" break="no"/>ferno, nec dabis sanctum tuum videre corruptionem: Notas mihi fecisti vias vitae, replebis 
+      <lb ed="#L" n="29"/>me iucunditate cum facie tua, Act. 2. Et ecce maior ambobus qui ait, Non potest solui 
+      Scrip<lb ed="#L" n="30" break="no"/>tura, Ioh. 10. a quo &amp; multa similia 27. huius plenius allegantur; qui &amp; Luc. 24. ait, Necesse 
+      <lb ed="#L" n="31"/>est impleri omnia quae scripta sunt in lege Mosis, &amp; Prophetis, &amp; Psalmis de me. Quod etiam 
+      <lb ed="#L" n="32"/>prophetiae necessario implebuntur, testari videntur loca Scripturae dicentia, Hoc &amp; illud 
+      fa<lb ed="#L" n="33" break="no"/>ctum est vt impleretur Scriptura, prophetia, seu sermo Prophetae: si oportet seu oportuit 
+      im<lb ed="#L" n="34" break="no"/>pleri Scripturam, necesse est impleri Scripturam &amp; similia; vnde Matth. 1. Hoc autem totum 
+      <lb ed="#L" n="35"/>factum est, scilicet incarnatio Iesu Christi, vt adimpleretur quod dictum est a Domino per 
+      <lb ed="#L" n="36"/>Prophetam dicentem, Ecce virgo in vtero habebit &amp;c. Glossa, Prophetia alia est ex 
+      prae<lb ed="#L" n="37" break="no"/>destinatione Dei, quam necesse est euenire omnibus modis, vt sine nostro impleatur arbitrio, 
+      <lb ed="#L" n="38"/>vt haec de qua hic agitur: alia est ex praescientia Dei, cui nostrum admiscetur arbitrium; alia 
+      <lb ed="#L" n="39"/>est quae comminatio dicitur, quae fit ob signum diuinae animaduersionis, vt fugiant a facie 
+      <lb ed="#L" n="40"/>arcus electi, &amp; iuste pereant incauti; &amp; non est ex praescientia, quia longe aliter praescitur 
+      <lb ed="#L" n="41"/>quam futurum comminetur; quam &amp; paene sub eisdem verbis recitat glossa Thomae. Et 
+      in<lb ed="#L" n="42" break="no"/>fra 2I. Hoc autem totum factum est, vt adimpleretur quod dictum est per Prophetam 
+      dicen<lb ed="#L" n="43" break="no"/>tem, Dicite filiae Sion, Ecce Rex tuus venit tibi mansuetus, sedens super asinam &amp; pullum 
+      <lb ed="#L" n="44"/>filium subiugalis; &amp; adhuc inferius 26. Petro volenti Dominum capiendum defendere, ait,  
+      <lb ed="#L" n="45"/>Conuerte gladium tuum, &amp;c. An putas quod non possum rogare Patrem meum, &amp; 
+      exhibe<lb ed="#L" n="46" break="no"/>bit modo mihi plusquam duodecim legiones Angelorum? Quomodo ergo implebuntur 
+      <lb ed="#L" n="47"/>scripturae Prophetarum, quia sic oportet fieri? Marci quoque 14. scribitur, Tanquam ad 
+      Ia<lb ed="#L" n="48" break="no"/>tronem existis cum gladijs, &amp;c. Quotidie eram apud vos in Templo docens, &amp; non me 
+      tenu<lb ed="#L" n="49" break="no"/>istis, sed vt adimplerentur Scripturae. Item Ioh. 19. dixerunt ad inuicem, Non scindamus H 
+      <lb ed="#L" n="50"/>eam, sed fortiamur de ea cuius sit, vt Scriptura impleretur dicens, Partiti sunt vestimenta 
+      <lb ed="#L" n="51"/>mea, &amp; in vestem meam miserunt fortem. Et inferius, Vt consummaretur Scriptura, dicit, 
+      <lb ed="#L" n="52"/>Sitio. Amolius Luc. 24. Ostulti &amp; tardi corde ad credendum in omnibus quae loquuti sunt 
+      <lb ed="#L" n="53"/>Prophetae ? Nonne haec oportuit pati Christum, &amp; ita intrare in gloriam suam? Et Ioh. 20. 
+      <lb ed="#L" n="54"/>Nondum enim sciebant Scripturam quia oportebat eum a morte resurgere. Beatus quoque 
+      <lb ed="#L" n="55"/>Petrus Act. 1. dicit; Fratres, oportet impleri Scripturam quam pedixit Spiritus Sanctus per 
+      <lb ed="#L" n="56"/>os Dauidis de Iuda. Hoc autem verbum, oportet, necessitatem importat; vnde Isidorus 
+      su<lb ed="#L" n="57" break="no"/>per illud Lucae 24. Nonne haec oportuit pati Christum, sicut allegatur in glossa Thomae, sic 
+      <lb ed="#L" n="58"/>ait, Sed si oportebat Christum pati, tamen qui crucifixerunt rei sunt: non enim satagebant  
+      <!--834.xml-->
+      <pb ed="#A" n="801"/>
+               <lb ed="#L" n="1"/>perficere quod Deus disponebat; vnde &amp; eorum executio fuit impia. Et ecce maior Isidoro 
+      <lb ed="#L" n="2"/>lesus Christus exponens, oportet, per necesse est; Haec, inquiens, sunt verba, quae loquutus 
+      <lb ed="#L" n="3"/>sum ad vos, cum adhuc essem vobiscum, scilicet in carne mortali, secundum Bedam, 
+      quo<lb ed="#L" n="4" break="no"/>niam necesse est impleri omnia quae scripta sunt in lege Mosis, &amp; Prophetis, &amp; Psalmis de me, 
+      <lb ed="#L" n="5"/>Luc. 24. Quando autem fuit cum eis in carne mortali dixit eis, oportere filium hominis 
+      mul<lb ed="#L" n="6" break="no"/>ta pati atque resurgere, sicut patet Matth. 16. Marc. 8. &amp; Luc. 9. &amp; verisimile est quod non  
+      <lb ed="#L" n="7"/>tantum simpliciter hoc eis praedixit, sed &amp; per Scripturas ostendit, sicut Lucas innuit 
+      mani<lb ed="#L" n="8" break="no"/>feste: quare &amp; Matthaeus vbi prius, Coepit, inquit, Iesus ostendere discipulis suis, quia 
+      opor<lb ed="#L" n="9" break="no"/>teret eum ire Hierosolymam &amp; multa pati; &amp; Marci 8. Coepit, inquit, docere eos, quoniam 
+      <lb ed="#L" n="10"/>oportet filium multa pati, &amp;c. &amp; infra 9. ait illis, quomodo scriptum est in filium hominis 
+      <lb ed="#L" n="11"/>vt multa patiatur; &amp; Luc. 18. Assumsit Iesus duodecim, &amp; ait illis, Ecce ascendimus 
+      Hiero<lb ed="#L" n="12" break="no"/>solymam, &amp; consummabuntur omnia quae scripta sunt per Prophetas de filio hominis; 
+      Tra<lb ed="#L" n="13" break="no"/>detur enim gentibus, &amp;c. Quare secundum expositionem verissimam veritatis idem est 
+      opor<lb ed="#L" n="14" break="no"/>tere &amp; necesse esse, quod etiam ex verbis suis Luc. 24. patet; Ostulti, inquit, &amp; tardi, &amp;c. 
+      <lb ed="#L" n="15"/>nonne haec oportuit pati Christum, &amp;c. &amp; incipiens a Mose &amp; omnibus Prophetis, &amp;c. Et  
+      <lb ed="#L" n="16"/>infra eodem, Necesse est impleri omnia, quae scripta sunt in lege Mosis &amp; Prophetis, &amp;c. Et  
+      <lb ed="#L" n="17"/>adhuc inferius; Tunc aperuit illis sensum, vt intelligerent Scripturas, &amp; dixit eis, quoniam 
+      <lb ed="#L" n="18"/>sic scriptum est, &amp; sic oportebat Christum pati, &amp;c. Apparet ergo euidenter quod 
+      alterna<lb ed="#L" n="19" break="no"/>tim &amp; indifferenter pro eodem sensu vtitur illis verbis, &amp; quod // verus sensus veraque 
+      intelli<lb ed="#L" n="20" break="no"/>gentia Scripturarum est, quod omnes propheticas Scripturas de Christo oportuit necessario 
+      <lb ed="#L" n="21"/>adimpleri. Hoc idem euidenter apparet per modum loquendi communem quasi omnium 
+      <lb ed="#L" n="22"/>Prophetarum: praedicunt namque frequenter futura per modum praeteriti, &amp; sub verbis 
+      prae<lb ed="#L" n="23" break="no"/>teriti temporis, sicut ostendunt plurimae prophetiae; quod ideo faciunt secundum 
+      expo<lb ed="#L" n="24" break="no"/>sitionem Doctorum, quia ita certa sunt saltem apud Deum, &amp; apud Prophetam, ac si 
+      <lb ed="#L" n="25"/>essent praeterita &amp; iam facta: vnde Propheta Psalmo 3. in persona Christi, Ego, inquit,  
+      <lb ed="#L" n="26"/>dormiui &amp; soporatus sum, &amp; exurrexi 1v. Super quod Augustinus 17. de Ciuitate Dei 18. 
+      <lb ed="#L" n="27"/>An forte, inquit, quisquam ita desipit, vt credat velut aliquid magnum nobis indicare 
+      <lb ed="#L" n="28"/>voluisse Prophetam, quod dormierit, &amp; exurrexerit, nisi somnus iste mors esset, &amp; euigilatio 
+      <lb ed="#L" n="29"/>resurrectio, quam de Christo sic potuit prophetati? Nam &amp; in quadragesimo multo 
+      mani<lb ed="#L" n="30" break="no"/>festius id ostenditur, vbi ex persona eiusdem Mediatoris more solito tanquam praeterita 
+      nar<lb ed="#L" n="31" break="no"/>rantur quae futura praenotabantur; quoniam quae ventura erant, iam in praedestinatione &amp; 
+      <lb ed="#L" n="32"/>praescientia Dei velut facta erant, Inimici, inquit, mei dixerunt mala mihi, &amp;c. Idem super 
+      <lb ed="#L" n="33"/>illud Psalmi 43. Saluos enim fecisti nos ex affligentibus nos, &amp;c. Hoc inquit figura 
+      praete<lb ed="#L" n="34" break="no"/>riti de futuro dicitur, sed ideo tanquam praeteritum dicitur, quia tam certum est quasi factum 
+      <lb ed="#L" n="35"/>sit. Intendite quare pleraque Prophetae ita dicunt tanquam praeterita sint, cum 
+      praenuntien<lb ed="#L" n="36" break="no"/>tur futura non facta. Nam &amp; de ipso Domino futura passio praenuntiabatur, &amp; tamen 
+      fode<lb ed="#L" n="37" break="no"/>runt, inquit, manus meas &amp; pedes meos, dinumerauerunt omnia ossa mea: non dixit, 
+      fodi<lb ed="#L" n="38" break="no"/>ent &amp; dinumerabunt: Ipsi vero considerauerunt &amp; conspexerunt me: non dixit, 
+      considera<lb ed="#L" n="39" break="no"/>bunt, &amp; aspicient: Diuiserunt sibi vestimenta mea: non dixit, diuident: Omnia ista tanquam  
+      <lb ed="#L" n="40"/>praeterita dicuntur, cum futura sint, quia Deo &amp; futura tam certa sunt tanquam praeterita 
+      <lb ed="#L" n="41"/>sint; nobis enim ea quae praeterita sunt, certa sunt, &amp; quae futura, incerta sunt: nouimus enim 
+      <lb ed="#L" n="42"/>aliquid accidisse, &amp; non potest fieri, vt non acciderit, quod accidit. Da Prophetam, cui non 
+      <lb ed="#L" n="43"/>tam certum sit futurum, quam tibi praeteritum, &amp; quam tibi quod meministi factum non 
+      po<lb ed="#L" n="44" break="no"/>test fieri vt non sit factum; tam illi quod nouit futurum, non potest fieri vt non fiat. Vbi &amp; 
+      <lb ed="#L" n="45"/>Cassiodorus, Tu solus, inquit, saluabis nos, &amp; odientes nos confundes, ita videretur debe 
+      <lb ed="#L" n="46"/>re dicere; sed quoniam futurum ita certum est, sicut praeteritum, quod non fuisse non 
+      po<lb ed="#L" n="47" break="no"/>test, dicit, saluasti, &amp; confundisti. Item Augustinus exponendo titulum Psalmi 84. Cantat,  
+      <lb ed="#L" n="48"/>inquit, Propheta in futurum, &amp; vtitur verbis quasi iam praetetiti temporis; tanquam facta 
+      <lb ed="#L" n="49"/>dicit, quae futura erant, quia apud Deum, &amp; quod futurum est iam factum est; ibi ergo 
+      Pro<lb ed="#L" n="50" break="no"/>pheta videbat futura nobis, iam vero facta in illius prouidentia &amp; praedestinatione 
+      certissima<lb ed="#L" n="51" break="no"/>Idem de Agone Christiano, Sic loquuntur Scripturae vt praeteritum tempus pro futuro 
+      insi<lb ed="#L" n="52" break="no"/>nuent; sicut quod dixit Apostolus, quod simul nos sedere fecit in coelestibus, nondum 
+      fa<lb ed="#L" n="53" break="no"/>ctum est, sed quia certissimum est futurum, ita dictum est quasi iam factum sit. Idem de 
+      cor<lb ed="#L" n="54" break="no"/>reptione &amp; gratia 33. tractans illam autoritatem Apostoli ad Romanos cap. 8. Quos 
+      praede<lb ed="#L" n="55" break="no"/>stinauit, hos &amp; vocauit, &amp;c. Non in omnibus, inquit, haec facta sunt: adhuc enim vsque in 
+      <lb ed="#L" n="56"/>finem saeculi multi vocandi &amp; iustificandi sunt, &amp; tamen verba praeteriti temporis posuit 
+      eti<lb ed="#L" n="57" break="no"/>am de futuris rebus, tanquam fecerit Deus, quae iam vt fierent, ex aeternitate disposuit. Ideo 
+      <lb ed="#L" n="58"/>de illo dicit &amp; Propheta Esaias, Qui fecit quae ventura sunt; futura ergo prophetica sunt 
+      <!--835.xml-->
+      <pb ed="#A" n="802"/>
+               <lb ed="#L" n="1"/>apud Deum in aeternitate quasi praeterita, quare &amp; simili necessitate firmata. Quamobrem  
+      <lb ed="#L" n="2"/>&amp; statim tricesimo quarto ex istis immediate concludit; Quicunque ergo in Dei 
+      prouiden<lb ed="#L" n="3" break="no"/>tissima dispositione praesciti, praedestinati, vocati, iustificati sunt &amp; glorificati, non dico 
+      <lb ed="#L" n="4"/>etiam nondum renati, sed etiam nondum nati, iam filij Dei sunt, &amp; ideo omnino perire 
+      <lb ed="#L" n="5"/>non possunt. Cui &amp; concordanter Anselmus de Concord. 3. eandem autoritatem 
+      per<lb ed="#L" n="6" break="no"/>tractans sic ait; Vt autem ostenderet idem Apostolus, non illa verba se pro temporali 
+      sig<lb ed="#L" n="7" break="no"/>nificatione posuisse, illa etiam quae futura sunt, praeteriti verbo temporis pronuntiauit: 
+      <lb ed="#L" n="8"/>nondum enim quos praesciuit adhuc nascituros, sic iam temporaliter vocauit, iustificauit,  
+      <lb ed="#L" n="9"/>magnificauit; vnde cognosci potest eum propter indigentiam verbi significantis aeternam 
+      <lb ed="#L" n="10"/>praesentiam vsum esse verbis praeteritae significationis; quoniam quae tempore praeterita 
+      <lb ed="#L" n="11"/>sunt ad similitudinem aeterni praesentis omnino immutabilia sunt. In hoc siquidem 
+      ma<lb ed="#L" n="12" break="no"/>gis similia sunt aeterno praesenti temporaliter praeterita quam praesentia; quoniam quae 
+      <lb ed="#L" n="13"/>ibi, scilicet in aeternitate sunt, nunquam possunt non esse praesentia, sicut temporis 
+      prae<lb ed="#L" n="14" break="no"/>terita non valent vnquam non esse praeterita; praesentia vero tempore omnia quae 
+      trans<lb ed="#L" n="15" break="no"/>cunt, fiunt non praesentia; futura igitur huiusmodi prophetata apud Deum in aeternitate, 
+      <lb ed="#L" n="16"/>&amp; praeterita in tempore simili necessitate firmantur. Amplius autem si prophetiae 
+      pos<lb ed="#L" n="17" break="no"/>sent falsari, &amp; nunc non esse verae, nec vnquam fuisse verae, nullus deberet illas firmissime 
+      <lb ed="#L" n="18"/>asserere, nec cum simplici iuramento; non enim sunt verae firmissime: exponeretque se 
+      <lb ed="#L" n="19"/>periculo periurij &amp; peccati. Sed quis Catholicus pro conuersione vnius infidelis nolentis 
+      <lb ed="#L" n="20"/>conuerti ad fidem Catholicam, nisi per assertionem firmissimam, &amp; cum absoluto &amp; 
+      sim<lb ed="#L" n="21" break="no"/>plici iutamento de resurrectione &amp; beatificatione finali haec facere dubitaret, sicut &amp; 
+      Do<lb ed="#L" n="22" break="no"/>minus saepe fecit, dicendo, Amen, Amen dico vobis, quia sic &amp; sic erit, sicuti &amp; 
+      frequen<lb ed="#L" n="23" break="no"/>ter dicunt Prophetae, Iurauit Dominus hoc &amp; illud? Quanta etiam securitate dicit 
+      Aposto<lb ed="#L" n="24" break="no"/>lus, Licet nos, aut Angelus de Coelo Euangelizauerit vobis, praeterquam quod 
+      Euangeli<lb ed="#L" n="25" break="no"/>zauimus vobis, anathema sit? Cuius causam post pauca subiungit; Notum enim vobis 
+      <lb ed="#L" n="26"/>facio, Fratres, Euangelium quod Euangelizatum est a me, quia non est secundum 
+      homi<lb ed="#L" n="27" break="no"/>nem: neque enim ego ab homine accepi illud, neque didici, sed per reuelationem Iesu 
+      <lb ed="#L" n="28"/>Christi, ad Galath. 1. Glossa, Nota quod non ideo ait nos, vel Angelus qui bonus potest 
+      <lb ed="#L" n="29"/>intelligi, quod vnquam contingat hoc, sed a Deo certus est de veritate Euangelij sui; quod 
+      <lb ed="#L" n="30"/>etiam si Angelus aliud nuntiaret, non crederet, sed anathematizaret. Amplius si Prophetae 
+      <lb ed="#L" n="31"/>possunt falsari, potest &amp; sacra Scriptura; est ergo sacra Theologia incertior, infirmior, 
+      in<lb ed="#L" n="32" break="no"/>ferior, &amp; indignior facultatibus alijs quae non possunt. Rursum si sacra Scriptura potest 
+      fal<lb ed="#L" n="33" break="no"/>sari, quae nobis securitas in hac vita? Haec enim est totius vitae humanae doctrix &amp; ductrix. 
+      <lb ed="#L" n="34"/>speculum &amp; registrum. Quae securitas possibilis homini in promissis diuinis, si Deus 
+      om<lb ed="#L" n="35" break="no"/>nem librum, omne pactum, quodlibet chirographum, quodlibet instrumentum 
+      quantum<lb ed="#L" n="36" break="no"/>libet solennizatum testibus, signis, etiam iuramento, quodlibet testamentum etiam morte T 
+      <lb ed="#L" n="37"/>testatoris firmatum, possit absque mendacio, culpa, vel causa recidere, violare, abradere, 
+      <lb ed="#L" n="38"/>cancellare, infringere, &amp; falsare? Quomodo ergo posset esse contractus tutus cum eo? 
+      <lb ed="#L" n="39"/>Imo incomparabiliter minus tutus contractus esset homini cum Deo qui mentiri &amp; peccare 
+      <lb ed="#L" n="40"/>non potest, quam cum alio homine qui haec potest. Nam Deus si secundum hypothesin 
+      <lb ed="#L" n="41"/>potest in oppositum cuiuscunque quocunque pacto promissi, hoc potest sine duplicitate 
+      <lb ed="#L" n="42"/>aut mutatione, sine mendacio, periurio, aut peccato, potestque nunquam taliter contraxisse; 
+      <lb ed="#L" n="43"/>sed nullus homo sic potest; quare quilibet homo contra quemlibet hominem taliter 
+      con<lb ed="#L" n="44" break="no"/>trahentem, nec contractum implentem potest habere remedium, &amp; recursum agendo 
+      con<lb ed="#L" n="45" break="no"/>tra eum de periurio, de violatione fidei &amp; contractus. Hoc ergo videtur colorem 
+      vni<lb ed="#L" n="46" break="no"/>formem sacrae Scripturae pulcherrimum turpibus maculis variare, odorem eius 
+      gratissi<lb ed="#L" n="47" break="no"/>mum fumis putridis permutare, saporem eius dulcissimum venenosis poculis fermentare. 
+      <lb ed="#L" n="48"/>De huius ergo viae viris non tacuit Apostolus; Commutauerunt, inquit, veritatem Dei in 
+      <lb ed="#L" n="49"/>mendacium, ad Romanos I. &amp; 2. ad Corinth. 2. Non sumus sicut plurimi adulterantesP 
+      <lb ed="#L" n="50"/>verbum Dei: haec enim faciunt qui Scripturam veracem in // mendacem commutant, &amp; Scrip 
+      <lb ed="#L" n="51"/>turam, virginem incorruptam, in adulteram meretricem. Non sic Autor eius &amp; testes. 
+      <lb ed="#L" n="52"/>Non potest, inquit Christus, solui Scriptura quam Pater sanctificauit &amp; misit in mundum, 
+      <lb ed="#L" n="53"/>Iohan. 10. Nec vlli dubium Christiano, quin testimonium Domini fidele. Ipse enim testis 
+      <lb ed="#L" n="54"/>in coelo fidelis; testimonia igitur sua credibilia facta sunt nimis. Hoc etiam plane 
+      pro<lb ed="#L" n="55" break="no"/>bant quae de Psalmo 88. erant superius allegata. Quare &amp; Augustinus super illud Psalmi 
+      <lb ed="#L" n="56"/>I44. Fidelis Dominus in verbis suis, sic ait: Quid enim promisit, &amp; non dedit? Adhuc 
+      <lb ed="#L" n="57"/>quaedam promisit, &amp; non dedit; sed credatur illi ex his quae dedit. Possemus illi credere 
+      <lb ed="#L" n="58"/>tantummodo dicenti; Noluit sibi credi dicenti, sed voluit teneri Scripturam suam; quo¬ 
+      <!--836.xml-->
+      <pb ed="#A" n="803"/>
+               <lb ed="#L" n="1"/>modo si diceres alicui homini, cum aliquid promitteres, Non mihi credis? ecce scribo tibi. 
+      </p>
+            <p xml:id="dcn2br-e04680-d1e1178">
+               <lb ed="#L" n="2"/>Etenim quia generatio vadit, &amp; generatio venit, &amp; sic transcurrunt ista saecula, cedentibus 
+      <lb ed="#L" n="3"/>succedentibusque mortalibus, Scriptura Dei manere debuit, &amp; quoddam chirographum 
+      <lb ed="#L" n="4"/>Dei, quod omnes transeuntes legerent, &amp; viam promissionis eius tenerent, &amp; quanta sunt 
+      <lb ed="#L" n="5"/>quae reddidit ex isto chirographo. Dubitant homines credere illi de resurrectione 
+      mortuo<lb ed="#L" n="6" break="no"/>rum, &amp; de futuro saeculo, quod solum iam reddendum restat; per omnes generationes 
+      red<lb ed="#L" n="7" break="no"/>didit quae scripta sunt, &amp; quod restat non ei creditur, his omnibus redditis? Ecce fecisti 
+      rati<lb ed="#L" n="8" break="no"/>onem; tanta reddidit, nunquid propter pauca residua infidelis est factus? Absit; quare? 
+      <lb ed="#L" n="9"/>Quia fidelis Dominus in verbis suis, &amp; sanctus in omnibus operibus suis. Ecce quod 
+      Augu<lb ed="#L" n="10" break="no"/>stinus expresse supponit, quod si Deus non reddat in chirographo sacrae Scripturae promissa, 
+      <lb ed="#L" n="11"/>ipsum fieri infidelem; sed hoc est impossibile manifestum; quare necesse est eum fideliter 
+      <lb ed="#L" n="12"/>reddere quaecunque per Scripturam suam canonicam repromisit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

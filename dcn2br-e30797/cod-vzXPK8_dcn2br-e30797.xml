@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 19</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 19</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="224"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e30797"><!-- l1c19 -->
+            <head xml:id="dcn2br-e30797-Hd1e106">Caput 19</head>
+            <p xml:id="dcn2br-e30797-d1e109">
+               <lb ed="#L" n="31"/>CAP. XIX. 
+      <lb ed="#L" n="32"/>Obiicit &amp; respondet.
+    </p>
+            <p xml:id="dcn2br-e30797-d1e116">
+               <lb ed="#L" n="33"/>VT autem haec praedicta magis appareant, paruo disputationis serutinio 
+      <lb ed="#L" n="34"/>sunt rimanda. Arguitur, quod Intellecta posteriora sunt causa 
+      intel<lb ed="#L" n="35" break="no"/>lectionis diuinae. Omne enim quod mouet intellectum ad 
+      intellectio<lb ed="#L" n="36" break="no"/>nem, est causa intellectionis illius, quare &amp; suae scientiae: sed omne 
+      in<lb ed="#L" n="37" break="no"/>tellectum a Deo mouet intellectum diuinum; omne enim intellectum 
+      <lb ed="#L" n="38"/>mouet intelligentem &amp; eius intellectum, vt patet 3. de Anima, quasi 
+      <lb ed="#L" n="39"/>per totum; &amp; 12. Metaph. 37. dicit noua transtatio, Intellectus 
+      au<lb ed="#L" n="40" break="no"/>tem ab intelligibili mouetur; Et transtatio quam Commentator 
+      expo<lb ed="#L" n="41" break="no"/>nit, Intellectus vero est ex intellecto, quod Auerroes sic exponit, id est essentia intellectus est 
+      <lb ed="#L" n="42"/>in intellecto. Item illud quod est naturaliter prius alio, &amp; prius necessario requisitum est ad  
+      <lb ed="#L" n="43"/>aliud, est aliqua eius causa, sicut ex praedictis apparet, sed intelligibile &amp; scibile sic se habet ad  
+      <lb ed="#L" n="44"/>intellectum &amp; scientiam Dei, sicut 13. &amp; 17. capitula praemonstrarunt. Item rem esse, vel 
+      <lb ed="#L" n="45"/>non esse est causa veritatis, &amp; veritas est causa scientiae, non e contra. Item cognitio 
+      incom<lb ed="#L" n="46" break="no"/>plexorum est causa scientiae complexae, scientia ergo Dei complexa causatur a scitis. Item I 
+      <lb ed="#L" n="47"/>videtur quod diuina scientia non sit causa scitorum, quia tuuc cum semper sciat aequaliter  
+      <lb ed="#L" n="48"/>omnia, omnia semper aequaliter causarentur. Et tunc cum aequaliter sciat non entia sicut 
+      en<lb ed="#L" n="49" break="no"/>tia, ipsa etiam aequaliter vt entia causarentur. Item posterius non est causa prioris; sed 
+      intel<lb ed="#L" n="50" break="no"/>lectio, &amp; scientia est posterius intelligibili &amp; scibili: sequitur enim, Intellectio &amp; scientia est,  
+      <lb ed="#L" n="51"/>ergo intelligibile &amp; scibile est, &amp; non conuertitur, saltem formaliter; ergo secundum illam 
+      <lb ed="#L" n="52"/>regulam logicalem in praedicamentis, intelligibile &amp; scibile est prius intellectione &amp; scientia; 
+      <lb ed="#L" n="53"/>quare &amp; haec posteriora sunt illis. Item, sicut intellectus est prior naturaliter voluntate, sic 
+      <lb ed="#L" n="54"/>&amp; cognoscere prius velle: Nullus etenim potest velle nisi praecognitum, quare &amp; scire, ac 
+      pre<lb ed="#L" n="55" break="no"/>scire quodcunque complexum, quam velle illud, aut velle sic esse. Adhuc autem, tunc Deus 
+      <!--258.xml-->
+      <pb ed="#A" n="225"/>
+               <lb ed="#L" n="1"/>praesciter futura per talem discursum; Quicquid volo fieri, fiet; hoc volo fieri, ergo fiet; 
+      sic<lb ed="#L" n="2" break="no"/>que esset aliquo modo potentialis, &amp; non summe actualis, contra primam Suppositionem, &amp;  
+      <lb ed="#L" n="3"/>tertiam partem corollarij primi huius. Praeterea, dicit Origenes super Epistolam ad 
+      Roma<lb ed="#L" n="4" break="no"/>nos, quod non propterea aliquid erit, quia illud scit Deus futurum; sed quia futurum est, ideo 
+      <lb ed="#L" n="5"/>fcitur a Deo antequam fiat. Item Augustinus respondendo ad septimam quaestionem 
+      Oro<lb ed="#L" n="6" break="no"/>sij; I Deo, inquit, voluntas fapientiam non potest praeire; ergo prius est rationabiliter 
+      sape<lb ed="#L" n="7" break="no"/>re, quam rationabiliter velle. Item Ecclesiastici primi; Sapientiam Dei praecedentem 
+      om<lb ed="#L" n="8" break="no"/>niaequis inuestigauit? prior omni creata est sapientia: ergo sapientia Dei, &amp; eius scientia 
+      vo<lb ed="#L" n="9" break="no"/>luntatem fuam praecedunt. Amplius autem contra hoc quod dicitur; quod aliqua sunt vera 
+      <lb ed="#L" n="10"/>priora naturaliter voluntate diuina, quia tunc eadem ratione aliqua necessaria &amp; impossibilia 
+      <lb ed="#L" n="11"/>essent priora ipsa, quod videtur contra Anselmum I. Cur Deus homo; 17i ficidicentem; 
+      Om<lb ed="#L" n="12" break="no"/>nis quippe necessitas &amp; imposcibilitas eius subiacet voluntati, illius autem, voluntas nulli 
+      <lb ed="#L" n="13"/>subditur necessitati, aut impossibilitati: Nihil enim est necessarium, aut impossibile, nisi 
+      <lb ed="#L" n="14"/>quia ipse ita vult; ipsum vero aut velle aut nolle aliquid propter necessitatem, alienum est 
+      <lb ed="#L" n="15"/>a veritate. 
+      </p>
+            <p xml:id="dcn2br-e30797-d1e205">
+               <lb ed="#L" n="16"/>Pro primo autem istorum sciendum, quod aliquid mouere aliud dupliciter potest intelligis 
+      <lb ed="#L" n="17"/>proprie scilicet, aut metaphorice: proprie sicut est in mouentibus &amp; motis realiter &amp; proptie, 
+      <lb ed="#L" n="18"/>vt loquitur Philosophus in libro Physic, quasi per totum: metaphorice, sicut finis dicitur 
+      mo<lb ed="#L" n="19" break="no"/>uere; &amp; omne apparens bonum vel malum mouet ad prosecutionem vel fugam, vt loquitur 
+      <lb ed="#L" n="20"/>3. de Anima, 7. Eth. 12. Metaph. &amp; alibi multis locis. Vnde &amp; primo Degeneratione 7. 
+      po<lb ed="#L" n="21" break="no"/>nit distinctionem istam sub his verbis; Est enim factiua causa, vt vnde principium motus, 
+      sci<lb ed="#L" n="22" break="no"/>licet proprie, cuius autem gratia, id est, finalis, non factiua; ideo sanitas non factiuum est, nisi 
+      <lb ed="#L" n="23"/>secundum Metaphoram. Proprie ergo loquendo non est verum, quod omne intellectum 
+      <lb ed="#L" n="24"/>mouet intelligentem: Multa enim intelligo, quae omnino non sunt, quare &amp; omnino 
+      pro<lb ed="#L" n="25" break="no"/>prie mouere non possunt. Multa etiam existentia intelligo, quae proprie me non mouent: 
+      in<lb ed="#L" n="26" break="no"/>telligo enim Phoenicem Arabiae, &amp; mirabilia Indiae, &amp; quomodo mouerent haec proprie, me 
+      <lb ed="#L" n="27"/>existentem Oxoniae, cum secundum Philosophum 7. Phys. In omni motu mouens &amp; 
+      mo<lb ed="#L" n="28" break="no"/>tum sunt simul, vel secundum seipsa, vel faltem secundum medium quod immediate 
+      moue<lb ed="#L" n="29" break="no"/>tur a primo mouente, &amp; immediate mouet vltimum motum virtute primi mouentis, vt patet 
+      <lb ed="#L" n="30"/>2. de Anima v4. Haec autem nec immediateme mouent, nec sufficiunt totum medium 
+      alte<lb ed="#L" n="31" break="no"/>rare: Metaphorice vero loquendo verum est, omne intellectum mouere intelligentem, non 
+      <lb ed="#L" n="32"/>quia ipsum proorie, sed quia eius fimilitudo, intentio, seu imago, in virtute memoratiua, 
+      ima<lb ed="#L" n="33" break="no"/>ginatiua, vel in ipso intellectumouet quodammodo intelligentem ad intelligendum, sicut 
+      se<lb ed="#L" n="34" break="no"/>cundum autoritatem Philosophi, finis &amp; sanitas non existens mouet hominis voluntatem, 
+      <lb ed="#L" n="35"/>non autem hi proprie, sed multum metaphorice, quia cognitio horum tantummodo mouet  
+      <lb ed="#L" n="36"/>quempiam ad volendum, &amp; voluntas sic mota mouet ad vlterius persequendum: quare &amp; 
+      fi<lb ed="#L" n="37" break="no"/>nis dicitur saepe a Philosopho primum mouens. Intellecta igitur a Deo mouent intellectum 
+      <lb ed="#L" n="38"/>diuinum non proprie, sed tantum metaphorice, quia ideae &amp; similitudines eorum in Deo, id 
+      <lb ed="#L" n="39"/>est, diuina essentia, quae omnia intelligibilia distinctissime repraesentat, mouent seu mouet  
+      <lb ed="#L" n="40"/>quodammodo intellectum diuinum ad intelligendum intelligibilia vniuersa; &amp; quia Deus 
+      <lb ed="#L" n="41"/>has ideas &amp; similitudines habet a seipso tantummodo, &amp; nullo modo a posterioribus 
+      intelle<lb ed="#L" n="42" break="no"/>ctis, non dicitur moueri ab eis ad intelligendum; nisi fortassis multum metaphorice, &amp; minus 
+      <lb ed="#L" n="43"/>proprie vt est dictum. Secundum soluitur per hoc idem; Non enim intelligibile semper 
+      <lb ed="#L" n="44"/>secundum seipsum &amp; proprie est prius intellectione, cum multa non entia non intelligantur, 
+      <lb ed="#L" n="45"/>fed secundum suam ideam, &amp; similitudinem, vt est dictum. Ad tertium similiter est dicendum, 
+      <lb ed="#L" n="46"/>Nulla enim veritas creata est causa proprie dicta diuinae scientiae, sed prima veritas increata, 
+      <lb ed="#L" n="47"/>qua omnia alia vera, sunt vera, sicut superius est ostensum; vel diuina voluntas, quae est causa 
+      <lb ed="#L" n="48"/>infallibilis omnis veritatis creatae, sicut praecedentia docuerunt. Nec ista veritas a 
+      po<lb ed="#L" n="49" break="no"/>sterioribus veris causatur in Deo, sed inest sibi penitus a seipso, quare nec vera 
+      poste<lb ed="#L" n="50" break="no"/>riora causant proprie diuinam scientiam, sed forsitan nimium transumptiue; quia 
+      scili<lb ed="#L" n="51" break="no"/>cet idea, seu imago huius veritatis in mente diuina quodammodo scientiam Dei causat: nec 
+      <lb ed="#L" n="52"/>rem esse, vel non esse, est causa talis veritatis in Deo, vt maior supponit, sed potius este 
+      contra<lb ed="#L" n="53" break="no"/>Quartum soluitur per praedicta: Licet enim cognitio incomplexorum in Deo sit causa suae 
+      <lb ed="#L" n="54"/>scientiae complexae; quia tamen illa cognitio inest sibi tantummodo a seipso, nec acquiritur 
+      <lb ed="#L" n="55"/>ei a cognitis incomplexis, non sequitur quod ipsae causent proprie scientiam Dei complexam. 
+      <lb ed="#L" n="56"/>Quintum vero per hoc soluetur, quod diuina scientia cognitionis solius, seu simplicis notitise 
+      <lb ed="#L" n="57"/>non est sufficiens causa rerum, sed cum ea requiritur etiam scientia approbationis, &amp; 
+      benepla<lb ed="#L" n="58" break="no"/>citum voluntatis, vel aliquis talis actus in voluntate diuina. Sextum soluitur per hoc idem. 
+      <!--259.xml-->
+      <pb ed="#A" n="226"/>
+               <lb ed="#L" n="1"/>Ad septimum respondendum, per responsionem ad primum, &amp; sequentia argumenta. 
+      In<lb ed="#L" n="2" break="no"/>telligibile enim &amp; scibile non sunt priora intellectione &amp; scientia proprie, &amp; per seipsa 
+      Mul<lb ed="#L" n="3" break="no"/>ta enim non entia intelliguntur &amp; sciuntur) sed tantum Metaphorice, scilicet secundum 
+      <lb ed="#L" n="4"/>suas similitudines &amp; ideas. Pro octauo est sciendum quod intellectus diuinus prius 
+      quodam<lb ed="#L" n="5" break="no"/>modo naturaliter suo velle, &amp; ideo necessario simpliciter &amp; penitus absolute cognoscit 
+      sim<lb ed="#L" n="6" break="no"/>plici notitia veluti incomplexa, omnia complexa cogitabilia vera vel falsa, possibilia vel 
+      im<lb ed="#L" n="7" break="no"/>possibilia; non tamen notitia complexa adhaesiua, quae scientiae nostrae complexae &amp; 
+      composi<lb ed="#L" n="8" break="no"/>tiuae superius comparatur: Sic enim non scit talia, priusquam per voluntatem suam 
+      antece<lb ed="#L" n="9" break="no"/>denter &amp; causaliter fiant vera, sicut decimum quartum huius pandit? Sic enim &amp; tu 
+      aequali<lb ed="#L" n="10" break="no"/>ter cognoscis in tempore notitia simplici incomplexa, complexionem huiusmodi, Tufacis 
+      <lb ed="#L" n="11"/>hoc aut illud, Tu vis hoc aut illud, priusquam sit ita, sicut quando est ita, non tamen 
+      scien<lb ed="#L" n="12" break="no"/>tia adhaesiua complexa, nisi quando est ita, &amp; postquam est ita, saltem ordine naturali, sicuti 
+      <lb ed="#L" n="13"/>etiam &amp; tales propositiones sunt verae. Neque nonum proedit: Non enim Deus arguitiue E 
+      <lb ed="#L" n="14"/>tantum, &amp; non intuiriue scit futura, sicut Astrologus calculator inclusus scit eclipsin futuram 
+      <lb ed="#L" n="15"/>vel praesentem supra horizontem proprium, vel sub illo, per certam demonstrationem, non 
+      <lb ed="#L" n="16"/>per claram intuitionem; Sed sicut videns Solem, videt eum per speciem eius receptam in 
+      o<lb ed="#L" n="17" break="no"/>culo, priorem naturaliter visione &amp; causam illius, sine quolibet argumento. Non enim ad 
+      <lb ed="#L" n="18"/>hoc quod videat Solem, oportet quod arguat isto modo, Quicunque habet speciem Solis in 
+      <lb ed="#L" n="19"/>oculo, videt Solem; Ego sic habeo: sed statim habita specie Solis in oculo, videt Solem; 
+      <lb ed="#L" n="20"/>Sic &amp; voluntas diuina respectu alicuius futuri, velut propria eius species, repraesentat 
+      intel<lb ed="#L" n="21" break="no"/>lectui diuino illud futurum fore, &amp; ille per illam hoc sine omni discursu immediatissime 
+      com<lb ed="#L" n="22" break="no"/>praehendit, sicut oculus corporalis per speciem Solis, Solem. Illud autem Origenis videtur 
+      <lb ed="#L" n="23"/>solutum capitulo praecedente. Obiiciet quisnam forte, quod Petrus I. sentent. dist. 38. 
+      ali<lb ed="#L" n="24" break="no"/>ter hoc exponit; sed decimum sextum huius respondet. Rursum fortassis obijcitur, quod  
+      <lb ed="#L" n="25"/>quidam alij Doctores, adhuc aliter hoc exponunt, dicentes, quod cum dicitur, quod futurum 
+      <lb ed="#L" n="26"/>est ideo scitur a Deo, hic denotari causam consequentiae, non essendi: sed si Origines 
+      loqua<lb ed="#L" n="27" break="no"/>tur de causa consequendi tantummodo, non essendi, cur dicit, non propterea aliquid erit, 
+      <lb ed="#L" n="28"/>quia illud scit Deus futurum? cum tamen optime consequatur, Deus scit hoc esse futurum, 
+      <lb ed="#L" n="29"/>ergo hoc erit. Adhuc autem potest obijci acrius isto modo, si res prius naturaliter est 
+      futu<lb ed="#L" n="30" break="no"/>ra, quam Deus hoc sciat, &amp; rem esse futuram est causa diuinae praescientiae: simili ratione &amp; res 
+      <lb ed="#L" n="31"/>praesentes prius naturaliter sunt praesentes, quam Deus hoc sciat; &amp; res esse praesentes est 
+      <lb ed="#L" n="32"/>causa scientiae Dei talis, contra decimum quintum &amp; decimum fextum plane. Sed hic 
+      sci<lb ed="#L" n="33" break="no"/>endum rem esse futuram in voluntate &amp; praedestinatione diuina causaliter, non in propria 
+      <lb ed="#L" n="34"/>sua natura extrinsecus, est causa diuinae scientiae seu praescientiae. Ipse namque nullatenus 
+      <lb ed="#L" n="35"/>indiget rebus extrinsecis ad sciendum, sicut praehabita suaserunt, sed omnia futura habet  
+      <lb ed="#L" n="36"/>secum intrinsecus cognitiue, causatiue, intuitiue, seu scientifice ex se tantum, sicque scit 
+      <lb ed="#L" n="37"/>illa, quare &amp; praesentia simili modo intrinsecus omniquaque. Alias namque aliter 
+      intrin<lb ed="#L" n="38" break="no"/>sece primo sciret futura, secundo praesentia, tertio vero praeterita; quare &amp; intrinsece 
+      <lb ed="#L" n="39"/>mutaretur, cuius oppositum, quintum docet. Omni ergo eodem modo intrinsecus sunt 
+      <lb ed="#L" n="40"/>res primo futurae in voluntate diuinae, secundo praesentes, tertio vero praeteritae,: &amp; semper 
+      <lb ed="#L" n="41"/>similiter &amp; aequaliter ei praesentes &amp; cognitae apud eum, &amp; causae suae scientiae, semper 
+      simi<lb ed="#L" n="42" break="no"/>les &amp; aequales. Vnde &amp; Hermes de Verbo aeterno 15. loquens de Mundo &amp; rebus 
+      munda<lb ed="#L" n="43" break="no"/>nis, sic ait, Non erant quando non erant, sed in eoiam tunc erant, vnde nasci habuerunt:  
+      <lb ed="#L" n="44"/>cui multi Philosophi, Theologique concordant. Quare &amp; Sapiens Domino, inquit. Deo 
+      <lb ed="#L" n="45"/>omnia sunt agnita antequam crearentur, sic &amp; post perfectum respicit omnia, sic, inquit,  
+      <lb ed="#L" n="46"/>non aliter intrinsece quouismodo. Adhuc forsitan replicabis, et dices, Si velle Dei est 
+      cau<lb ed="#L" n="47" break="no"/>sa existentiae rerum extra in opere &amp; effectu, est causa immediata existentiae talis rerum, sicut  
+      <lb ed="#L" n="48"/>corollarium decimi huius docet, &amp; est similiter causa scientiae Dei complexae existentiae 
+      re<lb ed="#L" n="49" break="no"/>rum huiusmodi; quare &amp; existentia talis rerum exterior in opere &amp; effectu, est prior 
+      naturali<lb ed="#L" n="50" break="no"/>ter diuina scietia supradicta; quapropter &amp; aliqua causa eius, per decimo tertio &amp; decimo 
+      sep<lb ed="#L" n="51" break="no"/>timo huius praemissa, contra decimum quintum, decimum sextum, &amp; decimum septimum 
+      <lb ed="#L" n="52"/>huius plane. Vel aliter forte dices, scientia Der complexa, est causa existentiae rerum extra, &amp; non 
+      <lb ed="#L" n="53"/>in eodem ordine cum voluntate diuina, cum sit posterior illa causaliter &amp; naturaliter, 
+      secun<lb ed="#L" n="54" break="no"/>dum proximo huius praemissa, nec causa prior naturaliter, sicut per eadem patere videtur. Est 
+      <lb ed="#L" n="55"/>ergo causa rerum posterior naturaliter voluntate diuina, quare &amp; medians inter illam &amp; 
+      hu<lb ed="#L" n="56" break="no"/>iusmodi suum effectum, contra Corollarium decimi praelibatum. Sed quis non videt 
+      pecca<lb ed="#L" n="57" break="no"/>tum primi istorum? Quis enim nescit nusquam sequi, A &amp; B sunt effectus siue causata C 
+      cau<lb ed="#L" n="58" break="no"/>sae, &amp; A est immodiatus, ergo prior B, &amp; causa illius? Cur enim non posset vna causa duos er¬ 
+      <!--260.xml-->
+      <pb ed="#A" n="227"/>
+               <lb ed="#L" n="1"/>fectus immediatos habere, quorum neuter alterius esset causa? Neque sola voluntas diuina 
+      <lb ed="#L" n="2"/>scientiam Dei causat; Nulli enim dubitandum videtur quin intellectus diuinus actum suum 
+      <lb ed="#L" n="3"/>intelligendi, &amp; intellectionem scientificam suam causet. Cur ergo intellectus diuinus intuens 
+      <lb ed="#L" n="4"/>immediate in actum voluntatis diuinae, quo efficit immediate res extra, non possit 
+      imme<lb ed="#L" n="5" break="no"/>diatius, vel saltem ita immediate scire per illum sic fore, esse, aut fuisse exterius, praesertim 
+      <lb ed="#L" n="6"/>cum ille actus voluntatis diuinae intellectui diuino sufficiat ad sciendum, ita videlicet quod 
+      <lb ed="#L" n="7"/>res posteriores, in proprijs suis naturis nihil omnino ad scientiam Dei agant, sicut praehabita 
+      <lb ed="#L" n="8"/>suadebant; imo &amp; immediatior quoquomodo videtur Intellectus diuinus voluntati diuinae, 
+      <lb ed="#L" n="9"/>&amp; actus actui, quam voluntas Dei aut eius volutio rebus extra. Neque scientia Dei 
+      com<lb ed="#L" n="10" break="no"/>plexa videtur causa rerum exterius, nisi quatenus notitiam simplicem incomplexam, &amp; 
+      be<lb ed="#L" n="11" break="no"/>neplacitum seu voluntatem Dei includit. Illud Augustini per hoc soluetur, quod loquitur 
+      <lb ed="#L" n="12"/>ibi de sapientia Dei quoad intra, qua sapit illa quae praecedunt naturaliter voluntatem 
+      diui<lb ed="#L" n="13" break="no"/>nam, cuiusmodi est generatio filij. Non enim voluntate praecedente generat, sed natura, vt 
+      <lb ed="#L" n="14"/>docet Augustinus 15. de Trinit. 20. &amp; scientiae talium non est voluntas Dei causa, sicut 
+      pro<lb ed="#L" n="15" break="no"/>ximum huius pandit. Quaesiuit enim Orosius, An voluntate genuit Pater filium, an 
+      neces<lb ed="#L" n="16" break="no"/>sitate; Respondet Augustinus, quod nec voluntate, nec necessitate, quia necessitas in Deo 
+      <lb ed="#L" n="17"/>non est, &amp; praeire voluntas sapientiam non potest, quae est filius. Aliud Ecclesiastici posset 
+      <lb ed="#L" n="18"/>eodem modo glossari. Videtur enim, quod loquatur ibi de filio qui est Sapientia, de 
+      Sapien<lb ed="#L" n="19" break="no"/>tia Dei Patris, &amp; ideo dicit ibi, Fons sapientiae verbum Dei in excelsis. Aliter potest dici, 
+      <lb ed="#L" n="20"/>quod videtur intelligere, quod sapientia Dei praecedat omnia extra Deum, scilicet omnia 
+      <lb ed="#L" n="21"/>creata, non omnia intra eum. Namque dicit ibi, prior omni creata est sapientia. Et infra 24. 
+      <lb ed="#L" n="22"/>expressius, in persona diuinae sapientiae dicit ita; Ego ex ore altissimi prodiui, primogenita 
+      <lb ed="#L" n="23"/>ante omnem creaturam; Ego feci in Coelis, vt oriretur lumen indeficiens, &amp; sicut nebula 
+      <lb ed="#L" n="24"/>texi omnem terram. Anselmus autem videtur intelligere, de necessitate &amp; impossibilitate 
+      <lb ed="#L" n="25"/>posterioribus voluntate diuina, in rebus creabilibus, vel creatis, qua necessitate secundum 
+      <lb ed="#L" n="26"/>ipsum ibi, necessarium fuit quodammodo Christum mori, &amp; impossibile non mori. Vnde 
+      <lb ed="#L" n="27"/>&amp; statim post praemissa subiungit; quare, quoniam quae vult, &amp; non nisi quae vult, facit, sicut 
+      <lb ed="#L" n="28"/>nulla necessitas, siue impossibilitas praecedit eius velle aut nolle; ita nec eius facere, aut non  
+      <lb ed="#L" n="29"/>facere, quamuis multa velit immutabiliter &amp; faciat.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

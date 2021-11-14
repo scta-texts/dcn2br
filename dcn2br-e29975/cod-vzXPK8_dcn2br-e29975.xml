@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="218"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e29975"><!-- l1c16 -->
+            <head xml:id="dcn2br-e29975-Hd1e106">Caput 16</head>
+            <p xml:id="dcn2br-e29975-d1e109">
+               <lb ed="#L" n="14"/>CAP. XVI. 
+      <lb ed="#L" n="15"/>Contra quosdam dicentes, quod res scitae sunt causae sine 
+      <lb ed="#L" n="16"/>qua non diuinae scientiae, sed non causa. 
+      </p>
+            <p xml:id="dcn2br-e29975-d1e118">
+               <lb ed="#L" n="17"/>SVnt autem quidam claudicantes in duas partes, dicentes scita esse 
+      cau<lb ed="#L" n="18" break="no"/>sam sine qua non diuinae scientiae, sed non causam, qui talem rationem 
+      <lb ed="#L" n="19"/>assignant: Deus non scit sine scitis, ergo scita sunt causae sine qua non 
+      <lb ed="#L" n="20"/>suae scientiae; &amp; haec videtur sententia Petri Lumbardi 1. sentent. 
+      sua<lb ed="#L" n="21" break="no"/>rum, dist. 38. &amp; quidam alij hunc sequuntur. Sed hi claudicant a 
+      semi<lb ed="#L" n="22" break="no"/>is veritatis. Cum enim dicunt, quod scitum est causa sine qua non 
+      di<lb ed="#L" n="23" break="no"/>uinae scientiae, vel intelligunt ibi per hoc nomen, Causa, sicut nomen 
+      <lb ed="#L" n="24"/>significat apud Philosophos, Theologos, &amp; omnes literatos, vel etiam 
+      <lb ed="#L" n="25"/>idiotas qui loquuntur de Causa, scilicet illud quod aliquo modo causat, saltem vt causa 
+      partia<lb ed="#L" n="26" break="no"/>lis &amp; concausa; vel non sic intelligunt, sed aliquo alio modo hactenus inaudito, vocando 
+      <lb ed="#L" n="27"/>forsitan causam alicuius sine qua non, omne sine quo non est illud, siue causet illud, siue 
+      cause<lb ed="#L" n="28" break="no"/>tur ab eo, siue sit sibi impertinens omni modo. Si primo modo intelligant, cum omnis 
+      cau<lb ed="#L" n="29" break="no"/>sa partialis vel concausa cuiuscunque, sit aliqua causa eius salias enim Pater non esset causa 
+      fi<lb ed="#L" n="30" break="no"/>lij, quia homo generat hominem, &amp; Sol, nec ligna vel lapides causa domus) sequitur ouod 
+      <lb ed="#L" n="31"/>scitum sit aliqua causa diuinae scientiae, quod hi negant. Item secundum Philosophum 2. 
+      Phys<lb ed="#L" n="32" break="no"/>&amp; 5. Metaph. quatuor sunt principalia genera causarum, &amp; multo plures modi causarum; sed 
+      <lb ed="#L" n="33"/>quilibet modus cuiuscunque causae reducitur ad aliquod principale genus causae: Si ergo 
+      lo<lb ed="#L" n="34" break="no"/>quantur de causa, sicut ipse, sequitur quod iste modus causae sine qua non, ad aliquod horum  
+      <lb ed="#L" n="35"/>generum reducatur. Est ergo scitum causa efficiens, materialis, formalis, vel finalis diuinae 
+      sci<lb ed="#L" n="36" break="no"/>entiae: Habent ergo simpliciter concedere, quod est causa. Si autem concedant quod scitum est 
+      <lb ed="#L" n="37"/>causa partialis, vel cocausa, &amp; sic aliquo modo causa diuinae scientiae, redeunt contra eos 
+      om<lb ed="#L" n="38" break="no"/>nes rationes capituli praecedentis. Item tunc habent concedere, quod sicut scitum est causa 
+      hu<lb ed="#L" n="39" break="no"/>manae scientiae, sic diuinae; Scitum enim non est nisi causa partialis &amp; cocausa humanae scientiae. 
+      <lb ed="#L" n="40"/>non principalis. Sensus enim exteriores, &amp; interiores, &amp; intellectus noster possibilis, &amp; 
+      intelle<lb ed="#L" n="41" break="no"/>ctus agens sunt causae principales illius; quod tamen non concedit, sed negat Philosophorum 
+      <lb ed="#L" n="42"/>&amp; Theologorum sententia superius allegata. Item tunc scita essent causa talis, scientiae 
+      approba<lb ed="#L" n="43" break="no"/>tionis, seu approbatiuae Dei, quae vltra simplicem notitiam addit beneplacitum voluntatis, &amp; 
+      <lb ed="#L" n="44"/>cum illasit causa rerum, sicut capitulum nonum probat, idem respectu eiusdem, eode genere 
+      cau<lb ed="#L" n="45" break="no"/>iae, scilicet efficientis, est causa &amp; causatum, &amp; prius &amp; posterius naturaliter eadem specie 
+      pri<lb ed="#L" n="46" break="no"/>pritatis respectu eiusdem. Item secundum eundem Petrum ibidem, scientia Dei, quae est 
+      sim<lb ed="#L" n="47" break="no"/>plex notitia, est tantum causa sine qua non scitorum, scitaque similiter causa eius; ergo idem 
+      <lb ed="#L" n="48"/>eodem modo causa &amp; causatum respectu eiusdem. Si autem secundo modo intelligant, 
+      ha<lb ed="#L" n="49" break="no"/>bent dicere consequenter, quod omne volutum est causa voluntatis diuinae, &amp; scientiae 
+      ap<lb ed="#L" n="50" break="no"/>probatiuae illius, cum tamen e contrario sit dicendum, sicut per capitulum nonum paret, &amp;  
+      <lb ed="#L" n="51"/>per Petrum vbi prius, &amp; dist. 45. sequente. Item contra rationem eorum, vel intelligunt sic, 
+      <lb ed="#L" n="52"/>quod hoc non est sine illo de facto, ergo est causa illius sine qua non; vel quod hoc de 
+      necessi<lb ed="#L" n="53" break="no"/>tate non est sine illo, sed necessario sunt coniuncta. Si detur primum, tunc habent similiter 
+      <!--252.xml-->
+      <pb ed="#A" n="219"/>
+               <lb ed="#L" n="1"/>dicere, quod latratus canis, vel admiratio ignorantis est huiusmodi causa eclipsis &amp; Dei; imo 
+      <lb ed="#L" n="2"/>&amp; vniuersaliter, quod quidlibet est talis causa cuiuslibet &amp; causat; haec enim omnia coexistunt.  
+      <lb ed="#L" n="3"/>Si detur secundum, tunc filius Dei est causa patris, &amp; diuinae essentiae, &amp; sapientiae genita 
+      cau<lb ed="#L" n="4" break="no"/>sa quare pater sapit, &amp; sic pater sapit sapientia genita; &amp; quodlibet attributum, &amp; quicquid 
+      <lb ed="#L" n="5"/>necessario est in Deo, esset cuiuslibet horum causa; quae nullus Theologus dubitat esse 
+      falsa<lb ed="#L" n="6" break="no"/>Et si pes necessario semper stetisset in puluere, vestigium fuisset causa pedis aeterna; &amp; idem 
+      <lb ed="#L" n="7"/>est de splendore causato ab igne, &amp; imagine causata in speculo ab obiecto, temporalibus vel 
+      <lb ed="#L" n="8"/>aeternis; &amp; vniuersaliter de omni causato suam causam necessario comitante, sicut passio 
+      ne<lb ed="#L" n="9" break="no"/>cessario sequitur actionem, effectus efficiens, &amp; omne causatum vniuersaliter suum causans, 
+      <lb ed="#L" n="10"/>quae omnia omnibus sunt absurda. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

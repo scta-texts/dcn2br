@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="527"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e70014"><!-- l2c17 -->
+            <head xml:id="dcn2br-e70014-Hd1e106">Caput 17</head>
+            <p xml:id="dcn2br-e70014-d1e109">
+      <!--560.xml-->
+               <pb ed="#A" n="527"/>
+               <lb ed="#L" n="1"/>CAP. XVII. 
+      <lb ed="#L" n="2"/>Quod nulla creatur a rationalis potest confirmari vel 
+      <lb ed="#L" n="3"/>obstinari immutabiliter per naturam. 
+      </p>
+            <p xml:id="dcn2br-e70014-d1e122">
+               <lb ed="#L" n="4"/>OStenso siquidem quod creatura rationalis quaedam est 
+      immobi<lb ed="#L" n="5" break="no"/>liter confirmata in bono, quaedam vero immutabiliter 
+      obstina<lb ed="#L" n="6" break="no"/>ta in malo, &amp; hoc non solum per liberum arbitrium, 
+      propriam<lb ed="#L" n="7" break="no"/>que naturam: Inquirendum vlterius, Nunquid hoc possit 
+      fie<lb ed="#L" n="8" break="no"/>ri per naturam; Et quod sic, arguitur a quibusdam. In 
+      confirma<lb ed="#L" n="9" break="no"/>tione Beati non apponitur naturae adiutorium infinitum, sed 
+      tan<lb ed="#L" n="10" break="no"/>tum finitum &amp; tatum posset ei apponi per appositionem maioris, 
+      for<lb ed="#L" n="11" break="no"/>tioris naturalis, &amp; de obstinato similiter. Sed istud non videtur 
+      <lb ed="#L" n="12"/>nisi fortassis loquedo aequiuoce, &amp; nimis sophistice de creatura 
+      <lb ed="#L" n="13"/>rationali, supponendo videlicet Deum posse creare creaturam  
+      <lb ed="#L" n="14"/>rationalem, quae haberet solum iudicium rationis sine libertate 
+      <lb ed="#L" n="15"/>agendi; vel e contra, quae haberet libertatem contradictionis agendi cum sola cognitione 
+      sen<lb ed="#L" n="16" break="no"/>sitiua sine iudicio rationis. Non sic autem loquendo, sed vniuoce de creatura rationali 
+      eius<lb ed="#L" n="17" break="no"/>dem rationis, sicut est modo: Non videtur aliquem posse confirmari in bono morali, aut 
+      su<lb ed="#L" n="18" break="no"/>pernaturali tantum per naturam; Magis enim videtur creaturam rationalem posse 
+      confir<lb ed="#L" n="19" break="no"/>mari in bono naturae per se tantum, aut per solam suam naturam, quam in bono non 
+      na<lb ed="#L" n="20" break="no"/>turali, puta morali, vel supernaturali: Sed hoc non potest sicut 2um. &amp; 9um, primi ostendunt. 
+      <lb ed="#L" n="21"/>Item si fortitudo, &amp; potentia naturalis creaturae rationalis naturaliter augeatur, sicut augetur 
+      <lb ed="#L" n="22"/>potentia intellectus, ita, id est, proportionaliter potentia libera voluntatis; quantum ergo 
+      <lb ed="#L" n="23"/>naturaliter potest vti potentia intellectus, tantum &amp; potentia libera voluntatis: quare &amp; ita 
+      <lb ed="#L" n="24"/>mutabiliter velle, sicut voluntas inferior minus potens. Item talis potentia, quantacunque 
+      <lb ed="#L" n="25"/>ponatur, creata est potentia rationalis, &amp; quantum est de sui natura, sicut est mutabilis in 
+      na<lb ed="#L" n="26" break="no"/>tura &amp; in esse, quia de non esse in esse &amp; e contra: sic est &amp; mutabilis actionis, atque 
+      mutabi<lb ed="#L" n="27" break="no"/>lis voluntatis, &amp; valet ad opposita successiue, sicut de Angelis proximo est ostensum. Item 
+      <lb ed="#L" n="28"/>quaecunque creatura rationalis ponatur, ipsa est de se mutabilis intellectus: Potest enim scire 
+      <lb ed="#L" n="29"/>aliquid postquam nesciuit, &amp; e contra; potest &amp; decepi, dum id quod credit esse verum, re 
+      <lb ed="#L" n="30"/>tali clam mutata sit falsum; quare &amp; est similiter mutabilis, deceptibilis, &amp; peccabilis 
+      volun<lb ed="#L" n="31" break="no"/>tatis. Item si haec creatura rationalis necessitate naturali incessabiliter habeat istum actum; 
+      <lb ed="#L" n="32"/>vel hoc est necessitate naturali antecedente huius potentiae rationalis, vel necessitate 
+      sequen<lb ed="#L" n="33" break="no"/>te huius actus; Non necessitate naturali antecedente huius potentiae rationalis; hoc enim 
+      <lb ed="#L" n="34"/>repugnat formaliter potentiae rationali, quae quantum est de sui natura, &amp; quatenus praecedit 
+      <lb ed="#L" n="35"/>naturaliter liberum actum suum, libere secundum contradictionem potest: illum producere 
+      <lb ed="#L" n="36"/>&amp; non producere, nec praedeterminatur necessitate naturali antecedente ad alteram partem 
+      <lb ed="#L" n="37"/>tantum sicut potentiae irrationales, sicut docet Philosophus 9. Metaph. 10. &amp; primum ac sea 
+      <lb ed="#L" n="38"/>cundum istius, quare &amp; de continuatione perpetua similiter sentiendum. Nec habet 
+      inces<lb ed="#L" n="39" break="no"/>sabiliter istum actum ex necessitate sequente naturaliter istum actum; ita, videlicet, quod iste 
+      <lb ed="#L" n="40"/>actus postquam est productus necessitat producentem, ad ipsum incessabiliter retinendum; 
+      <lb ed="#L" n="41"/>quia similiratione similis actus simili modo productus in quacunque creatura rationali ipsam 
+      <lb ed="#L" n="42"/>necessitaret similiter, vt ipsum incessabiliter retineret; est enim eadem proportio hic &amp;ibi. 
+      <lb ed="#L" n="43"/>Item sicut creatura rationalis debilis, quantum est de sui natura potest libere confirmare, aut  
+      <lb ed="#L" n="44"/>difformare se suo debili iudicio rationis, &amp; sic mereri, atque peccare; sic &amp; creatura 
+      rationa<lb ed="#L" n="45" break="no"/>lis potentior suo potentiori iudicio propter proportionalitatem eorum. Item si aliqua 
+      crea<lb ed="#L" n="46" break="no"/>tura rationalis excellens naturali necessitate immutabiliter confirmetur in bono, vel in malo, 
+      <lb ed="#L" n="47"/>&amp; quaelibet praesertim eiusdem naturae &amp; gradus in perfectione naturae; est enim per se talis, 
+      <lb ed="#L" n="48"/>per se autem importat necessario vniuersalitatem temporis &amp; suppositorum sicut patet ex 
+      <lb ed="#L" n="49"/>26. primi; quod quis nesciat esset falsum? cum vna talis possit esse beata, &amp; alia misera; 
+      <lb ed="#L" n="50"/>hoc enim nullam repugnantiam implicat sicut nullus ignorat. Item sub quantocunque 
+      gra<lb ed="#L" n="51" break="no"/>du perfectionis naturae, potest esse creatura rationalis immutabiliter confirmata in bono vel 
+      <lb ed="#L" n="52"/>in malo; potest esse &amp; similis creatura mutabilis in statu merendi; hoc enim nulla 
+      contradicti<lb ed="#L" n="53" break="no"/>onem includit, imo &amp; sub quantocunque gradu finitae perfectionis naturae potest esse creatu¬ 
+      <!--561.xml-->
+      <pb ed="#A" n="528"/>
+               <lb ed="#L" n="1"/> 
+               <lb ed="#L" n="2"/>nus Dei mutilaretur turpissime, &amp; nimium impotens redderetur: Alias etiam esset certus 
+      <lb ed="#L" n="3"/>terminus perfectionis naturae naturaliter limitatus &amp; meribilis, quem creatura rationalis 
+      tran<lb ed="#L" n="4" break="no"/>sire non posset, &amp; vltra quem Deus omnipotens non posset creare huiusmodi creaturam, 
+      <lb ed="#L" n="5"/>quod nulli conuenit rationi; Cur enim ad hunc terminum &amp; non vltra? Admittatur etiam in 
+      <lb ed="#L" n="6"/>positione possibili aliquam esse creaturam rationalem mutabilem, &amp; meribilem supra A. 
+      <lb ed="#L" n="7"/>terminum illum datum, &amp; nulla contradictio // inferetur; est ergo istud possibile absolute 
+      se<lb ed="#L" n="8" break="no"/>cundum praehabita primo primi, quod &amp; posset ostendi alijs vijs multis. Capiatur ergo A. 
+      <lb ed="#L" n="9"/>creatura rationalis secundum falsigraphum immutabiliter confirmata in bono vel in malo, 
+      <lb ed="#L" n="10"/>&amp; immutabilis, atque immeribilis per naturam, &amp; sit B. alia huiusmodi creatura aequalis in 
+      <lb ed="#L" n="11"/>naturalibus, mutabilis &amp; meribilis per praemissa: B. igitur de natura sua est mutabilis 
+      volun<lb ed="#L" n="12" break="no"/>tatis, atque meribilis, &amp; est per se, quia per naturam de essentiam suam talis; Per se autem 
+      in<lb ed="#L" n="13" break="no"/>cludit vniuersalitatem suppositorum &amp; temporis, sicut ostensum est 26. primi. Omne ergo 
+      <lb ed="#L" n="14"/>tale suppositum, &amp; semper, quantum est de se &amp; de natura sua est mutabilis voluntatis atque 
+      <lb ed="#L" n="15"/>meribilis bene vel male: Si vero firmetur immutabiliter &amp; immeribiliter in, bono vol in 
+      ma<lb ed="#L" n="16" break="no"/>lo, hoc non est de se sufficienter, nec de sui natura, sed ex alia causa firmante, sicut 15. &amp; 16. 
+      <lb ed="#L" n="17"/>huius docent.  
+      </p>
+            <div xml:id="dcn2br-e70014-Dd1e274">
+               <head xml:id="dcn2br-e70014-Hd1e276">Corollarium</head>
+               <p xml:id="dcn2br-e70014-d1e279">
+                  <lb ed="#L" n="18"/>COROLLARIVM. 
+      <lb ed="#L" n="19"/>Corollarium, quod nulla creatura rationalis est, aut esse potest immutabilis, inuertibilis. 
+      <lb ed="#L" n="20"/>aut impeccabilis per naturam. 
+      </p>
+               <p xml:id="dcn2br-e70014-d1e288">
+                  <lb ed="#L" n="21"/>EX his autem reputo manifestum, nullam creaturam rationalem esse, aut esse posse 
+      immu<lb ed="#L" n="22" break="no"/>tabilem, immeribilem, aut impeccabilem per naturam. Istud tam euidenter 
+      consequi<lb ed="#L" n="23" break="no"/>tur, quod non indiget probamento. Dicitque Augustinus 3. contra Maximinum 13. 
+      Crea<lb ed="#L" n="24" break="no"/>turarum natura coelestium mori potuit, quia peccare potuit; nam &amp; Angeli peccauerunt, &amp; 
+      <lb ed="#L" n="25"/>daemones facti sunt, quorum est diabolus princeps; &amp; qui non peccauerunt, peccare 
+      potue<lb ed="#L" n="26" break="no"/>runt; &amp; cuicunque rationali creaturae praestatur vt peccare non possit, hoc non est nature 
+      <lb ed="#L" n="27"/>propriae, sed Dei gratiae: Ideoque solus Deus est, qui non gratia cuiusquam, sed natura sua 
+      <lb ed="#L" n="28"/>propria nec potuit, nec potest, nec poterit peccare. Hieronimus etiam Epistola 13. ad 
+      Dama<lb ed="#L" n="29" break="no"/>sum Papam de filio prodigo 16. scilicet penult. dicit, quod ex multis scripturae testimonijs 
+      e<lb ed="#L" n="30" break="no"/>docemur Dei solius perfectam esse iusticiam, &amp; infra in Psalmis dicitur, Non iustificabitur in 
+      <lb ed="#L" n="31"/>conspectu tuo omnis viuens; non ait, non iustificabitur homo, sed omnis viuens, id est, non 
+      <lb ed="#L" n="32"/>Euangelista, non Apostolus, non Propheta; ad maiora conscendo, non Angelus, non 
+      Thro<lb ed="#L" n="33" break="no"/>ni, non Dominationes, non Potestates, caeteraeque virtutes: Solus Deus est, in quo peccatum 
+      <lb ed="#L" n="34"/>non cadit; caeteri cum sint liberi arbitrij, iuxta quod &amp; homo ad imaginem &amp; 
+      similitudi<lb ed="#L" n="35" break="no"/>nem Dei factus est, in vtraque parte possunt flectere suam voluntatem, quod oportet 
+      intel<lb ed="#L" n="36" break="no"/>ligi, quantum est de nuda eorum natura. Anselmus quoque 2. cur Deus homo. 10. postquam  
+      <lb ed="#L" n="37"/>ostendit Christum // Deum &amp; hominem non posse peccare, &amp; tamen esse laudandum, de sua 
+      <lb ed="#L" n="38"/>iusticia, ita quaerit; Quaerendum existimo cum Deus talem posset facere hominem, cur non  
+      <lb ed="#L" n="39"/>tales fecit Angelos, &amp; duos primos homines, vt similiter &amp; peccare non possent, &amp; de 
+      iusti<lb ed="#L" n="40" break="no"/>tia sua etiam laudandi essent? &amp; respondendo subiungit: Quoniam non debuit, nec potuit 
+      fi<lb ed="#L" n="41" break="no"/>eri, vt vnusquisque eorum esset idem ipse qui Deus, sicut de homine isto decimus. Quod 
+      au<lb ed="#L" n="42" break="no"/>tem arguebatur superius de appositione adiutorij tantum finiti in confirmatione boni, 
+      vide<lb ed="#L" n="43" break="no"/>tur loqui tantummodo de appositione adiutorij creati; sed nullum tale sufficit, sed 
+      necessa<lb ed="#L" n="44" break="no"/>rio requiritur adiutorium per se firmum, quod ideo necessario est increatum &amp; infinitum, 
+      sci<lb ed="#L" n="45" break="no"/>licet Dei voluntas, Deus ipse, sicut 15. huius docet. Quantumcunque etiam naturaliter 
+      ad<lb ed="#L" n="46" break="no"/>augetur fortitudo solummodo naturalis creaturae rationalis, tantum &amp; eius libertas 
+      contra<lb ed="#L" n="47" break="no"/>dictionis, ac mutabilitas coaugetur, sicut superius est argutum, Tale ergo augmentum 
+      ne<lb ed="#L" n="48" break="no"/>quaquam confirmat, aut immobilitat augmentatum.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

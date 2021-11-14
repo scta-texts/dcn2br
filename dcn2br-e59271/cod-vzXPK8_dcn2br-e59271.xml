@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="444"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e59271"><!-- l2c2 -->
+            <head xml:id="dcn2br-e59271-Hd1e106">Caput 2</head>
+            <p xml:id="dcn2br-e59271-d1e109">
+               <lb ed="#L" n="28"/>CAP. Isg 
+      <lb ed="#L" n="29"/>De actu liberi arbitrij &amp; cius obiectos? 
+      </p>
+            <p xml:id="dcn2br-e59271-d1e116">
+               <lb ed="#L" n="30"/>&amp;&amp; Tabilita igitur libera voluntate, restat consequenter inquirere de 
+      <lb ed="#L" n="31"/>actu. &amp; obiecto ipsius. Docet siquidem experientia &amp; natura, 
+      <lb ed="#L" n="32"/>quod Actus eius est velle, &amp; nosle; diligere, &amp; odire; Obiectum 
+      <lb ed="#L" n="33"/>no vero ipsius: bonum: &amp; malum apparens. Verum qui vellet 
+      <lb ed="#L" n="34"/> profundius fodere, posset rationabiliter quaerege, Nunquid v. I 
+      </p>
+            <p xml:id="dcn2br-e59271-d1e129">
+               <lb ed="#L" n="35"/>Uterque actus praedictus, scilicet velle, &amp; nolle sit aeque primus, 
+      <lb ed="#L" n="36"/>&amp; proprius voluntati; quod non videtur. Quia omnis potentia 
+      <lb ed="#L" n="37"/>vna sicut habet essentiam &amp; formam vnam, ita finem, 
+      perfecti<lb ed="#L" n="38" break="no"/>onem &amp; operationem, vnam, saltem primam &amp; maxime 
+      pro<lb ed="#L" n="39" break="no"/>priam &amp; essentialem. (Si autem illi duo actus non sunt aeque 
+      <lb ed="#L" n="40"/>primi &amp; proprii voluntati, vel vnus, eorum reducitur ad 
+      alte<lb ed="#L" n="41" break="no"/>rum, vel ambo ad tertium; qui est primus &amp; proprijssimus actus 
+      <lb ed="#L" n="42"/>eius; virtute cuius alij ei insunt, iuxta praemissa, secundo primi. Sed nullus videtur actus 
+      vo<lb ed="#L" n="43" break="no"/>luntatis prior naturaliter velle, &amp; nolle, diligere &amp; odire; aut magis proprius voluntati. Simili 
+      <lb ed="#L" n="44"/>potest inquiri de obiecto primo &amp; proprijssimo voluntatis, An illud sit bonum 
+      <lb ed="#L" n="45"/>vel malum; vel aliquod tertium, quod est neutrum. Videtur igitur, quod breuiter posset dici, 
+      <lb ed="#L" n="46"/>quod actus primus &amp; propriissimus voluntatis est, velle obiectum, suum primum &amp; 
+      propriis<lb ed="#L" n="47" break="no"/>simum, quod est bonum, &amp; quia vult bonum, ideo non vult malum, ideo odit malum, ideo 
+      fu<lb ed="#L" n="48" break="no"/>git malum: Bonum namque est naturaliter prius malo, sicut patet ex secundo, &amp; 26. primi, 
+      <lb ed="#L" n="49"/>Verum cum constet voluntatem velle bonum &amp; nolle malum, inquirendum vlterius; An 
+      <lb ed="#L" n="50"/>possit scienter velle malum; &amp; neutrum aliquid, scilicet, quod nec apparet sibi bonum nec 
+      <lb ed="#L" n="51"/>malum. Ego puto quod sic; etsi non per se, cum magno tamen bono coniuncto: puta si 
+      <lb ed="#L" n="52"/>quis non haberet Amagnum bonum nisi cum illo, vel prius haberet Bparuum malum; 
+      pos<lb ed="#L" n="53" break="no"/>set velle B malum, etsi non per se, nec propter se, vt tamen per illud consequeretur A bonum; 
+      <lb ed="#L" n="54"/>sicque adhuc iuxta praemissa, primo &amp; principaliter vellet bonum; imo &amp; quodammodo 
+      ad<lb ed="#L" n="55" break="no"/>modum loquendi multorum, nihil aliud vellet, quam bonum, sicut patet 26. primi, &amp; idem 
+      <!--478.xml-->
+      <pb ed="#A" n="445"/>
+               <lb ed="#L" n="1"/>est de neutro. Amplius autem ex istis potest &amp; alia quaestio suboriri; Nunquid videlicet 
+      vo<lb ed="#L" n="2" break="no"/>luntas possit scienter velle per se purum malum? quod scilicet appareat ei omnibus modis 
+      <lb ed="#L" n="3"/>malum? nec habens aliquod bonum aliquo modo coniunctum subsequens vel praecedens? 
+      <lb ed="#L" n="4"/>nec etiam ipsa volutio appareat sibi bona, sed etiam omnibus modis mala? Quibusdam 
+      au<lb ed="#L" n="5" break="no"/>tem videtur quod sic, quia alias voluntas non haberet plenariam libertatem. Oppositum ta 
+      <lb ed="#L" n="6"/>men huius videtur consequi ex praemissis: Si namque bonum sit obiectum primum &amp; 
+      pro<lb ed="#L" n="7" break="no"/>prium voluntatis, &amp; velle bonum primus &amp; proprius actus eius; non potest quicquam velle 
+      <lb ed="#L" n="8"/>nisi virtute istorum, &amp; finaliter propter bonum. Item natura humana proposito sibi malo 
+      <lb ed="#L" n="9"/>horret &amp; refugit; licet fortassis delectabile &amp; vtile concupiscat, sicut cuiuslibet animus in se 
+      <lb ed="#L" n="10"/>sentit, nisi quis fuerit forsitan manichaeus, animam essentialiter malam habens, &amp; 
+      essentiali<lb ed="#L" n="11" break="no"/>ter tenebrosam, ab essentialiter malo Deo &amp; Principe tenebrarum contra 1. &amp; 26. 1. Item per 
+      <lb ed="#L" n="12"/>26. primi quelibet res est bona, quare &amp; experientia generali mostrante videmus, quod omnes 
+      <lb ed="#L" n="13"/>res naturales, inanimate, animate; insensibiles, sensibiles, &amp; irrationales appetunt eis bonum, &amp;  
+      <lb ed="#L" n="14"/>fugiunt eis malum; qua ergo irrationali ratione sola res rationalis quae itrationalibus cunctis 
+      <lb ed="#L" n="15"/>praestat, appetet &amp; diliget sibi malum, &amp; odiet ac fugiet sibi bonum? Si etiam per 26. 
+      pri<lb ed="#L" n="16" break="no"/>mi, quaelibet res naturalis sit bona, &amp; quilibet actus eius, &amp; quicquid est positiuum in ea; 
+      quo<lb ed="#L" n="17" break="no"/>modo potest aliqua res naturalis amare per se aliquid quod apparet omnibus modis malum, 
+      <lb ed="#L" n="18"/>&amp; nullo penitus modo bonum, nec bono coniunctum cum omnis amicitia siue amor semper 
+      <lb ed="#L" n="19"/>sit ratione similitudinis &amp; conuenientiae aliqualis, &amp; nunquam ratione dissimilitudinis, aut  
+      <lb ed="#L" n="20"/>contrarietatis perfectae, sicut vniuersalis experientia mani estat? Quis vnquam hominum 
+      <lb ed="#L" n="21"/>hominem sibi per omnia contrarium &amp; aduersum, inimicantem, insidiantem, nocentemque 
+      <lb ed="#L" n="22"/>in omnibus, nec vnquam prodesse volentem aut valentem propter hoc ipsum dilexit? &amp; non  
+      <lb ed="#L" n="23"/>potius odio habuit? vel si eum nequaquam odio habuit, sed dilexit, hoc fecit forsitan 
+      prop<lb ed="#L" n="24" break="no"/>ter virtutem patientiae acquirendam siue firmandam, sicut legitur apud multos de Socrate 
+      <lb ed="#L" n="25"/>Philosopho, quod ideo duxit Xantippen Calfurniam contentiosissimam in vxorem. Vel 
+      for<lb ed="#L" n="26" break="no"/>te hoc fecit propter meritum &amp; praemium augmentandum: vel propter Deum qui praecepit 
+      <lb ed="#L" n="27"/>diligere inimicos, &amp; sic per se &amp; finaliter dilexit bonum, &amp; malum huiusmodi finaliter prop 
+      <lb ed="#L" n="28"/>ter bonum. Quare &amp; dicit Boetius primo Musicae in prologo; Amica est similitudo, 
+      dissimi<lb ed="#L" n="29" break="no"/>litudo odiosa, atque contraria; gaudet enim gens modis, morum similitudine, Neque enim 
+      <lb ed="#L" n="30"/>fieri potest, vt mollia duris, dura mollioribus adnectantur, aut gaudeant, quia amorem 
+      dele<lb ed="#L" n="31" break="no"/>ctationemque similitudo conciliat. Quod &amp; multi antiqui Philosophi contestantur, vt patet 
+      <lb ed="#L" n="32"/>8. Eth. 1. dicentes; Similem ad similem; vt Rolovum, ad Roloyum, &amp; quod simile simile 
+      ap<lb ed="#L" n="33" break="no"/>perit. Quare &amp; vulgariter dicitur; 
+      <lb ed="#L" n="34"/>
+               <quote xml:id="dcn2br-e59271-Qd1e254">Est, &amp; semper erit, similis similem sibi quaerit</quote>.  
+      <lb ed="#L" n="35"/>Vnde &amp; Ecclesiast. 13. Omne animal diligit simile sibi; sic &amp; Omnis homo proximum sibi; 
+      <lb ed="#L" n="36"/>Omnis caro ad similem sibi coniungetur, &amp; omnis homo simili sibi sociabitur. Item si quis 
+      <lb ed="#L" n="37"/>potest velle &amp; diligere per se malum, potest &amp; aliquem diligere propter puram malitiam, &amp;  
+      <lb ed="#L" n="38"/>alius eum simili modo e contra, sicque erit amicitia inter eos solummodo propter malum, 
+      si<lb ed="#L" n="39" break="no"/>ne vllo respectu ad bonum, quod est contra Aristotelem 8. Ethic. 2. contra Tullium de 
+      Ami<lb ed="#L" n="40" break="no"/>citia, contra Senecam de Beneficiis: imo &amp; vniuersaliter contra omnes Philosophicos &amp; 
+      <lb ed="#L" n="41"/>Theologicos de Amicitia pertractantes; qui omnes dicunt concorditer causam amicitiae esse 
+      <lb ed="#L" n="42"/>bonum. Quare &amp; Aristoteles vbi prius, volens considerare de Amicitia, &amp; speciebus ipsius; 
+      <lb ed="#L" n="43"/>De ipsis, inquit, fiet manifestum cognito amabili; videtur enim non omne amari, sed 
+      ama<lb ed="#L" n="44" break="no"/>bile, hoc autem esse bonum, scilicet honestum vel delectabile, vel vtile: Videbitur autem 
+      vti<lb ed="#L" n="45" break="no"/>le esse per quod sit bonum aliquod vel delectatio; quare amabilia vtique erunt &amp; bonum, &amp; 
+      <lb ed="#L" n="46"/>delectabile, &amp; fines. Vbi &amp; statim quaerendo sic ait; Vtrum ergo bonum amant, vel quod 
+      ip<lb ed="#L" n="47" break="no"/>sis bonum. Dissonant enim quandoque haec &amp; respondendo subiungit; Videtur autem &amp;  
+      <lb ed="#L" n="48"/>quod ipsi bonum amare vnusquisque; &amp; esse simpliciter, quod bonum, amabile: vnicuique 
+      <lb ed="#L" n="49"/>autem, quod vnicuique. Amat autem vnusquisque non ens ipsi bonum sed apparens, &amp; infra 
+      <lb ed="#L" n="50"/>3. Differunt autem haec, scilicet tria bona amabilia supradicta adinuicem specie, &amp; amationes, 
+      <lb ed="#L" n="51"/>ergo &amp; amicitiae aequales numero amabilibus. Item, si quid sit desideratum &amp; amatum per se 
+      <lb ed="#L" n="52"/>quia tale, quanto magis fuerit tale, tanto erit desiderabilius &amp; amabilius, vt patet de bono 
+      ho<lb ed="#L" n="53" break="no"/>nesto, delectabili, &amp; vtili manifeste. Patet etiam ex consideratione Philosophi, secundo 
+      To<lb ed="#L" n="54" break="no"/>pic. de magis &amp; minus, vt si voluptas bonum, &amp; magis voluptas, magis bonum. Dicitque 
+      <lb ed="#L" n="55"/>Auerroes super duodecimum Metaphysicorum, com. 36. quod primo affectatum est bonum, 
+      <lb ed="#L" n="56"/>&amp; cum quanto magis aliquid aestimatum fuerit magis bonum, tanto desiderium erit maius. Si 
+      <lb ed="#L" n="57"/>ergo purum malum sit per se desideratum, maius magis desiderabitur, &amp; maximum maxime, 
+      <lb ed="#L" n="58"/>puta summa miseria, quam tamen maxime fugeret omnis miser pariter &amp; non miser. 
+      <!--479.xml-->
+      <pb ed="#A" n="446"/>
+               <lb ed="#L" n="1"/>Vnde &amp; Augustinus Enchiridio 86. Nec, inquit, culpanda est voluntas, aut voluntas 
+      <lb ed="#L" n="2"/>non est, aut libera dicenda non est? qua beati esse sic volumus, vt esse miseri non solum 
+      no<lb ed="#L" n="3" break="no"/>limus, sed nequaquam velle prorsus possimus. Item, malum ex ratione mali est odibile, &amp; 
+      <lb ed="#L" n="4"/>inimicabile cuicunque; &amp; non videtur quod idem sub eadem ratione omnino, eidem non  
+      <lb ed="#L" n="5"/>aliter sed similiter omnino disposito possit esse odibile, inimicabile, seu oditum, inimicum &amp; 
+      <lb ed="#L" n="6"/>etiam amabile, amicabile, amatum siue amicum, &amp; maxime summe tale, &amp; etiam summe 
+      ta<lb ed="#L" n="7" break="no"/>le. Item omne amabile, seu amatum, &amp; praecipue propter se tantum est finis, vel in ratione 
+      <lb ed="#L" n="8"/>finis se habet, sicut cuiuslibet animus in se sentit; quod etiam testatur Autoritas Philosophi 
+      <lb ed="#L" n="9"/>8. Eth. 2. praemissa, &amp; aliae autoritates quamplures; Finis autem praesertim vltimus, &amp; 
+      <lb ed="#L" n="10"/>propter se solum desideratus est bonum, vel apparens bonum, &amp; sub ratione boni se habet,  
+      <lb ed="#L" n="11"/>sicut omnes Philosophi tractantes de causis concorditer attestantur. Item, simili ratione, qua 
+      <lb ed="#L" n="12"/>quis potest diligere purum malum, potest &amp; odire similiter purum bonum quia scilicet 
+      pu<lb ed="#L" n="13" break="no"/>re bonum, bonum scilicet quod esset sibi omnibus modis bonum vtile, delectabile &amp; 
+      hone<lb ed="#L" n="14" break="no"/>stum, &amp; nullo penitus modo malum, Lnec aliquod malum/ habens annexum; ita etiam 
+      <lb ed="#L" n="15"/>quod per illud odium nullum aliud bonum acquireret, nec malum excluderet, quod alias 
+      e<lb ed="#L" n="16" break="no"/>mineret: Quare &amp; potest quis odire bonum quodlibet, quia bonum; &amp; maius magis, &amp; 
+      <lb ed="#L" n="17"/>maximum maxime, puta faelicitatem &amp; Deum; cuius contrarium cuiuslibat animus 
+      experi<lb ed="#L" n="18" break="no"/>tur, &amp; imultiplex ratio manifestat. Multiplex quoque autoritas Philosophica, &amp; 
+      Theologi<lb ed="#L" n="19" break="no"/>ca attestatur nullum posse velle per se aut appetere purum malum, sed in omnibus suis 
+      ope<lb ed="#L" n="20" break="no"/>ribus appetere semper bonum vel saltem apparens aliquo modo bonum, vtile scilicet,  
+      <lb ed="#L" n="21"/>delectabile &amp; honestum. Vnde Philosophus I. Eth. 1. Omnis, inquit ars, &amp; omnis 
+      doctri<lb ed="#L" n="22" break="no"/>na similiter autem &amp; actus, &amp; electio bonum quoddam appetere videtur; ideo bene 
+      enuntiaue<lb ed="#L" n="23" break="no"/>runt bonum, quod omnia appetunt. Et infra 17. Manifestum quoniam est faelicitas 
+      hono<lb ed="#L" n="24" break="no"/>rabilium &amp; perfectorum; videtur autem ita habere, &amp; propter esse principium: Huius enim 
+      <lb ed="#L" n="25"/>gratia reliqua omnia omnes operantur. Cui &amp; concorditer Augustinus 8. de Ciuit. Dei 8. 
+      <lb ed="#L" n="26"/>est, inquit, Philosophiae pars moralis, quam Graeco vocabulo dicunt Ethicam, vbi quaeritur 
+      <lb ed="#L" n="27"/>de summo bono, quo referentes omnia, quae agimus, &amp; quod non propter aliud, sed propter 
+      <lb ed="#L" n="28"/>se ipsum appetentes, idque adipiscentes, nihil quo beati simus vlterius requiramus. Ideo 
+      <lb ed="#L" n="29"/>uippe &amp; finis est dictus, quia propter hunc &amp; caetera volumus, ipsum autem non nisi 
+      prop<lb ed="#L" n="30" break="no"/>ter ipsum. Qui &amp; 13. de Trin. 5. Verum est, inquit, quod omnes homines esse beati 
+      vo<lb ed="#L" n="31" break="no"/>lunt, idque vnum ardentissimo amore appetunt, &amp; propter hoc caetera quaeque appetunt, 
+      <lb ed="#L" n="32"/>&amp; supra eiusdem 3. Si quis diceret, Omnes beati esse vultis, &amp; miseri esse non vultis 
+      dice<lb ed="#L" n="33" break="no"/>ret aliquid, quod nullus in sua non cognosceret voluntate. Quicquid enim aliud quisquam  
+      <lb ed="#L" n="34"/>latenter velit, ab hac voluntate quae omnibus &amp; in omnibus satis nota est, non recedit. Qui 
+      <lb ed="#L" n="35"/>&amp; super illud Psalmi 32. Beata gens cuius est Dominus, Deus eius, tractatu 3. Amant, 
+      in<lb ed="#L" n="36" break="no"/>quit, omnes beatitudinem, &amp; ideo peruersi sunt homines, quia mali volunt esse, miseri 
+      no<lb ed="#L" n="37" break="no"/>lunt; &amp; cum sit malitiae indiuidua comes miseria, quid est, ideo volunt mali esse ne miseri 
+      <lb ed="#L" n="38"/>sint? Considerate paululum hoc in omnibus hominibus qui mala faciunt, beati esse semper  
+      <lb ed="#L" n="39"/>volunt: Furtum facit; quaeris quare? propter famem, propter necessitatem; Ergo ne 
+      mi<lb ed="#L" n="40" break="no"/>ser sit malus est, &amp; ideo miserior est quia malus est. Depellendae ergo miseriae causa, &amp; 
+      ac<lb ed="#L" n="41" break="no"/>quirendae beatitudinis causa, faciunt omnes homines, quicquid vel boni faciunt, vel mali. 
+      <lb ed="#L" n="42"/>Quare &amp; Boetius 3. de Cons. Philosophiae, prosa 2. Omnis, inquit, mortalium cura quam  
+      <lb ed="#L" n="43"/>multiplicium studiorum labor exercet, diuerso quidem calle procedit, sed ad vnum tamen 
+      bea<lb ed="#L" n="44" break="no"/>titudinis finem nititur peruenire. Anselmus quoque de casu Diaboli 22. &amp; post, pro 
+      mani<lb ed="#L" n="45" break="no"/>festo supponit quod malus Angelus non potuit velle vnde miser esset, qui accepit 
+      inseparabi<lb ed="#L" n="46" break="no"/>liter velle vt beatus esset. Amplius autem Philosophus I. Polit. 1. Eius, inquit, quod 
+      vide<lb ed="#L" n="47" break="no"/>tur boni gratia, omnia operantur omnes; manifestum quod omnes bonum aliquod 
+      conie<lb ed="#L" n="48" break="no"/>cturant. Et 3. Eth. 10. supponit quod voluntas est respectu alicuius finis; &amp; opinione 
+      du<lb ed="#L" n="49" break="no"/>plici recitata, vna quod sit respectu per se boni, &amp; altera quod sit respectu apparentis boni; 
+      <lb ed="#L" n="50"/>secundum propriam opinionem subiungit dicendum simpliciter quidem de secundum 
+      veri<lb ed="#L" n="51" break="no"/>tatem voluntabile esse per se bonum, vnicuique autem quod videtur. Et 2. Phys. 31. dicit 
+      <lb ed="#L" n="52"/>quod causa finalis est bonum aliorum, quae enim est cuius causa, potissima est, (&amp;) finis 
+      alio<lb ed="#L" n="53" break="no"/>rum vult esse, differt autem nihil eandem dicere bonam, vel videri bonam. Qui &amp; 5. Met. 
+      <lb ed="#L" n="54"/>3. sub verbis parum distantibus dicit idem, &amp; 3. de Anima 5I. dicit quod appetibile est 
+      bo<lb ed="#L" n="55" break="no"/>num aut apparens bonum. Auicenna quoque 8. Met. 6. dicit: Bonitatem desiderat 
+      omni<lb ed="#L" n="56" break="no"/>no quicquid est; illud autem quod desiderat omnis res est esse, &amp; perfectio in esse; in quam est 
+      <lb ed="#L" n="57"/>esse, &amp; esse est bonitas pura &amp; perfectio pura, &amp; omnino bonitas est id quod desiderat 
+      om<lb ed="#L" n="58" break="no"/>nis res iuxta modulum suum, quoniam per eam perficitur eius esse. Quare &amp; Boetius 3. de 
+      <!--480.xml-->
+      <pb ed="#A" n="447"/>
+               <lb ed="#L" n="1"/>Cons. Philosophiae prosa 10. Omnium, inquit, expetendorum summa atque causa bonum 
+      <lb ed="#L" n="2"/>est: Quod enim nec re, nec similitudine vllum in se retinet bonum, id expeti nullo modo 
+      po<lb ed="#L" n="3" break="no"/>test contraque etiam quae natura bona non sunt, tamen si esse videantur, quasi vera bona sint, 
+      <lb ed="#L" n="4"/>appetuntur: quo sit vt summa, cardo, atque causa expetendorum omnium bonitas esse 
+      creda<lb ed="#L" n="5" break="no"/>tur iure. Cuius vero causa quid expetitur, id maxime videtur optari; veluti salutis causa 
+      quis<lb ed="#L" n="6" break="no"/>piam velit equitare, non tam equitandi motum desiderat, quam salutis effectum. Cum 
+      igi<lb ed="#L" n="7" break="no"/>tur boni gratia omnia petantur, non illa potius, quam bonum ipsum, desiderantur ab 
+      omni<lb ed="#L" n="8" break="no"/>bus; sed propter quod caetera optantur, beatitudinem esse concessimus; quare sic quoque 
+      <lb ed="#L" n="9"/>sola quaeritur beatitudo. Dionysiis quoque de diuinis nominibus 4. sic ait: Existentia 
+      pul<lb ed="#L" n="10" break="no"/>chrum &amp; bonum desiderant, &amp; omnia quaecunque faciunt, propter hoc, quod videtur 
+      bo<lb ed="#L" n="11" break="no"/>num faciunt; &amp; omnis existentium intentio principium habet &amp; finem bonum. Nihil enim 
+      <lb ed="#L" n="12"/>ad mali naturam respiciens facit: Et infra, Boni gratia sunt omnia, &amp; quaecunque bona, &amp;  
+      <lb ed="#L" n="13"/>quaecunque contraria; etenim ista facimus bonum considerantes; Nullus enim ad malum 
+      <lb ed="#L" n="14"/>respiciens facit quae facit. Cui &amp; concorditer Augustinus in quaest. super lib. Numerorum 
+      <lb ed="#L" n="15"/>quaest. 23. exponens illud verbum, peccatum nolentium, sic ait: Omnes quippe homines 
+      <lb ed="#L" n="16"/>qui scientes faciunt quod non licet, vellent licere, vsque adeo ipsum peccare nemo appetit 
+      <lb ed="#L" n="17"/>propter hoc ipsum, sed propter hoc quod ex eo consequitur. Dicitque Petrus 2. sent. dist. 39. 
+      <lb ed="#L" n="18"/>quod superior scintilla rationis, quae etiam, vt ait Hieronymus, in Cain non potuit extingui, 
+      <lb ed="#L" n="19"/>bonum semper vult &amp; malum odit. Quod &amp; testantur multae autoritates praemissae 26. primi, 
+      <lb ed="#L" n="20"/>aliae quoque Philosophicae, &amp; Theologicae plures valde. Consequenter autem posset // quaeri, 
+      <lb ed="#L" n="21"/>An voluntas posset scienter nolle positiue seu odire bonum. Et credo quod posset saltem per 
+      <lb ed="#L" n="22"/>accidens, si videlicet nolendo &amp; respuendo aliquod paruum bonum posset consequi aliquod 
+      <lb ed="#L" n="23"/>maius bonum, vel vitare aliquod maius malum, sicut &amp; potest velle malum vt superius 
+      dice<lb ed="#L" n="24" break="no"/>batur. Hic autem posset quaeri vlterius, An voluntas posset scienter nolle &amp; odire per se 
+      pu<lb ed="#L" n="25" break="no"/>rum bonum, quod scilicet apparet, &amp; quia apparet omnibus modis bonum: Et arguunt qui¬  
+      <lb ed="#L" n="26"/>dam quod sic; quia aliter voluntas non esset libera omniquaque: Sed istud stare non potest; 
+      <lb ed="#L" n="27"/>Sicut enim prima ratio volubilis &amp; amabilis est bonum vel apparens bonum, vt praemissa 
+      te<lb ed="#L" n="28" break="no"/>stantur, ita nolubilis &amp; odibilis, malum, vel apparens malum; contrariorum namque sunt 
+      <lb ed="#L" n="29"/>contrariae rationes: Non potest igitur quis nolle per se, quod non apparet aliquo modo 
+      ma<lb ed="#L" n="30" break="no"/>lum, inhonestum scilicet, inutile, neque triste. Videtur quoque aeque possibile diligere per se 
+      <lb ed="#L" n="31"/>malum, &amp; odire per se bonum, quia scilicet purum bonum, sed hoc non est possibile sicut 
+      su<lb ed="#L" n="32" break="no"/>perius est ostensum, quare nec istud. Post haec autem rationabiliter inquirendum; Nunquid 
+      <lb ed="#L" n="33"/>voluntas possit non velle purum bonum sibi oblatum. Si enim non possit, cum non sit in 
+      po<lb ed="#L" n="34" break="no"/>testate ipsius quid &amp; quando sibi appareat purum bonum, non est in potestate sua quid aut 
+      <lb ed="#L" n="35"/>quando velit, quare nec quid faciat dicente Philosopho 9. Metaphys. 10. Potens secundum 
+      <lb ed="#L" n="36"/>rationem omne necesse quando desiderat, cuius habet potentiam, &amp; vt habet, hoc facere, 
+      <lb ed="#L" n="37"/>qui &amp; 5. Polit. 7. &amp; 2. Rnetor. 24. dicit hoc idem, sed hoc libertatem destrueret 
+      volunta<lb ed="#L" n="38" break="no"/>tis, quam pimum construebat. Si autem posset non velle purum bonum sibi oblatum, 
+      <lb ed="#L" n="39"/>&amp; per praemissa necesse est quod non nolit illud, nec odiat, potest ergo nullum actum habere 
+      <lb ed="#L" n="40"/>circa illud obiectum, quare &amp; simili ratione circa vnum aliud obiectum, &amp; aliud, &amp; circa 
+      <lb ed="#L" n="41"/>quodcunque, &amp; ita penitus otiari per tempus, &amp; tempus quodcunque cuius oppositum 
+      sen<lb ed="#L" n="42" break="no"/>tire videmur. Item tunc causa sufficienter disposita ad agendum, posset vna vice agere, &amp; 
+      a<lb ed="#L" n="43" break="no"/>lia non agere, stante eadem dispositione praecise, quod videtur contrarium rationi, cum nulla 
+      <lb ed="#L" n="44"/>sit ratio potior cur agat aut quiescat vna vice, quam alia. Pro his autem sciendum quod velle 
+      <lb ed="#L" n="45"/>&amp; nolle quandoque accipitur pro actum rationali voluntatis, quandoque vero pro actu 
+      natu<lb ed="#L" n="46" break="no"/>rali, scilicet pro concupiscentia vel ira, qui sunt motus virtutis concupiscibilis, &amp; irascibilis 
+      <lb ed="#L" n="47"/>irrationalis; Primo modo loquendo, velle &amp; nolle est liberum, &amp; in hominis libera 
+      pote<lb ed="#L" n="48" break="no"/>state, sicut ex proximo huius patet; sicque potest voluntas circa aliquod purum bonum sibi 
+      <lb ed="#L" n="49"/>oblatum neque elicere velle, nec nolle, sed penitus otiari; potestque eadem voluntas, eodem 
+      <lb ed="#L" n="50"/>modo praecise disposita alias illud velle. Hoc enim euidenter apparet ex differentia inter 
+      <lb ed="#L" n="51"/>potentiam rationalem &amp; irrationalem 9. Metaphys. 10. rationabiliter assignata, sicut 34a 
+      <lb ed="#L" n="52"/>pars Corollarij primi, primi plenius manifestat. Secundo autem modo loquendo velle 
+      <lb ed="#L" n="53"/>&amp; nolle non est liberum, nec in hominis, sicut nec in bestiae libera potestate, sed 
+      necessa<lb ed="#L" n="54" break="no"/>rium necessitate naturali, &amp; frequenter inuitum, sicut nimis certitudinaliter &amp; frequenter 
+      do<lb ed="#L" n="55" break="no"/>lentes &amp; gementes cum sanctisso Apostolo experimur. Sunt tamen hi motus quodammodo in 
+      <lb ed="#L" n="56"/>hominis potestate, quatenus scilicet habet virtutem rationalem superiorem, qua potest eis 
+      re<lb ed="#L" n="57" break="no"/>sistere, eos reprimere &amp; plurimum refraenare, quam quia non habent bestiae, non sic possunt, 
+      <lb ed="#L" n="58"/>Quod bene aduertens Philos. 1. Eth. vlt. distinguens multipliciter species &amp; potentias animae 
+      <!--481.xml-->
+      <pb ed="#A" n="448"/>
+               <lb ed="#L" n="1"/>irrationalis, inquit; haec quidem assimilatur communi &amp; plantatiuo; dico autem causam eius A 
+      <lb ed="#L" n="2"/>quod est nutriri &amp; augeri; videtur vtique &amp; alia quaedam natura animae irrationalis esse, 
+      partici<lb ed="#L" n="3" break="no"/>pans quidem aliqualiter ratione; Incontinentis enim &amp; continentis rationeni habens 
+      Iauda<lb ed="#L" n="4" break="no"/>mus, recte enim &amp; ad optima deprecatur ratio; videtur autem in ipsis aliud praeter rationem  
+      <lb ed="#L" n="5"/>innatum, quod aduersatur &amp; obuiat rationi. Firmiter enim quemadmodum dissolutae 
+      corpo<lb ed="#L" n="6" break="no"/>ris particulae, in dextrum praeeligentium mouere, in sinistrum praue feruntur, &amp; in anima sic; 
+      <lb ed="#L" n="7"/>ad contraria enim motus incontinentium. Sed in corporalibus quidem videmus, quod 
+      per<lb ed="#L" n="8" break="no"/>uerse motum est; in anima vero non videmus. Fortassis autem nihil minus in anima 
+      existi<lb ed="#L" n="9" break="no"/>mandum aliquid esse praeter rationem, contrarians huic &amp; obuians; qualiter autem alterum, 
+      <lb ed="#L" n="10"/>nihil differt. Ratione autem &amp; hoc videtur participare quemadmodum diximus. Obedit 
+      igi<lb ed="#L" n="11" break="no"/>tur rationi quod continentis; Amplius autem forsitan subiectius est quod sobrij &amp; fortis; 
+      Om<lb ed="#L" n="12" break="no"/>nia enim consonant rationi. Videtur vtique &amp; irrationale duplex; plantatiuum, quoddam 
+      e<lb ed="#L" n="13" break="no"/>nim nequaquam communicat ratione; Concupiscibile vero &amp; vniuersaliter apperibile 
+      parti<lb ed="#L" n="14" break="no"/>cipat aliqualiter secundum quod exaudibile est ei, &amp; ob audibile; Ita vtique &amp; patris &amp; 
+      ami<lb ed="#L" n="15" break="no"/>corum dicimus habere rationem, &amp; non quemadmodum Mathematicorum. Quoniam 
+      au<lb ed="#L" n="16" break="no"/>tem suadetur aliqualiter a ratione irrationale, nunciat &amp; suasio, &amp; omnis increpatio &amp; 
+      depre<lb ed="#L" n="17" break="no"/>catio; si autem oportet &amp; hoc dicere rationem habere, duplex erit &amp; rationem habens, hoc 
+      <lb ed="#L" n="18"/>quidem principaliter &amp; in seipso, hoc autem quemadmodum a patre audibile aliquid. Simili 
+      <lb ed="#L" n="19"/>quoque modo posset inquiri; Nunquid voluntas possit non nolle purum malum sibi 
+      obla<lb ed="#L" n="20" break="no"/>tum, ad quod &amp; potest similiter argui, &amp; similiter responderi. Amplius autem posset quis 
+      que<lb ed="#L" n="21" break="no"/>rere consequenter, Nunquid voluntas possit velle, &amp; nolle quodcunque suum obiectum sub 
+      <lb ed="#L" n="22"/>quocunque gradum, cum non sit ibi resistentia qualiscunque. Sed cum sit determinatae entitatis, 
+      <lb ed="#L" n="23"/>videtur similiter determinatae actiuitatis. Aliter etiam qui diligeret quippiam secundum 
+      vlti<lb ed="#L" n="24" break="no"/>mum sui posse, diligeret illud sub gradu infinito simpliciter intensiue contra prius ostensa 
+      par<lb ed="#L" n="25" break="no"/>te 402. Corollarij primi, primi. Adhuc fortassis quaereretur; Nunquid de essentia liberi 
+      arbi<lb ed="#L" n="26" break="no"/>trij sit naturaliter libertas, seu possibilitas contradictionis, &amp; hoc respectu cuiuslibet actus 
+      sui<lb ed="#L" n="27" break="no"/>Hoc enim videtur ex significato nominis importari. Oppositum tamen est certum, de 
+      libe<lb ed="#L" n="28" break="no"/>ro arbitrio Dei quo diliget se, quo quaelibet personarum diuinarum diligit quamlibet aliam 
+      <lb ed="#L" n="29"/>&amp; seipsam, sicut per primam suppositionem potest ostendi. Amplius autem &amp; iuxta istud 
+      vl<lb ed="#L" n="30" break="no"/>terius quaeri potest; Nunquid liberum arbitrium, quod de se naturaliter est contradictionis, 
+      <lb ed="#L" n="31"/>semper libere secundum contradictionem possit in oppositum cuiuslibet actus sui; hoc enim 
+      <lb ed="#L" n="32"/>videtur in significato nominis contineri. Oportet tamen distinguere tempora &amp; liberi arbitrij 
+      <lb ed="#L" n="33"/>qualitates: Pro tempore namque &amp; qualitate beatitudinis confirmatae non potest, sicut ratio 
+      <lb ed="#L" n="34"/>beatitudinis confirmatae demonstrat, &amp; omnes Doctores Catholici vnanimiter contestantur. 
+      <lb ed="#L" n="35"/>Pro tempore vero &amp; qualitate viae, potest in oppositum priuatiue non agere, scilicet, 
+      talema<lb ed="#L" n="36" break="no"/>ctum, non tamen semper potest in oppositum positiue, in actum scilicet contrarium positiuum 
+      <lb ed="#L" n="37"/>respectu cuiuscunque obiecti, sicut praecedentia manifestant.  
+      </p>
+            <div xml:id="dcn2br-e59271-Dd1e655">
+               <head xml:id="dcn2br-e59271-Hd1e657">Corollarium</head>
+               <p xml:id="dcn2br-e59271-d1e660">
+                  <lb ed="#L" n="38"/>COROLLARIVM. 
+      <lb ed="#L" n="39"/>Corollarium, quod non ideo dicitur liberum Arbitrium, quia libere potest velle &amp; nolle 
+      <lb ed="#L" n="40"/>quodcunque, sed quia libere potest velle quodcumque obiectum suum volubile, &amp; nolle 
+      <lb ed="#L" n="41"/>quodcunque obiectum suum nolubile. 
+      </p>
+               <p xml:id="dcn2br-e59271-d1e671">
+                  <lb ed="#L" n="42"/>EX his autem reputo manifestum, quod non ideo dicitur liberum arbitrium, quia libere 
+      <lb ed="#L" n="43"/>Tpotest velle, &amp; nolle quodcunque, sed quia libere potest velle quodcunque obiectum suum 
+      <lb ed="#L" n="44"/>volubile, &amp; nolle quodcunque obiectum suum nolubile; sicut si visus esset potentia libera, non 
+      <lb ed="#L" n="45"/>ideo tamen posset videre sonum, &amp; inuisibilia caetera, sed visibilia sua tantum. Nec ideo 
+      dici<lb ed="#L" n="46" break="no"/>tur liberum, quia libere potest velle aut nolle quodcunque suum obiectum quocunque modo 
+      <lb ed="#L" n="47"/>sicut praecedentia docuerunt, sed modo potentiae suae apto. Nec ideo dicitur liberum 
+      arbi<lb ed="#L" n="48" break="no"/>trium quia libere potest in oppositum cuiuslibet actus sui, vt praemissa demonstrant, sed quia 
+      <lb ed="#L" n="49"/>ex rationali arbitrio siue iudicio spontanee illum agit, sicut primum huius ostendit. Nec ideo 
+      <lb ed="#L" n="50"/>dicitur liberum arbitrium quia libere potest benefacere &amp; peccare, sicut ex praemissis 
+      conse<lb ed="#L" n="51" break="no"/>quitur euidenter, sed propter causam proximo assignatam.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 25</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 25</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="563"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e74753"><!-- l2c25 -->
+            <head xml:id="dcn2br-e74753-Hd1e106">Caput 25</head>
+            <p xml:id="dcn2br-e74753-d1e109">
+               <lb ed="#L" n="22"/>CAP. XXV. 
+      <lb ed="#L" n="23"/>Quartam corrigit.
+      </p>
+            <p xml:id="dcn2br-e74753-d1e116">
+               <lb ed="#L" n="24"/>ADhuc autem quarta falsigraphia praemissa potest destrui vt priores. Haec 
+      <lb ed="#L" n="25"/>quoque fuit specialiter glossa Pelagij, sicut patet ex 2I huius. Item 
+      <lb ed="#L" n="26"/>tunc Deus aequaliter faceret siue daret bene operanti circa quodcunque 
+      <lb ed="#L" n="27"/>obiectum &amp; non operanti, vel male operanti circa simile obiectum 
+      si<lb ed="#L" n="28" break="no"/>bi similiter praesentatum: quare &amp; ipsi tenerentur aequaliter gratias 
+      a<lb ed="#L" n="29" break="no"/>gere Domino Deo suo; sicut potest haberi ex 3I. primi; sicque 
+      Lu<lb ed="#L" n="30" break="no"/>cifer, &amp; Michael, Chain, &amp; Abel, Linus &amp; Petrus, imperfectus 
+      qui<lb ed="#L" n="31" break="no"/>libet &amp; perfectus, ad Dei dilectionem &amp; gratiarum actionem 
+      aequali<lb ed="#L" n="32" break="no"/>ter tenerentur, quod nullus gratus catholicus, aut vix ingratus haereticus affirmare praesumet. 
+      <lb ed="#L" n="33"/>Primumargumentum hanc volens ostendere soluitur, vt praecedens pro opinione proxima 
+      <lb ed="#L" n="34"/>praecedunte. Autoritas etiam Augustim satis testatur, quod ille est vnus modus causandi, 
+      <lb ed="#L" n="35"/>seu faciendi actum voluntatis, scilicet presentare voluntati obiectum; sed non dicit quod 
+      De<lb ed="#L" n="36" break="no"/>us nullo alio modo efficit actum voluntatis creatae; nec loquitur ibi vniuersaliter de quocun 
+      <lb ed="#L" n="37"/>que actu voluntatis creatae, sed Ii tantum de malo, &amp; illius negat Dominum esse Autorem, 
+      <lb ed="#L" n="38"/>quod potest intelligi quantum ad deformitatem actus, non quantum ad eius substantiam, 
+      si<lb ed="#L" n="39" break="no"/>cut vult ipsemet Augustinus de gratia &amp; libero arbitrio 48. vbi inter multa testimonia sacrae 
+      <lb ed="#L" n="40"/>Scripturae, etiam per hunc eundem locum Psalmi ostendit Deum operari in cordibus 
+      homi<lb ed="#L" n="41" break="no"/>num omnem actum voluntatis bonum &amp; malum iudicio suo occulto, sed iusto, sicut 
+      vicesi<lb ed="#L" n="42" break="no"/>mum huius secundi plenius allegauit. Hoc idem volunt Esaias, Anselmus, &amp; articulus 
+      Parisi<lb ed="#L" n="43" break="no"/>ensis cum allegatis ca. 20. 19. &amp; 1 8. huius 2. 26. &amp; 34. 1. Aliter autem potest istud conuenienter 
+      <lb ed="#L" n="44"/>intelligi, quod Deus non conuertit cor Aegyptiorum, vt odirent populum eius, id est, non sic 
+      con<lb ed="#L" n="45" break="no"/>uertit vt cogeret cos pro vt ipsi essent excusabiles, vel vt ipse esset accusabilis de peccato, cum 
+      <lb ed="#L" n="46"/>alijs intellectibus Autoritatum similium 34. primi plenius declaratis. Vnde &amp; Augustinus 
+      de<lb ed="#L" n="47" break="no"/>Gratia &amp; libero arbitrio 48. ostenso per hunc locum Pfalmi cum alijs locis Scripturae, quod 
+      <lb ed="#L" n="48"/>Deus operatur in cordibus hominum ad inclinandas eorum voluntates quocunque voluerit,  
+      <lb ed="#L" n="49"/>siue ad bona, siue ad mala, quia hoc minus videtur de malis, possetque ex hoc forsitan videri 
+      <lb ed="#L" n="50"/>cuipiam; quod Deus esset iniquus; ostendit quod Deus hoc facit pro meritis hominum iudi¬ 
+      <!--597.xml-->
+      <pb ed="#A" n="564"/>
+               <lb ed="#L" n="1"/>cio suo aliquando aperto, aliquando occulto, semper autem iusto: Fixum enim, inquit, 
+      de<lb ed="#L" n="2" break="no"/>bet esse &amp; immobile in corde vestro, quia non est iniquitas apud Deum. Ac per hoc, 
+      quan<lb ed="#L" n="3" break="no"/>do legitis in libris veritatis a Deo seduci homines aut obtundi, aut obdurari corda eorum, 
+      no<lb ed="#L" n="4" break="no"/>lite dubitare praecessisse mala merita eorum, vt iuste ista paterentur, ne incurratis in illud 
+      Pro<lb ed="#L" n="5" break="no"/>uerbium Salomonis, Insipientia viri violat vias eius, Deum autem causatur in corde suo.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 26</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 26</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="251"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e34252"><!-- l1c26 -->
+            <head xml:id="dcn2br-e34252-Hd1e106">Caput 26</head>
+            <p xml:id="dcn2br-e34252-d1e109">
+      <!--284.xml-->
+               <pb ed="#A" n="251"/>
+               <lb ed="#L" n="1"/>CAP. XXVI. 
+      <lb ed="#L" n="2"/>Quod tota vniuersitas rerum est bona, &amp; nulla res 
+      <lb ed="#L" n="3"/>per se mala. 
+    </p>
+            <p xml:id="dcn2br-e34252-d1e122">
+               <lb ed="#L" n="4"/>HIc autem in mediastino pro praecedentibus &amp; sequentibus 
+      ostenden<lb ed="#L" n="5" break="no"/>dum, totam vniuersitatem rerum omnium esse bonam, nec esse in ea 
+      <lb ed="#L" n="6"/>aliquid quod sit malum. Huius enim oppositum Empedoeles, 
+      Picta<lb ed="#L" n="7" break="no"/>goras, Manes, &amp; Manichaei haeretici dicere videbantur, sicut iSa pars 
+      <lb ed="#L" n="8"/>Corollarij primi docet. Omne siquidem per se volubile &amp; amabile a 
+      <lb ed="#L" n="9"/>bono &amp; sapiente, est aliquo modo bonum, vt tam Philosophi, quam  
+      <lb ed="#L" n="10"/>Theologi pariter contestantur: &amp; quaelibet pars mundi est per se 
+      vo<lb ed="#L" n="11" break="no"/>QXl subilis &amp; amabilis a Deo, sicut &amp; per se creabilis, &amp; conseruabilis est ab 
+      <lb ed="#L" n="12"/>eo, sicut ex capitulis 2. 3. 6. 8. &amp; 9. poterit apparere. Item omnis veritas est bona, quia recta, 
+      <lb ed="#L" n="13"/>iusta, &amp; sancta; &amp; omnis essentia est veritas, veritatemue habens, quoniam ens &amp; verum 
+      <lb ed="#L" n="14"/>conuertuntur, sicut ex praemissis 2. &amp; II. huius apparet. Vnde &amp; Aristoteles 2. Metaph. 4. 
+      <lb ed="#L" n="15"/>Vnumquodque sicut se habet, vt sit, ita ad veritatem; &amp; 5. Metaph. vbi distinguitur ens, 
+      <lb ed="#L" n="16"/>Esse significat quia verum; non esse autem quia non verum sed falsum. Et idem recitat 6i. 40. 
+      <lb ed="#L" n="17"/>&amp; eodem 50. vbi falsum distinguitur, dicitur, quod falsum dicitur quod non est; quare &amp;  
+      <lb ed="#L" n="18"/>quod est dicitur verum. Et Auicenna 8. Metaph. 6. Necesse est veritas, veritas autem 
+      cuius<lb ed="#L" n="19" break="no"/>cunque rei est proprietas sui esse, quod stabilitum est ei. Anselmus quoque in libello suo de 
+      <lb ed="#L" n="20"/>veritate probat, quod omnis essentia, &amp; omnis actio, est veritas, iustitia, &amp; rectitudo, vt patet 
+      <lb ed="#L" n="21"/>capit. 6. 7. &amp; 8. &amp; quasi per totum libellum; &amp; Augustinus 83. quaestionum 1. Omnis anima,  
+      <lb ed="#L" n="22"/>eo anima est, quo vera anima est; Omnis ergo anima a veritate habet, vt omnino sit. Cur 
+      er<lb ed="#L" n="23" break="no"/>go non ita de alia re quacunque? Quare &amp; 7. Confess. 15. dicit ita, Omnia vera sunt, in 
+      <lb ed="#L" n="24"/>quantum sunt, nec quicquam est falsitas, nisi cum putatur esse quod non est. Item Deus quia 
+      <lb ed="#L" n="25"/>est summe ens, est summe bonus &amp; perfectus, quoniam tam Philosophi, quam Theologi, 
+      <lb ed="#L" n="26"/>probantes Deum esse, probant vnum primum ens; &amp; ex hoc ostendunt illud esse maxime 
+      <lb ed="#L" n="27"/>ens &amp; perfectissimum &amp; optimum; quare &amp; omnia alia entia, quantum participant suo esse, 
+      <lb ed="#L" n="28"/>tantum proportionaliter sunt bona naturaliter &amp; perfecta. Et hoc innuit Aristoteles obscure 
+      <lb ed="#L" n="29"/>I. de Coelo 100. cum dicit, Totius Coeli finis, &amp; omne tempus infinitatem continens, &amp; 
+      <lb ed="#L" n="30"/>perfectio aeternum est, a semper esse sumens denominationem immortalis &amp; diuinus, vnde 
+      <lb ed="#L" n="31"/>&amp; alijs communicatum est, his quidem clarius, his autem obscurius esse &amp; viuere. 
+      Augusti<lb ed="#L" n="32" break="no"/>nus quoque 1. de doctrina Christiana penult. dicit idem satis clare, Quia Deus bonus est, 
+      su<lb ed="#L" n="33" break="no"/>mus, &amp; in quantum sumus boni sumus, &amp; in quantum mali sumus, in tantum minus sumus. 
+      <lb ed="#L" n="34"/>Ille summe ac primitus est, qui omnino incommutabilis est, &amp; qui plenissime dicere potuit, 
+      <lb ed="#L" n="35"/>Ego sum, quisum: Caetera, nisi ab eo, esse non possunt; &amp; in tantum bona sunt, in quantum 
+      <lb ed="#L" n="36"/>acceperunt vt sint. Item si aliquid sit per se malum, illud est contrarium per se bono; illud 
+      <lb ed="#L" n="37"/>ergo, vel saltem primum in genere malorum, est aequale primo in genere bonorum; quoniam 
+      <lb ed="#L" n="38"/>contraria sicut constat, posita sunt sub eodem genere &amp; maxime distant; Ideoque sicut dicit 
+      <lb ed="#L" n="39"/>Aristoteles 1. de Coelo 44. Contrariorum si alterum est determinatum, &amp; alterum 
+      determina<lb ed="#L" n="40" break="no"/>tum erit; vbi Auerroes in comment. probat hoc dicens; Hoc manifestum est ex descriptione 
+      <lb ed="#L" n="41"/>contrariorum, quae sunt in fine remotionis, &amp; cum vtrumque eorum maxime distat, necesse 
+      <lb ed="#L" n="42"/>est vt sit aequaliter in contrarietate, scilicet vt neutrum sit fortius reliquo; sed cum 
+      posueri<lb ed="#L" n="43" break="no"/>mus alterum eorum finitum, &amp; alterum infinitum, tunc non contrariabuntur sibi aequaliter. 
+      <lb ed="#L" n="44"/>quoniam forma contrarietatis quae est in altero eorum non erit aequalis formae contrarietatis 
+      <lb ed="#L" n="45"/>g alterius: &amp; addit, Et manifestum est per se vt sint in eodem gradum contrarietatis; &amp; si non,  
+      <lb ed="#L" n="46"/>non in fine distabunt. Possibile enim esset addere super minus, vt esset magis contrarium,  
+      <lb ed="#L" n="47"/>quod probat tripliciter esse falsum; Primo, quia tunc idem haberet plura contraria, scilicet  
+      <lb ed="#L" n="48"/>summa: secundo, quia tunc illud quod positum erat in maxima distantia, non erit ita, quod est 
+      <lb ed="#L" n="49"/>contrarium positionis: tertio, quia tunc non esset eadem proportio vnius contrariorum ad 
+      re<lb ed="#L" n="50" break="no"/>liquum, &amp; e contra, cuius oppositum asserit esse notum. Si igitur haec sint ita, malum est 
+      infini<lb ed="#L" n="51" break="no"/>tum, &amp; aeque forte cum Deo omnipotenti, apud quem non erit impossibile omne verbum. Posset 
+      <lb ed="#L" n="52"/>ergo impedire &amp; frustrare Deum bonum ab omni opere suobono, &amp; sic non esset omnipotens 
+      <lb ed="#L" n="53"/>cum alijs absurditatibus infinitis. Hoc idem probat Aug. 83. qu. 6. hoc modo, Omne quod est 
+      <lb ed="#L" n="54"/>aut corporeum est aut incorporeum; Corporeum sensibili, incorporeum autem intelligibili specie con¬ 
+      <!--285.xml-->
+      <pb ed="#A" n="252"/>
+               <lb ed="#L" n="1"/>tinetur: Omne ergo quod est, sine aliqua specie non est; vbi autem aliqua species est, 
+      neces<lb ed="#L" n="2" break="no"/>sario aliquis modus est; et modus aliquid boni est; summum ergo malum nullum modum 
+      ha<lb ed="#L" n="3" break="no"/>bet; Caret enim omni bono; Non est igitur quia nulla specie continetur, totumque hoc 
+      no<lb ed="#L" n="4" break="no"/>men mali, de speciei priuatione repertum est. Item si sit aliquid per se malum, illud est 
+      contra<lb ed="#L" n="5" break="no"/>rium summo bono, Domino Deo bono contra Aristotelem 12. Metaphys. cap. vltim. sic 
+      <lb ed="#L" n="6"/>scribentem, Non est contrarium primo nihil; Et Augustinus 12. de Ciuit Dei 2. Ei naturae 
+      <lb ed="#L" n="7"/>quae summe est, contraria nulla est, nisi quae non est. Ei quippe quod est contrarium non est,  
+      <lb ed="#L" n="8"/>et propterea Deo &amp; supernae essentiae, &amp; Autori omnium qualiumcunque essentiarum, 
+      essen<lb ed="#L" n="9" break="no"/>tia nulla contraria est. Amplius autem quod naturaliter appetit &amp; amat bonum, est aliquo 
+      <lb ed="#L" n="10"/>modo bonum. Si enim esset per se, &amp; perfecte malum, esset per se &amp; perfecte contrarium 
+      bo<lb ed="#L" n="11" break="no"/>no: sed nullum talium contrariorum naturaliter appetit &amp; amat aliud, sed magis odit &amp; 
+      fu<lb ed="#L" n="12" break="no"/>git; sed quilibet naturaliter appetit bonum. Nam 1. Eth. 1. dicitur, quod bene enuntiauerunt 
+      <lb ed="#L" n="13"/>bonum, quod omnia appetunt. Et 20. de anima 34. Omnia appetunt diuinum &amp; immortale. Quod 
+      <lb ed="#L" n="14"/>&amp; ratio manifestat; Omne enim habens finem naturalem naturaliter appetit illum; sed Deus 
+      <lb ed="#L" n="15"/>est finis vltimus omniumentium, sicut ex secunda Suppositione posset ostendi, &amp; probatur 
+      ex<lb ed="#L" n="16" break="no"/>presse I2 Met, &amp; alibi multis locis in Philosophia Arist. &amp; similiter Auicennae; vnde &amp; Parab. 
+      <lb ed="#L" n="17"/>16. omnia propter semetipsum operatus est Dominus; &amp; Apocal. 1. Ego sum Alpha &amp; 
+      Ome<lb ed="#L" n="18" break="no"/>ga, principium &amp; finis. Auicenna quidem hoc totum de communi appetitu boni clare testatur 
+      <lb ed="#L" n="19"/>8. Metaph. 6. dicens, Necesse esse per se est bonitas pura, &amp; bonitatem desiderat omnino quic 
+      <lb ed="#L" n="20"/>quid est; Id autem quod desiderat omnis res est esse, &amp; // perfectum in esse in quantum est esse, 
+      <lb ed="#L" n="21"/>&amp; esse est bonitas pura &amp; perfectio pura; et omnino bonitas est id quod desiderat omnis res 
+      <lb ed="#L" n="22"/>iuxta modulum suum, quoniam per eam perficitur eius esse. Item quidlibet vel est operatio, 
+      <lb ed="#L" n="23"/>vel habet aliquo modo operationem aliquam naturalem, sed omnis operatio, quare &amp; causa 
+      <lb ed="#L" n="24"/>operans, appetit aliquo modo bonum. Nam secundum Aristotelem 1. Eth. 1. Omnis ars &amp; 
+      <lb ed="#L" n="25"/>omnis doctrina, similiter autem &amp; actus, &amp; electio, bonum quoddam appetere videtur; Ideo s 
+      <lb ed="#L" n="26"/>bene enuntiauerunt bonum, quod omnia appetunt. Et I. Politic. 1. Eius, quod videtur, boni 
+      <lb ed="#L" n="27"/>gratia, omnia operantur omnes. Et Augustinus super illud Psalmi 32. Beata gens cuius est 
+      <lb ed="#L" n="28"/>Dominus Deus eius, post magnum processum concludit; Depellendae ergo miseriae causae, 
+      <lb ed="#L" n="29"/>&amp; acquirendae beatitudinis causae, faciunt omnes homines, quicquid vel boni faciunt, vel 
+      ma<lb ed="#L" n="30" break="no"/>li. Boetius quoque 3. de Consolatione Philosophiae prosa secunda sic dicit, Omuis 
+      morta<lb ed="#L" n="31" break="no"/>lium cura, quam multiplicium studiorum labor exercet, diuerso quidem calle procedit, sed 
+      <lb ed="#L" n="32"/>ad vnum tamen beatitudinis finem nititur peruenire; Et secundo de Coelo 34. Natura 
+      sem<lb ed="#L" n="33" break="no"/>per facit contingentium quod optimum; Et secundo de generatione penult. In omnibus, in 
+      <lb ed="#L" n="34"/>quimus, quod melius, desiderare naturam semper. Hoc idem potest aliter sic ostendi. 
+      Om<lb ed="#L" n="35" break="no"/>nis agens appetit aliquem finem proprium, vt patet 2. Phys. diffuse; et 1. Eth. 1. &amp; 9. Metaph. 
+      <lb ed="#L" n="36"/>16. &amp; alibi multis locis; Finis autem semper habet rationem boni, vt patet 2. Phys. 23. vbi 
+      <lb ed="#L" n="37"/>dicitur, Non omnino vltimum esse finem, sed optimum; et simile habetur infra, eodem 3I. I 
+      <lb ed="#L" n="38"/>Dicitur, quod finis est potissima causa, &amp; semper est, vel videtur bona; et 2. Metaph. 8. Qui 
+      <lb ed="#L" n="39"/>auferunt finem, auferunt boni naturam; et 3. Metaph. 3. et2. Phys. 74. &amp; alibi saepissime 
+      ea<lb ed="#L" n="40" break="no"/>dem sententia reperitur. Rursum sic ad idem, Omne agens desiderat naturaliter finem 
+      vlti<lb ed="#L" n="41" break="no"/>mum communem cuiuslibet actionis, qui est sine dubio summe bonus, &amp; propter hoc est 
+      fi<lb ed="#L" n="42" break="no"/>nis cuiuslibet entitatis &amp; factionis. Dicit enim Philosophus 3. Met. 3. Quod est bonum 
+      secun<lb ed="#L" n="43" break="no"/>dum se &amp; propter suam natura finis est, ita quod illius causa &amp; fiunt, &amp; sunt caetera. Item sicut 
+      <lb ed="#L" n="44"/>vult secunda Suppositio, &amp; in Philosophia ostenditur multis locis quod non est infinitus 
+      pro<lb ed="#L" n="45" break="no"/>cessus in finibus; oportet ergo quod sit vnus finis primus, &amp; vltimus, communisque toti generi 
+      <lb ed="#L" n="46"/>finium, &amp; causa finalis omnium finium aliorum, sicut est in quolibet alio genere, vt 2. &amp; 10. 
+      <lb ed="#L" n="47"/>Met. Arist. demonstratur: sed nullus talis finis citra Deum poterit assignari. Et hoc est quod 
+      <lb ed="#L" n="48"/>Philosophus autoritatibus pluribus cotestatur. Dicit enim 12. Met. 37. Quod autem est cuius 
+      <lb ed="#L" n="49"/>gratia, id est, causa finalis, in immobilibus definitio ostendit, id est definitio causae finalis quam I 
+      <lb ed="#L" n="50"/>statim adiungit, dicens, Est enim alicui quod cuius gratia, quorum hoc quidem est, hoc vero 
+      <lb ed="#L" n="51"/>non est; Mouet autem vt amatum; Motum vero, scilicet primum motum ab eo alia mouet.  
+      <lb ed="#L" n="52"/>Vbi Auerroes declarans definitionem finium, dicit ita, Perfectionum propter quas mouetur 
+      <lb ed="#L" n="53"/>perfectum, quaedam sunt qualitates vt sanitas, quaedam sunt substantiae extrinsecae a re, quae 
+      <lb ed="#L" n="54"/>monetur ad eas, vt assimiletur eis, vt inueniuntur omnes actiones seruorum, quoniam 
+      <lb ed="#L" n="55"/>sunt erga intentionem Domini sui, ergo dicuntur esse propter Dominum, &amp; similiter 
+      <lb ed="#L" n="56"/>entia cum hoc primo principio. Hoc autem primum mouens mouet primum motum, sicut 
+      pri<lb ed="#L" n="57" break="no"/>mum amans primum amatum. Primum enim coelum mouetur ab isto motore secundum 
+      deside<lb ed="#L" n="58" break="no"/>rium, vt assimiletur ei secundum suum posse, sicut amans mouetur vt assimiletur suo amato 
+      <!--286.xml-->
+      <pb ed="#A" n="253"/>
+               <lb ed="#L" n="1"/>Alia vero corpora coelestia mouentur secundum desiderium ad motum primi corporis, &amp;  
+      <lb ed="#L" n="2"/>ideo plene habent motum duplicem; ea autem quae sunt sub istis mouentur mediantibus istis 
+      <lb ed="#L" n="3"/>motibus: Generationem vero &amp; corruptionem fuciunt motus duplices oppositi, 
+      continuatio<lb ed="#L" n="4" break="no"/>nem vero vnus motus aeternus. Et supra eadem particula textus: Quod bonum, &amp; propter 
+      <lb ed="#L" n="5"/>ipsum eligibile in eadem coelementatione, &amp; optimum semper &amp; probabile quod primum, 
+      <lb ed="#L" n="6"/>vt dicit textus quem Commentator exponit: aliud autem quod eligitur propter se in 
+      vniuer<lb ed="#L" n="7" break="no"/>sitate electorum, est valde nobile cum primo acquiritur. Vbi Auerroes; Illud quod diligitur 
+      <lb ed="#L" n="8"/>&amp; desideratur propter se inter haec principia abstracta, est illud quod est in fine nobilitatis, &amp;  
+      <lb ed="#L" n="9"/>simplicitatis, &amp; vnitatis; &amp; versus ipsum mouetur omne motu velociori &amp; maiori motibus 
+      <lb ed="#L" n="10"/>propriis vnicuique eorum. Est enim electum per se, &amp; amatum omnibus; tale autem est 
+      per<lb ed="#L" n="11" break="no"/>fectum in fine, &amp; illud acquiritur per se, &amp; omnia quae acquiruntur, propter ipsum 
+      acquirun<lb ed="#L" n="12" break="no"/>tur. Vnde Philosophus 2. De coelo &amp; mundo 63. Quod est optime habens nihil indiget 
+      acti<lb ed="#L" n="13" break="no"/>onis; est enim ipsum quod cuius gratia, scilicet finis: actio autem semper est in duobus, cum 
+      <lb ed="#L" n="14"/>&amp; cuius gratia fit, &amp; quod huius gratia: aliorum autem animalium pauciores, plantarum 
+      au<lb ed="#L" n="15" break="no"/>tem parua quaedam &amp; vna forte. Aut enim vnum aliquid est quo focietur vtique 
+      quemadmo<lb ed="#L" n="16" break="no"/>dum &amp; habet, aut &amp; multa: omnia autem praeuia sunt ad optimum; vt textus quem 
+      Com<lb ed="#L" n="17" break="no"/>mentator exponit; Actiones hominis // multipliciter, &amp; non sunt propter se, sed propter aliud, 
+      <lb ed="#L" n="18"/>quoniam non est perfectae nobilitatis. Res autem perfectae nobilitatis non indiget operatione 
+      <lb ed="#L" n="19"/>qua sit nobile: nam ipsum est illud propter quod fit operatio; &amp; omnis actio, &amp; perfectio 
+      ope<lb ed="#L" n="20" break="no"/>rationis, erit per id quod facit operationem propter aliquid, &amp; propter id propter quod est 
+      o<lb ed="#L" n="21" break="no"/>peratio facientis, scilicet propter finem istum nobilem &amp; perfectum. Et secundo De anima 
+      <lb ed="#L" n="22"/>34. Animalfacit animal, &amp; planta plantam, quantum ipso semper diuino &amp; immortali 
+      par<lb ed="#L" n="23" break="no"/>ticipent secundum quod possunt: Omnia enim illud appetunt, &amp; illius causa agunt omnia 
+      <lb ed="#L" n="24"/>quaecunque agunt secundum naturam. Boetius 3. de Consol. Philosoph. pros. 1I. ostendit 
+      <lb ed="#L" n="25"/>diffuse quodlibet entium appetere finem &amp; bonum proprium &amp; commune; non commune 
+      <lb ed="#L" n="26"/>propter proprium, sed e contra. Dicit ergo quod id ad quod vniuersa festinant, est omnium 
+      <lb ed="#L" n="27"/>summum bonorum, &amp; illud est finis omnium rerum quod defideratur ab omnibus, quod quia 
+      <lb ed="#L" n="28"/>bonum esse collegimus, oportet rerum omnium finem bonum esse fateamur. Et infra prosa 
+      <lb ed="#L" n="29"/>12. Cum Deus bonitatis clauo omnia gubernare iure credatur, eademque omnia sicuti docui 
+      <lb ed="#L" n="30"/>ad bonum naturali intentione festinent; vnde dubitari non potest quin voluntarie regantur, 
+      <lb ed="#L" n="31"/>seque ad disponentis nutum veluti conuenientia, contemperataque rectori sponte 
+      conuertan<lb ed="#L" n="32" break="no"/>tur. Ita inquam necesse est. Nihil ergo est quod naturam // seruans Deo contraire conetur; 
+      ni<lb ed="#L" n="33" break="no"/>hil inquam; nec est aliquid quod summo huic bono vel possit, vel velit obsistere. Qui &amp; in 
+      <lb ed="#L" n="34"/>de Hebdomadibus, tenet, inquit, communis sententia doctorum, omne quod est ad bonum 
+      <lb ed="#L" n="35"/>tendere; omne autem tendit ad simile; quae igitur ad bona tendunt, ipsa bona sunt. Item 
+      pos<lb ed="#L" n="36" break="no"/>set confirmari per Augustinum, qui vult multis locis quod omnes homines necessario velint 
+      <lb ed="#L" n="37"/>beatitudinem, &amp; propter ipsam volunt &amp; agunt vniuersaliter quicquid volunt vel agunt, vt 
+      <lb ed="#L" n="38"/>erat superius allegatum. Ideoque non potest dici, quod haec omnia dicta Autorum 
+      intelli<lb ed="#L" n="39" break="no"/>guntur de actionibus naturalibus non voluntarijs. Quaedam enim autoritates loquuntur 
+      ex<lb ed="#L" n="40" break="no"/>presse de Angelis &amp; hominibus, &amp; etiam eadem ratio est hinc inde. Aliter quoque, entia 
+      no<lb ed="#L" n="41" break="no"/>biliora, scilicet voluntaria, &amp; actiones nobiliores, &amp; nobilioris potentiae, puta voluntariae 
+      <lb ed="#L" n="42"/>negligentius disponerentur, &amp; peius, cum tamen secundum Philosophum. 2. De coelo &amp; 
+      <lb ed="#L" n="43"/>mundo 50. Natura non curet vilia, despiciens pretiosa. Vnde videtur mirabile quoddam 
+      se<lb ed="#L" n="44" break="no"/>qui, omnem videlicet actionem cuiustibet creaturae esse frui vel vti, &amp; nullam abuti. Sed ad  
+      <lb ed="#L" n="45"/>mentem Sanctorum istud non sequitur, quia licet quaelibet actio creaturae quodammodo 
+      refe<lb ed="#L" n="46" break="no"/>ratur in Deum, non tamen praecise cum circumstantijs debitis, vt oportet. Item pax est tam 
+      <lb ed="#L" n="47"/>magnum bonum, vt nullus dubiter quin sit bonum, nec confulat circa ipsam; sed omnes 
+      ip<lb ed="#L" n="48" break="no"/>sam propter se appetunt sicut finem. Vnde Philosophus 3. Eth. 8. Consiliamur non de 
+      fini<lb ed="#L" n="49" break="no"/>bus, sed de his quae ad fines. Neque enim consiliatur Politicus si pacem faciat, neque 
+      reliquo<lb ed="#L" n="50" break="no"/>rum aliquis de fine, sed ponentes finem aliquem, qualiter &amp; per quae erit, intendunt. Item 
+      om<lb ed="#L" n="51" break="no"/>nia entia natur aliter appetunt quandam pacem, concordiam scilicet naturalem, &amp; debitam 
+      <lb ed="#L" n="52"/>harmoniam, tam intrinsece quam extrinfece circumquaque, sicut patet in simplicibus &amp; in 
+      <lb ed="#L" n="53"/>mixtis, similibus, &amp; contrarijs vniuersis, sed in hominibus maxime. Nam pacifici volunt 
+      pa<lb ed="#L" n="54" break="no"/>cem, &amp; similiter bellicosi. Nam sicut dicit Philosophus 10. Eth. II. Bellamus, vt pacem duca 
+      <lb ed="#L" n="55"/>mus: nullus enim eligit bellare eius quod est bellare gratia, neque praeparare bellum; videretui 
+      <lb ed="#L" n="56"/>enim omnino violentus occisor quis esse, si amicos oppugnatores faceret, vt pugnae &amp; 
+      occisio<lb ed="#L" n="57" break="no"/>nes fierent. Quare &amp; teste rege maximo Artaxerxe; Pax cunctis mortalibus est optata. 
+      <lb ed="#L" n="58"/>Vnde &amp; Augustinus 15. de Ciuit. Dei II. Pax est tam magnum bonum, vt nihil gratius so¬ 
+      <!--287.xml-->
+      <pb ed="#A" n="254"/>
+               <lb ed="#L" n="1"/>seat audiri, nihil desiderabilius concupisci, nihil melius inueniri; &amp; pacem omnia bona &amp;  
+      <lb ed="#L" n="2"/>mala, in omni operatione, bona, &amp; mala, desiderant &amp; amant, nec pacem vllo modo 
+      po<lb ed="#L" n="3" break="no"/>terunt non amare. Hoc autem totum Augustinus 19. de Ciuit. Dei 12. &amp; 13. plane dicit, &amp;  
+      <lb ed="#L" n="4"/>probat. Amplius autem ordo naturalis est bonum, &amp; omnia habent ordinem naturalem, 
+      <lb ed="#L" n="5"/>quare &amp; omnia bonum habent. Haec autem ratio fere tota patet 13. Metaph. 2. vbi 
+      Aristo<lb ed="#L" n="6" break="no"/>teles distinguens de bono, &amp; redarguens Aristippum, &amp; caeteros tales Sophistas ponentes non  
+      <lb ed="#L" n="7"/>esse bonum in Mathematicis, sicut 3. Metaph. 3. recitatur, ostendit in Mathematicis esse 
+      bo<lb ed="#L" n="8" break="no"/>uum, sic dicens; Quoniam autem bonum &amp; optimum, alterum hoc quidem est semper in 
+      <lb ed="#L" n="9"/>operatione; bonum autem &amp; in llmobilibus, dicentes nihil dicere Mathematicas scientias de 
+      bo<lb ed="#L" n="10" break="no"/>no aut &amp; optimo, mentientur. Dicunt enim, &amp; demonstrant maxime: Boni autem maxime 
+      <lb ed="#L" n="11"/>species &amp; ordo, commensuratio, &amp; determinatum quod maxime ostendunt Mathematicae 
+      <lb ed="#L" n="12"/>scientiae. Et quoniam multorum causa videntur haec, dico autem puta ordo &amp; 
+      determina<lb ed="#L" n="13" break="no"/>tum. Idem patet 3. de Coelo, &amp; Mundo 24. vbi dicitur, Inordinate nihil est aliud quam 
+      pae<lb ed="#L" n="14" break="no"/>ter naturam; Ordo enim propria sensibilium natura est. Item illud est bonum quod tribuit 
+      <lb ed="#L" n="15"/>cuique quod est suum, sed hoc facit ordo: Augustinus enim 19. de Ciuit. Dei 13. ordinem sic 
+      <lb ed="#L" n="16"/>definit, Ordo est parium dispariumque rerum sua cuique loca tribuens dispositio, quod satis 
+      <lb ed="#L" n="17"/>concordat dicto Aristotelis praecedenti: Quare et 15. de Ciuit. Dei 22. definit breuiter sic 
+      virtu<lb ed="#L" n="18" break="no"/>tem quod est ordo amoris. Item nisi ordo esset magnum bonum, non tam diligenter in Sacris 
+      <lb ed="#L" n="19"/>literis notaretur. In rationali quidem Iudicij debuerunt poni 4. ordines lapidum, &amp; nomina 
+      <lb ed="#L" n="20"/>filiorum Israel secundum ordinem natiuitatis suae &amp; lucernae per ordinem collocari. Regina 
+      <lb ed="#L" n="21"/>quoque Saba videns ordinem ministrantium Salomonis, dixit, Beatisserui tui. Ordo 
+      simili<lb ed="#L" n="22" break="no"/>ter Melchisedechi non minimum commendatur; &amp; quasi tota lex &amp; prophetia locis varijs 
+      <lb ed="#L" n="23"/>talibus est respersa. Apostolus quoque monet Corinthios, vt omnia fiant in eis secundum 
+      <lb ed="#L" n="24"/>ordinem &amp; honeste, Et Colossensibus scribens dicit Apostolus se gaudere videndo ordinem 
+      <lb ed="#L" n="25"/>eorum. Quod autem omnia habeant aliquem ordinem naturalem, per hoc ostenditur, quia 
+      <lb ed="#L" n="26"/>omnia habent vnum finem naturalem, vt proximo est ostensum; &amp; quia omnia essentialiter  
+      <lb ed="#L" n="27"/>&amp; naturaliter ad inuicem ordinantur essendo aequaliter plus vel minus. Aristoteles quoque 
+      <lb ed="#L" n="28"/>12. Metaph. capite vltimo inquirit, in quo consistat naturale bonnm &amp; optimum vniuersi, 
+      v<lb ed="#L" n="29" break="no"/>trum scilicet in aliquo bono separato, aut in ordine? &amp; respondendo, ostendit quod in 
+      vtro<lb ed="#L" n="30" break="no"/>que, sicut bonum exercitus consistit in ordine, &amp; duce, &amp; ponit ibi duplicem ordinem 
+      <lb ed="#L" n="31"/>omnium entium naturalem, ad inuicem scilicet, &amp; ad primum; &amp; hoc pulchre ostendit ibi 
+      <lb ed="#L" n="32"/>Auerroes comment 52. Et 1. Metaphys. capite nono recitat Aristoteles rationem 
+      Antiquo<lb ed="#L" n="33" break="no"/>rum ab ista veritate coactorum, vt dicit, ad ponendum, licet non satis distincte vnam causam  
+      <lb ed="#L" n="34"/>finalem communem omnibus entibus. Videbant enim quod omnibus entibus est, ou, &amp; 
+      <lb ed="#L" n="35"/>bene in ordine naturali; &amp; quod hoc non posset esse ab aliquo elemento, nec a casu aut 
+      fortu<lb ed="#L" n="36" break="no"/>na; quare concludebant vnum esse principium generale bonitatis totius. Ideoque 
+      Anaxa<lb ed="#L" n="37" break="no"/>goras dixit intellectum quendam esse in Animalibus, &amp; in natura causam terrae &amp; mundi, &amp; 
+      <lb ed="#L" n="38"/>ordinis totius; &amp; causam sic dicendi accepit ab Hermitimo Dacomenio, sicut statim 
+      conse<lb ed="#L" n="39" break="no"/>quenter capite decimo recitatur; &amp; hanc sententiam Philosophus approbat. Quare videtur 
+      <lb ed="#L" n="40"/>quod haec sit Philosophorum sententia generalis. Dicitque Boetius 4. de Consol. Philos. 
+      <lb ed="#L" n="41"/>prosa 6. Ordo quidem cuncta complectitur, nequid in Regno prouidentiae liceat 
+      temerita<lb ed="#L" n="42" break="no"/>ti. Adhuc autem Aristoteles in de Secret. Secretorum 1. part. 23. dicit quod Creator cuncta, 
+      <lb ed="#L" n="43"/>sua sapientia aequali pondere, &amp; certo numero, &amp; ordine destinauit. Cui &amp; concorditer 
+      Sa<lb ed="#L" n="44" break="no"/>piens Sapient. 1I. Omnia in mensura, &amp; numero, &amp; pondere disposuisti, quare &amp; in ordine 
+      <lb ed="#L" n="45"/>naturali. Haec etiam tria magnum bonum important, vt patet per Augustinum 4. super 
+      <lb ed="#L" n="46"/>Gen. 4. &amp; infra 2. de libero arbitrio 19. &amp; vlt. 5. de Ciuit. Dei II. De praedestinatione 
+      San<lb ed="#L" n="47" break="no"/>ctorum 4. &amp; alibi multis locis: Qui &amp; II. de Ciuit. Dei 15. Non est, inquit, vlla natura, 
+      <lb ed="#L" n="48"/>quam non ille constituit, a quo est omnis modus, omnis species, omnis ordo, sine quibus 
+      <lb ed="#L" n="49"/>nihil rerum inueniri, vel cogitari potest, &amp; quodlibet horum trium est bonum; quaelibet, 
+      <lb ed="#L" n="50"/>ergo res existens aliquod bonum habet, &amp; est similiter ipsa bona. Amplius autem omne 
+      ve<lb ed="#L" n="51" break="no"/>re ens est vere cognoscibile positiue, quia secundum Philosophum 2. Metaph. 4. 
+      vnumquod<lb ed="#L" n="52" break="no"/>que sicut se habet vt sit, ita ad veritatem, quare ad cognitionem: sed malum non est 
+      <lb ed="#L" n="53"/>cognoscibile positiue &amp; per se, sed priuatiue &amp; per comparationem ad bonum, sicut 
+      pri<lb ed="#L" n="54" break="no"/>uatio per suum habitum. Dicit enim Philosophus 3. de Anima 25. quod priuatio, malum 
+      <lb ed="#L" n="55"/>&amp; nigrum suo contrario aliquo modo monstratur &amp; cognoscitur; vbi dicit Auerroes, quod 
+      <lb ed="#L" n="56"/>vniuersaliter omnes priuationes non cognoscuntur nisi per sua contraria, scilicet per 
+      <lb ed="#L" n="57"/>cognitionem habitus, &amp; per cognitionem defectus habitus, &amp; hoc intendebat per 
+      nigre<lb ed="#L" n="58" break="no"/>dinem priuationem albedinis; &amp; 12. Metaphys. 37. innuit Philosophus illud idem, In¬ 
+      <!--288.xml-->
+      <pb ed="#A" n="255"/>
+               <lb ed="#L" n="1"/>telligibilis, inquiens, altera coelementatio, &amp; huius substantia prima; quare constat eum 
+      <lb ed="#L" n="2"/>loqui de coelementatione boni, cum dicit, quod illa est intelligibilis per se, iunuens, quod 
+      <lb ed="#L" n="3"/>coelementatio contraria, scilicet mali, non est intelligibilis per se, sed per accidens, quod 
+      ex<lb ed="#L" n="4" break="no"/>ponens Auerroes, allegat ab Alexandro quod illa quae sunt intellecta per se sunt de 
+      Allasto<lb ed="#L" n="5" break="no"/>chia boni; quae autem mali per accidens sunt intellecta, scilicet per priuationem boni, &amp;  
+      <lb ed="#L" n="6"/>omnium principiorum contrariorum cuiuscunque transmutationis, vnum est quasi forma, 
+      <lb ed="#L" n="7"/>&amp; aliud quasi priuatio. Allastochia autem quae est quasi forma est intellecta per se, quae 
+      au<lb ed="#L" n="8" break="no"/>tem est ouasi priuatio est intellecta, sed non per se: Priuatio enim non intelligitur nisi in 
+      re<lb ed="#L" n="9" break="no"/>spectu habitus, qui est forma. His autem concordat Augustinus 12. de Ciuitate Dei 7. dicens, 
+      <lb ed="#L" n="10"/>quod velle inuenire causas peccati malae voluntatis &amp; defectionum talium, est ac si quis velit,  
+      <lb ed="#L" n="11"/>videre tenebras, aut audire silentium; quod tamen vtrumque nobis notum est per oculos, 
+      <lb ed="#L" n="12"/>&amp; per autes, non in specie, sed in speciei priuatione. Nemo ergo ex me scire quaerat, quod 
+      <lb ed="#L" n="13"/>me nescire scio, nisi forte vt nescire discat, quod sciri non posse sciendum est. Amplius 
+      au<lb ed="#L" n="14" break="no"/>tem si aliquid esset per se malum, hoc maxime videretur de actu malo moraliter; sed 
+      quili<lb ed="#L" n="15" break="no"/>bet talis est aliquis motus; quare &amp; actus, &amp; perfectio mobilis seu moti in quantum huius, 
+      <lb ed="#L" n="16"/>vt patet 3. Phys. Aristotelis satis diffuse. Item ad idem, Omnis actus est finis, 
+      comple<lb ed="#L" n="17" break="no"/>mentum, &amp; perfectio naturalis potentiae, cuius est actus. Dicit enim Aristoteles 9. Metaph. 
+      <lb ed="#L" n="18"/>15. finis autem actus, &amp; huius gratia potentia sumitur. Non enim vt visum habeant vident 
+      <lb ed="#L" n="19"/>Animalia, sed vt videant, visum habent; &amp; hoc ibi per magnum processum ostendit. Quare 
+      <lb ed="#L" n="20"/>&amp; omnis actus est bonum aliquod naturale: &amp; haec est ratio Auicennae 9. Metaph. 8. dicen 
+      <lb ed="#L" n="21"/>tis, Nihil in actionibus inuenitur dici malum, quod non sit perfectio causae agentis; &amp; 
+      for<lb ed="#L" n="22" break="no"/>tassis non est malum nisi in respectu patientis tristitiam per illam actionem; vel in respectu 
+      <lb ed="#L" n="23"/>causae superioris, quae deberet prohibere, sicut iniuria illata a virtute irascibili est propria 
+      <lb ed="#L" n="24"/>perfectio illius virtutis, &amp; quantum ad illam est actio talis bona, sed est malum iniuriati, vel 
+      <lb ed="#L" n="25"/>animae rationalis quae deberet fugere hanc virtutem. Idem ostendit per aliud exemplum 
+      sa<lb ed="#L" n="26" break="no"/>tis conueniens de combustione facta per ignem, quae est perfectio propria formae ignis, &amp; 
+      <lb ed="#L" n="27"/>per consequens bonum eius, sed est forsan malum combusti, vel illius qui ignem accendit.  
+      <lb ed="#L" n="28"/>Item homicidium &amp; adulterium non sunt per se mala, nec aliqui actus exteriores, quia non in 
+      <lb ed="#L" n="29"/>pueris, morionibus, dormientibus, seu etiam furiosis, cum careant arbitrio libero 
+      volunta<lb ed="#L" n="30" break="no"/>tis causalis. Haec patet ex secundo huius praemissis. Ad idem, si homicdium sit per se 
+      ma<lb ed="#L" n="31" break="no"/>lum, homicidium secundum quod homicidium est malum, quoniam ad per se, siue 
+      secun<lb ed="#L" n="32" break="no"/>dum se sequitur secundum quod, vt patet 5. Metaph. 23. vbi illa definiuntur; &amp; si homici 
+      <lb ed="#L" n="33"/>dium secundum quod homicidium est malum, omne homicidium est malum vt patet 1. 
+      <lb ed="#L" n="34"/>Prior, cap. de reduplicatiuis; &amp; Auerroes super 5. Metaph. comment. 3. Homo secundum 
+      <lb ed="#L" n="35"/>quod est homo, non est artifex idolorum, quoniam tunc omnis homo esset artifex Idolorum. 
+      <lb ed="#L" n="36"/>Item quicquid inest alicui per se, inest ei essentialiter, vt patet 1. Post. &amp; 5. Metaphys. vbi 
+      <lb ed="#L" n="37"/>prius, &amp; quicquid inest alicui essentialiter, inest necessario omnibus suppositis. vt patet 2. de 
+      <lb ed="#L" n="38"/>Coelo 59. vbi arguitur quod si vna stella est sphaericae figurae, ergo &amp;st omnis. Vbi dicit Auer 
+      <lb ed="#L" n="39"/>roes, Necesse est vt illud quod existit in aliquo indiuiduorum speciei ex rebus essentialibus, 
+      <lb ed="#L" n="40"/>existat in omnibus indiuiduis illius speciei, &amp; figura est ex rebus essentialibus. Venerabilis 
+      <lb ed="#L" n="41"/>quoque Anselmus Cantuariensis de casu diaboli 19. ostendens quod omnis voluntas, actus 
+      <lb ed="#L" n="42"/>scilicet voluntatis, in quantum est, bonum est, &amp; nulla res malum, sic probat: quod 
+      volun<lb ed="#L" n="43" break="no"/>tas primi Angeli, qua voluit esse similis Deo, non fuit malum, scilicet essentialiter &amp; per se, 
+      <lb ed="#L" n="44"/>quia tunc filius Dei non vellet similis esse Patri: &amp; addit, Aut si velle quaslibet infimas 
+      volup<lb ed="#L" n="45" break="no"/>tates esset malum, // malum diceretur voluntas brutorum. Item si homicidium per se sit 
+      ma<lb ed="#L" n="46" break="no"/>lum non per accidens, cum semper &amp; vbique homicidium sit ipsummet, &amp; habeat se totum, 
+      <lb ed="#L" n="47"/>semper &amp; vbique est malum: Si enim nunc vel hic non sit malum, &amp; tunc vel ibi sit malum, 
+      <lb ed="#L" n="48"/>hoc est propter aliquid quod accidit sibi nunc &amp; hic, ratione cuius nunc &amp; hic est malum; 
+      <lb ed="#L" n="49"/>quod cum alibi, &amp; alias ab eo fuerit separatum, tunc &amp; ibi non erit malum; Non est ergo 
+      <lb ed="#L" n="50"/>malum solummodo per seipsum, nec per aliquid sibi essentiale, vt est anima, vel risibilitas 
+      ho<lb ed="#L" n="51" break="no"/>mini; talia enim separari non possunt; est ergo tantum malum per accidens, quia per 
+      ali<lb ed="#L" n="52" break="no"/>quid tale, quod potest sibi adesse, &amp; abesse praeter corruptionem subiecti. Venerabilis 
+      quo<lb ed="#L" n="53" break="no"/>que Anselmus Cantuariensis in De conceptu virginali 4. arguit isto modo; Si appetitus 
+      con<lb ed="#L" n="54" break="no"/>cupiscentiales per se iniusti essent, quoties illis consentiretur, iniustum facerent, sed quando brura 
+      <lb ed="#L" n="55"/>animalia illis consentiunt, non dicuntur iniusta. Item si actus adulterij &amp; homicidij per se sint 
+      <lb ed="#L" n="56"/>mali, cum actus secundum essentiam similis sit in coniugatis, &amp; non co iugatis, in innocentibus &amp; 
+      <lb ed="#L" n="57"/>reis mortis, erit &amp; peccatum in istis. Ad ide ponatur, quod propter nimiam similitudinem, vel 
+      ali<lb ed="#L" n="58" break="no"/>am causam ex ignorantia inculpabili vir cognoscat vxorem alieaa credens eam esse propriam, 
+      <!--289.xml-->
+      <pb ed="#A" n="256"/>
+               <lb ed="#L" n="1"/>&amp; similiter occidat innocentem positum in carcere loco nocentis, iuste damnati, &amp; debite 
+      cu<lb ed="#L" n="2" break="no"/>stoditi, neuter peccat, sed meretur in casu. Ergo tales actus per se, &amp; secundum suam 
+      sub<lb ed="#L" n="3" break="no"/>stantiam non sunt mali, sed aliquando sunt boni, sicut actus carnales cum propria vxore, dum 
+      <lb ed="#L" n="4"/>creditur aliena, est peccatum mortale, &amp; occisio nocentis crediti innocentis, Istud apparet 
+      Ge<lb ed="#L" n="5" break="no"/>nes. 29. de Rachel &amp; Lea; et in Canone 290. Quaest. 1. &amp; 4. Sent. Petri, dist. 30. de similibus 
+      <lb ed="#L" n="6"/>manifeste. Adhuc autem ad idem, Iustitia &amp; iniustitia sunt priuatiue opposita, quare &amp; nata 
+      <lb ed="#L" n="7"/>sunt fieri circa idem, vt patet in praedicamentis; et 5. Metaph. Aristotelis: sed iustitia est in sola 
+      <lb ed="#L" n="8"/>rationali creatura; ergo &amp; iniustitia, &amp; non in talibus actibus exterioribus; Imo non 
+      vide<lb ed="#L" n="9" break="no"/>tur magis per se peccatum in talibus actibus, quam in similibus actibus bestiarum. Haec 
+      au<lb ed="#L" n="10" break="no"/>tem quasi tota ratio est Anselmi de Conceptu virginali, vbi similiter ostendit peccatum 
+      origi<lb ed="#L" n="11" break="no"/>nale per hoc quod est iniustitia non esse in semine, aut corpore, sed tantum in anima rationali. 
+      <lb ed="#L" n="12"/>Amplius autem videtur, quod nullus actus interior per se est malus, quia nec blasphemia, nec 
+      <lb ed="#L" n="13"/>odium Dei, quod potest ostendi, sicut de actibus exterioribus est ostensum in morionibus, &amp; I 
+      <lb ed="#L" n="14"/>etiam furiosis; &amp; quia quilibet talis actus est quaedam perfectio naturalis talis potentiae 
+      natura<lb ed="#L" n="15" break="no"/>lis. Praeterea intelligere &amp; velle sunt operationes diuersae; Ponatur ergo quod Deus creet 
+      <lb ed="#L" n="16"/>aliquam naturam, quae possit libere velle &amp; nolle, &amp; facere caetera opera voluntatis, &amp; non 
+      in<lb ed="#L" n="17" break="no"/>tellectualiter nec rationabiliter iudicare, sed simpliciter comprehendere sicut bruta, tunc 
+      ta<lb ed="#L" n="18" break="no"/>lis natura blasphemando, vel odiendo Deum non peccaret, quia non faceret contra iudicium, 
+      <lb ed="#L" n="19"/>seu regulam rationis. Tales ergo actus non sunt per se mali, sicut ex praeostensis apparet. 
+      Am<lb ed="#L" n="20" break="no"/>plius autem homo potest sine culpa sua aliqua praecedente multipliciter decipi per 
+      apparen<lb ed="#L" n="21" break="no"/>tias plurimas, &amp; Sophistica argumenta. Ponatur ergo quod ille Behemot callidissimus 
+      So<lb ed="#L" n="22" break="no"/>phistarum cuius argutiae sunt perplexae, aliquem simplicem, sine culpa sua priori, inuoluat, &amp;  
+      <lb ed="#L" n="23"/>illaqueet tam perplexe, vt sibi videatur omnino, quod nisi blasphemet Deum, vel odiat, 
+      ne<lb ed="#L" n="24" break="no"/>cessario plus peccabit, iste tunc secundum iudicium rectissimae rationis tenetur blasphemare 
+      <lb ed="#L" n="25"/>Deum, vel odire, ne alias incidat in maius peccatum, quoniam secundum communem animi 
+      <lb ed="#L" n="26"/>conceptionem, de duobus malis, minus malum est eligendum, cuius causa est, quia in bonis 
+      <lb ed="#L" n="27"/>est e contrario, scilicet quod maius est magis eligendum. Vnde 5. Eth. 5. In boni ratione fit 
+      <lb ed="#L" n="28"/>minus malum ad maius malum, est minus magis eligibile maiori; eligibile autem bonum, &amp; 
+      <lb ed="#L" n="29"/>magis maius. Idem patet per beatum Gregorium 32. Moral. 17. super illud Iob. 40. Nerui 
+      <lb ed="#L" n="30"/>testiculorum eius perplexi sunt, dicentem, Horum testiculorum nerui perplexi sunt, quia 
+      sug<lb ed="#L" n="31" break="no"/>gestionum eius argumenta implicitis innexionibus alligantur, vt plerosque ita peccare faciant, 
+      <lb ed="#L" n="32"/>quatenus si fortasse peccatum fugere appetant, hoc sine alio peccati laqueo non euadant; vel 
+      <lb ed="#L" n="33"/>culpam faciant, dum vitant, ac nequaquam se ab vna valeant soluere, nisi in alia consentiant 
+      <lb ed="#L" n="34"/>se ligari. Et hoc ostendit per multa exempla, quorum primum est, Siquis iurauerit se 
+      caelatu<lb ed="#L" n="35" break="no"/>rum secreta alterius, qui indicat sibi post iuramentum, quod intendit committere secretum 
+      <lb ed="#L" n="36"/>homicidium, quod ille iuratus, non nisi prodendo hoc secretum propositum valeat impedire, 
+      <lb ed="#L" n="37"/>tunc tantae perplexitatis laqueis alligatur; quod si secretum prodiderit, videatur sibi reus 
+      per<lb ed="#L" n="38" break="no"/>iutij, si non prodiderit, reus homicidij. Aliud exemplum ponit de aliquo simplici, qui 
+      pro<lb ed="#L" n="39" break="no"/>mittit obedientiam integram praelato, qui // primo praecipiat ei facere quod non decet, tunc 
+      ta<lb ed="#L" n="40" break="no"/>lis est perplexus: Si enim obediat, facit peccatum &amp; peccat, si non obediat incurrit 
+      inobedi<lb ed="#L" n="41" break="no"/>entiam, sicut credit. Vbi contra omnes tales perplexitates ponit remedium generale, scilicet  
+      <lb ed="#L" n="42"/>vt perplexus semper eligat minus malum. Dicit enim sic; est tamen quod ad destruendas eius 
+      <lb ed="#L" n="43"/>versutias vtiliter fiat, vt cum mens inter minora &amp; maxima peccata constringitur, si omnino 
+      <lb ed="#L" n="44"/>nullus sine peccato euadendi aditus patet, minora semper eligantur; quia &amp; qui murorum 
+      am<lb ed="#L" n="45" break="no"/>bitu ne fugiat, vndique clauditur, ibi se in fuga praecipitat, vbi murus breuior inuenitur, &amp; hoc 
+      <lb ed="#L" n="46"/>totum allegatur in Can. dist. 13. Nerui, &amp; simile scribitur 22. Quaest. 4. Non solum; &amp; multa 
+      <lb ed="#L" n="47"/>similia multis capitulis post &amp; ante. Item ad idem, est illud capitulum supra, eadem 
+      distincti<lb ed="#L" n="48" break="no"/>one, Duo mala; &amp; sumitur a Concilio Toletano 8. Duo mala, inquit, licet cautissime sint 
+      <lb ed="#L" n="49"/>praecauenda, tamen si necessitas periculi vnum ex eis perpetrare compulerit, ad id debemus 
+      <lb ed="#L" n="50"/>resoluere, quod minori nexu noscitur obligari: Quid autem leuius ex his, quidve grauius sit, 
+      <lb ed="#L" n="51"/>purae rationis acumine inuestigemus. Et ad hoc facit, quod in capite illius distinctionis 
+      premit<lb ed="#L" n="52" break="no"/>titur; scilicet quod aduersus naturale ius, nulla dispensatio admittitur, nisi forsan duo mala ita 
+      <lb ed="#L" n="53"/>vrgeant, vt alterum eorum necesse sit eligi. Ide docet planissime Isid. 3. de sum. bono 5. 
+      Po<lb ed="#L" n="54" break="no"/>natur ergo quod alicui simplici qui voluit &amp; iurauit alicui praelato obedientia in omnibus 
+      in<lb ed="#L" n="55" break="no"/>tegra, preciniatur ab illo prelato, vel a diabolo qui transfigurat se in illum prelatum, quod odiat 
+      <lb ed="#L" n="56"/>Deum &amp; blasphemet, &amp; iudicet quod talis actus contra Deum sit minus malum, quia ibi est vnum 
+      <lb ed="#L" n="57"/>peccatum tantum, &amp; contra Deum tantum, &amp; multum excusatum per praeceptum praelati, 
+      cre<lb ed="#L" n="58" break="no"/>datque quod non obedire in hoc casu sit maius peccatum, quia contra praelatum suum, &amp; contra 
+      <!--290.xml-->
+      <pb ed="#A" n="257"/>
+               <lb ed="#L" n="1"/>Deum, cuius vices gerit, &amp; quod sit violare iuramentum, &amp; apostatare a voto. Vel ponatur, 
+      <lb ed="#L" n="2"/>quod Diabolus, qui tranffigurat se in Angelum lucis, tranffiguret se in magni consilij 
+      Ange<lb ed="#L" n="3" break="no"/>lum, Dominum Iesum Christum, &amp; praecipiat alicui simplici credenti quod sit Christus, quod 
+      <lb ed="#L" n="4"/>blasphemet, &amp; odiat Deum per momentum, quod si non fecerit, blasphemabit Deum, &amp; 
+      o<lb ed="#L" n="5" break="no"/>diet in aeternum damnatus, credatque minus malum esse blasphemare vel odire Deum in hoc 
+      <lb ed="#L" n="6"/>casu, quam non obedire mandanti, &amp; hoc fiat sine culpa talis aliqua praecedente. Videmus 
+      <lb ed="#L" n="7"/>enim, quod multi Sancti per argumenta sophistica decipiuntur frequenter. Et saltem hoc est 
+      <lb ed="#L" n="8"/>possibile de diuina potentia absoluta. Et si dicatur quod hoc est ad minus propter peccatum 
+      <lb ed="#L" n="9"/>originale praecedens, sit peccatum originale baptismo deletum, &amp; sit talis in charitate, tunc 
+      <lb ed="#L" n="10"/>nunquam in poenam peccati originalis incidet in ignorantiam, quae inducat eum necessario 
+      <lb ed="#L" n="11"/>in mortale peccatum. Item talis credulitas est vnus // actus possibilis fieri, vt patet per 
+      consili<lb ed="#L" n="12" break="no"/>um, &amp; per textum Iob; qui non potest intelligi sicut litera primo sonat, eo quod Beemot 
+      ta<lb ed="#L" n="13" break="no"/>lia membra non habet, patetque per Gregorium, &amp; per Gratianum similiter vbi prius, &amp; ratio 
+      <lb ed="#L" n="14"/>docet idem. Potest enim quis credere falsum manifestius &amp; minus verisimile, vt oppositum 
+      <lb ed="#L" n="15"/>primi principii, vel quod omnia mouentur vel quiescunt, &amp; similia, sicut 4. 
+      Metaphysico<lb ed="#L" n="16" break="no"/>rum, &amp; alibi recitatur: sed talis actus credulitatis perplexae nec in fieri, nec in esse dependet a 
+      <lb ed="#L" n="17"/>culpa priori, tanquam ab aliqua sua causa, sicut inductiue patebit. Est ergo absolute possibile 
+      <lb ed="#L" n="18"/>sine culpa priori credulitatem huiusmodi fieri &amp; manere. Item ponatur, quod Deus crearet 
+      <lb ed="#L" n="19"/>hominem sine peccato originali vel alio in gratia, talis conditionis, qualis nos sumus, de quo 
+      <lb ed="#L" n="20"/>sic decepto arguatur, vt prius. Et ad omnia subterfugia obstruenda, ponatur quod talis sit 
+      per<lb ed="#L" n="21" break="no"/>plexus, credat, quod si expectet, deliberet, consulat, vel oret Deum, peccabit grauius eo 
+      ipso<lb ed="#L" n="22" break="no"/>sit enim haec credulitas pars perplexitatis illius, ponaturque quod praecipiatur sibi, quod 
+      sta<lb ed="#L" n="23" break="no"/>tim faciat hoc vel illud, &amp; credat se obligari ad statim faciendum, sine omni expectatione vel 
+      <lb ed="#L" n="24"/>aliquo huiusmodi; vel ponatur in carcere, vbi non possit habere consilium: &amp; praeterea licet 
+      <lb ed="#L" n="25"/>oret Deum, ex quo Deus non tenetur, nec per preces cogitur ad agendum, sed quicquid agit 
+      <lb ed="#L" n="26"/>ad extra, libere semper agit, ponatur de sua potentia absoluta quod non exaudiat 
+      deprecan<lb ed="#L" n="27" break="no"/>tem. Talis ergo sic perplexus si eligat, &amp; faciat quod credit esse minus malum, non peccat: 
+      <lb ed="#L" n="28"/>nullus ergo talis actus per se est peccatum. Sed aliquis forsan dicet, quod si sic eligat, in hoc 
+      <lb ed="#L" n="29"/>casu, nihilominus ipse peccat, quia ipse eligit, &amp; facit minus peccatum, secundum autoritates 
+      <lb ed="#L" n="30"/>superius allegatas, quare &amp; aliquo modo peccat. Hoc autem non videtur: Nullus enim 
+      fa<lb ed="#L" n="31" break="no"/>ciendo quod debet peccat, talis antem facit quod debet. Nullus etiam faciendo 
+      se<lb ed="#L" n="32" break="no"/>cundum rectissimum iudicium rationis, Sanctorum, Canonis, &amp; Concilij generalis 
+      pec<lb ed="#L" n="33" break="no"/>cat; hic autem sic facit. Itemque si talis peccet, hoc est mortaliter in multis casibus, vt 
+      vi<lb ed="#L" n="34" break="no"/>detur, &amp; si non sic eligat, ipse peccat mortaliter: talis ergo in charitate, in iustitia, &amp; in 
+      recti<lb ed="#L" n="35" break="no"/>tudine voluntatis, haeres regni coelestis, haec omnia de necessitate amirteret, &amp; inuitus, quod 
+      <lb ed="#L" n="36"/>multis Sanctorum &amp; Doctorum testimonijs reprobatur. Et hoc videtur expresse contra 
+      bea<lb ed="#L" n="37" break="no"/>tum Gregorium vbi prius, &amp; allegatur in Canone vbi prius: Dicit enim, cum in dubijs 
+      con<lb ed="#L" n="38" break="no"/>stringimur, vtiliter in minimis subdimur, ne in magnis sine venia peccemus. Augustinus 
+      quo<lb ed="#L" n="39" break="no"/>que de mendacio 13. sentit idem, vbi post longam disputationem praehabitam sic concludit; 
+      <lb ed="#L" n="40"/>Ita igitur coneludendum est, vt quaecunque aliena peccata, exceptis his quae immundum 
+      faci<lb ed="#L" n="41" break="no"/>unt, in quem committuntur non euitet quisque peccatis suis neque pro se, neque pro 
+      quo<lb ed="#L" n="42" break="no"/>quam, sed ea sufferat potius fortiterque patiatur; illa vero quae ita committuntur in 
+      homi<lb ed="#L" n="43" break="no"/>nem, vt eum faciant immundum, etiam peccatis nostris euitare debemus; ac per hoc neque 
+      <lb ed="#L" n="44"/>peccata dicenda sunt, quae propterea fiunt vt illa immunditia deuitetur. Quicquid enim ita 
+      <lb ed="#L" n="45"/>fit, vt, nisi fieret, iuste reprehenderetur, non est peccatum, nullumque peccatum esset, 
+      quic<lb ed="#L" n="46" break="no"/>quid propter talia vitanda factum esset. Propter ergo haec euitanda quisquis mentirus fuerit, 
+      <lb ed="#L" n="47"/>non peccat. Et infra, eodem 26. Haec certe omnis disputatio quamuis alternet // affirmationi 
+      <lb ed="#L" n="48"/>&amp; negationi de esse mentiendum, nemo tamen potest dicere, hoc se in exemplo, aut verbo 
+      <lb ed="#L" n="49"/>Scripturae inuenire, vt diligendum vel non odio habendum vllum mendacium habeatur, sed 
+      <lb ed="#L" n="50"/>interdum mentiendo faciendum esse quod oderis, vt quod amplius detestandum est 
+      deuite<lb ed="#L" n="51" break="no"/>tur. Sed in hoc errant homines, quod subdunt pretiosa vilioribus: Cum enim concesseris 
+      ad<lb ed="#L" n="52" break="no"/>mittendum esse aliquod malum, ne aliud grauius admittatur, non ex regula veritatis, sed ex sua 
+      <lb ed="#L" n="53"/>quisque cupiditate atque consuetudine metitur malum, &amp; hoc putat grauius quod ipse 
+      am<lb ed="#L" n="54" break="no"/>plius exhorrescit, non quod amplius reuera fugiendum est. Et addit27. consequenter: Quae 
+      <lb ed="#L" n="55"/>sanctitatis religionisque causa seruantur, cum haec violare iniuriosi voluerunt, etiam peccatis 
+      <lb ed="#L" n="56"/>minoribus, non tantum iniurijs aliorum, si conditio proponitur, &amp; facultas datur, 
+      redimen<lb ed="#L" n="57" break="no"/>da sunt; &amp; tunc, iam desinunt esse peccata quae propter grauiora vitanda suscipiuntur. Sicut 
+      <lb ed="#L" n="58"/>enim in rebus vtilibus, velut in pecunia, alioue commodo non vocatur damnum, quod prop¬ 
+      <!--291.xml-->
+      <pb ed="#A" n="258"/>
+               <lb ed="#L" n="1"/>ter maius lucrum amittitur: sic &amp; in rebus sanctis non vocatur peccatum; quod admittitur ne 
+      <lb ed="#L" n="2"/>grauius admittatur; aut si &amp; illud damnum dicitur quod aliquis perdit, ne amplius perdat, 
+      voce<lb ed="#L" n="3" break="no"/>tur &amp; hoc peccatum, dum tamen suscipiendum esse, vt amplius euitetur, ita nemo dubitet, sicut 
+      ne<lb ed="#L" n="4" break="no"/>mo dubitat cauendi maioris damni causa, patiendum esse quod minus est. Item 22. q 4. Si aliquid; 
+      <lb ed="#L" n="5"/>allegatur a venerabili Beda in homilia, 44. hoc modo, Si aliquid nos incautius iurasse 
+      contige<lb ed="#L" n="6" break="no"/>rit, quod obseruatum peiorem vergat in exitum, libere illud salubri consilio mutandum 
+      no<lb ed="#L" n="7" break="no"/>uerimus ac magis instante necessitate peierandum nobis, quam pvitando periutio, in 
+      a<lb ed="#L" n="8" break="no"/>liud crimen grauius esse diuertendum. Denique iurauit Dauid per Deum occidere Nabal, 
+      <lb ed="#L" n="9"/>sed ad intercessionem Abigail mox remisit, nec aliquid culpae se pro tali periurio contraxisse 
+      <lb ed="#L" n="10"/>doluit. Et hoc idem ratio manifestat, nam quicunque eligit minus malum, vt sic fugiat 
+      ma<lb ed="#L" n="11" break="no"/>ius malum, non censetur eligere minus malum, sed fugere maius malum; quare nullum 
+      pec<lb ed="#L" n="12" break="no"/>catum incurrit. Dicit enim Philosophus. 9. Eth. 1. Propter delectationem &amp; vtilitatem 
+      ami<lb ed="#L" n="13" break="no"/>citia existente, dissolutio sit cum non fiant, quorum gratia amabant; non enim ipsos 
+      ama<lb ed="#L" n="14" break="no"/>bant, sed existentia; Cui &amp; concordanter Anselmus de casu Diaboli: 13. Qui vult aliquid 
+      <lb ed="#L" n="15"/>propter beatitudinem, non aliud vult, quam beatitudinem; Et de concordia. 8. Quisolum 
+      <lb ed="#L" n="16"/>propter aliud rectitudinem voluntatis seruat, non eam diligit, sed illud propter quod eam 
+      ser<lb ed="#L" n="17" break="no"/>uat, &amp; ideo non dicendus est iustus, nec talis rectitudo nominanda est iustitia. Dicitque 
+      Au<lb ed="#L" n="18" break="no"/>gustinus, II. de Trinit. 6. Quod si quis voluntatem videndi referat ad aliud, vult vtique aliud,  
+      <lb ed="#L" n="19"/>nec iam videndi voluntas erit, aut si videndi, non hoc videndi, tanquam si velit quis videre 
+      <lb ed="#L" n="20"/>cicatricem, vt inde doceat vulnus fuisse, aut si velit fenestram videre vt per fenestram videat 
+      <lb ed="#L" n="21"/>transeuntes. Et infra, eodem, Recte sunt voluntates omnes sibimet religatae, si bona est illa 
+      <lb ed="#L" n="22"/>quo cunctae referuntur; si autem praua est, prauae sunt omnes. Et 83. quaest. 36. Si placere 
+      <lb ed="#L" n="23"/>vis hominibus vt eis prosis ad diligendum Deum, non iam hoc sed aliud cupis. Et haec 
+      vi<lb ed="#L" n="24" break="no"/>dentur sonare Autoritates de mendacio iam praemissae: Quod etiam: ex Scriptura canonica 
+      <lb ed="#L" n="25"/>videtur haberi; Dicit enim Esaias in persona Dei Holocausta Arietum, &amp;c. talia nolui &amp; 
+      cer<lb ed="#L" n="26" break="no"/>tum est quod illa aliqualiter voluit, quia illa praecepit in lege, sed noluit ista propter se, sed 
+      <lb ed="#L" n="27"/>propter alium finem, quem satis exprimit infra, eodem, ennaesic dicit Lauamini, mundi estote 
+      <lb ed="#L" n="28"/>&amp;c. quaerite iudicium, &amp; subuenire oppresso, &amp;c. Et hoc est quod Michaeas clarius manifestat; 
+      <lb ed="#L" n="29"/>Quid, inquit, dignum offeram Domino? Nunquid offera ei Holocausta, &amp; vitulos aniculos? 
+      <lb ed="#L" n="30"/>Nunquid placari potest Deus in millibus Arietum, aut inanultis millibus hircorum 
+      pingui<lb ed="#L" n="31" break="no"/>um? Indicabo tibi o homo quid sit bonum, &amp; quid Dominus requirat a te; vtique facere 
+      iudi<lb ed="#L" n="32" break="no"/>cium &amp; diligere misericordiam, &amp; sollicitum ambulare cum Deo tuo. Et Psalmo a7o: Si 
+      vo<lb ed="#L" n="33" break="no"/>luisses sacrificium, dedissem: Vtique Holocaustis non delectaberis: Sacrificium Deo spiritus 
+      <lb ed="#L" n="34"/>contribulatus. Et Marc. 9. Quisquis vnum ex huiusmodi pueris receperit in nomine meo, 
+      <lb ed="#L" n="35"/>me recipit; &amp; quicunque me susceperit, non me suscipit, sed eum qui misit me. Et sic 
+      loqui<lb ed="#L" n="36" break="no"/>tur Apostolus I. ad Cor. sic dicens, Si volens hoc ago; scilicet Euangelizauero, mereedem 
+      <lb ed="#L" n="37"/>habeo; Sin autem inuitus, dispensatio mihi credita est, innuens quod si praedicet Euangelium T 
+      <lb ed="#L" n="38"/>pro suero temporali, praedicet illud inuitus, scilicet non volens Euangelium, sed lucrum; quod 
+      <lb ed="#L" n="39"/>patetibi expressius per Augustinum in glossa dicentem, Si coactus inopia earum rerum quae 
+      <lb ed="#L" n="40"/>temporali vitae sunt necessariae, praedico Euangelium, alij per me habebunt mercedem; ego 
+      <lb ed="#L" n="41"/>autem non, quia non ipsum Euangelium diligo, sed eius praetium in illis temporalibus 
+      con<lb ed="#L" n="42" break="no"/>stitutum. Quare videtur quod perplexus eligens suo iudicio minus malum, vt fugiat maius 
+      <lb ed="#L" n="43"/>malum, ad mentem Autorum istorum non el igit vllum malum, sed quantum in eo est; fugit 
+      <lb ed="#L" n="44"/>potius omne malum; quare nec videtur peccare. Autoritates vero dicentes quod talis debet 
+      <lb ed="#L" n="45"/>eligere minus peccatum, intelligunt, quod debet eligere illud, quod videtur sibi minus 
+      pec<lb ed="#L" n="46" break="no"/>catum, &amp; quod in omni alio casu esset peccatum: Tantum enim in hoc casu licet homini 
+      eli<lb ed="#L" n="47" break="no"/>gere &amp; facere quod credit esse peccatum, &amp; cum hoc sit ius naturale, vt omnis homo fugiat, 
+      <lb ed="#L" n="48"/>&amp; non eligat sibi malum, contra istud ius naturale dispensatio admittitur tantummodo, in hoc 
+      <lb ed="#L" n="49"/>casu, sicut superius recitatur. Amplius autem &amp; istam sententiam Autoritates quamphires E 
+      <lb ed="#L" n="50"/>Philosophicae &amp; Theologicae innuunt &amp; confirmant. Aristoteles siquidem, 1Eth. 6. dicit, 
+      <lb ed="#L" n="51"/>quod bonum equaliter dicitur enti, &amp; hoc ostendit inductiue per omnia praedicamenta: Vbi 
+      <lb ed="#L" n="52"/>Auerroes sic dicit, Cum nomen boni synonime dicatur nomini entis, dicetunambigue de 
+      ro<lb ed="#L" n="53" break="no"/>praedicamentis, id est, non secundum intentionem vnam. Itemi4i. Eth. 12. Malum seipsum 
+      <lb ed="#L" n="54"/>destruit, &amp; si integrum sit, importabile fit. vbi Auerroes, malum corrupriu: est fui ipsius, 
+      <lb ed="#L" n="55"/>quando aggregatae fuerint omnes eius partes, cum non sit hoc tolerabile. Item Auicenna, 8 
+      <lb ed="#L" n="56"/>Metaph. 6. necesse esse per se est bonitas pura, &amp; bonitatem desiderat omnino quicquid est; 
+      <lb ed="#L" n="57"/>Id autem quod desiderat omnis res est esse, &amp; perfectio in esse in quantum est esse; Priuatio 
+      vero<lb ed="#L" n="58" break="no"/>in quantum est priuatio, non desideratur, nisi in quantum eam sequitur esse &amp; perfectio. Idigitur. 
+      <!--292.xml-->
+      <pb ed="#A" n="259"/>
+               <lb ed="#L" n="1"/>quod vere desideratur est esse. Esse est bonitas pura &amp; perfectio pura; &amp; omnino bonitas est id 
+      <lb ed="#L" n="2"/>quod desiderat omnis res iuxta moduln:suum, quonia per eam perficitur eius esse, malitia vero 
+      <lb ed="#L" n="3"/>non habet essentiam, sed est priuatio substantiae, &amp; vtilitatis dispositionis suae. Idem 9. Met 7. 
+      <lb ed="#L" n="4"/>&amp; 8i distinguit de malo &amp; dicit, quod dicitur quadrupliciter, scilicet opus abhorribile, 
+      princi<lb ed="#L" n="5" break="no"/>pium eius, seslicet mores, aristitia &amp; dolor, &amp; defectus rei a sua perfectione: Et infra cap. 8. 
+      <lb ed="#L" n="6"/>probat, quod nulla actio est per se mala, quia quaelibet actio est perfectio agentis, vt erat 
+      supe<lb ed="#L" n="7" break="no"/>rius allegatum: Et infra eodem, facta definitione entis per bonum; &amp; malum, subdit, quod 
+      <lb ed="#L" n="8"/>autem totum est malum, vel in quo praeualet, vel est aequale malum bono nondum inuenitur. 
+      <lb ed="#L" n="9"/>Istam quoque sententiam Auicenna, &amp; Algazel 5. Metaph. vlt. profitetur. Boetius quoque 
+      <lb ed="#L" n="10"/>3. de Consolat. Philosoph. prosa vlt. hoc sic probat, Deus omnipotens nihil non potest 
+      <lb ed="#L" n="11"/>&amp; facere malum non potest; Malum ergo nihil est. Idem infra eiusdem 4. prosa 6a. sic dicit; 
+      <lb ed="#L" n="12"/>Naturarum omnium conditor Deus, ad bonum dirigens cuncta disponit, dumque ea quae 
+      <lb ed="#L" n="13"/>protulit in sui similitudinem retinere festinat, malum omne de Reipublicae suae terminis; per 
+      <lb ed="#L" n="14"/>fatalis seriem necessitatis eliminat. Venerabilis etiam Anselmus Cantuariensis, in De 
+      con<lb ed="#L" n="15" break="no"/>ceptu virginali idem probat diffuse, sicut superius erat tactum; Vnde cap. 4. dicit, Nihil 
+      e<lb ed="#L" n="16" break="no"/>nim siue substantia, siue actio, siue aliquid aliud per se consideratum est iustum nisi iustitia; 
+      <lb ed="#L" n="17"/>vel iniustum, vel peccatum, nisi iniustitia. Et quinto, Ex his ergo facile cognoscitur quia 
+      iniu<lb ed="#L" n="18" break="no"/>stitia nullam habet essentiam, quamuis iniustae voluntatis affectus &amp; actus, qui per se 
+      conside<lb ed="#L" n="19" break="no"/>rutialiquid sunt, vsus iniustitiam vocet. Hac ipsa ratione intelligimus malum esse nihil: sicut 
+      <lb ed="#L" n="20"/>entm iniustitia non est aliud quam absentia debitae iustitiae, ita malum non est aliud quam 
+      ab<lb ed="#L" n="21" break="no"/>sentia debiti boni: &amp; de casu diaboli 8. Idem ex intentione demonstrat &amp; in fine capituli sic 
+      <lb ed="#L" n="22"/>coneludie; Neque ergo voluntas praua, neque praua voluntatis conuersio est ipsum malum, 
+      <lb ed="#L" n="23"/>quo Angelus vel homo sit malus, quod nihil esse dicimus. Et 9. dicit, quod illud malum est 
+      in<lb ed="#L" n="24" break="no"/>iustitia quae est priuatio iustitiae; &amp; malum nihil aliud est quam boni priuatio. Et 16. 
+      Omni<lb ed="#L" n="25" break="no"/>no nihil aliud reprehendo in voluntate mali Angeli, quam absentiam iustitiae, siue non habere 
+      <lb ed="#L" n="26"/>iustitiam. Et 19 ostendit idem per duas rationes superius recitatas, &amp; concludendo dicit; 
+      Vn<lb ed="#L" n="27" break="no"/>de sequitur fisillam voluntatem esse malum sed esse bonum in quantum est, quia opus Dei est. 
+      <lb ed="#L" n="28"/>Et 20. ponit distinctionem de malo, Est enim malum simplex, quod non est aliud quam 
+      ma<lb ed="#L" n="29" break="no"/>lum, quod nihilest, scilicet ipsa iniustitia; aliud vero est malum, scilicet natura, in qua est 
+      iniu<lb ed="#L" n="30" break="no"/>stitia, quoniam est aliquid &amp; aliud quam iniustitia, quae malum &amp; nihil est: Et 20. iterum 
+      di<lb ed="#L" n="31" break="no"/>stinguens de malo, dicit, malum esse duplex, scilicet malum iniustitiae quod semper nihil est; &amp;  
+      <lb ed="#L" n="32"/>malum incommoditatis, quod &amp; subdiuidit; quoddam enim tale malum nihil est vt caecitas, 
+      <lb ed="#L" n="33"/>quoddam vero est; vt tristitia &amp; dolor. Idem de Concordia6. Bonum quod est iustitia, aliquid 
+      <lb ed="#L" n="34"/>vere est; malum vero quod est iniustitia, omni caret existentia; quod in tractatu de casu diaboli., 
+      <lb ed="#L" n="35"/>&amp; insibello, quem de conceptu virginali, &amp; de originali peccato titulaui, apertissime 
+      monstra<lb ed="#L" n="36" break="no"/>ui, non est iniustitia qualitas, aut actio, aut aliqua essentia, sed tantum absentia debitae iustitiae. 
+      <lb ed="#L" n="37"/>Hoc idem &amp; Hugo fide Sacramis. part. 26. docet. Item si malum esset aliquid, hoc maxime 
+      <lb ed="#L" n="38"/>videretur de mala voluntate, &amp; cum illa non sit aeterna, haberet causam efficientem, quod 
+      no<lb ed="#L" n="39" break="no"/>gat Augustinus 12. de Ciuit. Dei 9. ostendens quod Deus fuit causa efficiens voluntatis bonae 
+      <lb ed="#L" n="40"/>in Angelis iam beatis, &amp; quod voluntatis malae in Angelis reprobatis non fuit aliqua causa 
+      ef<lb ed="#L" n="41" break="no"/>ficiens, sed deficiens, &amp; quod talem voluntatem nihil facit nisi defectio, qua deseritur Deus, 
+      <lb ed="#L" n="42"/>euius defectionis etiam causa vtique deficit. Et supra 8. post longam ratiocinationem 
+      con<lb ed="#L" n="43" break="no"/>cludit; Nemo ergo quaerat efficientem causam malae voluntatis. Non enim est efficiens sed 
+      <lb ed="#L" n="44"/>deficiens, quia nec illa est affectio sed defectio. Idem quoque quasi per totum librum de 
+      Na<lb ed="#L" n="45" break="no"/>tura boni eandem coficiufionem ostendens, quod malum nihil est, &amp; quod omnia in quantum 
+      <lb ed="#L" n="46"/>fune, bola sunt, &amp; aDeo, vnde cap. 1. dicit, Bona omnia siue magna, siue parua per quoslibet 
+      <lb ed="#L" n="47"/>terum gradus non possunt esse nisi a Deo. Omnis natura in quantum natura est, bonum est; 
+      <lb ed="#L" n="48"/>omnis igitur natura non potest esse msi a Deo. Et infra 3. &amp; 13. dicit, quod a Deo est omnis 
+      <lb ed="#L" n="49"/>modus siue magnus, siue paruus; &amp; ita de specie &amp; ordine: Et 4. Malum nihil aliud est, quam  
+      <lb ed="#L" n="50"/>corruptio modi, speciei, vel ordinis naturalis; mala itaque natura dicitur quae corrupta est. Et 5. 
+      <lb ed="#L" n="51"/>Corruptio autem si omnem modum, speciem, &amp; ordinem in rebus corporalibus auferat, nulla 
+      <lb ed="#L" n="52"/>irmatura remanebit. Idem 7. confess: quasi per totum, non breui disputatione ostendit malum non  
+      <lb ed="#L" n="53"/>esse aliquid, &amp; cap. 12. sic cocludit; ergo si corruptibilia omni bono priuabuntur, omnino non  
+      <lb ed="#L" n="54"/>erunt, ergo quamdiu sunt, bona sunt; ergo quaecunque sunt, bona sunt, quia fingula sunt bona, 
+      <lb ed="#L" n="55"/>&amp; simul omnia valde bona. Et cap. 13. subdit, dicens; Tibi non est malum, nec vniuerse 
+      crea<lb ed="#L" n="56" break="no"/>turae tuae, quia extra non est aliquid, quod corrumpat, &amp; irrumpat ordine quem imposuisti 
+      ei<lb ed="#L" n="57" break="no"/>Item 4. super Gen. ad literam 14. Si Deus bona facete non posset, i nulla esset potentia, si autem 
+      <lb ed="#L" n="58"/>posset nec faceret, magna esset inuidentia, quia ergo omnipotens &amp; bonus, omnia valde bona 
+      <!--293.xml-->
+      <pb ed="#A" n="260"/>
+               <lb ed="#L" n="1"/>fecit. Idem patet Enchirid. 6. &amp; 7. tertij de libero arbitrio 19. 1ai de Ciuit. Dei. 6. &amp; alijsiocis 
+      <lb ed="#L" n="2"/>multis. Vnde &amp; Ecclesiastici 39. Opera Domini vniuersa bona valde; Et infra eodem, Non est 
+      <lb ed="#L" n="3"/>dicere, hoc illo nequius est, omnia enim in tempore suo comprobabuntur. Item Ambrosius 
+      <lb ed="#L" n="4"/>in libro quem de Isaale, &amp; Anima conscribebat, sic ait; quid ergo est malum nisi boni 
+      in<lb ed="#L" n="5" break="no"/>digentia; &amp; iterum, Ex bonis igitur mala orta sunt. Non enim sunt mala nisi quae priuantur 
+      <lb ed="#L" n="6"/>bonis. Item huic sententiae fauet Lumbardus 2. Sentent. Dist. 25. dicens, Quidam autem 
+      di<lb ed="#L" n="7" break="no"/>ligenter attendentes verba Augustini, nec indocte tradunt voluntatem malam, &amp; actus malos 
+      <lb ed="#L" n="8"/>in quantum sunt, vel in quantum actus sunt, bona esse; &amp; omnem voluntatem &amp; actum, 
+      bo<lb ed="#L" n="9" break="no"/>nam Dei naturam esse dicunt: Et simile huic videtur sentire infra eodem, Dist. 36. &amp; 
+      simili<lb ed="#L" n="10" break="no"/>ter Dist. 45. primi. Istam quoque sententiam plane docet beatus Dionysiis de diuinis 
+      nomi<lb ed="#L" n="11" break="no"/>nibus multis locis, per nonnullas rationes praemissas, specialiter autem 40. Vt autem 
+      tracta<lb ed="#L" n="12" break="no"/>tum de malo quibusdam ambiguum certo fine concludam, ecce breuissimum &amp; certissimum 
+      <lb ed="#L" n="13"/>argumentum; Illud pro certo debet teneri Catholicum, cujus oppositum pro certo habetur 
+      <lb ed="#L" n="14"/>Haereticum; Talis autem est praesentis capituli conclusio principalis. Dicit enim Ietonymus 
+      <lb ed="#L" n="15"/>lib. 12. super Esaiam, exponens illud Esaiae 45. Ego Dominus formans lucem, &amp; creans 
+      tene<lb ed="#L" n="16" break="no"/>bras, faciens pacem, &amp; creans malum. Confundatur haeresis quae malorum arbitratur 
+      con<lb ed="#L" n="17" break="no"/>ditorem Deum, cum hic malum non contrarium bono, sed pro afflictione ponatur &amp; bello: 
+      <lb ed="#L" n="18"/>secundum illud quod in Euangelio scriptum est; Sufficit dici malitia sua. Confundatur 
+      Mar<lb ed="#L" n="19" break="no"/>cion duos Deos intelligens, vnum bonum &amp; iustum, alium malum &amp; iniustum, alterum 
+      inui<lb ed="#L" n="20" break="no"/>sibilium, &amp; alterum visibilium conditorem, a quibus prior lucem faciat, secundus tenebras; 
+      <lb ed="#L" n="21"/>ille pacem, hic malum, cum vtrunque pro diuersitate meritorum vnus Deus idemque 
+      condi<lb ed="#L" n="22" break="no"/>derit. Et accipit hic Hieronymus malum non pro homine vel Angelo denominatiue malo, 
+      <lb ed="#L" n="23"/>&amp; quodammodo subiecto malitiae, sed pro per se malo, siue pro ipsa per se &amp; pura malitia, 
+      <lb ed="#L" n="24"/>juxta hoc quod alibi loquitur &amp; definit. Nam supra eodem, lib. 1. super illud Esaiae 2. 
+      Qui<lb ed="#L" n="25" break="no"/>escite ab homine, cuius spiritus in naribus eius, quia excelsus reputatus est ipse, sic dicit in isto 
+      <lb ed="#L" n="26"/>loco: Bama apud Hebraeos non excelsus dicitur, sed excelsum, id est, ipsa altitudo atque subli 
+      <lb ed="#L" n="27"/>mitas, quasi diceretur, non est diuinus sed diuinatio, non riuus sed fons, non homo sed 
+      hu<lb ed="#L" n="28" break="no"/>manitas. Est ergo haereticum arbitrari Deum conditorem malorum culpae, vt Propheta &amp; 
+      se<lb ed="#L" n="29" break="no"/>ronymus hic loquuntur, cum tamen secundum capitulum tertium, d secundum eos sit 
+      con<lb ed="#L" n="30" break="no"/>ditor omnium, etiam malorum, afflictionis &amp; bellorum; quare &amp; est haereticum arbitrari 
+      ma<lb ed="#L" n="31" break="no"/>lum culpae esse aliquam rem omnino. Isidorus etiam 8. Ethic. 5. seu 12. haereses varias ab 
+      <lb ed="#L" n="32"/>haereticis varijs recitando, sic dicit; Colitani seu Colicitani, dicunt Deum non facere mala 
+      <lb ed="#L" n="33"/>contra illud quod scriptum est; Ego Dominus creans mala, &amp; statim subiungit, Floriani 
+      di<lb ed="#L" n="34" break="no"/>cunt e contrario, Deum creasse mala, contra hoc quod scriptum est, Fecit Deus omnia bona, 
+      <lb ed="#L" n="35"/>&amp; recitatur in Canone 24. q ult. Quidam autem, vbi Haeretici cum suis haeresibus 
+      numeran<lb ed="#L" n="36" break="no"/>tur, &amp; Deum esse Creatorem omnium, &amp; factorem allegata iam probant, nec quisquam 
+      Ca<lb ed="#L" n="37" break="no"/>tholicorum ignorat; hoc enim Symbolum Nicenum nomine totius Ecclesiae generaliter 
+      pro<lb ed="#L" n="38" break="no"/>fitetur, credo inquit, in vnum Deum Patrem omnipotentem, factorem coeli &amp; terrae, 
+      visibili<lb ed="#L" n="39" break="no"/>um omnium &amp; inuisibilium, sicut &amp; capitulum tertium ostendebat. 
+      </p>
+            <div xml:id="dcn2br-e34252-Dd1e1364">
+               <head xml:id="dcn2br-e34252-Hd1e1366">Corollarium</head>
+               <p xml:id="dcn2br-e34252-d1e1369">
+                  <lb ed="#L" n="40"/>COROLLARIVM. 
+      <lb ed="#L" n="41"/>Et habeat Corollarium, quod bonum &amp; per se malum, seu bonitas &amp; pura malitia non 
+      <lb ed="#L" n="42"/>sunt contraria propria, sed opposita priuatiue.
+      </p>
+               <p xml:id="dcn2br-e34252-d1e1378">
+                  <lb ed="#L" n="43"/>VNde manifestum est, quod bonum &amp; per se malum, seu bonitas &amp; pura malitia, non sunt 
+      <lb ed="#L" n="44"/>contraria proprie, sed opposita priuatiue: Si enim essent contraria proprie, essent sub 
+      <lb ed="#L" n="45"/>eodem genere posita, &amp; per differentias positiuas contrarias, &amp; distantes maxime constituta, 
+      <lb ed="#L" n="46"/>cum tamen per se malum, seu pura malitia nihil ponat; cum ergo sint opposita, &amp; vnum 
+      illo<lb ed="#L" n="47" break="no"/>rum tantummodo positiuum, constat haec esse opposita priuatiue. Nec quenquam debet 
+      <lb ed="#L" n="48"/>mouere, quod Philosophus frequenter ponit bonum &amp; malum quasi contraria, quia hoc facit, 
+      <lb ed="#L" n="49"/>ponendo exemplum: De exemplis vero quae ponit, non semper supponit quod sit ita, sed vt 
+      <lb ed="#L" n="50"/>sentiat qui addiscit, vt patet per eundem, I. Prior. Vel aliter potest dici, quod cum Autores 
+      <lb ed="#L" n="51"/>quandoque affirmant bonum &amp; malum contraria, intelligunt per contraria opposita; vel per 
+      <lb ed="#L" n="52"/>malum, malum afflictionis &amp; paenae sensibilis, secundum distinctionem Auicennae, &amp; 
+      Ansel<lb ed="#L" n="53" break="no"/>mi superius recitatam. Sed obijciet aliquis forsitan contra dicta, dictum Philosophi, 2. 
+      Eth<lb ed="#L" n="54" break="no"/>7o. in haec verba; Non suscipit omnis operatio, neque omnis passio medietatem: quaedam enim 
+      <lb ed="#L" n="55"/>confestim nominata conuoluta sunt cum malitia, puta gaudium de malo, inuerecundia, 
+      inui<lb ed="#L" n="56" break="no"/>dia, &amp; in operationibus adulterium, furtum, homicidium; haec enim omnia &amp; quae talia, di¬ 
+      <!--294.xml-->
+      <pb ed="#A" n="261"/>
+                  <lb ed="#L" n="1"/>cuntur secundum ipsa, mala esse, sed non superabundantiae ipsorum, neque defectus. Non est 
+      <lb ed="#L" n="2"/>igitur vnquam circa haec dirigere, sed semper peccare, neque est bene vel non bene circa talia, 
+      <lb ed="#L" n="3"/>in eo quod vt oportet, &amp; quando, &amp; quomodo, puta adulterari, sed simpliciter facere 
+      quod<lb ed="#L" n="4" break="no"/>cunque horum, peccare est. Similem quoque sententiam dicunt Doctores Catholici multis 
+      <lb ed="#L" n="5"/>locis, &amp; Lumbardus 2. Sent. dist. 40. pro ista sententia recitat Augustinum. Pro istis dicendum, 
+      <lb ed="#L" n="6"/>sicut innuit Anselmus de Conceptu virginali 4. quod nomina possunt imponi dupliciter 
+      acti<lb ed="#L" n="7" break="no"/>bus istis malis; vel sic quod absolute significent substantiam talis actus; vel sic quod cum actu 
+      <lb ed="#L" n="8"/>consignificent aliquam malam circumstantiam comitantem. Quare dicit ibi Auselmus, 
+      Dan<lb ed="#L" n="9" break="no"/>tur quibusdam actionibus nomina, quibus significatur eas iniuste fieri, vt fornicatio, &amp; 
+      men<lb ed="#L" n="10" break="no"/>dacium: sed aliud intelligitur cum ipsa actio vel prolocutio, aliud cum vtrum iuste vel iniuste 
+      <lb ed="#L" n="11"/>consideratur. Denique omnis essentia est a Deo, a quo nihil est iniustum, &amp; sic soluuntur 
+      ob<lb ed="#L" n="12" break="no"/>iecta: Augustinus enim &amp; Philosophus accipiunt illa nomina supradicta secundo modo, non  
+      <lb ed="#L" n="13"/>primo; quare non obuiant praeostensis. Quod autem Augustinus sic loquatur, apparet per 
+      <lb ed="#L" n="14"/>hoc quod dicit; Ea quae constat esse peccata, nullo bonae causae obtentu, nullo quasi bono fine, 
+      <lb ed="#L" n="15"/>nulla velut bona intentione facienda sunt. Et quod Philosophus sic loquatur, videtur. Non 
+      <lb ed="#L" n="16"/>enim dicit, quod aliquis talis actus est realiter per se malus, sed quod quaedam confestim 
+      no<lb ed="#L" n="17" break="no"/>minata conuoluta sunt cum malitia, innuens, quod quaedam nomina significant malos actus; 
+      <lb ed="#L" n="18"/>non absolute secundum essentiam actuum, sed consignificant, &amp; conuoluunt malitiam simul 
+      <lb ed="#L" n="19"/>cum ipsis; &amp; hoc satis patet per hoc quod nominauit homicidium inter illa, quod non est per 
+      <lb ed="#L" n="20"/>se malum, vt patet per ipsummet, 10. Ethic. 14. a legis positoribus allegantem, quod oportet 
+      <lb ed="#L" n="21"/>prouocare ad virtutem obedientes quidem boni gratia; inobedientes vero &amp; degeneriores 
+      <lb ed="#L" n="22"/>poenis &amp; punitionibus: insanabiles autem exterminare, quod &amp; omnium gentium legibus 
+      <lb ed="#L" n="23"/>est sancitum. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

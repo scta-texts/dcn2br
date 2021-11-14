@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 36</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 36</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="314"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e42489"><!-- l1c36 -->
+            <head xml:id="dcn2br-e42489-Hd1e106">Caput 36</head>
+            <p xml:id="dcn2br-e42489-d1e109">
+      <!--347.xml-->
+               <pb ed="#A" n="314"/>
+               <lb ed="#L" n="1"/>CAP. XXXVI. 
+      <lb ed="#L" n="2"/>Contra Procuratores Pelagij asserentes, quod etsi merita 
+      <lb ed="#L" n="3"/>non sint causa collationis gratiae principalis, sunt 
+      <lb ed="#L" n="4"/>tamen causa sine qua non confertur. 
+      </p>
+            <p xml:id="dcn2br-e42489-d1e125">
+               <lb ed="#L" n="5"/>LIcet autem Sancti Patres istam Pelagianam haeresim succederunt, ex 
+      <lb ed="#L" n="6"/>venenata tamen eius radice in multorum cordibus profundata, 
+      quae<lb ed="#L" n="7" break="no"/>dam non penitus spuria, sed pestifera vitulamina, quia non saporem 
+      <lb ed="#L" n="8"/>sed colorem mutantia, non desinunt pullulare: Dicunt enim aliqui p 
+      <lb ed="#L" n="9"/>talium, quod merita non sunt causa principalis gratiae nobis datae, sed 
+      <lb ed="#L" n="10"/>causa sine qua non datur. Sed quis non videat istos &amp; eorum similes 
+      <lb ed="#L" n="11"/>haeresin Pelagianam tantum vocaliter declinare, &amp; ipsam realiter 
+      pre<lb ed="#L" n="12" break="no"/>dicare? Mutant vocem, propter horrorem nominis haeretici 
+      euitan<lb ed="#L" n="13" break="no"/>dum, vt sic eandem prauitatis sententiam sophistice palliatam, &amp; laruatam fallaciter, cautius 
+      <lb ed="#L" n="14"/>introducant, sicque corda simplicium cortumpant facilius &amp; seducant. Vox quidem vox 
+      <lb ed="#L" n="15"/>Iacobi est, scilicet viri fidelis, Deoque dilecti, sed manus iniquam sententiam inserentes, 
+      ma<lb ed="#L" n="16" break="no"/>nus sunt Esaui, viri scilicet infidelis &amp; Deo odibilis. Quis etiam mentis tam inops, vt non  
+      <lb ed="#L" n="17"/>percipiat, quam laeto corde tales reconciliarent Pelagium, Coelestinum, Iulianum, &amp; 
+      caete<lb ed="#L" n="18" break="no"/>ros Pelagianos haereticos, si auderent, ac Paulum, Augustinum, Gregorium, &amp; caeteros 
+      catho<lb ed="#L" n="19" break="no"/>licos condemnarent? Igitur si merita nostra sunt causa sine qua non gratiae nobis datae, per 
+      <lb ed="#L" n="20"/>capitulum decimum sextum potest ostendi, quod merita sunt aliquo modo causa, vt 
+      concau<lb ed="#L" n="21" break="no"/>sa, &amp; causa partialis gratiae nobis datae. Nec Pelagius vnquam desipiebat in tantum quod 
+      vo<lb ed="#L" n="22" break="no"/>luit dicere, merita esse causam totalem gratiae datae a Deo, quia hoc esset ponere &amp; excludere 
+      <lb ed="#L" n="23"/>Deum datorem gratiae nobis datae. In quo ergo disentiunt isti a Pelagio? Item tunc gratia 
+      <lb ed="#L" n="24"/>esset ex meritis &amp; operibus contra capitulum proximum. Item omnia argumenta ibi 
+      pro<lb ed="#L" n="25" break="no"/>bantia, quod gratia datur gratis, non pro praecedentibus meritis, istam falsigraphiam 
+      repro<lb ed="#L" n="26" break="no"/>babunt similiter, si debite proferantur. Item si intelligant per causam principalem, causam  
+      <lb ed="#L" n="27"/>principalissimam omnium &amp; supremam, sic nec mala merita sunt causa damnationis &amp; 
+      poe<lb ed="#L" n="28" break="no"/>nae, nec aliqua causa inferior est causa alicuius effectus, sicut praecedentia manifestant. 
+      Rur<lb ed="#L" n="29" break="no"/>sumque secundum istud, iniustus similiter mereretur primam gratiam, sicut iustificatus 
+      secun<lb ed="#L" n="30" break="no"/>dam, scilicet gratiae primae augmentum; cum tamen primum negetur ab omnibus, sicut 
+      capi<lb ed="#L" n="31" break="no"/>tulum proximum docuit, secundum vero catholice concedatur. Vnde Parab. 4. Acquire 
+      <lb ed="#L" n="32"/>prudentiam, &amp; dabit capiti tuo augmenta gratiarum. Et Augustinus ad Bonifacium Papam, I 
+      <lb ed="#L" n="33"/>sicut recitat Lumbardus 2. sentent. dist 26. sic scribit; Non gratiam Dei aliquid meriti 
+      prae<lb ed="#L" n="34" break="no"/>cedit humani, sed ipsa meretur augeri, vt aucta mereatur &amp; perfici; Et in sententijs 
+      Prospe<lb ed="#L" n="35" break="no"/>ri, propositione 93a. Crescit semper charitatis facultas, dum vsu maior, &amp; largitate fit 
+      di<lb ed="#L" n="36" break="no"/>tior. Item si merita sint prior causa dationis gratiae quam sit Deus, tunc qui sic meretur, prius 
+      <lb ed="#L" n="37"/>venit ad Deum quam e contra, &amp; potius trahit Deum ad eum quam e contra; 
+      Quomo<lb ed="#L" n="38" break="no"/>do ergo dicit, Nemo venit ad me, &amp;c. Ioan. sexto? Quomodo ergo dicit, Non vos me 
+      <lb ed="#L" n="39"/>elegistis, sed ego elegi vos, Ioan. 15? Et sine me nihil potestis facere; &amp; quomodo tunc 
+      di<lb ed="#L" n="40" break="no"/>cit Apostolus, Quis prior dedit illi, &amp; retribuetur er? quod &amp; Philosophice statim 
+      pro<lb ed="#L" n="41" break="no"/>bat, quoniam, inquit, Ex ipso, &amp; per ipsum, &amp; in ipso sunt omnia. ad Rom. II. Et 
+      quo<lb ed="#L" n="42" break="no"/>modo ergo dicit ad Ephes. 2. Cratia saluati estis, &amp; hoc non ex vobis, Dei enim donum est,  
+      <lb ed="#L" n="43"/>non ex operibus, cum tamen originaliter sit ex vobis? Item si merita sint concausa; vel 
+      <lb ed="#L" n="44"/>causa partialis dationis gratiae, ista datio partim tribuenda est Deo, partim nobis; imo 
+      <lb ed="#L" n="45"/>&amp; pars prior est nostra, sicut iam fuit ostensum; posterior vero Dei contra glossam verbi 
+      <lb ed="#L" n="46"/>Apostolici allegati dicentem, Gratia praecunte, id est, gratuita Dei voluntate, non ex vobis, id 
+      <lb ed="#L" n="47"/>est, ex vi naturae vestrae, quia Dei Donum est pure, non partim ex operibus. Item dicit 
+      Augu<lb ed="#L" n="48" break="no"/>stinus de praedestinatione Sanctorum 3. Nolens Pelagius tam claris testimonijs Apostolicis 
+      <lb ed="#L" n="49"/>repugnare, &amp; tamen volens a seipso sibi esse quod credit, quasi componit homo cum Deo, vt 
+      <lb ed="#L" n="50"/>partem fidei sibi vendicet, atque illi partem relinquat; &amp; quod est elatius, primam tollit 
+      <lb ed="#L" n="51"/>ipse, sequentem dat illi; &amp; in eo quod dicit esse amborum, priorem se facit, posteriorem Deum.  
+      <lb ed="#L" n="52"/>Ecce quomodo sic dicentes, mentem &amp; verba Pelagij amplectuntur. Item tunc bene posset 
+      que<lb ed="#L" n="53" break="no"/>ri, quare hunc trahit Deus, &amp; hunc non trahit: Habet enim veram causam, scilicet meritum 
+      <!--348.xml-->
+      <pb ed="#A" n="315"/>
+               <lb ed="#L" n="1"/>aliquod antecedens, contra Augustinum superius recitatum. Quomodo etiam saluant isti 
+      <lb ed="#L" n="2"/>gratiam operantem, quae in omnibus praeuenit peccatores? Si autem isti obijciant illud 
+      Au<lb ed="#L" n="3" break="no"/>gustini, Qui creauit te sine te, non iustificabit te sine te, &amp; similia: ergo oportet quod aliquid 
+      <lb ed="#L" n="4"/>coagas ad hoc, quod gratia tibi detur; dicendum, quod verum est forsitan in adultis; non 
+      ta<lb ed="#L" n="5" break="no"/>men oportet me aliquid agere antecedenter, sed subsequentet, ita quod infusa mihi gratia 
+      be<lb ed="#L" n="6" break="no"/>ne velim &amp; fuciam; sed infusio gratiae est prior naturaliter, me autem bene velle &amp; facere, 
+      il<lb ed="#L" n="7" break="no"/>lam naturaliter consequitur, sicut efficiens suus effectus, &amp; causam suum causatum. Sic autem 
+      <lb ed="#L" n="8"/>respondet Lumbardus 2. sent. dist. 26. (cum obijcitur quod gratia non praecedit hominis 
+      <lb ed="#L" n="9"/>voluntatem) per illud Augustini super Iohannem, vbi prius, Nemo potest venire ad me, &amp;  
+      <lb ed="#L" n="10"/>reliqua: Caetera potest homo // nolens, credere autem non nisi // volens; &amp; per illud glossae 
+      su<lb ed="#L" n="11" break="no"/>per illud Gen. 24. Vocemus puellam, &amp; quaeramus ipsius voluntatem, quia fides est 
+      volun<lb ed="#L" n="12" break="no"/>tatis, non necessitatis: Dicit igitur, Ad quod respondentes dicimus, haec omnia dicta esse, 
+      <lb ed="#L" n="13"/>quia non est fides, nisi in eo qui vult credere, cuius bonam voluntatem fides praeuenit, non 
+      <lb ed="#L" n="14"/>tempore, sed causa, &amp; natura; quam responsionem confirmat per Augustinum Enchirid. 23. 
+      <lb ed="#L" n="15"/>dicentem, quod bona voluntas in eis donis est, quae non praecedit, &amp; ipsa iuuat quibus 
+      prae<lb ed="#L" n="16" break="no"/>uenitur, dum eis consentit, quod &amp; supra capitulis multis expressius continetur. Quaerit 
+      e<lb ed="#L" n="17" break="no"/>nim sic, Cum proculdubio, si homo eius aetatis est, vt ratione vtatur, non possit credere, 
+      spe<lb ed="#L" n="18" break="no"/>rate, diligere, nisi velit, nec peruenire ad palmam vocationis Dei, nisi voluntate cucurrerit, 
+      <lb ed="#L" n="19"/>quomodo ergo non volentis, neque currentis, sed miserentis est Dei? nisi quia voluntas, vt 
+      <lb ed="#L" n="20"/>scriptum est a Domino praeparatur: alioquin si propterea dictum est, Non volentis &amp;c. sed 
+      <lb ed="#L" n="21"/>misetentis, &amp;c. quia ex vtroque fit, id est, ex voluntate hominis &amp; misericordia Dei, vt sic 
+      di<lb ed="#L" n="22" break="no"/>ctum accipiamus, Non volentis &amp;c. quasi diceretur non sufficit sola voluntas hominis, si non  
+      <lb ed="#L" n="23"/>sit etiam misericordia Dei; nec sufficit sola misericordia Dei, si non sit etiam voluntas 
+      homi<lb ed="#L" n="24" break="no"/>nis; ac per hoc, si recte dictum sit, Non volentis hominis, sed miserentis est Dei, quia illud 
+      <lb ed="#L" n="25"/>voluntas hominis sola non implet; cur non e contrario recte dicitur, Non miserentis Dei, sed 
+      <lb ed="#L" n="26"/>volentis est hominis, quia id misericordia Dei sola non implet? Porro si hoc dicere nullus 
+      <lb ed="#L" n="27"/>Christianus audebit, ne Apostolo apertissime contradicat, restat vt propterea recte dictum 
+      <lb ed="#L" n="28"/>intelligatur, Non volentis, sed miserentis est, vt totum detur Deo, qui hominis voluntatem 
+      <lb ed="#L" n="29"/>bonam &amp; praeparat adiuuandam, &amp; adiuuat praeparatam: Praecedit enim bona voluntas 
+      ho<lb ed="#L" n="30" break="no"/>minis multa Dei dona, sed non omnia, quae autem non praecedit, ipsa, in eis est &amp; ipsa. Item 
+      <lb ed="#L" n="31"/>eadem dist. 26. allegat Augustinum dicentem, Cum fides impetrat iustificationem, non 
+      gra<lb ed="#L" n="32" break="no"/>tiam Dei aliquid meriti praecedit humani, sed hoc sit voluntate comitante non ducente, 
+      pe<lb ed="#L" n="33" break="no"/>dissequa, non praeuia. Idem supra, dist. 25. vlt. dicit, quod Dei gratiam non adiuuat voluntas 
+      <lb ed="#L" n="34"/>hominis vel operatio, sed ipsa gratia voluntatem praeuenit praeparando vt velit bonum, quod 
+      <lb ed="#L" n="35"/>&amp; diffuse ostendit distinct. 26. &amp; 27. consequenter. Augustinus quoque de praedestinatione 
+      <lb ed="#L" n="36"/>contra Pelagianos 3. scribit ita; Stulte, Deus est, qui iustificat impium, non praeuentus 
+      hu<lb ed="#L" n="37" break="no"/>mana voluntate, sed ipse praeueniens hominis voluntatem misericordia sua: Deus enim, 
+      in<lb ed="#L" n="38" break="no"/>quit, meus, misericordia eius praeueniet me. Audi &amp; alium Prophetam loquentem, 
+      Con<lb ed="#L" n="39" break="no"/>uerte me, Domine, &amp; conuertat; Sana me, &amp; sanabor: vnde &amp; Apostolus, iustificati, inquit,  
+      <lb ed="#L" n="40"/>gratis per gratiam ipsius. Audi gratis, &amp; tace de meritis: Qui &amp; de natura &amp; gratia 32. 
+      lo<lb ed="#L" n="41" break="no"/>quens de iustificatione nostra, sic ait; Vbi quidem operamur &amp; nos, sed illo operante nos 
+      co<lb ed="#L" n="42" break="no"/>operamur, quia misericordia eius praeueniet nos: Et de bono perseuerantiae 48. dicit, quod 
+      <lb ed="#L" n="43"/>Deus eorum praeuenit voluntatem, quibus datur gratia, ideo vtique ne non gratis dari 
+      videa<lb ed="#L" n="44" break="no"/>tur, sed secundum praecedentis merita voluntatis, sicut contra veritatem Pelagianus error 
+      ob<lb ed="#L" n="45" break="no"/>loquitur. Idem Hypog. 5 2. In omni opere facto prior est voluntas Dei, posterior liberi 
+      arbi<lb ed="#L" n="46" break="no"/>trij, id est, operatur Deus, cooperatur homo. Quod si dicas vt dicere consueuisti, quia ego 
+      <lb ed="#L" n="47"/>prior volui, Deus voluit, iam meritum facis, vt gratia ex operibus iam non sit gratia, sed 
+      mer<lb ed="#L" n="48" break="no"/>ces: hoc loco redarguit te Apostolus, dicens; Si ergo gratia, iam non ex operibus, alioquin 
+      <lb ed="#L" n="49"/>gratia iam non est gratia, gratia mihi douatur, non redditur. Qui &amp; de haeresibus 88. dicit, 
+      <lb ed="#L" n="50"/>quod Pelagius non // praeposuit gratiam libero arbitrio, sed infideli calliditate supposuit. 
+      Isi<lb ed="#L" n="51" break="no"/>dorus insuper 8. Eth. 5. sent. 14. tractans de diuersis haereticis &amp; eorum haeresibus, dicit, quod 
+      <lb ed="#L" n="52"/>Pelagiani liberum arbitrium diuinae gratiae anteponunt, &amp; recitatur in Canone 24. quaest. vlt. 
+      <lb ed="#L" n="53"/>Quidam autem; vbi Gratianus sequens Isidorum enumerat multos haereticos, cum 
+      haeresi<lb ed="#L" n="54" break="no"/>bus eorundem.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

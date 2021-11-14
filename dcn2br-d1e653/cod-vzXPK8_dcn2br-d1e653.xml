@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epistola prior</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Epistola prior</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="f33"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-d1e653"><!-- epistola-prior -->
+            <head xml:id="dcn2br-d1e653-Hd1e106">Epistola prior</head>
+            <p xml:id="dcn2br-d1e653-d1e109">
+      <!--32.xml-->
+               <pb ed="#A" n="f33"/>
+               <lb ed="#L" n="1"/>THOMAE DE BRADWARDINA 
+      <lb ed="#L" n="2"/>AD SVOS MERTONENSES, 
+      <lb ed="#L" n="3"/>EPISTOLA PRIOR 
+    </p>
+            <p xml:id="dcn2br-d1e653-d1e122">
+               <lb ed="#L" n="4"/>DIlectis Fratribus &amp; amicis, Custodi ac 
+      Scholari<lb ed="#L" n="5" break="no"/>bus Aulae de Merton in Oxon Spiritus Sanctus 
+      <lb ed="#L" n="6"/>gratiam septiformen Aliquoties accidisse 
+      com<lb ed="#L" n="7" break="no"/>peri, vt in rerum difficilium tractatione, aut 
+      in<lb ed="#L" n="8" break="no"/>sipientia relatoris auditorem corrumperet, aut  
+      <lb ed="#L" n="9"/>temeritas auditoris relatorem infamaret. 
+      Qua<lb ed="#L" n="10" break="no"/>propter aeque cauendum mihi videtur, vt potissimum illic, vbi sine 
+      <lb ed="#L" n="11"/>periculo aliud sentiri non potest, nec facile praesumamus 
+      asse<lb ed="#L" n="12" break="no"/>rere, nec aliena temere dijudicare. Noui ego quanta, vt dicit 
+      <lb ed="#L" n="13"/>B. Aug. somnia cor humanum pariat, atque eo iudicio quo in 
+      <lb ed="#L" n="14"/>sui cognitione fallitur, caetera quoque quae propter ipsum sunt,  
+      <lb ed="#L" n="15"/>non recte suspicatur. Quid enim hoc esse putatis, quod de 
+      re<lb ed="#L" n="16" break="no"/>rum veritate tam diuersa sentire solent homines? Nunquid non  
+      <lb ed="#L" n="17"/>vna est veritas? Ecce, vt interim de Deo taceamus, quid est quod 
+      <lb ed="#L" n="18"/>dialectica tot diuersas, &amp; tam aduersas, ne dicam peruersas 
+      ha<lb ed="#L" n="19" break="no"/>bet sententias. Nunquid non omnes nouerunt vnum id quod 
+      <lb ed="#L" n="20"/>est, &amp; amore fallendi diuersa finxerunt? Non sic ego puto, sed 
+      <lb ed="#L" n="21"/>narrant quique somnia sua, &amp; ea qua primum ipsi in se 
+      opinio<lb ed="#L" n="22" break="no"/>ne decepti sunt, postmodum alios nescientes seducunt. Et sicut 
+      <lb ed="#L" n="23"/>B. Iob amicis suis arrogantibus, &amp; de se plusquam oportebat 
+      <lb ed="#L" n="24"/>praesumentibus dicit, omnes iam non solum secum morituram,  
+      <lb ed="#L" n="25"/>sed exortam quoque a se sapientiam putant. Dignum ergo est vt 
+      <lb ed="#L" n="26"/>id ipsum in nostra nos assertione veritatis, totiam videmus esse 
+      <lb ed="#L" n="27"/>diuersos. Quia enim de longe veritas videtur, iudicia parit, &amp;  
+      <lb ed="#L" n="28"/>tantum de ipsa potest quisque quantum ipse est. In nobis quippe 
+      <lb ed="#L" n="29"/>quod dierum cognitione percipimus, eo modo cordis intellectus 
+      <lb ed="#L" n="30"/>de hijs quae extra sunt ad veritatem iudicat, quo se interius 
+      ani<lb ed="#L" n="31" break="no"/>mus in repraesentatione figurat. Vnde necesse est, vt dum mens 
+      <lb ed="#L" n="32"/>interius praue afficitur, intellectus quoque in iudicio eorum quae 
+      <lb ed="#L" n="33"/>foris sunt decipiatur. Haec ipsa est causa quae etiam aliquando in 
+      <!--33.xml-->
+      <pb ed="#A" n="f34"/>
+               <lb ed="#L" n="1"/>vnitate sensuum, controuersia verborum generare solet: quae 
+      ta<lb ed="#L" n="2" break="no"/>men tunc veniale fit, cum pertinax non fuerit. Hanc igitur nos, 
+      <lb ed="#L" n="3"/>qui Dei verbi tractatores &amp; inquisitores veritatis esse videmur, 
+      <lb ed="#L" n="4"/>si inter nos forte, vt assolet, aliquando inuenimus, citius in id 
+      ip<lb ed="#L" n="5" break="no"/>sum redeamuss ne si caeperimus nostra dicta pertinaciter 
+      defen<lb ed="#L" n="6" break="no"/>dere, aliud putemur sapuisse. 
+      </p>
+            <p xml:id="dcn2br-d1e653-d1e207">
+               <lb ed="#L" n="7"/>Illud quod de causa Dei contra Pelagium charitas vestra a 
+      <lb ed="#L" n="8"/>me quaerere dignata est, iam pridem inter quosdam sapientes 
+      <lb ed="#L" n="9"/>ventilatum fuisse didici: atque ex hijs quid senserunt quibus 
+      <lb ed="#L" n="10"/>mais credendum esse existimamus tum alijs de ipsis, tum ipsis 
+      <lb ed="#L" n="11"/>de se referentibus agnoui. Ego autem cum saepius hac materia 
+      <lb ed="#L" n="12"/>pulsari soleam, talem me esse profiteor, qui nollem hinc aliquid 
+      <lb ed="#L" n="13"/>ab omnibus vel tam curiose ac superstitiose inquiri, vel tam 
+      fi<lb ed="#L" n="14" break="no"/>denter asseri. Vnde nunc quoque gemina in hac re 
+      considerati<lb ed="#L" n="15" break="no"/>one coarctor, cum videam me &amp; prudentiae vestre debere 
+      silen<lb ed="#L" n="16" break="no"/>tium, &amp; bonitati responsum. Inter hec ipsa etiam rei difficultas 
+      <lb ed="#L" n="17"/>occurrit, quae fortassis non poterit a me, ita vt decet 
+      compendi<lb ed="#L" n="18" break="no"/>ose discuti, Cum ego si modum in dicendo transiero timeam 
+      <lb ed="#L" n="19"/>superstitiosus videri, volo tamen &amp; multo magis volo 
+      aliquan<lb ed="#L" n="20" break="no"/>do in parte inscientiae argui, quam charitatis contemptor videri, 
+      <lb ed="#L" n="21"/>&amp; verba incoposita habere, quam cor peruersum. Valete 
+      sem<lb ed="#L" n="22" break="no"/>per in Domino nostro Iesu Christo, qui est via ducens a deuio, 
+      <lb ed="#L" n="23"/>veritas firmans in promisso, &amp; vita conformans in termino.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

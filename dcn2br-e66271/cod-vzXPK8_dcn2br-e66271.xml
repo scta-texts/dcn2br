@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="498"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e66271"><!-- l2c9 -->
+            <head xml:id="dcn2br-e66271-Hd1e106">Caput 9</head>
+            <p xml:id="dcn2br-e66271-d1e109">
+               <lb ed="#L" n="5"/>CAP. IX. 
+      <lb ed="#L" n="6"/>Quod nec homo nec Angelus cum quantacunque gratia 
+      <lb ed="#L" n="7"/>ante lapsum potuit perseuerare finaliter, vel ad 
+      <lb ed="#L" n="8"/>tempus sine alio Dei auxilio speciali. 
+      </p>
+            <p xml:id="dcn2br-e66271-d1e120">
+               <lb ed="#L" n="9"/>OStenso, quod homo post sapsum per gratiam reparatus non 
+      po<lb ed="#L" n="10" break="no"/>test solius liberi arbitrij viribus, seu etiam gratiae creatae 
+      quan<lb ed="#L" n="11" break="no"/>taelibet, sine alio Dei auxilio perseuerare finaliter, nec ad 
+      tem<lb ed="#L" n="12" break="no"/>pus; Restat ostendere consequenter quod homo nec Angelus 
+      <lb ed="#L" n="13"/>ante lapsum quantacunque gratia creata suffultus sic potuit 
+      per<lb ed="#L" n="14" break="no"/>seuerare finaliter, vel ad horam: hoc nempe per rationes 
+      osten<lb ed="#L" n="15" break="no"/>dentes conclusionem principalem capituli proximi similiter 
+      o<lb ed="#L" n="16" break="no"/>stendetur. Item si liberum arbitrium in gratia ante Iapsum sic 
+      <lb ed="#L" n="17"/>perseuerate valebat, valebat similiter tentationem quamlibet 
+      <lb ed="#L" n="18"/>superate, &amp; peccatum quodlibet praecauere, &amp; cum iam post 
+      <lb ed="#L" n="19"/>lapsum non sit infinite debilius, quia sic totam suam 
+      fortitudi<lb ed="#L" n="20" break="no"/>nem penitus amisisset, posset &amp; nunc cum tanta gratia quantam tunc habuit tentationem 
+      <lb ed="#L" n="21"/>aliquam superare, tentationem scilicet debiliorem in tantum, in quantum ipsum liberum 
+      ar<lb ed="#L" n="22" break="no"/>bitrium est debilius nunc quam prus,sicut proportionalitas debita clare probat; quod est 
+      con<lb ed="#L" n="23" break="no"/>tra quartum capitulum huius secundi. Vel etiam sic ad idem, quantum liberum arbitrium 
+      <lb ed="#L" n="24"/>est debilitatum per sapsum, tantum habeat gratiam ampliorem, ita quod semper eadem 
+      pro<lb ed="#L" n="25" break="no"/>portio conseruetur, &amp;c. sicut prius. Et si quis voluerit respondere dicendo, quod ante sapsum 
+      <lb ed="#L" n="26"/>nulla fuit difficultas omnino resistere tentatori, sed post sapsum semper est aliqua difficultas, 
+      <lb ed="#L" n="27"/>quare ratio non procedit: Imo illa responsio retrocedet: Si enim liberum arbitrium 
+      pro<lb ed="#L" n="28" break="no"/>priis viribus, vel cum gratia sine alio Dei auxilio tunc potuit sine difficultate omni 
+      tenta<lb ed="#L" n="29" break="no"/>tioni resistere, posset &amp; nunc, licet cum difficultate? aliqua. Difficultas enim nequaquam 
+      to<lb ed="#L" n="30" break="no"/>tam liberi arbitrij possibilitatem excludit, &amp; impossibilitatem includit, quia si sic esset, 
+      nequa<lb ed="#L" n="31" break="no"/>quam difficile, sed impossibile diceretur; adhuc enim vires liberi arbitrij licet debilitate &amp; 
+      <lb ed="#L" n="32"/>cum difficultate aliqua resistentes alicuius tentationis seu tentatoris vires excedunt. Multi 
+      <lb ed="#L" n="33"/>quoque sancti in hoc statu sine aliqua difficultate aut molestia, imo cum magna facilitate &amp;  
+      <lb ed="#L" n="34"/>laetitia tentationes quamplurimas, vt creditur, superabant, multa quoque peccata de quibus 
+      <lb ed="#L" n="35"/>nullatenus tentabantur sine dificultate aliqua, imo &amp; cum facilitate maxima praecauebant. 
+      <lb ed="#L" n="36"/>Nec est omnino clarissimum, quod Angelo vel homini ante lapsum nulla fuerit penitus 
+      diffi<lb ed="#L" n="37" break="no"/>cultas: Mirum enim videtur si homo tunc potuit omne pondus sine quacunque difficultate, 
+      <lb ed="#L" n="38"/>imo &amp; aequali facilitate qualitercunque mouere; Nec minus videtur mirabile si omnem 
+      lite<lb ed="#L" n="39" break="no"/>ram seu colorem in // qualicunque lumine intenso vel remisso, &amp; ad quamlibet distantiam 
+      <lb ed="#L" n="40"/>magnam vel paruam, sine aliqua difficultate, incertitudine aut errore, imo cum aequali 
+      facili<lb ed="#L" n="41" break="no"/>tase, certitudine &amp; verificatione tunc potuit discreuisse; ista tamen propensiori studio 
+      dere<lb ed="#L" n="42" break="no"/>linquo, prosequens quod incaepi. IlSanctus igitur Augustinus loquens de homine ante lapsum 
+      <lb ed="#L" n="43"/>Enchirid. 88. sic dicit; Sic factus est homo rectus, vt &amp; manere in eadem rectitudine, posset 
+      <lb ed="#L" n="44"/>non sine diuino adiutorio, &amp; suo fieri peruersus arbitrio. Idem de eodem de correptione &amp; 
+      <lb ed="#L" n="45"/>gratia 48. sic ait, Tunc dederat homini Deus bonam voluntatem; in illa quippe eum 
+      fece<lb ed="#L" n="46" break="no"/>rat rectum; dederat adiutorium sine quo in ea non posset permanere si vellet, &amp; capit. 44. de 
+      <lb ed="#L" n="47"/>homine &amp; Angelo ante lapsum, Si, inquit, hoc adiutorium vel angelo vel homini cum 
+      pri<lb ed="#L" n="48" break="no"/>mum facti sunt, defuisset, quoniam natura talis non erat facta, vt sine diuino adiutorio 
+      pos<lb ed="#L" n="49" break="no"/>set manere si vellet, non vtique sua culpa cecidisset; adiutorium quippe defuisset, sine quo 
+      ma<lb ed="#L" n="50" break="no"/>nere non posset; &amp; infra eodem, primus homo vt reciperet bonum gratia non egebat, quia 
+      <lb ed="#L" n="51"/>nondum perdiderat; vt autem in eo permaneret, egebat adiutorio gratiae sine quo omnino 
+      <lb ed="#L" n="52"/>non posset. Idemque de natura &amp; gratia 50. recitatis cuiusdam argumentis per locuma si¬ 
+      <!--532.xml-->
+      <pb ed="#A" n="499"/>
+               <lb ed="#L" n="1"/>mili ostendere molientis, quod non peccare in nostra potestate sit positum, ita dicit; Sicut istae 
+      <lb ed="#L" n="2"/>similitudines falsae sunt, ita &amp; illud propter quod eas voluit adhibere; sequitur enim, &amp; dicit,  
+      <lb ed="#L" n="3"/>Simili ergo modo de non peccandi possibilitate intelligendum est, quod non peccare 
+      nos<lb ed="#L" n="4" break="no"/>trum sit, in nostra scilicet potestate; &amp; addit Augustinus, Si de integra &amp; sana hominis natura 
+      <lb ed="#L" n="5"/>loqueretur, quam modo non habemus, nec sic recte diceret, quod non peccare nostrum 
+      tan<lb ed="#L" n="6" break="no"/>tummodo sit, quamuis peccare nostrum esset natura, &amp; ibi esset adiutorium Dei, &amp; tanquam  
+      <lb ed="#L" n="7"/>lumen sanis oculis, quo adniti videant. Idem quoque ad idem: 14. de Civitate Dei penult. 
+      <lb ed="#L" n="8"/>dicit ita, Cur non permitteret Deus vt a malo Angelo primus homo qui rectus, hoc est bonae 
+      <lb ed="#L" n="9"/>voluntatis creatus fuerat, tentaretur, quando quidem sic erat institutus, vt si de adiutorio Dei 
+      <lb ed="#L" n="10"/>fideret bonus homo, malum Angelum vinceret; si autem creatorem atque adiutorem Deum 
+      <lb ed="#L" n="11"/>superbe sibi placendo desereret, vinceretur, meritum bonum habens in adiuta diuinitus 
+      vo<lb ed="#L" n="12" break="no"/>luntate recta, malum vero in deserente Deum voluntate peruersa; quia &amp; ipsum fidere de 
+      ad<lb ed="#L" n="13" break="no"/>iutorio Dei non quidem posset sine adiutorio Dei, nec tamen ab his diuinae gratiae beneficijs 
+      <lb ed="#L" n="14"/>sibi placendo recedere non habebat in potestate: Nam sicut in hac carne, viuere sine 
+      adiuto<lb ed="#L" n="15" break="no"/>rio Dei &amp; sine adiumentis alimentorum non est, non autem in ea viuere, in potestate est, quod  
+      <lb ed="#L" n="16"/>faciunt qui seipsos necanti Ita bene in ea viuere sine adiutorio Dei etiam in Paradiso non erat 
+      <lb ed="#L" n="17"/>in potestate, erat autem in potestate male viuere. Ex his ergo patet prima pars conclusionis 
+      <lb ed="#L" n="18"/>principaliter ostendendae ex quibus etiam cum corollario proximo &amp; rationibus ipsum 
+      pro<lb ed="#L" n="19" break="no"/>bantibus patebit similiter &amp; secunda. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 46</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 46</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="793"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e04550"><!-- l3c46 -->
+            <head xml:id="dcn2br-e04550-Hd1e106">Caput 46</head>
+            <p xml:id="dcn2br-e04550-d1e109">
+               <lb ed="#L" n="29"/>CAP. XLVI. 
+      <lb ed="#L" n="30"/>Contra eandem opinionem &amp; hypothesin per viam reue¬ 
+      <lb ed="#L" n="31"/>lationis in // proprio genere de puris creaturis, scilicet,  
+      <lb ed="#L" n="32"/>Angelis. 
+      </p>
+            <p xml:id="dcn2br-e04550-d1e120">
+               <lb ed="#L" n="33"/>Is ergo duce Christo secundum primam semitam hu¬ 
+      <lb ed="#L" n="34"/>ius biuialis reuelationis in proprio genere, de 
+      Do<lb ed="#L" n="35" break="no"/>mino scilicet Iesu Christo, contra hypothesin 
+      prin<lb ed="#L" n="36" break="no"/>cipalem oppositis, consequens videtur per alteram 
+      <lb ed="#L" n="37"/>eius methodum, de puris scilicet creaturis, Angelis, 
+      <lb ed="#L" n="38"/>hominibus, seruis suis procedere contra eam. Fiat 
+      <lb ed="#L" n="39"/>siquidem reuelatio in proprio genere Michaeli de 
+      bo<lb ed="#L" n="40" break="no"/>nis meritis futuris, &amp; de saluatione Pauli adhuc in 
+      <lb ed="#L" n="41"/>saeculo peregrini, qua non obstante potest Paulus 
+      <lb ed="#L" n="42"/>nec mereri, nec saluari; quare &amp; Michael decipi &amp; 
+      <lb ed="#L" n="43"/>prius fuisse deceptus; quamobrem &amp; tunc non esse 
+      <lb ed="#L" n="44"/>nec prius fuisse beatus, sicut docent praehabita 
+      trice<lb ed="#L" n="45" break="no"/>simo quarto huius. Rursum, quia sicut dicit 
+      Philoso<lb ed="#L" n="46" break="no"/>phus, Vno inconuenienti dato alia contingunt, ex isto vlterius sequitur euidenter 
+      <!--827.xml-->
+      <pb ed="#A" n="794"/>
+               <lb ed="#L" n="1"/>Michaelem non esse nunc certum de beatitudine sua futura; imo quod videtur 
+      absur<lb ed="#L" n="2" break="no"/>dius, nec praeterita, nec praesenti: Haec enim dependet ex vno incerto, quia 
+      con<lb ed="#L" n="3" break="no"/>tingenter futuro; quare nec nunc est, nec vnquam fuit beatus, vt patet ex prius 
+      o<lb ed="#L" n="4" break="no"/>stensis tricesimo quarto huius. Consequitur etiam ex eodem, quod sit in potestate 
+      Pau<lb ed="#L" n="5" break="no"/>li miseri peregrini in terra detrahere Michalem faelicissimum ciuem in coelo a 
+      beatitu<lb ed="#L" n="6" break="no"/>dine sua summa ad imam miseriam, quia ipsum praestigiando decipere turpiter 
+      to<lb ed="#L" n="7" break="no"/>ta die: Imo quod grauius est &amp; peius sequitur nunc esse possibile, &amp; ex voluntate 
+      <lb ed="#L" n="8"/>Pauli pendere Michaelem nunc peccare, &amp; prius peccasse. Ponatur enim iuxta 
+      autorita<lb ed="#L" n="9" break="no"/>tes de orando &amp; modo orandi praemissas vicesimo tertio &amp; vicesimo quinto primi, 
+      Mi<lb ed="#L" n="10" break="no"/>chaelem recepisse mandatum in proprio genere, quod omnem, &amp; solum ostensum sibi &amp; 
+      <lb ed="#L" n="11"/>visum saluandum in proprio genere &amp; in verbo velit saluari, iuuetque obsequijs &amp; 
+      bene<lb ed="#L" n="12" break="no"/>ficijs solum talem; ostendaturque sibi in proprio genere &amp; in verbo Paulum adhuc 
+      pe<lb ed="#L" n="13" break="no"/>regrinum saluandum, velitque volutione in proprio genere ipsum saluari, obsequia 
+      quo<lb ed="#L" n="14" break="no"/>que ac beneficia ei praestet: quibus omnibus ita factis adhuc est possibile Paulum non 
+      <lb ed="#L" n="15"/>saluari; quare &amp; Michaelem peccasse volendo ipsum saluari, &amp; beneficia sibi praestando 
+      <lb ed="#L" n="16"/>contra mandatum diuinum; cum sit possibile ipsum non vidisse Paulum saluandum in 
+      pro<lb ed="#L" n="17" break="no"/>prio genere &amp; in verbo, imo vidisse oppositum huius in verbo, &amp; hoc in proprio 
+      gene<lb ed="#L" n="18" break="no"/>re non vidisse, cum falsum nullatenus videatur, sicut nec scitur. Ponatur etiam 
+      conse<lb ed="#L" n="19" break="no"/>quenter ad istud, quod Michael confortando Paulum appareat ei, &amp; dicat, Gaudium tibi 
+      <lb ed="#L" n="20"/>semper sit, quia tu es de numero saluandorum; adhuc autem est possibile Paulum pro 
+      <lb ed="#L" n="21"/>nunc non esse saluandum, sed damnandum; &amp; Michaelem hoc nunc videre in verbo, 
+      qua<lb ed="#L" n="22" break="no"/>re &amp; contra mentem istud asserere &amp; mentiri; esse quoque Angelum Satanae, a veritate 
+      <lb ed="#L" n="23"/>Apostatam, ac in praeterito sic fuisse. Praeterea sequitur Michaelem posse credere duo 
+      <lb ed="#L" n="24"/>contradictoria plane simul, contra praeostensa quadragesimo secundo istius. Nunc enim 
+      <lb ed="#L" n="25"/>credit in proprio genere Paulum esse saluandum, &amp; necesse est eum credere pro nunc 
+      <lb ed="#L" n="26"/>ita, &amp; possibile est eum pro nunc videre oppositum eius in verbo, quia possibile est pro 
+      <lb ed="#L" n="27"/>nunc oppositum esse verum, &amp; ostensum sibi in verbo. Amplius autem si possibile sit 
+      <lb ed="#L" n="28"/>Paulum non saluari, possibile est Michaelem non sciuisse certitudinaliter in proprio 
+      ge<lb ed="#L" n="29" break="no"/>nere ipsum fuisse saluandum; quare nec voluisse in proprio genere ipsum esse saluandum, 
+      <lb ed="#L" n="30"/>nec ei beneficia praestitisse, quia haec certa visio fuit causa quare voluit haec &amp; fecit sicut 
+      <lb ed="#L" n="31"/>&amp; de visione in verbo tricesimo tertio huius &amp; sequentibus capitulis plenius est // 
+      argu<lb ed="#L" n="32" break="no"/>tum. Secundum istud similiter potest quilibet miser inferre facillime tota die sanctissimis 
+      <lb ed="#L" n="33"/>&amp; beatissimis Angelis nocumentum &amp; poenam sine culpa aliqua praecedente, quod videtur 
+      <lb ed="#L" n="34"/>in eorum miseriam &amp; in Dei iniuriam redundare, sicut tricesimo tertio huius diffusius 
+      <lb ed="#L" n="35"/>monstrabatur. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

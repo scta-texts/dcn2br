@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="507"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e67474"><!-- l2c12 -->
+            <head xml:id="dcn2br-e67474-Hd1e106">Caput 12</head>
+            <p xml:id="dcn2br-e67474-d1e109">
+               <lb ed="#L" n="20"/>CAP. XII. 
+      <lb ed="#L" n="21"/>Obiicit &amp; respondet.
+    </p>
+            <p xml:id="dcn2br-e67474-d1e116">
+               <lb ed="#L" n="22"/>PEr hoc autem corollarium iam paemissum, patet responsio ad  
+      <lb ed="#L" n="23"/>aliquas obiectiones possibiles fieri contra dictas, Si enim vt 
+      di<lb ed="#L" n="24" break="no"/>ctum est perseuerantia non differret realiter a charitate, 
+      cum<lb ed="#L" n="25" break="no"/>perseuerantia ipsa est idem realiter charitati, ergo &amp;st omnis 
+      ha<lb ed="#L" n="26" break="no"/>bens charitatem habet perseuerantia, quod falsum est, quia 
+      mul<lb ed="#L" n="27" break="no"/>ti eam habentes sunt peccaturi mortaliter &amp; casur, sicut fuit de 
+      <lb ed="#L" n="28"/>Saule &amp; Iuda &amp; alijs nimis multis. Adhuc autem sicut multi 
+      <lb ed="#L" n="29"/>Doctores testantur, &amp; sicut potuit indubitanter fuisse; ponatur 
+      <lb ed="#L" n="30"/>omnes Angelos charitatem seu gratiam recepisse, &amp; ipsam per 
+      <lb ed="#L" n="31"/>tempus aliquod tenuisse; &amp; sit A instans commune acceptionis 
+      <lb ed="#L" n="32"/>gratiae: Omnes enim, vt videtur, gratiam, sicut &amp; essentiam, 
+      pa<lb ed="#L" n="33" break="no"/>riter acceperunt; &amp; Cinstans confirmationis bonorum; &amp; P 
+      <lb ed="#L" n="34"/>peccationis malorum: Certum est autem secundum omnes Doctores, quod A Ptempus est 
+      i<lb ed="#L" n="35" break="no"/>dem A Ctempori, vel pars eius. Constat namque quod post confirmationem bonorum, 
+      <lb ed="#L" n="36"/>nullus malorum incaepit peccare in coelo, &amp; cum boni habuerunt perseuerantiam per totum 
+      <lb ed="#L" n="37"/>ACtempus, quia charitatem seu gratiam continue permanentem, habuerunt etiam 
+      perseue<lb ed="#L" n="38" break="no"/>rantiam per totum A Ptempus; ergo &amp;e mali similiter, quod est falsum; vel si mali nunquam  
+      <lb ed="#L" n="39"/>perseuerantiam habuerunt, nec boni: Cur enim Deus aequissimus tantum discerneret inter 
+      <lb ed="#L" n="40"/>illos ante omne demeritum vel peccatum, vt munus perseuerantiae istis daret, illis vero 
+      ne<lb ed="#L" n="41" break="no"/>garet. Propter hanc etenim rationem, Augustinus II. super Genesin ad literam 24. &amp; II. 
+      <lb ed="#L" n="42"/>de Ciuit. Dei II. &amp; 13. Anselmus de casu diaboli 24. &amp; Petrus 2. sentent. dist. 4. videtur istam  
+      <lb ed="#L" n="43"/>discretionem negare de praescientia Angelorum, quod videlicet boni fuerunt praescij suae bea 
+      <lb ed="#L" n="44"/>titudinis futurae, &amp; mali non fuerunt praescij sui casus, quod tamen videtur multo amplius 
+      <lb ed="#L" n="45"/>ponderandum de perseuerantia sine qua non est salus. Item si perseuerantia sit idem realiter 
+      <lb ed="#L" n="46"/>charitati, cum charitas in diuersis sit maior &amp; minor, sic erit de perseuerantia consequenter: 
+      <lb ed="#L" n="47"/>Petrus ergo fuit magis perseueraturus, quam Linus, ergo magis non amissurus suam 
+      chari<lb ed="#L" n="48" break="no"/>tatem, vel eam magis seruaturus, quod non oportet: in tantum enim potest quis seruare 
+      bo<lb ed="#L" n="49" break="no"/>num suum minus ne cadat ab illo, sicut alius suum maius. Item cum perseuerantia addat 
+      su<lb ed="#L" n="50" break="no"/>pra charitatem respectum continuationis per totum tempus vsque ad finem, quantitas illius 
+      <lb ed="#L" n="51"/>respectus fequatur aliquo modo quantitatem sui fundamenti, scilicet charitatis, sequitur 
+      ip<lb ed="#L" n="52" break="no"/>sum in maiori charitate esse maiorem, ergo &amp;s perseuerantiam illam maiorem: Ille enim resa 
+      <lb ed="#L" n="53"/>pectus est quasi formale in perseuerantia, &amp; charitas materiale. Sequitur etiam, quod cum 
+      <!--541.xml-->
+      <pb ed="#A" n="508"/>
+               <lb ed="#L" n="1"/>tempus ad finem sit maius &amp; minus &amp; finis remotior &amp; propinquior, quod ille respectus ex 
+      <lb ed="#L" n="2"/>eis consurgens sit maior &amp; minor, quare &amp; perseuerantia consequenter. Imo &amp; e contrario 
+      <lb ed="#L" n="3"/>arguendo, cum ille respectus non possit augeri vel minui, &amp; sit forma ipsius perseuerantiae, 
+      <lb ed="#L" n="4"/>sequitur ipsam perseuerantiam non posse augeri vel minui, &amp; cum perseuerantia sit donum 
+      <lb ed="#L" n="5"/>Dei creatum, sequitur quod Deus de sua omnipotentia infinita, aliquod donum suum creatum 
+      <lb ed="#L" n="6"/>finitum non possit augere vel minuere quouismodo. Item si perseuerantia sit idem realiter 
+      <lb ed="#L" n="7"/>charitati, &amp; superaddat respectum continuitatis ad finem, nullus qui habet, &amp; habuit 
+      conti<lb ed="#L" n="8" break="no"/>ue charitatem, posset rationabiliter perseuerantiam a Domino postulare: Nihil enim potest 
+      <lb ed="#L" n="9"/>a Domino rationabiliter postulare, nisi quod a Domino potest accipere, sed 
+      perseueran<lb ed="#L" n="10" break="no"/>tiam non potest accipere; Si enim posset, ponatur, ergo, iste nunc accipit perseuerantiam; 
+      er<lb ed="#L" n="11" break="no"/>go nunc accipit charitatem cum tali respectu, vel saltem talem respectum; sed charitatem 
+      il<lb ed="#L" n="12" break="no"/>lam non recipit, quia illam prius habuit; nec illum respectum ad finem, quia si nunc sit 
+      perse<lb ed="#L" n="13" break="no"/>ueraturus finaliter, ita fuit prius quamdiucontinue habuit charitatem. Vel aliter isto modo; 
+      <lb ed="#L" n="14"/>Iste accipit perseuerantiam; ergo est perseueraturus vsque in finem, ergo ita fuit prius, 
+      quan<lb ed="#L" n="15" break="no"/>diu habuit charitatem, ergo prius continue habuit perseuerantiam, ergo non accipit illam 
+      <lb ed="#L" n="16"/>modo. Item sit aliquis in charitate peccaturus mortaliter, &amp; finaliter reuicturus, &amp; eandem 
+      <lb ed="#L" n="17"/>charitatem numero accepturus, &amp; finaliter seruaturus; tunc iste non perseuerabit, quia 
+      pecca<lb ed="#L" n="18" break="no"/>bit mortaliter, &amp; tamen habet perseuerantiam; Nam cras post poenitentiam habebit 
+      perse<lb ed="#L" n="19" break="no"/>uerantiam: Supponatur, &amp; nunc habet eandem charitatem numero, quam tunc habebit, &amp;  
+      <lb ed="#L" n="20"/>respectu finis eiusdem numero; ergo &amp;et nunc habet eundem respectum numero, ergo &amp;s 
+      ean<lb ed="#L" n="21" break="no"/>dem perseuerantiam numero. Item iste, in ista charitate, quam nunc habet, est 
+      perseueratu<lb ed="#L" n="22" break="no"/>rus vsque in finem, quia cras sic est perseueraturus, ergo nunc habet perseuerantiam. Item 
+      <lb ed="#L" n="23"/>si iste non habet perseuerantiam, non perseuerabit, nec est perseueraturus, cum tamen cras 
+      <lb ed="#L" n="24"/>perseuerabit, &amp; erit perseueraturus, ergo iste incipiet esse perseueraturus, &amp; propositio de 
+      <lb ed="#L" n="25"/>futuro nunc falsa incipiet esse vera, haec scilicet, Iste perseuerabit finaliter. Item si sic; 
+      per<lb ed="#L" n="26" break="no"/>seucrantia habita non posset amitti, sicut capitulum proximum demonstrabat, cum tamen illa 
+      <lb ed="#L" n="27"/>charitas viatoris possit amitti, &amp; per consequens ille respectus in prima fundatus: Sequitur 
+      <lb ed="#L" n="28"/>etiam quod Deus dedit aliquod munus creatum alicui, quod ipsemet non potest auferre nec 
+      <lb ed="#L" n="29"/>destruere vllo modo, imo &amp; quod homo sit potentior ad retinendum, quam Deus ad 
+      aufe<lb ed="#L" n="30" break="no"/>rendum illud munus. Item si perseuerantia esset huiusmodi donum Dei, aliquando illam 
+      <lb ed="#L" n="31"/>perseueranti donaret; vel ergo in instanti, vel tempore; si in aliquo instanti, ergo cui datur tunc 
+      <lb ed="#L" n="32"/>accipit, &amp; habet perseuerantiam, &amp; perseuerat; ergo prius perseuerauit, ergo prius continue 
+      <lb ed="#L" n="33"/>habuit perseuerantiam, ergo non accipit illam modo: Perseuerate namque quandam 
+      succes<lb ed="#L" n="34" break="no"/>sionem importat, sicut mouere, cuius alia pars praecedit, aliaque succedit; Importat enim 
+      con<lb ed="#L" n="35" break="no"/>tinuationem in bono. Alias etiam posset quis perseuerare finaliter tantum per instans, 
+      scili<lb ed="#L" n="36" break="no"/>cet si immediate post instans acceptionis perseuerantiae finalis per diuinam potentiam de 
+      me<lb ed="#L" n="37" break="no"/>dio tolleretur; quod non est verum, quia ibi non esset principium nec finis, sed 
+      indiuisibili<lb ed="#L" n="38" break="no"/>ter totum simul. Si autem donetur in tempore hoc // esset per tempus aliquod totum primo, 
+      <lb ed="#L" n="39"/>sicut loquitur Philosophus 6. Phys. 44. vbi definit illud hoc modo; Dico autem, primum 
+      <lb ed="#L" n="40"/>inquit, quod non per alterum aliquid ipsius esse huiusmodi sit, &amp; arguo, sicut arguit ibi 
+      Phi<lb ed="#L" n="41" break="no"/>losophus; Sit ergo illud tempus primum in quo Deus dat perseuerantiam AC, &amp; B medium 
+      <lb ed="#L" n="42"/>eius instans; tunc in Biste habet perseuerantiam; ergo illa vel datur ei in B, vel dabatur in A 
+      <lb ed="#L" n="43"/>B, &amp; vtrulibet concedatur, non datur tunc in B C, ergo non in toto A Cprimo. Item talis 
+      mu<lb ed="#L" n="44" break="no"/>tatur de non perseuerante in perseuerantem, ergo secundum Philosophum vbi prius 44. cum 
+      <lb ed="#L" n="45"/>mutatus est primum est in illo, in quod mutatus, sicut a 40. vsque ad 44. demonstrat 
+      vniuer<lb ed="#L" n="46" break="no"/>saliter in omni mutatione sic esse; &amp; in illo 44. demonstrat, quod omne illud in quod aliquid 
+      <lb ed="#L" n="47"/>mutatum est primo necesse est atomum esse. Idemque Philosophus 8. Phys. 69. ostendit. 
+      <lb ed="#L" n="48"/>quod in omni mutatione de vna passione, seu dispositione in sibi oppositam est vnum signum, 
+      <lb ed="#L" n="49"/>scilicet vnum nunc vtrisque commune &amp; priori &amp; posteriori, &amp; vnum &amp; idem numero, huius p 
+      <lb ed="#L" n="50"/>quidem finis, illius autem principium, quod semper est posterioris passionis, sicut si D sit non  
+      <lb ed="#L" n="51"/>album toto A Btempore &amp; album toto B Ctempore, erit album in B, nunc seu in instantij 
+      <lb ed="#L" n="52"/>quare si quis sit non perseuerans toto A B tempore, &amp; toto B Ctempore perseuerans, in B 
+      <lb ed="#L" n="53"/>instanti erit necessario perseuerans. Anselmus etiam de veritate 12. dicit, iustitiam mox 
+      <lb ed="#L" n="54"/>cum datur a voluntate seruari, quare &amp; tunc perseueratur in ea. Item si perseuerantia esset 
+      <lb ed="#L" n="55"/>huiusmodi donum Dei, daretur hominibus in vita praesenti, vel post eam; Non post, 
+      con<lb ed="#L" n="56" break="no"/>stat, loquendo de finali perseuerantia viatoris; nec ante, quia ponatur tunc quod Petrus 
+      via<lb ed="#L" n="57" break="no"/>tor habeat, &amp; diu prius habuit perseuerantiam, tunc verum est Petrum habuisse 
+      perseueran<lb ed="#L" n="58" break="no"/>tiam, ergo necesse est eum habuisse perseuerantiam. Nam secundum Philosophum 1. peri 
+      <!--542.xml-->
+      <pb ed="#A" n="509"/>
+               <lb ed="#L" n="1"/> hermenias, quodlibet verum de praeterito est necessarium; &amp; si necesse sit Petrum habuisse 
+      <lb ed="#L" n="2"/>perseuerantiam, cum ex illo sequatur ipsum esse perseueraturum finaliter; &amp; ex necessario 
+      <lb ed="#L" n="3"/>non sequitur nisi necessarium, vt liber Priorum ostendit, necesse est Petuum esse 
+      perseueratu<lb ed="#L" n="4" break="no"/>rum finaliter: cum tamen sit viator potens peccare mortaliter, &amp; sic amittere charitatem, Item 
+      <lb ed="#L" n="5"/>tunc qui habet, &amp; diu habuit charitatem, casurus tamen ab ea, non habetnunc, nec vnquum 
+      <lb ed="#L" n="6"/>habuit perseuerantiam, &amp; tamen potest eam habere pro nunc, imo &amp; potest nunc eam prius 
+      <lb ed="#L" n="7"/>continue habuisse; potest enim non cadere, sed perseuerate finaliter, ex quo sequitur ipsum 
+      <lb ed="#L" n="8"/>nunc perseuerare &amp; prius perseuerasse toto tempore quo habuit charitatem, &amp; quicquid 
+      sequi<lb ed="#L" n="9" break="no"/>tur ex possibili est possibile, sicut nullus Logicus, nec Theologicus dubitat: Quare qui nunc 
+      <lb ed="#L" n="10"/>non habet, nec habuit vnquam perseuerantiam, potest eam habere pronunc, &amp; eam prius 
+      <lb ed="#L" n="11"/>continue habuisse, e go esset contingentia in propositionibus de praeterito &amp; praesenti; sicut 
+      <lb ed="#L" n="12"/>in illis de futuro, quod est contra Philosophum 1. peri hermenias capit. vlt. &amp; contra 
+      Boe<lb ed="#L" n="13" break="no"/>tium ibi in comment. Et 1. de Coelo penult. sic ait, Neque enim vna virtus eius quod est 
+      fa<lb ed="#L" n="14" break="no"/>ctum esse est, sed eius quod est esse aut futurum esse, quod &amp; satis plane dicit ibi Auerroes 
+      <lb ed="#L" n="15"/>commentator. Lumbardus quoque 2. sentent. dist. 25. dicit, quod liberum arbitrium 
+      ad<lb ed="#L" n="16" break="no"/>praesens vel ad praeteritum non refertur, sed ad futurum; ergo nec liberum arbitrium Dei; 
+      <lb ed="#L" n="17"/>Deus ergo non potest dare nunc perseuerantiam, nec potest nunc dedisse perseuerantiam non  
+      <lb ed="#L" n="18"/>habenti, &amp; ei qui nunquam eam habebat, quare nec talis potest eam nunc habere, aut prius 
+      <lb ed="#L" n="19"/>continue habuisse. Item Augustinus de bono perseuerantiae 7. ita dicit; Non dicant 
+      homi<lb ed="#L" n="20" break="no"/>nes perseuerantiam cuiquam datam vsque in finem, nisi cum ipse venerit finis, &amp; 
+      perseueras<lb ed="#L" n="21" break="no"/>se cui data est, repertus fuerit, vsque in finem; Et idem eandem quasi sententiam capitulo 
+      pri<lb ed="#L" n="22" break="no"/>mo dicit. Sed illud soluit aliud, &amp; aperit mentem eius: Dicit enim, Itaque vtrum quisque 
+      <lb ed="#L" n="23"/>hoc munus acceperit, quamdiu hanc vitam duxerit, incertum est; Si enim priusquam 
+      mori<lb ed="#L" n="24" break="no"/>atur cadat, non perscuerasse verissime dicitur: Quomodo ergo perseuerantiam qui non 
+      per<lb ed="#L" n="25" break="no"/>seuerauerit accepisse vel habuisse dicendus est? Vult ergo dicere, quod de nullo quamdiu 
+      dux<lb ed="#L" n="26" break="no"/>erit istam vitam est determinatum &amp; certum, quod perseuerantiam finalem accepit, non 
+      <lb ed="#L" n="27"/>quod nullus eam accepit, imo frequentissime ostendit eius oppositum, sicut praemissa 
+      capitu<lb ed="#L" n="28" break="no"/>la recitabant: Alia autem obiecta reijcientur faciliter virtute corollarij praeostensi, communi 
+      <lb ed="#L" n="29"/>Logica succurrente. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

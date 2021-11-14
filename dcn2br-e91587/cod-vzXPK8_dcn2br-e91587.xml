@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="693"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e91587"><!-- l3c18 -->
+            <head xml:id="dcn2br-e91587-Hd1e106">Caput 18</head>
+            <p xml:id="dcn2br-e91587-d1e109">
+               <lb ed="#L" n="22"/>CAP. XVIII. 
+      <lb ed="#L" n="23"/>Rectificat septimam opinionem dicentem, quod aliquid potest inci¬ 
+      <lb ed="#L" n="24"/>pere esse futurum. 
+      </p>
+            <p xml:id="dcn2br-e91587-d1e118">
+               <lb ed="#L" n="25"/>OPinio septima confiretur, quod aliquid potest incipere esse futurum, vo¬ 
+      <lb ed="#L" n="26"/>lens per hoc vitare difficultatem praetactam. Hanc autem opinionem 
+      <lb ed="#L" n="27"/>audiui a quodam famoso Doctore, qui &amp; dixit illam fuisse communem 
+      <lb ed="#L" n="28"/>&amp; in quadam Vniuersitate solennissima, qua studebat. Sed haec opinio 
+      <lb ed="#L" n="29"/>sse fallitur in duobus: Primo, quia fundatur in falso: Secundo, quia non  
+      <lb ed="#L" n="30"/>iuuatur per illud: Si enim aliquid possit incipere esse futurum, ponatur 
+      <lb ed="#L" n="31"/>quod A. incipiat in B. instanti futuro, esse futurum; ergo A. incipiet 
+      <lb ed="#L" n="32"/>in B. esse futurum; ergo A. in B. vel immediate post B. erit futurum; 
+      <lb ed="#L" n="33"/>ergo A. erit post B; ergo A. erit; ergo A. est futurum, cuius oppositum ponebatur. Si autem 
+      <lb ed="#L" n="34"/>dicatur, quod ista de futuro A. incipiet in B. esse futurum, non est vera, nec vnquam erit, quia 
+      <lb ed="#L" n="35"/>nec ante B. nec post B. nec in B; sed haec de praesenti, A. incipit esse futurum, erit vera in B. 
+      <lb ed="#L" n="36"/>contradicetur hoc modo. Si haec, A. incipit esse futurum, erit vera in B. ergo ipsa est futura 
+      <lb ed="#L" n="37"/>vera in B.; ergo futurum sic // est realiter in B. sicut ipsa significat, vel significabit in B. ergo 
+      <lb ed="#L" n="38"/>futurum est in B. A. incipere esse futurum, ergo in B. A. incipiet esse futurum. Item 
+      pona<lb ed="#L" n="39" break="no"/>tur B. praeseus, tunc haec est vera de praesenti, A. incipit esse futurum, &amp; ista similiter, haec 
+      <lb ed="#L" n="40"/>inceptio est, vel ergo haec inceptio fuit futura vel non: si fuit futura, ergo ante B. verum fuit 
+      <lb ed="#L" n="41"/>hanc inceptionem esse futuram, &amp; quod haec inceptio erit; ergo &amp; tunc verum fuit, quod A. 
+      <lb ed="#L" n="42"/>in B. incipiet esse futurum: Si non fuerit futura, ergo aliquid est praesens quod nunquam  
+      <lb ed="#L" n="43"/>fuit futurum, quod est contrarium rationi, &amp; capitulo proximo reprobatum. Si enim haec 
+      <lb ed="#L" n="44"/>inceptio praesens nunquam fuit futura, nunquam fuit praescita a Deo; &amp; si quis heri dixisset, 
+      <lb ed="#L" n="45"/>quod haec inceptio erit, falsum dixisset; at si quis dixisset, quod haec inceptio nunquam erit, 
+      <lb ed="#L" n="46"/>verum dixisset, cum tamen non sicut secundus, sed sicut primus praedixit, realiter nunc 
+      con<lb ed="#L" n="47" break="no"/>tingat: Imo sequitur, ambo contradictoria fuisse simul vera. Nam per hypothesin, haec 
+      sem<lb ed="#L" n="48" break="no"/>per fuit vera, Haec inceptio non erit, quia nunquam fuit futura; &amp; haec fuit vera, Haec 
+      incep<lb ed="#L" n="49" break="no"/>tio erit, quia si quis eam dixisset, verum dixisset, sicut exitus rei probat, &amp; praescientia Dei 
+      <lb ed="#L" n="50"/>monstrat: aliter enim nullam praescientiam huius habebat, vel falsam. Et si vnum aliquid 
+      <lb ed="#L" n="51"/>sit praesens sine futuritione praemissa, quare non quodcunque? Sicque reconciliabitur opinio 
+      <lb ed="#L" n="52"/>Sophistarum 15. huius perpetuo condemnata. Preterea hec responsio propriam hypothesin 
+      <!--727.xml-->
+      <pb ed="#A" n="694"/>
+               <lb ed="#L" n="1"/>perimit vel perimetur ab ea. Si enim haec non est vera, A. incipiet in B. esse futurum; eadem  
+      <lb ed="#L" n="2"/>ratione nulla talis est vera, nec etiam potest esse; quia si posset, ponatur inesse; reuertitur 
+      <lb ed="#L" n="3"/>argumentum. Si ergo nulla talis potest esse vera, nihil potest incipere esse futurum in aliquo 
+      <lb ed="#L" n="4"/>instanti futuro, quare nec vnquam: aut si quid quod nunc non est futurum potest incipere 
+      <lb ed="#L" n="5"/>esse futurum in aliquo instanti futuro, ponatur in esse, &amp; reuertitur difficultas. Si enim 
+      ali<lb ed="#L" n="6" break="no"/>quid nunc non futurum, in aliquo instanti futuro incipiet esse futurum, ergo post aliquod  
+      <lb ed="#L" n="7"/>instans futurum erit; ergo erit, ergo est futurum, ergo aliquid non futurum est futurum. Item 
+      <lb ed="#L" n="8"/>nulla est causa possibilis assignari, quare aliquid incipiat potius esse futurum in vno instanti 
+      <lb ed="#L" n="9"/>quam in quolibet alio; ergo in quolibet, vel in nullo. Si autem aliqua certa dispositio causae 
+      <lb ed="#L" n="10"/>illius futuri assignetur pro causa diuersitatis praemissae, illa statim tolletur, supposito quod 
+      <lb ed="#L" n="11"/>effectus futurus sit semper futurus contingenter aequaliter donec fiat, sicut est de actu libero 
+      <lb ed="#L" n="12"/>voluntatis, quae longo tempore potest manere in aequali dispositione, in aequali indifferentia, 
+      <lb ed="#L" n="13"/>in aequali indeterminatione per omnia inter duos actus contrarios omnino aequales, circa 
+      <lb ed="#L" n="14"/>duo obiecta omnino aequalia, sicut quod comedat vel bibat, vel de duobus cibis aequalibus 
+      <lb ed="#L" n="15"/>in compossibilibus quod capiat hunc vel illum, &amp; tandem vtrumlibet eligere libere, scilicet 
+      <lb ed="#L" n="16"/>hunc vel illum, sicut quartum huius cum sequentibus manifestat. Si autem dicatur quod 
+      ni<lb ed="#L" n="17" break="no"/>hil incipiet esse futurum priusquam determinetur per certam dispositionem in sua causa, quae 
+      <lb ed="#L" n="18"/>sit necessaria respectu illius, sequetur quod omne futurum de necessitate eueniet, quod 
+      duo<lb ed="#L" n="19" break="no"/>decimum huius damnat. Item si aliquid incipiat esse futurum per aliquod tempus, puta per 
+      <lb ed="#L" n="20"/>annum, antequam fiat, eadem ratione aliquid potest incipere esse futurum per minus tempus 
+      <lb ed="#L" n="21"/>antequam fiat, puta per mensem, &amp; eadem ratione per septimanam &amp; per diem, &amp; sic 
+      tan<lb ed="#L" n="22" break="no"/>dem eadem ratione potest omne tempus auferri: eadem enim est ratio de toto &amp; de parte: 
+      <lb ed="#L" n="23"/>quare erit possibile aliquid esse praesens quod nunquam fuit futurum, quod est superius 
+      re<lb ed="#L" n="24" break="no"/>probatum. Item si vnum futurum inciperet esse futurum, ergo eadem ratione &amp; aliud, &amp;  
+      <lb ed="#L" n="25"/>quodcunque; ergo tempus non est aeternum: aliquod enim est remotissimum instans 
+      futu<lb ed="#L" n="26" break="no"/>rum, illud scilicet quod // nondum incipit esse futurum; ergo post illud non est aliquod instans 
+      <lb ed="#L" n="27"/>futurum, quia non incipit, nec incepit esse futurum; ergo &amp;st post illud non est tempus 
+      futu<lb ed="#L" n="28" break="no"/>rum, ergo post illud instans non erit instans nec tempus. Item de quocunque futuro 
+      quan<lb ed="#L" n="29" break="no"/>docunque dixisset quis illud esse vel fuisse futurum, verum dixisset, &amp; dicens eius oppositum 
+      <lb ed="#L" n="30"/>falsum dixisset; ergo omne futurum semper fuit vere futurum, vt capitulum proximum 
+      ar<lb ed="#L" n="31" break="no"/>guebat. Item si futura non semper fuerunt futura, non semper fuerunt praescita a Deo, nec 
+      <lb ed="#L" n="32"/>aeternaliter praedestinata ab eo, contra 6. &amp; 45. primi, imo de necessitate sequetur, quod 
+      ali<lb ed="#L" n="33" break="no"/>quando incipit praescire &amp; praedestinare futura, ergo est mutabilis, quod non patitur 5. 
+      pri<lb ed="#L" n="34" break="no"/>mi, nec in principio mundi sciuit quid esset facturus in fine vol in medio tempore, quod non 
+      <lb ed="#L" n="35"/>decet. Vnde Esaias 46. Redite praeuaricatores ad cor, &amp; recordamini prioris saeculi, quoniam 
+      <lb ed="#L" n="36"/>ego sum Dominus annuntians ab exordio nouissimum, &amp; ab initio quae nondum facta sunt,  
+      <lb ed="#L" n="37"/>dicens, Consilium meum stabit, &amp; omnis voluntas mea fiet. Et Psalmo II8. initio, Cognoui 
+      <lb ed="#L" n="38"/>de testimonijs tuis quod in aeternum fundasti ea. Et Psalmo 138. Intellexisti cogitationes 
+      <lb ed="#L" n="39"/>meas de longe. Quam longe? Ecce, Domine, tu cognouisti omnia, nouissima &amp; 
+      antiqua<lb ed="#L" n="40" break="no"/>Quare &amp; Augustinus 3. de libero arbitrio 3. ita dicit: Hodie praescit Deus quod post annum 
+      <lb ed="#L" n="41"/>facturus est; Et sequitur; Semper hoc praesciuit: Dicitque Philosophus I. peri hermenias 
+      <lb ed="#L" n="42"/>vlt. quod non differt, si aliquis affirmauerit vel negauerit aliquid in // 1000. annum magis 
+      <lb ed="#L" n="43"/>quam in quantolibet tempore. Item si aliquid potest incipere esse futurum, eadem ratione 
+      <lb ed="#L" n="44"/>aliquid futurum potest desinere esse futurum absque positione eius inesse. Si namque A. nunc 
+      <lb ed="#L" n="45"/>incipiat esse futurum, hoc est propter aliquam causam seu dispositionem in causa nunc posita, 
+      <lb ed="#L" n="46"/>quae prius non ponebatur, vel non sic ponebatur; ergo si causa vel dispositio illa tollatur, 
+      <lb ed="#L" n="47"/>non posito A. in esse. A. desinit esse futurum absque positione eius in esse: sit ergo A. nunc 
+      <lb ed="#L" n="48"/>futurum &amp; in B. instanti futuro, desinat esse futurum sine positione eius in esse; tunc in B. sicut 
+      <lb ed="#L" n="49"/>&amp; semper ista consequentia erit bona, A. fuit futurum, &amp; nunquam fuit, nec est; ergo A. est 
+      <lb ed="#L" n="50"/>futurum, &amp; antecedens erit verum in B. ergo &amp; consequens; ergo in B. A. erit futurum post. 
+      <lb ed="#L" n="51"/>B. Iterum sic ad idem A. est futurum; ergo A. erit, &amp; non ante B. nec in B. ergo post B. 
+      er<lb ed="#L" n="52" break="no"/>go in B. A. erit futurum. Amplius ad hoc idem; Sit A. nunc futurum, &amp; sine positione in 
+      <lb ed="#L" n="53"/>esse &amp; in B. instanti futuro desinat esse futurum, &amp; maneat non futurum per aliquod certum 
+      <lb ed="#L" n="54"/>tempus, quod sit C. adhuc post illud tempus Deus potest facere A. esse praesens, ergo &amp; 
+      fu<lb ed="#L" n="55" break="no"/>turum: potest enim restituere omnes causas A. cum omnibus dispositionibus earum, propter 
+      <lb ed="#L" n="56"/>quas A. fuit futurum ante B. ponatur ergo quod faciat, &amp; sequetur quod A. incipiet esse 
+      fu<lb ed="#L" n="57" break="no"/>turum in aliquo instanti post C. tempus; ex quo vlterius consequetur quod A. erit vel fuit 
+      fu<lb ed="#L" n="58" break="no"/>turum duobus instantibus seu temporibus mediatis, &amp; quolibet instanti seu tempore medio 
+      <!--728.xml-->
+      <pb ed="#A" n="695"/>
+               <lb ed="#L" n="1"/>non futurum nec praesens, quod est irrationabile penitus &amp; absurdum. Nec istud difficulta 
+      <lb ed="#L" n="2"/>tem euitat. Postquam enim quicquam incepit esset futurum, &amp; certitudinaliter praescitum a 
+      <lb ed="#L" n="3"/>Deo, vel est possibile illud non euenire, &amp; tunc Deus nequaquam certitudinaliter praescit 
+      il<lb ed="#L" n="4" break="no"/>lud, imo videtur consequenter possibile praescientiam Dei falli, sicut duodecimo huius erat 
+      <lb ed="#L" n="5"/>argutum; vel illud de necessitate cueniret, &amp; tunc necessario consequetur, quod omnia quae 
+      <lb ed="#L" n="6"/>euenient, euenient de necessitate penitus absoluta, quod idem duodecimum condemnauit. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

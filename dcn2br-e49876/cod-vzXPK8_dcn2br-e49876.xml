@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 41</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 41</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="371"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e49876"><!-- l1c41 -->
+            <head xml:id="dcn2br-e49876-Hd1e106">Caput 41</head>
+            <p xml:id="dcn2br-e49876-d1e109">
+      <!--404.xml-->
+               <pb ed="#A" n="371"/>
+               <lb ed="#L" n="1"/>CAP. XLI. 
+      <lb ed="#L" n="2"/>Quod gratia prius naturaliter quam voluntas humana 
+      <lb ed="#L" n="3"/>efficiat actus bonos. 
+    </p>
+            <p xml:id="dcn2br-e49876-d1e122">
+               <lb ed="#L" n="4"/>OStenso quidem quod gratia cum voluntate efficit bonos actus; 
+      vlte<lb ed="#L" n="5" break="no"/>rius inquirendum nunquid ambae aeque primo secundum naturam,  
+      <lb ed="#L" n="6"/>vel altera prius naturaliter reliqua; &amp; si sic, quae illarum. Puto autem 
+      <lb ed="#L" n="7"/>quod gratia gratis infusa prius naturaliter voluntate faciat actus 
+      bo<lb ed="#L" n="8" break="no"/>nos: Voluntas enim humanam peccati grauedine seu naturae in tantum 
+      <lb ed="#L" n="9"/>deprimitur, quod non potest nisi se &amp; commodum suum diligere 
+      fina<lb ed="#L" n="10" break="no"/>liter propter semetipsam, scilicet voluntatem, nisi virtute gratiae 
+      eriga<lb ed="#L" n="11" break="no"/>l tur ad Deum super omnia propter seipsum tantummodo gratuito 
+      dili<lb ed="#L" n="12" break="no"/>gendum, sicut 3 oum probat. Huiusmodi autem erigens necessario praeuenit sic erectum in 
+      as<lb ed="#L" n="13" break="no"/>censione illius, sicut videtur patere de lapide superius eleuato; maxime autem quia anima sic 
+      <lb ed="#L" n="14"/>depressa non potest // ex se in ascensionem aliquam illius speciei, sicut proximo huius patet: 
+      <lb ed="#L" n="15"/>Sicut enim homo grauis &amp; debilis iacens in terra, non potens multum nec modicum se per se 
+      <lb ed="#L" n="16"/>erigere, potest tamen cum alio ipsum praeueniente &amp; continue praeerigente, &amp; ne recidat 
+      con<lb ed="#L" n="17" break="no"/>tinue sustinente, quodammodo coerigere semetipsum &amp; ad hoc quod se erigat, indiget 
+      neces<lb ed="#L" n="18" break="no"/>sario in principio, &amp; continue huiusmodi praeerigente, &amp; continue sustinente, sic voluntas 
+      <lb ed="#L" n="19"/>creata gratia destituta, gratiaue adiuta. Hoc autem nedum est verum propter depressionem 
+      <lb ed="#L" n="20"/>liberi arbitrij per peccatum, verum propter grauedinem liberi arbitrij naturalem, qua ad 
+      prin<lb ed="#L" n="21" break="no"/>cipaliter diligendum se &amp; proprium commodum &amp;c. propter ista naturaliter alligatur, nec 
+      <lb ed="#L" n="22"/>valet ascendere ad aliquid supra se, puta Deum super se &amp;c. gratuite diligendum, nisi per 
+      gra<lb ed="#L" n="23" break="no"/>tiam praeueniatur &amp; erigatur continue, &amp; ne recidat, continue sustentetur, sicut ex 39o &amp; 40o 
+      <lb ed="#L" n="24"/>huius patet. Hoc autem totum videtur Daniel congrue figurasse cum dixit, Non remansit in 
+      <lb ed="#L" n="25"/>me fortitudo, sed &amp; species mea immutata est in me, &amp; emarcui, nec habui quicquam virium, 
+      <lb ed="#L" n="26"/>&amp; audiui vocem sermonum eius, &amp; audiens iacebam consternatus super faciem meam, &amp; 
+      vul<lb ed="#L" n="27" break="no"/>tus meus haerebat terrae, &amp; ecce manus tetigit me, &amp; erexit me super genua mea, &amp; super 
+      arti<lb ed="#L" n="28" break="no"/>culos manuum mearum, &amp; dixit ad me, Daniel, vir desideriorum, Intellige verba, quae ego 
+      <lb ed="#L" n="29"/>loquor ad te, &amp; sta in gradu tuo; nunc enim sum missus ad te. Cumque dixisset mihi 
+      sermo<lb ed="#L" n="30" break="no"/>nem istum, steti tremens, &amp; ait ad me: Noli metuere Daniel, Dan. 10. Vnde Gregorius 22. 
+      <lb ed="#L" n="31"/>moralium 18. super illud Iob 3I. Per singulos gradus meos pronuntiabo illum, Nemo, 
+      in<lb ed="#L" n="32" break="no"/>quit, infima deserens repente sit summus, quia ad obtinendum perfectionis meritum, dum 
+      <lb ed="#L" n="33"/>quotidie mens in altum ducitur, ad hoc proculdubio velut ascensionis quibusdam gradibus 
+      <lb ed="#L" n="34"/>peruenitur: vnde hoc apte subiungitur, per singulos gradus meos pronuntiabo illum. Hinc 
+      <lb ed="#L" n="35"/>Propheta dicit, Excitatus sum, &amp; defecit paulisper spiritus meus: Quid est itaque quod ait,  
+      <lb ed="#L" n="36"/>Spiritus meus, nisi spiritus hominis, videlicet spiritus elationis? &amp; quia per occultam gratiam 
+      <lb ed="#L" n="37"/>ad amorem Dei temperata desuper mensura proficimus; quanto in nobis quotidie de Dei 
+      <lb ed="#L" n="38"/>spiritu virtus crescit, tanto noster spiritus deficit; qui spiritus erroris, quia non a nobis subito 
+      <lb ed="#L" n="39"/>funditus amputatur, bene paulisper defecisse perhibetur: Tunc vero in Deo plene perficimus 
+      <lb ed="#L" n="40"/>cum a nobis ipsis funditus defecerimus: Hae itaque crescentium mensurae virtutum, sancti 
+      vi<lb ed="#L" n="41" break="no"/>ri vocibus gradus dicuntur. Quod &amp; infra sequenti capitulo, per illud factum Danielis 
+      supe<lb ed="#L" n="42" break="no"/>rius allegatum confirmans; Bene, inquit, Daniel Propheta, loquente ad se Domino, dum 
+      po<lb ed="#L" n="43" break="no"/>sitionem nobis sui corporis insinuare studuit, haec meritorum incrementa significauit: Ait 
+      <lb ed="#L" n="44"/>enim, Audiui vocem verborum, &amp; audiens iacebam consternatus super faciem meam, 
+      vul<lb ed="#L" n="45" break="no"/>tusque meus haerebat terrae, &amp; ecce manus tetigit me, &amp; erexit me super genua mea, &amp; su¬ 
+      <lb ed="#L" n="46"/>per articulos manuam mearum, &amp; dixit ad me, Daniel, vir desideriorum, Intellige 
+      ver<lb ed="#L" n="47" break="no"/>ba, quae ego loquor ad te, &amp; sta in gradum tuo, Nunc enim missus sum ad te. Cumque 
+      <lb ed="#L" n="48"/>dixisset mihi sermonem istum, steti tremens, &amp; ait ad me, Noli metuere: Quam 
+      videli<lb ed="#L" n="49" break="no"/>cet positionem sui corporis, dum verba intrinsecus loquentis audiret, nequaquam nobis 
+      <lb ed="#L" n="50"/>tanta cura exprimeret, si a mysterijs vacare cognouisset; In Scriptura enim sacra, Iusti 
+      vi<lb ed="#L" n="51" break="no"/>ri non solum quod dicunt, prophetia est, sed &amp; plerumque quod agunt. Vir itaque 
+      San<lb ed="#L" n="52" break="no"/>ctus interius mysterijs plenus, per positionem quoque corporis exprimit virtutem vocis; 
+      <lb ed="#L" n="53"/>&amp; per hoc quod primum in terra prostratus iacuit, per hoc quod se postmodum manuum 
+      <lb ed="#L" n="54"/>suarum articulis, &amp; in genibus erexit, per hoc quod ad extremum erectus quidem sed 
+      <!--405.xml-->
+      <pb ed="#A" n="372"/>
+               <lb ed="#L" n="1"/>tremens constitit in semetipso, nobis omnem ordinem nostri prouectus innotescit. Vbi &amp; verbis A 
+      <lb ed="#L" n="2"/>Propheticis expositis ordinate, super vltimum, scilicet Noli timere, Apte, inquit, diuina 
+      vo<lb ed="#L" n="3" break="no"/>ce subiungitur, Noli metuere, quia cum plus ipsi, quod timeamus, agnoscimus, plus nobis 
+      <lb ed="#L" n="4"/>de Deo per internam gratiam infunditur quod amemus, quatenus &amp; contemptus noster 
+      pau<lb ed="#L" n="5" break="no"/>lisper transeat in timorem, &amp; timor transeat in Charitatem; vt quia quaerenti nos Deo per 
+      <lb ed="#L" n="6"/>contemptum resistimus, per timorem fugimus, &amp; contemptu quandoque &amp; timore 
+      postpo<lb ed="#L" n="7" break="no"/>sito solo ei amore iungamur: Paulisper enim eum timere dediscimus, eique vi solius 
+      dilectio<lb ed="#L" n="8" break="no"/>nis inhaeremus. Appositis igitur quasi quibusdam gradibus prouectus nostri mentis pedem 
+      <lb ed="#L" n="9"/>prius per timorem in imo ponimus, &amp; postmodum per charitatem ad alta amoris seuamus. Huic 
+      <lb ed="#L" n="10"/>etiam consonat dictum eiusdem 22. Moral. 9. praemissum 35. huius. Huic? similiter satis 
+      <lb ed="#L" n="11"/>concordat Ezechiel, Cecidi, inquiens, in faciem meam, &amp; audiui vocem loquentis, &amp; dixit 
+      <lb ed="#L" n="12"/>ad me, Fili hominis, sta supra pedes tuos, &amp; loquar recum; &amp; ingressus est Spiritus in me, 
+      post<lb ed="#L" n="13" break="no"/>quam locutus est mihi, &amp; statuit me super pedes meos, Ezech. i. His &amp; concordat Apostolus, B 
+      <lb ed="#L" n="14"/>oratia, inquiens, Dei sum id quod sum, &amp; gratia eius in me vacua non fuit, sed abundantius 
+      <lb ed="#L" n="15"/>illis omnibus laboraui, non autem ego sed gratia Dei mecum, 1. ad Cor 15. Haec autem 
+      prio<lb ed="#L" n="16" break="no"/>ritatem gratiae insinuant euidenter. Certum est enim Apostolum laborasse, ipsomet testante. 
+      <lb ed="#L" n="17"/>Cur ergo dicit non ego, sed gratia, nisi vt innuat gratiam primo &amp; principaliter quasi 
+      effici<lb ed="#L" n="18" break="no"/>ens principale efficere bonos actus, hominem vero non sic, sed secundario instrumentaliter 
+      <lb ed="#L" n="19"/>&amp; subseruienter gratiae sic agenti? Quare Cregorius I. super Ezechielem homilia 9. tractans 
+      <lb ed="#L" n="20"/>verba Exechielis &amp; Apostoli iam praemissa, sic ait, Ecce diuina vox iacenti Prophetae iussit vt 
+      <lb ed="#L" n="21"/>surgeret, sed surgere omnino non posset, nisi in hunc omnipotentis Dei Spiritus intrasset; 
+      <lb ed="#L" n="22"/>quia ex omnipotentis Dei gratia ad bona opera conari quidem possumus, sed haec implere 
+      <lb ed="#L" n="23"/>non possumus, si ipse non adiuuat qui iubet. Sic Paulus cum discipulos admoneret, dicens, 
+      <lb ed="#L" n="24"/>Cum metu &amp; tremore vestram ipsorum salutem operamini, illico quis in eis haec ipsa bona 
+      o<lb ed="#L" n="25" break="no"/>peratetur adiungit, dicens, Deus enim est, qui operatur in nobis &amp; velle &amp; perficere pro bona 
+      <lb ed="#L" n="26"/>voluntate. Hinc est quod ipsa veritas discipulis dicit, Sine me nihil potestis facere. Et infra, 
+      <lb ed="#L" n="27"/>sed sciendum est quod mala nostra solummodo nostra sunt; bona autem nostra, &amp; 
+      omnipo<lb ed="#L" n="28" break="no"/>tentis Dei sunt, &amp; nostra, quia ipse aspirando nos praeuenit vt velimus, qui adiuuando 
+      subse<lb ed="#L" n="29" break="no"/>quitur, ne inaniter velimus, sed possimus implere quae volumus. Praeueniente autem gratia 
+      <lb ed="#L" n="30"/>&amp; bona voluntate subsequente, hoc quod omnipotentis Dei donum est, sit meritum nostrum; 
+      <lb ed="#L" n="31"/>quod bene Paulus breui sententia explicat dicens, Plus illis omnibus laboraui, qui ne 
+      vider<lb ed="#L" n="32" break="no"/>tur suae virtuti tribuisse quod fecerat, adiunxit, Non autem ego, sed gratia Dei mecum. Quia 
+      <lb ed="#L" n="33"/>enim coelesti dono praeuentus est, quasi alienum se a bono suo opere agnouit, dicens, Non 
+      <lb ed="#L" n="34"/>autem ego; sed quia praeuenientis gratia liberum in eo arbitrium fecerat in bono, quo libero 
+      <lb ed="#L" n="35"/>arbitrio eandem gratiam est subsecutus in opere, adiunxit, Sed gratia Dei mecum; ac si 
+      dice<lb ed="#L" n="36" break="no"/>ret, In bono opere laboraui non ego, sed &amp; ego. In eo enim quod solo Domini dono 
+      prae<lb ed="#L" n="37" break="no"/>uentus sum, non ego; In eo autem quod Deum voluntate subsecutus, &amp; ego. His igitur bre 
+      <lb ed="#L" n="38"/>uiter contra Pelagium &amp; Coelestium dictis, ad exponendi ordinem redeamus. Fili hominis, 
+      <lb ed="#L" n="39"/>sta super pedes tuos &amp; loquar tecum. Notandus nobis est ordo locutionis &amp; operis; quia prius 
+      <lb ed="#L" n="40"/>nimilitudo gloriae Domini apparet vt deijciat; postmodum alloquitur vt reuelet; deinde 
+      su<lb ed="#L" n="41" break="no"/>perabundantis gratiae Spiritum mittit, &amp; leuat, ac supra pedes statuit. Nisi enim aliquid De 
+      <lb ed="#L" n="42"/>aeternitate in mente videremus, nunquam in facie nostrall paenitendo caderemus. Sed iam 
+      ia<lb ed="#L" n="43" break="no"/>centes vox Domini consolatur, quod tamen nos facere nostra virtute non possumus; ipsius 
+      <lb ed="#L" n="44"/>ergo nos Spiritus implet &amp; leuat, &amp; super pedes uostros statuit, vt qui proni in poenitentiam 
+      <lb ed="#L" n="45"/>pro culpa iacuimus, recti postmodum in bono opere stemus. Ex his autem verbis Gregorij 
+      <lb ed="#L" n="46"/>diligenter inspectis, euidenter apparet, quod est haeresis Pelagij, dicere gratiam non 
+      praece<lb ed="#L" n="47" break="no"/>dere liberum arbitrium, sed e contra, quod &amp; plane testantur Augustinus, Isidorus, &amp; Canon.  
+      <lb ed="#L" n="48"/>sicut 36. huius fuerat // recitatum. Vnde etiam Lumbardus 2. Sent. dist. 26. allegans 
+      Augusti<lb ed="#L" n="49" break="no"/>num etiam ad hoc idem, sic ait, Bona voluntas comitatur gratiam, non gratia voluntatem.I 
+      <lb ed="#L" n="50"/>Vnde Augustinus ad Bonifacium Papam scribens contra Pelagianos, inquit, Cum fides 
+      im<lb ed="#L" n="51" break="no"/>petret iustificationem, sicut vnicuique Deus partitus est mensuram fidei, non gratiam Dei 
+      ali<lb ed="#L" n="52" break="no"/>quid meriti praecedit humani, sed ipso meretur augeri, vt aucta mereatur &amp; perfici, voluntate 
+      <lb ed="#L" n="53"/>comitante non ducente, pedissequa non praeuia; &amp; subdit Lumbardus, Ecce expresse hic 
+      ha<lb ed="#L" n="54" break="no"/>bes quod gratia praeuenit bonae voluntatis meritum, &amp; ipsa voluntas bona pedissequa est 
+      <lb ed="#L" n="55"/>gratiae non praeuia. Fulgentius etiam Ecclesiae Imspensis Episcopus, referente Isidoro in 
+      <lb ed="#L" n="56"/>Catalogo virorum illustrium decimo quarto scripsit: &amp; misit ad Episcopos duos libros de 
+      <lb ed="#L" n="57"/>veritate Praedestinationis, in quibus demonstrat quod gratia Dei in bonis voluntatem 
+      hu<lb ed="#L" n="58" break="no"/>manam praeueniat. Istam quoque Sententiam Apostolus plane docet, Non, inquiens, 
+      <!--406.xml-->
+      <pb ed="#A" n="373"/>
+               <lb ed="#L" n="1"/>volentis, neque currentis, sed miserentis est Dei, ad Rom 9. Cur enim diceret, non esse 
+      volen<lb ed="#L" n="2" break="no"/>tis velle, neque currentis currere, scilicet operari, sed miserentis Dei, nisi vt ostenderet, hoc esse 
+      <lb ed="#L" n="3"/>Dei, &amp; diuinae misericordiae &amp; gratiae primo &amp; principaliter, &amp; tanquam prioris agentis; 
+      vo<lb ed="#L" n="4" break="no"/>lentis autem &amp; currentis non sic, sed secundario &amp; instrumentaliter, &amp; vt posterioris agentis, 
+      <lb ed="#L" n="5"/>sicut &amp; de simili dicto eius superius est ostensum. Hunc etiam intellectum Apostolici dicti 
+      hu<lb ed="#L" n="6" break="no"/>ius satis ostendunt expositiones Augustini Enchir. 23. &amp; de duabus animabus, 15. 36. &amp; 37. 
+      <lb ed="#L" n="7"/>huius scriptae. Vnde &amp; Petrus 2. Senten. dist. 25. vlt. Voluntas, inquit, hominis quam 
+      natura<lb ed="#L" n="8" break="no"/>liter habet, non valet erigi ad bonum efficaciter volendum, vel opere implendum, nisi per 
+      <lb ed="#L" n="9"/>gratiam liberetur &amp; adiunetur; liberetur quidem vt velit; &amp; adiunetur vt perficiat; quia vt ait 
+      <lb ed="#L" n="10"/>Apostolus; Non est volentis velle, neque currentis currere, id est, operati, sed miserentis Dei, 
+      <lb ed="#L" n="11"/>qui operatur in nobis velle &amp; operari bonum; gratiam non aduocat hominis voluntas vel 
+      o<lb ed="#L" n="12" break="no"/>peratio, sed ipsa gratia voluntatem praeuenit praeparando, vt velit bonum, &amp; praeparatam 
+      <lb ed="#L" n="13"/>adiuuat, ne frustra velit, id est, vt perficiat. Qui &amp; infra dist. 26. tractans quasdam 
+      autori<lb ed="#L" n="14" break="no"/>tates, quae videntur asserere fidem &amp; actum fidei esse liberae voluntatis; Haec, inquit, ita sunt 
+      <lb ed="#L" n="15"/>dicta, quia non est fides nisi in eo qui vult credere, cuius bonam voluntatem fides praeuenit 
+      <lb ed="#L" n="16"/>non tempore, sed causa, &amp; natura. Vnde Augustinus supra congruenter dixit, quod Bona 
+      <lb ed="#L" n="17"/>voluntas in cis donis est, quae non praecedit, &amp; ipsa iuuat, quia ea iuuat, quibus praeuenitur, 
+      <lb ed="#L" n="18"/>dum eis consentit ad effectum boni, &amp; in eis est, quia tempore ab eis non praeceditur. Item 
+      <lb ed="#L" n="19"/>quis nesciat causam priorem esse principaliorem posteriori? gratia autem est causa principalis 
+      <lb ed="#L" n="20"/>cuiuslibet boni actus, sicut proximo huius contra responsionem secundam apparet. Istam 
+      <lb ed="#L" n="21"/>quoque sententiam plane docent autoritates quamplurimae, 36. huius &amp; sequentibus 
+      alle<lb ed="#L" n="22" break="no"/>gatae, quam &amp; Ecclesiae tota Catholica Catholice profitetur, orans hoc modo; Tua nos, 
+      Do<lb ed="#L" n="23" break="no"/>mine, gratia semper praeueniat &amp; sequatur, ac bonis operibus iugiter praestet esse intentos; si 
+      <lb ed="#L" n="24"/>tamen nos prius naturaliter operemur quam gratia, cur petimus vt ipsa nos praeueniat 
+      ope<lb ed="#L" n="25" break="no"/>rando? Nos etiam potius praestamus illam bonis operibus esse intentam, quam ipsa nos 
+      prae<lb ed="#L" n="26" break="no"/>stet. Si autem dicatur quod gratia nos praeuenit liberando a peccato, non autem actus 
+      meri<lb ed="#L" n="27" break="no"/>torios proprie faciendo, contradicit ei capitulum proximum, ostendendo gratiam efficere 
+      <lb ed="#L" n="28"/>proprie bonos actus; cui etiam potest specialiter contradici, sicut sextae responsioni eiusdem  
+      <lb ed="#L" n="29"/>fuerat contradictum. Aliter dicitur, quod gratia prius naturaliter efficit primum bonum 
+      a<lb ed="#L" n="30" break="no"/>ctum humanum; alios autem sequentes voluntas prius naturaliter operatur. Sed cur tam 
+      va<lb ed="#L" n="31" break="no"/>rie, quae ratio diuersitatis, cum totum agens &amp; actum sint primo &amp; post similis rationis? 
+      Con<lb ed="#L" n="32" break="no"/>tra istam quoque responsionem procedunt rationes &amp; autoritates iam praemissae; specialiter 
+      <lb ed="#L" n="33"/>autem illa Apostoli; Non ego, sed gratia Dei mecum. Loquitur enim Apostolus de seipso, 
+      <lb ed="#L" n="34"/>non pro instanti suae conuersionis, sed pro tempore subsequenti quo semper fuitin gratia, &amp; 
+      <lb ed="#L" n="35"/>cum gratia laborauit; quod &amp; plane testatur Gregorius ipsam exponens, sicut superius 
+      alle<lb ed="#L" n="36" break="no"/>gatur. Hoc idem contestatur similiter Augustinus superius allegatus, dicendo, quod gratia 
+      <lb ed="#L" n="37"/>meretur augeri, vt aucta mereatur &amp; perfici voluntate comitante, non ducente; pedissequa, 
+      <lb ed="#L" n="38"/>non praeuia: Loquitur enim expresse de merito, quo gratia meretur augeri, quod primo actui 
+      <lb ed="#L" n="39"/>bono succedit. 
+      </p>
+            <div xml:id="dcn2br-e49876-Dd1e454">
+               <head xml:id="dcn2br-e49876-Hd1e456">Corollarium</head>
+               <p xml:id="dcn2br-e49876-d1e459">
+                  <lb ed="#L" n="40"/>COROLLARIVM. 
+      <lb ed="#L" n="41"/>Corollarium quod tam Deus, quam gratia eius creata efficit proprie, prius naturaliter 
+      <lb ed="#L" n="42"/>quemlibet actum bonum creaturae rationalis, quam ipsa, &amp; quod auctores dicentes 
+      <lb ed="#L" n="43"/>Deum facere opera nostra bona, non excludunt, sed includunt Dei gratiam eadem  
+      <lb ed="#L" n="44"/>similiter facientem, dicentesque gratiam Dei facere opera nostra bona, non exclu 
+      <lb ed="#L" n="45"/>dunt, sed includunt Deum eadem similiter operantem.
+      </p>
+               <p xml:id="dcn2br-e49876-d1e475">
+                  <lb ed="#L" n="46"/>EX his autem euidenter infertur quod tam Deus quam gratia Dei creata efficit proprie &amp;  
+      <lb ed="#L" n="47"/>Xprius naturaliter quemlibet actum bonum creaturae rationalis, quam ipsa; &amp; quod autores 
+      <lb ed="#L" n="48"/>dicentes Deum facere opera nostra bona, non excludunt sed includunt Dei gratiam eadem 
+      <lb ed="#L" n="49"/>similiter facientem; dicentesque Dei gratiam facere opera nostra bona, non excludunt sed 
+      in<lb ed="#L" n="50" break="no"/>cludunt Deum eadem similiter operantem. Quod autem Deus efficiat proprie quemlibet 
+      a<lb ed="#L" n="51" break="no"/>ctum bonum, patet ex tertio huius, &amp; quarto. Patet similiter ex 27. &amp; sequentibus cum 
+      deci<lb ed="#L" n="52" break="no"/>mo huius plane. Et quod gratia similiter faciat, &amp; etiam prius natura, quam creatura 
+      rationa<lb ed="#L" n="53" break="no"/>lis, patet per 40. &amp; 41. huius. Quod autem Deus prius naturaliter faciat, quam creatura 
+      ra<lb ed="#L" n="54" break="no"/>tionalis in bona factione amborum communi, quis non concesserit, concesso, quod gratia 
+      <!--407.xml-->
+      <pb ed="#A" n="374"/>
+                  <lb ed="#L" n="1"/>Dei ibi prius naturaliter faciat, quam huiusmodi creatura? Quis enim vel seuiter cogitabit  
+      <lb ed="#L" n="2"/>gratiam Dei creatam prius naturaliter agere in actione eis communi, quam eius autorem? 
+      <lb ed="#L" n="3"/>quam eius &amp; omnium primum motorem? Hoc idem rationes &amp; Autoritates trigesimi 
+      quin<lb ed="#L" n="4" break="no"/>ti huius, &amp; sequentium, &amp; specialiter Gregorij super Ezechielem allegata superius satis 
+      pro<lb ed="#L" n="5" break="no"/>bant: Reliquae vero partes sequuntur lucide ex praemissis. Patent quoque creberrime in 
+      <lb ed="#L" n="6"/>Scriptura sacra &amp; in tractatoribus eius sacris, qui mixtim &amp; indifferenter affirmant, nunc 
+      <lb ed="#L" n="7"/>gratiam Dei facere opera nostra bona, &amp; nunc Deum; ista pro eodem habentes. Exponentes 
+      <lb ed="#L" n="8"/>quoque Sacram Scripturam dicentem Dei gratiam facere in homine actum bonum, dicunt 
+      se<lb ed="#L" n="9" break="no"/>pissime Deum facere illum actum &amp; similiter e contrario; voletes quoque ostendere Deum 
+      fa<lb ed="#L" n="10" break="no"/>cere bonos actus humanos, ostendunt Dei gratiam illos facere, &amp; e contra; sicut multae 
+      Auto<lb ed="#L" n="11" break="no"/>ritates in capitulis iam praemissis, &amp; alibi in Sacra Scriptura, &amp; in scriptis Sanctorum 
+      planissi<lb ed="#L" n="12" break="no"/>me contestantur; quas non oportebat hic tangere, quia nedum diligenti, verum etiam 
+      negli<lb ed="#L" n="13" break="no"/>genti lectori se offerunt copiose. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

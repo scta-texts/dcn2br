@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 22</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 22</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="234"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e32124"><!-- l1c22 -->
+            <head xml:id="dcn2br-e32124-Hd1e106">Caput 22</head>
+            <p xml:id="dcn2br-e32124-d1e109">
+               <lb ed="#L" n="40"/>CAEP. XXII. 
+      <lb ed="#L" n="41"/>Quod Deus habet volutionem vel rolutionem actualems. 
+      <lb ed="#L" n="42"/>distinctam, contra obiectum quodlibet voluntatis, A 
+      </p>
+            <p xml:id="dcn2br-e32124-d1e118">
+               <lb ed="#L" n="43"/>COnsequens autem dictis videtur; ostendere, quod diuina voluntas 
+      ha<lb ed="#L" n="44" break="no"/>bet volutionem vel nolutionem actualem, proptiam &amp; distinctam circa p 
+      <lb ed="#L" n="45"/>quodcunque obiectum voluntatis bonum vel malum, verum vel fictum, 
+      <lb ed="#L" n="46"/>possibile vel impossibile, praesens, praeteritum, &amp; futurum. Hoc autem 
+      <lb ed="#L" n="47"/>quantum ad omnia talia quae sunt posteriora voluntate diuina per 
+      cap<lb ed="#L" n="48" break="no"/>decimum octauum ostendetur: Omnia namque talia scit complexe esse 
+      <lb ed="#L" n="49"/>CCO Cx&amp; &amp;E Px talia, &amp; hoc non potest nisi praeuia voluntate per aliquem actum suum. 
+      <lb ed="#L" n="50"/>Item si non esrita, aliquod est obiectum circa quod Deus no habet actum aliquem voluntatis, 
+      <lb ed="#L" n="51"/>&amp; certum est quod potest habere; ergo ipse est in potentia, &amp; quasi dormiens respectu talis 
+      <lb ed="#L" n="52"/>obiecti; quare &amp; potest esse actualior, nobilior, &amp; perfectior quam sit modo. Modo ergo 
+      <lb ed="#L" n="53"/>non est actualissimus, nobilissimus, &amp; perfectissimus, quod prima suppositio, &amp; 3a pars co¬ 
+      <!--268.xml-->
+      <pb ed="#A" n="235"/>
+               <lb ed="#L" n="1"/>rollarij, primi vetant Actus enim priori est potentia, definitione, perfectione; &amp; tempore. 
+      <lb ed="#L" n="2"/>sicut ex 9. Metaph. 13. &amp; post constat; vbi dicit, Auerroes comment. 16. Signum eius quod 
+      <lb ed="#L" n="3"/>actus est, complemontum &amp; perfectio est, quoniam actus est operatio, &amp; operatio est 
+      com<lb ed="#L" n="4" break="no"/>plementum, &amp; perfectio operantis; &amp; ideo actus in lingua Graeca significat id, quod 
+      signifi<lb ed="#L" n="5" break="no"/>cat complementum &amp; perfectio; &amp; commont. 17. dicit, quod primus motor est actus purus, 
+      <lb ed="#L" n="6"/>in quo non est potentia omnino, &amp; super 12. Metaph comm. 38. dicit, quod illud, quod 
+      mo<lb ed="#L" n="7" break="no"/>uet primum motum, cum sit actus purus sine aliqua potentia, impossibile est vt habeat aliquam  
+      <lb ed="#L" n="8"/>dispositionem ab eaquam habet. Item si in Deo esset potentia, illa esset bona, &amp; omni tali 
+      <lb ed="#L" n="9"/>potentia actus suus est melior &amp; honorabilior, vt probatur 9. Metaph. 19. Item sicut 
+      intelli<lb ed="#L" n="10" break="no"/>gere in actu se habet ad intelligere in potentia; sic &amp; velle, vel nolle in actu, ad velle vel nolle 
+      <lb ed="#L" n="11"/>in potentia: sed intelligere in actum perfectius est quam intelligere in potentia; quare &amp; velle 
+      <lb ed="#L" n="12"/>&amp; nolle in actu, perfectius est quam haec in potentia; ergo per primam Suppositionem, &amp;  
+      <lb ed="#L" n="13"/>tertiam partem Corollarij primi, ista tribuenda sunt Deo, Nonne 12. Metaph. 5i. per hoc 
+      <lb ed="#L" n="14"/>probat Philosophus, Deum intelligere in actu, non in potentia, sub his verbis, Si non 
+      intelli<lb ed="#L" n="15" break="no"/>gat, quid vtique erit insigne venerabile, sed habet quemadmodum Lvt sit / dormiens; vbi 
+      A<lb ed="#L" n="16" break="no"/>uerroes, Necesse est, si est Intellectus, vt semper sit alterum istorum duorum, aut secundum 
+      <lb ed="#L" n="17"/>dispositionem, in qua sciens non vtitur sua scientia, aut in qua vtitur; si detur primum, est quasi 
+      <lb ed="#L" n="18"/>dormiens, &amp; non inuenitur in eo dispositio nobilis, &amp; hoc est inconueniens. Item foelicitas 
+      <lb ed="#L" n="19"/>consistit in vsu, non in possessione; in operatione, non in habitu, sicut probat Philosophus I. 
+      <lb ed="#L" n="20"/>Eth. 12. per hoc quod habitus potest inesse nullum bonum facienti, vt dormienti, sed operatio 
+      <lb ed="#L" n="21"/>non; &amp; idem habetur supra 5. &amp; infra vlt. vbi &amp; allegat dicentes, Nihil differre secundum 
+      di<lb ed="#L" n="22" break="no"/>midium vitae foelices a miseris; Deus autem est foelicissimus, quare &amp; actualissimus. Hoc 
+      au<lb ed="#L" n="23" break="no"/>tem totum patet expressius 10. Ethic. 12. vbi probat Philosophus quod foelicitas est operatio 
+      <lb ed="#L" n="24"/>speculatiua, per hoc quod dij sunt maxime beati &amp; foelices, &amp; hoc operando non dormiendo, 
+      <lb ed="#L" n="25"/>&amp; haec operatio eric inecessario speculatiua; vbi dicit Auerroes, Deus gloriosus, &amp; Angeli, 
+      <lb ed="#L" n="26"/>nobilioris sunt status &amp; foelicitatis, quam caetera entia; Ideo actum habent: non decet enim 
+      <lb ed="#L" n="27"/>vt sint dormientes. Nonne ideo Algazel 3. Metaph. sentent. 7a dicit, quod, Iuinecesse esse 
+      ni<lb ed="#L" n="28" break="no"/>hil est in potentia, &amp; Dionysiis de diuinis nominibus 7o deducit ad hoc tanquam ad impossi 
+      <lb ed="#L" n="29"/>bile, quod Deus vacat alicubi, sicut I5um huius plenius recit auit. Annon &amp; Prophera Psal. 120. 
+      <lb ed="#L" n="30"/>dicit de Domino, Ecce non dormitabit, neque dormiet qui custodit Israelem, multum 
+      videli<lb ed="#L" n="31" break="no"/>cet aut modicum otiando, ab opereue vacando? In beatitudine quoque futura Angelorum &amp;  
+      <lb ed="#L" n="32"/>hominum, nulla erit otiositas, cessatio, neque vacatio intellectus, aut etiam voluntatis, sicut 
+      <lb ed="#L" n="33"/>tam rationes quam Autoritates nos docent, sed actualis &amp; perfecta operatio. vtriusque 
+      iugi<lb ed="#L" n="34" break="no"/>ter perseuerans: quomodo ergo de Deo tunc, &amp; nunc, &amp; semper beatiori incomparabiliter 
+      <lb ed="#L" n="35"/>infinite, non similiter aestimandum? Item talis dispositio in intellectu, voluntateue nostra 
+      <lb ed="#L" n="36"/>habet quandam indifferentiam, potentialitatem, &amp; imperfectionem annexam, quare &amp; in Deo 
+      <lb ed="#L" n="37"/>umiliter: Non est ergo ponenda in eo teste prima Suppositione, &amp; tertia parte Corollarij 
+      pri<lb ed="#L" n="38" break="no"/>mi huius;, &amp; propter istam rationem, Iohannes super 1. sent. dist. 39. qu 3. sententiam istam 
+      <lb ed="#L" n="39"/>tenet; Dicit enim, quod, Libertas voluntatis nostrae, quae est indifferens ad actus oppositos, 
+      <lb ed="#L" n="40"/>habet necessario auquam imperfectionem annexam, quia potentialitatem passiuam, &amp; mutar 
+      <lb ed="#L" n="41"/>hilitatem, &amp; ideo talis libertas non est ponenda in Deo. Item Deus circa quodcunque obiectum 
+      <lb ed="#L" n="42"/>habet momoriam, &amp; Intelligentiam, sicut ex capit. &amp;o patet. Si ergo circu aliquod obiectum 
+      <lb ed="#L" n="43"/>non habet aliquem actum voluntatis, memoria, intelligentia, &amp; voluntas erunt: inaequales in 
+      <lb ed="#L" n="44"/>Deo, cum tamenan nobis sint aequales, sicut 10i de Trin. penult. &amp; 25i. 23n declaratur, &amp; 
+      iffi<lb ed="#L" n="45" break="no"/>retur etiam quaedam inaequalitas indiuinis personis, quibus haec approptiantur a Partibus 
+      or<lb ed="#L" n="46" break="no"/>thodoxis, Nonne etiamili sic esset, auqua potentiarum illarum non esset summs perfecta, 
+      con<lb ed="#L" n="47" break="no"/>tra tertiam, partem, &amp; quartam Corollarii primi huius? Amplius autem, si Deunniuem 
+      ffen<lb ed="#L" n="48" break="no"/>tum voluntatis obiectum nullum actum haberet, &amp; potest habere, videtur quod possit aliquo 
+      <lb ed="#L" n="49"/>modo mutari contra quintum istius, sicut si nullum actum intellectus nec voluntatis habeter 
+      <lb ed="#L" n="50"/>circa aliquod obiectum omnino, &amp; posset habere circa quodcunque, &amp; poneretur in essemvb 
+      <lb ed="#L" n="51"/>deretur mutatus: Sic etenim est e contra; quoniam si ab omni actu tali cessaret, apparerque in 
+      <lb ed="#L" n="52"/>aliquo transmutatus. Adhuc autem nisi Deus de necessitate fabeter aliquem actum voluntatis 
+      <lb ed="#L" n="53"/>circa quodcunque eius obiectum, posset nullum, actum voluntatis habere circa Antichristum, 
+      <lb ed="#L" n="54"/>neque vt foret, neque vt non foret; quare &amp;, vt videtur secundum I4o huius praemissaa 
+      An<lb ed="#L" n="55" break="no"/>tichristus neque esset futurus, neque non esset futurus, &amp; ita dealijs contradictorijs 
+      postetiori<lb ed="#L" n="56" break="no"/>bus vniuerlis. Item si non derogaret in aliquo perfectioni voluntatis diuinae, circa vnum, obig 
+      <lb ed="#L" n="57"/>ctum nullum actum habere, ita nec circa aliuo, &amp; alia vniuersa. Item tunc eadem ratione 
+      intelle<lb ed="#L" n="58" break="no"/>ctui diuino non repugnabit in aliquo circa vnum obiectum, nullum actum cognitionis habere, nec 
+      <!--269.xml-->
+      <pb ed="#A" n="236"/>
+               <lb ed="#L" n="1"/>circa aliud, &amp; sic de singulis fingillatim &amp; omnibus pariter; quare no derogaret sue perfectioni 
+      <lb ed="#L" n="2"/>in aliquo, quod semper esset tanqua dormiens Dominus, tanquam potens crapulatus a 
+      vino<lb ed="#L" n="3" break="no"/>Fortassis autem nequaquam opinandum videtur, quod Deus ex cognitione, seu volutione 
+      <lb ed="#L" n="4"/>obiectorum, aliquam perfectionem acquirat; sed quia est summe perfectus, ideo tales 
+      perfe<lb ed="#L" n="5" break="no"/>ctas operationes producit; sicut non ideo Sol est perfectius lucidus, nec lux eius perfectior, 
+      <lb ed="#L" n="6"/>quia perfecte illuminat medium, sed quia est perfecte lucidus, &amp; lux eius perfecta, ideo 
+      per<lb ed="#L" n="7" break="no"/>fecte illuminat; si tamen istae operationes perfectae subtrahentur a Deo, Deus esset 
+      imperfe<lb ed="#L" n="8" break="no"/>ctior, non propter subtractionem alicuius perfectionis sibi acquisitae per illas, sed propter 
+      sub<lb ed="#L" n="9" break="no"/>tractionem potentiarum perfectarum, summae actualitatis, &amp; suae omnipotentiae, a quibus 
+      <lb ed="#L" n="10"/>vel a qua operationes istae procedunt; sicut si illummatio medij dispositi non fieret a Sole, Sol 
+      <lb ed="#L" n="11"/>esset imperfectior, non propter subtractionem alicuius perfectionis quam acquisiuit ex 
+      illu<lb ed="#L" n="12" break="no"/>minatione, sed per subtractionem lucis illius, per quam illuminare deberet. Nec ex hoc 
+      sequi<lb ed="#L" n="13" break="no"/>tur aliqua absurda necessitas in voluntate diuina, sicut necin eius Intellectu, sed virtus, 
+      effica<lb ed="#L" n="14" break="no"/>cia, actualitas, &amp; bonitas infinita, quae nec vult, nec potest imperfici, otiari, nec in minimo 
+      <lb ed="#L" n="15"/>dormitare; sicut etiam eandem voluntatem nulla sequitur indigna necessitas, si immutabiliter  
+      <lb ed="#L" n="16"/>amet &amp; velit essentiam diuinam, personas, Christum, &amp; promissam gloriam saluandorum 
+      fu<lb ed="#L" n="17" break="no"/>turam, &amp; praeteritam saluatorum; sed superdigna stabilitas, &amp; liberrima communicatio 
+      bo<lb ed="#L" n="18" break="no"/>nitatis. 
+      </p>
+            <div xml:id="dcn2br-e32124-Dd1e318">
+               <head xml:id="dcn2br-e32124-Hd1e320">Corollarium</head>
+               <p xml:id="dcn2br-e32124-d1e323">
+                  <lb ed="#L" n="19"/>COROLLARIVM 
+      <lb ed="#L" n="20"/>Et habet Corollarium, quod Deus vult omne verum, &amp; non vult positiue, sed respuit 
+      <lb ed="#L" n="21"/>omne falsum. 
+      <lb ed="#L" n="22"/>Quod si Deus vult aliquod antecedens, vult quodlibet eius consequens, &amp; non vult posi¬ 
+      <lb ed="#L" n="23"/>tiue omne sibi repugnans 
+      <lb ed="#L" n="24"/>Quod quorumlibet repugnantium vnius habet velle, alterius vero nolle. 
+      <lb ed="#L" n="25"/>Quod ad Deum velle quodcunque, consequitur ipsum nolle eius oppositum, &amp; e contra 
+      <lb ed="#L" n="26"/>Quod ad Deum non velle quodcunque affirmatiue vel negaciue fignificatum, consequitur 
+      <lb ed="#L" n="27"/>ipsum oppositum eius velle. 
+      <lb ed="#L" n="28"/>Quod ad Deum non nolle quodcunque, consequitur ipsum oppositum eius nolle. 
+      <lb ed="#L" n="29"/>Quod ad Deum nolle positiue quodcunque consequitur ipsum nolle idem etiam priuatiue, 
+      <lb ed="#L" n="30"/>&amp; similitere conuerso. 
+      <lb ed="#L" n="31"/>Quod quicquid qualitercunque est, Deus vult illud sic esse, &amp; quicquid qualitercur¬ 
+      <lb ed="#L" n="32"/>que non est, Deus non vult illud sic esse. 
+      </p>
+               <p xml:id="dcn2br-e32124-d1e356">
+                  <lb ed="#L" n="33"/>EX his autem &amp; alia quaedam abscondita, dignissima tamen visu lucide consequuntur. 
+      <lb ed="#L" n="34"/>Primo, quod Deus vult omne verum, &amp; non vult positiue feu respuit omne falsum. 
+      Se<lb ed="#L" n="35" break="no"/>cuudo, si Deus velit aliquod antecedens, vult quodlibet eius confequens, &amp; non vult positiue 
+      <lb ed="#L" n="36"/>omne sibi repugnans. Tertio, quod quorumlibet repugnantium seu incompossibilium 
+      vni<lb ed="#L" n="37" break="no"/>us habet Deus velle, alterius vero nolle. Quarto quod ad Deum velle quodcunque; 
+      conse<lb ed="#L" n="38" break="no"/>quitur ipsum nolle eius oppositum, &amp; e contra. Quinto, quod ad Deum non velle 
+      quodcun<lb ed="#L" n="39" break="no"/>que affirmatiue vel negatiue fignificatum, puta A esse, vel A nonr esse, consequitur ipsum 
+      <lb ed="#L" n="40"/>Sppositum eius velle. Sexto, quod ad Deum non nolle quodcunque affirmatiue vel 
+      nega<lb ed="#L" n="41" break="no"/>tiue prolatum, consequitur ipsum oppositum eius holle. Septimo, quod ad Deum nolle 
+      po<lb ed="#L" n="42" break="no"/>sitine quodcunque, consequitur ipsum nolle idem etiam priuatiue, &amp; similiter e contrario. 
+      <lb ed="#L" n="43"/>Octatio, quod quicquid qualitercunque est praesens, praeteritum, vel futurum, verum vel 
+      fal<lb ed="#L" n="44" break="no"/>sum, postibile vel impossibile, necessarium vel contingens, Deus vult illud sic esse; Et 
+      quic<lb ed="#L" n="45" break="no"/>quid qualiter cunque non est, Deus non vult illud sic esse. Prima pars Corollarif fiuius 
+      conse<lb ed="#L" n="46" break="no"/>quitur manifeste; Si enim, vt docet Capitulum, Deus habet aliquem actum voluntatis circa 
+      <lb ed="#L" n="47"/>verum quodcunque, &amp; circa hullum verum habet actum nolendi, quia tunc per 10. huius 
+      il<lb ed="#L" n="48" break="no"/>lud non esset verum; Non enim ita esset realiter sicut significat; habet ergo circa verum 
+      <lb ed="#L" n="49"/>quodcunque actum volendi. Altera vero particula huius partis simili modo patet; Si namque 
+      <lb ed="#L" n="50"/>docente Capitulo, Deus habet actum voluntatis circa quodcunque falsum, &amp; circa nullum 
+      <lb ed="#L" n="51"/>falsum, scilicet rem falso significatam, habet actum volendi, quia tunc per 10. huius realiter 
+      <lb ed="#L" n="52"/>&amp; veraciter ita esset. Circa falsum ergo quodcunque habet Deus actum nolendi, nolutionem 
+      <lb ed="#L" n="53"/>scilicet quod sit ita realiter sicut significat. Secunda pars Corollarij sequitur ex priori, &amp; 
+      par<lb ed="#L" n="54" break="no"/>tes huius secundae correspondenter ex partibus huius primae, duabus notissimis maximis 
+      co<lb ed="#L" n="55" break="no"/>assumptis, Si antecedens est verum, &amp; consequens; Et omne repugnans vero est falsum. 
+      <!--270.xml-->
+      <pb ed="#A" n="237"/>
+                  <lb ed="#L" n="1"/>Tertia pars euidenter sequitur ex prima, cum hac regula logicali; Omnium repugnantium, 
+      <lb ed="#L" n="2"/>&amp; incompossibilium vnum est verum, alterum vero falsum. Quarta sequitur ex tertia 
+      mani<lb ed="#L" n="3" break="no"/>feste, hoc vero notorio suffragante, Deus nihil simul vult &amp; non vult: Quinta, &amp; sexta per 
+      <lb ed="#L" n="4"/>tertiam demonstrantur. Prima pars septimae huius patet ex illo notorio in ostensione quartae 
+      <lb ed="#L" n="5"/>partis praemisso; falsa vero pars eius plenarie sequitur ex tertia parte huius. Octaua patet ex 
+      <lb ed="#L" n="6"/>prima, quia partes correspondenter ex partibus: Quicquid enim qualitercunque est, verum 
+      <lb ed="#L" n="7"/>est sic esse. Quare per primam primae, Deus vult illud sic esse: &amp; quicquid qualitercunque 
+      <lb ed="#L" n="8"/>non est, falsum est illud sic esse; quare per 2. primae Deus non vult illud sic esse. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 23</title>
+            <author ref="#Bradwardine">Thomas Bradwardine</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 23</title>
+               <date when="2021-11-14">November 14, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-vzXPK8">London, 1618</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-11-14" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="697"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dcn2br-e92081"><!-- l3c23 -->
+            <head xml:id="dcn2br-e92081-Hd1e106">Caput 23</head>
+            <p xml:id="dcn2br-e92081-d1e109">
+               <lb ed="#L" n="18"/>CAP. XXIII. 
+      <lb ed="#L" n="19"/>Arguit 16. opinionem ponentem quod Deus non vult actum liberum 
+      <lb ed="#L" n="20"/>creaturae voluntate antecedente, sed tantummodo consequente, &amp; 
+      <lb ed="#L" n="21"/>quod Deus cum creatura coefficit omnem actum liberum 
+      creatu<lb ed="#L" n="22" break="no"/>rae, sed posterius ordine naturali, &amp; 17. arbitrantem quod licet 
+      <lb ed="#L" n="23"/>Deus semper de facto agat &amp; peragat actum quemlibet 
+      creatu<lb ed="#L" n="24" break="no"/>rae, est tamen absolute possibile aliqua creatura agere per se sola.
+    </p>
+            <p xml:id="dcn2br-e92081-d1e127">
+               <lb ed="#L" n="25"/>DEcima sexta vero credit, quod Deus non vult actum liberum creaturae vo¬ 
+      <lb ed="#L" n="26"/>luntate antecedente, sed tantummodo consequente, i. non prius, sed 
+      po<lb ed="#L" n="27" break="no"/>sterius naturaliter creatura, &amp; quod sic agit omnem actum liberum 
+      crea<lb ed="#L" n="28" break="no"/>turae. Decima septima autem fingit, quod semper de facto Deus agit 
+      im<lb ed="#L" n="29" break="no"/>mediate &amp; proprie, ac prius naturaliter omnem actum cuiuslibet creaturae, 
+      <lb ed="#L" n="30"/>sed quod est absolute possibile aliqua creatura agere per se solam, sine Deo 
+      <lb ed="#L" n="31"/>taliter coagente. Sed 16. peccat dupliciter: primo, quia falsum supponit, 
+      <lb ed="#L" n="32"/>sicut 30. secundi demonstrat; secundo, quia hoc dato, non tollitur difficultas. Nam postquam 
+      <lb ed="#L" n="33"/>Deus cooperatus est quicquam cum homine, necesse est eum sic cooperatum fuisse, sicut &amp; 
+      il<lb ed="#L" n="34" break="no"/>lam rem fuisse, &amp; cum nihil operetur exterius nisi volendo, sicut corol. 10. primi docet, 
+      ne<lb ed="#L" n="35" break="no"/>cesse est eum hoc voluisse; &amp; cum per 23. primi voluntas sua sit immutabilis omniquaque, 
+      ne<lb ed="#L" n="36" break="no"/>cesse est eum semper in futurum sic velle, &amp; semper in praeterito voluisse; &amp; cum voluntas 
+      di<lb ed="#L" n="37" break="no"/>uina non sit minus libera, nec magis necessaria in productione rei, vel post, quam ante, sicut 5. 
+      <lb ed="#L" n="38"/>&amp; 23. primi monstrant, &amp; quia aliter res voluta adimeret libertatem voluntatis diuinae, &amp; ei 
+      <lb ed="#L" n="39"/>necessitatem imponeret ad volendum, quae tamen hoc non facit in voluntate humana, sicque 
+      vo<lb ed="#L" n="40" break="no"/>luntas diuina esset illiberior &amp; seruilior quam humana: cum, inquam, haec sint ita, Deus 
+      neces<lb ed="#L" n="41" break="no"/>sario vult de futuro quodlibet ipsum fore; quare per 10. primi, de futuro quocunque est 
+      neces<lb ed="#L" n="42" break="no"/>sarium ipsum fore. Decima septima vero peccat in tribus: primo, quia falsum affirmat; secundo, 
+      <lb ed="#L" n="43"/>quia sibi ipsi repugnat; tertio, quia difficultatem non vitat. Quod autem falsum affirmet, ex 
+      <lb ed="#L" n="44"/>3. &amp; 4. primi, ex 20. &amp; 22. secundi perspicue demonstratur. Item vt breuiter aliquas breues 
+      <lb ed="#L" n="45"/>rationes contra opiniunculam istam tangam; Si hoc esset possibile, esset consequenter 
+      possi<lb ed="#L" n="46" break="no"/>bile creaturam producere aliquid sine Deo proprie coagente, quare &amp; conseruare producti 
+      <lb ed="#L" n="47"/>sine Deo proprie conseruante, contra 2. primi, essetque vltra possibile, quod aliquid fieret 
+      <lb ed="#L" n="48"/>nunc vel in futuro, quod Deus non vellet, contra 22. primi: corollarium quoque eius, &amp; si 
+      <lb ed="#L" n="49"/>hoc esset possibile, teste 18. primi, vlterius esset possibile quod aliquid esset praesens vel futurum 
+      <lb ed="#L" n="50"/>quod Deus nesciret, contra 6. primi: quare &amp; esset possibile quod aliquid causaliter eueniret 
+      <lb ed="#L" n="51"/>respectu Dei &amp; voluntatis diuine, contra 29. primi. Quare &amp; Steph. Paris. Episcopus damna 
+      <lb ed="#L" n="52"/>uit articulum asserentem, quod aliqua possunt casualiter euenire respectu primae causae. Haec 
+      <!--731.xml-->
+      <pb ed="#A" n="698"/>
+               <lb ed="#L" n="1"/>etiam sibi ipsi repugnat. Sit enim secundum eam A. creatura potens mouere &amp; agere sine Deo 
+      <lb ed="#L" n="2"/>per se solam; aut ergo A. creatura, eo ipso est necessario virtualiter infinita, vel cum hoc 
+      po<lb ed="#L" n="3" break="no"/>test esse finita. Si dicatur quod est necessario infinita, hoc esse non potest, sicut primo primi 
+      fu<lb ed="#L" n="4" break="no"/>erat demonstratum, cum etiam omnis creatura praesens vel futura sit vel erit, tantum finita, 
+      <lb ed="#L" n="5"/>nulla talis potest nec poterit quicquam facere per seipsam; haec ergo positio nihil adiuuat 
+      o<lb ed="#L" n="6" break="no"/>pinantes, sed eis repugnat, cum tantum loquantur de creaturis praesentibus vel futuris, sicut 
+      <lb ed="#L" n="7"/>&amp; tantum de talibus est problema. Si vero dicatur, quod A. creatura possit esse finita; 
+      pona<lb ed="#L" n="8" break="no"/>tur tunc A. excedit quamlibet aliam creaturam actiuam tantum in proportione finita, quare 
+      <lb ed="#L" n="9"/>&amp; actio actionem, sicut demonstrat scientia naturalis: si ergo A. potentia per se sola potest in 
+      <lb ed="#L" n="10"/>B. motum vel actum, &amp; quaelibet aliapotentia actiua potest nunc de facto in proportionalem 
+      <lb ed="#L" n="11"/>motum vel actum; vnde ergo scit opinans quod non est ita de facto? Cur ergo oppositum 
+      <lb ed="#L" n="12"/>huius affirmat? Tertio peccat, quia difficultatem quaestionis non vitat. Si enim ita est, &amp; 
+      <lb ed="#L" n="13"/>semper erit de facto, quod voluntas diuina in omni motione &amp; actione praeueniet, &amp; est 
+      effi<lb ed="#L" n="14" break="no"/>cax &amp; necessario in causando per 10. primi, nec in alicuius alterius potestate per octauum 
+      hu<lb ed="#L" n="15" break="no"/>ius, &amp; omnino immutabilis in seipsa per 23. primi, videtur quod de facto omnia, quae 
+      eueni<lb ed="#L" n="16" break="no"/>unt, de necessitate eueniunt in praesenti, &amp; omnia, quae euenient, similiter euenient in futuro; 
+      <lb ed="#L" n="17"/>quomodo ergo per istud potest difficultas problematis euitari?,¬ 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
