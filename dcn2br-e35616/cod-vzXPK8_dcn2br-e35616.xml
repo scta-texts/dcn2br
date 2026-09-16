@@ -298,9 +298,9 @@
           ve<lb ed="#L" n="24" break="no"/>saniae est.
         </p>
         <p xml:id="dcn2br-e35616-d1e559">
-          Item Psalmo I18. <quote source="http://scta.info/resource/ps118_91@1-8">Ordinatione tua perseuerat dies, quoniam omnia seruiunt tibi.</quote>
-          <lb ed="#L" n="25"/>Et 146. <quote source="http://scta.info/resource/ps146_9@1-10">Qui dat iumentis escam ipsorum, &amp; pullis coruorum inuocantibus eum.</quote> Et 148.
-          sta<lb ed="#L" n="26" break="no"/><quote source="http://scta.info/resource/ps148_6@1-13">tuit ea in aeternum, &amp; in saeculum saeculi, praeceptum posuit &amp; non praeteribit.</quote> Et Sapient. 12. 
+          Item Psalmo I18. <quote xml:id="dcn2br-e35616-Qd1e561" source="http://scta.info/resource/ps118_91@1-8">Ordinatione tua perseuerat dies, quoniam omnia seruiunt tibi.</quote>
+          <lb ed="#L" n="25"/>Et 146. <quote xml:id="dcn2br-e35616-Qd1e566" source="http://scta.info/resource/ps146_9@1-10">Qui dat iumentis escam ipsorum, &amp; pullis coruorum inuocantibus eum.</quote> Et 148.
+          sta<lb ed="#L" n="26" break="no"/><quote xml:id="dcn2br-e35616-Qd1e570" source="http://scta.info/resource/ps148_6@1-13">tuit ea in aeternum, &amp; in saeculum saeculi, praeceptum posuit &amp; non praeteribit.</quote> Et Sapient. 12. 
           <lb ed="#L" n="27"/>Non est alius Deus quam tu, cui cura est de omnibus: Totaque Scriptura Canonica veteris 
           <lb ed="#L" n="28"/>Testamenti &amp; noui dicit creberrime Deum prouidere de rebus, curare, ordinare, statuere, 
           dis<lb ed="#L" n="29" break="no"/>ponere, praeparare, facere, gubernare, &amp; multa similia, quae tam secundum facie literae, quam  
@@ -308,11 +308,11 @@
         </p>
         <p xml:id="dcn2br-e35616-d1e575">
           Pro quibus 
-          om<lb ed="#L" n="31" break="no"/>nibus sufficiat adducere vnum irrefragabile testimonium veritatis dicentis, <quote source="http://scta.info/resource/mt6_26@1-18 http://scta.info/resource/mt6_28@7-15 http://scta.info/resource/mt6_29@5-16 http://scta.info/resource/mt6_30@3-15">Respicite
+          om<lb ed="#L" n="31" break="no"/>nibus sufficiat adducere vnum irrefragabile testimonium veritatis dicentis, <quote xml:id="dcn2br-e35616-Qd1e587" source="http://scta.info/resource/mt6_26@1-18 http://scta.info/resource/mt6_28@7-15 http://scta.info/resource/mt6_29@5-16 http://scta.info/resource/mt6_30@3-15">Respicite
           volati<lb ed="#L" n="32" break="no"/>lia coeli, quoniam non serunt, neque metunt, neque congregant in horrea, &amp; pater vester
           coe<lb ed="#L" n="33" break="no"/>lestis pascit illa: Considerate lilia agri, quomodo crescunt; Non laborant, neque nent, neque
           Sa<lb ed="#L" n="34" break="no"/>lomon in omni gloria sua coopertus est, sicut vnum ex istis; &amp; faenum agri quod hodie est, &amp;
-          <lb ed="#L" n="35"/>cras in clibanum mittitur, Deus sic vestit,</quote> Mat. 6. Et infra 10. <quote source="http://scta.info/resource/mt10_29@1-16">Nonne duo passeres asse
+          <lb ed="#L" n="35"/>cras in clibanum mittitur, Deus sic vestit,</quote> Mat. 6. Et infra 10. <quote xml:id="dcn2br-e35616-Qd1e598" source="http://scta.info/resource/mt10_29@1-16">Nonne duo passeres asse
           vaene<lb ed="#L" n="36" break="no"/>unt, &amp; vnus ex illis non cadet super terram sine Patre vestro:</quote> Quod omnes expositores
           Ca<lb ed="#L" n="37" break="no"/>tholici ad diuinam prouidentiam referunt, quorum vnius nunc pro omnibus memorabor. 
           <lb ed="#L" n="38"/>Dicit siquidem Augustinus in sententijs Prosperi propositione 286. Cum Saluator dicit 

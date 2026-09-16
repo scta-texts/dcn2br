@@ -132,13 +132,13 @@
           inauersa<lb ed="#L" n="37" break="no"/>bilis, immobilis, &amp; insolubilis est.
         </p>
         <p xml:id="dcn2br-e09386-d1e261">
-          Ecce &amp; Ecclesiasticus 42. qui dicit, <quote source="http://scta.info/resource/sir42_19@1-10">Cognouit
+          Ecce &amp; Ecclesiasticus 42. qui dicit, <quote xml:id="dcn2br-e09386-Qd1e263" source="http://scta.info/resource/sir42_19@1-10">Cognouit
           Domi<lb ed="#L" n="38" break="no"/>nus omnem scientiam, &amp; inspexit in signum aeui,</quote> id est, signum seu instans aeternitatis; &amp;
-          se<lb ed="#L" n="39" break="no"/>quitur, <quote source="http://scta.info/resource/sir42_19@11-20">Annuntians quae praeterierunt, &amp; quae super ventura sunt reuelans vestigia //
-          sae<lb ed="#L" n="40" break="no"/>culorum.</quote> <quote source="http://scta.info/resource/sir42_20@1-13">Non praeterit illum omnis cogitatus, &amp; non abscondit se ab eo vllus sermo:</quote>
-          <lb ed="#L" n="41"/><quote source="http://scta.info/resource/sir42_21@1-15">Magnalia sapientiae suae decorauit, quae est ante saeculum &amp; vsque in saeculum, nec adiectum
+          se<lb ed="#L" n="39" break="no"/>quitur, <quote xml:id="dcn2br-e09386-Qd1e270" source="http://scta.info/resource/sir42_19@11-20">Annuntians quae praeterierunt, &amp; quae super ventura sunt reuelans vestigia //
+          sae<lb ed="#L" n="40" break="no"/>culorum.</quote> <quote xml:id="dcn2br-e09386-Qd1e275" source="http://scta.info/resource/sir42_20@1-13">Non praeterit illum omnis cogitatus, &amp; non abscondit se ab eo vllus sermo:</quote>
+          <lb ed="#L" n="41"/><quote xml:id="dcn2br-e09386-Qd1e279" source="http://scta.info/resource/sir42_21@1-15">Magnalia sapientiae suae decorauit, quae est ante saeculum &amp; vsque in saeculum, nec adiectum
           <lb ed="#L" n="42"/>est nec minuetur,</quote> &amp; non eget alicuius consilio, quoniam desiderabilia sunt omnia opera
-          e<lb ed="#L" n="43" break="no"/>ius, &amp; tanquam scintilla quae est considerare. <quote source="http://scta.info/resource/sir42_24@1-14">Omnia haec viuunt &amp; manent in seculum, &amp;
+          e<lb ed="#L" n="43" break="no"/>ius, &amp; tanquam scintilla quae est considerare. <quote xml:id="dcn2br-e09386-Qd1e287" source="http://scta.info/resource/sir42_24@1-14">Omnia haec viuunt &amp; manent in seculum, &amp;
           <lb ed="#L" n="44"/>in omni necessitate obaudiunt ei.</quote>
         </p>
         <p xml:id="dcn2br-e09386-d1e279">
@@ -197,7 +197,7 @@
         <p xml:id="dcn2br-e09386-d1e382">
           <lb ed="#L" n="29"/>Hanc etiam necessitatem aeternitatis praedictam satis insinuant talia verba scripturae,
           Consi<lb ed="#L" n="30" break="no"/>lium Domini in aeternum manet, Veritas Domini manet in aeternum, In saeculum miseria 
-          <lb ed="#L" n="31"/>cordia eius, <quote source="http://scta.info/resource/ps148_6@1-8">statuit ea in aeternum, &amp; in saeculum saeculi</quote>, sicut quinquagesimo huius
+          <lb ed="#L" n="31"/>cordia eius, <quote xml:id="dcn2br-e09386-Qd1e404" source="http://scta.info/resource/ps148_6@1-8">statuit ea in aeternum, &amp; in saeculum saeculi</quote>, sicut quinquagesimo huius
           pa<lb ed="#L" n="32" break="no"/>tet. Quanta autem turba autoritatum veteris testamenti &amp; noui, &amp; authenticorum 
           scrip<lb ed="#L" n="33" break="no"/>torum talia verba profert, talem vel qualemcunque necessitatem insinuat, quis ignorat? 
           <lb ed="#L" n="34"/>Harum etiam vigesimum septimum huius commemorat quasdam paucas, quarum omnes 
@@ -346,7 +346,7 @@
             <lb ed="#L" n="30"/>nius 2. Naturalis historiae, dicit, Deum non posse facere, vt qui vixit, non vixerit, qui 
             hono<lb ed="#L" n="31" break="no"/>res gessit, non gesserit, nullumque habere in praeterita ius nisi obliuionis. Haec eadem 
             senti<lb ed="#L" n="32" break="no"/>unt multi Doctores Catholici multis locis, specialiter autem reuirginationi corruptae videtur 
-            <lb ed="#L" n="33"/>contradicere Amos 5. <quote source="http://scta.info/resource/am5_2@1-12">Virgo, inquiens, Israel proiecta est in terram suam, non est qui suscitet
+            <lb ed="#L" n="33"/>contradicere Amos 5. <quote xml:id="dcn2br-e09386-Qd1e699" source="http://scta.info/resource/am5_2@1-12">Virgo, inquiens, Israel proiecta est in terram suam, non est qui suscitet
             <lb ed="#L" n="34"/>eam</quote>; super quod glossa; Ita sit vt virgo Israel quae etrauerit, non habeat suscitantem, quia qui 
             <lb ed="#L" n="35"/>semel ab vnione discesserit, &amp; virginitatem, quam cum vno viro habebat, perdiderit, pristinum 
             <lb ed="#L" n="36"/>statum &amp; virginitatem &amp; vnionis beatitudinem recipere non valebit. Vnde &amp; Hieronymus 
@@ -473,7 +473,7 @@
           </p>
           <p xml:id="dcn2br-e09386-d1e874">
             <lb ed="#L" n="11"/>Quarta veritas satis claret ex tertia &amp; probatione ipsius; secundum siquidem quartae 
-            sen<lb ed="#L" n="12" break="no"/>tentiam, forsitan exponendum illud Psalmi secundi, <quote source="http://scta.info/resource/ps2_7@5-12">Filius meus es tu, ego hodie genuite</quote>:
+            sen<lb ed="#L" n="12" break="no"/>tentiam, forsitan exponendum illud Psalmi secundi, <quote xml:id="dcn2br-e09386-Qd1e949" source="http://scta.info/resource/ps2_7@5-12">Filius meus es tu, ego hodie genuite</quote>:
             <lb ed="#L" n="13"/>B non enim videtur accipiendum proprie ibi diem, pro die fluxibilis temporis, sed pro dic 
             <lb ed="#L" n="14"/>seu instanti aeternitatis, vbi nihil prius aut posterius successiue, sicut praemissa isto capitulo 
             <lb ed="#L" n="15"/>&amp; proximo manifestant: quare &amp; Augustinus illud exponendo sic ait; Hodie quia 
@@ -1104,7 +1104,7 @@
           </p>
           <p xml:id="dcn2br-e09386-d1e2156">
             Quapropter &amp; Hermes de verbo aeterno 38. Omnia, inquit, ab ipso, &amp; in 
-            <lb ed="#L" n="45"/>ipso, &amp; per ipsum: quod &amp;, vt puto, sensit Apostolus ad Rom. II. quando dixit, <quote source="http://scta.info/resource/rom11_36@2-10">Ex ipso, &amp;
+            <lb ed="#L" n="45"/>ipso, &amp; per ipsum: quod &amp;, vt puto, sensit Apostolus ad Rom. II. quando dixit, <quote xml:id="dcn2br-e09386-Qd1e2183" source="http://scta.info/resource/rom11_36@2-10">Ex ipso, &amp;
             <lb ed="#L" n="46"/>per ipsum, &amp; in ipso sunt omnia</quote>. Vnde &amp; Hesterae 13. Domine in ditione tua cuncta sunt 
             <lb ed="#L" n="47"/>posita. Dicuntur igitur res omnes esse praesentes aeternaliter apud Deum, quia causae rerum, 
             <lb ed="#L" n="48"/>scilicet cognitio &amp; volutio Dei sunt praesentes aeternaliter apud eum. Secundum hanc etiam 
@@ -1114,7 +1114,7 @@
           <p xml:id="dcn2br-e09386-d1e2172">
             Istam
             au<lb ed="#L" n="51" break="no"/>tem sententiam videtur sentire Moses, imo Dominus per Mosem, Deut. 32 cum dicit;
-            <quote source="http://scta.info/resource/deut32_34@1-11">Non<lb ed="#L" n="52" break="no"/>ne haec condita sunt apud me, &amp; signata in thesauris meis</quote>? Dicitque Propheta, imo Dominus 
+            <quote xml:id="dcn2br-e09386-Qd1e2202" source="http://scta.info/resource/deut32_34@1-11">Non<lb ed="#L" n="52" break="no"/>ne haec condita sunt apud me, &amp; signata in thesauris meis</quote>? Dicitque Propheta, imo Dominus 
             <lb ed="#L" n="53"/>per Prophetam, Pulchritudo agri mecum est, Psalmo 49. Super quod Augustinus, 
             Pulchri<lb ed="#L" n="54" break="no"/>tudo agri, vbertas omnium gignentium in terra mecum est. Quomodo cum illo? cum illo 
             <lb ed="#L" n="55"/>erant omnia futura, &amp; cum illo sunt omnia futura, &amp; non ei detrahuntur omnia praeterita, 
@@ -1136,7 +1136,7 @@
             <lb ed="#L" n="6"/>est, omnino similiter, nec dissimiliter intrinsece quouismodo. Glossa; sic ea, quae futura 
             <lb ed="#L" n="7"/>sunt, iam apud Deum sunt, Apud Deum iam quippe factum est, quod eius dispositione; 
             <lb ed="#L" n="8"/>vel praedestinatione futurum est; Vnde alibi, Qui fecit quae futura sunt. Quare &amp; 
-            Eccle<lb ed="#L" n="9" break="no"/>siasticus vigesimo tertio, <quote source="http://scta.info/resource/sir23_29@1-14">Deo, inquit, antequam crearentur, omnia sunt agnita, sic &amp; post
+            Eccle<lb ed="#L" n="9" break="no"/>siasticus vigesimo tertio, <quote xml:id="dcn2br-e09386-Qd1e2250" source="http://scta.info/resource/sir23_29@1-14">Deo, inquit, antequam crearentur, omnia sunt agnita, sic &amp; post
             <lb ed="#L" n="10"/>perfectum respicit omnia</quote>:
           </p>
           <p xml:id="dcn2br-e09386-d1e2224">
@@ -1199,14 +1199,14 @@
             fu<lb ed="#L" n="55" break="no"/>tura &amp; praeterita essent instantance praesentia apud ipsum, &amp; quod eius volutio atque 
             cogni<lb ed="#L" n="56" break="no"/>tio similem &amp; aequalem necessitatem nunc habent, sicut tunc haberent, ostensa nunc 
             proxi<lb ed="#L" n="57" break="no"/>mo confirmare videntur; quam &amp; licet obscure videtur Ecclesiasticum protulisse; qui 
-            qua<lb ed="#L" n="58" break="no"/>dragesimo secundo sic ait, <quote source="http://scta.info/resource/sir42_19@1-20">Cognouit Dominus omnem scientiam, &amp; inspexit in signum
+            qua<lb ed="#L" n="58" break="no"/>dragesimo secundo sic ait, <quote xml:id="dcn2br-e09386-Qd1e2374" source="http://scta.info/resource/sir42_19@1-20">Cognouit Dominus omnem scientiam, &amp; inspexit in signum
             <!--880.xml-->
             <pb ed="#L" n="847"/>
             <lb ed="#L" n="1"/>aeui, annuntians quae praeterierunt, &amp; quae superuentura sunt, reuelans vestigia saeculo¬
-            <lb ed="#L" n="2"/>rum.</quote> <quote source="http://scta.info/resource/sir42_20@1-13">Non praeterit illum omnis cogitatus, &amp; non abscondit se ab eo vllus sermo;</quote>
-            <quote source="http://scta.info/resource/sir42_21@1-15">Magna<lb ed="#L" n="3" break="no"/>lia sapientiae suae decorauit, quae est ante saeculum &amp; vsque in saeculum; neque adiectum
+            <lb ed="#L" n="2"/>rum.</quote> <quote xml:id="dcn2br-e09386-Qd1e2385" source="http://scta.info/resource/sir42_20@1-13">Non praeterit illum omnis cogitatus, &amp; non abscondit se ab eo vllus sermo;</quote>
+            <quote xml:id="dcn2br-e09386-Qd1e2388" source="http://scta.info/resource/sir42_21@1-15">Magna<lb ed="#L" n="3" break="no"/>lia sapientiae suae decorauit, quae est ante saeculum &amp; vsque in saeculum; neque adiectum
             <lb ed="#L" n="4"/>est, neque minuetur,</quote> &amp; non eget alicuius consilio. Quam desiderabilia sunt omnia opera
-            <lb ed="#L" n="5"/>cius, &amp; tanquam scintilla quae est considerare; <quote source="http://scta.info/resource/sir42_24@1-14">omnia haec viuunt &amp; manent in saeculum, &amp;
+            <lb ed="#L" n="5"/>cius, &amp; tanquam scintilla quae est considerare; <quote xml:id="dcn2br-e09386-Qd1e2397" source="http://scta.info/resource/sir42_24@1-14">omnia haec viuunt &amp; manent in saeculum, &amp;
             <lb ed="#L" n="6"/>in omni necessitate omnia obaudiunt ei.</quote>
           </p>
           <p xml:id="dcn2br-e09386-d1e2360">
@@ -1360,9 +1360,9 @@
             prae<lb ed="#L" n="10" break="no"/>dictam in Deo, omnimodamque stabilitatem ac immutabilitatem in eo, secundum 
             quemli<lb ed="#L" n="11" break="no"/>bet modum suum intrinsecum, ipsemet Deus innuit &amp; testatur, Ego, inquiens, sum qui sum, 
             <lb ed="#L" n="12"/>sic dices filijs Israel. Qui est, misit me ad vos, Exod. 3. qui &amp; Iohan 8. Antequam, inquit 
-            <lb ed="#L" n="13"/>Abraham fieret, ego sum: &amp; concordanter Propheta, <quote source="http://scta.info/resource/ps89_2@1-17">Priusquam montes fierent, aut
+            <lb ed="#L" n="13"/>Abraham fieret, ego sum: &amp; concordanter Propheta, <quote xml:id="dcn2br-e09386-Qd1e2702" source="http://scta.info/resource/ps89_2@1-17">Priusquam montes fierent, aut
             for<lb ed="#L" n="14" break="no"/>maretur terra &amp; orbis, a saeculo &amp; vsque in saeculum tu es Deus,</quote> Psalmo 89. &amp; infra 82.
-            <lb ed="#L" n="15"/>A saeculo tu es; &amp; inferius 10I. Sicut opertorium mutabis eos &amp; mutabuntur, <quote source="http://scta.info/resource/ps101_28@1-10">tu autem
+            <lb ed="#L" n="15"/>A saeculo tu es; &amp; inferius 10I. Sicut opertorium mutabis eos &amp; mutabuntur, <quote xml:id="dcn2br-e09386-Qd1e2710" source="http://scta.info/resource/ps101_28@1-10">tu autem
             <lb ed="#L" n="16"/>idem ipse es, &amp; anni tui non deficient.</quote> Et Apostolus 1. ad Timotheum 6. Solus habet 
             <lb ed="#L" n="17"/>immortalitatem. Huiusmodi siquidem Autoritatum huiusmodi intellectum // euidenter te 
             <lb ed="#L" n="18"/>stantur expositiones authenticae, primo &amp; quinto primi praemissae, quibus &amp; paucas alias 
@@ -1372,8 +1372,8 @@
             Beatus igitur Augustinus super illud Psalmi 89. praemissum, sic ait; Optime 
             <lb ed="#L" n="20"/>autem non ait, A saeculo tu fuisti, aut vsque in saeculum tu eris, sed praesentis significationis 
             <lb ed="#L" n="21"/>verbum posuit, insinuans Dei substantiam omni modo incommutabilem, vbi non est fuit,  
-            <lb ed="#L" n="22"/>nec erit, sed tantum est; vnde dictum est, <quote source="http://scta.info/resource/ex3_14@5-19">Ego sum qui sum, &amp;. Qui est, misit me ad vos</quote>;
-            <lb ed="#L" n="23"/>&amp;, <quote source="http://scta.info/resource/ps101_27@14-17 http://scta.info/resource/ps101_28@1-10">Mutabis eos, &amp; mutabuntur, tu autem idem ipse es, &amp; auni tui non deficient</quote>. Ecce quae
+            <lb ed="#L" n="22"/>nec erit, sed tantum est; vnde dictum est, <quote xml:id="dcn2br-e09386-Qd1e2731" source="http://scta.info/resource/ex3_14@5-19">Ego sum qui sum, &amp;. Qui est, misit me ad vos</quote>;
+            <lb ed="#L" n="23"/>&amp;, <quote xml:id="dcn2br-e09386-Qd1e2737" source="http://scta.info/resource/ps101_27@14-17 http://scta.info/resource/ps101_28@1-10">Mutabis eos, &amp; mutabuntur, tu autem idem ipse es, &amp; auni tui non deficient</quote>. Ecce quae
             <lb ed="#L" n="24"/>aeternitas facta est nobis refugium, vt in ea mansuri, ad eam de hac temporis mutabilitate 
             <lb ed="#L" n="25"/>fugiamus; Qui &amp; super illud Psalmi 101. adductum, Speremus, inquit, venturos nos ad hos 
             <lb ed="#L" n="26"/>annos stantes in quibus non circuitu Solis peraguntur dies, sed manet quod est sicuti est, quia 
@@ -1395,9 +1395,9 @@
           <p xml:id="dcn2br-e09386-d1e2718">
             Cui &amp; concordanter
             Gre<lb ed="#L" n="38" break="no"/>gorius 18. Moral. 31. super illud Iob 28. Nec commemorabuntur in comparatione eius,
-            <lb ed="#L" n="39"/>Propheta, inquit, eius incommutabilitatem essentiae contemplatus, ait, <quote source="http://scta.info/resource/ps101_27@1-17 http://scta.info/resource/ps101_28@1-10">Omnia sicut
+            <lb ed="#L" n="39"/>Propheta, inquit, eius incommutabilitatem essentiae contemplatus, ait, <quote xml:id="dcn2br-e09386-Qd1e2779" source="http://scta.info/resource/ps101_27@1-17 http://scta.info/resource/ps101_28@1-10">Omnia sicut
             vesti<lb ed="#L" n="40" break="no"/>mentum veterascent, &amp; sicut opertorium mutabis eos &amp; mutabuntur, tu autem idem ipse es,
-            <lb ed="#L" n="41"/>&amp; anni tui non deficient</quote>: Hinc ad Mosem dicitur, <quote source="http://scta.info/resource/ex3_14@5-19">Ego sum qui sum, &amp; dices filijs Israel,
+            <lb ed="#L" n="41"/>&amp; anni tui non deficient</quote>: Hinc ad Mosem dicitur, <quote xml:id="dcn2br-e09386-Qd1e2786" source="http://scta.info/resource/ex3_14@5-19">Ego sum qui sum, &amp; dices filijs Israel,
             <lb ed="#L" n="42"/>Qui est misit me ad vos</quote>, solus quippe veraciter est, qui solus incommutabiliter permaner. 
             <lb ed="#L" n="43"/>Nam omne quod modo sic est, modo aliter est, iuxta non esse est: permanere enim in 
             statu<lb ed="#L" n="44" break="no"/>suo non potest, atque aliquo modo ad non esse itur, dum ab eo quod fuerat semper ad aliud 
@@ -1739,14 +1739,14 @@
             <lb ed="#L" n="26"/>non pro prima. Nec etiam verum est, quod omne vinculum violentiam implicat; Multi 
             e<lb ed="#L" n="27" break="no"/>nim multarum obligationum vinculis erga Deum &amp; homines se gratis supponunt, &amp; 
             susti<lb ed="#L" n="28" break="no"/>nent ea gratis: Vnde Ecclesiastici 6. Mitte pedem tuum in compedes illius, scilicet
-            sapien<lb ed="#L" n="29" break="no"/>tiae, &amp; in torques eius collum tuum; <quote source="http://scta.info/resource/sir6_26@1-11 http://scta.info/resource/sir6_30@1-16">subijce humerum tuum, &amp; porta illam, &amp; ne
+            sapien<lb ed="#L" n="29" break="no"/>tiae, &amp; in torques eius collum tuum; <quote xml:id="dcn2br-e09386-Qd1e3473" source="http://scta.info/resource/sir6_26@1-11 http://scta.info/resource/sir6_30@1-16">subijce humerum tuum, &amp; porta illam, &amp; ne
             acedie<lb ed="#L" n="30" break="no"/>ris in vinculis eius, &amp; erunt tibi compedes eius in protectionem fortitudinis &amp; bases virtutis,
             <lb ed="#L" n="31"/>&amp; torques illius in stolam gloriae,</quote> &amp; vincula illius nexura salutaris.
           </p>
           <p xml:id="dcn2br-e09386-d1e3418">
             Quare &amp; Apostolus 
             <lb ed="#L" n="32"/>ad Coloss. 3. Charitatem vinculum perfectionis appellat; Vnde &amp; Hos. II. In funiculis 
-            <quote source="http://scta.info/resource/os11_4@1-8"><lb ed="#L" n="33"/>Adam traham eos in vinculis charitatis</quote>. Quare &amp; Hugo de Sancto Victore, De laude 
+            <quote xml:id="dcn2br-e09386-Qd1e3486" source="http://scta.info/resource/os11_4@1-8"><lb ed="#L" n="33"/>Adam traham eos in vinculis charitatis</quote>. Quare &amp; Hugo de Sancto Victore, De laude 
             cha<lb ed="#L" n="34" break="no"/>ritatis ad Petrum, alloquens charitatem, sic ait; O charitas, quantum potes, quae Deum  
             <lb ed="#L" n="35"/>superabas? Illum tibi obedientem de sede paternae maiestatis, vsque ad inferna nostrae 
             <lb ed="#L" n="36"/>mo rtalitatis // sustinenda, descendere coegisti, adduxisti illum vinculis tuis alligatum: vnde 
@@ -1811,12 +1811,12 @@
             <lb ed="#L" n="23"/>est quod nigro impermixtius; quare &amp; minus malum quandoque vocatur bonum, &amp; melius 
             <lb ed="#L" n="24"/>aliquando. Vnde Philosophus 5. Eth. 5. In boni ratione sit minus malum ad maius malum: 
             <lb ed="#L" n="25"/>Cest enim minus malum magis eligibile maiori; eligibile autem bonum, &amp; magis maius. Et  
-            <lb ed="#L" n="26"/>Thren. 4. <quote source="http://scta.info/resource/lam4_9@2-8">Melius fuit occisis gladio quam interfectis fame</quote>, &amp; est modus loquendi
+            <lb ed="#L" n="26"/>Thren. 4. <quote xml:id="dcn2br-e09386-Qd1e3616" source="http://scta.info/resource/lam4_9@2-8">Melius fuit occisis gladio quam interfectis fame</quote>, &amp; est modus loquendi
             creberri<lb ed="#L" n="27" break="no"/>mus apud omnes. Iuxta quem etiam modum loquendi aliquando dicitur aliquid melius alio,
             <lb ed="#L" n="28"/>eo quod illud est bonum, aliud vero malum, vel non bonum. Vnde Philosophus 2. de
-            gene<lb ed="#L" n="29" break="no"/>rat. penult. Melius est esse quam non esse; &amp; Propheta, <quote source="http://scta.info/resource/ps36_16@1-8">Melius est modicum iusto super
-            di<lb ed="#L" n="30" break="no"/>uitias peccatorum multas</quote>, Psalmo 36. Et Salomon Parab. 16. <quote source="http://scta.info/resource/prov16_8@1-10">Melius est parum cum
-            iusti<lb ed="#L" n="31" break="no"/>tia, quam multi fructus cum iniquitate</quote>; &amp; <quote source="http://scta.info/resource/prov16_19@1-10">melius est humiliari cum mitibus, quam
+            gene<lb ed="#L" n="29" break="no"/>rat. penult. Melius est esse quam non esse; &amp; Propheta, <quote xml:id="dcn2br-e09386-Qd1e3625" source="http://scta.info/resource/ps36_16@1-8">Melius est modicum iusto super
+            di<lb ed="#L" n="30" break="no"/>uitias peccatorum multas</quote>, Psalmo 36. Et Salomon Parab. 16. <quote xml:id="dcn2br-e09386-Qd1e3631" source="http://scta.info/resource/prov16_8@1-10">Melius est parum cum
+            iusti<lb ed="#L" n="31" break="no"/>tia, quam multi fructus cum iniquitate</quote>; &amp; <quote xml:id="dcn2br-e09386-Qd1e3636" source="http://scta.info/resource/prov16_19@1-10">melius est humiliari cum mitibus, quam
             diui<lb ed="#L" n="32" break="no"/>dere spolia cum superbis</quote>.
           </p>
           <p xml:id="dcn2br-e09386-d1e3564">
@@ -2320,7 +2320,7 @@
             <lb ed="#L" n="19"/>conceditur ei, vt de mille redeat ad centum, &amp; de centum ad decem. Concordat etiam 
             tex<lb ed="#L" n="20" break="no"/>tui qui pro eodem habet, domum Israel cecidisse, &amp; virginem Israel esse proiectam in 
             ter<lb ed="#L" n="21" break="no"/>ram; quae etiam non negat potentiam resurgendi ad statum aequalem, sed actum, gradum 
-            <lb ed="#L" n="22"/>inferiorem ei assignans: vnde sic ait, domus Israel cecidit, non adijciet vt resurgat; <quote source="http://scta.info/resource/am5_2@1-12 http://scta.info/resource/am5_3@1-23">virgo
+            <lb ed="#L" n="22"/>inferiorem ei assignans: vnde sic ait, domus Israel cecidit, non adijciet vt resurgat; <quote xml:id="dcn2br-e09386-Qd1e4620" source="http://scta.info/resource/am5_2@1-12 http://scta.info/resource/am5_3@1-23">virgo
             <lb ed="#L" n="23"/>Israel proiecta est in terram suam, non est qui suscitet eam, quia haec dicit Dominus Deus;
             <lb ed="#L" n="24"/>Vrbs de qua egrediebantur mille, relinquentur in ea centum; &amp; de qua egrediebantur
             cen<lb ed="#L" n="25" break="no"/>tum, relinquentur in ea decem.</quote> Super quod Glossa, Non negat posse resurgere, sed non C
@@ -2409,7 +2409,7 @@
           </p>
           <p xml:id="dcn2br-e09386-d1e4710">
             Huiusmodi autem modus loquendi de 
-            <lb ed="#L" n="33"/>factione habetur Ioh. 1I. vbi quaeritur sic de Christo, <quote source="http://scta.info/resource/io11_37@6-18">Non poterat hic, qui aperuit oculos
+            <lb ed="#L" n="33"/>factione habetur Ioh. 1I. vbi quaeritur sic de Christo, <quote xml:id="dcn2br-e09386-Qd1e4794" source="http://scta.info/resource/io11_37@6-18">Non poterat hic, qui aperuit oculos
             <lb ed="#L" n="34"/>caeci nati, facere vt &amp; hic non moreretur</quote>? Sic etiam loquitur Augustinus 26. contra Faustum 
             <lb ed="#L" n="35"/>2. Si audiam, inquiens, quod aliquid futurum erat, si Deus fecit ne fieret, fidissime 
             responde<lb ed="#L" n="36" break="no"/>bo. Illud potius futurum erat quod Deus fecit, non illud, quod si futurum esset, hoc fecisset; 
@@ -2675,11 +2675,11 @@
           </p>
           <p xml:id="dcn2br-e09386-d1e5225">
             Nam quadragesimo primo secundum 
-            transla<lb ed="#L" n="5" break="no"/>tionem Hieronymi, Esaias, imo Dominus per Esaiam sic dicit, <quote source="http://scta.info/resource/is41_2@1-5">Quis suscitauit ab Oriente
-            iu<lb ed="#L" n="6" break="no"/>stum,</quote> scilicet Iesum Christum, &amp; <quote source="http://scta.info/resource/is41_2@6-10">vocauit eum vt sequeretur se?</quote> Ecce prophetia de praeterito,
-            <lb ed="#L" n="7"/>&amp; addit // mixtim de futuro, <quote source="http://scta.info/resource/is41_2@11-15">Dabit in conspectu eius gentes,</quote> &amp;c. &amp; subdit, <quote source="http://scta.info/resource/is41_4@1-17">Quis haec operatus
+            transla<lb ed="#L" n="5" break="no"/>tionem Hieronymi, Esaias, imo Dominus per Esaiam sic dicit, <quote xml:id="dcn2br-e09386-Qd1e5312" source="http://scta.info/resource/is41_2@1-5">Quis suscitauit ab Oriente
+            iu<lb ed="#L" n="6" break="no"/>stum,</quote> scilicet Iesum Christum, &amp; <quote xml:id="dcn2br-e09386-Qd1e5317" source="http://scta.info/resource/is41_2@6-10">vocauit eum vt sequeretur se?</quote> Ecce prophetia de praeterito,
+            <lb ed="#L" n="7"/>&amp; addit // mixtim de futuro, <quote xml:id="dcn2br-e09386-Qd1e5322" source="http://scta.info/resource/is41_2@11-15">Dabit in conspectu eius gentes,</quote> &amp;c. &amp; subdit, <quote xml:id="dcn2br-e09386-Qd1e5326" source="http://scta.info/resource/is41_4@1-17">Quis haec operatus
             <lb ed="#L" n="8"/>est &amp; fecit, vocans generationes ab exordio? Ego Dominus primus &amp; nouissimus, ego sum:</quote>
-            <lb ed="#L" n="9"/>&amp; infra 48. <quote source="http://scta.info/resource/is48_3@1-18">Priora ex tunc annuntiaui, &amp; ex ore meo exierunt, &amp; audita feci ea, repente
+            <lb ed="#L" n="9"/>&amp; infra 48. <quote xml:id="dcn2br-e09386-Qd1e5333" source="http://scta.info/resource/is48_3@1-18">Priora ex tunc annuntiaui, &amp; ex ore meo exierunt, &amp; audita feci ea, repente
             oper<lb ed="#L" n="10" break="no"/>tus sum, &amp; venerunt.</quote>
           </p>
           <p xml:id="dcn2br-e09386-d1e5241">
@@ -2693,7 +2693,7 @@
           </p>
           <p xml:id="dcn2br-e09386-d1e5258">
             Qui insuper Augustinus par. secundae super Iohan. homilia 14. seu 68. totius, tractans 
-            <lb ed="#L" n="17"/>illud Iohannis 14. <quote source="http://scta.info/resource/io14_2@1-7">In domo Patris mei mansiones multae sunt</quote>, &amp; infra, <quote source="http://scta.info/resource/io14_3@2-7">Si abiero &amp;
+            <lb ed="#L" n="17"/>illud Iohannis 14. <quote xml:id="dcn2br-e09386-Qd1e5360" source="http://scta.info/resource/io14_2@1-7">In domo Patris mei mansiones multae sunt</quote>, &amp; infra, <quote xml:id="dcn2br-e09386-Qd1e5363" source="http://scta.info/resource/io14_3@2-7">Si abiero &amp;
             praepa<lb ed="#L" n="18" break="no"/>rauero vobis locum</quote>, &amp;c. Quomodo, inquit, mansiones in domo Patris non aliae sed ipsae,
             <lb ed="#L" n="19"/>&amp; sine dubio iam sunt sicut parandae non sunt, &amp; nondum sunt sicut parandae sunt? Quomo 
             <lb ed="#L" n="20"/>do putauimus, nisi quomodo etiam Propheta praedicat Deum, quia fecit quae futura sunt? 

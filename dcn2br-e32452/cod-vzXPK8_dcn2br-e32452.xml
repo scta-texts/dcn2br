@@ -113,7 +113,7 @@
           <lb ed="#L" n="49"/>mensuratis.
         </p>
         <p xml:id="dcn2br-e32452-d1e210">
-          Amplius autem Ecclesiast. 23. <quote source="http://scta.info/resource/sir23_29@1-14">Domino, inquit, Deo antequam crearentur omnia
+          Amplius autem Ecclesiast. 23. <quote xml:id="dcn2br-e32452-Qd1e212" source="http://scta.info/resource/sir23_29@1-14">Domino, inquit, Deo antequam crearentur omnia
           <lb ed="#L" n="50"/>sunt agnita, sic &amp; post perfectum respicit omnia.</quote>
         </p>
         <p xml:id="dcn2br-e32452-d1e215">
@@ -172,7 +172,7 @@
         </p>
         <p xml:id="dcn2br-e32452-d1e316">
           Idem super
-          <lb ed="#L" n="31"/>illud Psalmi 138. <quote source="http://scta.info/resource/ps138_6@1-7">Mirabilis facta est scientia tua ex me</quote>, dicit, quod Deus loquebatur ad 
+          <lb ed="#L" n="31"/>illud Psalmi 138. <quote xml:id="dcn2br-e32452-Qd1e323" source="http://scta.info/resource/ps138_6@1-7">Mirabilis facta est scientia tua ex me</quote>, dicit, quod Deus loquebatur ad 
           Mo<lb ed="#L" n="32" break="no"/>sem per aliquam creaturam corporalem assumptam, non quomodo loquitur in substantia 
           <lb ed="#L" n="33"/>sua: Quomodo enim loquitur in substantia sua? Locutio Dei, verbum Dei est; verbum Dei 
           <lb ed="#L" n="34"/>Christus est; verbum illud non sonat &amp; transit, sed semper incommutabiliter manet verbum, 
@@ -259,21 +259,21 @@
         </p>
         <p xml:id="dcn2br-e32452-d1e467">
           Hod
-          <lb ed="#L" n="27"/>etiam Autoritates sacrae testantur: vnde Psalmo 32. <quote source="http://scta.info/resource/ps32_11@1-13">Consilium autem Domini in aeternum
+          <lb ed="#L" n="27"/>etiam Autoritates sacrae testantur: vnde Psalmo 32. <quote xml:id="dcn2br-e32452-Qd1e477" source="http://scta.info/resource/ps32_11@1-13">Consilium autem Domini in aeternum
           <lb ed="#L" n="28"/>manet, Cogitationes cordis eius in generatione &amp; generationem.</quote> Olossa, ig // est, non sunt 
           <lb ed="#L" n="29"/>mutabiles, sed aeternae, &amp; praedestinatio eius immutabilis est, in qua omnia reposita sunt. Et  
           <lb ed="#L" n="30"/>sumitur haec Glossa ab Augustino super eundem locum Psalmi tractatu 1. dicente, Cogitatio. 
           <lb ed="#L" n="31"/>nes sapientiae eius non sunt mutabiles, sed manentes in saeculum saeculi. Simile est illud Psalmi 
-          <lb ed="#L" n="32"/>II6. Veritas Domini manet in aeternum: &amp; illud Psalmi 1I8. <quote source="http://scta.info/resource/ps118_152@1-10">Initio cognoui de testimonijs
+          <lb ed="#L" n="32"/>II6. Veritas Domini manet in aeternum: &amp; illud Psalmi 1I8. <quote xml:id="dcn2br-e32452-Qd1e491" source="http://scta.info/resource/ps118_152@1-10">Initio cognoui de testimonijs
           <lb ed="#L" n="33"/>tuis, quia in aeternum fundasti ea;</quote> &amp; illud Apostoli 2. ad Timoth. 2. Firmum sundamentum 
           <lb ed="#L" n="34"/>Dei stat habens signaculum hoc, Nouit Dominus qui sunt eius. Et ad Hebr. 6. Volens Deus 
           <lb ed="#L" n="35"/>ostendere pollicitationis haeredibus immobilitatem consilij sui, interponit iusiurandum: Et  
-          <lb ed="#L" n="36"/>Esaiae 46. <quote source="http://scta.info/resource/is46_10@13-20">Consilium meum stabit, &amp; omnis voluntas mea fiet:</quote> &amp; lerem. 31. In charitate 
+          <lb ed="#L" n="36"/>Esaiae 46. <quote xml:id="dcn2br-e32452-Qd1e502" source="http://scta.info/resource/is46_10@13-20">Consilium meum stabit, &amp; omnis voluntas mea fiet:</quote> &amp; lerem. 31. In charitate 
           per<lb ed="#L" n="37" break="no"/>petua dilexi te, ideo attraxi te, miserans; In charitate, inquit, perpetua, non nouella.
         </p>
         <p xml:id="dcn2br-e32452-d1e493">
           Hoc idem
-          <lb ed="#L" n="38"/>expresse dicit <ref xml:id="dcn2br-e32452-Rggg111" corresp="#dcn2br-e32452-Qc1889a">Augustinus 3. de Trinit. 2.</ref> exponens illud Psalmi I2I. <quote source="http://scta.info/resource/ps121_3@1-10">Ierusalem, quae aedifica
+          <lb ed="#L" n="38"/>expresse dicit <ref xml:id="dcn2br-e32452-Rggg111" corresp="#dcn2br-e32452-Qc1889a">Augustinus 3. de Trinit. 2.</ref> exponens illud Psalmi I2I. <quote xml:id="dcn2br-e32452-Qd1e516" source="http://scta.info/resource/ps121_3@1-10">Ierusalem, quae aedifica
           <lb ed="#L" n="39"/>tur vt ciuitas, cuius participatio eius in idipsum</quote>; <quote xml:id="dcn2br-e32452-Qc1889a" source="http://scta.info/resource/adt-l3-d1e384@88-117">per Idipsum, inquit, hoc loco, illud summum 
             <lb ed="#L" n="40"/>&amp; incommutabile bonum intelligitur, quod Deus est, atque sapientia voluntasque ipsius, cui 
             <lb ed="#L" n="41"/>cantatur in alio loco, Mutabis ea, &amp; mutabuntur, tu autem idem ipse es</quote>:
@@ -335,7 +335,7 @@
           ver<lb ed="#L" n="13" break="no"/>bum non esse filium naturae, sed voluntatis, accidentem scilicet Deo volens asserere 
           volunta<lb ed="#L" n="14" break="no"/>tem, qua gigneret filium; videlicet ideo, quia nos aliquid aliquando volumus, quodante non  
           <lb ed="#L" n="15"/>volebamus; quem redarguit statim dicens, Quasi non propter ista mutabilis intelligatur 
-          no<lb ed="#L" n="16" break="no"/>stra natura, quod absit, vt in Deo effe credamus. Non enim ob aliud scriptum est, <quote source="http://scta.info/resource/prov19_21@1-9">multae
+          no<lb ed="#L" n="16" break="no"/>stra natura, quod absit, vt in Deo effe credamus. Non enim ob aliud scriptum est, <quote xml:id="dcn2br-e32452-Qd1e635" source="http://scta.info/resource/prov19_21@1-9">multae
           co<lb ed="#L" n="17" break="no"/>gitationes in corde viri, Confilium autem Domini manet in aeternum</quote>, nisi vt intelligamus siue
           <lb ed="#L" n="18"/>credamus, sicut aeternum Deum, ita aeternum? eius esse Consilium; ac per hoc immutabile. 
           <lb ed="#L" n="19"/>ficut ipse est. Quod autem de cogitationibus, hoc etiam de voluntatibus verissime dici potest. 
@@ -413,9 +413,9 @@
           </p>
           <p xml:id="dcn2br-e32452-d1e751">
             Prima igitur pars huius &amp; secunda patent per 
-            <lb ed="#L" n="8"/>illud Apostoli ad Ephes. 1. <quote source="http://scta.info/resource/eph1_4@1-18">Elegit nos ante mundi constitutionem, vt essemus sancti &amp;
+            <lb ed="#L" n="8"/>illud Apostoli ad Ephes. 1. <quote xml:id="dcn2br-e32452-Qd1e777" source="http://scta.info/resource/eph1_4@1-18">Elegit nos ante mundi constitutionem, vt essemus sancti &amp;
             imma<lb ed="#L" n="9" break="no"/>culati in conspectu eius in charitate</quote> secundum propositum voluntatis suae; &amp; ad Romanos 9.
-            <lb ed="#L" n="10"/><quote source="http://scta.info/resource/rom9_11@1-17">Cum nondum nati fuissent, aut aliquid egissent boni aut mali, vt secundum electionem
+            <lb ed="#L" n="10"/><quote xml:id="dcn2br-e32452-Qd1e783" source="http://scta.info/resource/rom9_11@1-17">Cum nondum nati fuissent, aut aliquid egissent boni aut mali, vt secundum electionem
             pro<lb ed="#L" n="11" break="no"/>positum Dei maneret</quote>, dictum est, quia maior seruiet minori, sicut scriptum est; lacob dilexi, 
             <lb ed="#L" n="12"/>Esau autem odio habui.
           </p>
@@ -427,7 +427,7 @@
             Tertia autem pars eius sequitur ex prioribus euidenter, potestque 
             proba<lb ed="#L" n="14" break="no"/>ri per responsionem saluatoris filijs Zebedaei, adorante matre eorum, &amp; petente quatenus 
             di<lb ed="#L" n="15" break="no"/>ceret, vt sederent, vnus ad dextram, &amp; vnus ad sinistram in regno suo, qui sic illis respondit;
-            <lb ed="#L" n="16"/><quote source="http://scta.info/resource/mt20_23@7-25">Sedere ad dextram meam vel sinistram, non est meum dare vobis, sed quibus paratum est a
+            <lb ed="#L" n="16"/><quote xml:id="dcn2br-e32452-Qd1e804" source="http://scta.info/resource/mt20_23@7-25">Sedere ad dextram meam vel sinistram, non est meum dare vobis, sed quibus paratum est a
             <lb ed="#L" n="17"/>x Patre,</quote> Mat. 20. Si tamen hoc possent preces &amp; merita impetrare, ipse posset hoc dare.
           </p>
           <p xml:id="dcn2br-e32452-d1e781">
@@ -435,16 +435,16 @@
             e<lb ed="#L" n="18" break="no"/>tiam patet per responsionem Samuelis, quam dedit Sauli; cum enim dixisset sibi Samuel; Pro 
             <lb ed="#L" n="19"/>eo quod abiecisti sermonem Domini, abiecit te Deus, ne sis Rex, rogauit eum Saul, vt portaret 
             <lb ed="#L" n="20"/>peccatum suum, reuertereturque cum eo, vt Dominum adoraret, qui recusans respondit;
-            <quote source="http://scta.info/resource/Isam15_29@1-17">Tri<lb ed="#L" n="21" break="no"/>umphator in Israel, non parcet, &amp; poenitudine non flectetur; Neque enim homo est vt agat
+            <quote xml:id="dcn2br-e32452-Qd1e818" source="http://scta.info/resource/Isam15_29@1-17">Tri<lb ed="#L" n="21" break="no"/>umphator in Israel, non parcet, &amp; poenitudine non flectetur; Neque enim homo est vt agat
             <lb ed="#L" n="22"/>poenitentiam.</quote> I. Reg. 15. Cumque Samuel lugeret Saulem, increpans eum Dominus, dixit ei;
-            <lb ed="#L" n="23"/><quote source="http://scta.info/resource/Isam16_1@5-16">Vsquequo tu luges Saulem, cum ego proiecerim eum, ne regnet super Israel?</quote> infra 16. Simile
-            <lb ed="#L" n="24"/>est illud Ierem. 7. Proijciam vos a facie mea, <quote source="http://scta.info/resource/ier7_16@1-22">tu ergo noli orare pro populo hoc, nec assumas
+            <lb ed="#L" n="23"/><quote xml:id="dcn2br-e32452-Qd1e826" source="http://scta.info/resource/Isam16_1@5-16">Vsquequo tu luges Saulem, cum ego proiecerim eum, ne regnet super Israel?</quote> infra 16. Simile
+            <lb ed="#L" n="24"/>est illud Ierem. 7. Proijciam vos a facie mea, <quote xml:id="dcn2br-e32452-Qd1e832" source="http://scta.info/resource/ier7_16@1-22">tu ergo noli orare pro populo hoc, nec assumas
             <lb ed="#L" n="25"/>pro eis laudem vel orationem, &amp; non obsistas mihi, quia non exaudiam te.</quote> Et infra, eodem, II
             <lb ed="#L" n="26"/>praecepit illud idem: vbi Olossa; Praecipitur Prophetae ne pro eis oret in quos est 
             consumma<lb ed="#L" n="27" break="no"/>ta sententia, ne videatur oratio eius infirma, &amp; merito non exaudita. Ne assumas pro eis 
             lau<lb ed="#L" n="28" break="no"/>dem, quasi ne replicando historiae veteris clementiam, qua misereri soleo, &amp; Iaudando meam 
             <lb ed="#L" n="29"/>nitaris mutare sententia. Et infra 14. Post confessionem multiplicem peccatorum, &amp; deuota 
-            <lb ed="#L" n="30"/>orationem Ieremiae, Dominus dixit ei; <quote source="http://scta.info/resource/ier14_11@6-12 http://scta.info/resource/ier14_12@1-24">Noli orare pro populo isto in bonum; cum ieiunauerint
+            <lb ed="#L" n="30"/>orationem Ieremiae, Dominus dixit ei; <quote xml:id="dcn2br-e32452-Qd1e848" source="http://scta.info/resource/ier14_11@6-12 http://scta.info/resource/ier14_12@1-24">Noli orare pro populo isto in bonum; cum ieiunauerint
             <lb ed="#L" n="31"/>non exaudiam preces eorum, &amp; si obtulerint holocausta &amp; victimas non suscipiam ea,
             quoni<lb ed="#L" n="32" break="no"/>am gladio &amp; fame, &amp; peste consumam eos.</quote>
           </p>
@@ -466,13 +466,13 @@
             <lb ed="#L" n="40"/>eis non oraret, quam nec pro ipso.
           </p>
           <p xml:id="dcn2br-e32452-d1e841">
-            Simile etiam est illud Apostoli ad Hebr. 12. <quote source="http://scta.info/resource/hebr12_17@6-20">Esau cupiens
+            Simile etiam est illud Apostoli ad Hebr. 12. <quote xml:id="dcn2br-e32452-Qd1e883" source="http://scta.info/resource/hebr12_17@6-20">Esau cupiens
             <lb ed="#L" n="41"/>haereditare benedictionem reprobatus est. Non enim inuenit poenitentiae locum, quanquam
             <lb ed="#L" n="42"/>cum lacrymis inquisisset eam:</quote> Gen. 27. scribitur, quod eiulatu magno fleuit.
           </p>
           <p xml:id="dcn2br-e32452-d1e849">
             Simile quoque est
-            <lb ed="#L" n="43"/>illud Num. 23. <quote source="http://scta.info/resource/num23_19@1-23">Non est Deus quasi homo vt mentiatur, nec vt filius hominis vt mutetur; dixit
+            <lb ed="#L" n="43"/>illud Num. 23. <quote xml:id="dcn2br-e32452-Qd1e896" source="http://scta.info/resource/num23_19@1-23">Non est Deus quasi homo vt mentiatur, nec vt filius hominis vt mutetur; dixit
             <lb ed="#L" n="44"/>ergo, &amp; non faciet? locutus est, &amp; non implebit?</quote>
           </p>
           <p xml:id="dcn2br-e32452-d1e856">
@@ -482,7 +482,7 @@
             im<lb ed="#L" n="47" break="no"/>pleret. Et ne hoc videretur libertati voluntatis diuinae in aliquo derogare, statim subiungit, 
             <lb ed="#L" n="48"/>Hoc autem quod seipsum negare non potest, laus est voluntatis diuinae; &amp; est Augustini 
             ho<lb ed="#L" n="49" break="no"/>mil. 53. 1. partis super Iohan. qui etiam 15. de Trin. 14. Verbum, inquit, Dei falsum habere 
-            a<lb ed="#L" n="50" break="no"/>liquid nunqua potest, quia immutabiliter sic se habet, vt se habet de quo est. <quote source="http://scta.info/resource/io5_19@5-16">Non enim potest
+            a<lb ed="#L" n="50" break="no"/>liquid nunqua potest, quia immutabiliter sic se habet, vt se habet de quo est. <quote xml:id="dcn2br-e32452-Qd1e917" source="http://scta.info/resource/io5_19@5-16">Non enim potest
             <lb ed="#L" n="51"/>filius a se facere quicquam, nisi quod viderit Patrem facientem.</quote> Potenter hoc non potest; Nec 
             <lb ed="#L" n="52"/>est infirmitas ista sed firmitas, quia falsa esse non potest veritas.
           </p>
@@ -552,7 +552,7 @@
           <p xml:id="dcn2br-e32452-d1e978">
             Potest autem hoc
             i<lb ed="#L" n="27" break="no"/>dem specialiter sic probari: Quando Deus creauit naturam Angelicam &amp; humanam, 
-            a<lb ed="#L" n="28" break="no"/>liquid de ipsa finaliter intendebat absolute &amp; determinate, (Illa enim sapientia <quote source="http://scta.info/resource/sap8_1@1-12">quae attingit
+            a<lb ed="#L" n="28" break="no"/>liquid de ipsa finaliter intendebat absolute &amp; determinate, (Illa enim sapientia <quote xml:id="dcn2br-e32452-Qd1e1033" source="http://scta.info/resource/sap8_1@1-12">quae attingit
             <lb ed="#L" n="29"/>a fine vsque ad finem fortiter, &amp; disponit omnia suauiter</quote>, non agit stultius seu vanius quam  
             <lb ed="#L" n="30"/>natura, &amp; voluntas creata, quae agunt actiones determinatas propter finem determinatum, 
             <lb ed="#L" n="31"/>vt patet 2. Phys. diffuse;) &amp; non intendebat quod tota staret, &amp; beatitudine finaliter 
@@ -571,16 +571,16 @@
             Deus ergo non
             inten<lb ed="#L" n="39" break="no"/>debat statum cadentium, nec beatitudinem damnandorum, quare &amp; vt per vigesimum 
             se<lb ed="#L" n="40" break="no"/>cundum videtur, intendebat aliquo modo casum &amp; damnationem cuiuscunque talis, quod &amp; 
-            <lb ed="#L" n="41"/>Psalmista videtur sentire Psalmo 103. cum sic dicit, <quote source="http://scta.info/resource/ps103_26@4-10">Draco iste quem formasti ad illudendum
-            <lb ed="#L" n="42"/>ei,</quote> si per Draconem Lucifer designetur. Et Ecclesiastici 39. <quote source="http://scta.info/resource/sir39_33@1-7">Sunt spiritus qui ad vindictam
-            <lb ed="#L" n="43"/>creati sunt,</quote> &amp;c. Et supra, eodem 26. <quote source="http://scta.info/resource/sir26_27@2-12">Qui transgreditur a iustitia ad peccatum, Deus parauit
+            <lb ed="#L" n="41"/>Psalmista videtur sentire Psalmo 103. cum sic dicit, <quote xml:id="dcn2br-e32452-Qd1e1069" source="http://scta.info/resource/ps103_26@4-10">Draco iste quem formasti ad illudendum
+            <lb ed="#L" n="42"/>ei,</quote> si per Draconem Lucifer designetur. Et Ecclesiastici 39. <quote xml:id="dcn2br-e32452-Qd1e1074" source="http://scta.info/resource/sir39_33@1-7">Sunt spiritus qui ad vindictam
+            <lb ed="#L" n="43"/>creati sunt,</quote> &amp;c. Et supra, eodem 26. <quote xml:id="dcn2br-e32452-Qd1e1080" source="http://scta.info/resource/sir26_27@2-12">Qui transgreditur a iustitia ad peccatum, Deus parauit
             <lb ed="#L" n="44"/>eum ad romphaeam;</quote> quibus &amp; consonare videtur dictum Saluatoris de filio perditionis, 
             scili<lb ed="#L" n="45" break="no"/>cet Iuda, Ioan. 17. &amp; Apostolus 2. ad Thess. 2. de homine peccati, filio perditionis, scilicet 
             Anti<lb ed="#L" n="46" break="no"/>christo; quanquam &amp; ista a sanctis Patribus aliter exponantur.
           </p>
           <p xml:id="dcn2br-e32452-d1e1029">
             Haec etiam videtur sententia
-            <lb ed="#L" n="47"/>Apostoli ad Rom. 9. dicentis, <quote source="http://scta.info/resource/rom9_21@1-19">Anno habet potestatem figulus luti ex eadem massa facere aliud
+            <lb ed="#L" n="47"/>Apostoli ad Rom. 9. dicentis, <quote xml:id="dcn2br-e32452-Qd1e1094" source="http://scta.info/resource/rom9_21@1-19">Anno habet potestatem figulus luti ex eadem massa facere aliud
             <lb ed="#L" n="48"/>quidem vas in honorem, aliud vero in contumeliam?</quote> quod &amp; statim exponit de vasis irae aptis 
             <lb ed="#L" n="49"/>in interitum, &amp; vasis misericordiae in gloriam preparatis, quem locum Apostoli Augustinus S. I 
             <lb ed="#L" n="50"/>contra Iulianum recitat expressius pro ista sententia, secundum transtationem aliam in haec 
