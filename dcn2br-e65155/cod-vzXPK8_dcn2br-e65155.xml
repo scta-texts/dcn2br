@@ -84,12 +84,12 @@
           <lb ed="#L" n="52"/>voluntatis auxiliari dignatur; quanquam &amp; aliter exponatur, sed istam expositionem totus 
           <!--523.xml-->
           <pb ed="#L" n="490"/>
-          <lb ed="#L" n="1"/>processus illius Psalmi 29i. praetendit: Exaltabo, inquit, te Domine, quoniam suscepisti me, 
-          <lb ed="#L" n="2"/>nec delectasti inimicos meos super me, Domine Deus meus, clamaui ad te, &amp; sanasti me; 
-          <lb ed="#L" n="3"/>Domine eduxisti ab inferno animam meam, saluasti me a descendentibus in lacum: &amp; tunc 
-          <lb ed="#L" n="4"/>excitando ad gratiarum actionem pro tantis beneficijs Domino statim subdit; Psallite 
-          Do<lb ed="#L" n="5" break="no"/>mino sancti eius; &amp; confitemini memoriae sanctitatis eius, quoniam ita in indignatione eius, 
-          <lb ed="#L" n="6"/>&amp; vita in voluntate eius, &amp; secundum glossam super versum sequentem, Illa ira est fletus qui  
+          <lb ed="#L" n="1"/>processus illius Psalmi 29i. praetendit: <quote source="http://scta.info/resource/ps29_2@1-12 http://scta.info/resource/ps29_3@1-9 http://scta.info/resource/ps29_4@1-12">Exaltabo, inquit, te Domine, quoniam suscepisti me,
+          <lb ed="#L" n="2"/>nec delectasti inimicos meos super me, Domine Deus meus, clamaui ad te, &amp; sanasti me;
+          <lb ed="#L" n="3"/>Domine eduxisti ab inferno animam meam, saluasti me a descendentibus in lacum:</quote> &amp; tunc
+          <lb ed="#L" n="4"/>excitando ad gratiarum actionem pro tantis beneficijs Domino statim subdit; Psallite
+          Do<lb ed="#L" n="5" break="no"/>mino sancti eius; &amp; confitemini memoriae sanctitatis eius, <quote source="http://scta.info/resource/ps29_6@1-10">quoniam ita in indignatione eius,
+          <lb ed="#L" n="6"/>&amp; vita in voluntate eius,</quote> &amp; secundum glossam super versum sequentem, Illa ira est fletus qui  
           <lb ed="#L" n="7"/>est omnimoda hominis miseria tam culpae, quam poenae.
         </p>
         <p xml:id="dcn2br-e65155-d1e179">
@@ -103,19 +103,19 @@
         </p>
         <p xml:id="dcn2br-e65155-d1e196">
           Idem E
-          <lb ed="#L" n="14"/>Psalmo 43. Nec enim in gladio suo possederunt terram, &amp; brachium eorum non saluauit 
-          <lb ed="#L" n="15"/>eos, sed dextera tua, &amp; brachium tuum, &amp; illuminatio vultus tui, quoniam placuisti in 
-          <lb ed="#L" n="16"/>iis;
+          <lb ed="#L" n="14"/>Psalmo 43. <quote source="http://scta.info/resource/ps43_4@1-27">Nec enim in gladio suo possederunt terram, &amp; brachium eorum non saluauit
+          <lb ed="#L" n="15"/>eos, sed dextera tua, &amp; brachium tuum, &amp; illuminatio vultus tui, quoniam placuisti in
+          <lb ed="#L" n="16"/>iis;</quote>
         </p>
         <p xml:id="dcn2br-e65155-d1e205">
-          &amp; Psalmo 88. Gloria virtutis eorum tu es, &amp; in beneplacito tuo exaltabitur cornu 
-          no<lb ed="#L" n="17" break="no"/>strum, Clossa; Tu es gloria, id est, exaltatio virtutis eorum quos non solum illuminat, sed 
+          &amp; Psalmo 88. <quote source="http://scta.info/resource/ps88_18@1-13">Gloria virtutis eorum tu es, &amp; in beneplacito tuo exaltabitur cornu
+          no<lb ed="#L" n="17" break="no"/>strum,</quote> Clossa; Tu es gloria, id est, exaltatio virtutis eorum quos non solum illuminat, sed 
           <lb ed="#L" n="18"/>etiam posse dat, &amp; in beneplacito tuo, id est, quia tibi beneplacuit, non quia digni sumus,
           ex<lb ed="#L" n="19" break="no"/>altabitur cornu nostrum.
         </p>
         <p xml:id="dcn2br-e65155-d1e214">
-          Item 2. Machab. vlt. Dominus non secundum armorum 
-          poten<lb ed="#L" n="20" break="no"/>tiam, sed prout ipsi placet, dat ignis victoriam.
+          Item 2. Machab. vlt. <quote source="http://scta.info/resource/IImac15_21@20-31">Dominus non secundum armorum
+          poten<lb ed="#L" n="20" break="no"/>tiam, sed prout ipsi placet, dat ignis victoriam</quote>.
         </p>
         <p xml:id="dcn2br-e65155-d1e219">
           Et ne qua fallacia malitiae Pelagianae tibi 
