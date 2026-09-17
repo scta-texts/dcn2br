@@ -1,0 +1,3151 @@
+{
+  "dcn2br-d1e3xx": {
+    "dcn2br-d1e3xx-d1e665": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-d1e796": {
+    "dcn2br-d1e796-d1e2741": [
+      {
+        "candidate_id": "adt-l5-d1e718",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 no explicit attribution, no verbatim match; author's own scholastic argument against Sabellianism, shared generic Trinitarian vocabulary only"
+      },
+      {
+        "candidate_id": "adt-l6-d1e823",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 no explicit attribution, no verbatim match; author's own scholastic argument against Sabellianism, shared generic Trinitarian vocabulary only"
+      }
+    ],
+    "dcn2br-d1e796-d1e5005": [
+      {
+        "candidate_id": "adt-l13-d1e1476",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 both independently quote Luke 2:14 (Gloria in excelsis Deo...), not a direct citation of Augustine"
+      }
+    ],
+    "dcn2br-d1e796-d1e5233": [
+      {
+        "candidate_id": "adt-l13-d1e1476",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 both independently quote Luke 2:14 (Gloria in excelsis Deo...), not a direct citation of Augustine"
+      }
+    ],
+    "dcn2br-d1e796-d1e8605": [
+      {
+        "candidate_id": "adt-l1-d1e116",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e68",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-d1e796-d1e9631": [
+      {
+        "candidate_id": "adt-l4-d1e615",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared Rom 1:22 quotation, ms explicitly attributes 'secundum Apostolum'"
+      }
+    ],
+    "dcn2br-d1e796-d1e10052": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e20419": {
+    "dcn2br-e20419-d1e549": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e657": [
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared formula 'ex quo omnia, per quem omnia, in quo omnia' (Rom 11:36); ms quotes Romans directly and a philosophical/Confessions source, not this de Trinitate passage"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 shared formula 'ex quo omnia, per quem omnia, in quo omnia' (Rom 11:36); ms quotes Romans directly and a philosophical/Confessions source, not this de Trinitate passage"
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 shared formula 'ex quo omnia, per quem omnia, in quo omnia' (Rom 11:36); ms quotes Romans directly and a philosophical/Confessions source, not this de Trinitate passage"
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 shared formula 'ex quo omnia, per quem omnia, in quo omnia' (Rom 11:36); ms quotes Romans directly and a philosophical/Confessions source, not this de Trinitate passage"
+      }
+    ],
+    "dcn2br-e20419-d1e752": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e973": [
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e1171": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e1327": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e1561": [
+      {
+        "candidate_id": "adt-l15-d1e1798",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e318",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 17,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 25,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 35,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e223",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e523",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 40,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e845",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e1635": [
+      {
+        "candidate_id": "adt-l3-d1e368",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e20419-d1e1942": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 8. de Trinit. 4.'"
+      },
+      {
+        "candidate_id": "adt-l8-d1e958",
+        "intersectionCount": 44,
+        "status": "encoded",
+        "note": "explicit attribution 'Et infra, eodem, Non essent, inquit...'"
+      }
+    ],
+    "dcn2br-e20419-d1e2884": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 16,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e368",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e23449": {
+    "dcn2br-e23449-d1e199": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 16,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e23449-d1e272": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e23449-d1e311": [
+      {
+        "candidate_id": "adt-l3-d1e409",
+        "intersectionCount": 71,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e23449-d1e326": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e23449-d1e420": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e23449-d1e440": [
+      {
+        "candidate_id": "adt-l3-d1e428",
+        "intersectionCount": 64,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "dcn2br-e23850": {
+    "dcn2br-e23850-d1e288": [
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 21,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e23850-d1e410": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e24226": {
+    "dcn2br-e24226-d1e295": [
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 53,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e24226-d1e328": [
+      {
+        "candidate_id": "adt-l1-d1e17",
+        "intersectionCount": 17,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 20,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 30,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e24226-d1e367": [
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e24226-d1e562": [
+      {
+        "candidate_id": "adt-l13-d1e1397",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 shared biblical citation John 1:10; ms explicitly attributes to 'Augustinus homilia secunda' (In Ioh. Ev. Tractatus), not de Trinitate"
+      }
+    ]
+  },
+  "dcn2br-e25439": {
+    "dcn2br-e25439-d1e874": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e26270": {
+    "dcn2br-e26270-d1e489": [
+      {
+        "candidate_id": "adt-l3-d1e447",
+        "intersectionCount": 46,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e26270-d1e526": [
+      {
+        "candidate_id": "adt-l3-d1e397",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 3. de Trinitate 4.'"
+      }
+    ]
+  },
+  "dcn2br-e27469": {
+    "dcn2br-e27469-d1e213": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paraphrase of author's own earlier chapter ('nono cap.'/'ex 9o huius'), not a direct Augustine citation"
+      }
+    ],
+    "dcn2br-e27469-d1e255": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e28682": {
+    "dcn2br-e28682-d1e642": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e28682-d1e664": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e29500": {
+    "dcn2br-e29500-d1e535": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e29500-d1e608": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e29500-d1e640": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit attribution (mislabeled 'de Ciuitate Dei' but matches de Trinitate 15.13)"
+      },
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 35,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1839",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim match for opening clause 'Ad omnia quippe scienda quae scit sufficit sibi illa perfectio'"
+      }
+    ]
+  },
+  "dcn2br-e31192": {
+    "dcn2br-e31192-d1e202": [
+      {
+        "candidate_id": "adt-l3-d1e400",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paraphrase of author's own earlier chapter ('nono cap.'/'ex 9o huius'), not a direct Augustine citation"
+      }
+    ]
+  },
+  "dcn2br-e31329": {
+    "dcn2br-e31329-d1e295": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e32452": {
+    "dcn2br-e32452-d1e215": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 34,
+        "status": "encoded",
+        "note": "explicit attribution 'beatus Aug. 15. de Trinit. 13.'"
+      }
+    ],
+    "dcn2br-e32452-d1e239": [
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 26,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e32452-d1e261": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Idem 5. super Gen. ad literam 18.', not de Trinitate; shared Jac 1:17 quotation"
+      }
+    ],
+    "dcn2br-e32452-d1e316": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e32452-d1e340": [
+      {
+        "candidate_id": "adt-l15-d1e1813",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded"
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded"
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded"
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 59,
+        "status": "encoded",
+        "note": "explicit attribution 'Idem 4. de Trinit. 1.'"
+      }
+    ],
+    "dcn2br-e32452-d1e354": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 ms explicitly cites John the Evangelist (Jn 1:3-4) directly, not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 ms explicitly cites John the Evangelist (Jn 1:3-4) directly, not de Trinitate"
+      }
+    ],
+    "dcn2br-e32452-d1e493": [
+      {
+        "candidate_id": "adt-l3-d1e384",
+        "intersectionCount": 18,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e32452-d1e518": [
+      {
+        "candidate_id": "adt-l3-d1e397",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit 'Et cap. 4.' attribution; paraphrase with reordered clauses, range approximated"
+      }
+    ],
+    "dcn2br-e32452-d1e579": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 68,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e32452-d1e600": [
+      {
+        "candidate_id": "adt-l15-d1e1915",
+        "intersectionCount": 60,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e32452-d1e770": [
+      {
+        "candidate_id": "adt-l1-d1e138",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e135",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e32452-d1e856": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 34,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e32452-d1e978": [
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e33207": {
+    "dcn2br-e33207-d1e228": [
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "explicit attribution 'August. 15. de Trin. 13.'; opening clause paraphrased, range approximated"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l15-d1e1845, already encoded"
+      }
+    ]
+  },
+  "dcn2br-e33563": {
+    "dcn2br-e33563-d1e320": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e34252": {
+    "dcn2br-e34252-d1e524": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared Wisdom 11:21 quotation ('omnia in mensura et numero et pondere'), attributed to 'Sapiens'/Wisdom not de Trinitate"
+      }
+    ],
+    "dcn2br-e34252-d1e1113": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 38,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e36437": {
+    "dcn2br-e36437-d1e511": [
+      {
+        "candidate_id": "adt-l10-d1e1150",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e37120": {
+    "dcn2br-e37120-d1e841": [
+      {
+        "candidate_id": "adt-l3-d1e473",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e37120-d1e944": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e39949": {
+    "dcn2br-e39949-d1e257": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e39949-d1e438": [
+      {
+        "candidate_id": "adt-l4-d1e615",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e39949-d1e1372": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e41672": {
+    "dcn2br-e41672-d1e268": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e41672-d1e427": [
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 15,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1495",
+        "intersectionCount": 15,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e513",
+        "intersectionCount": 15,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1466",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e41672-d1e884": [
+      {
+        "candidate_id": "adt-l12-d1e1344",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared Rom 7:24-25 quotation, ms explicitly cites 'ad Roman. 7.'"
+      }
+    ]
+  },
+  "dcn2br-e42489": {
+    "dcn2br-e42489-d1e204": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e42741": {
+    "dcn2br-e42741-d1e162": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e42741-d1e205": [
+      {
+        "candidate_id": "adt-l9-d1e1084",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e42741-d1e341": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e43119": {
+    "dcn2br-e43119-d1e207": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43119-d1e257": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43119-d1e412": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43119-d1e471": [
+      {
+        "candidate_id": "adt-l15-d1e1807",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43119-d1e810": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e43900": {
+    "dcn2br-e43900-d1e1344": [
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e1526": [
+      {
+        "candidate_id": "adt-l10-d1e1150",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e2626": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e3483": [
+      {
+        "candidate_id": "adt-l1-d1e125",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e163",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e3870": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 20,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e3966": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e4898": [
+      {
+        "candidate_id": "adt-l12-d1e1315",
+        "intersectionCount": 14,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e43900-d1e5167": [
+      {
+        "candidate_id": "adt-l1-d1e116",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e68",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e49001": {
+    "dcn2br-e49001-d1e761": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e50304": {
+    "dcn2br-e50304-d1e201": [
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50304-d1e230": [
+      {
+        "candidate_id": "adt-l12-d1e1344",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50304-d1e256": [
+      {
+        "candidate_id": "adt-l12-d1e1344",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50304-d1e269": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50304-d1e460": [
+      {
+        "candidate_id": "adt-l15-d1e1918",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "attribution established in preceding paragraph ('Aug. 15. De Trin. 17. 10. & 20.'); 'illo vicessimo' = chapter 20"
+      }
+    ],
+    "dcn2br-e50304-d1e579": [
+      {
+        "candidate_id": "adt-l15-d1e1877",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit attribution 'sicut verba sua praemissa testantur'"
+      }
+    ]
+  },
+  "dcn2br-e50729": {
+    "dcn2br-e50729-d1e457": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e968",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e1398": [
+      {
+        "candidate_id": "adt-l14-d1e1621",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e1541": [
+      {
+        "candidate_id": "adt-l15-d1e1899",
+        "intersectionCount": 24,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e513",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e1639": [
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e1853": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e1951": [
+      {
+        "candidate_id": "adt-l2-d1e337",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e2268": [
+      {
+        "candidate_id": "adt-l4-d1e529",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e2837": [
+      {
+        "candidate_id": "adt-l4-d1e555",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e2958": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e337",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e3232": [
+      {
+        "candidate_id": "adt-l1-d1e55",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e4188": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e50729-d1e5490": [
+      {
+        "candidate_id": "adt-l13-d1e1482",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e57286": {
+    "dcn2br-e57286-d1e228": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared Wisdom 11:21 quotation ('omnia in mensura et numero et pondere'), attributed to 'Sapiens'/Wisdom not de Trinitate"
+      }
+    ],
+    "dcn2br-e57286-d1e984": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e57286-d1e1008": [
+      {
+        "candidate_id": "adt-l15-d1e1908",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'August. De praedest. Sanct. 13.', not de Trinitate; shared 1 Cor 12:11 quotation"
+      },
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'August. De praedest. Sanct. 13.', not de Trinitate; shared 1 Cor 12:11 quotation"
+      }
+    ]
+  },
+  "dcn2br-e58382": {
+    "dcn2br-e58382-d1e281": [
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e58382-d1e341": [
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e58382-d1e361": [
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 19,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e523",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e59271": {
+    "dcn2br-e59271-d1e410": [
+      {
+        "candidate_id": "adt-l13-d1e1419",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "explicit attribution 'supra eiusdem 3.'"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit attribution '13. de Trin. 5.'"
+      }
+    ]
+  },
+  "dcn2br-e59863": {
+    "dcn2br-e59863-d1e718": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e59863-d1e2138": [
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e62893": {
+    "dcn2br-e62893-d1e278": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e62893-d1e395": [
+      {
+        "candidate_id": "adt-l12-d1e1350",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e62893-d1e573": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e63589": {
+    "dcn2br-e63589-d1e745": [
+      {
+        "candidate_id": "adt-l12-d1e1344",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e63589-d1e769": [
+      {
+        "candidate_id": "adt-l12-d1e1344",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e63589-d1e860": [
+      {
+        "candidate_id": "adt-l4-d1e589",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e63589-d1e920": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e65415": {
+    "dcn2br-e65415-d1e183": [
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e65415-d1e512": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e65415-d1e538": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e67210": {
+    "dcn2br-e67210-d1e137": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e67210-d1e251": [
+      {
+        "candidate_id": "adt-l10-d1e1150",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e68003": {
+    "dcn2br-e68003-d1e127": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e68003-d1e470": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e68003-d1e507": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e68873": {
+    "dcn2br-e68873-d1e385": [
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e70014": {
+    "dcn2br-e70014-d1e288": [
+      {
+        "candidate_id": "adt-l2-d1e324",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e70263": {
+    "dcn2br-e70263-d1e700": [
+      {
+        "candidate_id": "adt-l11-d1e1222",
+        "intersectionCount": 59,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus II. de Trinitate 2.'"
+      }
+    ],
+    "dcn2br-e70263-d1e1395": [
+      {
+        "candidate_id": "adt-l1-d1e169",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e823",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e621",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e71466": {
+    "dcn2br-e71466-d1e353": [
+      {
+        "candidate_id": "adt-l4-d1e555",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e71725": {
+    "dcn2br-e71725-d1e698": [
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e637",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e71725-d1e861": [
+      {
+        "candidate_id": "adt-l4-d1e615",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e71725-d1e976": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e71725-d1e1104": [
+      {
+        "candidate_id": "adt-l3-d1e435",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e71725-d1e1401": [
+      {
+        "candidate_id": "adt-l15-d1e1807",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e71725-d1e1795": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e74300": {
+    "dcn2br-e74300-d1e198": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e74300-d1e247": [
+      {
+        "candidate_id": "adt-l13-d1e1435",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "explicit attribution 'beatus Augustinus 13. de Trinitate 7.'"
+      }
+    ],
+    "dcn2br-e74300-d1e335": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e74300-d1e473": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e74300-d1e535": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e75312": {
+    "dcn2br-e75312-d1e408": [
+      {
+        "candidate_id": "adt-l15-d1e1902",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1908",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e750",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e75312-d1e526": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Augustinus de gratia & libero arbitrio 39', not de Trinitate; shared 1 Jn 4:7 quotation"
+      },
+      {
+        "candidate_id": "adt-l8-d1e1006",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Augustinus de gratia & libero arbitrio 39', not de Trinitate; shared 1 Jn 4:7 quotation"
+      }
+    ],
+    "dcn2br-e75312-d1e691": [
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e75312-d1e761": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e76634": {
+    "dcn2br-e76634-d1e623": [
+      {
+        "candidate_id": "adt-l1-d1e141",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e719": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e891": [
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e952": [
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e1031": [
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e1099": [
+      {
+        "candidate_id": "adt-l1-d1e141",
+        "intersectionCount": 14,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e1212": [
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e1353": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e1939": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e2134": [
+      {
+        "candidate_id": "adt-l1-d1e135",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e76634-d1e2180": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e80829": {
+    "dcn2br-e80829-d1e125": [
+      {
+        "candidate_id": "adt-l15-d1e1750",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Augustinus super illud Psalmi. 148.', not de Trinitate; shared Rom 1:20 phrase"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1921",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Augustinus super illud Psalmi. 148.', not de Trinitate; shared Rom 1:20 phrase"
+      }
+    ],
+    "dcn2br-e80829-d1e1370": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e80829-d1e1685": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e82442": {
+    "dcn2br-e82442-d1e494": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e82885": {
+    "dcn2br-e82885-d1e762": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 explicitly attributed to 'Augustinus super Psalmum 70', not de Trinitate; shared Rom 8:28 quotation"
+      }
+    ]
+  },
+  "dcn2br-e86449": {
+    "dcn2br-e86449-d1e365": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e88464": {
+    "dcn2br-e88464-d1e488": [
+      {
+        "candidate_id": "adt-l14-d1e460",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e88464-d1e647": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e91091": {
+    "dcn2br-e91091-d1e127": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared John 1 prologue text; ms attributes to Beda/Aug. super Gen./Aug. super Ioh. homilia, not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared John 1 prologue text; ms attributes to Beda/Aug. super Gen./Aug. super Ioh. homilia, not de Trinitate"
+      }
+    ],
+    "dcn2br-e91091-d1e178": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared John 1 prologue text; ms attributes to Beda/Aug. super Gen./Aug. super Ioh. homilia, not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 shared John 1 prologue text; ms attributes to Beda/Aug. super Gen./Aug. super Ioh. homilia, not de Trinitate"
+      }
+    ]
+  },
+  "dcn2br-e92330": {
+    "dcn2br-e92330-d1e381": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e92330-d1e485": [
+      {
+        "candidate_id": "adt-l13-d1e1435",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit attribution 'dicente Augustino 13. de Trinit. 7.'"
+      }
+    ]
+  },
+  "dcn2br-e92746": {
+    "dcn2br-e92746-d1e164": [
+      {
+        "candidate_id": "adt-l14-d1e1662",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1659",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e92907": {
+    "dcn2br-e92907-d1e648": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1672",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e92907-d1e716": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e92907-d1e863": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e92907-d1e1373": [
+      {
+        "candidate_id": "adt-l14-d1e1529",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e94408": {
+    "dcn2br-e94408-d1e1047": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e95674": {
+    "dcn2br-e95674-d1e116": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e95674-d1e1098": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e95674-d1e1754": [
+      {
+        "candidate_id": "adt-l15-d1e1693",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e95674-d1e1789": [
+      {
+        "candidate_id": "adt-l1-d1e17",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e98222": {
+    "dcn2br-e98222-d1e850": [
+      {
+        "candidate_id": "adt-l5-d1e693",
+        "intersectionCount": 38,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 51,
+        "status": "encoded",
+        "note": "verbatim quote within larger Augustine 5.de Trinit paraphrase, marked as 'quare finaliter sic concludit'"
+      },
+      {
+        "candidate_id": "adt-l5-d1e690",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l5-d1e763",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l5-d1e696",
+        "intersectionCount": 85,
+        "status": "encoded"
+      }
+    ],
+    "dcn2br-e98222-d1e1539": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 99,
+        "status": "encoded"
+      }
+    ]
+  },
+  "dcn2br-e99628": {
+    "dcn2br-e99628-d1e161": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 22,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e00061": {
+    "dcn2br-e00061-d1e198": [
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e125",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1978",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e00410": {
+    "dcn2br-e00410-d1e127": [
+      {
+        "candidate_id": "adt-l13-d1e1435",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "explicit attribution 'Et infra 7.'"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1428",
+        "intersectionCount": 25,
+        "status": "encoded",
+        "note": "explicit attribution '13. de Trinit. 5.'"
+      }
+    ],
+    "dcn2br-e00410-d1e330": [
+      {
+        "candidate_id": "adt-l13-d1e1435",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "explicit attribution 'Idem 13. de Trinit. loquens de beatitudine finali sic ait'"
+      }
+    ],
+    "dcn2br-e00410-d1e491": [
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e00887": {
+    "dcn2br-e00887-d1e324": [
+      {
+        "candidate_id": "adt-l15-d1e1858",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l15-d1e1845, already encoded"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 43,
+        "status": "encoded",
+        "note": "explicit attribution 'Et 15. de Trinit. 13.'"
+      }
+    ]
+  },
+  "dcn2br-e01505": {
+    "dcn2br-e01505-d1e187": [
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e384": [
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 72,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 15. de Trinit. 16.'"
+      }
+    ],
+    "dcn2br-e01505-d1e583": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e614": [
+      {
+        "candidate_id": "adt-l1-d1e169",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e621",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e951": [
+      {
+        "candidate_id": "adt-l14-d1e1672",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 22,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1772",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e526",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e1006",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e103",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e324",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e631",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1091": [
+      {
+        "candidate_id": "adt-l2-d1e324",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1672",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1130": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1195": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1798",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e318",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e845",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e103",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e631",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1744": [
+      {
+        "candidate_id": "adt-l2-d1e321",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e315",
+        "intersectionCount": 13,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e318",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1816": [
+      {
+        "candidate_id": "adt-l2-d1e318",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1798",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e845",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1897": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e315",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e01505-d1e1970": [
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e103",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e631",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e03507": {
+    "dcn2br-e03507-d1e352": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e03873": {
+    "dcn2br-e03873-d1e322": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ]
+  },
+  "dcn2br-e04242": {
+    "dcn2br-e04242-d1e208": [
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e97",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e04680": {
+    "dcn2br-e04680-d1e265": [
+      {
+        "candidate_id": "adt-l13-d1e1466",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l4-d1e513",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e04680-d1e300": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 32,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1855",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e04680-d1e791": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e04680-d1e887": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e04680-d1e974": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e06444": {
+    "dcn2br-e06444-d1e1080": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e06444-d1e1655": [
+      {
+        "candidate_id": "adt-l15-d1e1915",
+        "intersectionCount": 47,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e06444-d1e2007": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e06444-d1e2407": [
+      {
+        "candidate_id": "adt-l13-d1e1504",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e08670": {
+    "dcn2br-e08670-d1e787": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "dcn2br-e09386": {
+    "dcn2br-e09386-d1e874": [
+      {
+        "candidate_id": "adt-l2-d1e273",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e343",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e09386-d1e2156": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e09386-d1e2224": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 15. de Trinitate 13.'"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "no genuine match for this candidate in paragraph"
+      }
+    ],
+    "dcn2br-e09386-d1e2360": [
+      {
+        "candidate_id": "adt-l15-d1e1813",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded; shared 'per quod facta sunt omnia' (Jn 1:3) phrase"
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded; shared 'per quod facta sunt omnia' (Jn 1:3) phrase"
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 actual source is adt-l4-d1e517, already encoded; shared 'per quod facta sunt omnia' (Jn 1:3) phrase"
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 64,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 4. de Trinitat. 1.'"
+      }
+    ],
+    "dcn2br-e09386-d1e2649": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e09386-d1e2674": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 12,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e09386-d1e2718": [
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "dcn2br-e09386-d1e5282": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 5. de Trinitate vlt.'"
+      }
+    ],
+    "dcn2br-e09386-d1e5540": [
+      {
+        "candidate_id": "adt-l3-d1e381",
+        "intersectionCount": 38,
+        "status": "encoded",
+        "note": "explicit attribution 'Augustinus 3. de Trinit. 2.'"
+      }
+    ]
+  }
+}
