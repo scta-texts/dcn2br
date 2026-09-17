@@ -182,20 +182,20 @@
           ad<lb ed="#L" n="9" break="no"/>hanc partem Senecam, Homerum, &amp; Stoicos allegantem: Allegat enim a Seneca istos 
           <lb ed="#L" n="10"/>versus; 
           <lb ed="#L" n="11"/>
-          <quote xml:id="dcn2br-e36060-Qd1e298">Duc me summe Pater, altique poli dominator, 
+          <quote xml:id="dcn2br-e36060-Qd1e298" source="http://scta.info/resource/adcd-l5-d1e689@102-124 http://scta.info/resource/adcd-l5-d1e696@1-5">Duc me summe Pater, altique poli dominator,
             <lb ed="#L" n="12"/>Quocunque placuit; nulla parendi mora est. 
             <lb ed="#L" n="13"/>Assum impiger, fac nolle, comitabor gemens, 
             <lb ed="#L" n="14"/>Malusque patiar facere quod licuit bono
             <lb ed="#L" n="15"/>Ducunt volentem fata, nolentem trahunt:</quote> 
           <lb ed="#L" n="16"/>Ab Homero autem allegat hos versos, quos Cicero vertit in Latinum: 
           <lb ed="#L" n="17"/>
-          <quote xml:id="dcn2br-e36060-Qd1e313">Tales sunt hominum mentes, quali Pater ipse 
+          <quote xml:id="dcn2br-e36060-Qd1e313" source="http://scta.info/resource/adcd-l5-d1e696@18-29">Tales sunt hominum mentes, quali Pater ipse
             <lb ed="#L" n="18"/>Iupiter antiferas lustrauit lumine terras.</quote>
         </p>
         <p xml:id="dcn2br-e36060-d1e350">
-          <lb ed="#L" n="19"/>Dicitque Augustinus, quod per hos versus quos Stoici allegant pro opinione sua de Fato, 
-          <lb ed="#L" n="20"/>apertissime declaratur, quid sentiant esse Fatum, quoniam Iouem appellant, quem 
-          sum<lb ed="#L" n="21" break="no"/>mum Deum putant, a quo connexionem dicunt pendere Fatorum. Vnde videtur quod 
+          <lb ed="#L" n="19"/><quote source="http://scta.info/resource/adcd-l5-d1e696@61-90">Dicitque Augustinus, quod per hos versus quos Stoici allegant pro opinione sua de Fato,
+          <lb ed="#L" n="20"/>apertissime declaratur, quid sentiant esse Fatum, quoniam Iouem appellant, quem
+          sum<lb ed="#L" n="21" break="no"/>mum Deum putant, a quo connexionem dicunt pendere Fatorum.</quote> Vnde videtur quod
           Ari<lb ed="#L" n="22" break="no"/>stoteles 2. de Anima 148. iniuste reprehendit Homerum, imponens sibi, quod ipse opinatur 
           <lb ed="#L" n="23"/>intelligere esse corporeum, vt sentire, quia dixit vt recitat, quod talis intellectus est in terrenis 
           <lb ed="#L" n="24"/>hominibus, qualem ducit in die Pater virorum deorumque. Non enim per Patrem 
@@ -265,23 +265,23 @@
         </p>
         <p xml:id="dcn2br-e36060-d1e485">
           Quod &amp; 
-          <lb ed="#L" n="14"/>patet 5. de Ciuitat. Dei 6. &amp; 9. vbi dicit Augustinus; Non est autem consequens vt si Deo 
-          <lb ed="#L" n="15"/>certus est omnium ordo causarum, ideo nihil sit in nostrae voluntatis arbitrio; &amp; ipsae quippe 
-          <lb ed="#L" n="16"/>nostrae voluntates in causarum ordine sunt, qui certus est Deo, eiusque praesentia continetur; 
-          <lb ed="#L" n="17"/>quoniam &amp; humanae voluntates humanorum operum causae sunt. Atque ita qui omnes 
-          re<lb ed="#L" n="18" break="no"/>rum causas praesciuit, profecto in eis causis etiam nostras voluntates ignorare non potuit, 
-          <lb ed="#L" n="19"/>quas nostrorum operum causas esse praesciuit: Qui &amp; infra, distinctis tribus speciebus 
-          gene<lb ed="#L" n="20" break="no"/>ribusue causarum, per fortuitum, naturale, &amp; voluntarium, &amp; iterum per causam quae facit, 
-          <lb ed="#L" n="21"/>&amp; non fit; quae facit &amp; fit, &amp; quae sit magis quam facit; &amp; his omnibus speciebus ad 
-          volunta<lb ed="#L" n="22" break="no"/>tem diuinam reductis, subiungit: Quomodo igitur ordo causarum, qui praescienti certus est, 
-          <lb ed="#L" n="23"/>Deo id efficit, vt nihil sit in nostra voluntate, cum in ipso causarum ordine magnum habeant  
-          <lb ed="#L" n="24"/>locum nostrae voluntates. Contendat ergo Cicero cum eis qui hunc ordinem causarum 
-          di<lb ed="#L" n="25" break="no"/>cunt esse fatalem, vel potius ipsum Fati nomine appellant, quod nos abhorremus praecipue 
-          <lb ed="#L" n="26"/>propter vocabulum, quod non in re vera consueuit intelligi. Quod vero negat ordinem 
-          om<lb ed="#L" n="27" break="no"/>nium causarum esse certissimum &amp; Dei praescientiae notissimum, plus nos quam Stoici 
-          dete<lb ed="#L" n="28" break="no"/>stamur. Quapropter &amp; voluntates nostrae tantum valent, quantum Deus eas valere voluit,  
-          <lb ed="#L" n="29"/>atque praesciuit, &amp; ideo quicquid valent certissime valent, &amp; quod facturae sunt, ipsae omnino 
-          <lb ed="#L" n="30"/>facturae sunt, quia valituras ac facturas ille praesciuit, cuius praescientia falli non potest; quod  
+          <lb ed="#L" n="14"/>patet 5. de Ciuitat. Dei 6. &amp; 9. vbi dicit Augustinus; <quote source="http://scta.info/resource/adcd-l5-d1e705@171-236">Non est autem consequens vt si Deo
+          <lb ed="#L" n="15"/>certus est omnium ordo causarum, ideo nihil sit in nostrae voluntatis arbitrio; &amp; ipsae quippe
+          <lb ed="#L" n="16"/>nostrae voluntates in causarum ordine sunt, qui certus est Deo, eiusque praesentia continetur;
+          <lb ed="#L" n="17"/>quoniam &amp; humanae voluntates humanorum operum causae sunt. Atque ita qui omnes
+          re<lb ed="#L" n="18" break="no"/>rum causas praesciuit, profecto in eis causis etiam nostras voluntates ignorare non potuit,
+          <lb ed="#L" n="19"/>quas nostrorum operum causas esse praesciuit:</quote> Qui &amp; infra, distinctis tribus speciebus
+          gene<lb ed="#L" n="20" break="no"/>ribusue causarum, per fortuitum, naturale, &amp; voluntarium, &amp; iterum per causam quae facit,
+          <lb ed="#L" n="21"/>&amp; non fit; quae facit &amp; fit, &amp; quae sit magis quam facit; &amp; his omnibus speciebus ad
+          volunta<lb ed="#L" n="22" break="no"/>tem diuinam reductis, subiungit: <quote source="http://scta.info/resource/adcd-l5-d1e708@356-523">Quomodo igitur ordo causarum, qui praescienti certus est,
+          <lb ed="#L" n="23"/>Deo id efficit, vt nihil sit in nostra voluntate, cum in ipso causarum ordine magnum habeant
+          <lb ed="#L" n="24"/>locum nostrae voluntates. Contendat ergo Cicero cum eis qui hunc ordinem causarum
+          di<lb ed="#L" n="25" break="no"/>cunt esse fatalem, vel potius ipsum Fati nomine appellant, quod nos abhorremus praecipue
+          <lb ed="#L" n="26"/>propter vocabulum, quod non in re vera consueuit intelligi. Quod vero negat ordinem
+          om<lb ed="#L" n="27" break="no"/>nium causarum esse certissimum &amp; Dei praescientiae notissimum, plus nos quam Stoici
+          dete<lb ed="#L" n="28" break="no"/>stamur. Quapropter &amp; voluntates nostrae tantum valent, quantum Deus eas valere voluit,
+          <lb ed="#L" n="29"/>atque praesciuit, &amp; ideo quicquid valent certissime valent, &amp; quod facturae sunt, ipsae omnino
+          <lb ed="#L" n="30"/>facturae sunt, quia valituras ac facturas ille praesciuit, cuius praescientia falli non potest;</quote> quod
           <lb ed="#L" n="31"/>etiam capit. 10 expressius manifestat:
         </p>
         <p xml:id="dcn2br-e36060-d1e527">
