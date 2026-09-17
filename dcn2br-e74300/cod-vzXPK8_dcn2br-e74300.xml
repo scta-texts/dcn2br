@@ -90,7 +90,7 @@
         <p xml:id="dcn2br-e74300-d1e159">
           Et per istud idem argumentum probat Augustinus eandem  
           <lb ed="#L" n="18"/>conclusionem de Angelis 12. de ciuitate Dei 9. vbi probato quod malae voluntatis malorum  
-          <lb ed="#L" n="19"/>Angelorum nulla fuit causa efficiens, sic adiungit, <quote source="http://scta.info/resource/adcd-l12-d1e1705@43-320">Si dixerimus nullam esse efficientem
+          <lb ed="#L" n="19"/>Angelorum nulla fuit causa efficiens, sic adiungit, <quote xml:id="dcn2br-e74300-Qd1e165" source="http://scta.info/resource/adcd-l12-d1e1705@43-320">Si dixerimus nullam esse efficientem
           cau<lb ed="#L" n="20" break="no"/>sam etiam voluntatis bonae, cauendum est, ne voluntas bona bonorum Angelorum non
           fa<lb ed="#L" n="21" break="no"/>cta, sed Deo coaeterna esse credatur. Cum ergo ipsi facti sint, quomodo illa non esse facta
           <lb ed="#L" n="22"/>dicetur? Porro quia facta est, vtrum cum ipsis facta est, an sine illa fuerunt prius Sed si cum
@@ -103,7 +103,7 @@
           adhaeren<lb ed="#L" n="29" break="no"/>tes magis essent, eiusque participatione sapienter beateque viuerent; quid aliud ostenditur,
           ni<lb ed="#L" n="30" break="no"/>si voluntatem quamlibet bonam inopem fuisse in solo desiderio remansuram, nisi ille qui
           bo<lb ed="#L" n="31" break="no"/>nam naturam ex nihilo sui capacem fecerat, ex seipso faceret implendo meliorem, prius
-          faci<lb ed="#L" n="32" break="no"/>endo, excitando auidiorem?</quote> <quote source="http://scta.info/resource/adcd-l12-d1e1708@171-204">Confitendum est ergo cum debita laude Creatoris, non ad solos
+          faci<lb ed="#L" n="32" break="no"/>endo, excitando auidiorem?</quote> <quote xml:id="dcn2br-e74300-Qd1e196" source="http://scta.info/resource/adcd-l12-d1e1708@171-204">Confitendum est ergo cum debita laude Creatoris, non ad solos
           <lb ed="#L" n="33"/>sanctos homines pertinere, verumetiam de sanctis Angelis posse dici, quod charitas diffusa sit
           <lb ed="#L" n="34"/>in eis per spiritum sanctum, qui datus est eis.</quote>
         </p>
@@ -137,7 +137,7 @@
           Vnde beatus Augustinus 13. de Trinitate 7. loquens de finali beatitudine ita 
           <!--594.xml-->
           <pb ed="#L" n="561"/>
-          <lb ed="#L" n="1"/>dicit; <quote source="http://scta.info/resource/adt-l13-d1e1435@97-132">Quicquid amabitur aderit, nec desiderabitur quod non aderit; omne quod ibi // erit
+          <lb ed="#L" n="1"/>dicit; <quote xml:id="dcn2br-e74300-Qd1e267" source="http://scta.info/resource/adt-l13-d1e1435@97-132">Quicquid amabitur aderit, nec desiderabitur quod non aderit; omne quod ibi // erit
           <lb ed="#L" n="2"/>bonum erit, &amp; summum bonum Deus ipse erit, &amp; se amantibus praesto ibi erit, &amp; quod est
           om<lb ed="#L" n="3" break="no"/>nino beatissimum, ita semper fore certum erit;</quote>
         </p>

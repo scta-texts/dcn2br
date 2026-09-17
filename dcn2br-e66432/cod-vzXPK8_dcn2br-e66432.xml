@@ -191,7 +191,7 @@
           </p>
         <p xml:id="dcn2br-e66432-d1e369">
           di<lb ed="#L" n="15" break="no"/>cat Augustinus I4. de Ciuitate Dei, penult. sicut capitulum proximum allegauit, quod
-          pri<lb ed="#L" n="16" break="no"/><quote source="http://scta.info/resource/adcd-l14-d1e2139@79-111">mus homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum Angelum
+          pri<lb ed="#L" n="16" break="no"/><quote xml:id="dcn2br-e66432-Qd1e377" source="http://scta.info/resource/adcd-l14-d1e2139@79-111">mus homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum Angelum
           <lb ed="#L" n="17"/>vinceret, meritum bonum habens in adiuta diuinitus voluntate recta.</quote>
         </p>
         <p xml:id="dcn2br-e66432-d1e379">
@@ -476,7 +476,7 @@
         </p>
         <p xml:id="dcn2br-e66432-d1e929">
           Hoc idem eiusdem testatur Autoritas 14. de Ciuit. Dei penult. cap. proximo allegata; 
-          <lb ed="#L" n="12"/><quote source="http://scta.info/resource/adcd-l14-d1e2139@79-131">Primus, inquit, homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum
+          <lb ed="#L" n="12"/><quote xml:id="dcn2br-e66432-Qd1e946" source="http://scta.info/resource/adcd-l14-d1e2139@79-131">Primus, inquit, homo sic erat institutus, vt si de adiutorio Dei fideret, bonus homo malum
           <lb ed="#L" n="13"/>Angelum vinceret, meritum bonum habens in adiuta diuinitus voluntate recta; quia &amp;
           ip<lb ed="#L" n="14" break="no"/>sum fidere de adiutorio Dei non quidem posset sine adiutorio Dei.</quote> Patet ergo, quod licet
           pri<lb ed="#L" n="15" break="no"/>mus homo ante peccatum potuit perseuerasse, si voluisset, tamen sine Dei auxilio non potuit 

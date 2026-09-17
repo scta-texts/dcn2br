@@ -134,7 +134,7 @@
           <lb ed="#L" n="21"/>posset bene.
         </p>
         <p xml:id="dcn2br-e39305-d1e243">
-          Idem 22. de Ciuit. Dei 4. <quote source="http://scta.info/resource/adcd-l22-d1e3688@1-35">Multa fiunt a malis contra voluntatem Dei: sed tantae est
+          Idem 22. de Ciuit. Dei 4. <quote xml:id="dcn2br-e39305-Qd1e245" source="http://scta.info/resource/adcd-l22-d1e3688@1-35">Multa fiunt a malis contra voluntatem Dei: sed tantae est
           <lb ed="#L" n="22"/>ille sapientiae, tantaeque virtutis, vt in eos exitus siue fines, quos bonos &amp; iustos ipse praesciuit,
           <lb ed="#L" n="23"/>tendant omnia, quae voluntati eius videntur aduersa.</quote>
         </p>

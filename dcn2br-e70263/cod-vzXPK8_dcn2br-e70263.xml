@@ -359,7 +359,7 @@
         </p>
         <p xml:id="dcn2br-e70263-d1e700">
           Vnde &amp; Augustinus II. de 
-          Trini<lb ed="#L" n="16" break="no"/>tate 2. <quote source="http://scta.info/resource/adt-l11-d1e1222@12-98">Aliorum, inquit, animalium, quia non est ad conuersationem facilis corpulentia
+          Trini<lb ed="#L" n="16" break="no"/>tate 2. <quote xml:id="dcn2br-e70263-Qd1e707" source="http://scta.info/resource/adt-l11-d1e1222@12-98">Aliorum, inquit, animalium, quia non est ad conuersationem facilis corpulentia
           foe<lb ed="#L" n="17" break="no"/>tus, pluriumque produnt libidines matrum // quid cum magna delectatione conspexerint;
           <lb ed="#L" n="18"/>quam enim teneriora, atque vt ita dixerim, formabiliora sunt primordia seminum, tam
           effica<lb ed="#L" n="19" break="no"/>citer &amp; capaciter sequuntur intentionem maternae animae, &amp; quae in ea facta est phantasia per
@@ -408,7 +408,7 @@
           Adhuc autem &amp; Auicenna 7. de Animalibus vlt. refert de quodam 
           <lb ed="#L" n="48"/>homine, qui tempore Auicennae erat in terra Vassaciae, quod potuit paraliticare corpus suum 
           <lb ed="#L" n="49"/>quando voluit, cuius filium &amp; vidit, vt dicit, multa mirabilia facientem. Beatus quoque 
-          <lb ed="#L" n="50"/>Augustinus 14. de Ciuit. Dei 24. refert quod <quote source="http://scta.info/resource/adcd-l14-d1e2123@142-222">quidam presbiter nomine Restitutus in
+          <lb ed="#L" n="50"/>Augustinus 14. de Ciuit. Dei 24. refert quod <quote xml:id="dcn2br-e70263-Qd1e796" source="http://scta.info/resource/adcd-l14-d1e2123@142-222">quidam presbiter nomine Restitutus in
           paro<lb ed="#L" n="51" break="no"/>chia Calamensis Ecclesiae quando ei placebat, rogatus ab eis qui scire rem mirabilem cupie
           <lb ed="#L" n="52"/>bant, ita se auferebat a sensibus, &amp; iacebat simillimus mortuo, vt non solum vellicantes at
           <lb ed="#L" n="53"/>que pungentes minime sentiret, sed aliquando etiam igne vreretur admoto, sine vllo doloris
@@ -653,9 +653,9 @@
           <lb ed="#L" n="8"/>causatum, &amp; intelligendo de motu secundum substantiam, non secundum deformitatem, 
           <lb ed="#L" n="9"/>Actus ergo voluntatis secundum suam substantiam habet Deum causam efficientem, &amp; est 
           ali<lb ed="#L" n="10" break="no"/>quid; secundum deformitatem suam, quae nullam habet essentiam, sed tantum priuationem 
-          <lb ed="#L" n="11"/>essentiae, minime. Vnde &amp; cap. 8. // Augustinus sic dicit; <quote source="http://scta.info/resource/adcd-l12-d1e1698@1-19">Nemo quaerat causam efficientem
+          <lb ed="#L" n="11"/>essentiae, minime. Vnde &amp; cap. 8. // Augustinus sic dicit; <quote xml:id="dcn2br-e70263-Qd1e1289" source="http://scta.info/resource/adcd-l12-d1e1698@1-19">Nemo quaerat causam efficientem
           <lb ed="#L" n="12"/>malae voluntatis: Non enim est efficiens, sed deficiens, quia nec illa affectio, sed defectio est.</quote>
-          <lb ed="#L" n="13"/><quote source="http://scta.info/resource/adcd-l12-d1e1701@1-53">Scio naturam Dei ex nulla parte posse deficere, &amp; ea posse deficere quae ex nihilo facta sunt,
+          <lb ed="#L" n="13"/><quote xml:id="dcn2br-e70263-Qd1e1296" source="http://scta.info/resource/adcd-l12-d1e1701@1-53">Scio naturam Dei ex nulla parte posse deficere, &amp; ea posse deficere quae ex nihilo facta sunt,
           <lb ed="#L" n="14"/>quae tamen quanto magis sunt, &amp; bona faciunt, (tunc enim aliquid faciunt) causas habent
           ef<lb ed="#L" n="15" break="no"/>ficientes, in quantum autem deficiunt, &amp; ex hoc male faciunt, (quid enim tunc faciunt nisi
           <lb ed="#L" n="16"/>vana) causas habent deficientes.</quote>

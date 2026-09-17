@@ -458,7 +458,7 @@
           <lb ed="#L" n="20"/>habere non possent.
         </p>
         <p xml:id="dcn2br-e43900-d1e945">
-          Idem 12. de Ciuit. Dei, 9. probat, quod <quote source="http://scta.info/resource/adcd-l12-d1e1705@158-256">si boni Angeli fuerunt prius
+          Idem 12. de Ciuit. Dei, 9. probat, quod <quote xml:id="dcn2br-e43900-Qd1e968" source="http://scta.info/resource/adcd-l12-d1e1705@158-256">si boni Angeli fuerunt prius
           <lb ed="#L" n="21"/>sine bona voluntate, non potuerunt eam habere ex se; quia si eam ipsi, Deo non operante,
           <lb ed="#L" n="22"/>fecerunt, meliores a seipsis, quam ab illo facti sunt; quod absit: &amp; si non potuerunt seipsos
           <lb ed="#L" n="23"/>facere meliores, quam cos ille fecerat, quo nemo melius quicquam facit; profecto &amp; bonam

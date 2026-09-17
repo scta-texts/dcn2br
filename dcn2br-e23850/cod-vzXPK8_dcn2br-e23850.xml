@@ -108,7 +108,7 @@
         </p>
         <p xml:id="dcn2br-e23850-d1e202">
           Item
-          <lb ed="#L" n="39"/>Augustinus 22. de Ciuit. Dei 20. allegat a Cicerone talem definitionem Dei, <quote source="http://scta.info/resource/adcd-l22-d1e3748@66-92">Deus est mens
+          <lb ed="#L" n="39"/>Augustinus 22. de Ciuit. Dei 20. allegat a Cicerone talem definitionem Dei, <quote xml:id="dcn2br-e23850-Qd1e206" source="http://scta.info/resource/adcd-l22-d1e3748@66-92">Deus est mens
           <lb ed="#L" n="40"/>quaedam soluta et libera, secreta ab omni concretione mortali, omnia sentiens &amp; mouens,
           ip<lb ed="#L" n="41" break="no"/>saque praedita nutu sempiterno, et hoc reperit in libris magnorum Philosophorum</quote> vt dicit,
           <lb ed="#L" n="42"/>Item Deus est prima causa in genere causarum mouentium, sicut formalium, et finalium, sicut  

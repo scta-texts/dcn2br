@@ -358,8 +358,8 @@
           <lb ed="#L" n="5"/>libro primo, part. quarta, capite primo.
         </p>
         <p xml:id="dcn2br-e29500-d1e640">
-          Item Augustinus I5. de Ciuitate Dei, decimoter. <quote source="http://scta.info/resource/adt-l15-d1e1839@106-115">Ad
-          <lb ed="#L" n="6"/>omnia quippe scienda quae scit, sufficit sibi illa perfectio:</quote> <quote source="http://scta.info/resource/adt-l15-d1e1842@66-89">vniuersas autem creaturas suas,
+          Item Augustinus I5. de Ciuitate Dei, decimoter. <quote xml:id="dcn2br-e29500-Qd1e651" source="http://scta.info/resource/adt-l15-d1e1839@106-115">Ad
+          <lb ed="#L" n="6"/>omnia quippe scienda quae scit, sufficit sibi illa perfectio:</quote> <quote xml:id="dcn2br-e29500-Qd1e656" source="http://scta.info/resource/adt-l15-d1e1842@66-89">vniuersas autem creaturas suas,
           <lb ed="#L" n="7"/>spirituales &amp; corporales, non quia sunt, ideo nouit; sed ideo sunt, quia nouit; Non enim
           <lb ed="#L" n="8"/>nesciuit, quae fuerat creaturus:</quote> &amp; <ref xml:id="dcn2br-e29500-Rff11aa" corresp="#dcn2br-e29500-Qdu28as">supra 6. capit. vlt.</ref> ita dicit, <quote xml:id="dcn2br-e29500-Qdu28as" source="http://scta.info/resource/adt-l6-d1e826@231-268">Cum decedant, &amp; succedant 
             <lb ed="#L" n="9"/>tempora, non decedit aliquid vel succedit scientiae Dei. Non enim haec quae creata sunt, ideo 

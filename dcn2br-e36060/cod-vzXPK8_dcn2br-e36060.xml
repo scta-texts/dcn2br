@@ -193,7 +193,7 @@
             <lb ed="#L" n="18"/>Iupiter antiferas lustrauit lumine terras.</quote>
         </p>
         <p xml:id="dcn2br-e36060-d1e350">
-          <lb ed="#L" n="19"/><quote source="http://scta.info/resource/adcd-l5-d1e696@61-90">Dicitque Augustinus, quod per hos versus quos Stoici allegant pro opinione sua de Fato,
+          <lb ed="#L" n="19"/><quote xml:id="dcn2br-e36060-Qd1e356" source="http://scta.info/resource/adcd-l5-d1e696@61-90">Dicitque Augustinus, quod per hos versus quos Stoici allegant pro opinione sua de Fato,
           <lb ed="#L" n="20"/>apertissime declaratur, quid sentiant esse Fatum, quoniam Iouem appellant, quem
           sum<lb ed="#L" n="21" break="no"/>mum Deum putant, a quo connexionem dicunt pendere Fatorum.</quote> Vnde videtur quod
           Ari<lb ed="#L" n="22" break="no"/>stoteles 2. de Anima 148. iniuste reprehendit Homerum, imponens sibi, quod ipse opinatur 
@@ -265,7 +265,7 @@
         </p>
         <p xml:id="dcn2br-e36060-d1e485">
           Quod &amp; 
-          <lb ed="#L" n="14"/>patet 5. de Ciuitat. Dei 6. &amp; 9. vbi dicit Augustinus; <quote source="http://scta.info/resource/adcd-l5-d1e705@171-236">Non est autem consequens vt si Deo
+          <lb ed="#L" n="14"/>patet 5. de Ciuitat. Dei 6. &amp; 9. vbi dicit Augustinus; <quote xml:id="dcn2br-e36060-Qd1e493" source="http://scta.info/resource/adcd-l5-d1e705@171-236">Non est autem consequens vt si Deo
           <lb ed="#L" n="15"/>certus est omnium ordo causarum, ideo nihil sit in nostrae voluntatis arbitrio; &amp; ipsae quippe
           <lb ed="#L" n="16"/>nostrae voluntates in causarum ordine sunt, qui certus est Deo, eiusque praesentia continetur;
           <lb ed="#L" n="17"/>quoniam &amp; humanae voluntates humanorum operum causae sunt. Atque ita qui omnes
@@ -273,7 +273,7 @@
           <lb ed="#L" n="19"/>quas nostrorum operum causas esse praesciuit:</quote> Qui &amp; infra, distinctis tribus speciebus
           gene<lb ed="#L" n="20" break="no"/>ribusue causarum, per fortuitum, naturale, &amp; voluntarium, &amp; iterum per causam quae facit,
           <lb ed="#L" n="21"/>&amp; non fit; quae facit &amp; fit, &amp; quae sit magis quam facit; &amp; his omnibus speciebus ad
-          volunta<lb ed="#L" n="22" break="no"/>tem diuinam reductis, subiungit: <quote source="http://scta.info/resource/adcd-l5-d1e708@356-523">Quomodo igitur ordo causarum, qui praescienti certus est,
+          volunta<lb ed="#L" n="22" break="no"/>tem diuinam reductis, subiungit: <quote xml:id="dcn2br-e36060-Qd1e513" source="http://scta.info/resource/adcd-l5-d1e708@356-523">Quomodo igitur ordo causarum, qui praescienti certus est,
           <lb ed="#L" n="23"/>Deo id efficit, vt nihil sit in nostra voluntate, cum in ipso causarum ordine magnum habeant
           <lb ed="#L" n="24"/>locum nostrae voluntates. Contendat ergo Cicero cum eis qui hunc ordinem causarum
           di<lb ed="#L" n="25" break="no"/>cunt esse fatalem, vel potius ipsum Fati nomine appellant, quod nos abhorremus praecipue

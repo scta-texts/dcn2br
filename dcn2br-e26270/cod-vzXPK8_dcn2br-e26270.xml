@@ -280,7 +280,7 @@
         </p>
         <p xml:id="dcn2br-e26270-d1e526">
           Item Augustinus 3.
-          <lb ed="#L" n="24"/>de Trinitate 4. Voluntas Dei in coelesti patria, in beatis spiritibus, <quote source="http://scta.info/resource/adt-l3-d1e397@64-120">tanquam in excelsa sede
+          <lb ed="#L" n="24"/>de Trinitate 4. Voluntas Dei in coelesti patria, in beatis spiritibus, <quote xml:id="dcn2br-e26270-Qd1e542" source="http://scta.info/resource/adt-l3-d1e397@64-120">tanquam in excelsa sede
           <lb ed="#L" n="25"/>residens, velut in domo sua &amp; templo; inde se// quidem ordinatissimis creaturae motibus,
           pri<lb ed="#L" n="26" break="no"/>mo spiritualibus, deinde corporalibus, per cuncta diffundit, &amp; vtitur omnibus, ad
           incom<lb ed="#L" n="27" break="no"/>mutabile arbitrium sententiae suae, siue incorporeis, siue corporeis rebus, siue

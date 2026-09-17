@@ -134,7 +134,7 @@
         </p>
         <p xml:id="dcn2br-e66271-d1e247">
           Idem quoque ad idem: 14. de Civitate Dei penult. 
-          <lb ed="#L" n="8"/>dicit ita, <quote source="http://scta.info/resource/adcd-l14-d1e2139@60-192">Cur non permitteret Deus vt a malo Angelo primus homo qui rectus, hoc est bonae
+          <lb ed="#L" n="8"/>dicit ita, <quote xml:id="dcn2br-e66271-Qd1e251" source="http://scta.info/resource/adcd-l14-d1e2139@60-192">Cur non permitteret Deus vt a malo Angelo primus homo qui rectus, hoc est bonae
           <lb ed="#L" n="9"/>voluntatis creatus fuerat, tentaretur, quando quidem sic erat institutus, vt si de adiutorio Dei
           <lb ed="#L" n="10"/>fideret bonus homo, malum Angelum vinceret; si autem creatorem atque adiutorem Deum
           <lb ed="#L" n="11"/>superbe sibi placendo desereret, vinceretur, meritum bonum habens in adiuta diuinitus
